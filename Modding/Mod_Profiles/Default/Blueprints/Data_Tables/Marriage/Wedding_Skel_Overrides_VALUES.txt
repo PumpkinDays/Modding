@@ -1,0 +1,49 @@
+{
+	"Rows": 
+	[
+		{
+			"RowName": "Black_Mask",
+			"SkelMesh": "SkeletalMesh'/Game/Character/NPCs/Black_Mask_Wedding.Black_Mask_Wedding'"
+		},
+		{
+			"RowName": "Zoey",
+			"SkelMesh": "SkeletalMesh'/Game/Character/NPCs/Zoey_Wedding.Zoey_Wedding'"
+		},
+		{
+			"RowName": "Ikaia",
+			"SkelMesh": "SkeletalMesh'/Game/Character/NPCs/Ikaia_Wedding.Ikaia_Wedding'"
+		},
+		{
+			"RowName": "Kaine",
+			"SkelMesh": "SkeletalMesh'/Game/Character/NPCs/Kaine_Wedding.Kaine_Wedding'"
+		},
+		{
+			"RowName": "Govind",
+			"SkelMesh": "SkeletalMesh'/Game/Character/NPCs/Govind_Wedding.Govind_Wedding'"
+		},
+		{
+			"RowName": "Kishan",
+			"SkelMesh": "SkeletalMesh'/Game/Character/NPCs/Kishan_Wedding.Kishan_Wedding'"
+		},
+		{
+			"RowName": "Tanya",
+			"SkelMesh": "SkeletalMesh'/Game/Character/NPCs/Tanya_Wedding.Tanya_Wedding'"
+		},
+		{
+			"RowName": "Finn",
+			"SkelMesh": "SkeletalMesh'/Game/Character/NPCs/Finn_Wedding.Finn_Wedding'"
+		},
+		{
+			"RowName": "Jabalah",
+			"SkelMesh": "SkeletalMesh'/Game/Character/NPCs/Jabalah_Wedding.Jabalah_Wedding'"
+		},
+		{
+			"RowName": "Gelfie",
+			"SkelMesh": "SkeletalMesh'/Game/Character/NPCs/Gelfie_Wedding.Gelfie_Wedding'"
+		},
+		{
+			"RowName": "Dewain",
+			"SkelMesh": "SkeletalMesh'/Game/Character/NPCs/Dewain_Wedding.Dewain_Wedding'"
+		}
+	]
+}

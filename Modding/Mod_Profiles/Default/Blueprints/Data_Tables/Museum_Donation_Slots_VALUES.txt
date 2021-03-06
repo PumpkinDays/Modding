@@ -1,0 +1,11534 @@
+{
+	"Rows": 
+	[
+		{
+			"RowName": "Acanthus",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Adonis",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "alstroemeria",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Angelonia",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Babys_Breath",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Bee_Balm",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Bird_Of_Paradise",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "BlackDahlia",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Black_Iris",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Blue_Hydrangea",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Canna",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Carnation",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Chrysanthemum",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Coelogyne_Pandurata",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Colombine",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Cosmos",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "cotyledon_blossoms",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Cymbidium_Orchid",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Daffodil",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Daisy",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Day_Lily_Hemerocallis",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Delphinium",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Echeveria",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Echinacea_Aster",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Fiddle_Fern",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Forget_Me_Not",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Gardenia",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Gentian",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Gladiolus",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Greenovia_Dodrentalis",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Hellebore",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Hollyhock_Alcea",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Hyacinth",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Iris_Cristata",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Iris",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Jade_Vine_Flower",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Lambs_Ear",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Mariposas_De_Cuba",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Morning_Glory",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Nigella",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Orchid",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Passion_Flower",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Petunia",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Poinsettia",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Poppy",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Pride_Of_Madeira",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Purple_Hydrangea",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Rose",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Sandersonia",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Sneezeweed",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Spirea",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Star_Scabiosa",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Stokesia",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Trillium",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Venus_Flytrap",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Verbana",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Violet",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Zinnia",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Sunflower",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Kangaroo_Paw",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Aluminium_Bar",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Cassiterite_Bar",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Cobalt_Bar",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Copper_Bar",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Gold_Bar",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Iron_Bar",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Nickel_Bar",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Pyrite_Bar",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Silver_Bar",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Steel_Bar",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Titanium_Bar",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Tungsten_Bar",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Uranium_Bar",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Zinc_Bar",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Granite_Block",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Marble_Block",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Slate_Block",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Aether_Polished",
+			"ItemScale": 
+			{
+				"X": 2,
+				"Y": 2,
+				"Z": 2
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Agate_Polished",
+			"ItemScale": 
+			{
+				"X": 2,
+				"Y": 2,
+				"Z": 2
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Alabaster_Polished",
+			"ItemScale": 
+			{
+				"X": 2,
+				"Y": 2,
+				"Z": 2
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Alexandrite_Polished",
+			"ItemScale": 
+			{
+				"X": 2,
+				"Y": 2,
+				"Z": 2
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Amazonite_Polished",
+			"ItemScale": 
+			{
+				"X": 2,
+				"Y": 2,
+				"Z": 2
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Amber_Polished",
+			"ItemScale": 
+			{
+				"X": 2,
+				"Y": 2,
+				"Z": 2
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Amethyst_Polished",
+			"ItemScale": 
+			{
+				"X": 2,
+				"Y": 2,
+				"Z": 2
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Ammolite_Polished",
+			"ItemScale": 
+			{
+				"X": 2,
+				"Y": 2,
+				"Z": 2
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Auqamarine_Polished",
+			"ItemScale": 
+			{
+				"X": 2,
+				"Y": 2,
+				"Z": 2
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Beryl_Polished",
+			"ItemScale": 
+			{
+				"X": 2,
+				"Y": 2,
+				"Z": 2
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Bloodstone_Polished",
+			"ItemScale": 
+			{
+				"X": 2,
+				"Y": 2,
+				"Z": 2
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Bone_Polished",
+			"ItemScale": 
+			{
+				"X": 2,
+				"Y": 2,
+				"Z": 2
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Carnilian_Polished",
+			"ItemScale": 
+			{
+				"X": 2,
+				"Y": 2,
+				"Z": 2
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Chrysocolla_Polished",
+			"ItemScale": 
+			{
+				"X": 2,
+				"Y": 2,
+				"Z": 2
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Chrysoprase_Polished",
+			"ItemScale": 
+			{
+				"X": 2,
+				"Y": 2,
+				"Z": 2
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Citrine_Polished",
+			"ItemScale": 
+			{
+				"X": 2,
+				"Y": 2,
+				"Z": 2
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Clinohumite_Polished",
+			"ItemScale": 
+			{
+				"X": 2,
+				"Y": 2,
+				"Z": 2
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Comet_Polished",
+			"ItemScale": 
+			{
+				"X": 2,
+				"Y": 2,
+				"Z": 2
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Conundrum_Polished",
+			"ItemScale": 
+			{
+				"X": 2,
+				"Y": 2,
+				"Z": 2
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Diamond_Polished",
+			"ItemScale": 
+			{
+				"X": 2,
+				"Y": 2,
+				"Z": 2
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Dioptase_Polished",
+			"ItemScale": 
+			{
+				"X": 2,
+				"Y": 2,
+				"Z": 2
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Emerald_Polished",
+			"ItemScale": 
+			{
+				"X": 2,
+				"Y": 2,
+				"Z": 2
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Feldspar_Block",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Glass_Polished",
+			"ItemScale": 
+			{
+				"X": 2,
+				"Y": 2,
+				"Z": 2
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Hematite_Polished",
+			"ItemScale": 
+			{
+				"X": 2,
+				"Y": 2,
+				"Z": 2
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Jade_Polished",
+			"ItemScale": 
+			{
+				"X": 2,
+				"Y": 2,
+				"Z": 2
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Jasper_Polished",
+			"ItemScale": 
+			{
+				"X": 2,
+				"Y": 2,
+				"Z": 2
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Jet_Polished",
+			"ItemScale": 
+			{
+				"X": 2,
+				"Y": 2,
+				"Z": 2
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Lapis_Lazuli_Polished",
+			"ItemScale": 
+			{
+				"X": 2,
+				"Y": 2,
+				"Z": 2
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Larimar_Polished",
+			"ItemScale": 
+			{
+				"X": 2,
+				"Y": 2,
+				"Z": 2
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Malachite_Polished",
+			"ItemScale": 
+			{
+				"X": 2,
+				"Y": 2,
+				"Z": 2
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Meteorite_Polished",
+			"ItemScale": 
+			{
+				"X": 2,
+				"Y": 2,
+				"Z": 2
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Moonstone_Polished",
+			"ItemScale": 
+			{
+				"X": 2,
+				"Y": 2,
+				"Z": 2
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Obsidian_Polished",
+			"ItemScale": 
+			{
+				"X": 2,
+				"Y": 2,
+				"Z": 2
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Onyx_Polished",
+			"ItemScale": 
+			{
+				"X": 2,
+				"Y": 2,
+				"Z": 2
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Opal_Polished",
+			"ItemScale": 
+			{
+				"X": 2,
+				"Y": 2,
+				"Z": 2
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 180,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Peridot_Polished",
+			"ItemScale": 
+			{
+				"X": 2,
+				"Y": 2,
+				"Z": 2
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Petrified_Wood_Polished",
+			"ItemScale": 
+			{
+				"X": 2,
+				"Y": 2,
+				"Z": 2
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Philosopher_Stone_Polished",
+			"ItemScale": 
+			{
+				"X": 2,
+				"Y": 2,
+				"Z": 2
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Porphyry_Polished",
+			"ItemScale": 
+			{
+				"X": 2,
+				"Y": 2,
+				"Z": 2
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Prehnite_Polished",
+			"ItemScale": 
+			{
+				"X": 2,
+				"Y": 2,
+				"Z": 2
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Quartz_Polished",
+			"ItemScale": 
+			{
+				"X": 2,
+				"Y": 2,
+				"Z": 2
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Rhodochrosite_Polished",
+			"ItemScale": 
+			{
+				"X": 2,
+				"Y": 2,
+				"Z": 2
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Rose_Quartz_Polished",
+			"ItemScale": 
+			{
+				"X": 2,
+				"Y": 2,
+				"Z": 2
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Ruby_Polished",
+			"ItemScale": 
+			{
+				"X": 2,
+				"Y": 2,
+				"Z": 2
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Sapphire_Polished",
+			"ItemScale": 
+			{
+				"X": 2,
+				"Y": 2,
+				"Z": 2
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Sardonyx_Polished",
+			"ItemScale": 
+			{
+				"X": 2,
+				"Y": 2,
+				"Z": 2
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Sodalite_Polished",
+			"ItemScale": 
+			{
+				"X": 2,
+				"Y": 2,
+				"Z": 2
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Spinel_Polished",
+			"ItemScale": 
+			{
+				"X": 2,
+				"Y": 2,
+				"Z": 2
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Sugulite_Polished",
+			"ItemScale": 
+			{
+				"X": 2,
+				"Y": 2,
+				"Z": 2
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Sunstone_Polished",
+			"ItemScale": 
+			{
+				"X": 2,
+				"Y": 2,
+				"Z": 2
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Tanzanite_Polished",
+			"ItemScale": 
+			{
+				"X": 2,
+				"Y": 2,
+				"Z": 2
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "TigersEye_Polished",
+			"ItemScale": 
+			{
+				"X": 2,
+				"Y": 2,
+				"Z": 2
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Topaz_Polished",
+			"ItemScale": 
+			{
+				"X": 2,
+				"Y": 2,
+				"Z": 2
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Tourmaline_Polished",
+			"ItemScale": 
+			{
+				"X": 2,
+				"Y": 2,
+				"Z": 2
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Unakite_Polished",
+			"ItemScale": 
+			{
+				"X": 2,
+				"Y": 2,
+				"Z": 2
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Variscite_Polished",
+			"ItemScale": 
+			{
+				"X": 2,
+				"Y": 2,
+				"Z": 2
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Zoisite_Polished",
+			"ItemScale": 
+			{
+				"X": 2,
+				"Y": 2,
+				"Z": 2
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Bismuth",
+			"ItemScale": 
+			{
+				"X": 2,
+				"Y": 2,
+				"Z": 2
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Mountain_Trout",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": -81.394432067871094,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 3938.86669921875,
+				"Y": -4183.20849609375,
+				"Z": 230.14247131347656
+			}
+		},
+		{
+			"RowName": "Bass",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": -427.63311767578125,
+				"Y": -8243.33203125,
+				"Z": 201.37760925292969
+			}
+		},
+		{
+			"RowName": "Piranha",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 3080.349609375,
+				"Y": -3008.278564453125,
+				"Z": 177.35755920410156
+			}
+		},
+		{
+			"RowName": "Sardine",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": -102.28532409667969,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": -2987.909423828125,
+				"Y": -1481.2230224609375,
+				"Z": 314.75790405273438
+			}
+		},
+		{
+			"RowName": "Seahorse",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": -2987.909423828125,
+				"Y": -1387.6593017578125,
+				"Z": 314.7579345703125
+			}
+		},
+		{
+			"RowName": "Shark",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 80.808769226074219,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 3699.56396484375,
+				"Y": -1228.8336181640625,
+				"Z": 382.332275390625
+			}
+		},
+		{
+			"RowName": "Rainbow_Trout",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 58.844028472900391,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 3935.8759765625,
+				"Y": -4064.407470703125,
+				"Z": 306.4884033203125
+			}
+		},
+		{
+			"RowName": "Abalone",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": -68.517967224121094,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": -2871.18017578125,
+				"Y": -963.7650146484375,
+				"Z": 157.6453857421875
+			}
+		},
+		{
+			"RowName": "Alligator_Gar",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 286.63336181640625,
+				"Y": -8291.169921875,
+				"Z": 201.37754821777344
+			}
+		},
+		{
+			"RowName": "Anchovies",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": -90.218887329101563,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": -3192.263427734375,
+				"Y": -1120.3450927734375,
+				"Z": 445.45303344726563
+			}
+		},
+		{
+			"RowName": "Angel_Fish",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 86.138298034667969,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": -3332.337890625,
+				"Y": 41.266265869140625,
+				"Z": 198.12541198730469
+			}
+		},
+		{
+			"RowName": "Angler_Fish",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 1090.588134765625,
+				"Y": -4327.47216796875,
+				"Z": 276.197021484375
+			}
+		},
+		{
+			"RowName": "Arapaima",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 94.454368591308594,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": -614.21710205078125,
+				"Y": -3247.21337890625,
+				"Z": 267.85885620117188
+			}
+		},
+		{
+			"RowName": "Arowana",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 98.92529296875,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 4157.0859375,
+				"Y": -3182.074951171875,
+				"Z": 189.16033935546875
+			}
+		},
+		{
+			"RowName": "Barbed_Steed",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 73.962471008300781,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 3984.42041015625,
+				"Y": -3390.37646484375,
+				"Z": 252.45355224609375
+			}
+		},
+		{
+			"RowName": "Betta_Fish",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 109.84664916992188,
+				"Y": -8214.0498046875,
+				"Z": 201.37760925292969
+			}
+		},
+		{
+			"RowName": "Big_Head_Carp",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": -62.218284606933594,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 4068.655029296875,
+				"Y": -3534.98291015625,
+				"Z": 286.8349609375
+			}
+		},
+		{
+			"RowName": "Bitterling",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": -89.6868896484375,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 4044.90283203125,
+				"Y": -3473.190185546875,
+				"Z": 176.12506103515625
+			}
+		},
+		{
+			"RowName": "Black_Bass",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": -0.00021399999968707561,
+				"Y": -8353.8251953125,
+				"Z": 201.37760925292969
+			}
+		},
+		{
+			"RowName": "Black_Sea_Nettle",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 90,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 3522.400390625,
+				"Y": -1465.1597900390625,
+				"Z": 519.49835205078125
+			}
+		},
+		{
+			"RowName": "Blue_Gill",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 0,
+				"Y": -8070.20068359375,
+				"Z": 201.37748718261719
+			}
+		},
+		{
+			"RowName": "Blue_Marlin",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": -84.775131225585938,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": -3034.120849609375,
+				"Y": -796.5322265625,
+				"Z": 557.8028564453125
+			}
+		},
+		{
+			"RowName": "Bonito",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": -2987.909423828125,
+				"Y": -786.96270751953125,
+				"Z": 314.75790405273438
+			}
+		},
+		{
+			"RowName": "Bream",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 85.279075622558594,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 4009.64306640625,
+				"Y": -3936.167236328125,
+				"Z": 198.55314636230469
+			}
+		},
+		{
+			"RowName": "Butterfly_Fish",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 192.31063842773438,
+				"Y": -8375.6123046875,
+				"Z": 201.37759399414063
+			}
+		},
+		{
+			"RowName": "Carp_Silver",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 4058.17236328125,
+				"Y": 0,
+				"Z": 20
+			}
+		},
+		{
+			"RowName": "Catfish",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 887.97625732421875,
+				"Y": -8151.96484375,
+				"Z": 220.45657348632813
+			}
+		},
+		{
+			"RowName": "Chambered_Nautilus",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": -3172.741455078125,
+				"Y": -1452.886474609375,
+				"Z": 314.75790405273438
+			}
+		},
+		{
+			"RowName": "Arctic_Char",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": -67.90673828125,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 4058.17236328125,
+				"Y": -3418.706787109375,
+				"Z": 183.81990051269531
+			}
+		},
+		{
+			"RowName": "Cherry_Salmon",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 50.483058929443359,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 4168.01904296875,
+				"Y": -3676.004150390625,
+				"Z": 239.59710693359375
+			}
+		},
+		{
+			"RowName": "Chub",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 70.956802368164063,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 4175.73876953125,
+				"Y": -3396.012939453125,
+				"Z": 252.78239440917969
+			}
+		},
+		{
+			"RowName": "Clam",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": -64.372238159179688,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": -2868.9765625,
+				"Y": -598.3206787109375,
+				"Z": 156.88331604003906
+			}
+		},
+		{
+			"RowName": "Clown_Fish",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": -94.411712646484375,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": -3298.290771484375,
+				"Y": -637.75537109375,
+				"Z": 333.720458984375
+			}
+		},
+		{
+			"RowName": "Cod",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": -66.600601196289063,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 3600.51171875,
+				"Y": -1442.74560546875,
+				"Z": 538.8931884765625
+			}
+		},
+		{
+			"RowName": "Coelacanth",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 92.725288391113281,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 3815.734375,
+				"Y": -1157.96630859375,
+				"Z": 245.35638427734375
+			}
+		},
+		{
+			"RowName": "Conch_Shell",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": -3037.6708984375,
+				"Y": -1226.4051513671875,
+				"Z": 159.39335632324219
+			}
+		},
+		{
+			"RowName": "Crab",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": -101.69593811035156,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": -2959.297119140625,
+				"Y": -769.697021484375,
+				"Z": 159.1573486328125
+			}
+		},
+		{
+			"RowName": "Crawdad",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": -3061.9404296875,
+				"Y": -998.90960693359375,
+				"Z": 163.06382751464844
+			}
+		},
+		{
+			"RowName": "Crucian_Carp",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 790.55316162109375,
+				"Y": -8158.51123046875,
+				"Z": 201.37760925292969
+			}
+		},
+		{
+			"RowName": "Dace",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": -86.551902770996094,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 3974.95166015625,
+				"Y": -3978.278076171875,
+				"Z": 218.44107055664063
+			}
+		},
+		{
+			"RowName": "Dungeoness_Crab",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 88.568336486816406,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 3325.568115234375,
+				"Y": -636.5052490234375,
+				"Z": 159.15022277832031
+			}
+		},
+		{
+			"RowName": "Eel_Saltwater",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 587.5794677734375,
+				"Y": -8120.568359375,
+				"Z": 201.37760925292969
+			}
+		},
+		{
+			"RowName": "Festive_Sea_Slug",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": -3161.9404296875,
+				"Y": -968.90960693359375,
+				"Z": 163.06382751464844
+			}
+		},
+		{
+			"RowName": "File_Fish",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": -96.376914978027344,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": -3138.851318359375,
+				"Y": -521.26580810546875,
+				"Z": 205.54913330078125
+			}
+		},
+		{
+			"RowName": "Flounder",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": -3172.741455078125,
+				"Y": -1482.886474609375,
+				"Z": 314.75790405273438
+			}
+		},
+		{
+			"RowName": "Fluke",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": -87.135459899902344,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 3593.123046875,
+				"Y": -444.16641235351563,
+				"Z": 195.79539489746094
+			}
+		},
+		{
+			"RowName": "Giant_Isopod",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 102.46996307373047,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": -3161.9404296875,
+				"Y": -998.90960693359375,
+				"Z": 142.06382751464844
+			}
+		},
+		{
+			"RowName": "Giant_Trevally",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 90.308578491210938,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 3825.90185546875,
+				"Y": -1013.0546264648438,
+				"Z": 505.492919921875
+			}
+		},
+		{
+			"RowName": "Goldfish",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 887.97625732421875,
+				"Y": -8191.96484375,
+				"Z": 210.45657348632813
+			}
+		},
+		{
+			"RowName": "Greenling",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 74.05255126953125,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": -3342.90673828125,
+				"Y": -799.13360595703125,
+				"Z": 500.45407104492188
+			}
+		},
+		{
+			"RowName": "Grouper",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": -78.062576293945313,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 3507.6533203125,
+				"Y": -1319.01220703125,
+				"Z": 313.02728271484375
+			}
+		},
+		{
+			"RowName": "Guppy",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 73.992935180664063,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 3961.267578125,
+				"Y": -3755.175048828125,
+				"Z": 242.96096801757813
+			}
+		},
+		{
+			"RowName": "Haddock",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": -539.6773681640625,
+				"Y": -3842.837646484375,
+				"Z": 222.76971435546875
+			}
+		},
+		{
+			"RowName": "Halibut",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": -65.421234130859375,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 3687.736328125,
+				"Y": -1459.3441162109375,
+				"Z": 192.8751220703125
+			}
+		},
+		{
+			"RowName": "Herring",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 88.326454162597656,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 3600.133056640625,
+				"Y": -0.00012199999764561653,
+				"Z": 176.6536865234375
+			}
+		},
+		{
+			"RowName": "Horse_Hair_Crab",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": -80.418769836425781,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": -2855.669189453125,
+				"Y": -832.93951416015625,
+				"Z": 160.58529663085938
+			}
+		},
+		{
+			"RowName": "Horse_Shoe_Crab",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": -68.517967224121094,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": -2969.299072265625,
+				"Y": -714.44451904296875,
+				"Z": 167.06404113769531
+			}
+		},
+		{
+			"RowName": "Humphead_Wrasse",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": -3375.4609375,
+				"Y": -614.71221923828125,
+				"Z": 484.81658935546875
+			}
+		},
+		{
+			"RowName": "Jellyfish",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 1.7924389839172363,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 3760.7109375,
+				"Y": -352.83712768554688,
+				"Z": 552.1986083984375
+			}
+		},
+		{
+			"RowName": "John_Dory",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 59.23895263671875,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 3681.301025390625,
+				"Y": -692.61187744140625,
+				"Z": 275.98562622070313
+			}
+		},
+		{
+			"RowName": "Kelp_Bass",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": -75.408859252929688,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 3391.434814453125,
+				"Y": -822.18536376953125,
+				"Z": 223.29946899414063
+			}
+		},
+		{
+			"RowName": "Killi_Fish",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": -75.7991943359375,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": -3104.958984375,
+				"Y": -1575.022705078125,
+				"Z": 412.04876708984375
+			}
+		},
+		{
+			"RowName": "Koi",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 201.73541259765625,
+				"Y": -8034.31396484375,
+				"Z": 201.37773132324219
+			}
+		},
+		{
+			"RowName": "Lake_Eel",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 434.533203125,
+				"Y": -8134.51611328125,
+				"Z": 201.37760925292969
+			}
+		},
+		{
+			"RowName": "Lake_Smelt",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 887.97625732421875,
+				"Y": -8191.96484375,
+				"Z": 220.45657348632813
+			}
+		},
+		{
+			"RowName": "Lamprey",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": -96.165809631347656,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": -582.6539306640625,
+				"Y": -4283.79638671875,
+				"Z": 237.8026123046875
+			}
+		},
+		{
+			"RowName": "Largemouth_Bass",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": -273.45327758789063,
+				"Y": -8343.412109375,
+				"Z": 201.37754821777344
+			}
+		},
+		{
+			"RowName": "Lion_Fish",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 1095.686767578125,
+				"Y": -3105.6796875,
+				"Z": 243.10032653808594
+			}
+		},
+		{
+			"RowName": "Loach",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": -100.96178436279297,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 4066.311279296875,
+				"Y": -3654.170654296875,
+				"Z": 215.28671264648438
+			}
+		},
+		{
+			"RowName": "Lobster",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": -170.05429077148438,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": -3078.806396484375,
+				"Y": -652.20550537109375,
+				"Z": 151.2861328125
+			}
+		},
+		{
+			"RowName": "Mackerel",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 61.131095886230469,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": -2987.90966796875,
+				"Y": -1040.484130859375,
+				"Z": 314.75790405273438
+			}
+		},
+		{
+			"RowName": "Mahi_Mahi",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 3611.1328125,
+				"Y": -976.40911865234375,
+				"Z": 515.9696044921875
+			}
+		},
+		{
+			"RowName": "Mantis_Shrimp",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": -3078.806396484375,
+				"Y": -622.20550537109375,
+				"Z": 151.2861328125
+			}
+		},
+		{
+			"RowName": "Milkfish",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 80.673637390136719,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": -2987.909423828125,
+				"Y": -31.88507080078125,
+				"Z": 314.75790405273438
+			}
+		},
+		{
+			"RowName": "Mitten_Crab",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 86.623878479003906,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 4033.48046875,
+				"Y": -3576.877197265625,
+				"Z": 109.97251892089844
+			}
+		},
+		{
+			"RowName": "Monkfish",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": -3187.377685546875,
+				"Y": -391.2711181640625,
+				"Z": 159.77423095703125
+			}
+		},
+		{
+			"RowName": "Mullet",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 933.0838623046875,
+				"Y": -8162.90234375,
+				"Z": 181.18150329589844
+			}
+		},
+		{
+			"RowName": "Needle_Fish",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 86.047271728515625,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 3667.57568359375,
+				"Y": -1208.768310546875,
+				"Z": 208.90390014648438
+			}
+		},
+		{
+			"RowName": "Northern_Pike",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 950,
+				"Y": -8191.96484375,
+				"Z": 220.45657348632813
+			}
+		},
+		{
+			"RowName": "Oar_Fish",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 79.110191345214844,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 3743.801025390625,
+				"Y": -1061.2318115234375,
+				"Z": 676.70208740234375
+			}
+		},
+		{
+			"RowName": "Ocean_Sunfish",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": -3034.120849609375,
+				"Y": -796.5322265625,
+				"Z": 557.8028564453125
+			}
+		},
+		{
+			"RowName": "Octopus",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": -579.6773681640625,
+				"Y": -3862.837646484375,
+				"Z": 222.76971435546875
+			}
+		},
+		{
+			"RowName": "Oyster",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": -2987.909423828125,
+				"Y": -1401.457763671875,
+				"Z": 164.79254150390625
+			}
+		},
+		{
+			"RowName": "Pufferfish",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": -3034.120849609375,
+				"Y": -396.5322265625,
+				"Z": 557.8028564453125
+			}
+		},
+		{
+			"RowName": "River_Bass",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 969.3802490234375,
+				"Y": -8175.6748046875,
+				"Z": 263.03915405273438
+			}
+		},
+		{
+			"RowName": "Rock_Bass",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 969.3802490234375,
+				"Y": -8175.6748046875,
+				"Z": 363.03915405273438
+			}
+		},
+		{
+			"RowName": "Rock_Lobster",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 35.893791198730469,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 3388.283935546875,
+				"Y": 21.387702941894531,
+				"Z": 153.81867980957031
+			}
+		},
+		{
+			"RowName": "Rock_Trout",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": -93.527603149414063,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 3431.411376953125,
+				"Y": -1408.307861328125,
+				"Z": 183.78120422363281
+			}
+		},
+		{
+			"RowName": "Sable_Fish",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 65.605995178222656,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": -2987.909423828125,
+				"Y": -892.5111083984375,
+				"Z": 423.87167358398438
+			}
+		},
+		{
+			"RowName": "Salmon",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 3631.411376953125,
+				"Y": -1508.307861328125,
+				"Z": 183.78120422363281
+			}
+		},
+		{
+			"RowName": "Saltwater_Catfish",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 614.04107666015625,
+				"Y": -8218.365234375,
+				"Z": 201.37754821777344
+			}
+		},
+		{
+			"RowName": "Saury_Pike",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 847.923095703125,
+				"Y": -8016.71923828125,
+				"Z": 201.37759399414063
+			}
+		},
+		{
+			"RowName": "Scad",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 3761.22607421875,
+				"Y": -579.496826171875,
+				"Z": 309.14309692382813
+			}
+		},
+		{
+			"RowName": "Scallops",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": -32.387741088867188,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": -3179.0771484375,
+				"Y": -265.0228271484375,
+				"Z": -265.0228271484375
+			}
+		},
+		{
+			"RowName": "Sea_Bass",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 101.75197601318359,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 3430.862060546875,
+				"Y": -1534.264404296875,
+				"Z": 249.75274658203125
+			}
+		},
+		{
+			"RowName": "Sea_Butterfly",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 3431.411376953125,
+				"Y": -1108.307861328125,
+				"Z": 183.78120422363281
+			}
+		},
+		{
+			"RowName": "Sea_Cucumber",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": -2871.84814453125,
+				"Y": -1050.3812255859375,
+				"Z": 151.76597595214844
+			}
+		},
+		{
+			"RowName": "Sea_Urchin",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": -3091.665771484375,
+				"Y": -959.9632568359375,
+				"Z": 165.32083129882813
+			}
+		},
+		{
+			"RowName": "Shrimp",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": -3161.9404296875,
+				"Y": -998.90960693359375,
+				"Z": 163.06382751464844
+			}
+		},
+		{
+			"RowName": "Snakehead",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 0,
+				"Y": -8088.01904296875,
+				"Z": 305.60708618164063
+			}
+		},
+		{
+			"RowName": "Snapper",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 94.941375732421875,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 3557.631591796875,
+				"Y": -710.8079833984375,
+				"Z": 179.33428955078125
+			}
+		},
+		{
+			"RowName": "Snow_Crab",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": -68.517967224121094,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": -3105.83203125,
+				"Y": -367.5118408203125,
+				"Z": 167.06404113769531
+			}
+		},
+		{
+			"RowName": "Spider_Crab",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": -119.1004638671875,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": -2972.856689453125,
+				"Y": -128.60762023925781,
+				"Z": 167.06404113769531
+			}
+		},
+		{
+			"RowName": "Spiny_Lobster",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 3419.992431640625,
+				"Y": -964.181640625,
+				"Z": 157.85194396972656
+			}
+		},
+		{
+			"RowName": "Squid",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 3491.411376953125,
+				"Y": -1468.307861328125,
+				"Z": 183.78120422363281
+			}
+		},
+		{
+			"RowName": "Star_fish",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": -80.9197998046875,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": -3126.57373046875,
+				"Y": -569.16644287109375,
+				"Z": 170.16859436035156
+			}
+		},
+		{
+			"RowName": "Sting_Ray",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 103.76628875732422,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 3478.1376953125,
+				"Y": -694.90203857421875,
+				"Z": 448.24951171875
+			}
+		},
+		{
+			"RowName": "Sturgeon",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 3431.411376953125,
+				"Y": -1408.307861328125,
+				"Z": 183.78120422363281
+			}
+		},
+		{
+			"RowName": "Sweet_Shrimp",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 3431.411376953125,
+				"Y": -1408.307861328125,
+				"Z": 183.78120422363281
+			}
+		},
+		{
+			"RowName": "Swordfish",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": -87.59002685546875,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 3501.913818359375,
+				"Y": -1552.6968994140625,
+				"Z": 471.40460205078125
+			}
+		},
+		{
+			"RowName": "Tetra",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": -57.492233276367188,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": -3066.24951171875,
+				"Y": -281.38198852539063,
+				"Z": 278.58883666992188
+			}
+		},
+		{
+			"RowName": "Tiger_Fish",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 4039.64306640625,
+				"Y": -3936.167236328125,
+				"Z": 198.55314636230469
+			}
+		},
+		{
+			"RowName": "Tiger_Prawn",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 4009.64306640625,
+				"Y": -3956.167236328125,
+				"Z": 198.55314636230469
+			}
+		},
+		{
+			"RowName": "Tilapia",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 4009.64306640625,
+				"Y": -3936.167236328125,
+				"Z": 298.55313110351563
+			}
+		},
+		{
+			"RowName": "Tuna",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 75.801902770996094,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 3745.555908203125,
+				"Y": 0,
+				"Z": 403.77566528320313
+			}
+		},
+		{
+			"RowName": "Turban_Shell",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": -3037.6708984375,
+				"Y": -1126.4051513671875,
+				"Z": 159.39335632324219
+			}
+		},
+		{
+			"RowName": "Wahoo",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 93.536994934082031,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 3805.678466796875,
+				"Y": -525.2974853515625,
+				"Z": 160.03120422363281
+			}
+		},
+		{
+			"RowName": "Walleye",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 0,
+				"Y": -8315.5927734375,
+				"Z": 348.66580200195313
+			}
+		},
+		{
+			"RowName": "Whitefish",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 822.82818603515625,
+				"Y": -7954.63134765625,
+				"Z": 426.44485473632813
+			}
+		},
+		{
+			"RowName": "Yellow_Tail",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": -84.867141723632813,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": -3320.094970703125,
+				"Y": -472.8212890625,
+				"Z": 446.94110107421875
+			}
+		},
+		{
+			"RowName": "Zebra_Mussel",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": -3067.6708984375,
+				"Y": -1216.4051513671875,
+				"Z": 159.39335632324219
+			}
+		},
+		{
+			"RowName": "Saddled_Bichir",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 73.457695007324219,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 3597.066162109375,
+				"Y": -856.03753662109375,
+				"Z": 324.40475463867188
+			}
+		},
+		{
+			"RowName": "Carp_Gold",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 4058.17236328125,
+				"Y": 0,
+				"Z": 20
+			}
+		},
+		{
+			"RowName": "Scilla",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 743.9854736328125,
+				"Y": -150.27166748046875,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Coral_Polished",
+			"ItemScale": 
+			{
+				"X": 2,
+				"Y": 2,
+				"Z": 2
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Tench",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 3935.8759765625,
+				"Y": -4164.40771484375,
+				"Z": 306.4884033203125
+			}
+		},
+		{
+			"RowName": "Garnet_Polished",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Camelia",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Lavender",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Mammoth_Head",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 180,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Mammoth_Left_Feet",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 180,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Mammoth_Left_Feet2",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 180,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Mammoth_Left_Femur",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 180,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Mammoth_Left_Femur2",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 180,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Mammoth_Left_Hipbone",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 180,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Mammoth_Left_Shoulder",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 180,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Mammoth_Left_Tibia",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 180,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Mammoth_Left_Tibia2",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 180,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Mammoth_RibCage1",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 180,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Mammoth_RibCage2",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 180,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Mammoth_Right_Feet",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 180,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Mammoth_Right_Feet2",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 180,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Mammoth_Right_Femur",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 180,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Mammoth_Right_Femur2",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 180,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Mammoth_Right_HipBone",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 180,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Mammoth_Right_Shoulder",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 180,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Mammoth_Right_Tibia",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 180,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Mammoth_Right_Tibia2",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 180,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Mammoth_Tail",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 180,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Mammoth_Tusks",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 180,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Stego_Base_Tail",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 92.394447326660156,
+				"Roll": -0
+			},
+			"LocationOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Stego_Chest_Bone",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 92.394447326660156,
+				"Roll": -0
+			},
+			"LocationOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Stego_End_Tail",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 92.394447326660156,
+				"Roll": -0
+			},
+			"LocationOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Stego_Head",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 92.394447326660156,
+				"Roll": -0
+			},
+			"LocationOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Stego_Hip_Bone",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 92.394447326660156,
+				"Roll": -0
+			},
+			"LocationOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Stego_Left_Feet",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 92.394447326660156,
+				"Roll": -0
+			},
+			"LocationOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Stego_Left_Feet2",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 92.394447326660156,
+				"Roll": -0
+			},
+			"LocationOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Stego_Left_Femur",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 92.394447326660156,
+				"Roll": -0
+			},
+			"LocationOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Stego_Left_Femur2",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 92.394447326660156,
+				"Roll": -0
+			},
+			"LocationOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Stego_Left_Shoulder",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 92.394447326660156,
+				"Roll": -0
+			},
+			"LocationOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Stego_Left_Tibia",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 92.394447326660156,
+				"Roll": -0
+			},
+			"LocationOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Stego_Left_Tibia2",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 92.394447326660156,
+				"Roll": -0
+			},
+			"LocationOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Stego_Neck",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 92.394447326660156,
+				"Roll": -0
+			},
+			"LocationOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Stego_Plates",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 92.394447326660156,
+				"Roll": -0
+			},
+			"LocationOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Stego_Ribcage",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 92.394447326660156,
+				"Roll": -0
+			},
+			"LocationOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Stego_Right_Feet",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 92.394447326660156,
+				"Roll": -0
+			},
+			"LocationOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Stego_Right_Feet2",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 92.394447326660156,
+				"Roll": -0
+			},
+			"LocationOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Stego_Right_Femur",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 92.394447326660156,
+				"Roll": -0
+			},
+			"LocationOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Stego_Right_Femur2",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 92.394447326660156,
+				"Roll": -0
+			},
+			"LocationOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Stego_Right_Shoulder",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 92.394447326660156,
+				"Roll": -0
+			},
+			"LocationOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Stego_Right_Tibia",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 92.394447326660156,
+				"Roll": -0
+			},
+			"LocationOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Stego_Right_Tibia2",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 92.394447326660156,
+				"Roll": -0
+			},
+			"LocationOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Styraco_Head",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": -126.99393463134766,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Styraco_Left_Feet",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": -126.99393463134766,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Styraco_Left_Feet2",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": -126.99393463134766,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Styraco_Left_Femur",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": -126.99393463134766,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Styraco_Left_Femur2",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": -126.99393463134766,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Styraco_Left_HipBone",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": -126.99393463134766,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Styraco_Left_Tibia",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": -126.99393463134766,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Styraco_Left_Tibia2",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": -126.99393463134766,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Styraco_Ribcage",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": -126.99393463134766,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Styraco_Right_Feet",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": -126.99393463134766,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Styraco_Right_Feet2",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": -126.99393463134766,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Styraco_Right_Femur",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": -126.99393463134766,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Styraco_Right_Femur2",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": -126.99393463134766,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Styraco_Right_HipBone",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": -126.99393463134766,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Styraco_Right_Tibia",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": -126.99393463134766,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Styraco_Right_Tibia2",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": -126.99393463134766,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Styraco_Shoulder_Left",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": -126.99393463134766,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Styraco_Shoulder_Right",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": -126.99393463134766,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Styraco_Tail_Base",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": -126.99393463134766,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Styraco_Tail_End",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": -126.99393463134766,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "T_Rex_Chestbone",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 13.464580535888672,
+				"Roll": -0
+			},
+			"LocationOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "T_Rex_Head",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 13.464580535888672,
+				"Roll": -0
+			},
+			"LocationOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "T_Rex_Left_Arm",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 13.464580535888672,
+				"Roll": -0
+			},
+			"LocationOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "T_Rex_Left_Femur",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 13.464580535888672,
+				"Roll": -0
+			},
+			"LocationOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "T_Rex_Left_Hip",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 13.464580535888672,
+				"Roll": -0
+			},
+			"LocationOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "T_Rex_Left_Tibia",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 13.464580535888672,
+				"Roll": -0
+			},
+			"LocationOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "T_Rex_Neck",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 13.464580535888672,
+				"Roll": -0
+			},
+			"LocationOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "T_Rex_Ribcage",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 13.464580535888672,
+				"Roll": -0
+			},
+			"LocationOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "T_Rex_Right_Arm",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 13.464580535888672,
+				"Roll": -0
+			},
+			"LocationOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "T_Rex_Right_Femur",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 13.464580535888672,
+				"Roll": -0
+			},
+			"LocationOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "T_Rex_Right_Hip",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 13.464580535888672,
+				"Roll": -0
+			},
+			"LocationOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "T_Rex_Right_Tibia",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 13.464580535888672,
+				"Roll": -0
+			},
+			"LocationOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "T_Rex_Tail_Base",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 13.464580535888672,
+				"Roll": -0
+			},
+			"LocationOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "T_Rex_Tail_Lower_Section",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 13.464580535888672,
+				"Roll": -0
+			},
+			"LocationOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "T_Rex_Tail_Mid_Section",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 13.464580535888672,
+				"Roll": -0
+			},
+			"LocationOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "T_Rex_Teeth",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 13.464580535888672,
+				"Roll": -0
+			},
+			"LocationOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "T_Rex_Left_Foot",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 13.464580535888672,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "T_Rex_Right_Foot",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 13.464580535888672,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Artifact_Gold_Goin_1",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 2990.36572265625,
+				"Y": -1731.5963134765625,
+				"Z": 142.63555908203125
+			}
+		},
+		{
+			"RowName": "Artifact_Gold_Goin_2",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 3025.037353515625,
+				"Y": -1731.5963134765625,
+				"Z": 142.63555908203125
+			}
+		},
+		{
+			"RowName": "Artifact_Gold_Goin_3",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 3065.345947265625,
+				"Y": -1731.5963134765625,
+				"Z": 142.63555908203125
+			}
+		},
+		{
+			"RowName": "Artifact_Gold_Goin_4",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 3104.08935546875,
+				"Y": -1731.5963134765625,
+				"Z": 142.63555908203125
+			}
+		},
+		{
+			"RowName": "Artifact_Gold_Goin_5",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 3138.760986328125,
+				"Y": -1731.5963134765625,
+				"Z": 142.63555908203125
+			}
+		},
+		{
+			"RowName": "Artifact_Gold_Goin_6",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 3173.16015625,
+				"Y": -1729.6080322265625,
+				"Z": 142.63555908203125
+			}
+		},
+		{
+			"RowName": "Artifact_Gold_Goin_7",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 3209.41650390625,
+				"Y": -1727.854248046875,
+				"Z": 142.63554382324219
+			}
+		},
+		{
+			"RowName": "Artifact_Gold_Goin_8",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 3242.866943359375,
+				"Y": -1726.415771484375,
+				"Z": 142.63539123535156
+			}
+		},
+		{
+			"RowName": "Artifact_Gold_Goin_9",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 2990.36572265625,
+				"Y": -1684.758056640625,
+				"Z": 142.63555908203125
+			}
+		},
+		{
+			"RowName": "Artifact_Gold_Goin_10",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 3025.037353515625,
+				"Y": -1684.758056640625,
+				"Z": 142.63555908203125
+			}
+		},
+		{
+			"RowName": "Artifact_Gold_Goin_11",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 3065.345947265625,
+				"Y": -1684.758056640625,
+				"Z": 142.63555908203125
+			}
+		},
+		{
+			"RowName": "Artifact_Gold_Goin_12",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 3104.08935546875,
+				"Y": -1684.758056640625,
+				"Z": 142.63555908203125
+			}
+		},
+		{
+			"RowName": "Artifact_Gold_Goin_13",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 3138.760986328125,
+				"Y": -1684.758056640625,
+				"Z": 142.63555908203125
+			}
+		},
+		{
+			"RowName": "Artifact_Gold_Goin_14",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 3173.16015625,
+				"Y": -1682.769775390625,
+				"Z": 142.63555908203125
+			}
+		},
+		{
+			"RowName": "Artifact_Gold_Goin_15",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 3209.41650390625,
+				"Y": -1681.0159912109375,
+				"Z": 142.63554382324219
+			}
+		},
+		{
+			"RowName": "Artifact_Gold_Goin_16",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 3242.866943359375,
+				"Y": -1679.5775146484375,
+				"Z": 142.63539123535156
+			}
+		},
+		{
+			"RowName": "Artifact_Boar_Sculpture",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 81.818756103515625,
+				"Roll": -0
+			},
+			"LocationOffset": 
+			{
+				"X": 3996.116455078125,
+				"Y": -1497.2586669921875,
+				"Z": 167.06947326660156
+			}
+		},
+		{
+			"RowName": "Artifact_Cat_Sculpture",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 81.818756103515625,
+				"Roll": -0
+			},
+			"LocationOffset": 
+			{
+				"X": 3994.7734375,
+				"Y": -1400.767822265625,
+				"Z": 167.06947326660156
+			}
+		},
+		{
+			"RowName": "Artifact_Lion_Sculpture",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 81.818756103515625,
+				"Roll": -0
+			},
+			"LocationOffset": 
+			{
+				"X": 3999.52294921875,
+				"Y": -1310.7139892578125,
+				"Z": 167.06947326660156
+			}
+		},
+		{
+			"RowName": "Artifact_Rooster_Sculpture",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 81.818756103515625,
+				"Roll": -0
+			},
+			"LocationOffset": 
+			{
+				"X": 3992.388916015625,
+				"Y": -1593.7335205078125,
+				"Z": 167.06947326660156
+			}
+		},
+		{
+			"RowName": "Artifact_Pot_Large",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 23.271564483642578,
+				"Roll": -0
+			},
+			"LocationOffset": 
+			{
+				"X": 3999.854736328125,
+				"Y": -300.83071899414063,
+				"Z": 166.40013122558594
+			}
+		},
+		{
+			"RowName": "Artifact_Pot_Medium",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 3998.2158203125,
+				"Y": -209.88400268554688,
+				"Z": 165.59017944335938
+			}
+		},
+		{
+			"RowName": "Artifact_Pot_Small",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 76.413436889648438,
+				"Roll": -0
+			},
+			"LocationOffset": 
+			{
+				"X": 3998.45361328125,
+				"Y": -115.89427947998047,
+				"Z": 166.44013977050781
+			}
+		},
+		{
+			"RowName": "Artifact_Pot_Small2",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 108.01258087158203,
+				"Roll": -0
+			},
+			"LocationOffset": 
+			{
+				"X": 3989.3994140625,
+				"Y": -24.68364143371582,
+				"Z": 167.34797668457031
+			}
+		},
+		{
+			"RowName": "Artifact_Tablet_1",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 3817.02490234375,
+				"Y": 190.74610900878906,
+				"Z": 141.69329833984375
+			}
+		},
+		{
+			"RowName": "Artifact_Tablet_2",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 3730.599609375,
+				"Y": 190.74610900878906,
+				"Z": 141.69329833984375
+			}
+		},
+		{
+			"RowName": "Artifact_Tablet_3",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 3645.646728515625,
+				"Y": 190.74610900878906,
+				"Z": 141.69329833984375
+			}
+		},
+		{
+			"RowName": "Artifact_Tablet_4",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 3570.576416015625,
+				"Y": 190.74610900878906,
+				"Z": 141.69329833984375
+			}
+		},
+		{
+			"RowName": "Artifact_Tablet_5",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 3236.416748046875,
+				"Y": 190.74610900878906,
+				"Z": 141.69354248046875
+			}
+		},
+		{
+			"RowName": "Artifact_Tablet_6",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 3149.991455078125,
+				"Y": 190.74610900878906,
+				"Z": 141.69354248046875
+			}
+		},
+		{
+			"RowName": "Artifact_Tablet_7",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 3065.03857421875,
+				"Y": 190.74610900878906,
+				"Z": 141.69354248046875
+			}
+		},
+		{
+			"RowName": "Artifact_Tablet_8",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 2989.96826171875,
+				"Y": 190.74610900878906,
+				"Z": 141.69354248046875
+			}
+		},
+		{
+			"RowName": "Artifact_Tablet_9",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 2677.472412109375,
+				"Y": 190.74610900878906,
+				"Z": 141.69354248046875
+			}
+		},
+		{
+			"RowName": "Artifact_Tablet_10",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 2591.047119140625,
+				"Y": 190.74610900878906,
+				"Z": 141.69354248046875
+			}
+		},
+		{
+			"RowName": "Artifact_Tablet_11",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 2506.09423828125,
+				"Y": 190.74610900878906,
+				"Z": 141.69354248046875
+			}
+		},
+		{
+			"RowName": "Artifact_Tablet_12",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 2431.02392578125,
+				"Y": 190.74610900878906,
+				"Z": 141.69354248046875
+			}
+		},
+		{
+			"RowName": "Arrow_Head_Chert",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 32.687328338623047,
+				"Roll": -0
+			},
+			"LocationOffset": 
+			{
+				"X": 3816.83642578125,
+				"Y": -1701.8050537109375,
+				"Z": 142.63551330566406
+			}
+		},
+		{
+			"RowName": "Arrow_Head_Flint",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 32.687328338623047,
+				"Roll": -0
+			},
+			"LocationOffset": 
+			{
+				"X": 3750.040283203125,
+				"Y": -1701.8050537109375,
+				"Z": 142.63551330566406
+			}
+		},
+		{
+			"RowName": "Arrow_Head_Obsidian",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 32.687328338623047,
+				"Roll": -0
+			},
+			"LocationOffset": 
+			{
+				"X": 3689.11181640625,
+				"Y": -1701.8050537109375,
+				"Z": 142.63551330566406
+			}
+		},
+		{
+			"RowName": "Arrow_Head_Orange_Jasper",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 32.687328338623047,
+				"Roll": -0
+			},
+			"LocationOffset": 
+			{
+				"X": 3630.367431640625,
+				"Y": -1701.8050537109375,
+				"Z": 142.63551330566406
+			}
+		},
+		{
+			"RowName": "Arrow_Head_Pink_Jasper",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 32.687328338623047,
+				"Roll": -0
+			},
+			"LocationOffset": 
+			{
+				"X": 3568.630615234375,
+				"Y": -1701.8050537109375,
+				"Z": 142.63551330566406
+			}
+		},
+		{
+			"RowName": "God_Statue_Air",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 86.961334228515625,
+				"Roll": -0
+			},
+			"LocationOffset": 
+			{
+				"X": 3331.759521484375,
+				"Y": -752.81878662109375,
+				"Z": 170.72088623046875
+			}
+		},
+		{
+			"RowName": "God_Statue_Fire",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 93.501296997070313,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 2759.669921875,
+				"Y": -1245.1214599609375,
+				"Z": 170.07279968261719
+			}
+		},
+		{
+			"RowName": "God_Statue_Water",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 91.124198913574219,
+				"Roll": -0
+			},
+			"LocationOffset": 
+			{
+				"X": 2837.34716796875,
+				"Y": -213.62532043457031,
+				"Z": 170.43327331542969
+			}
+		},
+		{
+			"RowName": "Agrias",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 0,
+				"Y": -218.09237670898438,
+				"Z": 196.47572326660156
+			}
+		},
+		{
+			"RowName": "Alpine_Black_Swallowtail",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 167.23321533203125,
+				"Y": -218.09237670898438,
+				"Z": 125.59657287597656
+			}
+		},
+		{
+			"RowName": "American_Lady",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 205.98385620117188,
+				"Y": -392.66925048828125,
+				"Z": 196.47572326660156
+			}
+		},
+		{
+			"RowName": "Apollo_Butterfly",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 503.80172729492188,
+				"Y": -392.66925048828125,
+				"Z": 125.59657287597656
+			}
+		},
+		{
+			"RowName": "Atlas",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 503.80172729492188,
+				"Y": -276.068115234375,
+				"Z": 125.59657287597656
+			}
+		},
+		{
+			"RowName": "bella_moth",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 704.8382568359375,
+				"Y": -276.068115234375,
+				"Z": 125.59645080566406
+			}
+		},
+		{
+			"RowName": "bordered_white",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 965.46014404296875,
+				"Y": -276.068115234375,
+				"Z": 125.59635925292969
+			}
+		},
+		{
+			"RowName": "burnet_moth",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 965.46014404296875,
+				"Y": -144.00965881347656,
+				"Z": 125.59635925292969
+			}
+		},
+		{
+			"RowName": "common_jezebel",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 1127.609375,
+				"Y": -144.00965881347656,
+				"Z": 196.47572326660156
+			}
+		},
+		{
+			"RowName": "crimson_rose",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 1338.56201171875,
+				"Y": -144.00965881347656,
+				"Z": 196.47572326660156
+			}
+		},
+		{
+			"RowName": "dead_leaf",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 1338.56201171875,
+				"Y": -329.94912719726563,
+				"Z": 125.59645080566406
+			}
+		},
+		{
+			"RowName": "duke_of_burgundy",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 1106.7353515625,
+				"Y": -329.94912719726563,
+				"Z": 196.47572326660156
+			}
+		},
+		{
+			"RowName": "Emperor",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 1106.7353515625,
+				"Y": 272.7567138671875,
+				"Z": 125.59645080566406
+			}
+		},
+		{
+			"RowName": "emperor_gum",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 1226.0089111328125,
+				"Y": 272.7567138671875,
+				"Z": 125.59645080566406
+			}
+		},
+		{
+			"RowName": "ghost_moth",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 1226.0089111328125,
+				"Y": 439.29034423828125,
+				"Z": 125.59645080566406
+			}
+		},
+		{
+			"RowName": "glass_winged_butterfly",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 1410.341796875,
+				"Y": 439.29034423828125,
+				"Z": 196.47572326660156
+			}
+		},
+		{
+			"RowName": "kaiser_i_hind",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 1540.46923828125,
+				"Y": 311.75701904296875,
+				"Z": 125.59638977050781
+			}
+		},
+		{
+			"RowName": "Lantern_Fly",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 1347.6878662109375,
+				"Y": 465.44161987304688,
+				"Z": 196.47572326660156
+			}
+		},
+		{
+			"RowName": "latticed_heath",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 1025.9853515625,
+				"Y": 324.90884399414063,
+				"Z": 84.795730590820313
+			}
+		},
+		{
+			"RowName": "lime_hawk_moth",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 1025.9853515625,
+				"Y": 211.16433715820313,
+				"Z": 196.47572326660156
+			}
+		},
+		{
+			"RowName": "madagascan_sunset",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 942.3660888671875,
+				"Y": 15.641799926757813,
+				"Z": 84.795669555664063
+			}
+		},
+		{
+			"RowName": "monarch_butterfly",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 852.5828857421875,
+				"Y": -77.380889892578125,
+				"Z": 196.47572326660156
+			}
+		},
+		{
+			"RowName": "orange_sulfur",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 798.52117919921875,
+				"Y": -20.530227661132813,
+				"Z": 196.47572326660156
+			}
+		},
+		{
+			"RowName": "peacock_butterfly",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 608.50091552734375,
+				"Y": -20.530227661132813,
+				"Z": 84.795883178710938
+			}
+		},
+		{
+			"RowName": "peppered_moth",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 608.50091552734375,
+				"Y": 160.59632873535156,
+				"Z": 84.795883178710938
+			}
+		},
+		{
+			"RowName": "plume",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 425.29534912109375,
+				"Y": 160.59632873535156,
+				"Z": 196.47572326660156
+			}
+		},
+		{
+			"RowName": "promethea_silkmoth",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 425.29534912109375,
+				"Y": 160.59632873535156,
+				"Z": 84.795883178710938
+			}
+		},
+		{
+			"RowName": "rhetenor_blue_morpho",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 238.08563232421875,
+				"Y": 249.8048095703125,
+				"Z": 84.795547485351563
+			}
+		},
+		{
+			"RowName": "small_white",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 238.08563232421875,
+				"Y": 367.93927001953125,
+				"Z": 84.795913696289063
+			}
+		},
+		{
+			"RowName": "summer_azure",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 238.08563232421875,
+				"Y": 150.4591064453125,
+				"Z": 196.47572326660156
+			}
+		},
+		{
+			"RowName": "tiger_butterfly",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 171.14889526367188,
+				"Y": -57.735275268554688,
+				"Z": 84.795822143554688
+			}
+		},
+		{
+			"RowName": "bird_wing",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 313.57672119140625,
+				"Y": -57.735275268554688,
+				"Z": 84.795822143554688
+			}
+		},
+		{
+			"RowName": "comet_moth",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 1136.6201171875,
+				"Y": -57.735366821289063,
+				"Z": 84.795822143554688
+			}
+		},
+		{
+			"RowName": "death_s_head_hawkmoth",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 1501.2109375,
+				"Y": -57.735366821289063,
+				"Z": 196.47572326660156
+			}
+		},
+		{
+			"RowName": "elephant_hawk_moth",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 1501.2109375,
+				"Y": 284.383544921875,
+				"Z": 196.47572326660156
+			}
+		},
+		{
+			"RowName": "giant_leopard",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 1201.78857421875,
+				"Y": 284.38360595703125,
+				"Z": 84.795822143554688
+			}
+		},
+		{
+			"RowName": "golden_birdwing",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 1201.78857421875,
+				"Y": -139.14825439453125,
+				"Z": 84.795944213867188
+			}
+		},
+		{
+			"RowName": "goliath_birdwing",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 1417.6578369140625,
+				"Y": -139.14825439453125,
+				"Z": 84.796005249023438
+			}
+		},
+		{
+			"RowName": "luna_moth",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 685.8045654296875,
+				"Y": -139.14825439453125,
+				"Z": 84.796005249023438
+			}
+		},
+		{
+			"RowName": "raja_brooke",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 685.8045654296875,
+				"Y": 320.90740966796875,
+				"Z": 84.796005249023438
+			}
+		},
+		{
+			"RowName": "zebra_swallow_tail",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 685.8045654296875,
+				"Y": -383.48919677734375,
+				"Z": 84.796005249023438
+			}
+		},
+		{
+			"RowName": "pale_beauty",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 49.544998168945313,
+				"Y": -383.48919677734375,
+				"Z": 97.011299133300781
+			}
+		},
+		{
+			"RowName": "Army_Ant",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 472.9359130859375,
+				"Y": -380.08782958984375,
+				"Z": -0.0018309999722987413
+			}
+		},
+		{
+			"RowName": "Black_Ant",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 432.290771484375,
+				"Y": -491.33779907226563,
+				"Z": -0.0010989999864250422
+			}
+		},
+		{
+			"RowName": "Carpenter_Ant",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 432.290771484375,
+				"Y": -188.10107421875,
+				"Z": -0.0012209999840706587
+			}
+		},
+		{
+			"RowName": "Carribbean_Crazy_Ant",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 859.2515869140625,
+				"Y": -346.86004638671875,
+				"Z": -0.0010989999864250422
+			}
+		},
+		{
+			"RowName": "Fire_Ant",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 973.4383544921875,
+				"Y": -641.96337890625,
+				"Z": -0.0023199999704957008
+			}
+		},
+		{
+			"RowName": "Honey_Pot_Ant",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 1018.9031982421875,
+				"Y": -684.2427978515625,
+				"Z": -0.0025639999657869339
+			}
+		},
+		{
+			"RowName": "Leaf_Cutter_Ant",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 1018.9031982421875,
+				"Y": -912.7244873046875,
+				"Z": -0.0025639999657869339
+			}
+		},
+		{
+			"RowName": "Red_Ant_Mimic_Spider",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 1132.7203369140625,
+				"Y": -726.4461669921875,
+				"Z": -0.0023199999704957008
+			}
+		},
+		{
+			"RowName": "Red_Velvet_Ant",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 1136.79541015625,
+				"Y": -854.47216796875,
+				"Z": -0.0025639999657869339
+			}
+		},
+		{
+			"RowName": "Coconut_Rhinocerus",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 284.71585083007813,
+				"Y": 517.981201171875,
+				"Z": 53.780433654785156
+			}
+		},
+		{
+			"RowName": "cyclommatus_stag",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 259.35409545898438,
+				"Y": 520.35595703125,
+				"Z": 127.33252716064453
+			}
+		},
+		{
+			"RowName": "diving_beetle",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 275.69302368164063,
+				"Y": 511.46142578125,
+				"Z": 190.31430053710938
+			}
+		},
+		{
+			"RowName": "Dogbane_Leaf",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 600.968505859375,
+				"Y": 393.05557250976563,
+				"Z": 30.821514129638672
+			}
+		},
+		{
+			"RowName": "Dung_Beetle",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 709.7015380859375,
+				"Y": 390.95083618164063,
+				"Z": 42.060920715332031
+			}
+		},
+		{
+			"RowName": "Four_Spot_Sap",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 472.99285888671875,
+				"Y": 359.90936279296875,
+				"Z": 30.639633178710938
+			}
+		},
+		{
+			"RowName": "Fruit_Beetle",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 862.19781494140625,
+				"Y": 1009.5802001953125,
+				"Z": 42.061447143554688
+			}
+		},
+		{
+			"RowName": "Giant_Stag",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 831.4468994140625,
+				"Y": -1145.75244140625,
+				"Z": 95.416015625
+			}
+		},
+		{
+			"RowName": "Globemallow_Leaf",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 831.4468994140625,
+				"Y": -1149.66845703125,
+				"Z": 188.25680541992188
+			}
+		},
+		{
+			"RowName": "Golden_Stag",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 823.92236328125,
+				"Y": -1159.7164306640625,
+				"Z": 286.56390380859375
+			}
+		},
+		{
+			"RowName": "Golden_Tortoise",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": -651.588623046875,
+				"Y": -1167.814697265625,
+				"Z": 325.25823974609375
+			}
+		},
+		{
+			"RowName": "Goliath_Beetle",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": -651.588623046875,
+				"Y": -1167.814697265625,
+				"Z": 250.60763549804688
+			}
+		},
+		{
+			"RowName": "Horned_Atlas",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": -651.588623046875,
+				"Y": -1167.814697265625,
+				"Z": 190.81692504882813
+			}
+		},
+		{
+			"RowName": "Horned_Dynastid",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": -639.2291259765625,
+				"Y": -1153.5396728515625,
+				"Z": 49.9505615234375
+			}
+		},
+		{
+			"RowName": "Horned_Elephant",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": -613.19305419921875,
+				"Y": -515.185546875,
+				"Z": 66.24041748046875
+			}
+		},
+		{
+			"RowName": "Horned_Hercules",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": -610.47247314453125,
+				"Y": -511.1553955078125,
+				"Z": 12.754623413085938
+			}
+		},
+		{
+			"RowName": "Imperial_Tortoise",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": -324.33685302734375,
+				"Y": -497.34439086914063,
+				"Z": 48.008499145507813
+			}
+		},
+		{
+			"RowName": "Jewel_Beetle",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": -327.29336547851563,
+				"Y": -497.34439086914063,
+				"Z": 93.592666625976563
+			}
+		},
+		{
+			"RowName": "Lady_Bug",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": -330.45169067382813,
+				"Y": 1502.6693115234375,
+				"Z": 57.363357543945313
+			}
+		},
+		{
+			"RowName": "Longhorn_Beetle",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": -332.26205444335938,
+				"Y": 1502.6693115234375,
+				"Z": 123.63990783691406
+			}
+		},
+		{
+			"RowName": "Miyama_Stag",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": -332.26205444335938,
+				"Y": 1502.6693115234375,
+				"Z": 174.16482543945313
+			}
+		},
+		{
+			"RowName": "Neon_Tortoise",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 756.4686279296875,
+				"Y": -78.807136535644531,
+				"Z": 183.819580078125
+			}
+		},
+		{
+			"RowName": "Ox_Beetle",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 756.4686279296875,
+				"Y": -78.807136535644531,
+				"Z": 96.852920532226563
+			}
+		},
+		{
+			"RowName": "Rainbow_Stag",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 756.4686279296875,
+				"Y": -77.157295227050781,
+				"Z": 221.00038146972656
+			}
+		},
+		{
+			"RowName": "Reddish_Potato",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 786.3375244140625,
+				"Y": -314.55596923828125,
+				"Z": 100.42964172363281
+			}
+		},
+		{
+			"RowName": "Saw_Stag",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 922.59039306640625,
+				"Y": -203.74861145019531,
+				"Z": 120.67584228515625
+			}
+		},
+		{
+			"RowName": "Scarab_Beetle",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 1336.377685546875,
+				"Y": -700.73681640625,
+				"Z": 109.82237243652344
+			}
+		},
+		{
+			"RowName": "Tiger_Beetle",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 1267.732666015625,
+				"Y": -700.73681640625,
+				"Z": 93.767532348632813
+			}
+		},
+		{
+			"RowName": "brown_cicada",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": -370.65130615234375,
+				"Y": 615.55328369140625,
+				"Z": 136.18241882324219
+			}
+		},
+		{
+			"RowName": "Cicada",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": -150.70498657226563,
+				"Y": 354.5609130859375,
+				"Z": 136.18241882324219
+			}
+		},
+		{
+			"RowName": "evening_cicada",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": -550.56005859375,
+				"Y": -205.03129577636719,
+				"Z": 145.61225891113281
+			}
+		},
+		{
+			"RowName": "giant_cicada",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": -550.56005859375,
+				"Y": -410.59722900390625,
+				"Z": 257.7279052734375
+			}
+		},
+		{
+			"RowName": "thailand_cicada",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": -209.02691650390625,
+				"Y": -430.07733154296875,
+				"Z": 218.65301513671875
+			}
+		},
+		{
+			"RowName": "Azure",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 166.67953491210938
+			}
+		},
+		{
+			"RowName": "banded",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": -396.2452392578125,
+				"Y": 160.55487060546875,
+				"Z": 166.67953491210938
+			}
+		},
+		{
+			"RowName": "blue_eyed_darner",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": -265.30352783203125,
+				"Y": -227.43463134765625,
+				"Z": 166.67953491210938
+			}
+		},
+		{
+			"RowName": "common_blue",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": -494.18975830078125,
+				"Y": 812.398193359375,
+				"Z": 154.4532470703125
+			}
+		},
+		{
+			"RowName": "common_green_darner",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 720.48724365234375,
+				"Y": -227.43463134765625,
+				"Z": 130.49130249023438
+			}
+		},
+		{
+			"RowName": "damselfly",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 676.350341796875,
+				"Y": -823.22503662109375,
+				"Z": -56.009368896484375
+			}
+		},
+		{
+			"RowName": "eastern_amberwing",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 685.94281005859375,
+				"Y": -1133.2220458984375,
+				"Z": -56.009368896484375
+			}
+		},
+		{
+			"RowName": "eastern_pondhawk",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 1574.365966796875,
+				"Y": -1133.2220458984375,
+				"Z": -56.009368896484375
+			}
+		},
+		{
+			"RowName": "giant_darner",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 1516.601806640625,
+				"Y": -749.99676513671875,
+				"Z": -56.009368896484375
+			}
+		},
+		{
+			"RowName": "giant_petal_tail",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 1612.5184326171875,
+				"Y": -113.30062103271484,
+				"Z": 73.302032470703125
+			}
+		},
+		{
+			"RowName": "great_blue_skimmer",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": -210.44000244140625,
+				"Y": 1112.92431640625,
+				"Z": 154.4532470703125
+			}
+		},
+		{
+			"RowName": "tropical_rockmaster",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": -210.43963623046875,
+				"Y": 794.1312255859375,
+				"Z": 154.4532470703125
+			}
+		},
+		{
+			"RowName": "halloween_pennant",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 544.4041748046875,
+				"Y": 794.1312255859375,
+				"Z": 154.4532470703125
+			}
+		},
+		{
+			"RowName": "large_red",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 544.40423583984375,
+				"Y": -127.18478393554688,
+				"Z": 154.4532470703125
+			}
+		},
+		{
+			"RowName": "scarlet_darter",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 780.36309814453125,
+				"Y": 342.2713623046875,
+				"Z": 154.4532470703125
+			}
+		},
+		{
+			"RowName": "southern_hawker",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 1184.219970703125,
+				"Y": 828.3890380859375,
+				"Z": 154.45263671875
+			}
+		},
+		{
+			"RowName": "tau_emerald",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 974.6300048828125,
+				"Y": 828.3890380859375,
+				"Z": 154.45263671875
+			}
+		},
+		{
+			"RowName": "Asian_Giant_Hornet",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Bald_Faced_Hornet",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 63.443222045898438,
+				"Y": 330.05029296875,
+				"Z": 149.66058349609375
+			}
+		},
+		{
+			"RowName": "Bumble_Bee",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Carpenter_Bee",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Fly",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": -224.60133361816406,
+				"Y": 330.05029296875,
+				"Z": 149.66058349609375
+			}
+		},
+		{
+			"RowName": "Honey_Bee",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Mosquito",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": -224.60133361816406,
+				"Y": -350.28262329101563,
+				"Z": 149.66061401367188
+			}
+		},
+		{
+			"RowName": "Mud_Dauber",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": -513.08843994140625,
+				"Y": -350.28262329101563,
+				"Z": 149.66061401367188
+			}
+		},
+		{
+			"RowName": "Orchid_Bee",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Oriental_Hornet",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": -513.08843994140625,
+				"Y": -874.1253662109375,
+				"Z": 149.66061401367188
+			}
+		},
+		{
+			"RowName": "Wasp",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": -327.61856079101563,
+				"Y": -874.1253662109375,
+				"Z": 149.66061401367188
+			}
+		},
+		{
+			"RowName": "Yellow_Hornet",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 619.78466796875,
+				"Y": -874.1253662109375,
+				"Z": 149.66024780273438
+			}
+		},
+		{
+			"RowName": "Yellow_Jacket",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 619.78466796875,
+				"Y": -484.2838134765625,
+				"Z": 149.66000366210938
+			}
+		},
+		{
+			"RowName": "Greater_Banded_Hornet",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 984.13189697265625,
+				"Y": -484.2838134765625,
+				"Z": 149.66006469726563
+			}
+		},
+		{
+			"RowName": "camel_cricket",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "cricket",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 217.44842529296875,
+				"Y": 208.55624389648438,
+				"Z": 0.00012199999764561653
+			}
+		},
+		{
+			"RowName": "Emerald_Ash_Borer",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 522.7303466796875,
+				"Y": 258.94369506835938,
+				"Z": 0.00024399999529123306
+			}
+		},
+		{
+			"RowName": "grasshopper",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 992.55438232421875,
+				"Y": 303.6846923828125,
+				"Z": -0.00012199999764561653
+			}
+		},
+		{
+			"RowName": "horse_lubber_grasshopper",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 1221.31201171875,
+				"Y": 331.69989013671875,
+				"Z": -0.00012199999764561653
+			}
+		},
+		{
+			"RowName": "katydid",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 1221.31201171875,
+				"Y": -264.15689086914063,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "locust",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 1616.5699462890625,
+				"Y": -554.9200439453125,
+				"Z": -0.00024399999529123306
+			}
+		},
+		{
+			"RowName": "Bark_Scorpion",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": -158.66470336914063,
+				"Y": -622.795654296875,
+				"Z": 7.8142271041870117
+			}
+		},
+		{
+			"RowName": "Emperor_Scorpion",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 162.94680786132813,
+				"Y": -533.28289794921875,
+				"Z": 5.4000000953674316
+			}
+		},
+		{
+			"RowName": "Flat_Rock_Scorpion",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 748.220947265625,
+				"Y": -500.06585693359375,
+				"Z": 11.37518310546875
+			}
+		},
+		{
+			"RowName": "Giant_Hairy_Scorpion",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 595.6025390625,
+				"Y": 581.4871826171875,
+				"Z": 9.1298446655273438
+			}
+		},
+		{
+			"RowName": "Scorpion",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 1159.6668701171875,
+				"Y": -134.82223510742188,
+				"Z": 11.673294067382813
+			}
+		},
+		{
+			"RowName": "Black_Widow",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 396.3870849609375,
+				"Y": -108.91781616210938,
+				"Z": 106.21522521972656
+			}
+		},
+		{
+			"RowName": "Brown_Recluse",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 369.39950561523438,
+				"Y": -251.70396423339844,
+				"Z": 143.79957580566406
+			}
+		},
+		{
+			"RowName": "Cat_Face_Spider",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 636.18255615234375,
+				"Y": 489.42300415039063,
+				"Z": 7.1600041389465332
+			}
+		},
+		{
+			"RowName": "Comb_Claw_Spider",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 683.29315185546875,
+				"Y": -797.03070068359375,
+				"Z": 94.193122863769531
+			}
+		},
+		{
+			"RowName": "Daddy_Long_Legs",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 1021.2049560546875,
+				"Y": -129.30229187011719,
+				"Z": 14.634666442871094
+			}
+		},
+		{
+			"RowName": "Garden_Spider",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 203.8353271484375,
+				"Y": 1118.7451171875,
+				"Z": 96.457145690917969
+			}
+		},
+		{
+			"RowName": "Golden_Silk_Orbweaver",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": -122.63810729980469,
+				"Y": 1412.8826904296875,
+				"Z": 152.32833862304688
+			}
+		},
+		{
+			"RowName": "Green_Crab_Spider",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 426.1173095703125,
+				"Y": -637.0753173828125,
+				"Z": 137.20620727539063
+			}
+		},
+		{
+			"RowName": "Green_Lynx_Spider",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 542.7939453125,
+				"Y": 568.3128662109375,
+				"Z": 59.975265502929688
+			}
+		},
+		{
+			"RowName": "Tarantula",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": -331.44906616210938,
+				"Y": 1315.838623046875,
+				"Z": 94.977752685546875
+			}
+		},
+		{
+			"RowName": "Venusta_Orchard_Spider",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 6.0999998822808266e-05,
+				"Y": -729.31451416015625,
+				"Z": 58.850440979003906
+			}
+		},
+		{
+			"RowName": "Wolf_Spider",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 738.97662353515625,
+				"Y": 710.95819091796875,
+				"Z": 115.13130187988281
+			}
+		},
+		{
+			"RowName": "Zebra_Jumping_Spider",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 1306.6759033203125,
+				"Y": -507.970458984375,
+				"Z": 104.89492797851563
+			}
+		},
+		{
+			"RowName": "bag_worm",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 0.00019099999917671084,
+				"Y": -389.6949462890625,
+				"Z": 64.614334106445313
+			}
+		},
+		{
+			"RowName": "big_headed",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 0.00025199999799951911,
+				"Y": -487.5643310546875,
+				"Z": 64.614334106445313
+			}
+		},
+		{
+			"RowName": "giant_silkworm",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 285.7725830078125,
+				"Y": -590.363037109375,
+				"Z": 64.614334106445313
+			}
+		},
+		{
+			"RowName": "Banded_Woolybear",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 1104.6590576171875,
+				"Y": -372.27951049804688,
+				"Z": 64.614517211914063
+			}
+		},
+		{
+			"RowName": "black_swallowtail",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 1287.318359375,
+				"Y": -299.14407348632813,
+				"Z": 64.614761352539063
+			}
+		},
+		{
+			"RowName": "glass_jewel",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 1446.0797119140625,
+				"Y": -299.14407348632813,
+				"Z": 64.614761352539063
+			}
+		},
+		{
+			"RowName": "monarch",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 1348.6268310546875,
+				"Y": -1117.24951171875,
+				"Z": 64.614395141601563
+			}
+		},
+		{
+			"RowName": "saddleback",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 1260.2880859375,
+				"Y": -1059.497314453125,
+				"Z": 64.614395141601563
+			}
+		},
+		{
+			"RowName": "spotted_apatelodes",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 1637.664306640625,
+				"Y": -1390.319580078125,
+				"Z": 64.614395141601563
+			}
+		},
+		{
+			"RowName": "spotted_tussock",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 839.09954833984375,
+				"Y": -1031.46728515625,
+				"Z": 64.614395141601563
+			}
+		},
+		{
+			"RowName": "spun_glass",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 944.23529052734375,
+				"Y": -968.9124755859375,
+				"Z": 64.614395141601563
+			}
+		},
+		{
+			"RowName": "stinging_rose",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 1031.50927734375,
+				"Y": 1193.2894287109375,
+				"Z": 64.614395141601563
+			}
+		},
+		{
+			"RowName": "wattle_cup",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 862.363525390625,
+				"Y": 1537.7037353515625,
+				"Z": 64.6143798828125
+			}
+		},
+		{
+			"RowName": "zebra_lapwing",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 510.92559814453125,
+				"Y": 1427.166748046875,
+				"Z": 64.6143798828125
+			}
+		},
+		{
+			"RowName": "Red_King_Crab",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 3245.819580078125,
+				"Y": -721.27923583984375,
+				"Z": 176.69503784179688
+			}
+		},
+		{
+			"RowName": "Nelsonite_Polished",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Pride_Fish",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 79.110191345214844,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 3743.801025390625,
+				"Y": -1061.2318115234375,
+				"Z": 876.7020263671875
+			}
+		},
+		{
+			"RowName": "Pride_Flower",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Pride_Butterfly",
+			"ItemScale": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ItemRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"LocationOffset": 
+			{
+				"X": 1501.2109375,
+				"Y": 202.08401489257813,
+				"Z": 84.795822143554688
+			}
+		}
+	]
+}

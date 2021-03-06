@@ -1,0 +1,69 @@
+{
+	"Rows": 
+	[
+		{
+			"RowName": "Country_House1",
+			"ClassProperty": "BlueprintGeneratedClass'/Game/Blueprints/Main_Character/Houses/Player_House_Master.Player_House_Master_C'"
+		},
+		{
+			"RowName": "Country_House2",
+			"ClassProperty": "BlueprintGeneratedClass'/Game/Blueprints/Main_Character/Houses/Player_House_Master.Player_House_Master_C'"
+		},
+		{
+			"RowName": "Country_House3",
+			"ClassProperty": "BlueprintGeneratedClass'/Game/Blueprints/Main_Character/Houses/Player_House_Master.Player_House_Master_C'"
+		},
+		{
+			"RowName": "Country_House4",
+			"ClassProperty": "BlueprintGeneratedClass'/Game/Blueprints/Main_Character/Houses/Player_House_Master.Player_House_Master_C'"
+		},
+		{
+			"RowName": "Country_House5",
+			"ClassProperty": "BlueprintGeneratedClass'/Game/Blueprints/Main_Character/Houses/Player_House_Master.Player_House_Master_C'"
+		},
+		{
+			"RowName": "Country_House6",
+			"ClassProperty": "BlueprintGeneratedClass'/Game/Blueprints/Main_Character/Houses/Player_House_Master.Player_House_Master_C'"
+		},
+		{
+			"RowName": "Spanish_House1",
+			"ClassProperty": "BlueprintGeneratedClass'/Game/Blueprints/Main_Character/Houses/Player_House_Master.Player_House_Master_C'"
+		},
+		{
+			"RowName": "Spanish_House2",
+			"ClassProperty": "BlueprintGeneratedClass'/Game/Blueprints/Main_Character/Houses/Player_House_Master.Player_House_Master_C'"
+		},
+		{
+			"RowName": "Spanish_House3",
+			"ClassProperty": "BlueprintGeneratedClass'/Game/Blueprints/Main_Character/Houses/Player_House_Master.Player_House_Master_C'"
+		},
+		{
+			"RowName": "Spanish_House4",
+			"ClassProperty": "BlueprintGeneratedClass'/Game/Blueprints/Main_Character/Houses/Player_House_Master.Player_House_Master_C'"
+		},
+		{
+			"RowName": "Barn_Large",
+			"ClassProperty": "BlueprintGeneratedClass'/Game/Blueprints/Ranching/Barn_BP.Barn_BP_C'"
+		},
+		{
+			"RowName": "Barn_Small",
+			"ClassProperty": "BlueprintGeneratedClass'/Game/Blueprints/Ranching/Barn_BP.Barn_BP_C'"
+		},
+		{
+			"RowName": "Coop",
+			"ClassProperty": "BlueprintGeneratedClass'/Game/Blueprints/Ranching/Coop_BP.Coop_BP_C'"
+		},
+		{
+			"RowName": "Coop_Small",
+			"ClassProperty": "BlueprintGeneratedClass'/Game/Blueprints/Ranching/Coop_BP.Coop_BP_C'"
+		},
+		{
+			"RowName": "Processor_Shed",
+			"ClassProperty": "BlueprintGeneratedClass'/Game/Blueprints/Main_Character/Houses/Player_House_Master.Player_House_Master_C'"
+		},
+		{
+			"RowName": "Pet_House",
+			"ClassProperty": "BlueprintGeneratedClass'/Game/Blueprints/Ranching/Pet_House.Pet_House_C'"
+		}
+	]
+}

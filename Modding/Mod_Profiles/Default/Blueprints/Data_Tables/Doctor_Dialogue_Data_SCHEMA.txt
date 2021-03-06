@@ -1,0 +1,5 @@
+Doctor_Dialogue_Data Structure:
+
+Causes: TArray-FName
+CauseDialogue: TArray-FString
+Suffix: string

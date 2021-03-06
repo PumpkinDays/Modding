@@ -1,0 +1,13 @@
+Town_Data Structure:
+
+FriendlyName: string
+Npcs: TArray-FName
+LandProperties: TArray-FName
+SpawnLocation: 
+	X: float
+	Y: float
+	Z: float
+SpawnRotation: float
+Mayor: string
+Secretary: string
+RivalNpc: string

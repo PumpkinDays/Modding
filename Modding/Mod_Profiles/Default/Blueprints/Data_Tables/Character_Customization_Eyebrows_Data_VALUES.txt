@@ -1,0 +1,3380 @@
+{
+	"Rows": 
+	[
+		{
+			"RowName": "Eyebrows_Arch",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_Mesh.Eyebrows_Mesh'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Arch_Normal.Eyebrows_Arch_Normal'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Eyebrow_Icons/Eyebrows_Icon_Arch.Eyebrows_Icon_Arch'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Check",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_Mesh.Eyebrows_Mesh'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Check_Normal.Eyebrows_Check_Normal'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Eyebrow_Icons/Eyebrows_Icon_Check.Eyebrows_Icon_Check'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Chunk",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_Mesh.Eyebrows_Mesh'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Chunk_Normal.Eyebrows_Chunk_Normal'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Eyebrow_Icons/Eyebrows_Icon_Chunk.Eyebrows_Icon_Chunk'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Close",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_Mesh.Eyebrows_Mesh'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Close_Normal.Eyebrows_Close_Normal'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Eyebrow_Icons/eyebrows_Icon_Close.eyebrows_Icon_Close'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Faded",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_Mesh.Eyebrows_Mesh'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Faded_Normal.Eyebrows_Faded_Normal'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Eyebrow_Icons/Eyebrows_Icon_Faded.Eyebrows_Icon_Faded'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Foxy",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_Mesh.Eyebrows_Mesh'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Foxy_Normal.Eyebrows_Foxy_Normal'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Eyebrow_Icons/Eyebrows_Icon_Foxy.Eyebrows_Icon_Foxy'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Intense",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_Mesh.Eyebrows_Mesh'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Intense_Normal.Eyebrows_Intense_Normal'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Eyebrow_Icons/Eyebrows_Icon_Intense.Eyebrows_Icon_Intense'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Lightning",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_Mesh.Eyebrows_Mesh'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Lightning_Normal.Eyebrows_Lightning_Normal'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Eyebrow_Icons/Eyebrows_Icon_Lightning.Eyebrows_Icon_Lightning'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Medium",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_Mesh.Eyebrows_Mesh'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Medium_Normal.Eyebrows_Medium_Normal'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Eyebrow_Icons/Eyebrows_Icon_Medium.Eyebrows_Icon_Medium'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Robot",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_Mesh.Eyebrows_Mesh'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Robot_Normal.Eyebrows_Robot_Normal'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Eyebrow_Icons/Eyebrows_Icon_Robot.Eyebrows_Icon_Robot'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Scarred",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_Mesh.Eyebrows_Mesh'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Scarred_Normal.Eyebrows_Scarred_Normal'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Eyebrow_Icons/Eyebrows_Icon_Scarred.Eyebrows_Icon_Scarred'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Scribble",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_Mesh.Eyebrows_Mesh'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Scribble_Normal.Eyebrows_Scribble_Normal'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Eyebrow_Icons/eyebrows_Icon_Scribble.eyebrows_Icon_Scribble'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Shaved",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_Mesh.Eyebrows_Mesh'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Shaved_Normal.Eyebrows_Shaved_Normal'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Eyebrow_Icons/Eyebrows_Icon_Shaved.Eyebrows_Icon_Shaved'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Small",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_Mesh.Eyebrows_Mesh'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Small_Normal.Eyebrows_Small_Normal'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Eyebrow_Icons/Eyebrows_Icon_Small.Eyebrows_Icon_Small'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Straight",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_Mesh.Eyebrows_Mesh'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Straight_Normal.Eyebrows_Straight_Normal'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Eyebrow_Icons/Eyebrows_Icon_Straight.Eyebrows_Icon_Straight'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Swirl",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_Mesh.Eyebrows_Mesh'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Swirl_Normal.Eyebrows_Swirl_Normal'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Eyebrow_Icons/Eyebrows_Icon_Swirl.Eyebrows_Icon_Swirl'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Swirl2",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_Mesh.Eyebrows_Mesh'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Swirl2_Normal.Eyebrows_Swirl2_Normal'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Eyebrow_Icons/Eyebrows_Icon_Swirl2.Eyebrows_Icon_Swirl2'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Thick",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_Mesh.Eyebrows_Mesh'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Thick_Normal.Eyebrows_Thick_Normal'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Eyebrow_Icons/Eyebrows_Icon_Thick.Eyebrows_Icon_Thick'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Thin",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_Mesh.Eyebrows_Mesh'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Thin_Normal.Eyebrows_Thin_Normal'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Eyebrow_Icons/Eyebrows_Icon_Thin.Eyebrows_Icon_Thin'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Tilde",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_Mesh.Eyebrows_Mesh'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Tilde_Normal.Eyebrows_Tilde_Normal'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Eyebrow_Icons/Eyebrows_Icon_Tilde.Eyebrows_Icon_Tilde'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Wedge",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_Mesh.Eyebrows_Mesh'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Wedge_Normal.Eyebrows_Wedge_Normal'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Eyebrow_Icons/Eyebrows_Icon_Wedge.Eyebrows_Icon_Wedge'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Winged",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_Mesh.Eyebrows_Mesh'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Winged_Normal.Eyebrows_Winged_Normal'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Eyebrow_Icons/Eyebrows_Icon_Wing.Eyebrows_Icon_Wing'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_ZigZag",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_Mesh.Eyebrows_Mesh'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_ZigZag_Normal.Eyebrows_ZigZag_Normal'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Eyebrow_Icons/Eyebrows_Icon_ZigZag.Eyebrows_Icon_ZigZag'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Arch-Sky_White",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Arch_Normal_16.Eyebrows_Arch_Normal_16'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_White_Icon.Hair_Color_White_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Arch-Grey",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Arch_Normal_8_9.Eyebrows_Arch_Normal_9'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Color_Grey_Icon.Color_Grey_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Arch-Black",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Arch_Normal.Eyebrows_Arch_Normal'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Black_Icon.Hair_Color_Black_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Arch-Dark_Brown",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Arch_Normal_5_6.Eyebrows_Arch_Normal_6'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Dark_Brown_Icon.Hair_Color_Dark_Brown_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Arch-Brown",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Arch_Normal_3_4.Eyebrows_Arch_Normal_4'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Brown_Icon.Hair_Color_Brown_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Arch-Hazel",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Arch_Normal_10.Eyebrows_Arch_Normal_10'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Hazel_Icon.Hair_Color_Hazel_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Arch-Blonde",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Arch_Normal_2.Eyebrows_Arch_Normal_2'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Blonde_Icon.Hair_Color_Blonde_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Arch-Orange",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Arch_Normal_11.Eyebrows_Arch_Normal_11'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Orange__Icon.Hair_Color_Orange__Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Arch-Dark_Red",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Arch_Normal_7.Eyebrows_Arch_Normal_7'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Dark_Red_Icon.Hair_Color_Dark_Red_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Arch-Red",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Arch_Normal_14.Eyebrows_Arch_Normal_14'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Red_Icon.Hair_Color_Red_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Arch-Pink",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Arch_Normal_12.Eyebrows_Arch_Normal_12'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Pink_Icon.Hair_Color_Pink_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Arch-Purple",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Arch_Normal_13.Eyebrows_Arch_Normal_13'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Purple_Icon.Hair_Color_Purple_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Arch-Dark_Blue",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Arch_Normal_5.Eyebrows_Arch_Normal_5'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Dark_Blue_Icon.Hair_Color_Dark_Blue_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Arch-Blue",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Arch_Normal_2_3.Eyebrows_Arch_Normal_3'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Blue_Icon.Hair_Color_Blue_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Arch-Sky_Blue",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Arch_Normal_15.Eyebrows_Arch_Normal_15'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Sky_Blue_Icon.Hair_Color_Sky_Blue_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Arch-Green",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Arch_Normal_8.Eyebrows_Arch_Normal_8'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Green_Icon.Hair_Color_Green_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Check-White",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Check_Normal_16.Eyebrows_Check_Normal_16'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Color_White_Icon.Color_White_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Check-Grey",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Check_Normal_8_9.Eyebrows_Check_Normal_9'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Color_Grey_Icon.Color_Grey_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Check-Black",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Check_Normal.Eyebrows_Check_Normal'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Black_Icon.Hair_Color_Black_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Check-Dark_Brown",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Check_Normal_5_6.Eyebrows_Check_Normal_6'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Dark_Brown_Icon.Hair_Color_Dark_Brown_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Check-Brown",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Check_Normal_4.Eyebrows_Check_Normal_4'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Brown_Icon.Hair_Color_Brown_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Check-Yellow",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Check_Normal_10.Eyebrows_Check_Normal_10'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Hazel_Icon.Hair_Color_Hazel_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Check-Blonde",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Check_Normal_2.Eyebrows_Check_Normal_2'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Blonde_Icon.Hair_Color_Blonde_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Check-Orange",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Check_Normal_11.Eyebrows_Check_Normal_11'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Color_Orange_Icon.Color_Orange_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Check-Dark_Red",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Check_Normal_6_7.Eyebrows_Check_Normal_7'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Dark_Red_Icon.Hair_Color_Dark_Red_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Check-Red",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Check_Normal_14.Eyebrows_Check_Normal_14'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Red_Icon.Hair_Color_Red_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Check-Pink",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Check_Normal_12.Eyebrows_Check_Normal_12'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Pink_Icon.Hair_Color_Pink_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Check-Purple",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Check_Normal_13.Eyebrows_Check_Normal_13'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Purple_Icon.Hair_Color_Purple_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Check-Dark_Blue",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Check_Normal_4_5.Eyebrows_Check_Normal_5'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Dark_Blue_Icon.Hair_Color_Dark_Blue_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Check-Blue",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Check_Normal_3.Eyebrows_Check_Normal_3'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Blue_Icon.Hair_Color_Blue_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Check-Sky_Blue",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Check_Normal_15.Eyebrows_Check_Normal_15'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Sky_Blue_Icon.Hair_Color_Sky_Blue_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Check-Green",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Check_Normal_7_8.Eyebrows_Check_Normal_8'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Green_Icon.Hair_Color_Green_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Chunk-White",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Chunk_Normal_16.Eyebrows_Chunk_Normal_16'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Color_White_Icon.Color_White_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Chunk-Grey",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Chunk_Normal_9.Eyebrows_Chunk_Normal_9'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Color_Grey_Icon.Color_Grey_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Chunk-Black",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Chunk_Normal.Eyebrows_Chunk_Normal'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Black_Icon.Hair_Color_Black_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Chunk-Dark_Brown",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Chunk_Normal_6.Eyebrows_Chunk_Normal_6'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Dark_Brown_Icon.Hair_Color_Dark_Brown_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Chunk-Brown",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Chunk_Normal_3_4.Eyebrows_Chunk_Normal_4'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Brown_Icon.Hair_Color_Brown_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Chunk-Yellow",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Chunk_Normal_10.Eyebrows_Chunk_Normal_10'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Hazel_Icon.Hair_Color_Hazel_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Chunk-Blonde",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Chunk_Normal_2.Eyebrows_Chunk_Normal_2'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Blonde_Icon.Hair_Color_Blonde_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Chunk-Orange",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Chunk_Normal_11.Eyebrows_Chunk_Normal_11'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Orange__Icon.Hair_Color_Orange__Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Chunk-Dark_Red",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Chunk_Normal_6_7.Eyebrows_Chunk_Normal_7'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Dark_Red_Icon.Hair_Color_Dark_Red_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Chunk-Red",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Chunk_Normal_14.Eyebrows_Chunk_Normal_14'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Red_Icon.Hair_Color_Red_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Chunk-Pink",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Chunk_Normal_12.Eyebrows_Chunk_Normal_12'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Pink_Icon.Hair_Color_Pink_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Chunk-Purple",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Chunk_Normal_13.Eyebrows_Chunk_Normal_13'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Purple_Icon.Hair_Color_Purple_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Chunk-Dark_Blue",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Chunk_Normal_5.Eyebrows_Chunk_Normal_5'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Dark_Blue_Icon.Hair_Color_Dark_Blue_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Chunk-Blue",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Chunk_Normal_3.Eyebrows_Chunk_Normal_3'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Blue_Icon.Hair_Color_Blue_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Chunk-Light_Blue",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Chunk_Normal_15.Eyebrows_Chunk_Normal_15'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Sky_Blue_Icon.Hair_Color_Sky_Blue_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Chunk-Green",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Chunk_Normal_8.Eyebrows_Chunk_Normal_8'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Green_Icon.Hair_Color_Green_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Close-White",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Close_Normal_16.Eyebrows_Close_Normal_16'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Color_White_Icon.Color_White_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Close-Grey",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Close_Normal_8_9.Eyebrows_Close_Normal_9'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Color_Grey_Icon.Color_Grey_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Close-Black",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Close_Normal.Eyebrows_Close_Normal'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Black_Icon.Hair_Color_Black_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Close-Dark_Brown",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Close_Normal_6.Eyebrows_Close_Normal_6'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Dark_Brown_Icon.Hair_Color_Dark_Brown_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Close-Brown",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Close_Normal_3_4.Eyebrows_Close_Normal_4'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Brown_Icon.Hair_Color_Brown_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Close-Yellow",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Close_Normal_10.Eyebrows_Close_Normal_10'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Hazel_Icon.Hair_Color_Hazel_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Close-Blonde",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Close_Normal_2.Eyebrows_Close_Normal_2'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Blonde_Icon.Hair_Color_Blonde_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Close-Orange",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Close_Normal_11.Eyebrows_Close_Normal_11'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Orange__Icon.Hair_Color_Orange__Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Close-Dark_Red",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Close_Normal_6_7.Eyebrows_Close_Normal_7'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Dark_Red_Icon.Hair_Color_Dark_Red_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Close-Red",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Close_Normal_14.Eyebrows_Close_Normal_14'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Red_Icon.Hair_Color_Red_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Close-Pink",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Close_Normal_12.Eyebrows_Close_Normal_12'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Pink_Icon.Hair_Color_Pink_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Close-Purple",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Close_Normal_13.Eyebrows_Close_Normal_13'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Purple_Icon.Hair_Color_Purple_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Close-Dark_Blue",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Close_Normal_4_5.Eyebrows_Close_Normal_5'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Dark_Blue_Icon.Hair_Color_Dark_Blue_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Close-Blue",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Close_Normal_2_3.Eyebrows_Close_Normal_3'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Blue_Icon.Hair_Color_Blue_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Close-Light_Blue",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Close_Normal_15.Eyebrows_Close_Normal_15'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Sky_Blue_Icon.Hair_Color_Sky_Blue_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Close-Green",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Close_Normal_7_8.Eyebrows_Close_Normal_8'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Green_Icon.Hair_Color_Green_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Faded-White",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Faded_Normal_16.Eyebrows_Faded_Normal_16'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Color_White_Icon.Color_White_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Faded-Grey",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Faded_Normal_8_9.Eyebrows_Faded_Normal_9'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Color_Grey_Icon.Color_Grey_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Faded-Black",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Faded_Normal.Eyebrows_Faded_Normal'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Black_Icon.Hair_Color_Black_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Faded-Dark_Brown",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Faded_Normal_5_6.Eyebrows_Faded_Normal_6'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Dark_Brown_Icon.Hair_Color_Dark_Brown_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Faded-Brown",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Faded_Normal_3_4.Eyebrows_Faded_Normal_4'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Brown_Icon.Hair_Color_Brown_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Faded-Yellow",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Faded_Normal_10.Eyebrows_Faded_Normal_10'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Hazel_Icon.Hair_Color_Hazel_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Faded-Blonde",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Faded_Normal_2.Eyebrows_Faded_Normal_2'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Blonde_Icon.Hair_Color_Blonde_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Faded-Orange",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Faded_Normal_11.Eyebrows_Faded_Normal_11'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Orange__Icon.Hair_Color_Orange__Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Faded-Dark_Red",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Faded_Normal_6_7.Eyebrows_Faded_Normal_7'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Dark_Red_Icon.Hair_Color_Dark_Red_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Faded-Red",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Faded_Normal_14.Eyebrows_Faded_Normal_14'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Red_Icon.Hair_Color_Red_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Faded-Pink",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Faded_Normal_12.Eyebrows_Faded_Normal_12'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Pink_Icon.Hair_Color_Pink_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Faded-Purple",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Faded_Normal_13.Eyebrows_Faded_Normal_13'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Purple_Icon.Hair_Color_Purple_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Faded-Dark_Blue",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Faded_Normal_5.Eyebrows_Faded_Normal_5'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Dark_Blue_Icon.Hair_Color_Dark_Blue_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Faded-Blue",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Faded_Normal_3.Eyebrows_Faded_Normal_3'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Blue_Icon.Hair_Color_Blue_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Faded-Light_Blue",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Faded_Normal_15.Eyebrows_Faded_Normal_15'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Sky_Blue_Icon.Hair_Color_Sky_Blue_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Faded-Green",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Faded_Normal_7_8.Eyebrows_Faded_Normal_8'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Green_Icon.Hair_Color_Green_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Foxy-White",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Foxy_Normal_16.Eyebrows_Foxy_Normal_16'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Color_White_Icon.Color_White_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Foxy-Grey",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Foxy_Normal_9.Eyebrows_Foxy_Normal_9'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Color_Grey_Icon.Color_Grey_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Foxy-Black",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Foxy_Normal.Eyebrows_Foxy_Normal'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Black_Icon.Hair_Color_Black_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Foxy-Dark_Brown",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Foxy_Normal_6.Eyebrows_Foxy_Normal_6'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Dark_Brown_Icon.Hair_Color_Dark_Brown_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Foxy-Brown",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Foxy_Normal_3_4.Eyebrows_Foxy_Normal_4'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Brown_Icon.Hair_Color_Brown_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Foxy-Hazel",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Foxy_Normal_10.Eyebrows_Foxy_Normal_10'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Hazel_Icon.Hair_Color_Hazel_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Foxy-Blonde",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Foxy_Normal_2.Eyebrows_Foxy_Normal_2'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Blonde_Icon.Hair_Color_Blonde_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Foxy-Orange",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Foxy_Normal_11.Eyebrows_Foxy_Normal_11'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Orange__Icon.Hair_Color_Orange__Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Foxy-Dark_Red",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Foxy_Normal_7.Eyebrows_Foxy_Normal_7'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Dark_Red_Icon.Hair_Color_Dark_Red_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Foxy-Red",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Foxy_Normal_14.Eyebrows_Foxy_Normal_14'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Red_Icon.Hair_Color_Red_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Foxy-Pink",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Foxy_Normal_12.Eyebrows_Foxy_Normal_12'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Pink_Icon.Hair_Color_Pink_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Foxy-Purple",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Foxy_Normal_13.Eyebrows_Foxy_Normal_13'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Purple_Icon.Hair_Color_Purple_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Foxy-Dark_Blue",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Foxy_Normal_5.Eyebrows_Foxy_Normal_5'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Dark_Blue_Icon.Hair_Color_Dark_Blue_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Foxy-Blue",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Foxy_Normal_3.Eyebrows_Foxy_Normal_3'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Blue_Icon.Hair_Color_Blue_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Foxy-Light_Blue",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Foxy_Normal_15.Eyebrows_Foxy_Normal_15'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Sky_Blue_Icon.Hair_Color_Sky_Blue_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Foxy-Green",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Foxy_Normal_8.Eyebrows_Foxy_Normal_8'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Green_Icon.Hair_Color_Green_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Intense-White",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Intense_Normal_16.Eyebrows_Intense_Normal_16'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Color_White_Icon.Color_White_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Intense-Grey",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Intense_Normal_9.Eyebrows_Intense_Normal_9'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Color_Grey_Icon.Color_Grey_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Intense-Black",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Intense_Normal.Eyebrows_Intense_Normal'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Black_Icon.Hair_Color_Black_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Intense-Dark_Brown",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Intense_Normal_5_6.Eyebrows_Intense_Normal_6'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Dark_Brown_Icon.Hair_Color_Dark_Brown_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Intense-Brown",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Intense_Normal_3_4.Eyebrows_Intense_Normal_4'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Brown_Icon.Hair_Color_Brown_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Intense-Yellow",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Intense_Normal_10.Eyebrows_Intense_Normal_10'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Hazel_Icon.Hair_Color_Hazel_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Intense-Blonde",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Intense_Normal_2.Eyebrows_Intense_Normal_2'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Blonde_Icon.Hair_Color_Blonde_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Intense-Orange",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Intense_Normal_11.Eyebrows_Intense_Normal_11'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Orange__Icon.Hair_Color_Orange__Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Intense-Dark_Red",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Intense_Normal_7.Eyebrows_Intense_Normal_7'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Dark_Red_Icon.Hair_Color_Dark_Red_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Intense-Red",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Intense_Normal_14.Eyebrows_Intense_Normal_14'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Red_Icon.Hair_Color_Red_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Intense-Pink",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Intense_Normal_12.Eyebrows_Intense_Normal_12'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Pink_Icon.Hair_Color_Pink_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Intense-Purple",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Intense_Normal_13.Eyebrows_Intense_Normal_13'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Purple_Icon.Hair_Color_Purple_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Intense-Dark_Blue",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Intense_Normal_5.Eyebrows_Intense_Normal_5'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Dark_Blue_Icon.Hair_Color_Dark_Blue_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Intense-Blue",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Intense_Normal_3.Eyebrows_Intense_Normal_3'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Blue_Icon.Hair_Color_Blue_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Intense-Light_Blue",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Intense_Normal_15.Eyebrows_Intense_Normal_15'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Sky_Blue_Icon.Hair_Color_Sky_Blue_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Intense-Green",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Intense_Normal_7_8.Eyebrows_Intense_Normal_8'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Green_Icon.Hair_Color_Green_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Lightning-White",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Lightning_Normal_15_16.Eyebrows_Lightning_Normal_16'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Color_White_Icon.Color_White_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Lightning-Grey",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Lightning_Normal_9.Eyebrows_Lightning_Normal_9'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Color_Grey_Icon.Color_Grey_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Lightning-Black",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Lightning_Normal.Eyebrows_Lightning_Normal'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Black_Icon.Hair_Color_Black_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Lightning-Dark_Brown",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Lightning_Normal_5_6.Eyebrows_Lightning_Normal_6'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Dark_Brown_Icon.Hair_Color_Dark_Brown_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Lightning-Brown",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Lightning_Normal_3_4.Eyebrows_Lightning_Normal_4'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Brown_Icon.Hair_Color_Brown_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Lightning-Yellow",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Lightning_Normal_10.Eyebrows_Lightning_Normal_10'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Hazel_Icon.Hair_Color_Hazel_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Lightning-Blonde",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Lightning_Normal_2.Eyebrows_Lightning_Normal_2'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Blonde_Icon.Hair_Color_Blonde_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Lightning-Orange",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Lightning_Normal_10_11.Eyebrows_Lightning_Normal_11'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Orange__Icon.Hair_Color_Orange__Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Lightning-Dark_Red",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Lightning_Normal_6_7.Eyebrows_Lightning_Normal_7'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Dark_Red_Icon.Hair_Color_Dark_Red_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Lightning-Red",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Lightning_Normal_13_14.Eyebrows_Lightning_Normal_14'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Red_Icon.Hair_Color_Red_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Lightning-Pink",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Lightning_Normal_11_12.Eyebrows_Lightning_Normal_12'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Pink_Icon.Hair_Color_Pink_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Lightning-Purple",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Lightning_Normal_12_13.Eyebrows_Lightning_Normal_13'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Purple_Icon.Hair_Color_Purple_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Lightning-Dark_Blue",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Lightning_Normal_4_5.Eyebrows_Lightning_Normal_5'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Dark_Blue_Icon.Hair_Color_Dark_Blue_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Lightning-Blue",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Lightning_Normal_2_3.Eyebrows_Lightning_Normal_3'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Blue_Icon.Hair_Color_Blue_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Lightning-Light_Blue",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Lightning_Normal_14_15.Eyebrows_Lightning_Normal_15'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Sky_Blue_Icon.Hair_Color_Sky_Blue_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Lightning-Green",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Lightning_Normal_7_8.Eyebrows_Lightning_Normal_8'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Green_Icon.Hair_Color_Green_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Medium-White",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Medium_Normal_16.Eyebrows_Medium_Normal_16'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Color_White_Icon.Color_White_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Medium-Grey",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Medium_Normal_9.Eyebrows_Medium_Normal_9'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Color_Grey_Icon.Color_Grey_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Medium-Black",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Medium_Normal.Eyebrows_Medium_Normal'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Black_Icon.Hair_Color_Black_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Medium-Dark_Brown",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Medium_Normal_6.Eyebrows_Medium_Normal_6'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Dark_Brown_Icon.Hair_Color_Dark_Brown_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Medium-Brown",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Medium_Normal_4.Eyebrows_Medium_Normal_4'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Brown_Icon.Hair_Color_Brown_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Medium-Yellow",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Medium_Normal_10.Eyebrows_Medium_Normal_10'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Hazel_Icon.Hair_Color_Hazel_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Medium-Blonde",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Medium_Normal_2.Eyebrows_Medium_Normal_2'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Blonde_Icon.Hair_Color_Blonde_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Medium-Orange",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Medium_Normal_11.Eyebrows_Medium_Normal_11'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Orange__Icon.Hair_Color_Orange__Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Medium-Dark_Red",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Medium_Normal_6_7.Eyebrows_Medium_Normal_7'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Dark_Red_Icon.Hair_Color_Dark_Red_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Medium-Red",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Medium_Normal_14.Eyebrows_Medium_Normal_14'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Red_Icon.Hair_Color_Red_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Medium-Pink",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Medium_Normal_12.Eyebrows_Medium_Normal_12'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Pink_Icon.Hair_Color_Pink_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Medium-Purple",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Medium_Normal_13.Eyebrows_Medium_Normal_13'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Purple_Icon.Hair_Color_Purple_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Medium-Dark_Blue",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Medium_Normal_5.Eyebrows_Medium_Normal_5'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Dark_Blue_Icon.Hair_Color_Dark_Blue_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Medium-Blue",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Medium_Normal_3.Eyebrows_Medium_Normal_3'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Blue_Icon.Hair_Color_Blue_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Medium-Light_Blue",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Medium_Normal_15.Eyebrows_Medium_Normal_15'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Sky_Blue_Icon.Hair_Color_Sky_Blue_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Medium-Green",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Medium_Normal_8.Eyebrows_Medium_Normal_8'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Green_Icon.Hair_Color_Green_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Robot-White",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Robot_Normal_16.Eyebrows_Robot_Normal_16'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Color_White_Icon.Color_White_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Robot-Grey",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Robot_Normal_8_9.Eyebrows_Robot_Normal_9'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Color_Grey_Icon.Color_Grey_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Robot-Black",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Robot_Normal.Eyebrows_Robot_Normal'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Black_Icon.Hair_Color_Black_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Robot-Dark_Brown",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Robot_Normal_6.Eyebrows_Robot_Normal_6'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Dark_Brown_Icon.Hair_Color_Dark_Brown_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Robot-Brown",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Robot_Normal_3_4.Eyebrows_Robot_Normal_4'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Brown_Icon.Hair_Color_Brown_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Robot-Yellow",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Robot_Normal_10.Eyebrows_Robot_Normal_10'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Hazel_Icon.Hair_Color_Hazel_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Robot-Blonde",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Robot_Normal_2.Eyebrows_Robot_Normal_2'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Blonde_Icon.Hair_Color_Blonde_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Robot-Orange",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Robot_Normal_11.Eyebrows_Robot_Normal_11'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Orange__Icon.Hair_Color_Orange__Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Robot-Dark_Red",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Robot_Normal_7.Eyebrows_Robot_Normal_7'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Dark_Red_Icon.Hair_Color_Dark_Red_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Robot-Red",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Robot_Normal_14.Eyebrows_Robot_Normal_14'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Red_Icon.Hair_Color_Red_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Robot-Pink",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Robot_Normal_12.Eyebrows_Robot_Normal_12'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Pink_Icon.Hair_Color_Pink_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Robot-Purple",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Robot_Normal_13.Eyebrows_Robot_Normal_13'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Purple_Icon.Hair_Color_Purple_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Robot-Dark_Blue",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Robot_Normal_5.Eyebrows_Robot_Normal_5'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Dark_Blue_Icon.Hair_Color_Dark_Blue_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Robot-Blue",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Robot_Normal_3.Eyebrows_Robot_Normal_3'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Blue_Icon.Hair_Color_Blue_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Robot-Light_Blue",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Robot_Normal_15.Eyebrows_Robot_Normal_15'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Sky_Blue_Icon.Hair_Color_Sky_Blue_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Robot-Green",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Robot_Normal_8.Eyebrows_Robot_Normal_8'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Green_Icon.Hair_Color_Green_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Scarred-White",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Scarred_Normal_16.Eyebrows_Scarred_Normal_16'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Color_White_Icon.Color_White_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Scarred-Grey",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Scarred_Normal_8_9.Eyebrows_Scarred_Normal_9'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Color_Grey_Icon.Color_Grey_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Scarred-Black",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Scarred_Normal.Eyebrows_Scarred_Normal'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Black_Icon.Hair_Color_Black_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Scarred-Dark_Brown",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Scarred_Normal_6.Eyebrows_Scarred_Normal_6'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Dark_Brown_Icon.Hair_Color_Dark_Brown_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Scarred-Brown",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Scarred_Normal_4.Eyebrows_Scarred_Normal_4'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Brown_Icon.Hair_Color_Brown_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Scarred-Yellow",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Scarred_Normal_10.Eyebrows_Scarred_Normal_10'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Hazel_Icon.Hair_Color_Hazel_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Scarred-Blonde",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Scarred_Normal_2.Eyebrows_Scarred_Normal_2'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Blonde_Icon.Hair_Color_Blonde_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Scarred-Orange",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Scarred_Normal_11.Eyebrows_Scarred_Normal_11'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Orange__Icon.Hair_Color_Orange__Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Scarred-Dark_Red",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Scarred_Normal_6_7.Eyebrows_Scarred_Normal_7'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Dark_Red_Icon.Hair_Color_Dark_Red_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Scarred-Red",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Scarred_Normal_14.Eyebrows_Scarred_Normal_14'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Red_Icon.Hair_Color_Red_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Scarred-Pink",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Scarred_Normal_12.Eyebrows_Scarred_Normal_12'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Pink_Icon.Hair_Color_Pink_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Scarred-Purple",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Scarred_Normal_13.Eyebrows_Scarred_Normal_13'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Purple_Icon.Hair_Color_Purple_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Scarred-Dark_Blue",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Scarred_Normal_5.Eyebrows_Scarred_Normal_5'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Dark_Blue_Icon.Hair_Color_Dark_Blue_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Scarred-Blue",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Scarred_Normal_2_3.Eyebrows_Scarred_Normal_3'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Blue_Icon.Hair_Color_Blue_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Scarred-Light_Blue",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Scarred_Normal_15.Eyebrows_Scarred_Normal_15'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Sky_Blue_Icon.Hair_Color_Sky_Blue_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Scarred-Green",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Scarred_Normal_8.Eyebrows_Scarred_Normal_8'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Green_Icon.Hair_Color_Green_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Scribble-White",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Scribble_Normal_16.Eyebrows_Scribble_Normal_16'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Color_White_Icon.Color_White_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Scribble-Grey",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Scribble_Normal_8_9.Eyebrows_Scribble_Normal_9'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Color_Grey_Icon.Color_Grey_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Scribble-Black",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Scribble_Normal.Eyebrows_Scribble_Normal'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Black_Icon.Hair_Color_Black_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Scribble-Dark_Brown",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Scribble_Normal_6.Eyebrows_Scribble_Normal_6'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Dark_Brown_Icon.Hair_Color_Dark_Brown_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Scribble-Brown",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Scribble_Normal_4.Eyebrows_Scribble_Normal_4'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Brown_Icon.Hair_Color_Brown_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Scribble-Yellow",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Scribble_Normal_10.Eyebrows_Scribble_Normal_10'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Hazel_Icon.Hair_Color_Hazel_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Scribble-Blonde",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Scribble_Normal_2.Eyebrows_Scribble_Normal_2'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Blonde_Icon.Hair_Color_Blonde_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Scribble-Orange",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Scribble_Normal_11.Eyebrows_Scribble_Normal_11'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Orange__Icon.Hair_Color_Orange__Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Scribble-Dark_Red",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Scribble_Normal_6_7.Eyebrows_Scribble_Normal_7'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Dark_Red_Icon.Hair_Color_Dark_Red_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Scribble-Red",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Scribble_Normal_14.Eyebrows_Scribble_Normal_14'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Red_Icon.Hair_Color_Red_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Scribble-Pink",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Scribble_Normal_12.Eyebrows_Scribble_Normal_12'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Pink_Icon.Hair_Color_Pink_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Scribble-Purple",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Scribble_Normal_13.Eyebrows_Scribble_Normal_13'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Purple_Icon.Hair_Color_Purple_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Scribble-Dark_Blue",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Scribble_Normal_5.Eyebrows_Scribble_Normal_5'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Dark_Blue_Icon.Hair_Color_Dark_Blue_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Scribble-Blue",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Scribble_Normal_2_3.Eyebrows_Scribble_Normal_3'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Blue_Icon.Hair_Color_Blue_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Scribble-Light_Blue",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Scribble_Normal_15.Eyebrows_Scribble_Normal_15'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Sky_Blue_Icon.Hair_Color_Sky_Blue_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Scribble-Green",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Scribble_Normal_8.Eyebrows_Scribble_Normal_8'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Green_Icon.Hair_Color_Green_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Small-White",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Small_Normal_16.Eyebrows_Small_Normal_16'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Color_White_Icon.Color_White_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Small-Grey",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Small_Normal_8_9.Eyebrows_Small_Normal_9'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Color_Grey_Icon.Color_Grey_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Small-Black",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Small_Normal.Eyebrows_Small_Normal'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Black_Icon.Hair_Color_Black_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Small-Dark_Brown",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Small_Normal_6.Eyebrows_Small_Normal_6'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Dark_Brown_Icon.Hair_Color_Dark_Brown_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Small-Brown",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Small_Normal_3_4.Eyebrows_Small_Normal_4'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Brown_Icon.Hair_Color_Brown_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Small-Yellow",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Small_Normal_10.Eyebrows_Small_Normal_10'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Hazel_Icon.Hair_Color_Hazel_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Small-Blonde",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Small_Normal_2.Eyebrows_Small_Normal_2'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Blonde_Icon.Hair_Color_Blonde_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Small-Orange",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Small_Normal_11.Eyebrows_Small_Normal_11'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Orange__Icon.Hair_Color_Orange__Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Small-Dark_Red",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Small_Normal_7.Eyebrows_Small_Normal_7'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Dark_Red_Icon.Hair_Color_Dark_Red_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Small-Red",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Small_Normal_14.Eyebrows_Small_Normal_14'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Red_Icon.Hair_Color_Red_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Small-Pink",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Small_Normal_12.Eyebrows_Small_Normal_12'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Pink_Icon.Hair_Color_Pink_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Small-Purple",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Small_Normal_13.Eyebrows_Small_Normal_13'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Purple_Icon.Hair_Color_Purple_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Small-Dark_Blue",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Small_Normal_5.Eyebrows_Small_Normal_5'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Dark_Blue_Icon.Hair_Color_Dark_Blue_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Small-Blue",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Small_Normal_3.Eyebrows_Small_Normal_3'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Blue_Icon.Hair_Color_Blue_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Small-Light_Blue",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Small_Normal_15.Eyebrows_Small_Normal_15'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Sky_Blue_Icon.Hair_Color_Sky_Blue_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Small-Green",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Small_Normal_7_8.Eyebrows_Small_Normal_8'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Green_Icon.Hair_Color_Green_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Straight-White",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Straight_Normal_16.Eyebrows_Straight_Normal_16'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Color_White_Icon.Color_White_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Straight-Grey",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Straight_Normal_9.Eyebrows_Straight_Normal_9'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Color_Grey_Icon.Color_Grey_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Straight-Black",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Straight_Normal.Eyebrows_Straight_Normal'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Black_Icon.Hair_Color_Black_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Straight-Dark_Brown",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Straight_Normal_5_6.Eyebrows_Straight_Normal_6'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Dark_Brown_Icon.Hair_Color_Dark_Brown_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Straight-Brown",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Straight_Normal_3_4.Eyebrows_Straight_Normal_4'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Brown_Icon.Hair_Color_Brown_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Straight-Yellow",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Straight_Normal_10.Eyebrows_Straight_Normal_10'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Hazel_Icon.Hair_Color_Hazel_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Straight-Blonde",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Straight_Normal_2.Eyebrows_Straight_Normal_2'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Blonde_Icon.Hair_Color_Blonde_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Straight-Orange",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Straight_Normal_11.Eyebrows_Straight_Normal_11'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Orange__Icon.Hair_Color_Orange__Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Straight-Dark_Red",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Straight_Normal_6_7.Eyebrows_Straight_Normal_7'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Dark_Red_Icon.Hair_Color_Dark_Red_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Straight-Red",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Straight_Normal_14.Eyebrows_Straight_Normal_14'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Red_Icon.Hair_Color_Red_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Straight-Pink",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Straight_Normal_12.Eyebrows_Straight_Normal_12'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Pink_Icon.Hair_Color_Pink_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Straight-Purple",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Straight_Normal_13.Eyebrows_Straight_Normal_13'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Purple_Icon.Hair_Color_Purple_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Straight-Dark_Blue",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Straight_Normal_5.Eyebrows_Straight_Normal_5'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Dark_Blue_Icon.Hair_Color_Dark_Blue_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Straight-Blue",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Straight_Normal_2_3.Eyebrows_Straight_Normal_3'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Blue_Icon.Hair_Color_Blue_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Straight-Light_Blue",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Straight_Normal_15.Eyebrows_Straight_Normal_15'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Sky_Blue_Icon.Hair_Color_Sky_Blue_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Straight-Green",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Straight_Normal_8.Eyebrows_Straight_Normal_8'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Green_Icon.Hair_Color_Green_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Swirl-White",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Swirl_Normal_16.Eyebrows_Swirl_Normal_16'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Color_White_Icon.Color_White_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Swirl-Grey",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Swirl_Normal_9.Eyebrows_Swirl_Normal_9'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Color_Grey_Icon.Color_Grey_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Swirl-Black",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Swirl_Normal.Eyebrows_Swirl_Normal'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Black_Icon.Hair_Color_Black_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Swirl-Dark_Brown",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Swirl_Normal_6.Eyebrows_Swirl_Normal_6'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Dark_Brown_Icon.Hair_Color_Dark_Brown_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Swirl-Brown",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Swirl_Normal_4.Eyebrows_Swirl_Normal_4'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Brown_Icon.Hair_Color_Brown_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Swirl-Yellow",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Swirl_Normal_10.Eyebrows_Swirl_Normal_10'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Hazel_Icon.Hair_Color_Hazel_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Swirl-Blonde",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Swirl_Normal_2.Eyebrows_Swirl_Normal_2'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Blonde_Icon.Hair_Color_Blonde_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Swirl-Orange",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Swirl_Normal_11.Eyebrows_Swirl_Normal_11'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Orange__Icon.Hair_Color_Orange__Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Swirl-Dark_Red",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Swirl_Normal_6_7.Eyebrows_Swirl_Normal_7'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Dark_Red_Icon.Hair_Color_Dark_Red_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Swirl-Red",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Swirl_Normal_14.Eyebrows_Swirl_Normal_14'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Red_Icon.Hair_Color_Red_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Swirl-Pink",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Swirl_Normal_12.Eyebrows_Swirl_Normal_12'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Pink_Icon.Hair_Color_Pink_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Swirl-Purple",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Swirl_Normal_13.Eyebrows_Swirl_Normal_13'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Purple_Icon.Hair_Color_Purple_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Swirl-Dark_Blue",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Swirl_Normal_5.Eyebrows_Swirl_Normal_5'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Dark_Blue_Icon.Hair_Color_Dark_Blue_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Swirl-Blue",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Swirl_Normal_2_3.Eyebrows_Swirl_Normal_3'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Blue_Icon.Hair_Color_Blue_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Swirl-Light_Blue",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Swirl_Normal_15.Eyebrows_Swirl_Normal_15'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Sky_Blue_Icon.Hair_Color_Sky_Blue_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Swirl-Green",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Swirl_Normal_8.Eyebrows_Swirl_Normal_8'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Green_Icon.Hair_Color_Green_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Swirl2-White",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Swirl2_Normal_16.Eyebrows_Swirl2_Normal_16'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Color_White_Icon.Color_White_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Swirl2-Grey",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Swirl2_Normal_8_9.Eyebrows_Swirl2_Normal_9'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Color_Grey_Icon.Color_Grey_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Swirl2-Black",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Swirl2_Normal.Eyebrows_Swirl2_Normal'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Black_Icon.Hair_Color_Black_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Swirl2-Dark_Brown",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Swirl2_Normal_6.Eyebrows_Swirl2_Normal_6'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Dark_Brown_Icon.Hair_Color_Dark_Brown_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Swirl2-Brown",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Swirl2_Normal_4.Eyebrows_Swirl2_Normal_4'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Brown_Icon.Hair_Color_Brown_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Swirl2-Yellow",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Swirl2_Normal_10.Eyebrows_Swirl2_Normal_10'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Hazel_Icon.Hair_Color_Hazel_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Swirl2-Blonde",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Swirl2_Normal_2.Eyebrows_Swirl2_Normal_2'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Blonde_Icon.Hair_Color_Blonde_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Swirl2-Orange",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Swirl2_Normal_11.Eyebrows_Swirl2_Normal_11'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Orange__Icon.Hair_Color_Orange__Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Swirl2-Dark_Red",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Swirl2_Normal_7.Eyebrows_Swirl2_Normal_7'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Dark_Red_Icon.Hair_Color_Dark_Red_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Swirl2-Red",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Swirl2_Normal_14.Eyebrows_Swirl2_Normal_14'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Red_Icon.Hair_Color_Red_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Swirl2-Pink",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Swirl2_Normal_12.Eyebrows_Swirl2_Normal_12'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Pink_Icon.Hair_Color_Pink_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Swirl2-Purple",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Swirl2_Normal_13.Eyebrows_Swirl2_Normal_13'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Purple_Icon.Hair_Color_Purple_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Swirl2-Dark_Blue",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Swirl2_Normal_4_5.Eyebrows_Swirl2_Normal_5'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Dark_Blue_Icon.Hair_Color_Dark_Blue_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Swirl2-Blue",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Swirl2_Normal_2_3.Eyebrows_Swirl2_Normal_3'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Blue_Icon.Hair_Color_Blue_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Swirl2-Light_Blue",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Swirl2_Normal_15.Eyebrows_Swirl2_Normal_15'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Sky_Blue_Icon.Hair_Color_Sky_Blue_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Swirl2-Green",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Swirl2_Normal_8.Eyebrows_Swirl2_Normal_8'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Green_Icon.Hair_Color_Green_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Thick-White",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Thick_Normal_16.Eyebrows_Thick_Normal_16'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Color_White_Icon.Color_White_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Thick-Grey",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Thick_Normal_9.Eyebrows_Thick_Normal_9'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Color_Grey_Icon.Color_Grey_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Thick-Black",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Thick_Normal.Eyebrows_Thick_Normal'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Black_Icon.Hair_Color_Black_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Thick-Dark_Brown",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Thick_Normal_6.Eyebrows_Thick_Normal_6'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Dark_Brown_Icon.Hair_Color_Dark_Brown_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Thick-Brown",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Thick_Normal_4.Eyebrows_Thick_Normal_4'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Brown_Icon.Hair_Color_Brown_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Thick-Yellow",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Thick_Normal_10.Eyebrows_Thick_Normal_10'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Hazel_Icon.Hair_Color_Hazel_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Thick-Blonde",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Thick_Normal_2.Eyebrows_Thick_Normal_2'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Blonde_Icon.Hair_Color_Blonde_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Thick-Orange",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Thick_Normal_11.Eyebrows_Thick_Normal_11'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Orange__Icon.Hair_Color_Orange__Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Thick-Dark_Red",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Thick_Normal_6_7.Eyebrows_Thick_Normal_7'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Dark_Red_Icon.Hair_Color_Dark_Red_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Thick-Red",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Thick_Normal_14.Eyebrows_Thick_Normal_14'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Red_Icon.Hair_Color_Red_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Thick-Pink",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Thick_Normal_12.Eyebrows_Thick_Normal_12'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Pink_Icon.Hair_Color_Pink_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Thick-Purple",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Thick_Normal_13.Eyebrows_Thick_Normal_13'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Purple_Icon.Hair_Color_Purple_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Thick-Dark_Blue",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Thick_Normal_4_5.Eyebrows_Thick_Normal_5'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Dark_Blue_Icon.Hair_Color_Dark_Blue_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Thick-Blue",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Thick_Normal_3.Eyebrows_Thick_Normal_3'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Blue_Icon.Hair_Color_Blue_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Thick-Light_Blue",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Thick_Normal_15.Eyebrows_Thick_Normal_15'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Sky_Blue_Icon.Hair_Color_Sky_Blue_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Thick-Green",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Thick_Normal_8.Eyebrows_Thick_Normal_8'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Green_Icon.Hair_Color_Green_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Thin-White",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Thin_Normal_16.Eyebrows_Thin_Normal_16'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Color_White_Icon.Color_White_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Thin-Grey",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Thin_Normal_9.Eyebrows_Thin_Normal_9'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Color_Grey_Icon.Color_Grey_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Thin-Black",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Thin_Normal.Eyebrows_Thin_Normal'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Black_Icon.Hair_Color_Black_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Thin-Dark_Brown",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Thin_Normal_5_6.Eyebrows_Thin_Normal_6'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Dark_Brown_Icon.Hair_Color_Dark_Brown_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Thin-Brown",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Thin_Normal_3_4.Eyebrows_Thin_Normal_4'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Brown_Icon.Hair_Color_Brown_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Thin-Yellow",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Thin_Normal_10.Eyebrows_Thin_Normal_10'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Hazel_Icon.Hair_Color_Hazel_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Thin-Blonde",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Thin_Normal_2.Eyebrows_Thin_Normal_2'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Blonde_Icon.Hair_Color_Blonde_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Thin-Orange",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Thin_Normal_11.Eyebrows_Thin_Normal_11'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Orange__Icon.Hair_Color_Orange__Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Thin-Dark_Red",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Thin_Normal_6_7.Eyebrows_Thin_Normal_7'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Dark_Red_Icon.Hair_Color_Dark_Red_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Thin-Red",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Thin_Normal_14.Eyebrows_Thin_Normal_14'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Red_Icon.Hair_Color_Red_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Thin-Pink",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Thin_Normal_12.Eyebrows_Thin_Normal_12'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Pink_Icon.Hair_Color_Pink_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Thin-Purple",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Thin_Normal_13.Eyebrows_Thin_Normal_13'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Purple_Icon.Hair_Color_Purple_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Thin-Dark_Blue",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Thin_Normal_4_5.Eyebrows_Thin_Normal_5'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Dark_Blue_Icon.Hair_Color_Dark_Blue_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Thin-Blue",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Thin_Normal_2_3.Eyebrows_Thin_Normal_3'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Blue_Icon.Hair_Color_Blue_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Thin-Light_Blue",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Thin_Normal_15.Eyebrows_Thin_Normal_15'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Sky_Blue_Icon.Hair_Color_Sky_Blue_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Thin-Green",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Thin_Normal_8.Eyebrows_Thin_Normal_8'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Green_Icon.Hair_Color_Green_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Tilde-White",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Tilde_Normal_16.Eyebrows_Tilde_Normal_16'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Color_White_Icon.Color_White_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Tilde-Grey",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Tilde_Normal_9.Eyebrows_Tilde_Normal_9'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Color_Grey_Icon.Color_Grey_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Tilde-Black",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Tilde_Normal.Eyebrows_Tilde_Normal'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Black_Icon.Hair_Color_Black_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Tilde-Dark_Brown",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Tilde_Normal_5_6.Eyebrows_Tilde_Normal_6'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Dark_Brown_Icon.Hair_Color_Dark_Brown_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Tilde-Brown",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Tilde_Normal_3_4.Eyebrows_Tilde_Normal_4'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Brown_Icon.Hair_Color_Brown_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Tilde-Yellow",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Tilde_Normal_10.Eyebrows_Tilde_Normal_10'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Hazel_Icon.Hair_Color_Hazel_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Tilde-Blonde",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Tilde_Normal_2.Eyebrows_Tilde_Normal_2'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Blonde_Icon.Hair_Color_Blonde_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Tilde-Orange",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Tilde_Normal_11.Eyebrows_Tilde_Normal_11'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Orange__Icon.Hair_Color_Orange__Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Tilde-Dark_Red",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Tilde_Normal_7.Eyebrows_Tilde_Normal_7'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Dark_Red_Icon.Hair_Color_Dark_Red_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Tilde-Red",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Tilde_Normal_14.Eyebrows_Tilde_Normal_14'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Red_Icon.Hair_Color_Red_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Tilde-Pink",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Tilde_Normal_12.Eyebrows_Tilde_Normal_12'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Pink_Icon.Hair_Color_Pink_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Tilde-Purple",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Tilde_Normal_13.Eyebrows_Tilde_Normal_13'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Purple_Icon.Hair_Color_Purple_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Tilde-Dark_Blue",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Tilde_Normal_5.Eyebrows_Tilde_Normal_5'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Dark_Blue_Icon.Hair_Color_Dark_Blue_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Tilde-Blue",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Tilde_Normal_3.Eyebrows_Tilde_Normal_3'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Blue_Icon.Hair_Color_Blue_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Tilde-Light_Blue",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Tilde_Normal_15.Eyebrows_Tilde_Normal_15'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Sky_Blue_Icon.Hair_Color_Sky_Blue_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Tilde-Green",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Tilde_Normal_8.Eyebrows_Tilde_Normal_8'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Green_Icon.Hair_Color_Green_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Wedge-White",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Wedge_Normal_16.Eyebrows_Wedge_Normal_16'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Color_White_Icon.Color_White_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Wedge-Grey",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Wedge_Normal_9.Eyebrows_Wedge_Normal_9'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Color_Grey_Icon.Color_Grey_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Wedge-Black",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Wedge_Normal.Eyebrows_Wedge_Normal'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Black_Icon.Hair_Color_Black_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Wedge-Dark_Brown",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Wedge_Normal_5_6.Eyebrows_Wedge_Normal_6'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Dark_Brown_Icon.Hair_Color_Dark_Brown_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Wedge-Brown",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Wedge_Normal_4.Eyebrows_Wedge_Normal_4'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Brown_Icon.Hair_Color_Brown_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Wedge-Yellow",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Wedge_Normal_10.Eyebrows_Wedge_Normal_10'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Hazel_Icon.Hair_Color_Hazel_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Wedge-Blonde",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Wedge_Normal_2.Eyebrows_Wedge_Normal_2'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Blonde_Icon.Hair_Color_Blonde_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Wedge-Orange",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Wedge_Normal_11.Eyebrows_Wedge_Normal_11'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Orange__Icon.Hair_Color_Orange__Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Wedge-Dark_Red",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Wedge_Normal_6_7.Eyebrows_Wedge_Normal_7'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Dark_Red_Icon.Hair_Color_Dark_Red_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Wedge-Red",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Wedge_Normal_14.Eyebrows_Wedge_Normal_14'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Red_Icon.Hair_Color_Red_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Wedge-Pink",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Wedge_Normal_12.Eyebrows_Wedge_Normal_12'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Pink_Icon.Hair_Color_Pink_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Wedge-Purple",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Wedge_Normal_13.Eyebrows_Wedge_Normal_13'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Purple_Icon.Hair_Color_Purple_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Wedge-Dark_Blue",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Wedge_Normal_4_5.Eyebrows_Wedge_Normal_5'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Dark_Blue_Icon.Hair_Color_Dark_Blue_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Wedge-Blue",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Wedge_Normal_2_3.Eyebrows_Wedge_Normal_3'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Blue_Icon.Hair_Color_Blue_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Wedge-Light_Blue",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Wedge_Normal_15.Eyebrows_Wedge_Normal_15'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Sky_Blue_Icon.Hair_Color_Sky_Blue_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Wedge-Green",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Wedge_Normal_8.Eyebrows_Wedge_Normal_8'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Green_Icon.Hair_Color_Green_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Winged-White",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Winged_Normal_16.Eyebrows_Winged_Normal_16'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Color_White_Icon.Color_White_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Winged-Grey",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Winged_Normal_9.Eyebrows_Winged_Normal_9'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Color_Grey_Icon.Color_Grey_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Winged-Black",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Winged_Normal.Eyebrows_Winged_Normal'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Black_Icon.Hair_Color_Black_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Winged-Dark_Brown",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Winged_Normal_6.Eyebrows_Winged_Normal_6'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Dark_Brown_Icon.Hair_Color_Dark_Brown_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Winged-Brown",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Winged_Normal_4.Eyebrows_Winged_Normal_4'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Brown_Icon.Hair_Color_Brown_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Winged-Yellow",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Winged_Normal_10.Eyebrows_Winged_Normal_10'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Hazel_Icon.Hair_Color_Hazel_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Winged-Blonde",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Winged_Normal_2.Eyebrows_Winged_Normal_2'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Blonde_Icon.Hair_Color_Blonde_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Winged-Orange",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Winged_Normal_11.Eyebrows_Winged_Normal_11'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Orange__Icon.Hair_Color_Orange__Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Winged-Dark_Red",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Winged_Normal_6_7.Eyebrows_Winged_Normal_7'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Dark_Red_Icon.Hair_Color_Dark_Red_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Winged-Red",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Winged_Normal_14.Eyebrows_Winged_Normal_14'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Red_Icon.Hair_Color_Red_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Winged-Pink",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Winged_Normal_12.Eyebrows_Winged_Normal_12'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Pink_Icon.Hair_Color_Pink_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Winged-Purple",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Winged_Normal_13.Eyebrows_Winged_Normal_13'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Purple_Icon.Hair_Color_Purple_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Winged-Dark_Blue",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Winged_Normal_5.Eyebrows_Winged_Normal_5'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Dark_Blue_Icon.Hair_Color_Dark_Blue_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Winged-Blue",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Winged_Normal_2_3.Eyebrows_Winged_Normal_3'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Blue_Icon.Hair_Color_Blue_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Winged-Light_Blue",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Winged_Normal_15.Eyebrows_Winged_Normal_15'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Sky_Blue_Icon.Hair_Color_Sky_Blue_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_Winged-Green",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Winged_Normal_8.Eyebrows_Winged_Normal_8'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Green_Icon.Hair_Color_Green_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_ZigZag-White",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_ZigZag_Normal_16.Eyebrows_ZigZag_Normal_16'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Color_White_Icon.Color_White_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_ZigZag-Grey",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_ZigZag_Normal_8_9.Eyebrows_ZigZag_Normal_9'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Color_Grey_Icon.Color_Grey_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_ZigZag-Black",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_ZigZag_Normal.Eyebrows_ZigZag_Normal'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Black_Icon.Hair_Color_Black_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_ZigZag-Dark_Brown",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_ZigZag_Normal_5_6.Eyebrows_ZigZag_Normal_6'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Dark_Brown_Icon.Hair_Color_Dark_Brown_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_ZigZag-Brown",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_ZigZag_Normal_4.Eyebrows_ZigZag_Normal_4'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Brown_Icon.Hair_Color_Brown_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_ZigZag-Yellow",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_ZigZag_Normal_10.Eyebrows_ZigZag_Normal_10'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Hazel_Icon.Hair_Color_Hazel_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_ZigZag-Blonde",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_ZigZag_Normal_2.Eyebrows_ZigZag_Normal_2'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Blonde_Icon.Hair_Color_Blonde_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_ZigZag-Orange",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_ZigZag_Normal_11.Eyebrows_ZigZag_Normal_11'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Orange__Icon.Hair_Color_Orange__Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_ZigZag-Dark_Red",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_ZigZag_Normal_6_7.Eyebrows_ZigZag_Normal_7'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Dark_Red_Icon.Hair_Color_Dark_Red_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_ZigZag-Red",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_ZigZag_Normal_14.Eyebrows_ZigZag_Normal_14'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Red_Icon.Hair_Color_Red_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_ZigZag-Pink",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_ZigZag_Normal_12.Eyebrows_ZigZag_Normal_12'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Pink_Icon.Hair_Color_Pink_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_ZigZag-Purple",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_ZigZag_Normal_13.Eyebrows_ZigZag_Normal_13'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Purple_Icon.Hair_Color_Purple_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_ZigZag-Dark_Blue",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_ZigZag_Normal_4_5.Eyebrows_ZigZag_Normal_5'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Dark_Blue_Icon.Hair_Color_Dark_Blue_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_ZigZag-Blue",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_ZigZag_Normal_3.Eyebrows_ZigZag_Normal_3'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Blue_Icon.Hair_Color_Blue_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_ZigZag-Light_Blue",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_ZigZag_Normal_15.Eyebrows_ZigZag_Normal_15'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Sky_Blue_Icon.Hair_Color_Sky_Blue_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eyebrows_ZigZag-Green",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Eyebrows/Eyebrows_ArchNormal.Eyebrows_ArchNormal'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_ZigZag_Normal_8.Eyebrows_ZigZag_Normal_8'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Green_Icon.Hair_Color_Green_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		}
+	]
+}

@@ -1,0 +1,17 @@
+{
+	"Rows": 
+	[
+		{
+			"RowName": "InvExp1",
+			"IntProperty": 5
+		},
+		{
+			"RowName": "Big_Backpack",
+			"IntProperty": 16
+		},
+		{
+			"RowName": "Small_Backpack",
+			"IntProperty": 8
+		}
+	]
+}

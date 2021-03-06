@@ -1,0 +1,6 @@
+Dialogue_Animation_Triggers_Data Structure:
+
+RowName: string
+Animation: UAnimSequenceBase*
+LoopOnlyNTimes: true/false
+NumLoops: integer

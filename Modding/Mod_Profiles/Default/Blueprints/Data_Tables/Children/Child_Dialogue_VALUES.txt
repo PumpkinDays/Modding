@@ -1,0 +1,157 @@
+{
+	"Rows": 
+	[
+		{
+			"RowName": "Energetic",
+			"DailyDialogue":
+			[
+				"Omigosh I wonder what I should today? Maybe I can play with the animals? Or maybe I can go say hi to everyone around town? Or maybe I can...",
+				"*parent* is going to show me how to ride a bike later! Soon I'll be able to drive the tuk-tuk all around the island, all by myself.",
+				"*parent* scolded me because I went adventuring too far from hom. Hmpft, I'm old enough to take care of myself.",
+				"I love you, I love you, I love you, I love you! Hahaha!",
+				"Homework is sooo boring! I wanna go outside and play or do anything else. Literally anything else. ",
+				"I'm doing great today! I feel like I can run around the town a bazillion times!",
+				"I think I'm going to go hunt for cool bugs today! I wonder what I'll find? They won't be fast enough to get away from me though!",
+				"I'm not sure what I wanna be when I grow up. Maybe a doctor,or a lawyer, or a firefighter.. or an astronaut, or a politician, or a mortician...",
+				"*parent* won't give me a piggyback ride anymore! I'm not that heavy! Please ask *parent* to give me a piggy-back ride, please, please, please!",
+				"Ooo what are having for dinner later? I hope you make some fruit juice! I love, love, fruit juice! Just any kind of fruit! Even the weird ones like dragonfruit!"
+			],
+			"NothingMoreToSay": "I actually don't know if I have anything else to talk about...Or maybe I do...I dunno?",
+			"LikedGift": "Wow, is this really for me! You're the best!",
+			"RejectGift": "I don't want that."
+		},
+		{
+			"RowName": "Sweet",
+			"DailyDialogue":
+			[
+				"I drew a picture for *parent* today. It's a surprise so you can't see it either.",
+				"I love living on a farm. It's so nice to see all the plants go from little plants to big strong plants.",
+				"Is it ok if I walk a little outside of town today? I don't wanna worry you so I thought I'd ask first.",
+				"I love going out to the ranch and petting all the cute animals! Even if they are a little smelly they are all still cute. ",
+				"Homework is only a little hard, but I don't want any help. I can do it all by myself!",
+				"I'm feeling pretty happy today! Especially because today I didn't trip and fall over as I tend to do. I'm so clumsy sometimes, hehe.",
+				"Hmm, what should I draw today! maybe I should draw you today!",
+				"I wanna be an artist when I grow up. I wanna make pretty pictures that will make everyone happy.",
+				"*parent* is going to color with me later today! I'm really excited!",
+				"Can we have toast and jam today for supper? I really like jams, especially if you made them!"
+			],
+			"NothingMoreToSay": "Do your best today!",
+			"LikedGift": "Awww, thank you so much! You're the best!",
+			"RejectGift": "Um, no thank you..."
+		},
+		{
+			"RowName": "Brat",
+			"DailyDialogue":
+			[
+				"Don't you have something else better to do? Stop nagging me all the time.",
+				"*parent* is so annoying. I don't need anyone to check up on me.",
+				"I wish I didn't live on a farm, it smells awful. ",
+				"Ugh, my life sucks. You wouldn't understand...",
+				"*parent* can't tell me what to do. I can do whatever I want.",
+				"I don't like school, and I'm not going to do my homework. I'm going to go play instead.",
+				"I feel like garbage today. Not like you'd understand...",
+				"When I grow up I'm going to go back to the mainland and work for Jounce Corp. If you work for them, they'll give you free energy drinks for life!",
+				"I hate doing chores, but *parent* won't me watch tv until they're done. Ugh, this is worst.",
+				"I hate vegetables. I want cookies instead. Give me some cookies."
+			],
+			"NothingMoreToSay": "Stop bothering me. Aren't you busy doing boring adult stuff?",
+			"LikedGift": "I guess this looks ok. Thanks.",
+			"RejectGift": "I hate it."
+		},
+		{
+			"RowName": "Troublemaker",
+			"DailyDialogue":
+			[
+				"I got scolded by *parent* today because I used some animal poop in my latest prank. I didn't know they were going to fall directly in it. ",
+				"*parent* said to ask you if I can gather some bees from the garden. It's not a for a prank I promise.",
+				"I wanna be like the guys that do extreme stunts, with explosions and stuff! That sounds really cool!",
+				"I didn't steal it I promise, I was only borrowing. Oh...Forget I said anything, hehe. ",
+				"I turned my homework into spitballs. That means I don't have to do it right?",
+				"Whatever happened, it wasn't me. Just saying.",
+				"I don't wanna do farm chores, ugh...",
+				"I'm booored! ",
+				"Can I have ice cream after dinner? Please, please, please!",
+				"*parent* is mad at me because I figure out how to jump on top some of the roofs in town today. I'm not going to fall off, it's really easy to get down."
+			],
+			"NothingMoreToSay": "I promise I won't prank anyone else today.",
+			"LikedGift": "Ooo I really like this, thanks!",
+			"RejectGift": "Gross."
+		},
+		{
+			"RowName": "Shy",
+			"DailyDialogue":
+			[
+				"Um...can I get a new video game for my birthday? All my friends are playing this really popular game and I feel left out",
+				"I like our farm...It's quiet...",
+				"I don't really like talking to anyone...But I guess I have to if I want to make friends...",
+				"Do I really have to go outside? I just want to stay at home...",
+				"Can you help me with my homework later? It's kind of hard...",
+				"Um, hi...",
+				"I think when I grow up I wanna be a writer...Is it hard to be a writer?",
+				"*parent* wants me to go outside more, but I don't wanna...",
+				"I wrote a story about a panda...Do you want to read it?",
+				"I hope we're having soup for dinner...I really like when you make soup."
+			],
+			"NothingMoreToSay": "Um...",
+			"LikedGift": "Oh, t-thank you very much.",
+			"RejectGift": "No thank you."
+		},
+		{
+			"RowName": "Nerdy",
+			"DailyDialogue":
+			[
+				"I wrote up a strategy to maximize your productivity on the farm. Not that the farm isn't productive, but it is not operating at maximum efficiency",
+				"*parent* tried to help me with my homework, but I know what I'm doing. I'm smarter than any other kid my age.",
+				"I tell everyone that I live on a farm and it's great. There are so many things I can study like bugs and animals.",
+				"There are some books I can't check out at the library because it's for grown-ups. That's not fair, I know how to read complicated words just like the grown-ups... so let me read the grown-up books!",
+				"Do you think the mayor let me take a look at the town's accounting? I'm pretty sure I can come up with a way to make it more efficient.",
+				"School is boring. I already know everything they teach at my age. I wanna learn something more challenging like nuclear physics.",
+				"I'm kind of bored today. I'm not sure what to do later.Hmm, I think I'll go bother *parent*",
+				"When I grow up I'm going to figure out how humans can live on Mars. I think that would be so cool!",
+				"Ugh, I don't wanna do chores. I just wanna hang out at the library and read.",
+				"Can we have sushi for dinner tonight! I love sushi sooo much! I wanna eat it every day."
+			],
+			"NothingMoreToSay": "Now, if you'll excuse me...",
+			"LikedGift": "Ah, this is a balanced and nutritious meal. Thank you.",
+			"RejectGift": "I insist you keep that."
+		},
+		{
+			"RowName": "Sporty",
+			"DailyDialogue":
+			[
+				"Why can't I run outside in the rain? I'm so fast a cold can't even catch me. Hahaha.",
+				"*parent* made a big fuss because I fell over yesterday and scraped my knee. It's no big deal, I didn't even cry.",
+				"I bet I can feed the animals faster than you can!",
+				"Which one do you like better football or football?",
+				"I wish we had a hockey rink here. I wanna try playing hockey, but there is no place to practice.",
+				"I don't wanna go to school, I just want to play outside! Can I skip school today?",
+				"*parent* got mad at me because I was climbing on the trees. I won't hurt myself I promise!",
+				"I decided on which football team I wanna join when I grow up! I'm going to practice really hard so I can make the cut.",
+				"*parent* promised to play catch with me later! I'm so excited! Then we're going to race around town later! I'm going to win because I'm faster of course.",
+				"I wonder what's for dinner later? I hope it's curry because curry is my favorite! Does *parent* like curry? If not I'll eat whatever they don't want."
+			],
+			"NothingMoreToSay": "See ya later!",
+			"LikedGift": "NICE! I love this soooo much! Thanks!",
+			"RejectGift": "What's this?"
+		},
+		{
+			"RowName": "Tough",
+			"DailyDialogue":
+			[
+				"Some of the people in town are such pushovers they need to toughen up.",
+				"*parent* says I'm too young to start lifting weights. I don't want to be twig forever, I gotta bulk up now!",
+				"*parent* freaked out when I fell on my face. It's no big deal, look the bleeding stopped and you can barely notice.",
+				"I've been watching this really cool cartoon where the characters are really strong and fight a lot! I wanna be super strong like that one day to beat up my enemies!",
+				"I finished all my homework early so I could watch wrestling on TV. ",
+				"I'm doing pretty good today! *parent* made me this protein shake and it was really delicious.",
+				"I hope no one picks on *parent*. Because I'll find them.",
+				"I wanna get strong enough to one day lift a cow over my head. That would be sooo cool!",
+				"I'm training to see if I can break a block of wood with my bare hands. Don't worry I've watched tons of videos on how to do it safely.",
+				"Can we have ribs for dinner tonight! Bbq ribs are my favorite."
+			],
+			"NothingMoreToSay": "What?",
+			"LikedGift": "This is one of my favorites! Thanks!",
+			"RejectGift": "I don't want that..."
+		}
+	]
+}

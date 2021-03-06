@@ -1,0 +1,6 @@
+Farm_Quota_Items Structure:
+
+Spring: TArray-FName
+Summer: TArray-FName
+Fall: TArray-FName
+Winter: TArray-FName

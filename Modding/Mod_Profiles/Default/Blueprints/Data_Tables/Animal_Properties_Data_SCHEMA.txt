@@ -1,0 +1,42 @@
+Animal_Properties_Data Structure:
+
+RowName: string
+FriendlyName: string
+AnimalType: ONE of
+	Unset
+	Cow
+	Bull
+	Horse
+	Pig
+	Hen
+	Rooster
+	Sheep
+	Goat
+	Dog
+	Cat
+Skeleton: USkeletalMesh*
+BuyPrice: integer
+Thumbnail: UTexture2D*
+MaleThumbnail: UTexture2D*
+FemaleThumbnail: UTexture2D*
+Housing: ONE of
+	Barn
+	Coop
+	PetHouse
+IdleAnim: UAnimationAsset*
+Class: TSubclassOf<ACharacter> 
+AnimalProductItem: string
+AnimalProductTime: integer
+MaxAnimalProducts: integer
+AnimalHungerTime: integer
+DropsAnimalProduct: true/false
+SpawnsAnimalPoop: true/false
+GrowsInto: string
+GrowthHours: integer
+MeatValues: 
+	GivesMeat: true/false
+	MeatType: string
+	BaseMeatAmount: integer
+	MeatIncreaseInterval: integer
+	MeatIncreaseAmount: integer
+	MaxMeat: integer

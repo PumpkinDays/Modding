@@ -1,0 +1,4 @@
+Carpentry_Mat_Base_Classes Structure:
+
+BaseClass: UMaterial*
+ParameterName: string

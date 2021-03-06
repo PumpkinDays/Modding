@@ -1,0 +1,2583 @@
+{
+	"Rows": 
+	[
+		{
+			"RowName": "Basic_SingleBed_Basic_Black",
+			"Row": "Basic_SingleBed_Basic_Black",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Furniture/Single_Bed.Single_Bed'",
+			"FriendlyName": "Simple Bed",
+			"Category": "Beds",
+			"Slots":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Slot": "Pillow",
+						"MaterialBaseClass": "BASIC_Blend_Basic_Simgle_Bed"
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Slot": "BedFrame",
+						"MaterialBaseClass": "BASIC_Blend_Basic_Simgle_Bed"
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Slot": "BedFittedSheet",
+						"MaterialBaseClass": "BASIC_Blend_Basic_Simgle_Bed"
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Slot": "BedSheetFolds",
+						"MaterialBaseClass": "BASIC_Blend_Basic_Simgle_Bed"
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Slot": "BedComforter",
+						"MaterialBaseClass": "BASIC_Blend_Basic_Simgle_Bed"
+					}
+				}
+			],
+			"ProducedFurnitureItem": "Basic_SingleBed_Basic_Black",
+			"RecipeDifficulty": 0,
+			"Steps":
+			[ 6, 5 ],
+			"PreviewLocOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			},
+			"PreviewMeshOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Basic_ArmChair_Black",
+			"Row": "Basic_ArmChair_Black",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Furniture/Armchair.Armchair'",
+			"FriendlyName": "Basic Arm Chair",
+			"Category": "Chairs",
+			"Slots":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Slot": "ChairFabric",
+						"MaterialBaseClass": "BASIC_Blend_Basic_Arm_Chair"
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Slot": "ChairLegs",
+						"MaterialBaseClass": "BASIC_Blend_Basic_Arm_Chair"
+					}
+				}
+			],
+			"ProducedFurnitureItem": "Basic_ArmChair_Black",
+			"RecipeDifficulty": 0,
+			"Steps":
+			[ 6, 5 ],
+			"PreviewLocOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			},
+			"PreviewMeshOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Basic_Chair_Brown",
+			"Row": "Basic_Chair_Brown",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Furniture/Chair.Chair'",
+			"FriendlyName": "Basic Chair",
+			"Category": "Chairs",
+			"Slots":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Slot": "ChairFrame",
+						"MaterialBaseClass": "BASIC_Blend_Basic_Chair"
+					}
+				}
+			],
+			"ProducedFurnitureItem": "Basic_Chair_Brown",
+			"RecipeDifficulty": 0,
+			"Steps":
+			[ 6, 5 ],
+			"PreviewLocOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			},
+			"PreviewMeshOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Basic_Couch_Brown",
+			"Row": "Basic_Couch_Brown",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Furniture/Couch.Couch'",
+			"FriendlyName": "Basic Couch",
+			"Category": "Couches",
+			"Slots":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Slot": "CouchFabric",
+						"MaterialBaseClass": "BASIC_Blend_Basic_Couch"
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Slot": "CouchLegs",
+						"MaterialBaseClass": "BASIC_Blend_Basic_Couch"
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Slot": "Pillow",
+						"MaterialBaseClass": "BASIC_Blend_Basic_Couch_Pillow"
+					}
+				}
+			],
+			"ProducedFurnitureItem": "Basic_Couch_Brown",
+			"RecipeDifficulty": 1,
+			"Steps":
+			[ 6, 5 ],
+			"PreviewLocOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			},
+			"PreviewMeshOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "End_Table_Brown",
+			"Row": "End_Table_Brown",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Furniture/Table.Table'",
+			"FriendlyName": "Basic End Table",
+			"Category": "Tables",
+			"Slots":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Slot": "EndTableFrame",
+						"MaterialBaseClass": "BASIC_Blend_Basic_End_Table"
+					}
+				}
+			],
+			"ProducedFurnitureItem": "End_Table_Brown",
+			"RecipeDifficulty": 0,
+			"Steps":
+			[ 6, 5 ],
+			"PreviewLocOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			},
+			"PreviewMeshOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Basic_Table_Wood_Brown",
+			"Row": "Basic_Table_Wood_Brown",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Furniture/Table.Table'",
+			"FriendlyName": "Basic Table",
+			"Category": "Tables",
+			"Slots":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Slot": "TableFrame",
+						"MaterialBaseClass": "BASIC_Blend_Basic_Table"
+					}
+				}
+			],
+			"ProducedFurnitureItem": "Basic_Table_Wood_Brown",
+			"RecipeDifficulty": 0,
+			"Steps":
+			[ 6, 5 ],
+			"PreviewLocOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			},
+			"PreviewMeshOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Basic_OfficeDesk_Brown",
+			"Row": "Basic_OfficeDesk_Brown",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Furniture/Table.Table'",
+			"FriendlyName": "Basic Office Desk",
+			"Category": "Tables",
+			"Slots":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Slot": "OfficeDeskFrame",
+						"MaterialBaseClass": "BASIC_Blend_Basic_Office_Desk"
+					}
+				}
+			],
+			"ProducedFurnitureItem": "Basic_OfficeDesk_Brown",
+			"RecipeDifficulty": 0,
+			"Steps":
+			[ 6, 5 ],
+			"PreviewLocOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			},
+			"PreviewMeshOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Basic_Counter_Wood_Brown",
+			"Row": "Basic_Counter_Wood_Brown",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Furniture/Table.Table'",
+			"FriendlyName": "Basic Counter",
+			"Category": "Tables",
+			"Slots":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Slot": "CounterCupboards",
+						"MaterialBaseClass": "BASIC_Blend_Basic_Counter_Bottom"
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Slot": "CounterTop",
+						"MaterialBaseClass": "BASIC_Blend_Basic_Counter_Bottom"
+					}
+				}
+			],
+			"ProducedFurnitureItem": "Basic_Counter_Wood_Brown",
+			"RecipeDifficulty": 0,
+			"Steps":
+			[ 6, 5 ],
+			"PreviewLocOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			},
+			"PreviewMeshOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Basic_CoffeeTable_Wood_Brown",
+			"Row": "Basic_CoffeeTable_Wood_Brown",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Furniture/Table.Table'",
+			"FriendlyName": "Basic Coffee Table",
+			"Category": "Tables",
+			"Slots":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Slot": "CoffeeTableFrame",
+						"MaterialBaseClass": "BASIC_Blend_Basic_Coffee_Table"
+					}
+				}
+			],
+			"ProducedFurnitureItem": "Basic_CoffeeTable_Wood_Brown",
+			"RecipeDifficulty": 0,
+			"Steps":
+			[ 6, 5 ],
+			"PreviewLocOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			},
+			"PreviewMeshOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Basic_Vanity_Brown",
+			"Row": "Basic_Vanity_Brown",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Furniture/Vanity.Vanity'",
+			"FriendlyName": "Basic Vanity ",
+			"Category": "Storage",
+			"Slots":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Slot": "VanityFrame",
+						"MaterialBaseClass": "BASIC_Blend_Basic_Vanity"
+					}
+				}
+			],
+			"ProducedFurnitureItem": "Basic_Vanity_Brown",
+			"RecipeDifficulty": 0,
+			"Steps":
+			[ 6, 5 ],
+			"PreviewLocOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			},
+			"PreviewMeshOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Basic_Bookcase_Short_Wood_Brown",
+			"Row": "Basic_Bookcase_Short_Wood_Brown",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Furniture/Bookcase.Bookcase'",
+			"FriendlyName": "Basic Short Bookcase",
+			"Category": "Shelves",
+			"Slots":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Slot": "BookcaseFrameShort",
+						"MaterialBaseClass": "BASIC_Blend_Basic_Bookshelf_Short"
+					}
+				}
+			],
+			"ProducedFurnitureItem": "Basic_Bookcase_Short_Wood_Brown",
+			"RecipeDifficulty": 0,
+			"Steps":
+			[ 6, 5 ],
+			"PreviewLocOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			},
+			"PreviewMeshOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Basic_Bookcase_Tall_Wood_Brown",
+			"Row": "Basic_Bookcase_Tall_Wood_Brown",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Furniture/Bookcase.Bookcase'",
+			"FriendlyName": "Basic Tall Bookcase",
+			"Category": "Shelves",
+			"Slots":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Slot": "BookcaseFrameTall",
+						"MaterialBaseClass": "BASIC_Blend_Basic_Bookshelf_Tall"
+					}
+				}
+			],
+			"ProducedFurnitureItem": "Basic_Bookcase_Tall_Wood_Brown",
+			"RecipeDifficulty": 0,
+			"Steps":
+			[ 6, 5 ],
+			"PreviewLocOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			},
+			"PreviewMeshOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Basic_Dresser_Brown",
+			"Row": "Basic_Dresser_Brown",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Furniture/Dresser_Drawer.Dresser_Drawer'",
+			"FriendlyName": "Basic Dresser",
+			"Category": "Storage",
+			"Slots":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Slot": "DresserFrame",
+						"MaterialBaseClass": "BASIC_Blend_Basic_Dresser"
+					}
+				}
+			],
+			"ProducedFurnitureItem": "Basic_Dresser_Brown",
+			"RecipeDifficulty": 0,
+			"Steps":
+			[ 6, 5 ],
+			"PreviewLocOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			},
+			"PreviewMeshOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Basic_Cupboard_Wood_Brown",
+			"Row": "Basic_Cupboard_Wood_Brown",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Furniture/Cupboard.Cupboard'",
+			"FriendlyName": "Basic Cupboard",
+			"Category": "Shelves",
+			"Slots":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Slot": "CupboardFrame",
+						"MaterialBaseClass": "BASIC_Blend_Basic_Cupboard"
+					}
+				}
+			],
+			"ProducedFurnitureItem": "Basic_Cupboard_Wood_Brown",
+			"RecipeDifficulty": 0,
+			"Steps":
+			[ 6, 5 ],
+			"PreviewLocOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			},
+			"PreviewMeshOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Basic_Fridge_Black",
+			"Row": "Basic_Fridge_Black",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Furniture/Fridge.Fridge'",
+			"FriendlyName": "Basic Fridge",
+			"Category": "Storage",
+			"Slots":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Slot": "Fridge",
+						"MaterialBaseClass": "BASE_Fridge"
+					}
+				}
+			],
+			"ProducedFurnitureItem": "Basic_Fridge_Black",
+			"RecipeDifficulty": 0,
+			"Steps":
+			[ 5 ],
+			"PreviewLocOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			},
+			"PreviewMeshOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Basic_Wardrobe_Wood_Brown",
+			"Row": "Basic_Wardrobe_Wood_Brown",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Furniture/Wardrobe.Wardrobe'",
+			"FriendlyName": "Basic Wardrobe",
+			"Category": "Storage",
+			"Slots":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Slot": "WardrobeFrame",
+						"MaterialBaseClass": "BASIC_Blend_Basic_Wardrobe"
+					}
+				}
+			],
+			"ProducedFurnitureItem": "Basic_Wardrobe_Wood_Brown",
+			"RecipeDifficulty": 0,
+			"Steps":
+			[ 6, 5 ],
+			"PreviewLocOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			},
+			"PreviewMeshOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Antique_Bookcase_Short_Brown",
+			"Row": "Antique_Bookcase_Short_Brown",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Furniture/Bookcase.Bookcase'",
+			"FriendlyName": "Antique Short Bookcase",
+			"Category": "Shelves",
+			"Slots":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Slot": "BookcaseFrameShort",
+						"MaterialBaseClass": "BASIC_Blend_Antique_Bookcase_short"
+					}
+				}
+			],
+			"ProducedFurnitureItem": "Antique_Bookcase_Short_Brown",
+			"RecipeDifficulty": 0,
+			"Steps":
+			[ 6, 5 ],
+			"PreviewLocOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			},
+			"PreviewMeshOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Antique_Bookcase_Tall_Brown",
+			"Row": "Antique_Bookcase_Tall_Brown",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Furniture/Bookcase.Bookcase'",
+			"FriendlyName": "Antique Tall Bookcase",
+			"Category": "Shelves",
+			"Slots":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Slot": "BookcaseFrameTall",
+						"MaterialBaseClass": "BASIC_Blend_Antique_Bookcase_tall"
+					}
+				}
+			],
+			"ProducedFurnitureItem": "Antique_Bookcase_Tall_Brown",
+			"RecipeDifficulty": 0,
+			"Steps":
+			[ 6, 5 ],
+			"PreviewLocOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			},
+			"PreviewMeshOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Antique_Chair_Brown",
+			"Row": "Antique_Chair_Brown",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Furniture/Chair.Chair'",
+			"FriendlyName": "Antique Chair",
+			"Category": "Chairs",
+			"Slots":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Slot": "ChairFrame",
+						"MaterialBaseClass": "BASIC_Blend_Antique_Chair"
+					}
+				}
+			],
+			"ProducedFurnitureItem": "Antique_Chair_Brown",
+			"RecipeDifficulty": 0,
+			"Steps":
+			[ 6, 5 ],
+			"PreviewLocOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			},
+			"PreviewMeshOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Antique_Coffee_Table_Brown",
+			"Row": "Antique_Coffee_Table_Brown",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Furniture/Table.Table'",
+			"FriendlyName": "Antique Coffee Table",
+			"Category": "Tables",
+			"Slots":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Slot": "CoffeeTableFrame",
+						"MaterialBaseClass": "BASIC_Blend_Antique_Coffee_Table"
+					}
+				}
+			],
+			"ProducedFurnitureItem": "Antique_Coffee_Table_Brown",
+			"RecipeDifficulty": 0,
+			"Steps":
+			[ 6, 5 ],
+			"PreviewLocOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			},
+			"PreviewMeshOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Antique_Cupboard_Brown",
+			"Row": "Antique_Cupboard_Brown",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Furniture/Cupboard.Cupboard'",
+			"FriendlyName": "Antique Cupboard",
+			"Category": "Storage",
+			"Slots":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Slot": "CupboardFrame",
+						"MaterialBaseClass": "BASIC_Blend_Antique_Cupboard"
+					}
+				}
+			],
+			"ProducedFurnitureItem": "Antique_Cupboard_Brown",
+			"RecipeDifficulty": 0,
+			"Steps":
+			[ 6, 5 ],
+			"PreviewLocOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			},
+			"PreviewMeshOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Antique_Dresser_Brown",
+			"Row": "Antique_Dresser_Brown",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Furniture/Dresser_Drawer.Dresser_Drawer'",
+			"FriendlyName": "Antique Dresser",
+			"Category": "Storage",
+			"Slots":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Slot": "DresserFrame",
+						"MaterialBaseClass": "BASIC_Blend_Antique_Dresser"
+					}
+				}
+			],
+			"ProducedFurnitureItem": "Antique_Dresser_Brown",
+			"RecipeDifficulty": 0,
+			"Steps":
+			[ 6, 5 ],
+			"PreviewLocOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			},
+			"PreviewMeshOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Antique_OfficeDesk_Brown",
+			"Row": "Antique_OfficeDesk_Brown",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Furniture/Table.Table'",
+			"FriendlyName": "Antique Office Desk",
+			"Category": "Tables",
+			"Slots":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Slot": "OfficeDeskFrame",
+						"MaterialBaseClass": "BASIC_Blend_Antique_Office_Desk"
+					}
+				}
+			],
+			"ProducedFurnitureItem": "Antique_OfficeDesk_Brown",
+			"RecipeDifficulty": 0,
+			"Steps":
+			[ 6, 5 ],
+			"PreviewLocOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			},
+			"PreviewMeshOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Antique_Table_Brown",
+			"Row": "Antique_Table_Brown",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Furniture/Table.Table'",
+			"FriendlyName": "Antique Table",
+			"Category": "Tables",
+			"Slots":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Slot": "TableFrame",
+						"MaterialBaseClass": "BASIC_Blend_Antique_Table"
+					}
+				}
+			],
+			"ProducedFurnitureItem": "Antique_Table_Brown",
+			"RecipeDifficulty": 0,
+			"Steps":
+			[ 6, 5 ],
+			"PreviewLocOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			},
+			"PreviewMeshOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Antique_Wardrobe_Brown",
+			"Row": "Antique_Wardrobe_Brown",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Furniture/Wardrobe.Wardrobe'",
+			"FriendlyName": "Antique Wardrobe",
+			"Category": "Storage",
+			"Slots":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Slot": "WardrobeFrame",
+						"MaterialBaseClass": "BASIC_Blend_Antique_Wardrobe"
+					}
+				}
+			],
+			"ProducedFurnitureItem": "Antique_Wardrobe_Brown",
+			"RecipeDifficulty": 0,
+			"Steps":
+			[ 6, 5 ],
+			"PreviewLocOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			},
+			"PreviewMeshOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Nice_Chair_Brown",
+			"Row": "Nice_Chair_Brown",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Furniture/Chair.Chair'",
+			"FriendlyName": "Nice Chair",
+			"Category": "Chairs",
+			"Slots":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Slot": "ChairFrame",
+						"MaterialBaseClass": "BASIC_Blend_Nice_Chair"
+					}
+				}
+			],
+			"ProducedFurnitureItem": "Nice_Chair_Brown",
+			"RecipeDifficulty": 0,
+			"Steps":
+			[ 6, 5 ],
+			"PreviewLocOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			},
+			"PreviewMeshOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Nice_Coffee_Table_Brown",
+			"Row": "Nice_Coffee_Table_Brown",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Furniture/Table.Table'",
+			"FriendlyName": "Nice Coffee Table",
+			"Category": "Tables",
+			"Slots":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Slot": "CoffeeTableFrame",
+						"MaterialBaseClass": "BASIC_Blend_Nice_Coffee_Table"
+					}
+				}
+			],
+			"ProducedFurnitureItem": "Nice_Coffee_Table_Brown",
+			"RecipeDifficulty": 0,
+			"Steps":
+			[ 6, 5 ],
+			"PreviewLocOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			},
+			"PreviewMeshOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Nice_Table_Brown",
+			"Row": "Nice_Table_Brown",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Furniture/Table.Table'",
+			"FriendlyName": "Nice Table",
+			"Category": "Tables",
+			"Slots":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Slot": "TableFrame",
+						"MaterialBaseClass": "BASIC_Blend_Nice_Table"
+					}
+				}
+			],
+			"ProducedFurnitureItem": "Nice_Table_Brown",
+			"RecipeDifficulty": 0,
+			"Steps":
+			[ 6, 5 ],
+			"PreviewLocOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			},
+			"PreviewMeshOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Nice_Wardrobe_Brown",
+			"Row": "Nice_Wardrobe_Brown",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Furniture/Wardrobe.Wardrobe'",
+			"FriendlyName": "Nice Wardrobe",
+			"Category": "Storage",
+			"Slots":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Slot": "WardrobeFrame",
+						"MaterialBaseClass": "BASIC_Blend_Wardrobe"
+					}
+				}
+			],
+			"ProducedFurnitureItem": "Nice_Wardrobe_Brown",
+			"RecipeDifficulty": 0,
+			"Steps":
+			[ 6, 5 ],
+			"PreviewLocOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			},
+			"PreviewMeshOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Fun_Cupboard_Brown",
+			"Row": "Fun_Cupboard_Brown",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Furniture/Cupboard.Cupboard'",
+			"FriendlyName": "Fun Cupboard",
+			"Category": "Storage",
+			"Slots":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Slot": "CupboardFrame",
+						"MaterialBaseClass": "BASIC_Blend_Fun_Cupboard"
+					}
+				}
+			],
+			"ProducedFurnitureItem": "Fun_Cupboard_Brown",
+			"RecipeDifficulty": 0,
+			"Steps":
+			[ 6, 5 ],
+			"PreviewLocOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			},
+			"PreviewMeshOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Fun_Wardrobe_Brown",
+			"Row": "Fun_Wardrobe_Brown",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Furniture/Wardrobe.Wardrobe'",
+			"FriendlyName": "Fun Wardrobe",
+			"Category": "Storage",
+			"Slots":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Slot": "WardrobeFrame",
+						"MaterialBaseClass": "BASIC_Blend_Fun_Wardrobe"
+					}
+				}
+			],
+			"ProducedFurnitureItem": "Fun_Wardrobe_Brown",
+			"RecipeDifficulty": 0,
+			"Steps":
+			[ 6, 5 ],
+			"PreviewLocOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			},
+			"PreviewMeshOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Kitchenoid_Size_2",
+			"Row": "Kitchenoid_Size_2",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Furniture/Kitchenoid.Kitchenoid'",
+			"FriendlyName": "Medium Kitchen",
+			"Category": "Kitchen",
+			"Slots":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Slot": "KitchenCupboards",
+						"MaterialBaseClass": "BASIC_Kitchen_Blend"
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Slot": "KitchenWasher",
+						"MaterialBaseClass": "BASIC_Kitchen_Blend"
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Slot": "KitchenSink",
+						"MaterialBaseClass": "BASIC_Kitchen_Blend"
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Slot": "Kitchen_Counter",
+						"MaterialBaseClass": "BASIC_Kitchen_Blend"
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Slot": "KitchenStove",
+						"MaterialBaseClass": "BASIC_Kitchen_Blend"
+					}
+				}
+			],
+			"ProducedFurnitureItem": "Kitchenoid_Size_2",
+			"RecipeDifficulty": 2,
+			"Steps":
+			[ 6, 5, 7 ],
+			"PreviewLocOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			},
+			"PreviewMeshOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Kitchenoid_Size_3",
+			"Row": "Kitchenoid_Size_3",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Furniture/Kitchenoid.Kitchenoid'",
+			"FriendlyName": "Large Kitchen",
+			"Category": "Kitchen",
+			"Slots":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Slot": "KitchenCupboards",
+						"MaterialBaseClass": "BASIC_Kitchen_Blend"
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Slot": "KitchenWasher",
+						"MaterialBaseClass": "BASIC_Kitchen_Blend"
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Slot": "KitchenSink",
+						"MaterialBaseClass": "BASIC_Kitchen_Blend"
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Slot": "Kitchen_Counter",
+						"MaterialBaseClass": "BASIC_Kitchen_Blend"
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Slot": "KitchenStove",
+						"MaterialBaseClass": "BASIC_Kitchen_Blend"
+					}
+				}
+			],
+			"ProducedFurnitureItem": "Kitchenoid_Size_3",
+			"RecipeDifficulty": 2,
+			"Steps":
+			[ 6, 5, 7 ],
+			"PreviewLocOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			},
+			"PreviewMeshOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Kitchenoid_Size_4",
+			"Row": "Kitchenoid_Size_4",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Furniture/Kitchenoid.Kitchenoid'",
+			"FriendlyName": "Master Kitchen",
+			"Category": "Kitchen",
+			"Slots":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Slot": "KitchenCupboards",
+						"MaterialBaseClass": "BASIC_Kitchen_Blend"
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Slot": "KitchenWasher",
+						"MaterialBaseClass": "BASIC_Kitchen_Blend"
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Slot": "KitchenSink",
+						"MaterialBaseClass": "BASIC_Kitchen_Blend"
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Slot": "Kitchen_Counter",
+						"MaterialBaseClass": "BASIC_Kitchen_Blend"
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Slot": "KitchenStove",
+						"MaterialBaseClass": "BASIC_Kitchen_Blend"
+					}
+				}
+			],
+			"ProducedFurnitureItem": "Kitchenoid_Size_4",
+			"RecipeDifficulty": 3,
+			"Steps":
+			[ 6, 5, 7 ],
+			"PreviewLocOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			},
+			"PreviewMeshOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Plushie_Cat_Brown",
+			"Row": "Plushie_Cat_Brown",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Furniture/Plushie.Plushie'",
+			"FriendlyName": "Cat Plushie",
+			"Category": "Plushies",
+			"Slots":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Slot": "PlushieFabric",
+						"MaterialBaseClass": "BASIC_Cat_Plushie"
+					}
+				}
+			],
+			"ProducedFurnitureItem": "Plushie_Cat_Brown",
+			"RecipeDifficulty": 1,
+			"Steps":
+			[ 5 ],
+			"PreviewLocOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			},
+			"PreviewMeshOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Plushie_Chicken_White",
+			"Row": "Plushie_Chicken_White",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Furniture/Plushie.Plushie'",
+			"FriendlyName": "Chicken Plushie",
+			"Category": "Plushies",
+			"Slots":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Slot": "PlushieFabric",
+						"MaterialBaseClass": "BASIC_Cat_Plushie"
+					}
+				}
+			],
+			"ProducedFurnitureItem": "Plushie_Chicken_White",
+			"RecipeDifficulty": 1,
+			"Steps":
+			[ 5 ],
+			"PreviewLocOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			},
+			"PreviewMeshOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Plushie_Dog_Brown",
+			"Row": "Plushie_Dog_Brown",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Furniture/Plushie.Plushie'",
+			"FriendlyName": "Dog Plushie",
+			"Category": "Plushies",
+			"Slots":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Slot": "PlushieFabric",
+						"MaterialBaseClass": "BASIC_Cat_Plushie"
+					}
+				}
+			],
+			"ProducedFurnitureItem": "Plushie_Dog_Brown",
+			"RecipeDifficulty": 1,
+			"Steps":
+			[ 5 ],
+			"PreviewLocOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			},
+			"PreviewMeshOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Plushie_Elephant_Grey",
+			"Row": "Plushie_Elephant_Grey",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Furniture/Plushie.Plushie'",
+			"FriendlyName": "Elephant Plushie",
+			"Category": "Plushies",
+			"Slots":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Slot": "PlushieFabric",
+						"MaterialBaseClass": "BASIC_Cat_Plushie"
+					}
+				}
+			],
+			"ProducedFurnitureItem": "Plushie_Elephant_Grey",
+			"RecipeDifficulty": 1,
+			"Steps":
+			[ 5 ],
+			"PreviewLocOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			},
+			"PreviewMeshOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Plushie_Pig_Pink",
+			"Row": "Plushie_Pig_Pink",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Furniture/Plushie.Plushie'",
+			"FriendlyName": "Pig Plushie",
+			"Category": "Plushies",
+			"Slots":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Slot": "PlushieFabric",
+						"MaterialBaseClass": "BASIC_Cat_Plushie"
+					}
+				}
+			],
+			"ProducedFurnitureItem": "Plushie_Pig_Pink",
+			"RecipeDifficulty": 1,
+			"Steps":
+			[ 5 ],
+			"PreviewLocOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			},
+			"PreviewMeshOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Plushie_Horse_Brown",
+			"Row": "Plushie_Horse_Brown",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Furniture/Plushie.Plushie'",
+			"FriendlyName": "Horse Plushie",
+			"Category": "Plushies",
+			"Slots":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Slot": "PlushieFabric",
+						"MaterialBaseClass": "BASIC_Cat_Plushie"
+					}
+				}
+			],
+			"ProducedFurnitureItem": "Plushie_Horse_Brown",
+			"RecipeDifficulty": 1,
+			"Steps":
+			[ 5 ],
+			"PreviewLocOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			},
+			"PreviewMeshOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Tile_Brick",
+			"Row": "Tile_Brick",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Furniture/Tile_Icon.Tile_Icon'",
+			"FriendlyName": "Tile",
+			"Category": "Home",
+			"Slots":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Slot": "Tile_Slot",
+						"MaterialBaseClass": "BASIC_Tile"
+					}
+				}
+			],
+			"ProducedFurnitureItem": "Tile_Brick",
+			"RecipeDifficulty": 1,
+			"Steps":
+			[ 7 ],
+			"PreviewLocOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			},
+			"PreviewMeshOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Curtain_Open_Black",
+			"Row": "Curtain_Open_Black",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Furniture/Curtain_Open_Icon.Curtain_Open_Icon'",
+			"FriendlyName": "Small Open Curtains",
+			"Category": "Home",
+			"Slots":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Slot": "Curtain_Rod",
+						"MaterialBaseClass": "BASIC_Curtain"
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Slot": "Curtain",
+						"MaterialBaseClass": "BASIC_Curtain"
+					}
+				}
+			],
+			"ProducedFurnitureItem": "Curtain_Open_Black",
+			"RecipeDifficulty": 1,
+			"Steps":
+			[ 8, 5 ],
+			"PreviewLocOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			},
+			"PreviewMeshOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Wall_Big",
+			"Row": "Wall_Big",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Furniture/Wall_Icon.Wall_Icon'",
+			"FriendlyName": "Big Wall",
+			"Category": "Home",
+			"Slots":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Slot": "Wall",
+						"MaterialBaseClass": "Wallpaper_Base"
+					}
+				}
+			],
+			"ProducedFurnitureItem": "Wall_Big",
+			"RecipeDifficulty": 0,
+			"Steps":
+			[ 6 ],
+			"PreviewLocOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			},
+			"PreviewMeshOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Wall_Small",
+			"Row": "Wall_Small",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Furniture/Wall_Icon.Wall_Icon'",
+			"FriendlyName": "Small Wall",
+			"Category": "Home",
+			"Slots":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Slot": "Wall",
+						"MaterialBaseClass": "Wallpaper_Base"
+					}
+				}
+			],
+			"ProducedFurnitureItem": "Wall_Small",
+			"RecipeDifficulty": 0,
+			"Steps":
+			[ 6 ],
+			"PreviewLocOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			},
+			"PreviewMeshOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Small_Table_Brown",
+			"Row": "Small_Table_Brown",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Furniture/Table.Table'",
+			"FriendlyName": "Table",
+			"Category": "Tables",
+			"Slots":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Slot": "TableBase",
+						"MaterialBaseClass": "BASIC_Blend_Basic_Table"
+					}
+				}
+			],
+			"ProducedFurnitureItem": "Small_Table_Brown",
+			"RecipeDifficulty": 0,
+			"Steps":
+			[ 6, 5 ],
+			"PreviewLocOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			},
+			"PreviewMeshOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Black_Zag_Table",
+			"Row": "Black_Zag_Table",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Furniture/Table.Table'",
+			"FriendlyName": "Table With Table Cloth",
+			"Category": "Tables",
+			"Slots":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Slot": "TableBase",
+						"MaterialBaseClass": "BASIC_Blend_Basic_Table"
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Slot": "Table_Cloth",
+						"MaterialBaseClass": "BASIC_Blend_Table_Cloth"
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Slot": "Table_Cloth_Border",
+						"MaterialBaseClass": "BASIC_Blend_Table_Cloth"
+					}
+				}
+			],
+			"ProducedFurnitureItem": "Black_Zag_Table",
+			"RecipeDifficulty": 2,
+			"Steps":
+			[ 6, 8, 5 ],
+			"PreviewLocOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			},
+			"PreviewMeshOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Chair_Cushion_Black",
+			"Row": "Chair_Cushion_Black",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Furniture/Chair.Chair'",
+			"FriendlyName": "Cushioned Chair",
+			"Category": "Chairs",
+			"Slots":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Slot": "ChairFrame",
+						"MaterialBaseClass": "BASIC_Blend_Basic_Chair"
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Slot": "Chair_Cushion",
+						"MaterialBaseClass": "BASIC_Chair_Cushion"
+					}
+				}
+			],
+			"ProducedFurnitureItem": "Chair_Cushion_Black",
+			"RecipeDifficulty": 1,
+			"Steps":
+			[ 6, 8, 5 ],
+			"PreviewLocOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			},
+			"PreviewMeshOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Stone_Lantern_Grey",
+			"Row": "Stone_Lantern_Grey",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Furniture/Stone_Lantern_Icon.Stone_Lantern_Icon'",
+			"FriendlyName": "Stone Lantern",
+			"Category": "Home",
+			"Slots":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Slot": "StoneLatern",
+						"MaterialBaseClass": "BASIC_Stone_Latern"
+					}
+				}
+			],
+			"ProducedFurnitureItem": "Stone_Lantern_Grey",
+			"RecipeDifficulty": 2,
+			"Steps":
+			[ 6, 7 ],
+			"PreviewLocOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			},
+			"PreviewMeshOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Wall_Cabinets_Brown",
+			"Row": "Wall_Cabinets_Brown",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Furniture/Decor.Decor'",
+			"FriendlyName": "Wall Cabinet",
+			"Category": "Storage",
+			"Slots":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Slot": "Cabinet",
+						"MaterialBaseClass": "BASIC_Blend_Basic_Wall_Cabinet"
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Slot": "Shed_Knob",
+						"MaterialBaseClass": "Wallpaper_Base"
+					}
+				}
+			],
+			"ProducedFurnitureItem": "Wall_Cabinets_Brown",
+			"RecipeDifficulty": 1,
+			"Steps":
+			[ 6, 5 ],
+			"PreviewLocOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			},
+			"PreviewMeshOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Wall_Shelf",
+			"Row": "Wall_Shelf",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Furniture/Decor.Decor'",
+			"FriendlyName": "Wall Shelf",
+			"Category": "Shelves",
+			"Slots":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Slot": "ShelfTop",
+						"MaterialBaseClass": "Wallpaper_Base"
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Slot": "ShelfFrame",
+						"MaterialBaseClass": "Wallpaper_Base"
+					}
+				}
+			],
+			"ProducedFurnitureItem": "Wall_Shelf",
+			"RecipeDifficulty": 1,
+			"Steps":
+			[ 6, 5 ],
+			"PreviewLocOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			},
+			"PreviewMeshOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Bird_House",
+			"Row": "Bird_House",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Furniture/Decor.Decor'",
+			"FriendlyName": "Bird House",
+			"Category": "Decor",
+			"Slots":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Slot": "ChairFrame",
+						"MaterialBaseClass": "Wallpaper_Base"
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Slot": "BirdHouseBody",
+						"MaterialBaseClass": "Wallpaper_Base"
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Slot": "BirdHouseRoof",
+						"MaterialBaseClass": "Wallpaper_Base"
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Slot": "BirdHouseDoor",
+						"MaterialBaseClass": "Wallpaper_Base"
+					}
+				}
+			],
+			"ProducedFurnitureItem": "Bird_House",
+			"RecipeDifficulty": 2,
+			"Steps":
+			[ 6, 5 ],
+			"PreviewLocOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			},
+			"PreviewMeshOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Privacy_Screen_Black_Zag",
+			"Row": "Privacy_Screen_Black_Zag",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Furniture/Privacy_Screen_Icon.Privacy_Screen_Icon'",
+			"FriendlyName": "Privacy Screen",
+			"Category": "Decor",
+			"Slots":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Slot": "ChairFrame",
+						"MaterialBaseClass": "Wallpaper_Base"
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Slot": "Wallpaper",
+						"MaterialBaseClass": "Wallpaper_Base"
+					}
+				}
+			],
+			"ProducedFurnitureItem": "Privacy_Screen_Black_Zag",
+			"RecipeDifficulty": 1,
+			"Steps":
+			[ 6, 5 ],
+			"PreviewLocOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			},
+			"PreviewMeshOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Couch_Sleek_Brown",
+			"Row": "Couch_Sleek_Brown",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Furniture/Couch.Couch'",
+			"FriendlyName": "Sleek Couch",
+			"Category": "Couches",
+			"Slots":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Slot": "CouchLegs",
+						"MaterialBaseClass": "BASIC_Blend_Basic_Couch"
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Slot": "CouchFabric",
+						"MaterialBaseClass": "BASIC_Sleek_Couch"
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Slot": "Pillow",
+						"MaterialBaseClass": "BASIC_Blend_Basic_Couch_Pillow"
+					}
+				}
+			],
+			"ProducedFurnitureItem": "Couch_Sleek_Brown",
+			"RecipeDifficulty": 1,
+			"Steps":
+			[ 6, 5 ],
+			"PreviewLocOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			},
+			"PreviewMeshOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Elegant_Couch_White",
+			"Row": "Elegant_Couch_White",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Furniture/Couch.Couch'",
+			"FriendlyName": "Elegant Couch",
+			"Category": "Couches",
+			"Slots":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Slot": "CouchLegs",
+						"MaterialBaseClass": "BASIC_Blend_Basic_Couch"
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Slot": "CouchFabric",
+						"MaterialBaseClass": "BASIC_Elegant_Couch"
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Slot": "Pillow",
+						"MaterialBaseClass": "BASIC_Blend_Basic_Couch_Pillow"
+					}
+				}
+			],
+			"ProducedFurnitureItem": "Elegant_Couch_White",
+			"RecipeDifficulty": 2,
+			"Steps":
+			[ 6, 5 ],
+			"PreviewLocOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			},
+			"PreviewMeshOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Swing_Bench",
+			"Row": "Swing_Bench",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Furniture/Swing_Bench_Icon.Swing_Bench_Icon'",
+			"FriendlyName": "Outdoor Swing",
+			"Category": "Decor",
+			"Slots":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Slot": "OutdoorSwing",
+						"MaterialBaseClass": "Wallpaper_Base"
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Slot": "Swing_Chain",
+						"MaterialBaseClass": "Wallpaper_Base"
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Slot": "Swing_Cover",
+						"MaterialBaseClass": "Wallpaper_Base"
+					}
+				}
+			],
+			"ProducedFurnitureItem": "Swing_Bench",
+			"RecipeDifficulty": 2,
+			"Steps":
+			[ 6, 5, 7 ],
+			"PreviewLocOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			},
+			"PreviewMeshOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Basic_Lamp_Blue",
+			"Row": "Basic_Lamp_Blue",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Furniture/Lamp.Lamp'",
+			"FriendlyName": "Basic Lamp",
+			"Category": "Decor",
+			"Slots":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Slot": "Lamp_Cover",
+						"MaterialBaseClass": "BASIC_Blend_Basic_Lamp"
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Slot": "Lamp",
+						"MaterialBaseClass": "BASIC_Blend_Basic_Lamp"
+					}
+				}
+			],
+			"ProducedFurnitureItem": "Basic_Lamp_Blue",
+			"RecipeDifficulty": 1,
+			"Steps":
+			[ 5, 7 ],
+			"PreviewLocOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			},
+			"PreviewMeshOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Antique_Lamp_Blue",
+			"Row": "Antique_Lamp_Blue",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Furniture/Lamp.Lamp'",
+			"FriendlyName": "Antique Lamp",
+			"Category": "Decor",
+			"Slots":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Slot": "Lamp_Cover",
+						"MaterialBaseClass": "BASIC_Blend_Basic_Antique_Lamp"
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Slot": "Lamp",
+						"MaterialBaseClass": "BASIC_Blend_Basic_Antique_Lamp"
+					}
+				}
+			],
+			"ProducedFurnitureItem": "Antique_Lamp_Blue",
+			"RecipeDifficulty": 2,
+			"Steps":
+			[ 5, 7 ],
+			"PreviewLocOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			},
+			"PreviewMeshOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Oven_Mitts_Blue",
+			"Row": "Oven_Mitts_Blue",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Furniture/Oven_Mitts_Icon.Oven_Mitts_Icon'",
+			"FriendlyName": "Oven Mitts",
+			"Category": "Decor",
+			"Slots":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Slot": "OvenMitts",
+						"MaterialBaseClass": "BASIC_Oven_Mitts"
+					}
+				}
+			],
+			"ProducedFurnitureItem": "Oven_Mitts_Blue",
+			"RecipeDifficulty": 0,
+			"Steps":
+			[ 8 ],
+			"PreviewLocOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			},
+			"PreviewMeshOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Curtain_Open_Large",
+			"Row": "Curtain_Open_Large",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Furniture/Curtain_Open_Icon.Curtain_Open_Icon'",
+			"FriendlyName": "Large Open Curtains",
+			"Category": "Home",
+			"Slots":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Slot": "Curtain_Rod",
+						"MaterialBaseClass": "BASIC_Curtain"
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Slot": "Curtain",
+						"MaterialBaseClass": "BASIC_Curtain"
+					}
+				}
+			],
+			"ProducedFurnitureItem": "Curtain_Open_Large",
+			"RecipeDifficulty": 1,
+			"Steps":
+			[ 8, 5 ],
+			"PreviewLocOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			},
+			"PreviewMeshOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Fox_Plushie",
+			"Row": "Fox_Plushie",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Furniture/Plushie.Plushie'",
+			"FriendlyName": "Fox Plushie",
+			"Category": "Plushies",
+			"Slots":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Slot": "PlushieFabric",
+						"MaterialBaseClass": "BASIC_Fox_Plushie"
+					}
+				}
+			],
+			"ProducedFurnitureItem": "Fox_Plushie",
+			"RecipeDifficulty": 1,
+			"Steps":
+			[],
+			"PreviewLocOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			},
+			"PreviewMeshOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Basic_DoubleBed_Black",
+			"Row": "Basic_DoubleBed_Black",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Furniture/Single_Bed.Single_Bed'",
+			"FriendlyName": "Simple Double Bed",
+			"Category": "Beds",
+			"Slots":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Slot": "Pillow",
+						"MaterialBaseClass": "BASIC_Blend_Basic_Simgle_Bed"
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Slot": "BedFrame",
+						"MaterialBaseClass": "BASIC_Blend_Basic_Simgle_Bed"
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Slot": "BedFittedSheet",
+						"MaterialBaseClass": "BASIC_Blend_Basic_Simgle_Bed"
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Slot": "BedSheetFolds",
+						"MaterialBaseClass": "BASIC_Blend_Basic_Simgle_Bed"
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Slot": "BedComforter",
+						"MaterialBaseClass": "BASIC_Blend_Basic_Simgle_Bed"
+					}
+				}
+			],
+			"ProducedFurnitureItem": "Basic_DoubleBed_Black",
+			"RecipeDifficulty": 2,
+			"Steps":
+			[ 6, 5 ],
+			"PreviewLocOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			},
+			"PreviewMeshOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Crib",
+			"Row": "Crib",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Furniture/Single_Bed.Single_Bed'",
+			"FriendlyName": "Crib",
+			"Category": "Beds",
+			"Slots":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Slot": "Crib_Frame",
+						"MaterialBaseClass": "Crib_Blend"
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Slot": "Crib_Pillow",
+						"MaterialBaseClass": "Crib_Blend"
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Slot": "Crib_Bed_Sheets",
+						"MaterialBaseClass": "Crib_Blend"
+					}
+				}
+			],
+			"ProducedFurnitureItem": "Crib",
+			"RecipeDifficulty": 2,
+			"Steps":
+			[ 6, 8, 7 ],
+			"PreviewLocOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			},
+			"PreviewMeshOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Curtain_Short",
+			"Row": "Curtain_Short",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Furniture/Curtain_Open_Icon.Curtain_Open_Icon'",
+			"FriendlyName": "Short Curtain",
+			"Category": "Home",
+			"Slots":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Slot": "Curtain",
+						"MaterialBaseClass": "BASIC_Curtain"
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Slot": "Curtain_Rod",
+						"MaterialBaseClass": "BASIC_Curtain"
+					}
+				}
+			],
+			"ProducedFurnitureItem": "Curtain_Closed_Black",
+			"RecipeDifficulty": 1,
+			"Steps":
+			[ 8, 5 ],
+			"PreviewLocOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			},
+			"PreviewMeshOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Wall_House_Large",
+			"Row": "Wall_House_Large",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Furniture/Wall_Icon.Wall_Icon'",
+			"FriendlyName": "Large House Wall",
+			"Category": "Home",
+			"Slots":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Slot": "Wall",
+						"MaterialBaseClass": "Wallpaper_Base"
+					}
+				}
+			],
+			"ProducedFurnitureItem": "Wall_House_Large",
+			"RecipeDifficulty": 0,
+			"Steps":
+			[ 6 ],
+			"PreviewLocOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			},
+			"PreviewMeshOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Wall_House_Luxury",
+			"Row": "Wall_House_Luxury",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Furniture/Wall_Icon.Wall_Icon'",
+			"FriendlyName": "Luxury House Wall",
+			"Category": "Home",
+			"Slots":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Slot": "Wall",
+						"MaterialBaseClass": "Wallpaper_Base"
+					}
+				}
+			],
+			"ProducedFurnitureItem": "Wall_House_Luxury",
+			"RecipeDifficulty": 0,
+			"Steps":
+			[ 6 ],
+			"PreviewLocOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			},
+			"PreviewMeshOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		}
+	]
+}

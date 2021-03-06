@@ -1,0 +1,3 @@
+Carpentry_Wood_Ore_Textures Structure:
+
+MaterialProperty: UMaterialInterface*

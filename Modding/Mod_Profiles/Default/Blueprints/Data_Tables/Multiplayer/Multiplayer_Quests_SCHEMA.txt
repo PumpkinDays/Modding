@@ -1,0 +1,36 @@
+Multiplayer_Quests Structure:
+
+RowName: string
+QuestTitle: string
+QuestDescription: string
+BeginningOfQuestLine: true/false
+QuestType: ONE of
+	None
+	Obtain
+	Ship
+Item: string
+Amount: integer
+NextQuestRow: string
+Letters: 
+	ActivatedLetter: 
+		Subject: string
+		Body: string
+		Sender: string
+		AttachedItem: 
+			RowName: string
+			StackAmount: integer
+			OptionsString: string
+			ExtraOptions: TArray-FExtraOption
+		AttachedGold: integer
+		Identifier: integer
+	CompletedLetter: 
+		Subject: string
+		Body: string
+		Sender: string
+		AttachedItem: 
+			RowName: string
+			StackAmount: integer
+			OptionsString: string
+			ExtraOptions: TArray-FExtraOption
+		AttachedGold: integer
+		Identifier: integer

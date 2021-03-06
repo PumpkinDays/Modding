@@ -1,0 +1,49 @@
+{
+	"Rows": 
+	[
+		{
+			"RowName": "0",
+			"SpeedBonus": 0
+		},
+		{
+			"RowName": "1",
+			"SpeedBonus": 100
+		},
+		{
+			"RowName": "2",
+			"SpeedBonus": 200
+		},
+		{
+			"RowName": "3",
+			"SpeedBonus": 300
+		},
+		{
+			"RowName": "4",
+			"SpeedBonus": 400
+		},
+		{
+			"RowName": "5",
+			"SpeedBonus": 500
+		},
+		{
+			"RowName": "6",
+			"SpeedBonus": 600
+		},
+		{
+			"RowName": "7",
+			"SpeedBonus": 700
+		},
+		{
+			"RowName": "8",
+			"SpeedBonus": 800
+		},
+		{
+			"RowName": "9",
+			"SpeedBonus": 900
+		},
+		{
+			"RowName": "10",
+			"SpeedBonus": 1000
+		}
+	]
+}

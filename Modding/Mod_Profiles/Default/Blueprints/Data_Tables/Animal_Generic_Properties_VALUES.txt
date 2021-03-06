@@ -1,0 +1,77 @@
+{
+	"Rows": 
+	[
+		{
+			"RowName": "Cow",
+			"StorkBasketAnimation": "/Game/Animals/Baby_Animals/Baby_Cow_Sleeping.Baby_Cow_Sleeping",
+			"BasketMesh": "/Game/Animals/Basket_Large_Animal.Basket_Large_Animal",
+			"BasketAnimalZOffset": 0,
+			"NameTagZOffset": -1,
+			"JournalHarvestString": "Ready to milk"
+		},
+		{
+			"RowName": "Bull",
+			"StorkBasketAnimation": "/Game/Animals/Baby_Animals/Baby_Cow_Sleeping.Baby_Cow_Sleeping",
+			"BasketMesh": "/Game/Animals/Basket_Large_Animal.Basket_Large_Animal",
+			"BasketAnimalZOffset": 0,
+			"NameTagZOffset": -1,
+			"JournalHarvestString": ""
+		},
+		{
+			"RowName": "Horse",
+			"StorkBasketAnimation": "/Game/Animals/Baby_Animals/Baby_Horse_Sitting.Baby_Horse_Sitting",
+			"BasketMesh": "/Game/Animals/Basket_Baby_Chicken.Basket_Baby_Chicken",
+			"BasketAnimalZOffset": 0,
+			"NameTagZOffset": -1,
+			"JournalHarvestString": ""
+		},
+		{
+			"RowName": "Pig",
+			"StorkBasketAnimation": "/Game/Animals/Baby_Animals/Baby_Pig_Sitting.Baby_Pig_Sitting",
+			"BasketMesh": "/Game/Animals/Basket_Large_Animal.Basket_Large_Animal",
+			"BasketAnimalZOffset": 0,
+			"NameTagZOffset": -1,
+			"JournalHarvestString": ""
+		},
+		{
+			"RowName": "Hen",
+			"StorkBasketAnimation": "/Game/Animals/Baby_Animals/Baby_Chicken_Sleeping.Baby_Chicken_Sleeping",
+			"BasketMesh": "/Game/Animals/Basket_Baby_Chicken.Basket_Baby_Chicken",
+			"BasketAnimalZOffset": 0,
+			"NameTagZOffset": -1,
+			"JournalHarvestString": ""
+		},
+		{
+			"RowName": "Rooster",
+			"StorkBasketAnimation": "/Game/Animals/Baby_Animals/Baby_Chicken_Sleeping.Baby_Chicken_Sleeping",
+			"BasketMesh": "/Game/Animals/Basket_Baby_Chicken.Basket_Baby_Chicken",
+			"BasketAnimalZOffset": 0,
+			"NameTagZOffset": -1,
+			"JournalHarvestString": "Ready to harvest"
+		},
+		{
+			"RowName": "Sheep",
+			"StorkBasketAnimation": "/Game/Animals/Baby_Animals/Baby_Sheep_Sitting.Baby_Sheep_Sitting",
+			"BasketMesh": "/Game/Animals/Basket_Large_Animal.Basket_Large_Animal",
+			"BasketAnimalZOffset": 0,
+			"NameTagZOffset": -1,
+			"JournalHarvestString": "Ready to shear"
+		},
+		{
+			"RowName": "Dog",
+			"StorkBasketAnimation": "None",
+			"BasketMesh": "None",
+			"BasketAnimalZOffset": 0,
+			"NameTagZOffset": 50,
+			"JournalHarvestString": "Carrying A Bone"
+		},
+		{
+			"RowName": "Cat",
+			"StorkBasketAnimation": "None",
+			"BasketMesh": "None",
+			"BasketAnimalZOffset": 0,
+			"NameTagZOffset": 40,
+			"JournalHarvestString": "Caught a Bug"
+		}
+	]
+}

@@ -1,0 +1,7 @@
+Npc_Skin_Overrides Structure:
+
+SkinShadeOverride: uint8
+Hair: string
+Eyes: string
+Eyebrows: string
+Mouth: string

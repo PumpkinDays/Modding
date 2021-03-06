@@ -1,0 +1,51 @@
+Npc_Dialogue_Data Structure:
+
+Greetings: TArray-FString
+ErrandConversations: 
+	ErrandOpeningStatements: TArray-FString
+	ErrandClosingStatements: TArray-FString
+	ErrandAcceptanceResponses: TArray-FString
+	ErrandDeclineResponses: TArray-FString
+	ErrandCancelledLetterSubject: string
+	ErrandCancelledLetterBody: string
+	ErrandDeliveredButCancelledQuest: string
+HeartConversations: TArray-FHeartConversations
+FirstMeetingDiag: 
+	FirstMeetingSameTown: string
+	FirstMeetingDiffTown: string
+RejectGift: string
+RejectGiftAlreadyGivenOne: string
+GaveLikedGift: string
+GaveLovedGift: string
+GivesPlayerFavGift: string
+ReceivedBirthdayGift: string
+NoErrand: string
+NevermindResponse: string
+ErrandRewardCategory: TArray-FName
+ErrandCompletionStatements: TArray-FString
+PreShopListDialogue: string
+ConditionalDialogue: 
+	WaypointDialogue: TArray-FWaypointDialogueBank
+	RainDialogue: TArray-FString
+	SnowDialogue: TArray-FString
+	MarketDialogue: TArray-FString
+	RequestOnBoardDialogue: TArray-FString
+	NightDialogue: TArray-FString
+	PlayerBirthdayDialogue: TArray-FString
+	KidDialogue: 
+		Baby: string
+		Toddler: string
+		Child: string
+MiscDatingDialogue: 
+	CutsceneAcceptDate: string
+	CutsceneDeclineDate: string
+MiscMarriageDialogue: 
+	BeforeProposeCutsceneDialogue: string
+	AcceptMarriageProposalDialogue: string
+	MarriedGreeting: string
+MiscRoommateDialogue: 
+	CutsceneAcceptRoommate: string
+	CutsceneDeclineRoommate: string
+MiscCribDialogue: 
+	CutsceneAcceptCribBaby: string
+	CutsceneDeclineCribBaby: string

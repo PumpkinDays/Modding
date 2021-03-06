@@ -1,0 +1,8 @@
+No_Longer_Dating_Letters Structure:
+
+Subject: string
+Body: string
+Sender: string
+Item: string
+ItemAmount: integer
+GoldAmount: integer

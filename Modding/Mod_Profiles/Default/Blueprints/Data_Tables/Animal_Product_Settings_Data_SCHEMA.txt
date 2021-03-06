@@ -1,0 +1,21 @@
+Animal_Product_Settings_Data Structure:
+
+RequiresTool: true/false
+ToolType: ONE of
+	Hoe
+	Watering_Can
+	Seeds
+	Hammer
+	Sickle
+	Bucket
+	Shears
+	Axe
+	Fishing_Rod
+	Bug_Net
+	Pickaxe
+	Shovel
+	Brush
+	FruitPicker
+	Fertilizer
+	None
+AnimationOverride: UAnimSequenceBase*

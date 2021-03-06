@@ -1,0 +1,6 @@
+Npc_Expressions_Data Structure:
+
+Eyebrows: TArray-FNpcMaterialPair
+Eyes: UMaterialInterface*
+Mouth: UMaterialInterface*
+Cheeks: UMaterialInterface*

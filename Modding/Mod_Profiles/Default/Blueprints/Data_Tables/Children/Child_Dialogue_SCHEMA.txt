@@ -1,0 +1,6 @@
+Child_Dialogue Structure:
+
+DailyDialogue: TArray-FString
+NothingMoreToSay: string
+LikedGift: string
+RejectGift: string

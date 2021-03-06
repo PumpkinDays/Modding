@@ -1,0 +1,37 @@
+Bug_Spawn_Properties Structure:
+
+RowName: string
+BugAsStaticMesh: TAssetPtr<UStaticMesh>
+BugAsSkeletalMesh: TAssetPtr<USkeletalMesh>
+SkeletalMeshAnimation: TAssetPtr<UAnimSequence>
+AttackFleeStaticMesh: TAssetPtr<UStaticMesh>
+BugReponse: ONE of
+	Attack
+	Flee
+SpawnsDuringDay: true/false
+SpawnsDuringNight: true/false
+SpawnSeasons: TArray-TEnumAsByte<ESeason>
+SoundWhenAlert: TAssetPtr<USoundBase>
+SoundWhenAttackOrFlee: TAssetPtr<USoundBase>
+MovementWhenAlert: ONE of
+	None
+	Tremble
+	Hop
+IdleMovementMode: ONE of
+	None
+	FlyAndHover
+TrembleHalfAngle: float
+TrembleSpeed: float
+HopFallRate: float
+HopZVelocity: float
+TravelRadius: 
+	X: float
+	Y: float
+	Z: float
+MinTimeBetweenMoving: float
+MaxTimeBetweenMoving: float
+FlyingHoverMovementSpeed: float
+StaminaLostWhenAttacking: float
+DetectionRadius: float
+MinBugScale: float
+MaxBugScale: float

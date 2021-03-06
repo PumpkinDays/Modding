@@ -1,0 +1,197 @@
+{
+	"Rows": 
+	[
+		{
+			"RowName": "Herbs",
+			"StartingStatements":
+			[
+				"If anyone has time can they get me some",
+				"Hey I was wondering is someone has any",
+				"Does anyone have",
+				"I've beeen having trouble finding some",
+				"I desperately need some ",
+				"I really really need some",
+				"Can someone bring me some",
+				"Please see me if you have any"
+			],
+			"ClosingStatements":
+			[
+				"It's for a gift I'm making.",
+				"I really need it for a recipe I'm making.",
+				"It's for a friend.",
+				"I think it'll make my house smell nice.",
+				"I'm experimenting with different herbs.",
+				"I'm so busy I can't get it myself.",
+				"Don't ask why I need it."
+			]
+		},
+		{
+			"RowName": "Food",
+			"StartingStatements":
+			[
+				"I would love it if someone made me some",
+				"I must have some",
+				"I want to try eating",
+				"Anyone happen to have",
+				"I have to eat some",
+				"I need to eat some",
+				"Anyone cooked some",
+				"I want to try making some",
+				"I really need some delicious"
+			],
+			"ClosingStatements":
+			[
+				"I've always wanted to try some.",
+				"I have a craving I need to settle.",
+				"It's for a new diet I'm trying.",
+				"I used to hate it, but I want try it again.",
+				"Too tired after work to cook lately.",
+				"I'm too lazy to make some myself.",
+				"I want to know the recipe.",
+				"I'm not great at making it myself."
+			]
+		},
+		{
+			"RowName": "Crops",
+			"StartingStatements":
+			[
+				"I can't seem to get any",
+				"I would love to have some",
+				"I really want some",
+				"Does anyone have any spare",
+				"I'm really craving some",
+				"Can anyone get me",
+				"Can someone bring me some",
+				"Please see me if you have any"
+			],
+			"ClosingStatements":
+			[
+				"It's for a gift I'm making thanks.",
+				"I really need it for a recipe I'm making.",
+				"I want to send some to my friend overseas.",
+				"I'm so busy I can't get it myself."
+			]
+		},
+		{
+			"RowName": "AnimalProducts",
+			"StartingStatements":
+			[
+				"If anyone has time can they get me some",
+				"Hey I was wondering if anyone has any",
+				"Does anyone have",
+				"I've beeen having trouble finding some",
+				"I desperately need some ",
+				"I really really need some",
+				"Can someone bring me some",
+				"Please see me if you have any"
+			],
+			"ClosingStatements":
+			[
+				"It's for a gift I'm making thanks.",
+				"I really need it for a recipe I'm making.",
+				"I want to send some to my friend overseas.",
+				"I'm so busy I can't get it myself."
+			]
+		},
+		{
+			"RowName": "Ores",
+			"StartingStatements":
+			[
+				"I desperately need",
+				"I have to have some",
+				"I really want some",
+				"It's so hard to find some",
+				"I can't seem to get any",
+				"I'm too scared to go mining for",
+				"Can someone get me"
+			],
+			"ClosingStatements":
+			[
+				"It's for a project.",
+				"I'm making a present for a friend.",
+				"I want to try crafting something new.",
+				"Don't ask what it's for.",
+				"I just want to collect some.",
+				"I just think they are pretty and I want some",
+				"I just think they are pretty and I want some"
+			]
+		},
+		{
+			"RowName": "Fish",
+			"StartingStatements":
+			[
+				"I can't seem to catch any",
+				"I'm too busy to get some",
+				"I really want some",
+				"Can someone please bring me some",
+				"Where are all the",
+				"It's hard to find some",
+				"I want some"
+			],
+			"ClosingStatements":
+			[
+				"It's for a new recipe.",
+				"I want to grill some.",
+				"I want to cook some for a friend.",
+				"I think they make good pets.",
+				"Don't ask what its for just bring them.",
+				"I've never seen one.",
+				"I've been trying to catch these and I give up."
+			]
+		},
+		{
+			"RowName": "Wood",
+			"StartingStatements":
+			[
+				"I really want some",
+				"Does anyone have any spare",
+				"Surely someone has some",
+				"I want some"
+			],
+			"ClosingStatements":
+			[
+				"It's for a crafting project.",
+				"I'm making a present for a friend.",
+				"I need to do some repairs on my house.",
+				"I'm building something really neat.",
+				"I need to repair some furniture."
+			]
+		},
+		{
+			"RowName": "Flowers",
+			"StartingStatements":
+			[
+				"If anyone has time can they get me some",
+				"Hey I was wondering is someone has any",
+				"Does anyone have",
+				"I've beeen having trouble finding some",
+				"I desperately need some ",
+				"I really really need some",
+				"Can someone bring me some",
+				"Please see me if you have any"
+			],
+			"ClosingStatements":
+			[
+				"It's for a gift I'm making.",
+				"It's for a friend.",
+				"I think it'll make my house smell nice.",
+				"I'm so busy I can't get it myself.",
+				"Don't ask why I need it."
+			]
+		},
+		{
+			"RowName": "Misc",
+			"StartingStatements":
+			[
+				"I really want some",
+				"Does anyone have any spare",
+				"Surely someone has some",
+				"I want some"
+			],
+			"ClosingStatements":
+			[
+				"Don't ask why I need it."
+			]
+		}
+	]
+}

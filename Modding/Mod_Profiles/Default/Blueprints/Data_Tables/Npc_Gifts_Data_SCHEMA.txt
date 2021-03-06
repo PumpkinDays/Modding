@@ -1,0 +1,5 @@
+Npc_Gifts_Data Structure:
+
+LikedGifts: TArray-FName
+LovedGifts: TArray-FName
+FavoriteGiftsStatement: string

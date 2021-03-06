@@ -1,0 +1,3 @@
+Food_Status_Effects Structure:
+
+StatusEffect: string

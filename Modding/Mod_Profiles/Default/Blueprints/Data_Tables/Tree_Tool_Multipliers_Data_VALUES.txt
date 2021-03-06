@@ -1,0 +1,55 @@
+{
+	"Rows": 
+	[
+		{
+			"RowName": "Wooden",
+			"ToolTier": 0,
+			"HitMultiplier": 10
+		},
+		{
+			"RowName": "Copper",
+			"ToolTier": 0,
+			"HitMultiplier": 10
+		},
+		{
+			"RowName": "Iron",
+			"ToolTier": 2,
+			"HitMultiplier": 20
+		},
+		{
+			"RowName": "Silver",
+			"ToolTier": 3,
+			"HitMultiplier": 20
+		},
+		{
+			"RowName": "Gold",
+			"ToolTier": 4,
+			"HitMultiplier": 20
+		},
+		{
+			"RowName": "Steel",
+			"ToolTier": 5,
+			"HitMultiplier": 30
+		},
+		{
+			"RowName": "Titanium",
+			"ToolTier": 6,
+			"HitMultiplier": 30
+		},
+		{
+			"RowName": "Uranium",
+			"ToolTier": 7,
+			"HitMultiplier": 50
+		},
+		{
+			"RowName": "Diamond",
+			"ToolTier": 8,
+			"HitMultiplier": 50
+		},
+		{
+			"RowName": "Meteor",
+			"ToolTier": 9,
+			"HitMultiplier": 500
+		}
+	]
+}

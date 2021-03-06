@@ -1,0 +1,235 @@
+{
+	"Rows": 
+	[
+		{
+			"RowName": "Wooden",
+			"Easy": 
+			{
+				"ChanceOfDamage": 0,
+				"AmountOfDamage": 0
+			},
+			"Normal": 
+			{
+				"ChanceOfDamage": 20,
+				"AmountOfDamage": 5
+			},
+			"Hard": 
+			{
+				"ChanceOfDamage": 30,
+				"AmountOfDamage": 15
+			},
+			"Impossible": 
+			{
+				"ChanceOfDamage": 30,
+				"AmountOfDamage": 15
+			}
+		},
+		{
+			"RowName": "Copper",
+			"Easy": 
+			{
+				"ChanceOfDamage": 0,
+				"AmountOfDamage": 0
+			},
+			"Normal": 
+			{
+				"ChanceOfDamage": 20,
+				"AmountOfDamage": 4
+			},
+			"Hard": 
+			{
+				"ChanceOfDamage": 30,
+				"AmountOfDamage": 10
+			},
+			"Impossible": 
+			{
+				"ChanceOfDamage": 30,
+				"AmountOfDamage": 10
+			}
+		},
+		{
+			"RowName": "Iron",
+			"Easy": 
+			{
+				"ChanceOfDamage": 0,
+				"AmountOfDamage": 0
+			},
+			"Normal": 
+			{
+				"ChanceOfDamage": 18,
+				"AmountOfDamage": 4
+			},
+			"Hard": 
+			{
+				"ChanceOfDamage": 25,
+				"AmountOfDamage": 10
+			},
+			"Impossible": 
+			{
+				"ChanceOfDamage": 25,
+				"AmountOfDamage": 10
+			}
+		},
+		{
+			"RowName": "Silver",
+			"Easy": 
+			{
+				"ChanceOfDamage": 0,
+				"AmountOfDamage": 0
+			},
+			"Normal": 
+			{
+				"ChanceOfDamage": 18,
+				"AmountOfDamage": 3
+			},
+			"Hard": 
+			{
+				"ChanceOfDamage": 25,
+				"AmountOfDamage": 5
+			},
+			"Impossible": 
+			{
+				"ChanceOfDamage": 25,
+				"AmountOfDamage": 5
+			}
+		},
+		{
+			"RowName": "Gold",
+			"Easy": 
+			{
+				"ChanceOfDamage": 0,
+				"AmountOfDamage": 0
+			},
+			"Normal": 
+			{
+				"ChanceOfDamage": 16,
+				"AmountOfDamage": 2
+			},
+			"Hard": 
+			{
+				"ChanceOfDamage": 20,
+				"AmountOfDamage": 5
+			},
+			"Impossible": 
+			{
+				"ChanceOfDamage": 20,
+				"AmountOfDamage": 5
+			}
+		},
+		{
+			"RowName": "Steel",
+			"Easy": 
+			{
+				"ChanceOfDamage": 0,
+				"AmountOfDamage": 0
+			},
+			"Normal": 
+			{
+				"ChanceOfDamage": 14,
+				"AmountOfDamage": 2
+			},
+			"Hard": 
+			{
+				"ChanceOfDamage": 20,
+				"AmountOfDamage": 4
+			},
+			"Impossible": 
+			{
+				"ChanceOfDamage": 20,
+				"AmountOfDamage": 5
+			}
+		},
+		{
+			"RowName": "Titanium",
+			"Easy": 
+			{
+				"ChanceOfDamage": 0,
+				"AmountOfDamage": 0
+			},
+			"Normal": 
+			{
+				"ChanceOfDamage": 12,
+				"AmountOfDamage": 1
+			},
+			"Hard": 
+			{
+				"ChanceOfDamage": 18,
+				"AmountOfDamage": 4
+			},
+			"Impossible": 
+			{
+				"ChanceOfDamage": 18,
+				"AmountOfDamage": 5
+			}
+		},
+		{
+			"RowName": "Uranium",
+			"Easy": 
+			{
+				"ChanceOfDamage": 0,
+				"AmountOfDamage": 0
+			},
+			"Normal": 
+			{
+				"ChanceOfDamage": 6,
+				"AmountOfDamage": 1
+			},
+			"Hard": 
+			{
+				"ChanceOfDamage": 16,
+				"AmountOfDamage": 2
+			},
+			"Impossible": 
+			{
+				"ChanceOfDamage": 16,
+				"AmountOfDamage": 5
+			}
+		},
+		{
+			"RowName": "Diamond",
+			"Easy": 
+			{
+				"ChanceOfDamage": 0,
+				"AmountOfDamage": 0
+			},
+			"Normal": 
+			{
+				"ChanceOfDamage": 2,
+				"AmountOfDamage": 1
+			},
+			"Hard": 
+			{
+				"ChanceOfDamage": 14,
+				"AmountOfDamage": 2
+			},
+			"Impossible": 
+			{
+				"ChanceOfDamage": 14,
+				"AmountOfDamage": 5
+			}
+		},
+		{
+			"RowName": "Meteor",
+			"Easy": 
+			{
+				"ChanceOfDamage": 0,
+				"AmountOfDamage": 0
+			},
+			"Normal": 
+			{
+				"ChanceOfDamage": 0,
+				"AmountOfDamage": 0
+			},
+			"Hard": 
+			{
+				"ChanceOfDamage": 12,
+				"AmountOfDamage": 1
+			},
+			"Impossible": 
+			{
+				"ChanceOfDamage": 12,
+				"AmountOfDamage": 5
+			}
+		}
+	]
+}

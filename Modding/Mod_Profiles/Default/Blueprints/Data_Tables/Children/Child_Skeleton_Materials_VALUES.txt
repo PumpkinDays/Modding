@@ -1,0 +1,41 @@
+{
+	"Rows": 
+	[
+		{
+			"RowName": "Child_Pants",
+			"Eyebrows": 5,
+			"Eyes": 6,
+			"Mouth": 7
+		},
+		{
+			"RowName": "Child_Long_Skirt",
+			"Eyebrows": 6,
+			"Eyes": 7,
+			"Mouth": 8
+		},
+		{
+			"RowName": "Child_Short_Skirt",
+			"Eyebrows": 7,
+			"Eyes": 8,
+			"Mouth": 9
+		},
+		{
+			"RowName": "Child_Short_Pants",
+			"Eyebrows": 6,
+			"Eyes": 7,
+			"Mouth": 8
+		},
+		{
+			"RowName": "Child_Pants_Glasses",
+			"Eyebrows": 5,
+			"Eyes": 6,
+			"Mouth": 7
+		},
+		{
+			"RowName": "Child_Long_Skirt_Glasses",
+			"Eyebrows": 6,
+			"Eyes": 7,
+			"Mouth": 8
+		}
+	]
+}

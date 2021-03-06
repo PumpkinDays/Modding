@@ -1,0 +1,3 @@
+Consumable_Stamina_Data Structure:
+
+StaminaReward: float

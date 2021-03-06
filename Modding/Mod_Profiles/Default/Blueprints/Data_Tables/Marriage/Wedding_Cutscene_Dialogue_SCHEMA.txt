@@ -1,0 +1,3 @@
+Wedding_Cutscene_Dialogue Structure:
+
+Dialogue: TArray-FCutsceneDialoguePiece

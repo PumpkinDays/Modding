@@ -1,0 +1,3 @@
+Farm_Quota_Failed_Letters Structure:
+
+Array: TArray-FScheduledLetter

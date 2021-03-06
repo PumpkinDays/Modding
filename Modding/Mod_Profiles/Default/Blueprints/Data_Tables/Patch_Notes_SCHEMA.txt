@@ -1,0 +1,3 @@
+Patch_Notes Structure:
+
+NameArray: TArray-FName

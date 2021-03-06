@@ -1,0 +1,110 @@
+{
+	"Rows": 
+	[
+		{
+			"RowName": "Default_Land",
+			"FriendlyName": "Default waypoint that is unlocked on land",
+			"TravelCompatibility": 0,
+			"DefaultCost": 100,
+			"DefaultTravelDuration": 1
+		},
+		{
+			"RowName": "Default_Water",
+			"FriendlyName": "Piscari Isle",
+			"TravelCompatibility": 1,
+			"DefaultCost": 100,
+			"DefaultTravelDuration": 1
+		},
+		{
+			"RowName": "Land_Test_1",
+			"FriendlyName": "Test land waypoint",
+			"TravelCompatibility": 0,
+			"DefaultCost": 100,
+			"DefaultTravelDuration": 1
+		},
+		{
+			"RowName": "Pumpkinvale_Land",
+			"FriendlyName": "Pumpkinvale",
+			"TravelCompatibility": 0,
+			"DefaultCost": 100,
+			"DefaultTravelDuration": 2
+		},
+		{
+			"RowName": "Wahoo_Beach_Land",
+			"FriendlyName": "Wahoo Beach",
+			"TravelCompatibility": 0,
+			"DefaultCost": 100,
+			"DefaultTravelDuration": 2
+		},
+		{
+			"RowName": "Museum_1",
+			"FriendlyName": "The Museum",
+			"TravelCompatibility": 0,
+			"DefaultCost": 100,
+			"DefaultTravelDuration": 2
+		},
+		{
+			"RowName": "Swampland_1",
+			"FriendlyName": "The Swamps",
+			"TravelCompatibility": 0,
+			"DefaultCost": 100,
+			"DefaultTravelDuration": 2
+		},
+		{
+			"RowName": "Spoonie_Island_1",
+			"FriendlyName": "Spoonie Island",
+			"TravelCompatibility": 0,
+			"DefaultCost": 100,
+			"DefaultTravelDuration": 2
+		},
+		{
+			"RowName": "Wahoo_Beach",
+			"FriendlyName": "Wahoo Beach",
+			"TravelCompatibility": 1,
+			"DefaultCost": 100,
+			"DefaultTravelDuration": 1
+		},
+		{
+			"RowName": "Diamond_Base",
+			"FriendlyName": "Diamond Falls Town",
+			"TravelCompatibility": 2,
+			"DefaultCost": 100,
+			"DefaultTravelDuration": 0
+		},
+		{
+			"RowName": "Diamond_Temple",
+			"FriendlyName": "Diamond Falls Temple",
+			"TravelCompatibility": 2,
+			"DefaultCost": 100,
+			"DefaultTravelDuration": 0
+		},
+		{
+			"RowName": "Topical_Tundra",
+			"FriendlyName": "Topical Tundra",
+			"TravelCompatibility": 0,
+			"DefaultCost": 100,
+			"DefaultTravelDuration": 1
+		},
+		{
+			"RowName": "Hiatus_Trails",
+			"FriendlyName": "Hiatus Trails",
+			"TravelCompatibility": 0,
+			"DefaultCost": 100,
+			"DefaultTravelDuration": 1
+		},
+		{
+			"RowName": "Diamond_Falls",
+			"FriendlyName": "Diamond Falls",
+			"TravelCompatibility": 0,
+			"DefaultCost": 100,
+			"DefaultTravelDuration": 2
+		},
+		{
+			"RowName": "Diamond_Falls2",
+			"FriendlyName": "Lake Dia",
+			"TravelCompatibility": 0,
+			"DefaultCost": 100,
+			"DefaultTravelDuration": 2
+		}
+	]
+}

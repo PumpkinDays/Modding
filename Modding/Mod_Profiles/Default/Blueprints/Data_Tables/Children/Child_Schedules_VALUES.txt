@@ -1,0 +1,4407 @@
+{
+	"Rows": 
+	[
+		{
+			"RowName": "Troublemaker_Pumpkinvale",
+			"Tasks":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Hour": 8,
+						"Waypoint": "Pumpkinvale_School_TroubleMaker",
+						"PrimaryAnimation": "None",
+						"LoopingAnimation": "None",
+						"Mesh": "None",
+						"MeshOffset": 
+						{
+							"Rotation": 
+							{
+								"X": 0,
+								"Y": 0,
+								"Z": 0,
+								"W": 1
+							},
+							"Translation": 
+							{
+								"X": 0,
+								"Y": 0,
+								"Z": 0
+							},
+							"Scale3D": 
+							{
+								"X": 1,
+								"Y": 1,
+								"Z": 1
+							}
+						},
+						"MeshSocket": "Bn_R_Wrist",
+						"SkipWhileRaining": false,
+						"IsRanTo": false,
+						"ScheduleExpression": "None"
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Hour": 13,
+						"Waypoint": "Pumpkinvale_Hangout1_TroubleMaker",
+						"PrimaryAnimation": "None",
+						"LoopingAnimation": "None",
+						"Mesh": "None",
+						"MeshOffset": 
+						{
+							"Rotation": 
+							{
+								"X": 0,
+								"Y": 0,
+								"Z": 0,
+								"W": 1
+							},
+							"Translation": 
+							{
+								"X": 0,
+								"Y": 0,
+								"Z": 0
+							},
+							"Scale3D": 
+							{
+								"X": 1,
+								"Y": 1,
+								"Z": 1
+							}
+						},
+						"MeshSocket": "Bn_R_Wrist",
+						"SkipWhileRaining": false,
+						"IsRanTo": false,
+						"ScheduleExpression": "None"
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Hour": 16,
+						"Waypoint": "Pumpkinvale_Hangout1_TroubleMaker",
+						"PrimaryAnimation": "None",
+						"LoopingAnimation": "None",
+						"Mesh": "None",
+						"MeshOffset": 
+						{
+							"Rotation": 
+							{
+								"X": 0,
+								"Y": 0,
+								"Z": 0,
+								"W": 1
+							},
+							"Translation": 
+							{
+								"X": 0,
+								"Y": 0,
+								"Z": 0
+							},
+							"Scale3D": 
+							{
+								"X": 1,
+								"Y": 1,
+								"Z": 1
+							}
+						},
+						"MeshSocket": "Bn_R_Wrist",
+						"SkipWhileRaining": false,
+						"IsRanTo": false,
+						"ScheduleExpression": "None"
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Hour": 19,
+						"Waypoint": "farm",
+						"PrimaryAnimation": "None",
+						"LoopingAnimation": "None",
+						"Mesh": "None",
+						"MeshOffset": 
+						{
+							"Rotation": 
+							{
+								"X": 0,
+								"Y": 0,
+								"Z": 0,
+								"W": 1
+							},
+							"Translation": 
+							{
+								"X": 0,
+								"Y": 0,
+								"Z": 0
+							},
+							"Scale3D": 
+							{
+								"X": 1,
+								"Y": 1,
+								"Z": 1
+							}
+						},
+						"MeshSocket": "Bn_R_Wrist",
+						"SkipWhileRaining": false,
+						"IsRanTo": false,
+						"ScheduleExpression": "None"
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Hour": 21,
+						"Waypoint": "Farm_Bed",
+						"PrimaryAnimation": "None",
+						"LoopingAnimation": "None",
+						"Mesh": "None",
+						"MeshOffset": 
+						{
+							"Rotation": 
+							{
+								"X": 0,
+								"Y": 0,
+								"Z": 0,
+								"W": 1
+							},
+							"Translation": 
+							{
+								"X": 0,
+								"Y": 0,
+								"Z": 0
+							},
+							"Scale3D": 
+							{
+								"X": 1,
+								"Y": 1,
+								"Z": 1
+							}
+						},
+						"MeshSocket": "Bn_R_Wrist",
+						"SkipWhileRaining": false,
+						"IsRanTo": false,
+						"ScheduleExpression": "None"
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Troublemaker_Wahoo_Beach",
+			"Tasks":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Hour": 8,
+						"Waypoint": "Wahoo_Troublemaker_School",
+						"PrimaryAnimation": "None",
+						"LoopingAnimation": "None",
+						"Mesh": "None",
+						"MeshOffset": 
+						{
+							"Rotation": 
+							{
+								"X": 0,
+								"Y": 0,
+								"Z": 0,
+								"W": 1
+							},
+							"Translation": 
+							{
+								"X": 0,
+								"Y": 0,
+								"Z": 0
+							},
+							"Scale3D": 
+							{
+								"X": 1,
+								"Y": 1,
+								"Z": 1
+							}
+						},
+						"MeshSocket": "Bn_R_Wrist",
+						"SkipWhileRaining": false,
+						"IsRanTo": false,
+						"ScheduleExpression": "None"
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Hour": 13,
+						"Waypoint": "Wahoo_Troublemaker_Hangout1",
+						"PrimaryAnimation": "None",
+						"LoopingAnimation": "None",
+						"Mesh": "None",
+						"MeshOffset": 
+						{
+							"Rotation": 
+							{
+								"X": 0,
+								"Y": 0,
+								"Z": 0,
+								"W": 1
+							},
+							"Translation": 
+							{
+								"X": 0,
+								"Y": 0,
+								"Z": 0
+							},
+							"Scale3D": 
+							{
+								"X": 1,
+								"Y": 1,
+								"Z": 1
+							}
+						},
+						"MeshSocket": "Bn_R_Wrist",
+						"SkipWhileRaining": false,
+						"IsRanTo": false,
+						"ScheduleExpression": "None"
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Hour": 16,
+						"Waypoint": "Wahoo_Troublemaker_Hangout2",
+						"PrimaryAnimation": "None",
+						"LoopingAnimation": "None",
+						"Mesh": "None",
+						"MeshOffset": 
+						{
+							"Rotation": 
+							{
+								"X": 0,
+								"Y": 0,
+								"Z": 0,
+								"W": 1
+							},
+							"Translation": 
+							{
+								"X": 0,
+								"Y": 0,
+								"Z": 0
+							},
+							"Scale3D": 
+							{
+								"X": 1,
+								"Y": 1,
+								"Z": 1
+							}
+						},
+						"MeshSocket": "Bn_R_Wrist",
+						"SkipWhileRaining": false,
+						"IsRanTo": false,
+						"ScheduleExpression": "None"
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Hour": 19,
+						"Waypoint": "farm",
+						"PrimaryAnimation": "None",
+						"LoopingAnimation": "None",
+						"Mesh": "None",
+						"MeshOffset": 
+						{
+							"Rotation": 
+							{
+								"X": 0,
+								"Y": 0,
+								"Z": 0,
+								"W": 1
+							},
+							"Translation": 
+							{
+								"X": 0,
+								"Y": 0,
+								"Z": 0
+							},
+							"Scale3D": 
+							{
+								"X": 1,
+								"Y": 1,
+								"Z": 1
+							}
+						},
+						"MeshSocket": "Bn_R_Wrist",
+						"SkipWhileRaining": false,
+						"IsRanTo": false,
+						"ScheduleExpression": "None"
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Hour": 21,
+						"Waypoint": "Farm_Bed",
+						"PrimaryAnimation": "None",
+						"LoopingAnimation": "None",
+						"Mesh": "None",
+						"MeshOffset": 
+						{
+							"Rotation": 
+							{
+								"X": 0,
+								"Y": 0,
+								"Z": 0,
+								"W": 1
+							},
+							"Translation": 
+							{
+								"X": 0,
+								"Y": 0,
+								"Z": 0
+							},
+							"Scale3D": 
+							{
+								"X": 1,
+								"Y": 1,
+								"Z": 1
+							}
+						},
+						"MeshSocket": "Bn_R_Wrist",
+						"SkipWhileRaining": false,
+						"IsRanTo": false,
+						"ScheduleExpression": "None"
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Troublemaker_Diamond_Falls",
+			"Tasks":
+			[]
+		},
+		{
+			"RowName": "Troublemaker_Spoony_ISland",
+			"Tasks":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Hour": 8,
+						"Waypoint": "farm",
+						"PrimaryAnimation": "None",
+						"LoopingAnimation": "None",
+						"Mesh": "None",
+						"MeshOffset": 
+						{
+							"Rotation": 
+							{
+								"X": 0,
+								"Y": 0,
+								"Z": 0,
+								"W": 1
+							},
+							"Translation": 
+							{
+								"X": 0,
+								"Y": 0,
+								"Z": 0
+							},
+							"Scale3D": 
+							{
+								"X": 1,
+								"Y": 1,
+								"Z": 1
+							}
+						},
+						"MeshSocket": "Bn_R_Wrist",
+						"SkipWhileRaining": false,
+						"IsRanTo": false,
+						"ScheduleExpression": "None"
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Hour": 13,
+						"Waypoint": "Spoon_Troublemaker_Hangout1",
+						"PrimaryAnimation": "None",
+						"LoopingAnimation": "None",
+						"Mesh": "None",
+						"MeshOffset": 
+						{
+							"Rotation": 
+							{
+								"X": 0,
+								"Y": 0,
+								"Z": 0,
+								"W": 1
+							},
+							"Translation": 
+							{
+								"X": 0,
+								"Y": 0,
+								"Z": 0
+							},
+							"Scale3D": 
+							{
+								"X": 1,
+								"Y": 1,
+								"Z": 1
+							}
+						},
+						"MeshSocket": "Bn_R_Wrist",
+						"SkipWhileRaining": false,
+						"IsRanTo": false,
+						"ScheduleExpression": "None"
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Hour": 16,
+						"Waypoint": "Spoon_Troublemaker_Hangout2",
+						"PrimaryAnimation": "None",
+						"LoopingAnimation": "None",
+						"Mesh": "None",
+						"MeshOffset": 
+						{
+							"Rotation": 
+							{
+								"X": 0,
+								"Y": 0,
+								"Z": 0,
+								"W": 1
+							},
+							"Translation": 
+							{
+								"X": 0,
+								"Y": 0,
+								"Z": 0
+							},
+							"Scale3D": 
+							{
+								"X": 1,
+								"Y": 1,
+								"Z": 1
+							}
+						},
+						"MeshSocket": "Bn_R_Wrist",
+						"SkipWhileRaining": false,
+						"IsRanTo": false,
+						"ScheduleExpression": "None"
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Hour": 19,
+						"Waypoint": "farm",
+						"PrimaryAnimation": "None",
+						"LoopingAnimation": "None",
+						"Mesh": "None",
+						"MeshOffset": 
+						{
+							"Rotation": 
+							{
+								"X": 0,
+								"Y": 0,
+								"Z": 0,
+								"W": 1
+							},
+							"Translation": 
+							{
+								"X": 0,
+								"Y": 0,
+								"Z": 0
+							},
+							"Scale3D": 
+							{
+								"X": 1,
+								"Y": 1,
+								"Z": 1
+							}
+						},
+						"MeshSocket": "Bn_R_Wrist",
+						"SkipWhileRaining": false,
+						"IsRanTo": false,
+						"ScheduleExpression": "None"
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Hour": 21,
+						"Waypoint": "Farm_Bed",
+						"PrimaryAnimation": "None",
+						"LoopingAnimation": "None",
+						"Mesh": "None",
+						"MeshOffset": 
+						{
+							"Rotation": 
+							{
+								"X": 0,
+								"Y": 0,
+								"Z": 0,
+								"W": 1
+							},
+							"Translation": 
+							{
+								"X": 0,
+								"Y": 0,
+								"Z": 0
+							},
+							"Scale3D": 
+							{
+								"X": 1,
+								"Y": 1,
+								"Z": 1
+							}
+						},
+						"MeshSocket": "Bn_R_Wrist",
+						"SkipWhileRaining": false,
+						"IsRanTo": false,
+						"ScheduleExpression": "None"
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Energetic_Pumpkinvale",
+			"Tasks":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Hour": 8,
+						"Waypoint": "Pumpkinvale_School_Energetic",
+						"PrimaryAnimation": "None",
+						"LoopingAnimation": "None",
+						"Mesh": "None",
+						"MeshOffset": 
+						{
+							"Rotation": 
+							{
+								"X": 0,
+								"Y": 0,
+								"Z": 0,
+								"W": 1
+							},
+							"Translation": 
+							{
+								"X": 0,
+								"Y": 0,
+								"Z": 0
+							},
+							"Scale3D": 
+							{
+								"X": 1,
+								"Y": 1,
+								"Z": 1
+							}
+						},
+						"MeshSocket": "Bn_R_Wrist",
+						"SkipWhileRaining": false,
+						"IsRanTo": false,
+						"ScheduleExpression": "None"
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Hour": 13,
+						"Waypoint": "Pumpkinvale_Hangout1_Energetic",
+						"PrimaryAnimation": "None",
+						"LoopingAnimation": "None",
+						"Mesh": "None",
+						"MeshOffset": 
+						{
+							"Rotation": 
+							{
+								"X": 0,
+								"Y": 0,
+								"Z": 0,
+								"W": 1
+							},
+							"Translation": 
+							{
+								"X": 0,
+								"Y": 0,
+								"Z": 0
+							},
+							"Scale3D": 
+							{
+								"X": 1,
+								"Y": 1,
+								"Z": 1
+							}
+						},
+						"MeshSocket": "Bn_R_Wrist",
+						"SkipWhileRaining": false,
+						"IsRanTo": false,
+						"ScheduleExpression": "None"
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Hour": 15,
+						"Waypoint": "Pumpkinvale_Hangout2_Energetic",
+						"PrimaryAnimation": "None",
+						"LoopingAnimation": "None",
+						"Mesh": "None",
+						"MeshOffset": 
+						{
+							"Rotation": 
+							{
+								"X": 0,
+								"Y": 0,
+								"Z": 0,
+								"W": 1
+							},
+							"Translation": 
+							{
+								"X": 0,
+								"Y": 0,
+								"Z": 0
+							},
+							"Scale3D": 
+							{
+								"X": 1,
+								"Y": 1,
+								"Z": 1
+							}
+						},
+						"MeshSocket": "Bn_R_Wrist",
+						"SkipWhileRaining": false,
+						"IsRanTo": false,
+						"ScheduleExpression": "None"
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Hour": 19,
+						"Waypoint": "farm",
+						"PrimaryAnimation": "None",
+						"LoopingAnimation": "None",
+						"Mesh": "None",
+						"MeshOffset": 
+						{
+							"Rotation": 
+							{
+								"X": 0,
+								"Y": 0,
+								"Z": 0,
+								"W": 1
+							},
+							"Translation": 
+							{
+								"X": 0,
+								"Y": 0,
+								"Z": 0
+							},
+							"Scale3D": 
+							{
+								"X": 1,
+								"Y": 1,
+								"Z": 1
+							}
+						},
+						"MeshSocket": "Bn_R_Wrist",
+						"SkipWhileRaining": false,
+						"IsRanTo": false,
+						"ScheduleExpression": "None"
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Hour": 21,
+						"Waypoint": "Farm_Bed",
+						"PrimaryAnimation": "None",
+						"LoopingAnimation": "None",
+						"Mesh": "None",
+						"MeshOffset": 
+						{
+							"Rotation": 
+							{
+								"X": 0,
+								"Y": 0,
+								"Z": 0,
+								"W": 1
+							},
+							"Translation": 
+							{
+								"X": 0,
+								"Y": 0,
+								"Z": 0
+							},
+							"Scale3D": 
+							{
+								"X": 1,
+								"Y": 1,
+								"Z": 1
+							}
+						},
+						"MeshSocket": "Bn_R_Wrist",
+						"SkipWhileRaining": false,
+						"IsRanTo": false,
+						"ScheduleExpression": "None"
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Energetic_Wahoo_Beach",
+			"Tasks":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Hour": 8,
+						"Waypoint": "Wahoo_Energetic_School",
+						"PrimaryAnimation": "None",
+						"LoopingAnimation": "None",
+						"Mesh": "None",
+						"MeshOffset": 
+						{
+							"Rotation": 
+							{
+								"X": 0,
+								"Y": 0,
+								"Z": 0,
+								"W": 1
+							},
+							"Translation": 
+							{
+								"X": 0,
+								"Y": 0,
+								"Z": 0
+							},
+							"Scale3D": 
+							{
+								"X": 1,
+								"Y": 1,
+								"Z": 1
+							}
+						},
+						"MeshSocket": "Bn_R_Wrist",
+						"SkipWhileRaining": false,
+						"IsRanTo": false,
+						"ScheduleExpression": "None"
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Hour": 13,
+						"Waypoint": "Wahoo_Energetic_Hangout1",
+						"PrimaryAnimation": "None",
+						"LoopingAnimation": "None",
+						"Mesh": "None",
+						"MeshOffset": 
+						{
+							"Rotation": 
+							{
+								"X": 0,
+								"Y": 0,
+								"Z": 0,
+								"W": 1
+							},
+							"Translation": 
+							{
+								"X": 0,
+								"Y": 0,
+								"Z": 0
+							},
+							"Scale3D": 
+							{
+								"X": 1,
+								"Y": 1,
+								"Z": 1
+							}
+						},
+						"MeshSocket": "Bn_R_Wrist",
+						"SkipWhileRaining": false,
+						"IsRanTo": false,
+						"ScheduleExpression": "None"
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Hour": 16,
+						"Waypoint": "Wahoo_Energetic_Hangout2",
+						"PrimaryAnimation": "None",
+						"LoopingAnimation": "None",
+						"Mesh": "None",
+						"MeshOffset": 
+						{
+							"Rotation": 
+							{
+								"X": 0,
+								"Y": 0,
+								"Z": 0,
+								"W": 1
+							},
+							"Translation": 
+							{
+								"X": 0,
+								"Y": 0,
+								"Z": 0
+							},
+							"Scale3D": 
+							{
+								"X": 1,
+								"Y": 1,
+								"Z": 1
+							}
+						},
+						"MeshSocket": "Bn_R_Wrist",
+						"SkipWhileRaining": false,
+						"IsRanTo": false,
+						"ScheduleExpression": "None"
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Hour": 19,
+						"Waypoint": "farm",
+						"PrimaryAnimation": "None",
+						"LoopingAnimation": "None",
+						"Mesh": "None",
+						"MeshOffset": 
+						{
+							"Rotation": 
+							{
+								"X": 0,
+								"Y": 0,
+								"Z": 0,
+								"W": 1
+							},
+							"Translation": 
+							{
+								"X": 0,
+								"Y": 0,
+								"Z": 0
+							},
+							"Scale3D": 
+							{
+								"X": 1,
+								"Y": 1,
+								"Z": 1
+							}
+						},
+						"MeshSocket": "Bn_R_Wrist",
+						"SkipWhileRaining": false,
+						"IsRanTo": false,
+						"ScheduleExpression": "None"
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Hour": 21,
+						"Waypoint": "Farm_Bed",
+						"PrimaryAnimation": "None",
+						"LoopingAnimation": "None",
+						"Mesh": "None",
+						"MeshOffset": 
+						{
+							"Rotation": 
+							{
+								"X": 0,
+								"Y": 0,
+								"Z": 0,
+								"W": 1
+							},
+							"Translation": 
+							{
+								"X": 0,
+								"Y": 0,
+								"Z": 0
+							},
+							"Scale3D": 
+							{
+								"X": 1,
+								"Y": 1,
+								"Z": 1
+							}
+						},
+						"MeshSocket": "Bn_R_Wrist",
+						"SkipWhileRaining": false,
+						"IsRanTo": false,
+						"ScheduleExpression": "None"
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Energetic_Diamond_Falls",
+			"Tasks":
+			[]
+		},
+		{
+			"RowName": "Energetic_Spoony_Island",
+			"Tasks":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Hour": 8,
+						"Waypoint": "farm",
+						"PrimaryAnimation": "None",
+						"LoopingAnimation": "None",
+						"Mesh": "None",
+						"MeshOffset": 
+						{
+							"Rotation": 
+							{
+								"X": 0,
+								"Y": 0,
+								"Z": 0,
+								"W": 1
+							},
+							"Translation": 
+							{
+								"X": 0,
+								"Y": 0,
+								"Z": 0
+							},
+							"Scale3D": 
+							{
+								"X": 1,
+								"Y": 1,
+								"Z": 1
+							}
+						},
+						"MeshSocket": "Bn_R_Wrist",
+						"SkipWhileRaining": false,
+						"IsRanTo": false,
+						"ScheduleExpression": "None"
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Hour": 13,
+						"Waypoint": "Spoon_Energetic_Hangout1",
+						"PrimaryAnimation": "None",
+						"LoopingAnimation": "None",
+						"Mesh": "None",
+						"MeshOffset": 
+						{
+							"Rotation": 
+							{
+								"X": 0,
+								"Y": 0,
+								"Z": 0,
+								"W": 1
+							},
+							"Translation": 
+							{
+								"X": 0,
+								"Y": 0,
+								"Z": 0
+							},
+							"Scale3D": 
+							{
+								"X": 1,
+								"Y": 1,
+								"Z": 1
+							}
+						},
+						"MeshSocket": "Bn_R_Wrist",
+						"SkipWhileRaining": false,
+						"IsRanTo": false,
+						"ScheduleExpression": "None"
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Hour": 16,
+						"Waypoint": "Spoon_Energetic_Hangout2",
+						"PrimaryAnimation": "None",
+						"LoopingAnimation": "None",
+						"Mesh": "None",
+						"MeshOffset": 
+						{
+							"Rotation": 
+							{
+								"X": 0,
+								"Y": 0,
+								"Z": 0,
+								"W": 1
+							},
+							"Translation": 
+							{
+								"X": 0,
+								"Y": 0,
+								"Z": 0
+							},
+							"Scale3D": 
+							{
+								"X": 1,
+								"Y": 1,
+								"Z": 1
+							}
+						},
+						"MeshSocket": "Bn_R_Wrist",
+						"SkipWhileRaining": false,
+						"IsRanTo": false,
+						"ScheduleExpression": "None"
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Hour": 19,
+						"Waypoint": "farm",
+						"PrimaryAnimation": "None",
+						"LoopingAnimation": "None",
+						"Mesh": "None",
+						"MeshOffset": 
+						{
+							"Rotation": 
+							{
+								"X": 0,
+								"Y": 0,
+								"Z": 0,
+								"W": 1
+							},
+							"Translation": 
+							{
+								"X": 0,
+								"Y": 0,
+								"Z": 0
+							},
+							"Scale3D": 
+							{
+								"X": 1,
+								"Y": 1,
+								"Z": 1
+							}
+						},
+						"MeshSocket": "Bn_R_Wrist",
+						"SkipWhileRaining": false,
+						"IsRanTo": false,
+						"ScheduleExpression": "None"
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Hour": 21,
+						"Waypoint": "Farm_Bed",
+						"PrimaryAnimation": "None",
+						"LoopingAnimation": "None",
+						"Mesh": "None",
+						"MeshOffset": 
+						{
+							"Rotation": 
+							{
+								"X": 0,
+								"Y": 0,
+								"Z": 0,
+								"W": 1
+							},
+							"Translation": 
+							{
+								"X": 0,
+								"Y": 0,
+								"Z": 0
+							},
+							"Scale3D": 
+							{
+								"X": 1,
+								"Y": 1,
+								"Z": 1
+							}
+						},
+						"MeshSocket": "Bn_R_Wrist",
+						"SkipWhileRaining": false,
+						"IsRanTo": false,
+						"ScheduleExpression": "None"
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Sweet_Pumpkinvale",
+			"Tasks":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Hour": 8,
+						"Waypoint": "Pumpkinvale_Sweet_School",
+						"PrimaryAnimation": "None",
+						"LoopingAnimation": "None",
+						"Mesh": "None",
+						"MeshOffset": 
+						{
+							"Rotation": 
+							{
+								"X": 0,
+								"Y": 0,
+								"Z": 0,
+								"W": 1
+							},
+							"Translation": 
+							{
+								"X": 0,
+								"Y": 0,
+								"Z": 0
+							},
+							"Scale3D": 
+							{
+								"X": 1,
+								"Y": 1,
+								"Z": 1
+							}
+						},
+						"MeshSocket": "Bn_R_Wrist",
+						"SkipWhileRaining": false,
+						"IsRanTo": false,
+						"ScheduleExpression": "None"
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Hour": 13,
+						"Waypoint": "Pumpkinvale_Sweet_Hangout1",
+						"PrimaryAnimation": "None",
+						"LoopingAnimation": "None",
+						"Mesh": "None",
+						"MeshOffset": 
+						{
+							"Rotation": 
+							{
+								"X": 0,
+								"Y": 0,
+								"Z": 0,
+								"W": 1
+							},
+							"Translation": 
+							{
+								"X": 0,
+								"Y": 0,
+								"Z": 0
+							},
+							"Scale3D": 
+							{
+								"X": 1,
+								"Y": 1,
+								"Z": 1
+							}
+						},
+						"MeshSocket": "Bn_R_Wrist",
+						"SkipWhileRaining": false,
+						"IsRanTo": false,
+						"ScheduleExpression": "None"
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Hour": 16,
+						"Waypoint": "Pumpkinvale_Sweet_Hangout2",
+						"PrimaryAnimation": "None",
+						"LoopingAnimation": "None",
+						"Mesh": "None",
+						"MeshOffset": 
+						{
+							"Rotation": 
+							{
+								"X": 0,
+								"Y": 0,
+								"Z": 0,
+								"W": 1
+							},
+							"Translation": 
+							{
+								"X": 0,
+								"Y": 0,
+								"Z": 0
+							},
+							"Scale3D": 
+							{
+								"X": 1,
+								"Y": 1,
+								"Z": 1
+							}
+						},
+						"MeshSocket": "Bn_R_Wrist",
+						"SkipWhileRaining": false,
+						"IsRanTo": false,
+						"ScheduleExpression": "None"
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Hour": 0,
+						"Waypoint": "farm",
+						"PrimaryAnimation": "None",
+						"LoopingAnimation": "None",
+						"Mesh": "None",
+						"MeshOffset": 
+						{
+							"Rotation": 
+							{
+								"X": 0,
+								"Y": 0,
+								"Z": 0,
+								"W": 1
+							},
+							"Translation": 
+							{
+								"X": 0,
+								"Y": 0,
+								"Z": 0
+							},
+							"Scale3D": 
+							{
+								"X": 1,
+								"Y": 1,
+								"Z": 1
+							}
+						},
+						"MeshSocket": "Bn_R_Wrist",
+						"SkipWhileRaining": false,
+						"IsRanTo": false,
+						"ScheduleExpression": "None"
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Hour": 0,
+						"Waypoint": "Farm_Bed",
+						"PrimaryAnimation": "None",
+						"LoopingAnimation": "None",
+						"Mesh": "None",
+						"MeshOffset": 
+						{
+							"Rotation": 
+							{
+								"X": 0,
+								"Y": 0,
+								"Z": 0,
+								"W": 1
+							},
+							"Translation": 
+							{
+								"X": 0,
+								"Y": 0,
+								"Z": 0
+							},
+							"Scale3D": 
+							{
+								"X": 1,
+								"Y": 1,
+								"Z": 1
+							}
+						},
+						"MeshSocket": "Bn_R_Wrist",
+						"SkipWhileRaining": false,
+						"IsRanTo": false,
+						"ScheduleExpression": "None"
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Sweet_Wahoo_Beach",
+			"Tasks":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Hour": 8,
+						"Waypoint": "Wahoo_Sweet_School",
+						"PrimaryAnimation": "None",
+						"LoopingAnimation": "None",
+						"Mesh": "None",
+						"MeshOffset": 
+						{
+							"Rotation": 
+							{
+								"X": 0,
+								"Y": 0,
+								"Z": 0,
+								"W": 1
+							},
+							"Translation": 
+							{
+								"X": 0,
+								"Y": 0,
+								"Z": 0
+							},
+							"Scale3D": 
+							{
+								"X": 1,
+								"Y": 1,
+								"Z": 1
+							}
+						},
+						"MeshSocket": "Bn_R_Wrist",
+						"SkipWhileRaining": false,
+						"IsRanTo": false,
+						"ScheduleExpression": "None"
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Hour": 13,
+						"Waypoint": "Wahoo_Sweet_Hangout",
+						"PrimaryAnimation": "None",
+						"LoopingAnimation": "None",
+						"Mesh": "None",
+						"MeshOffset": 
+						{
+							"Rotation": 
+							{
+								"X": 0,
+								"Y": 0,
+								"Z": 0,
+								"W": 1
+							},
+							"Translation": 
+							{
+								"X": 0,
+								"Y": 0,
+								"Z": 0
+							},
+							"Scale3D": 
+							{
+								"X": 1,
+								"Y": 1,
+								"Z": 1
+							}
+						},
+						"MeshSocket": "Bn_R_Wrist",
+						"SkipWhileRaining": false,
+						"IsRanTo": false,
+						"ScheduleExpression": "None"
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Hour": 16,
+						"Waypoint": "Wahoo_Sweet_Hangout2",
+						"PrimaryAnimation": "None",
+						"LoopingAnimation": "None",
+						"Mesh": "None",
+						"MeshOffset": 
+						{
+							"Rotation": 
+							{
+								"X": 0,
+								"Y": 0,
+								"Z": 0,
+								"W": 1
+							},
+							"Translation": 
+							{
+								"X": 0,
+								"Y": 0,
+								"Z": 0
+							},
+							"Scale3D": 
+							{
+								"X": 1,
+								"Y": 1,
+								"Z": 1
+							}
+						},
+						"MeshSocket": "Bn_R_Wrist",
+						"SkipWhileRaining": false,
+						"IsRanTo": false,
+						"ScheduleExpression": "None"
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Hour": 19,
+						"Waypoint": "farm",
+						"PrimaryAnimation": "None",
+						"LoopingAnimation": "None",
+						"Mesh": "None",
+						"MeshOffset": 
+						{
+							"Rotation": 
+							{
+								"X": 0,
+								"Y": 0,
+								"Z": 0,
+								"W": 1
+							},
+							"Translation": 
+							{
+								"X": 0,
+								"Y": 0,
+								"Z": 0
+							},
+							"Scale3D": 
+							{
+								"X": 1,
+								"Y": 1,
+								"Z": 1
+							}
+						},
+						"MeshSocket": "Bn_R_Wrist",
+						"SkipWhileRaining": false,
+						"IsRanTo": false,
+						"ScheduleExpression": "None"
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Hour": 21,
+						"Waypoint": "Farm_Bed",
+						"PrimaryAnimation": "None",
+						"LoopingAnimation": "None",
+						"Mesh": "None",
+						"MeshOffset": 
+						{
+							"Rotation": 
+							{
+								"X": 0,
+								"Y": 0,
+								"Z": 0,
+								"W": 1
+							},
+							"Translation": 
+							{
+								"X": 0,
+								"Y": 0,
+								"Z": 0
+							},
+							"Scale3D": 
+							{
+								"X": 1,
+								"Y": 1,
+								"Z": 1
+							}
+						},
+						"MeshSocket": "Bn_R_Wrist",
+						"SkipWhileRaining": false,
+						"IsRanTo": false,
+						"ScheduleExpression": "None"
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Sweet_Diamond_Falls",
+			"Tasks":
+			[]
+		},
+		{
+			"RowName": "Sweet_SpoonyIsland",
+			"Tasks":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Hour": 8,
+						"Waypoint": "farm",
+						"PrimaryAnimation": "None",
+						"LoopingAnimation": "None",
+						"Mesh": "None",
+						"MeshOffset": 
+						{
+							"Rotation": 
+							{
+								"X": 0,
+								"Y": 0,
+								"Z": 0,
+								"W": 1
+							},
+							"Translation": 
+							{
+								"X": 0,
+								"Y": 0,
+								"Z": 0
+							},
+							"Scale3D": 
+							{
+								"X": 1,
+								"Y": 1,
+								"Z": 1
+							}
+						},
+						"MeshSocket": "Bn_R_Wrist",
+						"SkipWhileRaining": false,
+						"IsRanTo": false,
+						"ScheduleExpression": "None"
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Hour": 13,
+						"Waypoint": "Spoony_Sweet_Hangout",
+						"PrimaryAnimation": "None",
+						"LoopingAnimation": "None",
+						"Mesh": "None",
+						"MeshOffset": 
+						{
+							"Rotation": 
+							{
+								"X": 0,
+								"Y": 0,
+								"Z": 0,
+								"W": 1
+							},
+							"Translation": 
+							{
+								"X": 0,
+								"Y": 0,
+								"Z": 0
+							},
+							"Scale3D": 
+							{
+								"X": 1,
+								"Y": 1,
+								"Z": 1
+							}
+						},
+						"MeshSocket": "Bn_R_Wrist",
+						"SkipWhileRaining": false,
+						"IsRanTo": false,
+						"ScheduleExpression": "None"
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Hour": 16,
+						"Waypoint": "Spoony_Sweet_Hangout2",
+						"PrimaryAnimation": "None",
+						"LoopingAnimation": "None",
+						"Mesh": "None",
+						"MeshOffset": 
+						{
+							"Rotation": 
+							{
+								"X": 0,
+								"Y": 0,
+								"Z": 0,
+								"W": 1
+							},
+							"Translation": 
+							{
+								"X": 0,
+								"Y": 0,
+								"Z": 0
+							},
+							"Scale3D": 
+							{
+								"X": 1,
+								"Y": 1,
+								"Z": 1
+							}
+						},
+						"MeshSocket": "Bn_R_Wrist",
+						"SkipWhileRaining": false,
+						"IsRanTo": false,
+						"ScheduleExpression": "None"
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Hour": 19,
+						"Waypoint": "farm",
+						"PrimaryAnimation": "None",
+						"LoopingAnimation": "None",
+						"Mesh": "None",
+						"MeshOffset": 
+						{
+							"Rotation": 
+							{
+								"X": 0,
+								"Y": 0,
+								"Z": 0,
+								"W": 1
+							},
+							"Translation": 
+							{
+								"X": 0,
+								"Y": 0,
+								"Z": 0
+							},
+							"Scale3D": 
+							{
+								"X": 1,
+								"Y": 1,
+								"Z": 1
+							}
+						},
+						"MeshSocket": "Bn_R_Wrist",
+						"SkipWhileRaining": false,
+						"IsRanTo": false,
+						"ScheduleExpression": "None"
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Hour": 21,
+						"Waypoint": "Farm_Bed",
+						"PrimaryAnimation": "None",
+						"LoopingAnimation": "None",
+						"Mesh": "None",
+						"MeshOffset": 
+						{
+							"Rotation": 
+							{
+								"X": 0,
+								"Y": 0,
+								"Z": 0,
+								"W": 1
+							},
+							"Translation": 
+							{
+								"X": 0,
+								"Y": 0,
+								"Z": 0
+							},
+							"Scale3D": 
+							{
+								"X": 1,
+								"Y": 1,
+								"Z": 1
+							}
+						},
+						"MeshSocket": "Bn_R_Wrist",
+						"SkipWhileRaining": false,
+						"IsRanTo": false,
+						"ScheduleExpression": "None"
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Brat_Pumpkinvale",
+			"Tasks":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Hour": 8,
+						"Waypoint": "Pumpkinvale_Brat_School",
+						"PrimaryAnimation": "None",
+						"LoopingAnimation": "None",
+						"Mesh": "None",
+						"MeshOffset": 
+						{
+							"Rotation": 
+							{
+								"X": 0,
+								"Y": 0,
+								"Z": 0,
+								"W": 1
+							},
+							"Translation": 
+							{
+								"X": 0,
+								"Y": 0,
+								"Z": 0
+							},
+							"Scale3D": 
+							{
+								"X": 1,
+								"Y": 1,
+								"Z": 1
+							}
+						},
+						"MeshSocket": "Bn_R_Wrist",
+						"SkipWhileRaining": false,
+						"IsRanTo": false,
+						"ScheduleExpression": "None"
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Hour": 13,
+						"Waypoint": "Pumpkinvale_Brat_Hangout1",
+						"PrimaryAnimation": "None",
+						"LoopingAnimation": "None",
+						"Mesh": "None",
+						"MeshOffset": 
+						{
+							"Rotation": 
+							{
+								"X": 0,
+								"Y": 0,
+								"Z": 0,
+								"W": 1
+							},
+							"Translation": 
+							{
+								"X": 0,
+								"Y": 0,
+								"Z": 0
+							},
+							"Scale3D": 
+							{
+								"X": 1,
+								"Y": 1,
+								"Z": 1
+							}
+						},
+						"MeshSocket": "Bn_R_Wrist",
+						"SkipWhileRaining": false,
+						"IsRanTo": false,
+						"ScheduleExpression": "None"
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Hour": 16,
+						"Waypoint": "Pumpkinvale_Brat_Hangout2",
+						"PrimaryAnimation": "None",
+						"LoopingAnimation": "None",
+						"Mesh": "None",
+						"MeshOffset": 
+						{
+							"Rotation": 
+							{
+								"X": 0,
+								"Y": 0,
+								"Z": 0,
+								"W": 1
+							},
+							"Translation": 
+							{
+								"X": 0,
+								"Y": 0,
+								"Z": 0
+							},
+							"Scale3D": 
+							{
+								"X": 1,
+								"Y": 1,
+								"Z": 1
+							}
+						},
+						"MeshSocket": "Bn_R_Wrist",
+						"SkipWhileRaining": false,
+						"IsRanTo": false,
+						"ScheduleExpression": "None"
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Hour": 19,
+						"Waypoint": "farm",
+						"PrimaryAnimation": "None",
+						"LoopingAnimation": "None",
+						"Mesh": "None",
+						"MeshOffset": 
+						{
+							"Rotation": 
+							{
+								"X": 0,
+								"Y": 0,
+								"Z": 0,
+								"W": 1
+							},
+							"Translation": 
+							{
+								"X": 0,
+								"Y": 0,
+								"Z": 0
+							},
+							"Scale3D": 
+							{
+								"X": 1,
+								"Y": 1,
+								"Z": 1
+							}
+						},
+						"MeshSocket": "Bn_R_Wrist",
+						"SkipWhileRaining": false,
+						"IsRanTo": false,
+						"ScheduleExpression": "None"
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Hour": 21,
+						"Waypoint": "Farm_Bed",
+						"PrimaryAnimation": "None",
+						"LoopingAnimation": "None",
+						"Mesh": "None",
+						"MeshOffset": 
+						{
+							"Rotation": 
+							{
+								"X": 0,
+								"Y": 0,
+								"Z": 0,
+								"W": 1
+							},
+							"Translation": 
+							{
+								"X": 0,
+								"Y": 0,
+								"Z": 0
+							},
+							"Scale3D": 
+							{
+								"X": 1,
+								"Y": 1,
+								"Z": 1
+							}
+						},
+						"MeshSocket": "Bn_R_Wrist",
+						"SkipWhileRaining": false,
+						"IsRanTo": false,
+						"ScheduleExpression": "None"
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Brat_Wahoo_Beach",
+			"Tasks":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Hour": 8,
+						"Waypoint": "Wahoo_Brat_School",
+						"PrimaryAnimation": "None",
+						"LoopingAnimation": "None",
+						"Mesh": "None",
+						"MeshOffset": 
+						{
+							"Rotation": 
+							{
+								"X": 0,
+								"Y": 0,
+								"Z": 0,
+								"W": 1
+							},
+							"Translation": 
+							{
+								"X": 0,
+								"Y": 0,
+								"Z": 0
+							},
+							"Scale3D": 
+							{
+								"X": 1,
+								"Y": 1,
+								"Z": 1
+							}
+						},
+						"MeshSocket": "Bn_R_Wrist",
+						"SkipWhileRaining": false,
+						"IsRanTo": false,
+						"ScheduleExpression": "None"
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Hour": 13,
+						"Waypoint": "Wahoo_Brat_Hangout",
+						"PrimaryAnimation": "None",
+						"LoopingAnimation": "None",
+						"Mesh": "None",
+						"MeshOffset": 
+						{
+							"Rotation": 
+							{
+								"X": 0,
+								"Y": 0,
+								"Z": 0,
+								"W": 1
+							},
+							"Translation": 
+							{
+								"X": 0,
+								"Y": 0,
+								"Z": 0
+							},
+							"Scale3D": 
+							{
+								"X": 1,
+								"Y": 1,
+								"Z": 1
+							}
+						},
+						"MeshSocket": "Bn_R_Wrist",
+						"SkipWhileRaining": false,
+						"IsRanTo": false,
+						"ScheduleExpression": "None"
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Hour": 16,
+						"Waypoint": "Wahoo_Brat_Hangout2",
+						"PrimaryAnimation": "None",
+						"LoopingAnimation": "None",
+						"Mesh": "None",
+						"MeshOffset": 
+						{
+							"Rotation": 
+							{
+								"X": 0,
+								"Y": 0,
+								"Z": 0,
+								"W": 1
+							},
+							"Translation": 
+							{
+								"X": 0,
+								"Y": 0,
+								"Z": 0
+							},
+							"Scale3D": 
+							{
+								"X": 1,
+								"Y": 1,
+								"Z": 1
+							}
+						},
+						"MeshSocket": "Bn_R_Wrist",
+						"SkipWhileRaining": false,
+						"IsRanTo": false,
+						"ScheduleExpression": "None"
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Hour": 19,
+						"Waypoint": "farm",
+						"PrimaryAnimation": "None",
+						"LoopingAnimation": "None",
+						"Mesh": "None",
+						"MeshOffset": 
+						{
+							"Rotation": 
+							{
+								"X": 0,
+								"Y": 0,
+								"Z": 0,
+								"W": 1
+							},
+							"Translation": 
+							{
+								"X": 0,
+								"Y": 0,
+								"Z": 0
+							},
+							"Scale3D": 
+							{
+								"X": 1,
+								"Y": 1,
+								"Z": 1
+							}
+						},
+						"MeshSocket": "Bn_R_Wrist",
+						"SkipWhileRaining": false,
+						"IsRanTo": false,
+						"ScheduleExpression": "None"
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Hour": 21,
+						"Waypoint": "Farm_Bed",
+						"PrimaryAnimation": "None",
+						"LoopingAnimation": "None",
+						"Mesh": "None",
+						"MeshOffset": 
+						{
+							"Rotation": 
+							{
+								"X": 0,
+								"Y": 0,
+								"Z": 0,
+								"W": 1
+							},
+							"Translation": 
+							{
+								"X": 0,
+								"Y": 0,
+								"Z": 0
+							},
+							"Scale3D": 
+							{
+								"X": 1,
+								"Y": 1,
+								"Z": 1
+							}
+						},
+						"MeshSocket": "Bn_R_Wrist",
+						"SkipWhileRaining": false,
+						"IsRanTo": false,
+						"ScheduleExpression": "None"
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Brat_Diamond_Falls",
+			"Tasks":
+			[]
+		},
+		{
+			"RowName": "Brat_Spoony_Island",
+			"Tasks":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Hour": 8,
+						"Waypoint": "Farm",
+						"PrimaryAnimation": "None",
+						"LoopingAnimation": "None",
+						"Mesh": "None",
+						"MeshOffset": 
+						{
+							"Rotation": 
+							{
+								"X": 0,
+								"Y": 0,
+								"Z": 0,
+								"W": 1
+							},
+							"Translation": 
+							{
+								"X": 0,
+								"Y": 0,
+								"Z": 0
+							},
+							"Scale3D": 
+							{
+								"X": 1,
+								"Y": 1,
+								"Z": 1
+							}
+						},
+						"MeshSocket": "Bn_R_Wrist",
+						"SkipWhileRaining": false,
+						"IsRanTo": false,
+						"ScheduleExpression": "None"
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Hour": 13,
+						"Waypoint": "Spoony_Brat_Hangout",
+						"PrimaryAnimation": "None",
+						"LoopingAnimation": "None",
+						"Mesh": "None",
+						"MeshOffset": 
+						{
+							"Rotation": 
+							{
+								"X": 0,
+								"Y": 0,
+								"Z": 0,
+								"W": 1
+							},
+							"Translation": 
+							{
+								"X": 0,
+								"Y": 0,
+								"Z": 0
+							},
+							"Scale3D": 
+							{
+								"X": 1,
+								"Y": 1,
+								"Z": 1
+							}
+						},
+						"MeshSocket": "Bn_R_Wrist",
+						"SkipWhileRaining": false,
+						"IsRanTo": false,
+						"ScheduleExpression": "None"
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Hour": 16,
+						"Waypoint": "Spoony_Brat_Hangout2",
+						"PrimaryAnimation": "None",
+						"LoopingAnimation": "None",
+						"Mesh": "None",
+						"MeshOffset": 
+						{
+							"Rotation": 
+							{
+								"X": 0,
+								"Y": 0,
+								"Z": 0,
+								"W": 1
+							},
+							"Translation": 
+							{
+								"X": 0,
+								"Y": 0,
+								"Z": 0
+							},
+							"Scale3D": 
+							{
+								"X": 1,
+								"Y": 1,
+								"Z": 1
+							}
+						},
+						"MeshSocket": "Bn_R_Wrist",
+						"SkipWhileRaining": false,
+						"IsRanTo": false,
+						"ScheduleExpression": "None"
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Hour": 19,
+						"Waypoint": "farm",
+						"PrimaryAnimation": "None",
+						"LoopingAnimation": "None",
+						"Mesh": "None",
+						"MeshOffset": 
+						{
+							"Rotation": 
+							{
+								"X": 0,
+								"Y": 0,
+								"Z": 0,
+								"W": 1
+							},
+							"Translation": 
+							{
+								"X": 0,
+								"Y": 0,
+								"Z": 0
+							},
+							"Scale3D": 
+							{
+								"X": 1,
+								"Y": 1,
+								"Z": 1
+							}
+						},
+						"MeshSocket": "Bn_R_Wrist",
+						"SkipWhileRaining": false,
+						"IsRanTo": false,
+						"ScheduleExpression": "None"
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Hour": 21,
+						"Waypoint": "Farm_Bed",
+						"PrimaryAnimation": "None",
+						"LoopingAnimation": "None",
+						"Mesh": "None",
+						"MeshOffset": 
+						{
+							"Rotation": 
+							{
+								"X": 0,
+								"Y": 0,
+								"Z": 0,
+								"W": 1
+							},
+							"Translation": 
+							{
+								"X": 0,
+								"Y": 0,
+								"Z": 0
+							},
+							"Scale3D": 
+							{
+								"X": 1,
+								"Y": 1,
+								"Z": 1
+							}
+						},
+						"MeshSocket": "Bn_R_Wrist",
+						"SkipWhileRaining": false,
+						"IsRanTo": false,
+						"ScheduleExpression": "None"
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Shy_Pumpkinvale",
+			"Tasks":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Hour": 8,
+						"Waypoint": "Pumpkinvale_Shy_School",
+						"PrimaryAnimation": "None",
+						"LoopingAnimation": "None",
+						"Mesh": "None",
+						"MeshOffset": 
+						{
+							"Rotation": 
+							{
+								"X": 0,
+								"Y": 0,
+								"Z": 0,
+								"W": 1
+							},
+							"Translation": 
+							{
+								"X": 0,
+								"Y": 0,
+								"Z": 0
+							},
+							"Scale3D": 
+							{
+								"X": 1,
+								"Y": 1,
+								"Z": 1
+							}
+						},
+						"MeshSocket": "Bn_R_Wrist",
+						"SkipWhileRaining": false,
+						"IsRanTo": false,
+						"ScheduleExpression": "None"
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Hour": 13,
+						"Waypoint": "farm",
+						"PrimaryAnimation": "None",
+						"LoopingAnimation": "None",
+						"Mesh": "None",
+						"MeshOffset": 
+						{
+							"Rotation": 
+							{
+								"X": 0,
+								"Y": 0,
+								"Z": 0,
+								"W": 1
+							},
+							"Translation": 
+							{
+								"X": 0,
+								"Y": 0,
+								"Z": 0
+							},
+							"Scale3D": 
+							{
+								"X": 1,
+								"Y": 1,
+								"Z": 1
+							}
+						},
+						"MeshSocket": "Bn_R_Wrist",
+						"SkipWhileRaining": false,
+						"IsRanTo": false,
+						"ScheduleExpression": "None"
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Hour": 21,
+						"Waypoint": "Farm_Bed",
+						"PrimaryAnimation": "None",
+						"LoopingAnimation": "None",
+						"Mesh": "None",
+						"MeshOffset": 
+						{
+							"Rotation": 
+							{
+								"X": 0,
+								"Y": 0,
+								"Z": 0,
+								"W": 1
+							},
+							"Translation": 
+							{
+								"X": 0,
+								"Y": 0,
+								"Z": 0
+							},
+							"Scale3D": 
+							{
+								"X": 1,
+								"Y": 1,
+								"Z": 1
+							}
+						},
+						"MeshSocket": "Bn_R_Wrist",
+						"SkipWhileRaining": false,
+						"IsRanTo": false,
+						"ScheduleExpression": "None"
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Shy_Wahoo_Beach",
+			"Tasks":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Hour": 8,
+						"Waypoint": "Wahoo_Shy_School",
+						"PrimaryAnimation": "None",
+						"LoopingAnimation": "None",
+						"Mesh": "None",
+						"MeshOffset": 
+						{
+							"Rotation": 
+							{
+								"X": 0,
+								"Y": 0,
+								"Z": 0,
+								"W": 1
+							},
+							"Translation": 
+							{
+								"X": 0,
+								"Y": 0,
+								"Z": 0
+							},
+							"Scale3D": 
+							{
+								"X": 1,
+								"Y": 1,
+								"Z": 1
+							}
+						},
+						"MeshSocket": "Bn_R_Wrist",
+						"SkipWhileRaining": false,
+						"IsRanTo": false,
+						"ScheduleExpression": "None"
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Hour": 13,
+						"Waypoint": "farm",
+						"PrimaryAnimation": "None",
+						"LoopingAnimation": "None",
+						"Mesh": "None",
+						"MeshOffset": 
+						{
+							"Rotation": 
+							{
+								"X": 0,
+								"Y": 0,
+								"Z": 0,
+								"W": 1
+							},
+							"Translation": 
+							{
+								"X": 0,
+								"Y": 0,
+								"Z": 0
+							},
+							"Scale3D": 
+							{
+								"X": 1,
+								"Y": 1,
+								"Z": 1
+							}
+						},
+						"MeshSocket": "Bn_R_Wrist",
+						"SkipWhileRaining": false,
+						"IsRanTo": false,
+						"ScheduleExpression": "None"
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Hour": 21,
+						"Waypoint": "Farm_Bed",
+						"PrimaryAnimation": "None",
+						"LoopingAnimation": "None",
+						"Mesh": "None",
+						"MeshOffset": 
+						{
+							"Rotation": 
+							{
+								"X": 0,
+								"Y": 0,
+								"Z": 0,
+								"W": 1
+							},
+							"Translation": 
+							{
+								"X": 0,
+								"Y": 0,
+								"Z": 0
+							},
+							"Scale3D": 
+							{
+								"X": 1,
+								"Y": 1,
+								"Z": 1
+							}
+						},
+						"MeshSocket": "Bn_R_Wrist",
+						"SkipWhileRaining": false,
+						"IsRanTo": false,
+						"ScheduleExpression": "None"
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Shy_Diamond_Falls",
+			"Tasks":
+			[]
+		},
+		{
+			"RowName": "Shy_Spoony_Island",
+			"Tasks":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Hour": 8,
+						"Waypoint": "farm",
+						"PrimaryAnimation": "None",
+						"LoopingAnimation": "None",
+						"Mesh": "None",
+						"MeshOffset": 
+						{
+							"Rotation": 
+							{
+								"X": 0,
+								"Y": 0,
+								"Z": 0,
+								"W": 1
+							},
+							"Translation": 
+							{
+								"X": 0,
+								"Y": 0,
+								"Z": 0
+							},
+							"Scale3D": 
+							{
+								"X": 1,
+								"Y": 1,
+								"Z": 1
+							}
+						},
+						"MeshSocket": "Bn_R_Wrist",
+						"SkipWhileRaining": false,
+						"IsRanTo": false,
+						"ScheduleExpression": "None"
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Hour": 13,
+						"Waypoint": "farm",
+						"PrimaryAnimation": "None",
+						"LoopingAnimation": "None",
+						"Mesh": "None",
+						"MeshOffset": 
+						{
+							"Rotation": 
+							{
+								"X": 0,
+								"Y": 0,
+								"Z": 0,
+								"W": 1
+							},
+							"Translation": 
+							{
+								"X": 0,
+								"Y": 0,
+								"Z": 0
+							},
+							"Scale3D": 
+							{
+								"X": 1,
+								"Y": 1,
+								"Z": 1
+							}
+						},
+						"MeshSocket": "Bn_R_Wrist",
+						"SkipWhileRaining": false,
+						"IsRanTo": false,
+						"ScheduleExpression": "None"
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Hour": 21,
+						"Waypoint": "Farm_Bed",
+						"PrimaryAnimation": "None",
+						"LoopingAnimation": "None",
+						"Mesh": "None",
+						"MeshOffset": 
+						{
+							"Rotation": 
+							{
+								"X": 0,
+								"Y": 0,
+								"Z": 0,
+								"W": 1
+							},
+							"Translation": 
+							{
+								"X": 0,
+								"Y": 0,
+								"Z": 0
+							},
+							"Scale3D": 
+							{
+								"X": 1,
+								"Y": 1,
+								"Z": 1
+							}
+						},
+						"MeshSocket": "Bn_R_Wrist",
+						"SkipWhileRaining": false,
+						"IsRanTo": false,
+						"ScheduleExpression": "None"
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Nerdy_Pumpkinvale",
+			"Tasks":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Hour": 8,
+						"Waypoint": "Pumpkinvale_Nerd_School",
+						"PrimaryAnimation": "None",
+						"LoopingAnimation": "None",
+						"Mesh": "None",
+						"MeshOffset": 
+						{
+							"Rotation": 
+							{
+								"X": 0,
+								"Y": 0,
+								"Z": 0,
+								"W": 1
+							},
+							"Translation": 
+							{
+								"X": 0,
+								"Y": 0,
+								"Z": 0
+							},
+							"Scale3D": 
+							{
+								"X": 1,
+								"Y": 1,
+								"Z": 1
+							}
+						},
+						"MeshSocket": "Bn_R_Wrist",
+						"SkipWhileRaining": false,
+						"IsRanTo": false,
+						"ScheduleExpression": "None"
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Hour": 13,
+						"Waypoint": "Pumpkinvale_Nerd_hangout1",
+						"PrimaryAnimation": "None",
+						"LoopingAnimation": "None",
+						"Mesh": "None",
+						"MeshOffset": 
+						{
+							"Rotation": 
+							{
+								"X": 0,
+								"Y": 0,
+								"Z": 0,
+								"W": 1
+							},
+							"Translation": 
+							{
+								"X": 0,
+								"Y": 0,
+								"Z": 0
+							},
+							"Scale3D": 
+							{
+								"X": 1,
+								"Y": 1,
+								"Z": 1
+							}
+						},
+						"MeshSocket": "Bn_R_Wrist",
+						"SkipWhileRaining": false,
+						"IsRanTo": false,
+						"ScheduleExpression": "None"
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Hour": 19,
+						"Waypoint": "farm",
+						"PrimaryAnimation": "None",
+						"LoopingAnimation": "None",
+						"Mesh": "None",
+						"MeshOffset": 
+						{
+							"Rotation": 
+							{
+								"X": 0,
+								"Y": 0,
+								"Z": 0,
+								"W": 1
+							},
+							"Translation": 
+							{
+								"X": 0,
+								"Y": 0,
+								"Z": 0
+							},
+							"Scale3D": 
+							{
+								"X": 1,
+								"Y": 1,
+								"Z": 1
+							}
+						},
+						"MeshSocket": "Bn_R_Wrist",
+						"SkipWhileRaining": false,
+						"IsRanTo": false,
+						"ScheduleExpression": "None"
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Hour": 21,
+						"Waypoint": "Farm_Bed",
+						"PrimaryAnimation": "None",
+						"LoopingAnimation": "None",
+						"Mesh": "None",
+						"MeshOffset": 
+						{
+							"Rotation": 
+							{
+								"X": 0,
+								"Y": 0,
+								"Z": 0,
+								"W": 1
+							},
+							"Translation": 
+							{
+								"X": 0,
+								"Y": 0,
+								"Z": 0
+							},
+							"Scale3D": 
+							{
+								"X": 1,
+								"Y": 1,
+								"Z": 1
+							}
+						},
+						"MeshSocket": "Bn_R_Wrist",
+						"SkipWhileRaining": false,
+						"IsRanTo": false,
+						"ScheduleExpression": "None"
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Hour": 16,
+						"Waypoint": "Pumpkinvale_Nerd_hangout2",
+						"PrimaryAnimation": "None",
+						"LoopingAnimation": "None",
+						"Mesh": "None",
+						"MeshOffset": 
+						{
+							"Rotation": 
+							{
+								"X": 0,
+								"Y": 0,
+								"Z": 0,
+								"W": 1
+							},
+							"Translation": 
+							{
+								"X": 0,
+								"Y": 0,
+								"Z": 0
+							},
+							"Scale3D": 
+							{
+								"X": 1,
+								"Y": 1,
+								"Z": 1
+							}
+						},
+						"MeshSocket": "Bn_R_Wrist",
+						"SkipWhileRaining": false,
+						"IsRanTo": false,
+						"ScheduleExpression": "None"
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Nerdy_Wahoo_Beach",
+			"Tasks":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Hour": 8,
+						"Waypoint": "Wahoo_Nerd_School",
+						"PrimaryAnimation": "None",
+						"LoopingAnimation": "None",
+						"Mesh": "None",
+						"MeshOffset": 
+						{
+							"Rotation": 
+							{
+								"X": 0,
+								"Y": 0,
+								"Z": 0,
+								"W": 1
+							},
+							"Translation": 
+							{
+								"X": 0,
+								"Y": 0,
+								"Z": 0
+							},
+							"Scale3D": 
+							{
+								"X": 1,
+								"Y": 1,
+								"Z": 1
+							}
+						},
+						"MeshSocket": "Bn_R_Wrist",
+						"SkipWhileRaining": false,
+						"IsRanTo": false,
+						"ScheduleExpression": "None"
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Hour": 13,
+						"Waypoint": "Wahoo_Nerd_Hangout",
+						"PrimaryAnimation": "None",
+						"LoopingAnimation": "None",
+						"Mesh": "None",
+						"MeshOffset": 
+						{
+							"Rotation": 
+							{
+								"X": 0,
+								"Y": 0,
+								"Z": 0,
+								"W": 1
+							},
+							"Translation": 
+							{
+								"X": 0,
+								"Y": 0,
+								"Z": 0
+							},
+							"Scale3D": 
+							{
+								"X": 1,
+								"Y": 1,
+								"Z": 1
+							}
+						},
+						"MeshSocket": "Bn_R_Wrist",
+						"SkipWhileRaining": false,
+						"IsRanTo": false,
+						"ScheduleExpression": "None"
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Hour": 19,
+						"Waypoint": "Wahoo_Nerd_Hangout2",
+						"PrimaryAnimation": "None",
+						"LoopingAnimation": "None",
+						"Mesh": "None",
+						"MeshOffset": 
+						{
+							"Rotation": 
+							{
+								"X": 0,
+								"Y": 0,
+								"Z": 0,
+								"W": 1
+							},
+							"Translation": 
+							{
+								"X": 0,
+								"Y": 0,
+								"Z": 0
+							},
+							"Scale3D": 
+							{
+								"X": 1,
+								"Y": 1,
+								"Z": 1
+							}
+						},
+						"MeshSocket": "Bn_R_Wrist",
+						"SkipWhileRaining": false,
+						"IsRanTo": false,
+						"ScheduleExpression": "None"
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Hour": 19,
+						"Waypoint": "farm",
+						"PrimaryAnimation": "None",
+						"LoopingAnimation": "None",
+						"Mesh": "None",
+						"MeshOffset": 
+						{
+							"Rotation": 
+							{
+								"X": 0,
+								"Y": 0,
+								"Z": 0,
+								"W": 1
+							},
+							"Translation": 
+							{
+								"X": 0,
+								"Y": 0,
+								"Z": 0
+							},
+							"Scale3D": 
+							{
+								"X": 1,
+								"Y": 1,
+								"Z": 1
+							}
+						},
+						"MeshSocket": "Bn_R_Wrist",
+						"SkipWhileRaining": false,
+						"IsRanTo": false,
+						"ScheduleExpression": "None"
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Hour": 21,
+						"Waypoint": "Farm_Bed",
+						"PrimaryAnimation": "None",
+						"LoopingAnimation": "None",
+						"Mesh": "None",
+						"MeshOffset": 
+						{
+							"Rotation": 
+							{
+								"X": 0,
+								"Y": 0,
+								"Z": 0,
+								"W": 1
+							},
+							"Translation": 
+							{
+								"X": 0,
+								"Y": 0,
+								"Z": 0
+							},
+							"Scale3D": 
+							{
+								"X": 1,
+								"Y": 1,
+								"Z": 1
+							}
+						},
+						"MeshSocket": "Bn_R_Wrist",
+						"SkipWhileRaining": false,
+						"IsRanTo": false,
+						"ScheduleExpression": "None"
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Nerdy_Diamond_Falls",
+			"Tasks":
+			[]
+		},
+		{
+			"RowName": "Nerdy_Spoony_Island",
+			"Tasks":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Hour": 8,
+						"Waypoint": "farm",
+						"PrimaryAnimation": "None",
+						"LoopingAnimation": "None",
+						"Mesh": "None",
+						"MeshOffset": 
+						{
+							"Rotation": 
+							{
+								"X": 0,
+								"Y": 0,
+								"Z": 0,
+								"W": 1
+							},
+							"Translation": 
+							{
+								"X": 0,
+								"Y": 0,
+								"Z": 0
+							},
+							"Scale3D": 
+							{
+								"X": 1,
+								"Y": 1,
+								"Z": 1
+							}
+						},
+						"MeshSocket": "Bn_R_Wrist",
+						"SkipWhileRaining": false,
+						"IsRanTo": false,
+						"ScheduleExpression": "None"
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Hour": 13,
+						"Waypoint": "Spoony_Nerd_Hangout",
+						"PrimaryAnimation": "None",
+						"LoopingAnimation": "None",
+						"Mesh": "None",
+						"MeshOffset": 
+						{
+							"Rotation": 
+							{
+								"X": 0,
+								"Y": 0,
+								"Z": 0,
+								"W": 1
+							},
+							"Translation": 
+							{
+								"X": 0,
+								"Y": 0,
+								"Z": 0
+							},
+							"Scale3D": 
+							{
+								"X": 1,
+								"Y": 1,
+								"Z": 1
+							}
+						},
+						"MeshSocket": "Bn_R_Wrist",
+						"SkipWhileRaining": false,
+						"IsRanTo": false,
+						"ScheduleExpression": "None"
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Hour": 19,
+						"Waypoint": "Spoony_Nerd_Hangout2",
+						"PrimaryAnimation": "None",
+						"LoopingAnimation": "None",
+						"Mesh": "None",
+						"MeshOffset": 
+						{
+							"Rotation": 
+							{
+								"X": 0,
+								"Y": 0,
+								"Z": 0,
+								"W": 1
+							},
+							"Translation": 
+							{
+								"X": 0,
+								"Y": 0,
+								"Z": 0
+							},
+							"Scale3D": 
+							{
+								"X": 1,
+								"Y": 1,
+								"Z": 1
+							}
+						},
+						"MeshSocket": "Bn_R_Wrist",
+						"SkipWhileRaining": false,
+						"IsRanTo": false,
+						"ScheduleExpression": "None"
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Hour": 19,
+						"Waypoint": "farm",
+						"PrimaryAnimation": "None",
+						"LoopingAnimation": "None",
+						"Mesh": "None",
+						"MeshOffset": 
+						{
+							"Rotation": 
+							{
+								"X": 0,
+								"Y": 0,
+								"Z": 0,
+								"W": 1
+							},
+							"Translation": 
+							{
+								"X": 0,
+								"Y": 0,
+								"Z": 0
+							},
+							"Scale3D": 
+							{
+								"X": 1,
+								"Y": 1,
+								"Z": 1
+							}
+						},
+						"MeshSocket": "Bn_R_Wrist",
+						"SkipWhileRaining": false,
+						"IsRanTo": false,
+						"ScheduleExpression": "None"
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Hour": 21,
+						"Waypoint": "Farm_Bed",
+						"PrimaryAnimation": "None",
+						"LoopingAnimation": "None",
+						"Mesh": "None",
+						"MeshOffset": 
+						{
+							"Rotation": 
+							{
+								"X": 0,
+								"Y": 0,
+								"Z": 0,
+								"W": 1
+							},
+							"Translation": 
+							{
+								"X": 0,
+								"Y": 0,
+								"Z": 0
+							},
+							"Scale3D": 
+							{
+								"X": 1,
+								"Y": 1,
+								"Z": 1
+							}
+						},
+						"MeshSocket": "Bn_R_Wrist",
+						"SkipWhileRaining": false,
+						"IsRanTo": false,
+						"ScheduleExpression": "None"
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Sporty_Pumpkinvale",
+			"Tasks":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Hour": 8,
+						"Waypoint": "Pumpkinvale_Sporty_School",
+						"PrimaryAnimation": "None",
+						"LoopingAnimation": "None",
+						"Mesh": "None",
+						"MeshOffset": 
+						{
+							"Rotation": 
+							{
+								"X": 0,
+								"Y": 0,
+								"Z": 0,
+								"W": 1
+							},
+							"Translation": 
+							{
+								"X": 0,
+								"Y": 0,
+								"Z": 0
+							},
+							"Scale3D": 
+							{
+								"X": 1,
+								"Y": 1,
+								"Z": 1
+							}
+						},
+						"MeshSocket": "Bn_R_Wrist",
+						"SkipWhileRaining": false,
+						"IsRanTo": false,
+						"ScheduleExpression": "None"
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Hour": 13,
+						"Waypoint": "Pumpkinvale_Sporty_hangout1",
+						"PrimaryAnimation": "None",
+						"LoopingAnimation": "None",
+						"Mesh": "None",
+						"MeshOffset": 
+						{
+							"Rotation": 
+							{
+								"X": 0,
+								"Y": 0,
+								"Z": 0,
+								"W": 1
+							},
+							"Translation": 
+							{
+								"X": 0,
+								"Y": 0,
+								"Z": 0
+							},
+							"Scale3D": 
+							{
+								"X": 1,
+								"Y": 1,
+								"Z": 1
+							}
+						},
+						"MeshSocket": "Bn_R_Wrist",
+						"SkipWhileRaining": false,
+						"IsRanTo": false,
+						"ScheduleExpression": "None"
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Hour": 16,
+						"Waypoint": "Pumpkinvale_Sporty_hangout2",
+						"PrimaryAnimation": "None",
+						"LoopingAnimation": "None",
+						"Mesh": "None",
+						"MeshOffset": 
+						{
+							"Rotation": 
+							{
+								"X": 0,
+								"Y": 0,
+								"Z": 0,
+								"W": 1
+							},
+							"Translation": 
+							{
+								"X": 0,
+								"Y": 0,
+								"Z": 0
+							},
+							"Scale3D": 
+							{
+								"X": 1,
+								"Y": 1,
+								"Z": 1
+							}
+						},
+						"MeshSocket": "Bn_R_Wrist",
+						"SkipWhileRaining": false,
+						"IsRanTo": false,
+						"ScheduleExpression": "None"
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Hour": 19,
+						"Waypoint": "farm",
+						"PrimaryAnimation": "None",
+						"LoopingAnimation": "None",
+						"Mesh": "None",
+						"MeshOffset": 
+						{
+							"Rotation": 
+							{
+								"X": 0,
+								"Y": 0,
+								"Z": 0,
+								"W": 1
+							},
+							"Translation": 
+							{
+								"X": 0,
+								"Y": 0,
+								"Z": 0
+							},
+							"Scale3D": 
+							{
+								"X": 1,
+								"Y": 1,
+								"Z": 1
+							}
+						},
+						"MeshSocket": "Bn_R_Wrist",
+						"SkipWhileRaining": false,
+						"IsRanTo": false,
+						"ScheduleExpression": "None"
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Hour": 21,
+						"Waypoint": "Farm_Bed",
+						"PrimaryAnimation": "None",
+						"LoopingAnimation": "None",
+						"Mesh": "None",
+						"MeshOffset": 
+						{
+							"Rotation": 
+							{
+								"X": 0,
+								"Y": 0,
+								"Z": 0,
+								"W": 1
+							},
+							"Translation": 
+							{
+								"X": 0,
+								"Y": 0,
+								"Z": 0
+							},
+							"Scale3D": 
+							{
+								"X": 1,
+								"Y": 1,
+								"Z": 1
+							}
+						},
+						"MeshSocket": "Bn_R_Wrist",
+						"SkipWhileRaining": false,
+						"IsRanTo": false,
+						"ScheduleExpression": "None"
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Sporty_Wahoo_Beach",
+			"Tasks":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Hour": 8,
+						"Waypoint": "Wahoo_Sporty_School",
+						"PrimaryAnimation": "None",
+						"LoopingAnimation": "None",
+						"Mesh": "None",
+						"MeshOffset": 
+						{
+							"Rotation": 
+							{
+								"X": 0,
+								"Y": 0,
+								"Z": 0,
+								"W": 1
+							},
+							"Translation": 
+							{
+								"X": 0,
+								"Y": 0,
+								"Z": 0
+							},
+							"Scale3D": 
+							{
+								"X": 1,
+								"Y": 1,
+								"Z": 1
+							}
+						},
+						"MeshSocket": "Bn_R_Wrist",
+						"SkipWhileRaining": false,
+						"IsRanTo": false,
+						"ScheduleExpression": "None"
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Hour": 13,
+						"Waypoint": "Waho_Sporty_Hangout1",
+						"PrimaryAnimation": "None",
+						"LoopingAnimation": "None",
+						"Mesh": "None",
+						"MeshOffset": 
+						{
+							"Rotation": 
+							{
+								"X": 0,
+								"Y": 0,
+								"Z": 0,
+								"W": 1
+							},
+							"Translation": 
+							{
+								"X": 0,
+								"Y": 0,
+								"Z": 0
+							},
+							"Scale3D": 
+							{
+								"X": 1,
+								"Y": 1,
+								"Z": 1
+							}
+						},
+						"MeshSocket": "Bn_R_Wrist",
+						"SkipWhileRaining": false,
+						"IsRanTo": false,
+						"ScheduleExpression": "None"
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Hour": 16,
+						"Waypoint": "Waho_Sporty_Hangout2",
+						"PrimaryAnimation": "None",
+						"LoopingAnimation": "None",
+						"Mesh": "None",
+						"MeshOffset": 
+						{
+							"Rotation": 
+							{
+								"X": 0,
+								"Y": 0,
+								"Z": 0,
+								"W": 1
+							},
+							"Translation": 
+							{
+								"X": 0,
+								"Y": 0,
+								"Z": 0
+							},
+							"Scale3D": 
+							{
+								"X": 1,
+								"Y": 1,
+								"Z": 1
+							}
+						},
+						"MeshSocket": "Bn_R_Wrist",
+						"SkipWhileRaining": false,
+						"IsRanTo": false,
+						"ScheduleExpression": "None"
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Hour": 19,
+						"Waypoint": "farm",
+						"PrimaryAnimation": "None",
+						"LoopingAnimation": "None",
+						"Mesh": "None",
+						"MeshOffset": 
+						{
+							"Rotation": 
+							{
+								"X": 0,
+								"Y": 0,
+								"Z": 0,
+								"W": 1
+							},
+							"Translation": 
+							{
+								"X": 0,
+								"Y": 0,
+								"Z": 0
+							},
+							"Scale3D": 
+							{
+								"X": 1,
+								"Y": 1,
+								"Z": 1
+							}
+						},
+						"MeshSocket": "Bn_R_Wrist",
+						"SkipWhileRaining": false,
+						"IsRanTo": false,
+						"ScheduleExpression": "None"
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Hour": 21,
+						"Waypoint": "Farm_Bed",
+						"PrimaryAnimation": "None",
+						"LoopingAnimation": "None",
+						"Mesh": "None",
+						"MeshOffset": 
+						{
+							"Rotation": 
+							{
+								"X": 0,
+								"Y": 0,
+								"Z": 0,
+								"W": 1
+							},
+							"Translation": 
+							{
+								"X": 0,
+								"Y": 0,
+								"Z": 0
+							},
+							"Scale3D": 
+							{
+								"X": 1,
+								"Y": 1,
+								"Z": 1
+							}
+						},
+						"MeshSocket": "Bn_R_Wrist",
+						"SkipWhileRaining": false,
+						"IsRanTo": false,
+						"ScheduleExpression": "None"
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Sporty_Spoony_island",
+			"Tasks":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Hour": 8,
+						"Waypoint": "farm",
+						"PrimaryAnimation": "None",
+						"LoopingAnimation": "None",
+						"Mesh": "None",
+						"MeshOffset": 
+						{
+							"Rotation": 
+							{
+								"X": 0,
+								"Y": 0,
+								"Z": 0,
+								"W": 1
+							},
+							"Translation": 
+							{
+								"X": 0,
+								"Y": 0,
+								"Z": 0
+							},
+							"Scale3D": 
+							{
+								"X": 1,
+								"Y": 1,
+								"Z": 1
+							}
+						},
+						"MeshSocket": "Bn_R_Wrist",
+						"SkipWhileRaining": false,
+						"IsRanTo": false,
+						"ScheduleExpression": "None"
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Hour": 13,
+						"Waypoint": "Spoon_Sporty_Hangout1",
+						"PrimaryAnimation": "None",
+						"LoopingAnimation": "None",
+						"Mesh": "None",
+						"MeshOffset": 
+						{
+							"Rotation": 
+							{
+								"X": 0,
+								"Y": 0,
+								"Z": 0,
+								"W": 1
+							},
+							"Translation": 
+							{
+								"X": 0,
+								"Y": 0,
+								"Z": 0
+							},
+							"Scale3D": 
+							{
+								"X": 1,
+								"Y": 1,
+								"Z": 1
+							}
+						},
+						"MeshSocket": "Bn_R_Wrist",
+						"SkipWhileRaining": false,
+						"IsRanTo": false,
+						"ScheduleExpression": "None"
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Hour": 16,
+						"Waypoint": "Spoon_Sporty_Hangout2",
+						"PrimaryAnimation": "None",
+						"LoopingAnimation": "None",
+						"Mesh": "None",
+						"MeshOffset": 
+						{
+							"Rotation": 
+							{
+								"X": 0,
+								"Y": 0,
+								"Z": 0,
+								"W": 1
+							},
+							"Translation": 
+							{
+								"X": 0,
+								"Y": 0,
+								"Z": 0
+							},
+							"Scale3D": 
+							{
+								"X": 1,
+								"Y": 1,
+								"Z": 1
+							}
+						},
+						"MeshSocket": "Bn_R_Wrist",
+						"SkipWhileRaining": false,
+						"IsRanTo": false,
+						"ScheduleExpression": "None"
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Hour": 19,
+						"Waypoint": "farm",
+						"PrimaryAnimation": "None",
+						"LoopingAnimation": "None",
+						"Mesh": "None",
+						"MeshOffset": 
+						{
+							"Rotation": 
+							{
+								"X": 0,
+								"Y": 0,
+								"Z": 0,
+								"W": 1
+							},
+							"Translation": 
+							{
+								"X": 0,
+								"Y": 0,
+								"Z": 0
+							},
+							"Scale3D": 
+							{
+								"X": 1,
+								"Y": 1,
+								"Z": 1
+							}
+						},
+						"MeshSocket": "Bn_R_Wrist",
+						"SkipWhileRaining": false,
+						"IsRanTo": false,
+						"ScheduleExpression": "None"
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Hour": 21,
+						"Waypoint": "Farm_Bed",
+						"PrimaryAnimation": "None",
+						"LoopingAnimation": "None",
+						"Mesh": "None",
+						"MeshOffset": 
+						{
+							"Rotation": 
+							{
+								"X": 0,
+								"Y": 0,
+								"Z": 0,
+								"W": 1
+							},
+							"Translation": 
+							{
+								"X": 0,
+								"Y": 0,
+								"Z": 0
+							},
+							"Scale3D": 
+							{
+								"X": 1,
+								"Y": 1,
+								"Z": 1
+							}
+						},
+						"MeshSocket": "Bn_R_Wrist",
+						"SkipWhileRaining": false,
+						"IsRanTo": false,
+						"ScheduleExpression": "None"
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Sporty_Diamond_Falls",
+			"Tasks":
+			[]
+		},
+		{
+			"RowName": "Tough_Pumpkinvale",
+			"Tasks":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Hour": 8,
+						"Waypoint": "Pumpkinvale_Tough_School",
+						"PrimaryAnimation": "None",
+						"LoopingAnimation": "None",
+						"Mesh": "None",
+						"MeshOffset": 
+						{
+							"Rotation": 
+							{
+								"X": 0,
+								"Y": 0,
+								"Z": 0,
+								"W": 1
+							},
+							"Translation": 
+							{
+								"X": 0,
+								"Y": 0,
+								"Z": 0
+							},
+							"Scale3D": 
+							{
+								"X": 1,
+								"Y": 1,
+								"Z": 1
+							}
+						},
+						"MeshSocket": "Bn_R_Wrist",
+						"SkipWhileRaining": false,
+						"IsRanTo": false,
+						"ScheduleExpression": "None"
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Hour": 13,
+						"Waypoint": "Pumpkinvale_Tough_hangout1",
+						"PrimaryAnimation": "None",
+						"LoopingAnimation": "None",
+						"Mesh": "None",
+						"MeshOffset": 
+						{
+							"Rotation": 
+							{
+								"X": 0,
+								"Y": 0,
+								"Z": 0,
+								"W": 1
+							},
+							"Translation": 
+							{
+								"X": 0,
+								"Y": 0,
+								"Z": 0
+							},
+							"Scale3D": 
+							{
+								"X": 1,
+								"Y": 1,
+								"Z": 1
+							}
+						},
+						"MeshSocket": "Bn_R_Wrist",
+						"SkipWhileRaining": false,
+						"IsRanTo": false,
+						"ScheduleExpression": "None"
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Hour": 16,
+						"Waypoint": "Pumpkinvale_Tough_hangout2",
+						"PrimaryAnimation": "None",
+						"LoopingAnimation": "None",
+						"Mesh": "None",
+						"MeshOffset": 
+						{
+							"Rotation": 
+							{
+								"X": 0,
+								"Y": 0,
+								"Z": 0,
+								"W": 1
+							},
+							"Translation": 
+							{
+								"X": 0,
+								"Y": 0,
+								"Z": 0
+							},
+							"Scale3D": 
+							{
+								"X": 1,
+								"Y": 1,
+								"Z": 1
+							}
+						},
+						"MeshSocket": "Bn_R_Wrist",
+						"SkipWhileRaining": false,
+						"IsRanTo": false,
+						"ScheduleExpression": "None"
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Hour": 21,
+						"Waypoint": "Farm_Bed",
+						"PrimaryAnimation": "None",
+						"LoopingAnimation": "None",
+						"Mesh": "None",
+						"MeshOffset": 
+						{
+							"Rotation": 
+							{
+								"X": 0,
+								"Y": 0,
+								"Z": 0,
+								"W": 1
+							},
+							"Translation": 
+							{
+								"X": 0,
+								"Y": 0,
+								"Z": 0
+							},
+							"Scale3D": 
+							{
+								"X": 1,
+								"Y": 1,
+								"Z": 1
+							}
+						},
+						"MeshSocket": "Bn_R_Wrist",
+						"SkipWhileRaining": false,
+						"IsRanTo": false,
+						"ScheduleExpression": "None"
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Hour": 13,
+						"Waypoint": "farm",
+						"PrimaryAnimation": "None",
+						"LoopingAnimation": "None",
+						"Mesh": "None",
+						"MeshOffset": 
+						{
+							"Rotation": 
+							{
+								"X": 0,
+								"Y": 0,
+								"Z": 0,
+								"W": 1
+							},
+							"Translation": 
+							{
+								"X": 0,
+								"Y": 0,
+								"Z": 0
+							},
+							"Scale3D": 
+							{
+								"X": 1,
+								"Y": 1,
+								"Z": 1
+							}
+						},
+						"MeshSocket": "Bn_R_Wrist",
+						"SkipWhileRaining": false,
+						"IsRanTo": false,
+						"ScheduleExpression": "None"
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Tough_Wahoo_Beach",
+			"Tasks":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Hour": 8,
+						"Waypoint": "Wahoo_Tough_School",
+						"PrimaryAnimation": "None",
+						"LoopingAnimation": "None",
+						"Mesh": "None",
+						"MeshOffset": 
+						{
+							"Rotation": 
+							{
+								"X": 0,
+								"Y": 0,
+								"Z": 0,
+								"W": 1
+							},
+							"Translation": 
+							{
+								"X": 0,
+								"Y": 0,
+								"Z": 0
+							},
+							"Scale3D": 
+							{
+								"X": 1,
+								"Y": 1,
+								"Z": 1
+							}
+						},
+						"MeshSocket": "Bn_R_Wrist",
+						"SkipWhileRaining": false,
+						"IsRanTo": false,
+						"ScheduleExpression": "None"
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Hour": 13,
+						"Waypoint": "Waho_Tough_Hangout",
+						"PrimaryAnimation": "None",
+						"LoopingAnimation": "None",
+						"Mesh": "None",
+						"MeshOffset": 
+						{
+							"Rotation": 
+							{
+								"X": 0,
+								"Y": 0,
+								"Z": 0,
+								"W": 1
+							},
+							"Translation": 
+							{
+								"X": 0,
+								"Y": 0,
+								"Z": 0
+							},
+							"Scale3D": 
+							{
+								"X": 1,
+								"Y": 1,
+								"Z": 1
+							}
+						},
+						"MeshSocket": "Bn_R_Wrist",
+						"SkipWhileRaining": false,
+						"IsRanTo": false,
+						"ScheduleExpression": "None"
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Hour": 16,
+						"Waypoint": "Waho_Tough_Hangout2",
+						"PrimaryAnimation": "None",
+						"LoopingAnimation": "None",
+						"Mesh": "None",
+						"MeshOffset": 
+						{
+							"Rotation": 
+							{
+								"X": 0,
+								"Y": 0,
+								"Z": 0,
+								"W": 1
+							},
+							"Translation": 
+							{
+								"X": 0,
+								"Y": 0,
+								"Z": 0
+							},
+							"Scale3D": 
+							{
+								"X": 1,
+								"Y": 1,
+								"Z": 1
+							}
+						},
+						"MeshSocket": "Bn_R_Wrist",
+						"SkipWhileRaining": false,
+						"IsRanTo": false,
+						"ScheduleExpression": "None"
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Hour": 19,
+						"Waypoint": "farm",
+						"PrimaryAnimation": "None",
+						"LoopingAnimation": "None",
+						"Mesh": "None",
+						"MeshOffset": 
+						{
+							"Rotation": 
+							{
+								"X": 0,
+								"Y": 0,
+								"Z": 0,
+								"W": 1
+							},
+							"Translation": 
+							{
+								"X": 0,
+								"Y": 0,
+								"Z": 0
+							},
+							"Scale3D": 
+							{
+								"X": 1,
+								"Y": 1,
+								"Z": 1
+							}
+						},
+						"MeshSocket": "Bn_R_Wrist",
+						"SkipWhileRaining": false,
+						"IsRanTo": false,
+						"ScheduleExpression": "None"
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Hour": 21,
+						"Waypoint": "Farm_Bed",
+						"PrimaryAnimation": "None",
+						"LoopingAnimation": "None",
+						"Mesh": "None",
+						"MeshOffset": 
+						{
+							"Rotation": 
+							{
+								"X": 0,
+								"Y": 0,
+								"Z": 0,
+								"W": 1
+							},
+							"Translation": 
+							{
+								"X": 0,
+								"Y": 0,
+								"Z": 0
+							},
+							"Scale3D": 
+							{
+								"X": 1,
+								"Y": 1,
+								"Z": 1
+							}
+						},
+						"MeshSocket": "Bn_R_Wrist",
+						"SkipWhileRaining": false,
+						"IsRanTo": false,
+						"ScheduleExpression": "None"
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Tough_Diamond_Falls",
+			"Tasks":
+			[]
+		},
+		{
+			"RowName": "Tough_Spoony_Island",
+			"Tasks":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Hour": 8,
+						"Waypoint": "farm",
+						"PrimaryAnimation": "None",
+						"LoopingAnimation": "None",
+						"Mesh": "None",
+						"MeshOffset": 
+						{
+							"Rotation": 
+							{
+								"X": 0,
+								"Y": 0,
+								"Z": 0,
+								"W": 1
+							},
+							"Translation": 
+							{
+								"X": 0,
+								"Y": 0,
+								"Z": 0
+							},
+							"Scale3D": 
+							{
+								"X": 1,
+								"Y": 1,
+								"Z": 1
+							}
+						},
+						"MeshSocket": "Bn_R_Wrist",
+						"SkipWhileRaining": false,
+						"IsRanTo": false,
+						"ScheduleExpression": "None"
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Hour": 13,
+						"Waypoint": "Spoony_Tough_hangout1",
+						"PrimaryAnimation": "None",
+						"LoopingAnimation": "None",
+						"Mesh": "None",
+						"MeshOffset": 
+						{
+							"Rotation": 
+							{
+								"X": 0,
+								"Y": 0,
+								"Z": 0,
+								"W": 1
+							},
+							"Translation": 
+							{
+								"X": 0,
+								"Y": 0,
+								"Z": 0
+							},
+							"Scale3D": 
+							{
+								"X": 1,
+								"Y": 1,
+								"Z": 1
+							}
+						},
+						"MeshSocket": "Bn_R_Wrist",
+						"SkipWhileRaining": false,
+						"IsRanTo": false,
+						"ScheduleExpression": "None"
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Hour": 16,
+						"Waypoint": "Spoony_Tough_hangout2",
+						"PrimaryAnimation": "None",
+						"LoopingAnimation": "None",
+						"Mesh": "None",
+						"MeshOffset": 
+						{
+							"Rotation": 
+							{
+								"X": 0,
+								"Y": 0,
+								"Z": 0,
+								"W": 1
+							},
+							"Translation": 
+							{
+								"X": 0,
+								"Y": 0,
+								"Z": 0
+							},
+							"Scale3D": 
+							{
+								"X": 1,
+								"Y": 1,
+								"Z": 1
+							}
+						},
+						"MeshSocket": "Bn_R_Wrist",
+						"SkipWhileRaining": false,
+						"IsRanTo": false,
+						"ScheduleExpression": "None"
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Hour": 21,
+						"Waypoint": "Farm_Bed",
+						"PrimaryAnimation": "None",
+						"LoopingAnimation": "None",
+						"Mesh": "None",
+						"MeshOffset": 
+						{
+							"Rotation": 
+							{
+								"X": 0,
+								"Y": 0,
+								"Z": 0,
+								"W": 1
+							},
+							"Translation": 
+							{
+								"X": 0,
+								"Y": 0,
+								"Z": 0
+							},
+							"Scale3D": 
+							{
+								"X": 1,
+								"Y": 1,
+								"Z": 1
+							}
+						},
+						"MeshSocket": "Bn_R_Wrist",
+						"SkipWhileRaining": false,
+						"IsRanTo": false,
+						"ScheduleExpression": "None"
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Hour": 13,
+						"Waypoint": "farm",
+						"PrimaryAnimation": "None",
+						"LoopingAnimation": "None",
+						"Mesh": "None",
+						"MeshOffset": 
+						{
+							"Rotation": 
+							{
+								"X": 0,
+								"Y": 0,
+								"Z": 0,
+								"W": 1
+							},
+							"Translation": 
+							{
+								"X": 0,
+								"Y": 0,
+								"Z": 0
+							},
+							"Scale3D": 
+							{
+								"X": 1,
+								"Y": 1,
+								"Z": 1
+							}
+						},
+						"MeshSocket": "Bn_R_Wrist",
+						"SkipWhileRaining": false,
+						"IsRanTo": false,
+						"ScheduleExpression": "None"
+					}
+				}
+			]
+		}
+	]
+}

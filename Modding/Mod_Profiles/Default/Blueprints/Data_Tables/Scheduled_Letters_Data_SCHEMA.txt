@@ -1,0 +1,8 @@
+Scheduled_Letters_Data Structure:
+
+Subject: string
+Body: string
+Sender: string
+Item: string
+ItemAmount: integer
+GoldAmount: integer

@@ -1,0 +1,2540 @@
+{
+	"Rows": 
+	[
+		{
+			"RowName": "P_Cooking",
+			"MinigameRow": "P_Cooking",
+			"MinigameTitle": "Cooking Contest",
+			"MayorMinigameDescription": "We're having a cooking contest later! Come and talk to me between 8am and 10am if you would like to join. Oh, and make sure you have enough space in your inventory, because you can keep what you cook.",
+			"MinigameInstructions": "The cooking contest is a test of your cooking knowledge. Use the ingredients given to create a dish required for the specific course. The winner will be determined not only by the number of dishes completed, but complexity as well.",
+			"MinigameInstructionsForFriendship": "We'll be playing the cooking game we usually hold during the Spring festival. No prizes will be given out of course, but I hope everyone has fun.  Use the ingredients given to create a dish required for the specific course. The winner will be determined not only by the number of dishes completed, but complexity as well.",
+			"MinigameOverDialogue": "Thank you everyone who participated in the contest. Enjoy the rest of the day!",
+			"NotEnoughInvSpaceDialogue": "You need some space in your inventory because you can keep what you cook.",
+			"InformPlayerStartHour": 0,
+			"InformPlayerEndHour": 8,
+			"JoinStartHour": 8,
+			"JoinEndHour": 10,
+			"EventStartHour": 11,
+			"EventEndHour": 12,
+			"HasDifficultyOptions": true,
+			"NpcPlacementMode": 2,
+			"PlayerPlacementMode": 2,
+			"CompetitorWaypointsIfUsed":
+			[],
+			"IntroductionAnimations":
+			[
+				"/Game/Character/Animations/Wave.Wave",
+				"/Game/Character/Animations/Thumbs_Up.Thumbs_Up"
+			],
+			"AllowMovementDuringMinigame": false,
+			"RequiredInventorySpace": 0,
+			"NoDifficultyRewards": 
+			{
+				"FirstPlaceRewards":
+				[],
+				"SecondPlaceRewards":
+				[],
+				"ThirdPlaceRewards":
+				[]
+			},
+			"EasyRewards": 
+			{
+				"FirstPlaceRewards":
+				[
+					{
+						"ElementIndex": 1,
+						"ElementValue": 
+						{
+							"RowName": "Beer_Barrel",
+							"AmountNeeded": 1
+						}
+					}
+				],
+				"SecondPlaceRewards":
+				[
+					{
+						"ElementIndex": 1,
+						"ElementValue": 
+						{
+							"RowName": "Coffee_Drink",
+							"AmountNeeded": 10
+						}
+					}
+				],
+				"ThirdPlaceRewards":
+				[
+					{
+						"ElementIndex": 1,
+						"ElementValue": 
+						{
+							"RowName": "Salt",
+							"AmountNeeded": 20
+						}
+					}
+				]
+			},
+			"MediumRewards": 
+			{
+				"FirstPlaceRewards":
+				[
+					{
+						"ElementIndex": 1,
+						"ElementValue": 
+						{
+							"RowName": "Large_Dark_Kitchen",
+							"AmountNeeded": 1
+						}
+					},
+					{
+						"ElementIndex": 1,
+						"ElementValue": 
+						{
+							"RowName": "Cherry_Cake_Pattern",
+							"AmountNeeded": 4
+						}
+					}
+				],
+				"SecondPlaceRewards":
+				[
+					{
+						"ElementIndex": 1,
+						"ElementValue": 
+						{
+							"RowName": "Still",
+							"AmountNeeded": 1
+						}
+					}
+				],
+				"ThirdPlaceRewards":
+				[
+					{
+						"ElementIndex": 1,
+						"ElementValue": 
+						{
+							"RowName": "Milk",
+							"AmountNeeded": 20
+						}
+					}
+				]
+			},
+			"HardRewards": 
+			{
+				"FirstPlaceRewards":
+				[
+					{
+						"ElementIndex": 1,
+						"ElementValue": 
+						{
+							"RowName": "Icecream_Processor",
+							"AmountNeeded": 1
+						}
+					}
+				],
+				"SecondPlaceRewards":
+				[
+					{
+						"ElementIndex": 1,
+						"ElementValue": 
+						{
+							"RowName": "Meteorite_Polished",
+							"AmountNeeded": 2
+						}
+					}
+				],
+				"ThirdPlaceRewards":
+				[
+					{
+						"ElementIndex": 1,
+						"ElementValue": 
+						{
+							"RowName": "Cocoberries_Seeds",
+							"AmountNeeded": 2
+						}
+					}
+				]
+			}
+		},
+		{
+			"RowName": "P_Cooking2",
+			"MinigameRow": "P_Cooking",
+			"MinigameTitle": "Cooking Contest",
+			"MayorMinigameDescription": "We're having a cooking contest later! Come and talk to me between 5pm and 7pm if you would like to join. Oh, and make sure you have enough space in your inventory, because you can keep what you cook.",
+			"MinigameInstructions": "The cooking contest is a test of your cooking knowledge. Use the ingredients given to create a dish required for the specific course. The winner will be determined not only by the number of dishes completed, but complexity as well.",
+			"MinigameInstructionsForFriendship": "We'll be playing the cooking game we usually hold during the Spring festival. No prizes will be given out of course, but I hope everyone has fun.  Use the ingredients given to create a dish required for the specific course. The winner will be determined not only by the number of dishes completed, but complexity as well.",
+			"MinigameOverDialogue": "Thank you everyone who participated in the contest. Enjoy the rest of the day!",
+			"NotEnoughInvSpaceDialogue": "You need some space in your inventory because you can keep what you cook.",
+			"InformPlayerStartHour": 0,
+			"InformPlayerEndHour": 17,
+			"JoinStartHour": 17,
+			"JoinEndHour": 19,
+			"EventStartHour": 20,
+			"EventEndHour": 21,
+			"HasDifficultyOptions": true,
+			"NpcPlacementMode": 2,
+			"PlayerPlacementMode": 2,
+			"CompetitorWaypointsIfUsed":
+			[],
+			"IntroductionAnimations":
+			[
+				"/Game/Character/Animations/Wave.Wave",
+				"/Game/Character/Animations/Thumbs_Up.Thumbs_Up"
+			],
+			"AllowMovementDuringMinigame": false,
+			"RequiredInventorySpace": 0,
+			"NoDifficultyRewards": 
+			{
+				"FirstPlaceRewards":
+				[],
+				"SecondPlaceRewards":
+				[],
+				"ThirdPlaceRewards":
+				[]
+			},
+			"EasyRewards": 
+			{
+				"FirstPlaceRewards":
+				[
+					{
+						"ElementIndex": 1,
+						"ElementValue": 
+						{
+							"RowName": "Beer_Barrel",
+							"AmountNeeded": 1
+						}
+					}
+				],
+				"SecondPlaceRewards":
+				[
+					{
+						"ElementIndex": 1,
+						"ElementValue": 
+						{
+							"RowName": "Coffee_Drink",
+							"AmountNeeded": 10
+						}
+					}
+				],
+				"ThirdPlaceRewards":
+				[
+					{
+						"ElementIndex": 1,
+						"ElementValue": 
+						{
+							"RowName": "Salt",
+							"AmountNeeded": 20
+						}
+					}
+				]
+			},
+			"MediumRewards": 
+			{
+				"FirstPlaceRewards":
+				[
+					{
+						"ElementIndex": 1,
+						"ElementValue": 
+						{
+							"RowName": "Large_Dark_Kitchen",
+							"AmountNeeded": 1
+						}
+					},
+					{
+						"ElementIndex": 1,
+						"ElementValue": 
+						{
+							"RowName": "Cherry_Cake_Pattern",
+							"AmountNeeded": 4
+						}
+					}
+				],
+				"SecondPlaceRewards":
+				[
+					{
+						"ElementIndex": 1,
+						"ElementValue": 
+						{
+							"RowName": "Still",
+							"AmountNeeded": 1
+						}
+					}
+				],
+				"ThirdPlaceRewards":
+				[
+					{
+						"ElementIndex": 1,
+						"ElementValue": 
+						{
+							"RowName": "Milk",
+							"AmountNeeded": 20
+						}
+					}
+				]
+			},
+			"HardRewards": 
+			{
+				"FirstPlaceRewards":
+				[
+					{
+						"ElementIndex": 1,
+						"ElementValue": 
+						{
+							"RowName": "Icecream_Processor",
+							"AmountNeeded": 1
+						}
+					}
+				],
+				"SecondPlaceRewards":
+				[
+					{
+						"ElementIndex": 1,
+						"ElementValue": 
+						{
+							"RowName": "Meteorite_Polished",
+							"AmountNeeded": 2
+						}
+					}
+				],
+				"ThirdPlaceRewards":
+				[
+					{
+						"ElementIndex": 1,
+						"ElementValue": 
+						{
+							"RowName": "Cocoberries_Seeds",
+							"AmountNeeded": 2
+						}
+					}
+				]
+			}
+		},
+		{
+			"RowName": "W_Cooking",
+			"MinigameRow": "W_Cooking",
+			"MinigameTitle": "Cooking Contest",
+			"MayorMinigameDescription": "Listen up young buck, we'll be cooking up something good at the cooking contest! Give me a holla between 8am and 10am if you want to test your skills. Oh, and make sure you got enough space in your inventory, because you can keep what you cook.",
+			"MinigameInstructions": "The cooking contest is a test of your cooking knowledge. Use the ingredients given to create a dish required for the specific course. The winner will be determined not only by the number of dishes completed, but complexity as well.",
+			"MinigameInstructionsForFriendship": "We're doing a cooking game for fun. This ain't the festival so don't be expectin' any prizes. Just have fun and take some time off.  Use the ingredients given to create a dish required for the specific course. The winner will be determined not only by the number of dishes completed, but complexity as well.",
+			"MinigameOverDialogue": "Thank you everyone who participated in the contest. Enjoy the rest of the day!",
+			"NotEnoughInvSpaceDialogue": "You need some space in your inventory because you can keep what you cook.",
+			"InformPlayerStartHour": 0,
+			"InformPlayerEndHour": 8,
+			"JoinStartHour": 8,
+			"JoinEndHour": 10,
+			"EventStartHour": 11,
+			"EventEndHour": 12,
+			"HasDifficultyOptions": true,
+			"NpcPlacementMode": 2,
+			"PlayerPlacementMode": 2,
+			"CompetitorWaypointsIfUsed":
+			[],
+			"IntroductionAnimations":
+			[
+				"/Game/Character/Animations/Wave.Wave",
+				"/Game/Character/Animations/Thumbs_Up.Thumbs_Up"
+			],
+			"AllowMovementDuringMinigame": false,
+			"RequiredInventorySpace": 0,
+			"NoDifficultyRewards": 
+			{
+				"FirstPlaceRewards":
+				[],
+				"SecondPlaceRewards":
+				[],
+				"ThirdPlaceRewards":
+				[]
+			},
+			"EasyRewards": 
+			{
+				"FirstPlaceRewards":
+				[
+					{
+						"ElementIndex": 1,
+						"ElementValue": 
+						{
+							"RowName": "Beer_Barrel",
+							"AmountNeeded": 1
+						}
+					}
+				],
+				"SecondPlaceRewards":
+				[
+					{
+						"ElementIndex": 1,
+						"ElementValue": 
+						{
+							"RowName": "Coffee_Drink",
+							"AmountNeeded": 10
+						}
+					}
+				],
+				"ThirdPlaceRewards":
+				[
+					{
+						"ElementIndex": 1,
+						"ElementValue": 
+						{
+							"RowName": "Salt",
+							"AmountNeeded": 20
+						}
+					}
+				]
+			},
+			"MediumRewards": 
+			{
+				"FirstPlaceRewards":
+				[
+					{
+						"ElementIndex": 1,
+						"ElementValue": 
+						{
+							"RowName": "Large_Dark_Kitchen",
+							"AmountNeeded": 1
+						}
+					},
+					{
+						"ElementIndex": 1,
+						"ElementValue": 
+						{
+							"RowName": "Watermelon_Pattern",
+							"AmountNeeded": 4
+						}
+					},
+					{
+						"ElementIndex": 1,
+						"ElementValue": 
+						{
+							"RowName": "Chocolate_Pattern",
+							"AmountNeeded": 4
+						}
+					}
+				],
+				"SecondPlaceRewards":
+				[
+					{
+						"ElementIndex": 1,
+						"ElementValue": 
+						{
+							"RowName": "Still",
+							"AmountNeeded": 1
+						}
+					}
+				],
+				"ThirdPlaceRewards":
+				[
+					{
+						"ElementIndex": 1,
+						"ElementValue": 
+						{
+							"RowName": "Milk",
+							"AmountNeeded": 20
+						}
+					}
+				]
+			},
+			"HardRewards": 
+			{
+				"FirstPlaceRewards":
+				[
+					{
+						"ElementIndex": 1,
+						"ElementValue": 
+						{
+							"RowName": "Icecream_Processor",
+							"AmountNeeded": 1
+						}
+					}
+				],
+				"SecondPlaceRewards":
+				[
+					{
+						"ElementIndex": 1,
+						"ElementValue": 
+						{
+							"RowName": "Meteorite_Polished",
+							"AmountNeeded": 2
+						}
+					}
+				],
+				"ThirdPlaceRewards":
+				[
+					{
+						"ElementIndex": 1,
+						"ElementValue": 
+						{
+							"RowName": "Cocoberries_Seeds",
+							"AmountNeeded": 2
+						}
+					}
+				]
+			}
+		},
+		{
+			"RowName": "W_Cooking2",
+			"MinigameRow": "W_Cooking",
+			"MinigameTitle": "Cooking Contest",
+			"MayorMinigameDescription": "Listen up young buck, we'll be cooking up something good at the cooking contest! Give me a holla between 5pm and 7pm if you want to test your skills. Oh, and make sure you got enough space in your inventory, because you can keep what you cook.",
+			"MinigameInstructions": "The cooking contest is a test of your cooking knowledge. Use the ingredients given to create a dish required for the specific course. The winner will be determined not only by the number of dishes completed, but complexity as well.",
+			"MinigameInstructionsForFriendship": "We're doing a cooking game for fun. This ain't the festival so don't be expectin' any prizes. Just have fun and take some time off.  Use the ingredients given to create a dish required for the specific course. The winner will be determined not only by the number of dishes completed, but complexity as well.",
+			"MinigameOverDialogue": "Thank you everyone who participated in the contest. Enjoy the rest of the day!",
+			"NotEnoughInvSpaceDialogue": "You need some space in your inventory because you can keep what you cook.",
+			"InformPlayerStartHour": 0,
+			"InformPlayerEndHour": 17,
+			"JoinStartHour": 17,
+			"JoinEndHour": 19,
+			"EventStartHour": 20,
+			"EventEndHour": 21,
+			"HasDifficultyOptions": true,
+			"NpcPlacementMode": 2,
+			"PlayerPlacementMode": 2,
+			"CompetitorWaypointsIfUsed":
+			[],
+			"IntroductionAnimations":
+			[
+				"/Game/Character/Animations/Wave.Wave",
+				"/Game/Character/Animations/Thumbs_Up.Thumbs_Up"
+			],
+			"AllowMovementDuringMinigame": false,
+			"RequiredInventorySpace": 0,
+			"NoDifficultyRewards": 
+			{
+				"FirstPlaceRewards":
+				[],
+				"SecondPlaceRewards":
+				[],
+				"ThirdPlaceRewards":
+				[]
+			},
+			"EasyRewards": 
+			{
+				"FirstPlaceRewards":
+				[
+					{
+						"ElementIndex": 1,
+						"ElementValue": 
+						{
+							"RowName": "Beer_Barrel",
+							"AmountNeeded": 1
+						}
+					}
+				],
+				"SecondPlaceRewards":
+				[
+					{
+						"ElementIndex": 1,
+						"ElementValue": 
+						{
+							"RowName": "Coffee_Drink",
+							"AmountNeeded": 10
+						}
+					}
+				],
+				"ThirdPlaceRewards":
+				[
+					{
+						"ElementIndex": 1,
+						"ElementValue": 
+						{
+							"RowName": "Salt",
+							"AmountNeeded": 20
+						}
+					}
+				]
+			},
+			"MediumRewards": 
+			{
+				"FirstPlaceRewards":
+				[
+					{
+						"ElementIndex": 1,
+						"ElementValue": 
+						{
+							"RowName": "Large_Dark_Kitchen",
+							"AmountNeeded": 1
+						}
+					},
+					{
+						"ElementIndex": 1,
+						"ElementValue": 
+						{
+							"RowName": "Watermelon_Pattern",
+							"AmountNeeded": 4
+						}
+					},
+					{
+						"ElementIndex": 1,
+						"ElementValue": 
+						{
+							"RowName": "Chocolate_Pattern",
+							"AmountNeeded": 4
+						}
+					}
+				],
+				"SecondPlaceRewards":
+				[
+					{
+						"ElementIndex": 1,
+						"ElementValue": 
+						{
+							"RowName": "Still",
+							"AmountNeeded": 1
+						}
+					}
+				],
+				"ThirdPlaceRewards":
+				[
+					{
+						"ElementIndex": 1,
+						"ElementValue": 
+						{
+							"RowName": "Milk",
+							"AmountNeeded": 20
+						}
+					}
+				]
+			},
+			"HardRewards": 
+			{
+				"FirstPlaceRewards":
+				[
+					{
+						"ElementIndex": 1,
+						"ElementValue": 
+						{
+							"RowName": "Icecream_Processor",
+							"AmountNeeded": 1
+						}
+					}
+				],
+				"SecondPlaceRewards":
+				[
+					{
+						"ElementIndex": 1,
+						"ElementValue": 
+						{
+							"RowName": "Meteorite_Polished",
+							"AmountNeeded": 2
+						}
+					}
+				],
+				"ThirdPlaceRewards":
+				[
+					{
+						"ElementIndex": 1,
+						"ElementValue": 
+						{
+							"RowName": "Cocoberries_Seeds",
+							"AmountNeeded": 2
+						}
+					}
+				]
+			}
+		},
+		{
+			"RowName": "D_Cooking",
+			"MinigameRow": "D_Cooking",
+			"MinigameTitle": "Cooking Contest",
+			"MayorMinigameDescription": "You ready for the cooking contest! I KNOW I AM! HAHAHA! Make sure you have space in your inventory because you can keep whatever you cook. All the more reason to bring your A game or you'll be going home with a DISASTER! Come back between 8 am and 10 am to join.",
+			"MinigameInstructions": "The cooking contest is a test of your cooking knowledge. Use the ingredients given to create a dish required for the specific course. The winner will be determined not only by the number of dishes completed, but complexity as well.",
+			"MinigameInstructionsForFriendship": "We're doing a cooking game for fun. This ain't the festival so don't be expectin' any prizes. Just have fun and take some time off.  Use the ingredients given to create a dish required for the specific course. The winner will be determined not only by the number of dishes completed, but complexity as well.",
+			"MinigameOverDialogue": "Thank you everyone who participated in the contest. Enjoy the rest of the day!",
+			"NotEnoughInvSpaceDialogue": "You need some space in your inventory because you can keep what you cook.",
+			"InformPlayerStartHour": 0,
+			"InformPlayerEndHour": 8,
+			"JoinStartHour": 8,
+			"JoinEndHour": 10,
+			"EventStartHour": 11,
+			"EventEndHour": 12,
+			"HasDifficultyOptions": true,
+			"NpcPlacementMode": 2,
+			"PlayerPlacementMode": 2,
+			"CompetitorWaypointsIfUsed":
+			[],
+			"IntroductionAnimations":
+			[
+				"/Game/Character/Animations/Wave.Wave",
+				"/Game/Character/Animations/Thumbs_Up.Thumbs_Up"
+			],
+			"AllowMovementDuringMinigame": false,
+			"RequiredInventorySpace": 0,
+			"NoDifficultyRewards": 
+			{
+				"FirstPlaceRewards":
+				[],
+				"SecondPlaceRewards":
+				[],
+				"ThirdPlaceRewards":
+				[]
+			},
+			"EasyRewards": 
+			{
+				"FirstPlaceRewards":
+				[
+					{
+						"ElementIndex": 1,
+						"ElementValue": 
+						{
+							"RowName": "Beer_Barrel",
+							"AmountNeeded": 1
+						}
+					}
+				],
+				"SecondPlaceRewards":
+				[
+					{
+						"ElementIndex": 1,
+						"ElementValue": 
+						{
+							"RowName": "Coffee_Drink",
+							"AmountNeeded": 10
+						}
+					}
+				],
+				"ThirdPlaceRewards":
+				[
+					{
+						"ElementIndex": 1,
+						"ElementValue": 
+						{
+							"RowName": "Salt",
+							"AmountNeeded": 20
+						}
+					}
+				]
+			},
+			"MediumRewards": 
+			{
+				"FirstPlaceRewards":
+				[
+					{
+						"ElementIndex": 1,
+						"ElementValue": 
+						{
+							"RowName": "Large_Dark_Kitchen",
+							"AmountNeeded": 1
+						}
+					},
+					{
+						"ElementIndex": 1,
+						"ElementValue": 
+						{
+							"RowName": "Watermelon_Pattern",
+							"AmountNeeded": 4
+						}
+					},
+					{
+						"ElementIndex": 1,
+						"ElementValue": 
+						{
+							"RowName": "Chocolate_Pattern",
+							"AmountNeeded": 4
+						}
+					}
+				],
+				"SecondPlaceRewards":
+				[
+					{
+						"ElementIndex": 1,
+						"ElementValue": 
+						{
+							"RowName": "Still",
+							"AmountNeeded": 1
+						}
+					}
+				],
+				"ThirdPlaceRewards":
+				[
+					{
+						"ElementIndex": 1,
+						"ElementValue": 
+						{
+							"RowName": "Milk",
+							"AmountNeeded": 20
+						}
+					}
+				]
+			},
+			"HardRewards": 
+			{
+				"FirstPlaceRewards":
+				[
+					{
+						"ElementIndex": 1,
+						"ElementValue": 
+						{
+							"RowName": "Icecream_Processor",
+							"AmountNeeded": 1
+						}
+					}
+				],
+				"SecondPlaceRewards":
+				[
+					{
+						"ElementIndex": 1,
+						"ElementValue": 
+						{
+							"RowName": "Meteorite_Polished",
+							"AmountNeeded": 2
+						}
+					}
+				],
+				"ThirdPlaceRewards":
+				[
+					{
+						"ElementIndex": 1,
+						"ElementValue": 
+						{
+							"RowName": "Cocoberries_Seeds",
+							"AmountNeeded": 2
+						}
+					}
+				]
+			}
+		},
+		{
+			"RowName": "D_Cooking2",
+			"MinigameRow": "D_Cooking",
+			"MinigameTitle": "Cooking Contest",
+			"MayorMinigameDescription": "You ready for the cooking contest! I KNOW I AM! HAHAHA! Make sure you have space in your inventory because you can keep whatever you cook. All the more reason to bring your A game or you'll be going home with a DISASTER! Come back between 5 pm and 7 pm to join.",
+			"MinigameInstructions": "The cooking contest is a test of your cooking knowledge. Use the ingredients given to create a dish required for the specific course. The winner will be determined not only by the number of dishes completed, but complexity as well.",
+			"MinigameInstructionsForFriendship": "We're doing a cooking game for fun. This ain't the festival so don't be expectin' any prizes. Just have fun and take some time off.  Use the ingredients given to create a dish required for the specific course. The winner will be determined not only by the number of dishes completed, but complexity as well.",
+			"MinigameOverDialogue": "Thank you everyone who participated in the contest. Enjoy the rest of the day!",
+			"NotEnoughInvSpaceDialogue": "You need some space in your inventory because you can keep what you cook.",
+			"InformPlayerStartHour": 0,
+			"InformPlayerEndHour": 17,
+			"JoinStartHour": 17,
+			"JoinEndHour": 19,
+			"EventStartHour": 20,
+			"EventEndHour": 21,
+			"HasDifficultyOptions": true,
+			"NpcPlacementMode": 2,
+			"PlayerPlacementMode": 2,
+			"CompetitorWaypointsIfUsed":
+			[],
+			"IntroductionAnimations":
+			[
+				"/Game/Character/Animations/Wave.Wave",
+				"/Game/Character/Animations/Thumbs_Up.Thumbs_Up"
+			],
+			"AllowMovementDuringMinigame": false,
+			"RequiredInventorySpace": 0,
+			"NoDifficultyRewards": 
+			{
+				"FirstPlaceRewards":
+				[],
+				"SecondPlaceRewards":
+				[],
+				"ThirdPlaceRewards":
+				[]
+			},
+			"EasyRewards": 
+			{
+				"FirstPlaceRewards":
+				[
+					{
+						"ElementIndex": 1,
+						"ElementValue": 
+						{
+							"RowName": "Beer_Barrel",
+							"AmountNeeded": 1
+						}
+					}
+				],
+				"SecondPlaceRewards":
+				[
+					{
+						"ElementIndex": 1,
+						"ElementValue": 
+						{
+							"RowName": "Coffee_Drink",
+							"AmountNeeded": 10
+						}
+					}
+				],
+				"ThirdPlaceRewards":
+				[
+					{
+						"ElementIndex": 1,
+						"ElementValue": 
+						{
+							"RowName": "Salt",
+							"AmountNeeded": 20
+						}
+					}
+				]
+			},
+			"MediumRewards": 
+			{
+				"FirstPlaceRewards":
+				[
+					{
+						"ElementIndex": 1,
+						"ElementValue": 
+						{
+							"RowName": "Large_Dark_Kitchen",
+							"AmountNeeded": 1
+						}
+					},
+					{
+						"ElementIndex": 1,
+						"ElementValue": 
+						{
+							"RowName": "Watermelon_Pattern",
+							"AmountNeeded": 4
+						}
+					},
+					{
+						"ElementIndex": 1,
+						"ElementValue": 
+						{
+							"RowName": "Chocolate_Pattern",
+							"AmountNeeded": 4
+						}
+					}
+				],
+				"SecondPlaceRewards":
+				[
+					{
+						"ElementIndex": 1,
+						"ElementValue": 
+						{
+							"RowName": "Still",
+							"AmountNeeded": 1
+						}
+					}
+				],
+				"ThirdPlaceRewards":
+				[
+					{
+						"ElementIndex": 1,
+						"ElementValue": 
+						{
+							"RowName": "Milk",
+							"AmountNeeded": 20
+						}
+					}
+				]
+			},
+			"HardRewards": 
+			{
+				"FirstPlaceRewards":
+				[
+					{
+						"ElementIndex": 1,
+						"ElementValue": 
+						{
+							"RowName": "Icecream_Processor",
+							"AmountNeeded": 1
+						}
+					}
+				],
+				"SecondPlaceRewards":
+				[
+					{
+						"ElementIndex": 1,
+						"ElementValue": 
+						{
+							"RowName": "Meteorite_Polished",
+							"AmountNeeded": 2
+						}
+					}
+				],
+				"ThirdPlaceRewards":
+				[
+					{
+						"ElementIndex": 1,
+						"ElementValue": 
+						{
+							"RowName": "Cocoberries_Seeds",
+							"AmountNeeded": 2
+						}
+					}
+				]
+			}
+		},
+		{
+			"RowName": "D_Fishing",
+			"MinigameRow": "D_Fishing",
+			"MinigameTitle": "Fishing Contest",
+			"MayorMinigameDescription": "We'll be having a fishing contest soon. Come back between 1pm and 3 pm to sign up. Make sure before you sign up you have plenty of food and inventory space to keep fishing.",
+			"MinigameInstructions": "The winner of the fishing contest will be determined by how many fish you can catch in 2 hours. It can be any fish, doesn't matter just catch a lot.",
+			"MinigameInstructionsForFriendship": "",
+			"MinigameOverDialogue": "Thank you everyone who participated in the contest. Enjoy the rest of your day",
+			"NotEnoughInvSpaceDialogue": "You need some more space in your inventory to hold the fish you catch.",
+			"InformPlayerStartHour": 0,
+			"InformPlayerEndHour": 13,
+			"JoinStartHour": 13,
+			"JoinEndHour": 15,
+			"EventStartHour": 16,
+			"EventEndHour": 18,
+			"HasDifficultyOptions": true,
+			"NpcPlacementMode": 0,
+			"PlayerPlacementMode": 0,
+			"CompetitorWaypointsIfUsed":
+			[],
+			"IntroductionAnimations":
+			[],
+			"AllowMovementDuringMinigame": true,
+			"RequiredInventorySpace": 5,
+			"NoDifficultyRewards": 
+			{
+				"FirstPlaceRewards":
+				[],
+				"SecondPlaceRewards":
+				[],
+				"ThirdPlaceRewards":
+				[]
+			},
+			"EasyRewards": 
+			{
+				"FirstPlaceRewards":
+				[
+					{
+						"ElementIndex": 1,
+						"ElementValue": 
+						{
+							"RowName": "Shell_Table",
+							"AmountNeeded": 1
+						}
+					},
+					{
+						"ElementIndex": 1,
+						"ElementValue": 
+						{
+							"RowName": "Mango_Mahi_Mahi",
+							"AmountNeeded": 5
+						}
+					}
+				],
+				"SecondPlaceRewards":
+				[
+					{
+						"ElementIndex": 1,
+						"ElementValue": 
+						{
+							"RowName": "Roti",
+							"AmountNeeded": 5
+						}
+					},
+					{
+						"ElementIndex": 1,
+						"ElementValue": 
+						{
+							"RowName": "Takoyaki",
+							"AmountNeeded": 3
+						}
+					},
+					{
+						"ElementIndex": 1,
+						"ElementValue": 
+						{
+							"RowName": "Fish_Seasoning",
+							"AmountNeeded": 10
+						}
+					}
+				],
+				"ThirdPlaceRewards":
+				[
+					{
+						"ElementIndex": 1,
+						"ElementValue": 
+						{
+							"RowName": "Grilled_Fish",
+							"AmountNeeded": 10
+						}
+					},
+					{
+						"ElementIndex": 1,
+						"ElementValue": 
+						{
+							"RowName": "Fish_Cuts",
+							"AmountNeeded": 10
+						}
+					}
+				]
+			},
+			"MediumRewards": 
+			{
+				"FirstPlaceRewards":
+				[
+					{
+						"ElementIndex": 1,
+						"ElementValue": 
+						{
+							"RowName": "Deep_Ocean_Pattern",
+							"AmountNeeded": 4
+						}
+					},
+					{
+						"ElementIndex": 1,
+						"ElementValue": 
+						{
+							"RowName": "Tropical_Squares_Pattern",
+							"AmountNeeded": 4
+						}
+					},
+					{
+						"ElementIndex": 1,
+						"ElementValue": 
+						{
+							"RowName": "Shell_Bed",
+							"AmountNeeded": 1
+						}
+					}
+				],
+				"SecondPlaceRewards":
+				[
+					{
+						"ElementIndex": 1,
+						"ElementValue": 
+						{
+							"RowName": "Fish_Cuts_Tuna",
+							"AmountNeeded": 20
+						}
+					}
+				],
+				"ThirdPlaceRewards":
+				[
+					{
+						"ElementIndex": 1,
+						"ElementValue": 
+						{
+							"RowName": "Potato_Fish_Curry",
+							"AmountNeeded": 3
+						}
+					},
+					{
+						"ElementIndex": 1,
+						"ElementValue": 
+						{
+							"RowName": "Crab_Quiche",
+							"AmountNeeded": 0
+						}
+					}
+				]
+			},
+			"HardRewards": 
+			{
+				"FirstPlaceRewards":
+				[
+					{
+						"ElementIndex": 1,
+						"ElementValue": 
+						{
+							"RowName": "Shell_Couch",
+							"AmountNeeded": 1
+						}
+					},
+					{
+						"ElementIndex": 1,
+						"ElementValue": 
+						{
+							"RowName": "Shell_Wardrobe",
+							"AmountNeeded": 1
+						}
+					},
+					{
+						"ElementIndex": 1,
+						"ElementValue": 
+						{
+							"RowName": "Ginger_Dragon_Seeds",
+							"AmountNeeded": 3
+						}
+					}
+				],
+				"SecondPlaceRewards":
+				[
+					{
+						"ElementIndex": 1,
+						"ElementValue": 
+						{
+							"RowName": "Fish_Tank_Ocean",
+							"AmountNeeded": 1
+						}
+					},
+					{
+						"ElementIndex": 1,
+						"ElementValue": 
+						{
+							"RowName": "Owl_Cake",
+							"AmountNeeded": 4
+						}
+					}
+				],
+				"ThirdPlaceRewards":
+				[
+					{
+						"ElementIndex": 1,
+						"ElementValue": 
+						{
+							"RowName": "Vanilla",
+							"AmountNeeded": 10
+						}
+					}
+				]
+			}
+		},
+		{
+			"RowName": "P_Fishing",
+			"MinigameRow": "P_Fishing",
+			"MinigameTitle": "Fishing Contest",
+			"MayorMinigameDescription": "We'll be having a fishing contest soon. Come back between 10:00 am and 12:00 pm to sign up. Make sure before you sign up you have plenty of food and inventory space to keep fishing.",
+			"MinigameInstructions": "The winner of the fishing contest will be determined by how many valuable fish you can catch. Make sure to come back and talk to me before the timer runs out. ",
+			"MinigameInstructionsForFriendship": "We'll be having a fishing contest for fun today. The winner of the fishing contest will be determined by how many valuable fish you can catch. You have until the end of the timer to catch as many valuable fish as you can.",
+			"MinigameOverDialogue": "Thank you everyone who participated in the contest. Enjoy the rest of the day!",
+			"NotEnoughInvSpaceDialogue": "You need some more space in your inventory to hold the fish you catch.",
+			"InformPlayerStartHour": 0,
+			"InformPlayerEndHour": 10,
+			"JoinStartHour": 10,
+			"JoinEndHour": 12,
+			"EventStartHour": 13,
+			"EventEndHour": 18,
+			"HasDifficultyOptions": true,
+			"NpcPlacementMode": 0,
+			"PlayerPlacementMode": 0,
+			"CompetitorWaypointsIfUsed":
+			[],
+			"IntroductionAnimations":
+			[],
+			"AllowMovementDuringMinigame": true,
+			"RequiredInventorySpace": 5,
+			"NoDifficultyRewards": 
+			{
+				"FirstPlaceRewards":
+				[],
+				"SecondPlaceRewards":
+				[],
+				"ThirdPlaceRewards":
+				[]
+			},
+			"EasyRewards": 
+			{
+				"FirstPlaceRewards":
+				[
+					{
+						"ElementIndex": 1,
+						"ElementValue": 
+						{
+							"RowName": "BBQ_Ribs",
+							"AmountNeeded": 5
+						}
+					},
+					{
+						"ElementIndex": 1,
+						"ElementValue": 
+						{
+							"RowName": "Fish_Burger",
+							"AmountNeeded": 5
+						}
+					},
+					{
+						"ElementIndex": 1,
+						"ElementValue": 
+						{
+							"RowName": "Chicken_Waffles",
+							"AmountNeeded": 5
+						}
+					}
+				],
+				"SecondPlaceRewards":
+				[
+					{
+						"ElementIndex": 1,
+						"ElementValue": 
+						{
+							"RowName": "Funnel_Cake",
+							"AmountNeeded": 3
+						}
+					},
+					{
+						"ElementIndex": 1,
+						"ElementValue": 
+						{
+							"RowName": "Pumpkin_Fish_Curry",
+							"AmountNeeded": 5
+						}
+					}
+				],
+				"ThirdPlaceRewards":
+				[
+					{
+						"ElementIndex": 1,
+						"ElementValue": 
+						{
+							"RowName": "Fizzy_Float",
+							"AmountNeeded": 3
+						}
+					},
+					{
+						"ElementIndex": 1,
+						"ElementValue": 
+						{
+							"RowName": "Herb_Fish",
+							"AmountNeeded": 3
+						}
+					}
+				]
+			},
+			"MediumRewards": 
+			{
+				"FirstPlaceRewards":
+				[
+					{
+						"ElementIndex": 1,
+						"ElementValue": 
+						{
+							"RowName": "Tropical_Squares_Pattern",
+							"AmountNeeded": 4
+						}
+					}
+				],
+				"SecondPlaceRewards":
+				[
+					{
+						"ElementIndex": 1,
+						"ElementValue": 
+						{
+							"RowName": "Fish_Seasoning",
+							"AmountNeeded": 20
+						}
+					}
+				],
+				"ThirdPlaceRewards":
+				[]
+			},
+			"HardRewards": 
+			{
+				"FirstPlaceRewards":
+				[
+					{
+						"ElementIndex": 1,
+						"ElementValue": 
+						{
+							"RowName": "Shell_Bed",
+							"AmountNeeded": 1
+						}
+					},
+					{
+						"ElementIndex": 1,
+						"ElementValue": 
+						{
+							"RowName": "Shell_Couch",
+							"AmountNeeded": 1
+						}
+					},
+					{
+						"ElementIndex": 1,
+						"ElementValue": 
+						{
+							"RowName": "Shell_Table",
+							"AmountNeeded": 1
+						}
+					},
+					{
+						"ElementIndex": 1,
+						"ElementValue": 
+						{
+							"RowName": "Shell_Wardrobe",
+							"AmountNeeded": 1
+						}
+					}
+				],
+				"SecondPlaceRewards":
+				[
+					{
+						"ElementIndex": 1,
+						"ElementValue": 
+						{
+							"RowName": "Fish_Tank_River",
+							"AmountNeeded": 1
+						}
+					},
+					{
+						"ElementIndex": 1,
+						"ElementValue": 
+						{
+							"RowName": "Drip_Cake",
+							"AmountNeeded": 4
+						}
+					}
+				],
+				"ThirdPlaceRewards":
+				[
+					{
+						"ElementIndex": 1,
+						"ElementValue": 
+						{
+							"RowName": "Tuna_Casserole",
+							"AmountNeeded": 5
+						}
+					},
+					{
+						"ElementIndex": 1,
+						"ElementValue": 
+						{
+							"RowName": "Tuna_Salad",
+							"AmountNeeded": 5
+						}
+					}
+				]
+			}
+		},
+		{
+			"RowName": "W_Fishing",
+			"MinigameRow": "W_Fishing",
+			"MinigameTitle": "Fishing Contest",
+			"MayorMinigameDescription": "Yo, you wanna participate in the fishing contest today? Talk to me between 10:00 am and 12:00 pm to sign up. If you participate make sure you have an empty inventory and lots of food for energy.",
+			"MinigameInstructions": "The winner of the fishing contest will be determined by whoever can catch the rarest fish. Make sure to come back and talk to me before the timer runs out.",
+			"MinigameInstructionsForFriendship": "We'll be having a fishing contest for fun today. The winner of the fishing contest will be determined by how many valuable fish you can catch. You have until the end of the timer to catch the rarest fish. Good luck!",
+			"MinigameOverDialogue": "Thank you everyone who participated in the contest. Enjoy the rest of the day!",
+			"NotEnoughInvSpaceDialogue": "You need some more space in your inventory to hold the fish you catch.",
+			"InformPlayerStartHour": 0,
+			"InformPlayerEndHour": 10,
+			"JoinStartHour": 10,
+			"JoinEndHour": 12,
+			"EventStartHour": 13,
+			"EventEndHour": 18,
+			"HasDifficultyOptions": true,
+			"NpcPlacementMode": 0,
+			"PlayerPlacementMode": 0,
+			"CompetitorWaypointsIfUsed":
+			[],
+			"IntroductionAnimations":
+			[],
+			"AllowMovementDuringMinigame": true,
+			"RequiredInventorySpace": 5,
+			"NoDifficultyRewards": 
+			{
+				"FirstPlaceRewards":
+				[],
+				"SecondPlaceRewards":
+				[],
+				"ThirdPlaceRewards":
+				[]
+			},
+			"EasyRewards": 
+			{
+				"FirstPlaceRewards":
+				[
+					{
+						"ElementIndex": 1,
+						"ElementValue": 
+						{
+							"RowName": "Shell_Table",
+							"AmountNeeded": 1
+						}
+					},
+					{
+						"ElementIndex": 1,
+						"ElementValue": 
+						{
+							"RowName": "Mango_Mahi_Mahi",
+							"AmountNeeded": 5
+						}
+					}
+				],
+				"SecondPlaceRewards":
+				[
+					{
+						"ElementIndex": 1,
+						"ElementValue": 
+						{
+							"RowName": "Roti",
+							"AmountNeeded": 5
+						}
+					},
+					{
+						"ElementIndex": 1,
+						"ElementValue": 
+						{
+							"RowName": "Takoyaki",
+							"AmountNeeded": 3
+						}
+					},
+					{
+						"ElementIndex": 1,
+						"ElementValue": 
+						{
+							"RowName": "Fish_Seasoning",
+							"AmountNeeded": 10
+						}
+					}
+				],
+				"ThirdPlaceRewards":
+				[
+					{
+						"ElementIndex": 1,
+						"ElementValue": 
+						{
+							"RowName": "Grilled_Fish",
+							"AmountNeeded": 10
+						}
+					},
+					{
+						"ElementIndex": 1,
+						"ElementValue": 
+						{
+							"RowName": "Fish_Cuts",
+							"AmountNeeded": 10
+						}
+					}
+				]
+			},
+			"MediumRewards": 
+			{
+				"FirstPlaceRewards":
+				[
+					{
+						"ElementIndex": 1,
+						"ElementValue": 
+						{
+							"RowName": "Deep_Ocean_Pattern",
+							"AmountNeeded": 4
+						}
+					},
+					{
+						"ElementIndex": 1,
+						"ElementValue": 
+						{
+							"RowName": "Tropical_Squares_Pattern",
+							"AmountNeeded": 4
+						}
+					},
+					{
+						"ElementIndex": 1,
+						"ElementValue": 
+						{
+							"RowName": "Shell_Bed",
+							"AmountNeeded": 1
+						}
+					}
+				],
+				"SecondPlaceRewards":
+				[
+					{
+						"ElementIndex": 1,
+						"ElementValue": 
+						{
+							"RowName": "Fish_Cuts_Tuna",
+							"AmountNeeded": 20
+						}
+					}
+				],
+				"ThirdPlaceRewards":
+				[
+					{
+						"ElementIndex": 1,
+						"ElementValue": 
+						{
+							"RowName": "Potato_Fish_Curry",
+							"AmountNeeded": 3
+						}
+					},
+					{
+						"ElementIndex": 1,
+						"ElementValue": 
+						{
+							"RowName": "Crab_Quiche",
+							"AmountNeeded": 0
+						}
+					}
+				]
+			},
+			"HardRewards": 
+			{
+				"FirstPlaceRewards":
+				[
+					{
+						"ElementIndex": 1,
+						"ElementValue": 
+						{
+							"RowName": "Shell_Couch",
+							"AmountNeeded": 1
+						}
+					},
+					{
+						"ElementIndex": 1,
+						"ElementValue": 
+						{
+							"RowName": "Shell_Wardrobe",
+							"AmountNeeded": 1
+						}
+					},
+					{
+						"ElementIndex": 1,
+						"ElementValue": 
+						{
+							"RowName": "Ginger_Dragon_Seeds",
+							"AmountNeeded": 3
+						}
+					}
+				],
+				"SecondPlaceRewards":
+				[
+					{
+						"ElementIndex": 1,
+						"ElementValue": 
+						{
+							"RowName": "Fish_Tank_Ocean",
+							"AmountNeeded": 1
+						}
+					},
+					{
+						"ElementIndex": 1,
+						"ElementValue": 
+						{
+							"RowName": "Owl_Cake",
+							"AmountNeeded": 4
+						}
+					}
+				],
+				"ThirdPlaceRewards":
+				[
+					{
+						"ElementIndex": 1,
+						"ElementValue": 
+						{
+							"RowName": "Vanilla",
+							"AmountNeeded": 10
+						}
+					}
+				]
+			}
+		},
+		{
+			"RowName": "W_Bug_Catching",
+			"MinigameRow": "W_Bug_Catching",
+			"MinigameTitle": "Bug Catching Contest",
+			"MayorMinigameDescription": "Listen hear now...We'll be having bug catching contest soon. Talk to me between 8:00am and 10:00 am to enter. Oh, and make sure you have space in your inventory you can keep any bugs you catch.",
+			"MinigameInstructions": "The contest is real simple so listen up. We gunna release a ton of bugs out in this here field... you need to catch as many as you can in before the timer runs out. Oh, and you need to use the nice bug net we gave you. This is a contest of skill, not who has the best tool. Let's go!",
+			"MinigameInstructionsForFriendship": "We're going to have a fishing contest for fun today. It's not a festival day, so there will be no prize, but you can just have fun.  We gunna release a ton of bugs out in this here field... you need to catch as many as you can in before the timer runs out.",
+			"MinigameOverDialogue": "The bug catching contest is over! Nice display of skills everyone. You can keep those bugs you caught I have no use for them. Enjoy the rest of the day.",
+			"NotEnoughInvSpaceDialogue": "You need more space in your inventory for the bug net and the bugs you'll catch.",
+			"InformPlayerStartHour": 0,
+			"InformPlayerEndHour": 8,
+			"JoinStartHour": 8,
+			"JoinEndHour": 10,
+			"EventStartHour": 11,
+			"EventEndHour": 12,
+			"HasDifficultyOptions": true,
+			"NpcPlacementMode": 0,
+			"PlayerPlacementMode": 2,
+			"CompetitorWaypointsIfUsed":
+			[],
+			"IntroductionAnimations":
+			[],
+			"AllowMovementDuringMinigame": true,
+			"RequiredInventorySpace": 5,
+			"NoDifficultyRewards": 
+			{
+				"FirstPlaceRewards":
+				[],
+				"SecondPlaceRewards":
+				[],
+				"ThirdPlaceRewards":
+				[]
+			},
+			"EasyRewards": 
+			{
+				"FirstPlaceRewards":
+				[
+					{
+						"ElementIndex": 1,
+						"ElementValue": 
+						{
+							"RowName": "Fertilizer",
+							"AmountNeeded": 20
+						}
+					}
+				],
+				"SecondPlaceRewards":
+				[
+					{
+						"ElementIndex": 1,
+						"ElementValue": 
+						{
+							"RowName": "Samosa",
+							"AmountNeeded": 3
+						}
+					}
+				],
+				"ThirdPlaceRewards":
+				[
+					{
+						"ElementIndex": 1,
+						"ElementValue": 
+						{
+							"RowName": "Rose_Coconut",
+							"AmountNeeded": 3
+						}
+					}
+				]
+			},
+			"MediumRewards": 
+			{
+				"FirstPlaceRewards":
+				[
+					{
+						"ElementIndex": 1,
+						"ElementValue": 
+						{
+							"RowName": "Cloud_Chair",
+							"AmountNeeded": 1
+						}
+					},
+					{
+						"ElementIndex": 1,
+						"ElementValue": 
+						{
+							"RowName": "Clouds_Bed",
+							"AmountNeeded": 1
+						}
+					},
+					{
+						"ElementIndex": 1,
+						"ElementValue": 
+						{
+							"RowName": "Butterfly_Pattern",
+							"AmountNeeded": 4
+						}
+					},
+					{
+						"ElementIndex": 1,
+						"ElementValue": 
+						{
+							"RowName": "Candy_Cross_Bones_Pattern",
+							"AmountNeeded": 4
+						}
+					},
+					{
+						"ElementIndex": 1,
+						"ElementValue": 
+						{
+							"RowName": "Scary_Pattern",
+							"AmountNeeded": 4
+						}
+					},
+					{
+						"ElementIndex": 1,
+						"ElementValue": 
+						{
+							"RowName": "Skull_Pattern",
+							"AmountNeeded": 4
+						}
+					},
+					{
+						"ElementIndex": 1,
+						"ElementValue": 
+						{
+							"RowName": "Webs_Pattern",
+							"AmountNeeded": 4
+						}
+					}
+				],
+				"SecondPlaceRewards":
+				[
+					{
+						"ElementIndex": 1,
+						"ElementValue": 
+						{
+							"RowName": "Funnel_Cake",
+							"AmountNeeded": 5
+						}
+					},
+					{
+						"ElementIndex": 1,
+						"ElementValue": 
+						{
+							"RowName": "Fizzy_Float",
+							"AmountNeeded": 5
+						}
+					}
+				],
+				"ThirdPlaceRewards":
+				[
+					{
+						"ElementIndex": 1,
+						"ElementValue": 
+						{
+							"RowName": "Philosopher_Stone_Polished",
+							"AmountNeeded": 1
+						}
+					},
+					{
+						"ElementIndex": 1,
+						"ElementValue": 
+						{
+							"RowName": "Steel_Bar",
+							"AmountNeeded": 2
+						}
+					}
+				]
+			},
+			"HardRewards": 
+			{
+				"FirstPlaceRewards":
+				[
+					{
+						"ElementIndex": 1,
+						"ElementValue": 
+						{
+							"RowName": "Bug_Net_Gold",
+							"AmountNeeded": 1
+						}
+					},
+					{
+						"ElementIndex": 1,
+						"ElementValue": 
+						{
+							"RowName": "Rainbow_Bench",
+							"AmountNeeded": 1
+						}
+					},
+					{
+						"ElementIndex": 1,
+						"ElementValue": 
+						{
+							"RowName": "Cloud_Couch",
+							"AmountNeeded": 1
+						}
+					}
+				],
+				"SecondPlaceRewards":
+				[
+					{
+						"ElementIndex": 1,
+						"ElementValue": 
+						{
+							"RowName": "Banapple_Seeds",
+							"AmountNeeded": 3
+						}
+					},
+					{
+						"ElementIndex": 1,
+						"ElementValue": 
+						{
+							"RowName": "Sugarnut_Seeds",
+							"AmountNeeded": 3
+						}
+					},
+					{
+						"ElementIndex": 1,
+						"ElementValue": 
+						{
+							"RowName": "Cocoberries_Seeds",
+							"AmountNeeded": 3
+						}
+					}
+				],
+				"ThirdPlaceRewards":
+				[
+					{
+						"ElementIndex": 1,
+						"ElementValue": 
+						{
+							"RowName": "Meteorite_Polished",
+							"AmountNeeded": 1
+						}
+					}
+				]
+			}
+		},
+		{
+			"RowName": "W_Bug_Catching2",
+			"MinigameRow": "W_Bug_Catching",
+			"MinigameTitle": "Bug Catching Contest",
+			"MayorMinigameDescription": "Listen hear now...We'll be having bug catching contest soon. Talk to me between 5:00 pm and 7:00 pm to enter. Oh, and make sure you have space in your inventory you can keep any bugs you catch.",
+			"MinigameInstructions": "The contest is real simple so listen up. We gunna release a ton of bugs out in this here field... you need to catch as many as you can in before the timer runs out. Oh, and you need to use the nice bug net we gave you. This is a contest of skill, not who has the best tool. Let's go!",
+			"MinigameInstructionsForFriendship": "We're going to have a fishing contest for fun today. It's not a festival day, so there will be no prize, but you can just have fun.  We gunna release a ton of bugs out in this here field... you need to catch as many as you can in before the timer runs out.",
+			"MinigameOverDialogue": "The bug catching contest is over! Nice display of skills everyone. You can keep those bugs you caught I have no use for them. Enjoy the rest of the day.",
+			"NotEnoughInvSpaceDialogue": "You need more space in your inventory for the bug net and the bugs you'll catch.",
+			"InformPlayerStartHour": 0,
+			"InformPlayerEndHour": 17,
+			"JoinStartHour": 17,
+			"JoinEndHour": 19,
+			"EventStartHour": 20,
+			"EventEndHour": 21,
+			"HasDifficultyOptions": true,
+			"NpcPlacementMode": 0,
+			"PlayerPlacementMode": 2,
+			"CompetitorWaypointsIfUsed":
+			[],
+			"IntroductionAnimations":
+			[],
+			"AllowMovementDuringMinigame": true,
+			"RequiredInventorySpace": 5,
+			"NoDifficultyRewards": 
+			{
+				"FirstPlaceRewards":
+				[],
+				"SecondPlaceRewards":
+				[],
+				"ThirdPlaceRewards":
+				[]
+			},
+			"EasyRewards": 
+			{
+				"FirstPlaceRewards":
+				[
+					{
+						"ElementIndex": 1,
+						"ElementValue": 
+						{
+							"RowName": "Fertilizer",
+							"AmountNeeded": 20
+						}
+					}
+				],
+				"SecondPlaceRewards":
+				[
+					{
+						"ElementIndex": 1,
+						"ElementValue": 
+						{
+							"RowName": "Samosa",
+							"AmountNeeded": 3
+						}
+					}
+				],
+				"ThirdPlaceRewards":
+				[
+					{
+						"ElementIndex": 1,
+						"ElementValue": 
+						{
+							"RowName": "Rose_Coconut",
+							"AmountNeeded": 3
+						}
+					}
+				]
+			},
+			"MediumRewards": 
+			{
+				"FirstPlaceRewards":
+				[
+					{
+						"ElementIndex": 1,
+						"ElementValue": 
+						{
+							"RowName": "Cloud_Chair",
+							"AmountNeeded": 1
+						}
+					},
+					{
+						"ElementIndex": 1,
+						"ElementValue": 
+						{
+							"RowName": "Clouds_Bed",
+							"AmountNeeded": 1
+						}
+					},
+					{
+						"ElementIndex": 1,
+						"ElementValue": 
+						{
+							"RowName": "Butterfly_Pattern",
+							"AmountNeeded": 4
+						}
+					},
+					{
+						"ElementIndex": 1,
+						"ElementValue": 
+						{
+							"RowName": "Candy_Cross_Bones_Pattern",
+							"AmountNeeded": 4
+						}
+					},
+					{
+						"ElementIndex": 1,
+						"ElementValue": 
+						{
+							"RowName": "Scary_Pattern",
+							"AmountNeeded": 4
+						}
+					},
+					{
+						"ElementIndex": 1,
+						"ElementValue": 
+						{
+							"RowName": "Skull_Pattern",
+							"AmountNeeded": 4
+						}
+					},
+					{
+						"ElementIndex": 1,
+						"ElementValue": 
+						{
+							"RowName": "Webs_Pattern",
+							"AmountNeeded": 4
+						}
+					}
+				],
+				"SecondPlaceRewards":
+				[
+					{
+						"ElementIndex": 1,
+						"ElementValue": 
+						{
+							"RowName": "Funnel_Cake",
+							"AmountNeeded": 5
+						}
+					},
+					{
+						"ElementIndex": 1,
+						"ElementValue": 
+						{
+							"RowName": "Fizzy_Float",
+							"AmountNeeded": 5
+						}
+					}
+				],
+				"ThirdPlaceRewards":
+				[
+					{
+						"ElementIndex": 1,
+						"ElementValue": 
+						{
+							"RowName": "Philosopher_Stone_Polished",
+							"AmountNeeded": 1
+						}
+					},
+					{
+						"ElementIndex": 1,
+						"ElementValue": 
+						{
+							"RowName": "Steel_Bar",
+							"AmountNeeded": 2
+						}
+					}
+				]
+			},
+			"HardRewards": 
+			{
+				"FirstPlaceRewards":
+				[
+					{
+						"ElementIndex": 1,
+						"ElementValue": 
+						{
+							"RowName": "Bug_Net_Gold",
+							"AmountNeeded": 1
+						}
+					},
+					{
+						"ElementIndex": 1,
+						"ElementValue": 
+						{
+							"RowName": "Rainbow_Bench",
+							"AmountNeeded": 1
+						}
+					},
+					{
+						"ElementIndex": 1,
+						"ElementValue": 
+						{
+							"RowName": "Cloud_Couch",
+							"AmountNeeded": 1
+						}
+					}
+				],
+				"SecondPlaceRewards":
+				[
+					{
+						"ElementIndex": 1,
+						"ElementValue": 
+						{
+							"RowName": "Banapple_Seeds",
+							"AmountNeeded": 3
+						}
+					},
+					{
+						"ElementIndex": 1,
+						"ElementValue": 
+						{
+							"RowName": "Sugarnut_Seeds",
+							"AmountNeeded": 3
+						}
+					},
+					{
+						"ElementIndex": 1,
+						"ElementValue": 
+						{
+							"RowName": "Cocoberries_Seeds",
+							"AmountNeeded": 3
+						}
+					}
+				],
+				"ThirdPlaceRewards":
+				[
+					{
+						"ElementIndex": 1,
+						"ElementValue": 
+						{
+							"RowName": "Meteorite_Polished",
+							"AmountNeeded": 1
+						}
+					}
+				]
+			}
+		},
+		{
+			"RowName": "P_Bug_Catching",
+			"MinigameRow": "P_Bug_Catching",
+			"MinigameTitle": "Bug Catching Contest",
+			"MayorMinigameDescription": "Hello *PlayerName*. We'll be having a bug contest soon. You can sign up between 8:00am and 10:00am. Come back and talk to me during that time to enter.",
+			"MinigameInstructions": "Are you ready for the bug catching contest? All you need to do is catch as many bugs you can before the timer runs out. Oh, and since this a game of skill you need to use the bug net we're going to give you.",
+			"MinigameInstructionsForFriendship": "We're going to have a bug catching contest for fun today. It's not a festival day so there will be no prizes, but just have fun.  All you need to do is catch as many bugs you can before the timer runs out. Oh, and since this os a game of skill you need to use the bug net we're going to give you.",
+			"MinigameOverDialogue": "The minigame is over, I hope you had fun! Enjoy the rest of your day.",
+			"NotEnoughInvSpaceDialogue": "You need more space in your inventory for the bug net and the bugs you'll catch.",
+			"InformPlayerStartHour": 0,
+			"InformPlayerEndHour": 8,
+			"JoinStartHour": 8,
+			"JoinEndHour": 10,
+			"EventStartHour": 11,
+			"EventEndHour": 12,
+			"HasDifficultyOptions": true,
+			"NpcPlacementMode": 0,
+			"PlayerPlacementMode": 2,
+			"CompetitorWaypointsIfUsed":
+			[],
+			"IntroductionAnimations":
+			[],
+			"AllowMovementDuringMinigame": true,
+			"RequiredInventorySpace": 5,
+			"NoDifficultyRewards": 
+			{
+				"FirstPlaceRewards":
+				[],
+				"SecondPlaceRewards":
+				[],
+				"ThirdPlaceRewards":
+				[]
+			},
+			"EasyRewards": 
+			{
+				"FirstPlaceRewards":
+				[
+					{
+						"ElementIndex": 1,
+						"ElementValue": 
+						{
+							"RowName": "Sugar_Skull_Purple",
+							"AmountNeeded": 1
+						}
+					},
+					{
+						"ElementIndex": 1,
+						"ElementValue": 
+						{
+							"RowName": "Sugar_Skull_Red",
+							"AmountNeeded": 1
+						}
+					}
+				],
+				"SecondPlaceRewards":
+				[
+					{
+						"ElementIndex": 1,
+						"ElementValue": 
+						{
+							"RowName": "Pan_De_Muerto",
+							"AmountNeeded": 5
+						}
+					}
+				],
+				"ThirdPlaceRewards":
+				[
+					{
+						"ElementIndex": 1,
+						"ElementValue": 
+						{
+							"RowName": "Pumpkin_Spiced_Rum",
+							"AmountNeeded": 3
+						}
+					}
+				]
+			},
+			"MediumRewards": 
+			{
+				"FirstPlaceRewards":
+				[
+					{
+						"ElementIndex": 1,
+						"ElementValue": 
+						{
+							"RowName": "Sugar_Skull_Angel",
+							"AmountNeeded": 1
+						}
+					},
+					{
+						"ElementIndex": 1,
+						"ElementValue": 
+						{
+							"RowName": "Sugar_Skull_Traditional",
+							"AmountNeeded": 1
+						}
+					},
+					{
+						"ElementIndex": 1,
+						"ElementValue": 
+						{
+							"RowName": "Diamond_Flies_Pattern",
+							"AmountNeeded": 4
+						}
+					},
+					{
+						"ElementIndex": 1,
+						"ElementValue": 
+						{
+							"RowName": "Dia_De_Los_Muertos_Pattern",
+							"AmountNeeded": 4
+						}
+					}
+				],
+				"SecondPlaceRewards":
+				[
+					{
+						"ElementIndex": 1,
+						"ElementValue": 
+						{
+							"RowName": "Sugar_Skull_Floral",
+							"AmountNeeded": 1
+						}
+					},
+					{
+						"ElementIndex": 1,
+						"ElementValue": 
+						{
+							"RowName": "Sugar_Skull_Colorful",
+							"AmountNeeded": 1
+						}
+					}
+				],
+				"ThirdPlaceRewards":
+				[
+					{
+						"ElementIndex": 1,
+						"ElementValue": 
+						{
+							"RowName": "Philosopher_Stone_Polished",
+							"AmountNeeded": 1
+						}
+					},
+					{
+						"ElementIndex": 1,
+						"ElementValue": 
+						{
+							"RowName": "Steel_Bar",
+							"AmountNeeded": 2
+						}
+					}
+				]
+			},
+			"HardRewards": 
+			{
+				"FirstPlaceRewards":
+				[
+					{
+						"ElementIndex": 1,
+						"ElementValue": 
+						{
+							"RowName": "Bug_Net_Gold",
+							"AmountNeeded": 1
+						}
+					},
+					{
+						"ElementIndex": 1,
+						"ElementValue": 
+						{
+							"RowName": "Sugar_Skull_Black",
+							"AmountNeeded": 1
+						}
+					},
+					{
+						"ElementIndex": 1,
+						"ElementValue": 
+						{
+							"RowName": "Sugar_Skull_Green",
+							"AmountNeeded": 1
+						}
+					}
+				],
+				"SecondPlaceRewards":
+				[
+					{
+						"ElementIndex": 1,
+						"ElementValue": 
+						{
+							"RowName": "Banapple_Seeds",
+							"AmountNeeded": 3
+						}
+					},
+					{
+						"ElementIndex": 1,
+						"ElementValue": 
+						{
+							"RowName": "Sugarnut_Seeds",
+							"AmountNeeded": 3
+						}
+					},
+					{
+						"ElementIndex": 1,
+						"ElementValue": 
+						{
+							"RowName": "Cocoberries_Seeds",
+							"AmountNeeded": 3
+						}
+					}
+				],
+				"ThirdPlaceRewards":
+				[
+					{
+						"ElementIndex": 1,
+						"ElementValue": 
+						{
+							"RowName": "Meteorite_Polished",
+							"AmountNeeded": 1
+						}
+					},
+					{
+						"ElementIndex": 1,
+						"ElementValue": 
+						{
+							"RowName": "Sugar_Skull_Pink",
+							"AmountNeeded": 1
+						}
+					}
+				]
+			}
+		},
+		{
+			"RowName": "P_Bug_Catching2",
+			"MinigameRow": "P_Bug_Catching",
+			"MinigameTitle": "Bug Catching Contest",
+			"MayorMinigameDescription": "Hello *PlayerName*. We'll be having a bug contest soon. You can sign up between 5:00pm and 7:00 pm. Come back and talk to me during that time to enter.",
+			"MinigameInstructions": "Are you ready for the bug catching contest? All you need to do is catch as many bugs you can before the timer runs out. Oh, and since this is a game of skill you need to use the bug net we're going to give you.",
+			"MinigameInstructionsForFriendship": "We're going to have a bug catching contest for fun today. It's not a festival day so there will be no prizes, but just have fun.  All you need to do is catch as many bugs you can before the timer runs out. Oh, and since this a game of skill you need to use the bug net we're going to give you.",
+			"MinigameOverDialogue": "The minigame is over, I hope you had fun! Enjoy the rest of your day.",
+			"NotEnoughInvSpaceDialogue": "You need more space in your inventory for the bug net and the bugs you'll catch.",
+			"InformPlayerStartHour": 0,
+			"InformPlayerEndHour": 17,
+			"JoinStartHour": 17,
+			"JoinEndHour": 19,
+			"EventStartHour": 20,
+			"EventEndHour": 21,
+			"HasDifficultyOptions": true,
+			"NpcPlacementMode": 0,
+			"PlayerPlacementMode": 2,
+			"CompetitorWaypointsIfUsed":
+			[],
+			"IntroductionAnimations":
+			[],
+			"AllowMovementDuringMinigame": true,
+			"RequiredInventorySpace": 5,
+			"NoDifficultyRewards": 
+			{
+				"FirstPlaceRewards":
+				[],
+				"SecondPlaceRewards":
+				[],
+				"ThirdPlaceRewards":
+				[]
+			},
+			"EasyRewards": 
+			{
+				"FirstPlaceRewards":
+				[
+					{
+						"ElementIndex": 1,
+						"ElementValue": 
+						{
+							"RowName": "Sugar_Skull_Purple",
+							"AmountNeeded": 1
+						}
+					},
+					{
+						"ElementIndex": 1,
+						"ElementValue": 
+						{
+							"RowName": "Sugar_Skull_Red",
+							"AmountNeeded": 1
+						}
+					}
+				],
+				"SecondPlaceRewards":
+				[
+					{
+						"ElementIndex": 1,
+						"ElementValue": 
+						{
+							"RowName": "Pan_De_Muerto",
+							"AmountNeeded": 5
+						}
+					}
+				],
+				"ThirdPlaceRewards":
+				[
+					{
+						"ElementIndex": 1,
+						"ElementValue": 
+						{
+							"RowName": "Pumpkin_Spiced_Rum",
+							"AmountNeeded": 3
+						}
+					}
+				]
+			},
+			"MediumRewards": 
+			{
+				"FirstPlaceRewards":
+				[
+					{
+						"ElementIndex": 1,
+						"ElementValue": 
+						{
+							"RowName": "Sugar_Skull_Angel",
+							"AmountNeeded": 1
+						}
+					},
+					{
+						"ElementIndex": 1,
+						"ElementValue": 
+						{
+							"RowName": "Sugar_Skull_Traditional",
+							"AmountNeeded": 1
+						}
+					},
+					{
+						"ElementIndex": 1,
+						"ElementValue": 
+						{
+							"RowName": "Diamond_Flies_Pattern",
+							"AmountNeeded": 4
+						}
+					},
+					{
+						"ElementIndex": 1,
+						"ElementValue": 
+						{
+							"RowName": "Dia_De_Los_Muertos_Pattern",
+							"AmountNeeded": 4
+						}
+					}
+				],
+				"SecondPlaceRewards":
+				[
+					{
+						"ElementIndex": 1,
+						"ElementValue": 
+						{
+							"RowName": "Sugar_Skull_Floral",
+							"AmountNeeded": 1
+						}
+					},
+					{
+						"ElementIndex": 1,
+						"ElementValue": 
+						{
+							"RowName": "Sugar_Skull_Colorful",
+							"AmountNeeded": 1
+						}
+					}
+				],
+				"ThirdPlaceRewards":
+				[
+					{
+						"ElementIndex": 1,
+						"ElementValue": 
+						{
+							"RowName": "Philosopher_Stone_Polished",
+							"AmountNeeded": 1
+						}
+					},
+					{
+						"ElementIndex": 1,
+						"ElementValue": 
+						{
+							"RowName": "Steel_Bar",
+							"AmountNeeded": 2
+						}
+					}
+				]
+			},
+			"HardRewards": 
+			{
+				"FirstPlaceRewards":
+				[
+					{
+						"ElementIndex": 1,
+						"ElementValue": 
+						{
+							"RowName": "Bug_Net_Gold",
+							"AmountNeeded": 1
+						}
+					},
+					{
+						"ElementIndex": 1,
+						"ElementValue": 
+						{
+							"RowName": "Sugar_Skull_Black",
+							"AmountNeeded": 1
+						}
+					},
+					{
+						"ElementIndex": 1,
+						"ElementValue": 
+						{
+							"RowName": "Sugar_Skull_Green",
+							"AmountNeeded": 1
+						}
+					}
+				],
+				"SecondPlaceRewards":
+				[
+					{
+						"ElementIndex": 1,
+						"ElementValue": 
+						{
+							"RowName": "Banapple_Seeds",
+							"AmountNeeded": 3
+						}
+					},
+					{
+						"ElementIndex": 1,
+						"ElementValue": 
+						{
+							"RowName": "Sugarnut_Seeds",
+							"AmountNeeded": 3
+						}
+					},
+					{
+						"ElementIndex": 1,
+						"ElementValue": 
+						{
+							"RowName": "Cocoberries_Seeds",
+							"AmountNeeded": 3
+						}
+					}
+				],
+				"ThirdPlaceRewards":
+				[
+					{
+						"ElementIndex": 1,
+						"ElementValue": 
+						{
+							"RowName": "Meteorite_Polished",
+							"AmountNeeded": 1
+						}
+					},
+					{
+						"ElementIndex": 1,
+						"ElementValue": 
+						{
+							"RowName": "Sugar_Skull_Pink",
+							"AmountNeeded": 1
+						}
+					}
+				]
+			}
+		}
+	]
+}

@@ -1,0 +1,347 @@
+{
+	"Rows": 
+	[
+		{
+			"RowName": "test",
+			"Mesh": "StaticMesh'/Game/Character/Clothes/Jewelry/Glasses/Glasses_Aviators.Glasses_Aviators'",
+			"MeshAsSkeleton": "None",
+			"Material": "Material'/Game/Materials/Character_Body_Parts/Hair/_Hair_Material_Base._Hair_Material_Base'",
+			"Thumbnail": "None",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "test2",
+			"Mesh": "StaticMesh'/Game/Character/Clothes/Jewelry/Glasses/Glasses_Librarian.Glasses_Librarian'",
+			"MeshAsSkeleton": "None",
+			"Material": "Material'/Game/Materials/Unique/Food/Juice/_Juice_Main._Juice_Main'",
+			"Thumbnail": "None",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Glasses_Aviator",
+			"Mesh": "StaticMesh'/Game/Character/Clothes/Jewelry/Glasses/Glasses_Aviators.Glasses_Aviators'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Clothes/Glasses_Cool_Shades_Black.Glasses_Cool_Shades_Black'",
+			"Thumbnail": "None",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Glasses_Librarian_Red",
+			"Mesh": "StaticMesh'/Game/Character/Clothes/Jewelry/Glasses/Glasses_Librarian.Glasses_Librarian'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Patterns/Rugs_Wallpaper/Carpet/Carpet_Red.Carpet_Red'",
+			"Thumbnail": "None",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Glasses_Librarian_Brown",
+			"Mesh": "StaticMesh'/Game/Character/Clothes/Jewelry/Glasses/Glasses_Librarian.Glasses_Librarian'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Patterns/Rugs_Wallpaper/Carpet/Carpet_Dark_Brown.Carpet_Dark_Brown'",
+			"Thumbnail": "None",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Glasses_Librarian_Blue",
+			"Mesh": "StaticMesh'/Game/Character/Clothes/Jewelry/Glasses/Glasses_Librarian.Glasses_Librarian'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Patterns/Rugs_Wallpaper/Carpet/Carpet_Dark_Blue.Carpet_Dark_Blue'",
+			"Thumbnail": "None",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Glasses_Monocle_Black",
+			"Mesh": "StaticMesh'/Game/Character/Clothes/Jewelry/Glasses/Glasses_Monocle.Glasses_Monocle'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Patterns/Rugs_Wallpaper/Carpet/Carpet_Black.Carpet_Black'",
+			"Thumbnail": "None",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Glasses_Monocle_Gold",
+			"Mesh": "StaticMesh'/Game/Character/Clothes/Jewelry/Glasses/Glasses_Monocle.Glasses_Monocle'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Patterns/Rugs_Wallpaper/Carpet/Carpet_Yellow.Carpet_Yellow'",
+			"Thumbnail": "None",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Glasses_Heavy_Bridge_Black",
+			"Mesh": "StaticMesh'/Game/Character/Clothes/Jewelry/Glasses/Glasses_Regular.Glasses_Regular'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Patterns/Rugs_Wallpaper/Carpet/Carpet_Black.Carpet_Black'",
+			"Thumbnail": "None",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Glasses_Heavy_Bridge_Red",
+			"Mesh": "StaticMesh'/Game/Character/Clothes/Jewelry/Glasses/Glasses_Regular.Glasses_Regular'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Patterns/Rugs_Wallpaper/Carpet/Carpet_Dark_Red.Carpet_Dark_Red'",
+			"Thumbnail": "None",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Glasses_Heavy_Bridge_Brown",
+			"Mesh": "StaticMesh'/Game/Character/Clothes/Jewelry/Glasses/Glasses_Regular.Glasses_Regular'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Patterns/Rugs_Wallpaper/Carpet/Carpet_Dark_Brown.Carpet_Dark_Brown'",
+			"Thumbnail": "None",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Glasses_Heavy_Bridge_Blue",
+			"Mesh": "StaticMesh'/Game/Character/Clothes/Jewelry/Glasses/Glasses_Regular.Glasses_Regular'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Patterns/Rugs_Wallpaper/Carpet/Carpet_Dark_Blue.Carpet_Dark_Blue'",
+			"Thumbnail": "None",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Glasses_Round_Large_Black",
+			"Mesh": "StaticMesh'/Game/Character/Clothes/Jewelry/Glasses/Glasses_Round_Frames.Glasses_Round_Frames'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Patterns/Rugs_Wallpaper/Carpet/Carpet_Black.Carpet_Black'",
+			"Thumbnail": "None",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Glasses_Round_Large_Red",
+			"Mesh": "StaticMesh'/Game/Character/Clothes/Jewelry/Glasses/Glasses_Round_Frames.Glasses_Round_Frames'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Patterns/Rugs_Wallpaper/Carpet/Carpet_Red.Carpet_Red'",
+			"Thumbnail": "None",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Glasses_Round_Large_Brown",
+			"Mesh": "StaticMesh'/Game/Character/Clothes/Jewelry/Glasses/Glasses_Round_Frames.Glasses_Round_Frames'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Patterns/Rugs_Wallpaper/Carpet/Carpet_Dark_Brown.Carpet_Dark_Brown'",
+			"Thumbnail": "None",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Glasses_Round_Large_Blue",
+			"Mesh": "StaticMesh'/Game/Character/Clothes/Jewelry/Glasses/Glasses_Round_Frames.Glasses_Round_Frames'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Patterns/Rugs_Wallpaper/Carpet/Carpet_Dark_Blue.Carpet_Dark_Blue'",
+			"Thumbnail": "None",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Glasses_Oval_Black",
+			"Mesh": "StaticMesh'/Game/Character/Clothes/Jewelry/Glasses/Glasses_Round_Small.Glasses_Round_Small'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Patterns/Rugs_Wallpaper/Carpet/Carpet_Black.Carpet_Black'",
+			"Thumbnail": "None",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Glasses_Oval_Red",
+			"Mesh": "StaticMesh'/Game/Character/Clothes/Jewelry/Glasses/Glasses_Round_Small.Glasses_Round_Small'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Patterns/Rugs_Wallpaper/Carpet/Carpet_Red.Carpet_Red'",
+			"Thumbnail": "None",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Glasses_Oval_Brown",
+			"Mesh": "StaticMesh'/Game/Character/Clothes/Jewelry/Glasses/Glasses_Round_Small.Glasses_Round_Small'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Patterns/Rugs_Wallpaper/Carpet/Carpet_Dark_Brown.Carpet_Dark_Brown'",
+			"Thumbnail": "None",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Glasses_Oval_Blue",
+			"Mesh": "StaticMesh'/Game/Character/Clothes/Jewelry/Glasses/Glasses_Round_Small.Glasses_Round_Small'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Patterns/Rugs_Wallpaper/Carpet/Carpet_Dark_Blue.Carpet_Dark_Blue'",
+			"Thumbnail": "None",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Glasses_Thick_Black",
+			"Mesh": "StaticMesh'/Game/Character/Clothes/Jewelry/Glasses/Glasses_Thick_Frames.Glasses_Thick_Frames'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Patterns/Rugs_Wallpaper/Carpet/Carpet_Black.Carpet_Black'",
+			"Thumbnail": "None",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Glasses_Thick_Red",
+			"Mesh": "StaticMesh'/Game/Character/Clothes/Jewelry/Glasses/Glasses_Thick_Frames.Glasses_Thick_Frames'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Patterns/Rugs_Wallpaper/Carpet/Carpet_Dark_Red.Carpet_Dark_Red'",
+			"Thumbnail": "None",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Glasses_Thick_Brown",
+			"Mesh": "StaticMesh'/Game/Character/Clothes/Jewelry/Glasses/Glasses_Thick_Frames.Glasses_Thick_Frames'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Patterns/Rugs_Wallpaper/Carpet/Carpet_Dark_Brown.Carpet_Dark_Brown'",
+			"Thumbnail": "None",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Glasses_Thick_Blue",
+			"Mesh": "StaticMesh'/Game/Character/Clothes/Jewelry/Glasses/Glasses_Thick_Frames.Glasses_Thick_Frames'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Patterns/Rugs_Wallpaper/Carpet/Carpet_Dark_Blue.Carpet_Dark_Blue'",
+			"Thumbnail": "None",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Glasses_Librarian_Black",
+			"Mesh": "StaticMesh'/Game/Character/Clothes/Jewelry/Glasses/Glasses_Librarian.Glasses_Librarian'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Patterns/Rugs_Wallpaper/Carpet/Carpet_Black.Carpet_Black'",
+			"Thumbnail": "None",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Glasses_Aviator_Green",
+			"Mesh": "StaticMesh'/Game/Character/Clothes/Jewelry/Glasses/Glasses_Aviators.Glasses_Aviators'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Clothes/Glasses_Cool_Shades_Green.Glasses_Cool_Shades_Green'",
+			"Thumbnail": "None",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Glasses_Aviator_Pink",
+			"Mesh": "StaticMesh'/Game/Character/Clothes/Jewelry/Glasses/Glasses_Aviators.Glasses_Aviators'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Clothes/Glasses_Cool_Shades_Hot_Pink.Glasses_Cool_Shades_Hot_Pink'",
+			"Thumbnail": "None",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Glasses_Aviator_Purple",
+			"Mesh": "StaticMesh'/Game/Character/Clothes/Jewelry/Glasses/Glasses_Aviators.Glasses_Aviators'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Clothes/Glasses_Cool_Shades_Hot_Purple.Glasses_Cool_Shades_Hot_Purple'",
+			"Thumbnail": "None",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Glasses_Aviator_Ice",
+			"Mesh": "StaticMesh'/Game/Character/Clothes/Jewelry/Glasses/Glasses_Aviators.Glasses_Aviators'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Clothes/Glasses_Cool_Shades_Ice.Glasses_Cool_Shades_Ice'",
+			"Thumbnail": "None",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Glasses_Aviator_Red",
+			"Mesh": "StaticMesh'/Game/Character/Clothes/Jewelry/Glasses/Glasses_Aviators.Glasses_Aviators'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Clothes/Glasses_Cool_Shades_Red.Glasses_Cool_Shades_Red'",
+			"Thumbnail": "None",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Glasses_Aviator_Yellow",
+			"Mesh": "StaticMesh'/Game/Character/Clothes/Jewelry/Glasses/Glasses_Aviators.Glasses_Aviators'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Clothes/Glasses_Cool_Shades_Yellow.Glasses_Cool_Shades_Yellow'",
+			"Thumbnail": "None",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Glasses_Nerd",
+			"Mesh": "StaticMesh'/Game/Character/Clothes/Jewelry/Glasses/Glasses_Nerd.Glasses_Nerd'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Clothes/Swirl_Glasses.Swirl_Glasses'",
+			"Thumbnail": "None",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Glasses_Vacation_Pink",
+			"Mesh": "StaticMesh'/Game/Character/Clothes/Jewelry/Glasses/Glasses_Vacation_.Glasses_Vacation_'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "None",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Glasses_Vacation_Yellow",
+			"Mesh": "StaticMesh'/Game/Character/Clothes/Jewelry/Glasses/Glasses_Vacation_.Glasses_Vacation_'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "None",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Glasses_Vacation_Purple",
+			"Mesh": "StaticMesh'/Game/Character/Clothes/Jewelry/Glasses/Glasses_Vacation_.Glasses_Vacation_'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "None",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Glasses_Vacation_Green",
+			"Mesh": "StaticMesh'/Game/Character/Clothes/Jewelry/Glasses/Glasses_Vacation_.Glasses_Vacation_'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "None",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Eye_Bandages",
+			"Mesh": "StaticMesh'/Game/Character/Clothes/Jewelry/Glasses/Eye_Bandages.Eye_Bandages'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Clothes/Eyewear/Bandages/Bandages_Grey.Bandages_Grey'",
+			"Thumbnail": "None",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Glasses_Glow",
+			"Mesh": "StaticMesh'/Game/Character/Clothes/Jewelry/Glasses/Glasses_Glow.Glasses_Glow'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Clothes/Glasses_Icon.Glasses_Icon'",
+			"AvailableInCharCreation": false,
+			"AvailableInOther": true
+		}
+	]
+}

@@ -1,0 +1,3 @@
+Child_Male_Skeletons Structure:
+
+SkelMesh: USkeletalMesh*

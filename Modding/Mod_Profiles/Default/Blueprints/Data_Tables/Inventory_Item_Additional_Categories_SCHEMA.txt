@@ -1,0 +1,3 @@
+Inventory_Item_Additional_Categories Structure:
+
+NameArray: TArray-FName

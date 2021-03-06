@@ -1,0 +1,22 @@
+Farming_Crops_Data Structure:
+
+HoursBetweenStages: integer
+CropsPerHarvest: integer
+CanRegrow: true/false
+StaminaToHarvest: integer
+Meshes: 
+	Seed: TAssetPtr<UStaticMesh>
+	Sprout: TAssetPtr<UStaticMesh>
+	Leaf: TAssetPtr<UStaticMesh>
+	Flower: TAssetPtr<UStaticMesh>
+	Fruit: TAssetPtr<UStaticMesh>
+	Wilting: TAssetPtr<UStaticMesh>
+	Dead: TAssetPtr<UStaticMesh>
+CropPickHeight: ONE of
+	Low
+	High
+Seasons: TArray-TEnumAsByte<ESeason>
+TownVolumes: TArray-FName
+IsTree: true/false
+BaseHitsRequired: uint8
+FruitMaterialIndex: integer

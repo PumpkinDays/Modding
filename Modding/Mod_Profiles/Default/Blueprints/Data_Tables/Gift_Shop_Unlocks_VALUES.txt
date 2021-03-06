@@ -1,0 +1,181 @@
+{
+	"Rows": 
+	[
+		{
+			"RowName": "Painting_L_Gift_Starry_Night_Vangogh",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Painting_P_Gift_Mona_Lisa",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Painting_P_Gift_Napoleon_Crossing_The_Alps_Jacques_Louis_David",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Painting_P_Gift_Self_Portrait_Vangogh",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Painting_P_Gift_Thirst_William_Adolphe",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "African_Mask_Long",
+			"IntProperty": 5
+		},
+		{
+			"RowName": "African_Mask_Round",
+			"IntProperty": 5
+		},
+		{
+			"RowName": "African_Mask_Round2",
+			"IntProperty": 5
+		},
+		{
+			"RowName": "Vase_Amphora_Greek1",
+			"IntProperty": 10
+		},
+		{
+			"RowName": "Vase_Amphora_Greek2",
+			"IntProperty": 10
+		},
+		{
+			"RowName": "Vase_Amphora_Greek3",
+			"IntProperty": 10
+		},
+		{
+			"RowName": "Vase_Amphora_Greek4",
+			"IntProperty": 10
+		},
+		{
+			"RowName": "Anubis_Large",
+			"IntProperty": 20
+		},
+		{
+			"RowName": "Anubis_Small",
+			"IntProperty": 15
+		},
+		{
+			"RowName": "Egyptian_Arch_Decor",
+			"IntProperty": 20
+		},
+		{
+			"RowName": "Egyptian_Cat",
+			"IntProperty": 20
+		},
+		{
+			"RowName": "Egyptian_Chair",
+			"IntProperty": 20
+		},
+		{
+			"RowName": "Egyptian_Column1",
+			"IntProperty": 20
+		},
+		{
+			"RowName": "Egyptian_Column2",
+			"IntProperty": 20
+		},
+		{
+			"RowName": "Egyptian_Column3",
+			"IntProperty": 20
+		},
+		{
+			"RowName": "Egyptian_Column4",
+			"IntProperty": 20
+		},
+		{
+			"RowName": "Egyptian_Column5",
+			"IntProperty": 20
+		},
+		{
+			"RowName": "Egyptian_Head",
+			"IntProperty": 20
+		},
+		{
+			"RowName": "Egyptian_Pot",
+			"IntProperty": 5
+		},
+		{
+			"RowName": "Egyptian_Wall2_Decor",
+			"IntProperty": 20
+		},
+		{
+			"RowName": "Egyptian_Wall_Decor",
+			"IntProperty": 20
+		},
+		{
+			"RowName": "Greek_Bust",
+			"IntProperty": 20
+		},
+		{
+			"RowName": "Greek_Woman_Sculpture",
+			"IntProperty": 20
+		},
+		{
+			"RowName": "Old_Chinese_Statue",
+			"IntProperty": 20
+		},
+		{
+			"RowName": "Terracotta_Warrior_1",
+			"IntProperty": 30
+		},
+		{
+			"RowName": "Terracotta_Warrior_2",
+			"IntProperty": 30
+		},
+		{
+			"RowName": "Terracotta_Warrior_3",
+			"IntProperty": 30
+		},
+		{
+			"RowName": "Terracotta_Warrior_4",
+			"IntProperty": 30
+		},
+		{
+			"RowName": "Terracotta_Warrior_Horse",
+			"IntProperty": 30
+		},
+		{
+			"RowName": "Mayan_Statue",
+			"IntProperty": 20
+		},
+		{
+			"RowName": "Medieval_Statue_1",
+			"IntProperty": 35
+		},
+		{
+			"RowName": "Medieval_Statue_2",
+			"IntProperty": 35
+		},
+		{
+			"RowName": "Greek_Helmet",
+			"IntProperty": 35
+		},
+		{
+			"RowName": "Worried_Lady_Bust_Gold",
+			"IntProperty": 20
+		},
+		{
+			"RowName": "Worried_Lady_Bust_Stone",
+			"IntProperty": 20
+		},
+		{
+			"RowName": "Worried_Lady_Bust_Clay",
+			"IntProperty": 20
+		},
+		{
+			"RowName": "Buddhe_Head_Clay",
+			"IntProperty": 50
+		},
+		{
+			"RowName": "Buddhe_Head_Stone",
+			"IntProperty": 50
+		},
+		{
+			"RowName": "Buddhe_Head_Gold",
+			"IntProperty": 50
+		}
+	]
+}

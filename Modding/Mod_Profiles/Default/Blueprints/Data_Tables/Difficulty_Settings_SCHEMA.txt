@@ -1,0 +1,6 @@
+Difficulty_Settings Structure:
+
+DifficultyDescription: string
+PercentageToStopMuseum: float
+DelayMuseumIncrement: float
+ClinicGoldPercentagePenalty: integer

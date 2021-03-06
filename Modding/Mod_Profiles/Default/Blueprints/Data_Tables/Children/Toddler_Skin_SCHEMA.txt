@@ -1,0 +1,3 @@
+Toddler_Skin Structure:
+
+Material: TAssetPtr<UMaterialInterface>

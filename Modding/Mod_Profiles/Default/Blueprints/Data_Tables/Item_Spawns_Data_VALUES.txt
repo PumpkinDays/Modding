@@ -1,0 +1,1996 @@
+{
+	"Rows": 
+	[
+		{
+			"RowName": "test",
+			"StaticMesh": "StaticMesh'/Game/Meshes/Farming/Crops/Apple.Apple'",
+			"ItemDropped": "Apple",
+			"ItemAmount": 2,
+			"RespawnHours": 1,
+			"VisibilityDistance": 0,
+			"NoSpawnSeasons":
+			[],
+			"FactoryPreventsRespawn": true
+		},
+		{
+			"RowName": "Acanthus",
+			"StaticMesh": "StaticMesh'/Game/Meshes/Flowers/Flowers_Single/Acanthus_Single.Acanthus_Single'",
+			"ItemDropped": "Acanthus",
+			"ItemAmount": 1,
+			"RespawnHours": 48,
+			"VisibilityDistance": 2000,
+			"NoSpawnSeasons":
+			[ 3 ],
+			"FactoryPreventsRespawn": true
+		},
+		{
+			"RowName": "Adonis",
+			"StaticMesh": "StaticMesh'/Game/Meshes/Flowers/Flowers_Single/Adonis_Single.Adonis_Single'",
+			"ItemDropped": "Adonis",
+			"ItemAmount": 1,
+			"RespawnHours": 48,
+			"VisibilityDistance": 2000,
+			"NoSpawnSeasons":
+			[ 3 ],
+			"FactoryPreventsRespawn": true
+		},
+		{
+			"RowName": "alstroemeria",
+			"StaticMesh": "StaticMesh'/Game/Meshes/Flowers/Flowers_Single/Alstromeria.Alstromeria'",
+			"ItemDropped": "alstroemeria",
+			"ItemAmount": 1,
+			"RespawnHours": 48,
+			"VisibilityDistance": 2000,
+			"NoSpawnSeasons":
+			[ 3 ],
+			"FactoryPreventsRespawn": true
+		},
+		{
+			"RowName": "Bee_Balm",
+			"StaticMesh": "StaticMesh'/Game/Meshes/Flowers/Flowers_Single/Bee_Balm_Single.Bee_Balm_Single'",
+			"ItemDropped": "Bee_Balm",
+			"ItemAmount": 1,
+			"RespawnHours": 48,
+			"VisibilityDistance": 2000,
+			"NoSpawnSeasons":
+			[ 3 ],
+			"FactoryPreventsRespawn": true
+		},
+		{
+			"RowName": "Bird_Of_Paradise",
+			"StaticMesh": "StaticMesh'/Game/Meshes/Flowers/Flowers_Single/Birds_Of_Paradise_Single.Birds_Of_Paradise_Single'",
+			"ItemDropped": "Bird_Of_Paradise",
+			"ItemAmount": 1,
+			"RespawnHours": 48,
+			"VisibilityDistance": 2000,
+			"NoSpawnSeasons":
+			[ 3 ],
+			"FactoryPreventsRespawn": true
+		},
+		{
+			"RowName": "BlackDahlia",
+			"StaticMesh": "StaticMesh'/Game/Meshes/Flowers/Flowers_Single/Black_Dahlia_Single.Black_Dahlia_Single'",
+			"ItemDropped": "BlackDahlia",
+			"ItemAmount": 1,
+			"RespawnHours": 48,
+			"VisibilityDistance": 2000,
+			"NoSpawnSeasons":
+			[ 3 ],
+			"FactoryPreventsRespawn": true
+		},
+		{
+			"RowName": "Black_Iris",
+			"StaticMesh": "StaticMesh'/Game/Meshes/Flowers/Flowers_Single/Black_Iris_Single.Black_Iris_Single'",
+			"ItemDropped": "Black_Iris",
+			"ItemAmount": 1,
+			"RespawnHours": 48,
+			"VisibilityDistance": 2000,
+			"NoSpawnSeasons":
+			[ 3 ],
+			"FactoryPreventsRespawn": true
+		},
+		{
+			"RowName": "Canna",
+			"StaticMesh": "StaticMesh'/Game/Meshes/Flowers/Flowers_Single/Canna_Lily_Single.Canna_Lily_Single'",
+			"ItemDropped": "Canna",
+			"ItemAmount": 1,
+			"RespawnHours": 48,
+			"VisibilityDistance": 2000,
+			"NoSpawnSeasons":
+			[ 3 ],
+			"FactoryPreventsRespawn": true
+		},
+		{
+			"RowName": "Carnation",
+			"StaticMesh": "StaticMesh'/Game/Meshes/Flowers/Flowers_Single/Carnation_Single.Carnation_Single'",
+			"ItemDropped": "Carnation",
+			"ItemAmount": 1,
+			"RespawnHours": 48,
+			"VisibilityDistance": 2000,
+			"NoSpawnSeasons":
+			[ 3 ],
+			"FactoryPreventsRespawn": true
+		},
+		{
+			"RowName": "Chrysanthemum",
+			"StaticMesh": "StaticMesh'/Game/Meshes/Flowers/Flowers_Single/Chrysanthemum_Single.Chrysanthemum_Single'",
+			"ItemDropped": "Chrysanthemum",
+			"ItemAmount": 1,
+			"RespawnHours": 48,
+			"VisibilityDistance": 2000,
+			"NoSpawnSeasons":
+			[ 3 ],
+			"FactoryPreventsRespawn": true
+		},
+		{
+			"RowName": "Coelogyne_Pandurata",
+			"StaticMesh": "StaticMesh'/Game/Meshes/Flowers/Flowers_Single/Coelogyne_Single.Coelogyne_Single'",
+			"ItemDropped": "Coelogyne_Pandurata",
+			"ItemAmount": 1,
+			"RespawnHours": 48,
+			"VisibilityDistance": 2000,
+			"NoSpawnSeasons":
+			[ 3 ],
+			"FactoryPreventsRespawn": true
+		},
+		{
+			"RowName": "Colombine",
+			"StaticMesh": "StaticMesh'/Game/Meshes/Flowers/Flowers_Single/Columbine_Single.Columbine_Single'",
+			"ItemDropped": "Colombine",
+			"ItemAmount": 1,
+			"RespawnHours": 48,
+			"VisibilityDistance": 2000,
+			"NoSpawnSeasons":
+			[ 3 ],
+			"FactoryPreventsRespawn": true
+		},
+		{
+			"RowName": "Cosmos",
+			"StaticMesh": "StaticMesh'/Game/Meshes/Flowers/Flowers_Single/Cosmos_Single.Cosmos_Single'",
+			"ItemDropped": "Cosmos",
+			"ItemAmount": 1,
+			"RespawnHours": 48,
+			"VisibilityDistance": 2000,
+			"NoSpawnSeasons":
+			[ 3 ],
+			"FactoryPreventsRespawn": true
+		},
+		{
+			"RowName": "cotyledon_blossoms",
+			"StaticMesh": "StaticMesh'/Game/Meshes/Flowers/Flowers_Single/Cotyledon_Single.Cotyledon_Single'",
+			"ItemDropped": "cotyledon_blossoms",
+			"ItemAmount": 1,
+			"RespawnHours": 48,
+			"VisibilityDistance": 2000,
+			"NoSpawnSeasons":
+			[ 3 ],
+			"FactoryPreventsRespawn": true
+		},
+		{
+			"RowName": "Cymbidium_Orchid",
+			"StaticMesh": "StaticMesh'/Game/Meshes/Flowers/Flowers_Single/Cymbidium_Single.Cymbidium_Single'",
+			"ItemDropped": "Cymbidium_Orchid",
+			"ItemAmount": 1,
+			"RespawnHours": 48,
+			"VisibilityDistance": 2000,
+			"NoSpawnSeasons":
+			[ 3 ],
+			"FactoryPreventsRespawn": true
+		},
+		{
+			"RowName": "Daffodil",
+			"StaticMesh": "StaticMesh'/Game/Meshes/Flowers/Flowers_Single/Daffodil_Single.Daffodil_Single'",
+			"ItemDropped": "Daffodil",
+			"ItemAmount": 1,
+			"RespawnHours": 48,
+			"VisibilityDistance": 2000,
+			"NoSpawnSeasons":
+			[ 3 ],
+			"FactoryPreventsRespawn": true
+		},
+		{
+			"RowName": "Daisy",
+			"StaticMesh": "StaticMesh'/Game/Meshes/Flowers/Flowers_Single/Daisy_Single.Daisy_Single'",
+			"ItemDropped": "Daisy",
+			"ItemAmount": 1,
+			"RespawnHours": 48,
+			"VisibilityDistance": 2000,
+			"NoSpawnSeasons":
+			[ 3 ],
+			"FactoryPreventsRespawn": true
+		},
+		{
+			"RowName": "Day_Lily_Hemerocallis",
+			"StaticMesh": "StaticMesh'/Game/Meshes/Flowers/Flowers_Single/Day_Lily_Single.Day_Lily_Single'",
+			"ItemDropped": "Day_Lily_Hemerocallis",
+			"ItemAmount": 1,
+			"RespawnHours": 48,
+			"VisibilityDistance": 2000,
+			"NoSpawnSeasons":
+			[ 3 ],
+			"FactoryPreventsRespawn": true
+		},
+		{
+			"RowName": "Delphinium",
+			"StaticMesh": "StaticMesh'/Game/Meshes/Flowers/Flowers_Single/Delphinium_Single.Delphinium_Single'",
+			"ItemDropped": "Delphinium",
+			"ItemAmount": 1,
+			"RespawnHours": 48,
+			"VisibilityDistance": 2000,
+			"NoSpawnSeasons":
+			[ 3 ],
+			"FactoryPreventsRespawn": true
+		},
+		{
+			"RowName": "Echeveria",
+			"StaticMesh": "StaticMesh'/Game/Meshes/Flowers/Flowers_Single/Echeveria_Single.Echeveria_Single'",
+			"ItemDropped": "Echeveria",
+			"ItemAmount": 1,
+			"RespawnHours": 48,
+			"VisibilityDistance": 2000,
+			"NoSpawnSeasons":
+			[ 3 ],
+			"FactoryPreventsRespawn": true
+		},
+		{
+			"RowName": "Echinacea_Aster",
+			"StaticMesh": "StaticMesh'/Game/Meshes/Flowers/Flowers_Single/Echinaaceea_Single.Echinaaceea_Single'",
+			"ItemDropped": "Echinacea_Aster",
+			"ItemAmount": 1,
+			"RespawnHours": 48,
+			"VisibilityDistance": 2000,
+			"NoSpawnSeasons":
+			[ 3 ],
+			"FactoryPreventsRespawn": true
+		},
+		{
+			"RowName": "Fiddle_Fern",
+			"StaticMesh": "StaticMesh'/Game/Meshes/Flowers/Flowers_Single/Fiddle_Fern_Single.Fiddle_Fern_Single'",
+			"ItemDropped": "Fiddle_Fern",
+			"ItemAmount": 1,
+			"RespawnHours": 48,
+			"VisibilityDistance": 2000,
+			"NoSpawnSeasons":
+			[ 3 ],
+			"FactoryPreventsRespawn": true
+		},
+		{
+			"RowName": "Forget_Me_Not",
+			"StaticMesh": "StaticMesh'/Game/Meshes/Flowers/Flowers_Single/Forget_Me_Not_Single.Forget_Me_Not_Single'",
+			"ItemDropped": "Forget_Me_Not",
+			"ItemAmount": 1,
+			"RespawnHours": 48,
+			"VisibilityDistance": 2000,
+			"NoSpawnSeasons":
+			[ 3 ],
+			"FactoryPreventsRespawn": true
+		},
+		{
+			"RowName": "Gentian",
+			"StaticMesh": "StaticMesh'/Game/Meshes/Flowers/Flowers_Single/Gentian_Single.Gentian_Single'",
+			"ItemDropped": "Gentian",
+			"ItemAmount": 1,
+			"RespawnHours": 48,
+			"VisibilityDistance": 2000,
+			"NoSpawnSeasons":
+			[ 3 ],
+			"FactoryPreventsRespawn": true
+		},
+		{
+			"RowName": "Gladiolus",
+			"StaticMesh": "StaticMesh'/Game/Meshes/Flowers/Flowers_Single/Gladiolus_Single.Gladiolus_Single'",
+			"ItemDropped": "Gladiolus",
+			"ItemAmount": 1,
+			"RespawnHours": 48,
+			"VisibilityDistance": 2000,
+			"NoSpawnSeasons":
+			[ 3 ],
+			"FactoryPreventsRespawn": true
+		},
+		{
+			"RowName": "Greenovia_Dodrentalis",
+			"StaticMesh": "StaticMesh'/Game/Meshes/Flowers/Flowers_Single/Greenovia_Single.Greenovia_Single'",
+			"ItemDropped": "Greenovia_Dodrentalis",
+			"ItemAmount": 1,
+			"RespawnHours": 48,
+			"VisibilityDistance": 2000,
+			"NoSpawnSeasons":
+			[ 3 ],
+			"FactoryPreventsRespawn": true
+		},
+		{
+			"RowName": "Hellebore",
+			"StaticMesh": "StaticMesh'/Game/Meshes/Flowers/Flowers_Single/Hellebore_Single.Hellebore_Single'",
+			"ItemDropped": "Hellebore",
+			"ItemAmount": 1,
+			"RespawnHours": 48,
+			"VisibilityDistance": 2000,
+			"NoSpawnSeasons":
+			[ 3 ],
+			"FactoryPreventsRespawn": true
+		},
+		{
+			"RowName": "Hollyhock_Alcea",
+			"StaticMesh": "StaticMesh'/Game/Meshes/Flowers/Flower_Bushes/Hollyhock_Bush.Hollyhock_Bush'",
+			"ItemDropped": "Hollyhock_Alcea",
+			"ItemAmount": 1,
+			"RespawnHours": 48,
+			"VisibilityDistance": 2000,
+			"NoSpawnSeasons":
+			[ 3 ],
+			"FactoryPreventsRespawn": true
+		},
+		{
+			"RowName": "Hyacinth",
+			"StaticMesh": "StaticMesh'/Game/Meshes/Flowers/Flowers_Single/Hyacinth_Single.Hyacinth_Single'",
+			"ItemDropped": "Hyacinth",
+			"ItemAmount": 1,
+			"RespawnHours": 48,
+			"VisibilityDistance": 2000,
+			"NoSpawnSeasons":
+			[ 3 ],
+			"FactoryPreventsRespawn": true
+		},
+		{
+			"RowName": "Iris_Cristata",
+			"StaticMesh": "StaticMesh'/Game/Meshes/Flowers/Flowers_Single/Iris_Single.Iris_Single'",
+			"ItemDropped": "Iris_Cristata",
+			"ItemAmount": 1,
+			"RespawnHours": 48,
+			"VisibilityDistance": 2000,
+			"NoSpawnSeasons":
+			[ 3 ],
+			"FactoryPreventsRespawn": true
+		},
+		{
+			"RowName": "Iris",
+			"StaticMesh": "StaticMesh'/Game/Meshes/Flowers/Flowers_Single/Iris_Single.Iris_Single'",
+			"ItemDropped": "Iris",
+			"ItemAmount": 1,
+			"RespawnHours": 48,
+			"VisibilityDistance": 2000,
+			"NoSpawnSeasons":
+			[ 3 ],
+			"FactoryPreventsRespawn": true
+		},
+		{
+			"RowName": "Jade_Vine_Flower",
+			"StaticMesh": "StaticMesh'/Game/Meshes/Flowers/Flowers_Single/Jade_Flower_Single.Jade_Flower_Single'",
+			"ItemDropped": "Jade_Vine_Flower",
+			"ItemAmount": 1,
+			"RespawnHours": 48,
+			"VisibilityDistance": 2000,
+			"NoSpawnSeasons":
+			[ 3 ],
+			"FactoryPreventsRespawn": true
+		},
+		{
+			"RowName": "Mariposas_De_Cuba",
+			"StaticMesh": "StaticMesh'/Game/Meshes/Flowers/Flowers_Single/Mariposas_De_Cuba_Single.Mariposas_De_Cuba_Single'",
+			"ItemDropped": "Mariposas_De_Cuba",
+			"ItemAmount": 1,
+			"RespawnHours": 48,
+			"VisibilityDistance": 2000,
+			"NoSpawnSeasons":
+			[ 3 ],
+			"FactoryPreventsRespawn": true
+		},
+		{
+			"RowName": "Morning_Glory",
+			"StaticMesh": "StaticMesh'/Game/Meshes/Flowers/Flowers_Single/Morning_Glory_Single.Morning_Glory_Single'",
+			"ItemDropped": "Morning_Glory",
+			"ItemAmount": 1,
+			"RespawnHours": 48,
+			"VisibilityDistance": 2000,
+			"NoSpawnSeasons":
+			[ 3 ],
+			"FactoryPreventsRespawn": true
+		},
+		{
+			"RowName": "Nigella",
+			"StaticMesh": "StaticMesh'/Game/Meshes/Flowers/Flowers_Single/Nigella_Single.Nigella_Single'",
+			"ItemDropped": "Nigella",
+			"ItemAmount": 1,
+			"RespawnHours": 48,
+			"VisibilityDistance": 2000,
+			"NoSpawnSeasons":
+			[ 3 ],
+			"FactoryPreventsRespawn": true
+		},
+		{
+			"RowName": "Orchid",
+			"StaticMesh": "StaticMesh'/Game/Meshes/Flowers/Flowers_Single/Orchid_Single.Orchid_Single'",
+			"ItemDropped": "Orchid",
+			"ItemAmount": 1,
+			"RespawnHours": 48,
+			"VisibilityDistance": 2000,
+			"NoSpawnSeasons":
+			[ 3 ],
+			"FactoryPreventsRespawn": true
+		},
+		{
+			"RowName": "Passion_Flower",
+			"StaticMesh": "StaticMesh'/Game/Meshes/Flowers/Flowers_Single/Passion_Flower_Single.Passion_Flower_Single'",
+			"ItemDropped": "Passion_Flower",
+			"ItemAmount": 1,
+			"RespawnHours": 48,
+			"VisibilityDistance": 2000,
+			"NoSpawnSeasons":
+			[ 3 ],
+			"FactoryPreventsRespawn": true
+		},
+		{
+			"RowName": "Petunia",
+			"StaticMesh": "StaticMesh'/Game/Meshes/Flowers/Flowers_Single/Petunia_Single.Petunia_Single'",
+			"ItemDropped": "Petunia",
+			"ItemAmount": 1,
+			"RespawnHours": 48,
+			"VisibilityDistance": 2000,
+			"NoSpawnSeasons":
+			[],
+			"FactoryPreventsRespawn": true
+		},
+		{
+			"RowName": "Pride_Flower",
+			"StaticMesh": "StaticMesh'/Game/Meshes/Flowers/Flowers_Single/Pride_Flower.Pride_Flower'",
+			"ItemDropped": "Pride_Flower",
+			"ItemAmount": 1,
+			"RespawnHours": 48,
+			"VisibilityDistance": 2000,
+			"NoSpawnSeasons":
+			[],
+			"FactoryPreventsRespawn": true
+		},
+		{
+			"RowName": "Poppy",
+			"StaticMesh": "StaticMesh'/Game/Meshes/Flowers/Flowers_Single/Poppy_Single.Poppy_Single'",
+			"ItemDropped": "Poppy",
+			"ItemAmount": 1,
+			"RespawnHours": 48,
+			"VisibilityDistance": 2000,
+			"NoSpawnSeasons":
+			[ 3 ],
+			"FactoryPreventsRespawn": true
+		},
+		{
+			"RowName": "Pride_Of_Madeira",
+			"StaticMesh": "StaticMesh'/Game/Meshes/Flowers/Flowers_Single/Pride_Of_Madeira_Single.Pride_Of_Madeira_Single'",
+			"ItemDropped": "Pride_Of_Madeira",
+			"ItemAmount": 1,
+			"RespawnHours": 48,
+			"VisibilityDistance": 2000,
+			"NoSpawnSeasons":
+			[ 3 ],
+			"FactoryPreventsRespawn": true
+		},
+		{
+			"RowName": "Sandersonia",
+			"StaticMesh": "StaticMesh'/Game/Meshes/Flowers/Flowers_Single/Sanndersonia_Single.Sanndersonia_Single'",
+			"ItemDropped": "Sandersonia",
+			"ItemAmount": 1,
+			"RespawnHours": 48,
+			"VisibilityDistance": 2000,
+			"NoSpawnSeasons":
+			[ 3 ],
+			"FactoryPreventsRespawn": true
+		},
+		{
+			"RowName": "Scilla",
+			"StaticMesh": "StaticMesh'/Game/Meshes/Flowers/Flowers_Single/Scilla_Single.Scilla_Single'",
+			"ItemDropped": "Scilla",
+			"ItemAmount": 1,
+			"RespawnHours": 48,
+			"VisibilityDistance": 2000,
+			"NoSpawnSeasons":
+			[ 3 ],
+			"FactoryPreventsRespawn": true
+		},
+		{
+			"RowName": "Sneezeweed",
+			"StaticMesh": "StaticMesh'/Game/Meshes/Flowers/Flowers_Single/Sneeze_Weed_Single.Sneeze_Weed_Single'",
+			"ItemDropped": "Sneezeweed",
+			"ItemAmount": 1,
+			"RespawnHours": 48,
+			"VisibilityDistance": 2000,
+			"NoSpawnSeasons":
+			[ 3 ],
+			"FactoryPreventsRespawn": true
+		},
+		{
+			"RowName": "Star_Scabiosa",
+			"StaticMesh": "StaticMesh'/Game/Meshes/Flowers/Flowers_Single/Star_Scabiosa_Single.Star_Scabiosa_Single'",
+			"ItemDropped": "Star_Scabiosa",
+			"ItemAmount": 1,
+			"RespawnHours": 48,
+			"VisibilityDistance": 2000,
+			"NoSpawnSeasons":
+			[ 3 ],
+			"FactoryPreventsRespawn": true
+		},
+		{
+			"RowName": "Stokesia",
+			"StaticMesh": "StaticMesh'/Game/Meshes/Flowers/Flowers_Single/Strokesia_Single.Strokesia_Single'",
+			"ItemDropped": "Stokesia",
+			"ItemAmount": 1,
+			"RespawnHours": 48,
+			"VisibilityDistance": 2000,
+			"NoSpawnSeasons":
+			[ 3 ],
+			"FactoryPreventsRespawn": true
+		},
+		{
+			"RowName": "Trillium",
+			"StaticMesh": "StaticMesh'/Game/Meshes/Flowers/Flowers_Single/Trillium_Single.Trillium_Single'",
+			"ItemDropped": "Trillium",
+			"ItemAmount": 1,
+			"RespawnHours": 48,
+			"VisibilityDistance": 2000,
+			"NoSpawnSeasons":
+			[ 3 ],
+			"FactoryPreventsRespawn": true
+		},
+		{
+			"RowName": "Venus_Flytrap",
+			"StaticMesh": "StaticMesh'/Game/Meshes/Flowers/Flowers_Single/Venus_Fly_Trap_Single.Venus_Fly_Trap_Single'",
+			"ItemDropped": "Venus_Flytrap",
+			"ItemAmount": 1,
+			"RespawnHours": 48,
+			"VisibilityDistance": 2000,
+			"NoSpawnSeasons":
+			[ 3 ],
+			"FactoryPreventsRespawn": true
+		},
+		{
+			"RowName": "Verbana",
+			"StaticMesh": "StaticMesh'/Game/Meshes/Flowers/Flowers_Single/Verbana_Single.Verbana_Single'",
+			"ItemDropped": "Verbana",
+			"ItemAmount": 1,
+			"RespawnHours": 48,
+			"VisibilityDistance": 2000,
+			"NoSpawnSeasons":
+			[ 3 ],
+			"FactoryPreventsRespawn": true
+		},
+		{
+			"RowName": "Violet",
+			"StaticMesh": "StaticMesh'/Game/Meshes/Flowers/Flowers_Single/Violet_Single.Violet_Single'",
+			"ItemDropped": "Violet",
+			"ItemAmount": 1,
+			"RespawnHours": 48,
+			"VisibilityDistance": 2000,
+			"NoSpawnSeasons":
+			[ 3 ],
+			"FactoryPreventsRespawn": true
+		},
+		{
+			"RowName": "Zinnia",
+			"StaticMesh": "StaticMesh'/Game/Meshes/Flowers/Flowers_Single/Zinnia_Single.Zinnia_Single'",
+			"ItemDropped": "Zinnia",
+			"ItemAmount": 1,
+			"RespawnHours": 48,
+			"VisibilityDistance": 2000,
+			"NoSpawnSeasons":
+			[ 3 ],
+			"FactoryPreventsRespawn": true
+		},
+		{
+			"RowName": "Sunflower",
+			"StaticMesh": "StaticMesh'/Game/Meshes/Flowers/Flowers_Single/Sunflower_Single.Sunflower_Single'",
+			"ItemDropped": "Sunflower",
+			"ItemAmount": 1,
+			"RespawnHours": 48,
+			"VisibilityDistance": 2000,
+			"NoSpawnSeasons":
+			[ 3 ],
+			"FactoryPreventsRespawn": true
+		},
+		{
+			"RowName": "Kangaroo_Paw",
+			"StaticMesh": "StaticMesh'/Game/Meshes/Flowers/Flowers_Single/Kangaroo_Paw_Single.Kangaroo_Paw_Single'",
+			"ItemDropped": "Kangaroo_Paw",
+			"ItemAmount": 1,
+			"RespawnHours": 48,
+			"VisibilityDistance": 2000,
+			"NoSpawnSeasons":
+			[ 3 ],
+			"FactoryPreventsRespawn": true
+		},
+		{
+			"RowName": "Basil",
+			"StaticMesh": "StaticMesh'/Game/Meshes/Herbs/Herb_Leaves.Herb_Leaves'",
+			"ItemDropped": "Basil",
+			"ItemAmount": 1,
+			"RespawnHours": 48,
+			"VisibilityDistance": 2000,
+			"NoSpawnSeasons":
+			[ 3 ],
+			"FactoryPreventsRespawn": true
+		},
+		{
+			"RowName": "Bay_Leaves",
+			"StaticMesh": "StaticMesh'/Game/Meshes/Herbs/Herb_Leaves.Herb_Leaves'",
+			"ItemDropped": "Bay_Leaves",
+			"ItemAmount": 1,
+			"RespawnHours": 48,
+			"VisibilityDistance": 2000,
+			"NoSpawnSeasons":
+			[ 3 ],
+			"FactoryPreventsRespawn": true
+		},
+		{
+			"RowName": "Camelia",
+			"StaticMesh": "StaticMesh'/Game/Meshes/Herbs/Camelia_Single.Camelia_Single'",
+			"ItemDropped": "Camelia",
+			"ItemAmount": 1,
+			"RespawnHours": 96,
+			"VisibilityDistance": 2000,
+			"NoSpawnSeasons":
+			[ 3 ],
+			"FactoryPreventsRespawn": true
+		},
+		{
+			"RowName": "Capers",
+			"StaticMesh": "StaticMesh'/Game/Meshes/Herbs/Herb_Seeds.Herb_Seeds'",
+			"ItemDropped": "Capers",
+			"ItemAmount": 1,
+			"RespawnHours": 48,
+			"VisibilityDistance": 2000,
+			"NoSpawnSeasons":
+			[ 3 ],
+			"FactoryPreventsRespawn": true
+		},
+		{
+			"RowName": "Chamomile",
+			"StaticMesh": "StaticMesh'/Game/Meshes/Herbs/Chamomile_Single.Chamomile_Single'",
+			"ItemDropped": "Chamomile",
+			"ItemAmount": 1,
+			"RespawnHours": 48,
+			"VisibilityDistance": 2000,
+			"NoSpawnSeasons":
+			[ 3 ],
+			"FactoryPreventsRespawn": true
+		},
+		{
+			"RowName": "Chives",
+			"StaticMesh": "StaticMesh'/Game/Meshes/Herbs/Chives.Chives'",
+			"ItemDropped": "Chives",
+			"ItemAmount": 1,
+			"RespawnHours": 48,
+			"VisibilityDistance": 2000,
+			"NoSpawnSeasons":
+			[ 3 ],
+			"FactoryPreventsRespawn": true
+		},
+		{
+			"RowName": "Cilantro",
+			"StaticMesh": "StaticMesh'/Game/Meshes/Herbs/Herb_Leaves.Herb_Leaves'",
+			"ItemDropped": "Cilantro",
+			"ItemAmount": 1,
+			"RespawnHours": 48,
+			"VisibilityDistance": 2000,
+			"NoSpawnSeasons":
+			[ 3 ],
+			"FactoryPreventsRespawn": true
+		},
+		{
+			"RowName": "Cinnamon",
+			"StaticMesh": "StaticMesh'/Game/Meshes/Herbs/Cinnamon_Sticks.Cinnamon_Sticks'",
+			"ItemDropped": "Cinnamon",
+			"ItemAmount": 1,
+			"RespawnHours": 48,
+			"VisibilityDistance": 2000,
+			"NoSpawnSeasons":
+			[],
+			"FactoryPreventsRespawn": true
+		},
+		{
+			"RowName": "Cloves",
+			"StaticMesh": "StaticMesh'/Game/Foliage/Ground_Cover/Clovers.Clovers'",
+			"ItemDropped": "Cloves",
+			"ItemAmount": 1,
+			"RespawnHours": 48,
+			"VisibilityDistance": 2000,
+			"NoSpawnSeasons":
+			[],
+			"FactoryPreventsRespawn": true
+		},
+		{
+			"RowName": "Coriander",
+			"StaticMesh": "StaticMesh'/Game/Meshes/Herbs/Herb_Seeds.Herb_Seeds'",
+			"ItemDropped": "Coriander",
+			"ItemAmount": 1,
+			"RespawnHours": 48,
+			"VisibilityDistance": 2000,
+			"NoSpawnSeasons":
+			[ 3 ],
+			"FactoryPreventsRespawn": true
+		},
+		{
+			"RowName": "Cumin",
+			"StaticMesh": "StaticMesh'/Game/Meshes/Herbs/Herb_Seeds.Herb_Seeds'",
+			"ItemDropped": "Cumin",
+			"ItemAmount": 1,
+			"RespawnHours": 48,
+			"VisibilityDistance": 2000,
+			"NoSpawnSeasons":
+			[ 3 ],
+			"FactoryPreventsRespawn": true
+		},
+		{
+			"RowName": "Curry",
+			"StaticMesh": "StaticMesh'/Game/Meshes/Herbs/Herb_Leaves.Herb_Leaves'",
+			"ItemDropped": "Curry",
+			"ItemAmount": 1,
+			"RespawnHours": 48,
+			"VisibilityDistance": 2000,
+			"NoSpawnSeasons":
+			[ 3 ],
+			"FactoryPreventsRespawn": true
+		},
+		{
+			"RowName": "Dill_Weed",
+			"StaticMesh": "StaticMesh'/Game/Meshes/Herbs/Dill_Weed_Bush.Dill_Weed_Bush'",
+			"ItemDropped": "Dill_Weed",
+			"ItemAmount": 1,
+			"RespawnHours": 48,
+			"VisibilityDistance": 2000,
+			"NoSpawnSeasons":
+			[ 3 ],
+			"FactoryPreventsRespawn": true
+		},
+		{
+			"RowName": "Honey",
+			"StaticMesh": "StaticMesh'/Game/Meshes/Food/HoneyComb.HoneyComb'",
+			"ItemDropped": "Honey",
+			"ItemAmount": 2,
+			"RespawnHours": 48,
+			"VisibilityDistance": 2000,
+			"NoSpawnSeasons":
+			[ 3 ],
+			"FactoryPreventsRespawn": true
+		},
+		{
+			"RowName": "Horse_Radish",
+			"StaticMesh": "StaticMesh'/Game/Meshes/Herbs/Horse_Radish.Horse_Radish'",
+			"ItemDropped": "Horse_Radish",
+			"ItemAmount": 2,
+			"RespawnHours": 48,
+			"VisibilityDistance": 2000,
+			"NoSpawnSeasons":
+			[ 3 ],
+			"FactoryPreventsRespawn": true
+		},
+		{
+			"RowName": "Lavender",
+			"StaticMesh": "StaticMesh'/Game/Meshes/Herbs/Lavender_Single.Lavender_Single'",
+			"ItemDropped": "Lavender",
+			"ItemAmount": 1,
+			"RespawnHours": 48,
+			"VisibilityDistance": 2000,
+			"NoSpawnSeasons":
+			[ 3 ],
+			"FactoryPreventsRespawn": true
+		},
+		{
+			"RowName": "Lemon_Grass",
+			"StaticMesh": "StaticMesh'/Game/Meshes/Herbs/Chives.Chives'",
+			"ItemDropped": "Lemon_Grass",
+			"ItemAmount": 1,
+			"RespawnHours": 48,
+			"VisibilityDistance": 2000,
+			"NoSpawnSeasons":
+			[ 3 ],
+			"FactoryPreventsRespawn": true
+		},
+		{
+			"RowName": "Licorice",
+			"StaticMesh": "StaticMesh'/Game/Meshes/Herbs/Cinnamon_Sticks.Cinnamon_Sticks'",
+			"ItemDropped": "Licorice",
+			"ItemAmount": 1,
+			"RespawnHours": 48,
+			"VisibilityDistance": 2000,
+			"NoSpawnSeasons":
+			[ 3 ],
+			"FactoryPreventsRespawn": true
+		},
+		{
+			"RowName": "Mustard",
+			"StaticMesh": "StaticMesh'/Game/Meshes/Herbs/Herb_Leaves.Herb_Leaves'",
+			"ItemDropped": "Mustard",
+			"ItemAmount": 1,
+			"RespawnHours": 48,
+			"VisibilityDistance": 2000,
+			"NoSpawnSeasons":
+			[ 3 ],
+			"FactoryPreventsRespawn": true
+		},
+		{
+			"RowName": "Oregano",
+			"StaticMesh": "StaticMesh'/Game/Meshes/Herbs/Herb_Leaves.Herb_Leaves'",
+			"ItemDropped": "Oregano",
+			"ItemAmount": 1,
+			"RespawnHours": 48,
+			"VisibilityDistance": 2000,
+			"NoSpawnSeasons":
+			[ 3 ],
+			"FactoryPreventsRespawn": true
+		},
+		{
+			"RowName": "Parsley",
+			"StaticMesh": "StaticMesh'/Game/Meshes/Herbs/Herb_Leaves.Herb_Leaves'",
+			"ItemDropped": "Parsley",
+			"ItemAmount": 1,
+			"RespawnHours": 48,
+			"VisibilityDistance": 2000,
+			"NoSpawnSeasons":
+			[ 3 ],
+			"FactoryPreventsRespawn": true
+		},
+		{
+			"RowName": "Roosibos",
+			"StaticMesh": "StaticMesh'/Game/Meshes/Herbs/Herb_Seeds.Herb_Seeds'",
+			"ItemDropped": "Roosibos",
+			"ItemAmount": 1,
+			"RespawnHours": 48,
+			"VisibilityDistance": 2000,
+			"NoSpawnSeasons":
+			[ 3 ],
+			"FactoryPreventsRespawn": true
+		},
+		{
+			"RowName": "Rosemary",
+			"StaticMesh": "StaticMesh'/Game/Meshes/Herbs/Herb_Leaves.Herb_Leaves'",
+			"ItemDropped": "Rosemary",
+			"ItemAmount": 1,
+			"RespawnHours": 48,
+			"VisibilityDistance": 2000,
+			"NoSpawnSeasons":
+			[ 3 ],
+			"FactoryPreventsRespawn": true
+		},
+		{
+			"RowName": "Sage",
+			"StaticMesh": "StaticMesh'/Game/Meshes/Herbs/Herb_Leaves.Herb_Leaves'",
+			"ItemDropped": "Sage",
+			"ItemAmount": 1,
+			"RespawnHours": 48,
+			"VisibilityDistance": 2000,
+			"NoSpawnSeasons":
+			[ 3 ],
+			"FactoryPreventsRespawn": true
+		},
+		{
+			"RowName": "Sorrel",
+			"StaticMesh": "StaticMesh'/Game/Meshes/Herbs/Sorrel.Sorrel'",
+			"ItemDropped": "Sorrel",
+			"ItemAmount": 1,
+			"RespawnHours": 48,
+			"VisibilityDistance": 2000,
+			"NoSpawnSeasons":
+			[ 3 ],
+			"FactoryPreventsRespawn": true
+		},
+		{
+			"RowName": "Tarragon",
+			"StaticMesh": "StaticMesh'/Game/Meshes/Herbs/Herb_Leaves.Herb_Leaves'",
+			"ItemDropped": "Tarragon",
+			"ItemAmount": 1,
+			"RespawnHours": 48,
+			"VisibilityDistance": 2000,
+			"NoSpawnSeasons":
+			[ 3 ],
+			"FactoryPreventsRespawn": true
+		},
+		{
+			"RowName": "Thyme",
+			"StaticMesh": "StaticMesh'/Game/Meshes/Herbs/Herb_Leaves.Herb_Leaves'",
+			"ItemDropped": "Thyme",
+			"ItemAmount": 1,
+			"RespawnHours": 48,
+			"VisibilityDistance": 2000,
+			"NoSpawnSeasons":
+			[ 3 ],
+			"FactoryPreventsRespawn": true
+		},
+		{
+			"RowName": "Vanilla",
+			"StaticMesh": "StaticMesh'/Game/Meshes/Herbs/Vanilla_Single.Vanilla_Single'",
+			"ItemDropped": "Vanilla",
+			"ItemAmount": 1,
+			"RespawnHours": 48,
+			"VisibilityDistance": 2000,
+			"NoSpawnSeasons":
+			[ 3 ],
+			"FactoryPreventsRespawn": true
+		},
+		{
+			"RowName": "Wasabi",
+			"StaticMesh": "StaticMesh'/Game/Meshes/Herbs/Wasabi.Wasabi'",
+			"ItemDropped": "Wasabi",
+			"ItemAmount": 1,
+			"RespawnHours": 48,
+			"VisibilityDistance": 2000,
+			"NoSpawnSeasons":
+			[ 3 ],
+			"FactoryPreventsRespawn": true
+		},
+		{
+			"RowName": "Mint",
+			"StaticMesh": "StaticMesh'/Game/Meshes/Herbs/Mint_Bush.Mint_Bush'",
+			"ItemDropped": "Mint",
+			"ItemAmount": 1,
+			"RespawnHours": 48,
+			"VisibilityDistance": 2000,
+			"NoSpawnSeasons":
+			[ 3 ],
+			"FactoryPreventsRespawn": true
+		},
+		{
+			"RowName": "Aloe",
+			"StaticMesh": "StaticMesh'/Game/Meshes/Flowers/Flower_Bushes/Aloe_Bush.Aloe_Bush'",
+			"ItemDropped": "Aloe",
+			"ItemAmount": 1,
+			"RespawnHours": 48,
+			"VisibilityDistance": 2000,
+			"NoSpawnSeasons":
+			[],
+			"FactoryPreventsRespawn": true
+		},
+		{
+			"RowName": "Mushroom",
+			"StaticMesh": "StaticMesh'/Game/Meshes/Farming/Crops/Mushrooms.Mushrooms'",
+			"ItemDropped": "Mushroom",
+			"ItemAmount": 1,
+			"RespawnHours": 48,
+			"VisibilityDistance": 2000,
+			"NoSpawnSeasons":
+			[],
+			"FactoryPreventsRespawn": true
+		},
+		{
+			"RowName": "Orange",
+			"StaticMesh": "StaticMesh'/Game/Meshes/Farming/Crops/Orange.Orange'",
+			"ItemDropped": "Orange",
+			"ItemAmount": 1,
+			"RespawnHours": 80,
+			"VisibilityDistance": 2000,
+			"NoSpawnSeasons":
+			[],
+			"FactoryPreventsRespawn": true
+		},
+		{
+			"RowName": "Glowing_Mushrooms",
+			"StaticMesh": "StaticMesh'/Game/Meshes/Farming/Crops/Glowing_Mushroom.Glowing_Mushroom'",
+			"ItemDropped": "Glowing_Mushrooms",
+			"ItemAmount": 1,
+			"RespawnHours": 120,
+			"VisibilityDistance": 2000,
+			"NoSpawnSeasons":
+			[],
+			"FactoryPreventsRespawn": true
+		},
+		{
+			"RowName": "Ginger",
+			"StaticMesh": "StaticMesh'/Game/Meshes/Farming/Crops/Ginger.Ginger'",
+			"ItemDropped": "Ginger",
+			"ItemAmount": 1,
+			"RespawnHours": 48,
+			"VisibilityDistance": 2000,
+			"NoSpawnSeasons":
+			[ 3 ],
+			"FactoryPreventsRespawn": true
+		},
+		{
+			"RowName": "Coconut",
+			"StaticMesh": "StaticMesh'/Game/Meshes/Farming/Crops/Coconut.Coconut'",
+			"ItemDropped": "Coconut",
+			"ItemAmount": 1,
+			"RespawnHours": 50,
+			"VisibilityDistance": 2000,
+			"NoSpawnSeasons":
+			[],
+			"FactoryPreventsRespawn": true
+		},
+		{
+			"RowName": "Gardenia",
+			"StaticMesh": "StaticMesh'/Game/Meshes/Flowers/Flowers_Single/Gardenia_Single.Gardenia_Single'",
+			"ItemDropped": "Gardenia",
+			"ItemAmount": 1,
+			"RespawnHours": 48,
+			"VisibilityDistance": 2000,
+			"NoSpawnSeasons":
+			[ 3 ],
+			"FactoryPreventsRespawn": true
+		},
+		{
+			"RowName": "Angelonia",
+			"StaticMesh": "StaticMesh'/Game/Meshes/Flowers/Flowers_Single/Angelonia_Single.Angelonia_Single'",
+			"ItemDropped": "Angelonia",
+			"ItemAmount": 1,
+			"RespawnHours": 48,
+			"VisibilityDistance": 2000,
+			"NoSpawnSeasons":
+			[ 3 ],
+			"FactoryPreventsRespawn": true
+		},
+		{
+			"RowName": "Babys_Breath",
+			"StaticMesh": "StaticMesh'/Game/Meshes/Flowers/Flowers_Single/Babys_Breath_Single.Babys_Breath_Single'",
+			"ItemDropped": "Babys_Breath",
+			"ItemAmount": 1,
+			"RespawnHours": 48,
+			"VisibilityDistance": 2000,
+			"NoSpawnSeasons":
+			[ 3 ],
+			"FactoryPreventsRespawn": true
+		},
+		{
+			"RowName": "Blue_Hydrangea",
+			"StaticMesh": "StaticMesh'/Game/Meshes/Flowers/Flowers_Single/Hydrangea_Blue_Single.Hydrangea_Blue_Single'",
+			"ItemDropped": "Blue_Hydrangea",
+			"ItemAmount": 1,
+			"RespawnHours": 48,
+			"VisibilityDistance": 2000,
+			"NoSpawnSeasons":
+			[ 3 ],
+			"FactoryPreventsRespawn": true
+		},
+		{
+			"RowName": "Cactus",
+			"StaticMesh": "StaticMesh'/Game/Meshes/OutdoorAssets/Cactus.Cactus'",
+			"ItemDropped": "Cactus",
+			"ItemAmount": 1,
+			"RespawnHours": 48,
+			"VisibilityDistance": 2000,
+			"NoSpawnSeasons":
+			[ 3 ],
+			"FactoryPreventsRespawn": true
+		},
+		{
+			"RowName": "Lambs_Ear",
+			"StaticMesh": "StaticMesh'/Game/Meshes/Herbs/Lambs_Ear.Lambs_Ear'",
+			"ItemDropped": "Lambs_Ear",
+			"ItemAmount": 1,
+			"RespawnHours": 48,
+			"VisibilityDistance": 2000,
+			"NoSpawnSeasons":
+			[ 3 ],
+			"FactoryPreventsRespawn": true
+		},
+		{
+			"RowName": "Poinsettia",
+			"StaticMesh": "StaticMesh'/Game/Meshes/Flowers/Flowers_Single/Poinsetta_Single.Poinsetta_Single'",
+			"ItemDropped": "Poinsettia",
+			"ItemAmount": 1,
+			"RespawnHours": 48,
+			"VisibilityDistance": 2000,
+			"NoSpawnSeasons":
+			[ 3 ],
+			"FactoryPreventsRespawn": true
+		},
+		{
+			"RowName": "Purple_Hydrangea",
+			"StaticMesh": "StaticMesh'/Game/Meshes/Flowers/Flowers_Single/Hydrangea_Purple_Single.Hydrangea_Purple_Single'",
+			"ItemDropped": "Purple_Hydrangea",
+			"ItemAmount": 1,
+			"RespawnHours": 48,
+			"VisibilityDistance": 2000,
+			"NoSpawnSeasons":
+			[ 3 ],
+			"FactoryPreventsRespawn": true
+		},
+		{
+			"RowName": "Rose",
+			"StaticMesh": "StaticMesh'/Game/Meshes/Flowers/Flowers_Single/Rose_Single.Rose_Single'",
+			"ItemDropped": "Rose",
+			"ItemAmount": 1,
+			"RespawnHours": 48,
+			"VisibilityDistance": 2000,
+			"NoSpawnSeasons":
+			[ 3 ],
+			"FactoryPreventsRespawn": true
+		},
+		{
+			"RowName": "Spirea",
+			"StaticMesh": "StaticMesh'/Game/Meshes/Flowers/Flowers_Single/Spirea_Single.Spirea_Single'",
+			"ItemDropped": "Spirea",
+			"ItemAmount": 1,
+			"RespawnHours": 48,
+			"VisibilityDistance": 2000,
+			"NoSpawnSeasons":
+			[ 3 ],
+			"FactoryPreventsRespawn": true
+		},
+		{
+			"RowName": "Kiwi",
+			"StaticMesh": "StaticMesh'/Game/Meshes/Farming/Crops/Kiwi.Kiwi'",
+			"ItemDropped": "Kiwi",
+			"ItemAmount": 2,
+			"RespawnHours": 60,
+			"VisibilityDistance": 2000,
+			"NoSpawnSeasons":
+			[ 3 ],
+			"FactoryPreventsRespawn": true
+		},
+		{
+			"RowName": "Cherries",
+			"StaticMesh": "StaticMesh'/Game/Meshes/Farming/Crops/Cherries.Cherries'",
+			"ItemDropped": "Cherries",
+			"ItemAmount": 2,
+			"RespawnHours": 60,
+			"VisibilityDistance": 2000,
+			"NoSpawnSeasons":
+			[],
+			"FactoryPreventsRespawn": true
+		},
+		{
+			"RowName": "Watermelon",
+			"StaticMesh": "StaticMesh'/Game/Meshes/Crops/Watermelon_Fruit.Watermelon_Fruit'",
+			"ItemDropped": "Watermelon",
+			"ItemAmount": 1,
+			"RespawnHours": 60,
+			"VisibilityDistance": 2000,
+			"NoSpawnSeasons":
+			[],
+			"FactoryPreventsRespawn": true
+		},
+		{
+			"RowName": "Apple",
+			"StaticMesh": "StaticMesh'/Game/Meshes/Farming/Crops/Apple.Apple'",
+			"ItemDropped": "Apple",
+			"ItemAmount": 1,
+			"RespawnHours": 60,
+			"VisibilityDistance": 2000,
+			"NoSpawnSeasons":
+			[ 3 ],
+			"FactoryPreventsRespawn": true
+		},
+		{
+			"RowName": "Pumpkin",
+			"StaticMesh": "StaticMesh'/Game/Meshes/Crops/Pumpkin_Fruit.Pumpkin_Fruit'",
+			"ItemDropped": "Pumpkin",
+			"ItemAmount": 1,
+			"RespawnHours": 60,
+			"VisibilityDistance": 2000,
+			"NoSpawnSeasons":
+			[ 3 ],
+			"FactoryPreventsRespawn": true
+		},
+		{
+			"RowName": "Garlic",
+			"StaticMesh": "StaticMesh'/Game/Meshes/Farming/Crops/Garlic.Garlic'",
+			"ItemDropped": "Garlic",
+			"ItemAmount": 2,
+			"RespawnHours": 48,
+			"VisibilityDistance": 2000,
+			"NoSpawnSeasons":
+			[],
+			"FactoryPreventsRespawn": true
+		},
+		{
+			"RowName": "Mammoth_Head",
+			"StaticMesh": "StaticMesh'/Game/Meshes/OutdoorAssets/Dig_Spot.Dig_Spot'",
+			"ItemDropped": "Mammoth_Head",
+			"ItemAmount": 1,
+			"RespawnHours": 0,
+			"VisibilityDistance": 0,
+			"NoSpawnSeasons":
+			[],
+			"FactoryPreventsRespawn": true
+		},
+		{
+			"RowName": "Mammoth_Left_Feet",
+			"StaticMesh": "StaticMesh'/Game/Meshes/OutdoorAssets/Dig_Spot.Dig_Spot'",
+			"ItemDropped": "Mammoth_Left_Feet",
+			"ItemAmount": 1,
+			"RespawnHours": 0,
+			"VisibilityDistance": 0,
+			"NoSpawnSeasons":
+			[],
+			"FactoryPreventsRespawn": true
+		},
+		{
+			"RowName": "Mammoth_Left_Feet2",
+			"StaticMesh": "StaticMesh'/Game/Meshes/OutdoorAssets/Dig_Spot.Dig_Spot'",
+			"ItemDropped": "Mammoth_Left_Feet2",
+			"ItemAmount": 1,
+			"RespawnHours": 0,
+			"VisibilityDistance": 0,
+			"NoSpawnSeasons":
+			[],
+			"FactoryPreventsRespawn": true
+		},
+		{
+			"RowName": "Mammoth_Left_Femur",
+			"StaticMesh": "StaticMesh'/Game/Meshes/OutdoorAssets/Dig_Spot.Dig_Spot'",
+			"ItemDropped": "Mammoth_Left_Femur",
+			"ItemAmount": 1,
+			"RespawnHours": 0,
+			"VisibilityDistance": 0,
+			"NoSpawnSeasons":
+			[],
+			"FactoryPreventsRespawn": true
+		},
+		{
+			"RowName": "Mammoth_Left_Femur2",
+			"StaticMesh": "StaticMesh'/Game/Meshes/OutdoorAssets/Dig_Spot.Dig_Spot'",
+			"ItemDropped": "Mammoth_Left_Femur2",
+			"ItemAmount": 1,
+			"RespawnHours": 0,
+			"VisibilityDistance": 0,
+			"NoSpawnSeasons":
+			[],
+			"FactoryPreventsRespawn": true
+		},
+		{
+			"RowName": "Mammoth_Left_Hipbone",
+			"StaticMesh": "StaticMesh'/Game/Meshes/OutdoorAssets/Dig_Spot.Dig_Spot'",
+			"ItemDropped": "Mammoth_Left_Hipbone",
+			"ItemAmount": 1,
+			"RespawnHours": 0,
+			"VisibilityDistance": 0,
+			"NoSpawnSeasons":
+			[],
+			"FactoryPreventsRespawn": true
+		},
+		{
+			"RowName": "Mammoth_Left_Shoulder",
+			"StaticMesh": "StaticMesh'/Game/Meshes/OutdoorAssets/Dig_Spot.Dig_Spot'",
+			"ItemDropped": "Mammoth_Left_Shoulder",
+			"ItemAmount": 1,
+			"RespawnHours": 0,
+			"VisibilityDistance": 0,
+			"NoSpawnSeasons":
+			[],
+			"FactoryPreventsRespawn": true
+		},
+		{
+			"RowName": "Mammoth_Left_Tibia",
+			"StaticMesh": "StaticMesh'/Game/Meshes/OutdoorAssets/Dig_Spot.Dig_Spot'",
+			"ItemDropped": "Mammoth_Left_Tibia",
+			"ItemAmount": 1,
+			"RespawnHours": 0,
+			"VisibilityDistance": 0,
+			"NoSpawnSeasons":
+			[],
+			"FactoryPreventsRespawn": true
+		},
+		{
+			"RowName": "Mammoth_Left_Tibia2",
+			"StaticMesh": "StaticMesh'/Game/Meshes/OutdoorAssets/Dig_Spot.Dig_Spot'",
+			"ItemDropped": "Mammoth_Left_Tibia2",
+			"ItemAmount": 1,
+			"RespawnHours": 0,
+			"VisibilityDistance": 0,
+			"NoSpawnSeasons":
+			[],
+			"FactoryPreventsRespawn": true
+		},
+		{
+			"RowName": "Mammoth_RibCage1",
+			"StaticMesh": "StaticMesh'/Game/Meshes/OutdoorAssets/Dig_Spot.Dig_Spot'",
+			"ItemDropped": "Mammoth_RibCage1",
+			"ItemAmount": 1,
+			"RespawnHours": 0,
+			"VisibilityDistance": 0,
+			"NoSpawnSeasons":
+			[],
+			"FactoryPreventsRespawn": true
+		},
+		{
+			"RowName": "Mammoth_RibCage2",
+			"StaticMesh": "StaticMesh'/Game/Meshes/OutdoorAssets/Dig_Spot.Dig_Spot'",
+			"ItemDropped": "Mammoth_RibCage2",
+			"ItemAmount": 1,
+			"RespawnHours": 0,
+			"VisibilityDistance": 0,
+			"NoSpawnSeasons":
+			[],
+			"FactoryPreventsRespawn": true
+		},
+		{
+			"RowName": "Mammoth_Right_Feet",
+			"StaticMesh": "StaticMesh'/Game/Meshes/OutdoorAssets/Dig_Spot.Dig_Spot'",
+			"ItemDropped": "Mammoth_Right_Feet",
+			"ItemAmount": 1,
+			"RespawnHours": 0,
+			"VisibilityDistance": 0,
+			"NoSpawnSeasons":
+			[],
+			"FactoryPreventsRespawn": true
+		},
+		{
+			"RowName": "Mammoth_Right_Feet2",
+			"StaticMesh": "StaticMesh'/Game/Meshes/OutdoorAssets/Dig_Spot.Dig_Spot'",
+			"ItemDropped": "Mammoth_Right_Feet2",
+			"ItemAmount": 1,
+			"RespawnHours": 0,
+			"VisibilityDistance": 0,
+			"NoSpawnSeasons":
+			[],
+			"FactoryPreventsRespawn": true
+		},
+		{
+			"RowName": "Mammoth_Right_Femur",
+			"StaticMesh": "StaticMesh'/Game/Meshes/OutdoorAssets/Dig_Spot.Dig_Spot'",
+			"ItemDropped": "Mammoth_Right_Femur",
+			"ItemAmount": 1,
+			"RespawnHours": 0,
+			"VisibilityDistance": 0,
+			"NoSpawnSeasons":
+			[],
+			"FactoryPreventsRespawn": true
+		},
+		{
+			"RowName": "Mammoth_Right_Femur2",
+			"StaticMesh": "StaticMesh'/Game/Meshes/OutdoorAssets/Dig_Spot.Dig_Spot'",
+			"ItemDropped": "Mammoth_Right_Femur2",
+			"ItemAmount": 1,
+			"RespawnHours": 0,
+			"VisibilityDistance": 0,
+			"NoSpawnSeasons":
+			[],
+			"FactoryPreventsRespawn": true
+		},
+		{
+			"RowName": "Mammoth_Right_HipBone",
+			"StaticMesh": "StaticMesh'/Game/Meshes/OutdoorAssets/Dig_Spot.Dig_Spot'",
+			"ItemDropped": "Mammoth_Right_HipBone",
+			"ItemAmount": 1,
+			"RespawnHours": 0,
+			"VisibilityDistance": 0,
+			"NoSpawnSeasons":
+			[],
+			"FactoryPreventsRespawn": true
+		},
+		{
+			"RowName": "Mammoth_Right_Shoulder",
+			"StaticMesh": "StaticMesh'/Game/Meshes/OutdoorAssets/Dig_Spot.Dig_Spot'",
+			"ItemDropped": "Mammoth_Right_Shoulder",
+			"ItemAmount": 1,
+			"RespawnHours": 0,
+			"VisibilityDistance": 0,
+			"NoSpawnSeasons":
+			[],
+			"FactoryPreventsRespawn": true
+		},
+		{
+			"RowName": "Mammoth_Right_Tibia",
+			"StaticMesh": "StaticMesh'/Game/Meshes/OutdoorAssets/Dig_Spot.Dig_Spot'",
+			"ItemDropped": "Mammoth_Right_Tibia",
+			"ItemAmount": 1,
+			"RespawnHours": 0,
+			"VisibilityDistance": 0,
+			"NoSpawnSeasons":
+			[],
+			"FactoryPreventsRespawn": true
+		},
+		{
+			"RowName": "Mammoth_Right_Tibia2",
+			"StaticMesh": "StaticMesh'/Game/Meshes/OutdoorAssets/Dig_Spot.Dig_Spot'",
+			"ItemDropped": "Mammoth_Right_Tibia2",
+			"ItemAmount": 1,
+			"RespawnHours": 0,
+			"VisibilityDistance": 0,
+			"NoSpawnSeasons":
+			[],
+			"FactoryPreventsRespawn": true
+		},
+		{
+			"RowName": "Mammoth_Tail",
+			"StaticMesh": "StaticMesh'/Game/Meshes/OutdoorAssets/Dig_Spot.Dig_Spot'",
+			"ItemDropped": "Mammoth_Tail",
+			"ItemAmount": 1,
+			"RespawnHours": 0,
+			"VisibilityDistance": 0,
+			"NoSpawnSeasons":
+			[],
+			"FactoryPreventsRespawn": true
+		},
+		{
+			"RowName": "Mammoth_Tusks",
+			"StaticMesh": "StaticMesh'/Game/Meshes/OutdoorAssets/Dig_Spot.Dig_Spot'",
+			"ItemDropped": "Mammoth_Tusks",
+			"ItemAmount": 1,
+			"RespawnHours": 0,
+			"VisibilityDistance": 0,
+			"NoSpawnSeasons":
+			[],
+			"FactoryPreventsRespawn": true
+		},
+		{
+			"RowName": "Stego_Base_Tail",
+			"StaticMesh": "StaticMesh'/Game/Meshes/OutdoorAssets/Dig_Spot.Dig_Spot'",
+			"ItemDropped": "Stego_Base_Tail",
+			"ItemAmount": 1,
+			"RespawnHours": 0,
+			"VisibilityDistance": 0,
+			"NoSpawnSeasons":
+			[],
+			"FactoryPreventsRespawn": true
+		},
+		{
+			"RowName": "Stego_Chest_Bone",
+			"StaticMesh": "StaticMesh'/Game/Meshes/OutdoorAssets/Dig_Spot.Dig_Spot'",
+			"ItemDropped": "Stego_Chest_Bone",
+			"ItemAmount": 1,
+			"RespawnHours": 0,
+			"VisibilityDistance": 0,
+			"NoSpawnSeasons":
+			[],
+			"FactoryPreventsRespawn": true
+		},
+		{
+			"RowName": "Stego_End_Tail",
+			"StaticMesh": "StaticMesh'/Game/Meshes/OutdoorAssets/Dig_Spot.Dig_Spot'",
+			"ItemDropped": "Stego_End_Tail",
+			"ItemAmount": 1,
+			"RespawnHours": 0,
+			"VisibilityDistance": 0,
+			"NoSpawnSeasons":
+			[],
+			"FactoryPreventsRespawn": true
+		},
+		{
+			"RowName": "Stego_Head",
+			"StaticMesh": "StaticMesh'/Game/Meshes/OutdoorAssets/Dig_Spot.Dig_Spot'",
+			"ItemDropped": "Stego_Head",
+			"ItemAmount": 1,
+			"RespawnHours": 0,
+			"VisibilityDistance": 0,
+			"NoSpawnSeasons":
+			[],
+			"FactoryPreventsRespawn": true
+		},
+		{
+			"RowName": "Stego_Hip_Bone",
+			"StaticMesh": "StaticMesh'/Game/Meshes/OutdoorAssets/Dig_Spot.Dig_Spot'",
+			"ItemDropped": "Stego_Hip_Bone",
+			"ItemAmount": 1,
+			"RespawnHours": 0,
+			"VisibilityDistance": 0,
+			"NoSpawnSeasons":
+			[],
+			"FactoryPreventsRespawn": true
+		},
+		{
+			"RowName": "Stego_Left_Feet",
+			"StaticMesh": "StaticMesh'/Game/Meshes/OutdoorAssets/Dig_Spot.Dig_Spot'",
+			"ItemDropped": "Stego_Left_Feet",
+			"ItemAmount": 1,
+			"RespawnHours": 0,
+			"VisibilityDistance": 0,
+			"NoSpawnSeasons":
+			[],
+			"FactoryPreventsRespawn": true
+		},
+		{
+			"RowName": "Stego_Left_Feet2",
+			"StaticMesh": "StaticMesh'/Game/Meshes/OutdoorAssets/Dig_Spot.Dig_Spot'",
+			"ItemDropped": "Stego_Left_Feet2",
+			"ItemAmount": 1,
+			"RespawnHours": 0,
+			"VisibilityDistance": 0,
+			"NoSpawnSeasons":
+			[],
+			"FactoryPreventsRespawn": true
+		},
+		{
+			"RowName": "Stego_Left_Femur",
+			"StaticMesh": "StaticMesh'/Game/Meshes/OutdoorAssets/Dig_Spot.Dig_Spot'",
+			"ItemDropped": "Stego_Left_Femur",
+			"ItemAmount": 1,
+			"RespawnHours": 0,
+			"VisibilityDistance": 0,
+			"NoSpawnSeasons":
+			[],
+			"FactoryPreventsRespawn": true
+		},
+		{
+			"RowName": "Stego_Left_Femur2",
+			"StaticMesh": "StaticMesh'/Game/Meshes/OutdoorAssets/Dig_Spot.Dig_Spot'",
+			"ItemDropped": "Stego_Left_Femur2",
+			"ItemAmount": 1,
+			"RespawnHours": 0,
+			"VisibilityDistance": 0,
+			"NoSpawnSeasons":
+			[],
+			"FactoryPreventsRespawn": true
+		},
+		{
+			"RowName": "Stego_Left_Shoulder",
+			"StaticMesh": "StaticMesh'/Game/Meshes/OutdoorAssets/Dig_Spot.Dig_Spot'",
+			"ItemDropped": "Stego_Left_Shoulder",
+			"ItemAmount": 1,
+			"RespawnHours": 0,
+			"VisibilityDistance": 0,
+			"NoSpawnSeasons":
+			[],
+			"FactoryPreventsRespawn": true
+		},
+		{
+			"RowName": "Stego_Left_Tibia",
+			"StaticMesh": "StaticMesh'/Game/Meshes/OutdoorAssets/Dig_Spot.Dig_Spot'",
+			"ItemDropped": "Stego_Left_Tibia",
+			"ItemAmount": 1,
+			"RespawnHours": 0,
+			"VisibilityDistance": 0,
+			"NoSpawnSeasons":
+			[],
+			"FactoryPreventsRespawn": true
+		},
+		{
+			"RowName": "Stego_Left_Tibia2",
+			"StaticMesh": "StaticMesh'/Game/Meshes/OutdoorAssets/Dig_Spot.Dig_Spot'",
+			"ItemDropped": "Stego_Left_Tibia2",
+			"ItemAmount": 1,
+			"RespawnHours": 0,
+			"VisibilityDistance": 0,
+			"NoSpawnSeasons":
+			[],
+			"FactoryPreventsRespawn": true
+		},
+		{
+			"RowName": "Stego_Neck",
+			"StaticMesh": "StaticMesh'/Game/Meshes/OutdoorAssets/Dig_Spot.Dig_Spot'",
+			"ItemDropped": "Stego_Neck",
+			"ItemAmount": 1,
+			"RespawnHours": 0,
+			"VisibilityDistance": 0,
+			"NoSpawnSeasons":
+			[],
+			"FactoryPreventsRespawn": true
+		},
+		{
+			"RowName": "Stego_Plates",
+			"StaticMesh": "StaticMesh'/Game/Meshes/OutdoorAssets/Dig_Spot.Dig_Spot'",
+			"ItemDropped": "Stego_Plates",
+			"ItemAmount": 1,
+			"RespawnHours": 0,
+			"VisibilityDistance": 0,
+			"NoSpawnSeasons":
+			[],
+			"FactoryPreventsRespawn": true
+		},
+		{
+			"RowName": "Stego_Ribcage",
+			"StaticMesh": "StaticMesh'/Game/Meshes/OutdoorAssets/Dig_Spot.Dig_Spot'",
+			"ItemDropped": "Stego_Ribcage",
+			"ItemAmount": 1,
+			"RespawnHours": 0,
+			"VisibilityDistance": 0,
+			"NoSpawnSeasons":
+			[],
+			"FactoryPreventsRespawn": true
+		},
+		{
+			"RowName": "Stego_Right_Feet",
+			"StaticMesh": "StaticMesh'/Game/Meshes/OutdoorAssets/Dig_Spot.Dig_Spot'",
+			"ItemDropped": "Stego_Right_Feet",
+			"ItemAmount": 1,
+			"RespawnHours": 0,
+			"VisibilityDistance": 0,
+			"NoSpawnSeasons":
+			[],
+			"FactoryPreventsRespawn": true
+		},
+		{
+			"RowName": "Stego_Right_Feet2",
+			"StaticMesh": "StaticMesh'/Game/Meshes/OutdoorAssets/Dig_Spot.Dig_Spot'",
+			"ItemDropped": "Stego_Right_Feet2",
+			"ItemAmount": 1,
+			"RespawnHours": 0,
+			"VisibilityDistance": 0,
+			"NoSpawnSeasons":
+			[],
+			"FactoryPreventsRespawn": true
+		},
+		{
+			"RowName": "Stego_Right_Femur",
+			"StaticMesh": "StaticMesh'/Game/Meshes/OutdoorAssets/Dig_Spot.Dig_Spot'",
+			"ItemDropped": "Stego_Right_Femur",
+			"ItemAmount": 1,
+			"RespawnHours": 0,
+			"VisibilityDistance": 0,
+			"NoSpawnSeasons":
+			[],
+			"FactoryPreventsRespawn": true
+		},
+		{
+			"RowName": "Stego_Right_Femur2",
+			"StaticMesh": "StaticMesh'/Game/Meshes/OutdoorAssets/Dig_Spot.Dig_Spot'",
+			"ItemDropped": "Stego_Right_Femur2",
+			"ItemAmount": 1,
+			"RespawnHours": 0,
+			"VisibilityDistance": 0,
+			"NoSpawnSeasons":
+			[],
+			"FactoryPreventsRespawn": true
+		},
+		{
+			"RowName": "Stego_Right_Shoulder",
+			"StaticMesh": "StaticMesh'/Game/Meshes/OutdoorAssets/Dig_Spot.Dig_Spot'",
+			"ItemDropped": "Stego_Right_Shoulder",
+			"ItemAmount": 1,
+			"RespawnHours": 0,
+			"VisibilityDistance": 0,
+			"NoSpawnSeasons":
+			[],
+			"FactoryPreventsRespawn": true
+		},
+		{
+			"RowName": "Stego_Right_Tibia",
+			"StaticMesh": "StaticMesh'/Game/Meshes/OutdoorAssets/Dig_Spot.Dig_Spot'",
+			"ItemDropped": "Stego_Right_Tibia",
+			"ItemAmount": 1,
+			"RespawnHours": 0,
+			"VisibilityDistance": 0,
+			"NoSpawnSeasons":
+			[],
+			"FactoryPreventsRespawn": true
+		},
+		{
+			"RowName": "Stego_Right_Tibia2",
+			"StaticMesh": "StaticMesh'/Game/Meshes/OutdoorAssets/Dig_Spot.Dig_Spot'",
+			"ItemDropped": "Stego_Right_Tibia2",
+			"ItemAmount": 1,
+			"RespawnHours": 0,
+			"VisibilityDistance": 0,
+			"NoSpawnSeasons":
+			[],
+			"FactoryPreventsRespawn": true
+		},
+		{
+			"RowName": "Styraco_Head",
+			"StaticMesh": "StaticMesh'/Game/Meshes/OutdoorAssets/Dig_Spot.Dig_Spot'",
+			"ItemDropped": "Styraco_Head",
+			"ItemAmount": 1,
+			"RespawnHours": 0,
+			"VisibilityDistance": 0,
+			"NoSpawnSeasons":
+			[],
+			"FactoryPreventsRespawn": true
+		},
+		{
+			"RowName": "Styraco_Left_Feet",
+			"StaticMesh": "StaticMesh'/Game/Meshes/OutdoorAssets/Dig_Spot.Dig_Spot'",
+			"ItemDropped": "Styraco_Left_Feet",
+			"ItemAmount": 1,
+			"RespawnHours": 0,
+			"VisibilityDistance": 0,
+			"NoSpawnSeasons":
+			[],
+			"FactoryPreventsRespawn": true
+		},
+		{
+			"RowName": "Styraco_Left_Feet2",
+			"StaticMesh": "StaticMesh'/Game/Meshes/OutdoorAssets/Dig_Spot.Dig_Spot'",
+			"ItemDropped": "Styraco_Left_Feet2",
+			"ItemAmount": 1,
+			"RespawnHours": 0,
+			"VisibilityDistance": 0,
+			"NoSpawnSeasons":
+			[],
+			"FactoryPreventsRespawn": true
+		},
+		{
+			"RowName": "Styraco_Left_Femur",
+			"StaticMesh": "StaticMesh'/Game/Meshes/OutdoorAssets/Dig_Spot.Dig_Spot'",
+			"ItemDropped": "Styraco_Left_Femur",
+			"ItemAmount": 1,
+			"RespawnHours": 0,
+			"VisibilityDistance": 0,
+			"NoSpawnSeasons":
+			[],
+			"FactoryPreventsRespawn": true
+		},
+		{
+			"RowName": "Styraco_Left_Femur2",
+			"StaticMesh": "StaticMesh'/Game/Meshes/OutdoorAssets/Dig_Spot.Dig_Spot'",
+			"ItemDropped": "Styraco_Left_Femur2",
+			"ItemAmount": 1,
+			"RespawnHours": 0,
+			"VisibilityDistance": 0,
+			"NoSpawnSeasons":
+			[],
+			"FactoryPreventsRespawn": true
+		},
+		{
+			"RowName": "Styraco_Left_HipBone",
+			"StaticMesh": "StaticMesh'/Game/Meshes/OutdoorAssets/Dig_Spot.Dig_Spot'",
+			"ItemDropped": "Styraco_Left_HipBone",
+			"ItemAmount": 1,
+			"RespawnHours": 0,
+			"VisibilityDistance": 0,
+			"NoSpawnSeasons":
+			[],
+			"FactoryPreventsRespawn": true
+		},
+		{
+			"RowName": "Styraco_Left_Tibia",
+			"StaticMesh": "StaticMesh'/Game/Meshes/OutdoorAssets/Dig_Spot.Dig_Spot'",
+			"ItemDropped": "Styraco_Left_Tibia",
+			"ItemAmount": 1,
+			"RespawnHours": 0,
+			"VisibilityDistance": 0,
+			"NoSpawnSeasons":
+			[],
+			"FactoryPreventsRespawn": true
+		},
+		{
+			"RowName": "Styraco_Left_Tibia2",
+			"StaticMesh": "StaticMesh'/Game/Meshes/OutdoorAssets/Dig_Spot.Dig_Spot'",
+			"ItemDropped": "Styraco_Left_Tibia2",
+			"ItemAmount": 1,
+			"RespawnHours": 0,
+			"VisibilityDistance": 0,
+			"NoSpawnSeasons":
+			[],
+			"FactoryPreventsRespawn": true
+		},
+		{
+			"RowName": "Styraco_Ribcage",
+			"StaticMesh": "StaticMesh'/Game/Meshes/OutdoorAssets/Dig_Spot.Dig_Spot'",
+			"ItemDropped": "Styraco_Ribcage",
+			"ItemAmount": 1,
+			"RespawnHours": 0,
+			"VisibilityDistance": 0,
+			"NoSpawnSeasons":
+			[],
+			"FactoryPreventsRespawn": true
+		},
+		{
+			"RowName": "Styraco_Right_Feet",
+			"StaticMesh": "StaticMesh'/Game/Meshes/OutdoorAssets/Dig_Spot.Dig_Spot'",
+			"ItemDropped": "Styraco_Right_Feet",
+			"ItemAmount": 1,
+			"RespawnHours": 0,
+			"VisibilityDistance": 0,
+			"NoSpawnSeasons":
+			[],
+			"FactoryPreventsRespawn": true
+		},
+		{
+			"RowName": "Styraco_Right_Feet2",
+			"StaticMesh": "StaticMesh'/Game/Meshes/OutdoorAssets/Dig_Spot.Dig_Spot'",
+			"ItemDropped": "Styraco_Right_Feet2",
+			"ItemAmount": 1,
+			"RespawnHours": 0,
+			"VisibilityDistance": 0,
+			"NoSpawnSeasons":
+			[],
+			"FactoryPreventsRespawn": true
+		},
+		{
+			"RowName": "Styraco_Right_Femur",
+			"StaticMesh": "StaticMesh'/Game/Meshes/OutdoorAssets/Dig_Spot.Dig_Spot'",
+			"ItemDropped": "Styraco_Right_Femur",
+			"ItemAmount": 1,
+			"RespawnHours": 0,
+			"VisibilityDistance": 0,
+			"NoSpawnSeasons":
+			[],
+			"FactoryPreventsRespawn": true
+		},
+		{
+			"RowName": "Styraco_Right_Femur2",
+			"StaticMesh": "StaticMesh'/Game/Meshes/OutdoorAssets/Dig_Spot.Dig_Spot'",
+			"ItemDropped": "Styraco_Right_Femur2",
+			"ItemAmount": 1,
+			"RespawnHours": 0,
+			"VisibilityDistance": 0,
+			"NoSpawnSeasons":
+			[],
+			"FactoryPreventsRespawn": true
+		},
+		{
+			"RowName": "Styraco_Right_HipBone",
+			"StaticMesh": "StaticMesh'/Game/Meshes/OutdoorAssets/Dig_Spot.Dig_Spot'",
+			"ItemDropped": "Styraco_Right_HipBone",
+			"ItemAmount": 1,
+			"RespawnHours": 0,
+			"VisibilityDistance": 0,
+			"NoSpawnSeasons":
+			[],
+			"FactoryPreventsRespawn": true
+		},
+		{
+			"RowName": "Styraco_Right_Tibia",
+			"StaticMesh": "StaticMesh'/Game/Meshes/OutdoorAssets/Dig_Spot.Dig_Spot'",
+			"ItemDropped": "Styraco_Right_Tibia",
+			"ItemAmount": 1,
+			"RespawnHours": 0,
+			"VisibilityDistance": 0,
+			"NoSpawnSeasons":
+			[],
+			"FactoryPreventsRespawn": true
+		},
+		{
+			"RowName": "Styraco_Right_Tibia2",
+			"StaticMesh": "StaticMesh'/Game/Meshes/OutdoorAssets/Dig_Spot.Dig_Spot'",
+			"ItemDropped": "Styraco_Right_Tibia2",
+			"ItemAmount": 1,
+			"RespawnHours": 0,
+			"VisibilityDistance": 0,
+			"NoSpawnSeasons":
+			[],
+			"FactoryPreventsRespawn": true
+		},
+		{
+			"RowName": "Styraco_Shoulder_Left",
+			"StaticMesh": "StaticMesh'/Game/Meshes/OutdoorAssets/Dig_Spot.Dig_Spot'",
+			"ItemDropped": "Styraco_Shoulder_Left",
+			"ItemAmount": 1,
+			"RespawnHours": 0,
+			"VisibilityDistance": 0,
+			"NoSpawnSeasons":
+			[],
+			"FactoryPreventsRespawn": true
+		},
+		{
+			"RowName": "Styraco_Shoulder_Right",
+			"StaticMesh": "StaticMesh'/Game/Meshes/OutdoorAssets/Dig_Spot.Dig_Spot'",
+			"ItemDropped": "Styraco_Shoulder_Right",
+			"ItemAmount": 1,
+			"RespawnHours": 0,
+			"VisibilityDistance": 0,
+			"NoSpawnSeasons":
+			[],
+			"FactoryPreventsRespawn": true
+		},
+		{
+			"RowName": "Styraco_Tail_Base",
+			"StaticMesh": "StaticMesh'/Game/Meshes/OutdoorAssets/Dig_Spot.Dig_Spot'",
+			"ItemDropped": "Styraco_Tail_Base",
+			"ItemAmount": 1,
+			"RespawnHours": 0,
+			"VisibilityDistance": 0,
+			"NoSpawnSeasons":
+			[],
+			"FactoryPreventsRespawn": true
+		},
+		{
+			"RowName": "Styraco_Tail_End",
+			"StaticMesh": "StaticMesh'/Game/Meshes/OutdoorAssets/Dig_Spot.Dig_Spot'",
+			"ItemDropped": "Styraco_Tail_End",
+			"ItemAmount": 1,
+			"RespawnHours": 0,
+			"VisibilityDistance": 0,
+			"NoSpawnSeasons":
+			[],
+			"FactoryPreventsRespawn": true
+		},
+		{
+			"RowName": "T_Rex_Chestbone",
+			"StaticMesh": "StaticMesh'/Game/Meshes/OutdoorAssets/Dig_Spot.Dig_Spot'",
+			"ItemDropped": "T_Rex_Chestbone",
+			"ItemAmount": 1,
+			"RespawnHours": 0,
+			"VisibilityDistance": 0,
+			"NoSpawnSeasons":
+			[],
+			"FactoryPreventsRespawn": true
+		},
+		{
+			"RowName": "T_Rex_Head",
+			"StaticMesh": "StaticMesh'/Game/Meshes/OutdoorAssets/Dig_Spot.Dig_Spot'",
+			"ItemDropped": "T_Rex_Head",
+			"ItemAmount": 1,
+			"RespawnHours": 0,
+			"VisibilityDistance": 0,
+			"NoSpawnSeasons":
+			[],
+			"FactoryPreventsRespawn": true
+		},
+		{
+			"RowName": "T_Rex_Left_Arm",
+			"StaticMesh": "StaticMesh'/Game/Meshes/OutdoorAssets/Dig_Spot.Dig_Spot'",
+			"ItemDropped": "T_Rex_Left_Arm",
+			"ItemAmount": 1,
+			"RespawnHours": 0,
+			"VisibilityDistance": 0,
+			"NoSpawnSeasons":
+			[],
+			"FactoryPreventsRespawn": true
+		},
+		{
+			"RowName": "T_Rex_Left_Femur",
+			"StaticMesh": "StaticMesh'/Game/Meshes/OutdoorAssets/Dig_Spot.Dig_Spot'",
+			"ItemDropped": "T_Rex_Left_Femur",
+			"ItemAmount": 1,
+			"RespawnHours": 0,
+			"VisibilityDistance": 0,
+			"NoSpawnSeasons":
+			[],
+			"FactoryPreventsRespawn": true
+		},
+		{
+			"RowName": "Old_Netting",
+			"StaticMesh": "StaticMesh'/Game/Meshes/Fish/Old_Netting.Old_Netting'",
+			"ItemDropped": "Old_Netting",
+			"ItemAmount": 1,
+			"RespawnHours": 100,
+			"VisibilityDistance": 2000,
+			"NoSpawnSeasons":
+			[],
+			"FactoryPreventsRespawn": false
+		},
+		{
+			"RowName": "Bananas",
+			"StaticMesh": "StaticMesh'/Game/Meshes/Farming/Crops/Bananas.Bananas'",
+			"ItemDropped": "Bananas",
+			"ItemAmount": 2,
+			"RespawnHours": 100,
+			"VisibilityDistance": 0,
+			"NoSpawnSeasons":
+			[],
+			"FactoryPreventsRespawn": false
+		},
+		{
+			"RowName": "Plum",
+			"StaticMesh": "StaticMesh'/Game/Meshes/Farming/Crops/Plum.Plum'",
+			"ItemDropped": "Plum",
+			"ItemAmount": 2,
+			"RespawnHours": 100,
+			"VisibilityDistance": 0,
+			"NoSpawnSeasons":
+			[ 3 ],
+			"FactoryPreventsRespawn": false
+		},
+		{
+			"RowName": "Lemon",
+			"StaticMesh": "StaticMesh'/Game/Meshes/Farming/Crops/Lemon.Lemon'",
+			"ItemDropped": "Lemon",
+			"ItemAmount": 2,
+			"RespawnHours": 100,
+			"VisibilityDistance": 0,
+			"NoSpawnSeasons":
+			[],
+			"FactoryPreventsRespawn": false
+		},
+		{
+			"RowName": "Pear",
+			"StaticMesh": "StaticMesh'/Game/Meshes/Farming/Crops/Pear.Pear'",
+			"ItemDropped": "Pear",
+			"ItemAmount": 2,
+			"RespawnHours": 100,
+			"VisibilityDistance": 0,
+			"NoSpawnSeasons":
+			[],
+			"FactoryPreventsRespawn": false
+		},
+		{
+			"RowName": "Peach",
+			"StaticMesh": "StaticMesh'/Game/Meshes/Farming/Crops/Peach.Peach'",
+			"ItemDropped": "Peach",
+			"ItemAmount": 2,
+			"RespawnHours": 100,
+			"VisibilityDistance": 0,
+			"NoSpawnSeasons":
+			[],
+			"FactoryPreventsRespawn": false
+		},
+		{
+			"RowName": "Peach_Copy1",
+			"StaticMesh": "StaticMesh'/Game/Meshes/Farming/Crops/Peach.Peach'",
+			"ItemDropped": "Peach",
+			"ItemAmount": 2,
+			"RespawnHours": 100,
+			"VisibilityDistance": 0,
+			"NoSpawnSeasons":
+			[],
+			"FactoryPreventsRespawn": false
+		},
+		{
+			"RowName": "Mushroom_Red",
+			"StaticMesh": "StaticMesh'/Game/Meshes/Farming/Crops/Mushrooms_Red.Mushrooms_Red'",
+			"ItemDropped": "Mushroom_Red",
+			"ItemAmount": 1,
+			"RespawnHours": 48,
+			"VisibilityDistance": 2000,
+			"NoSpawnSeasons":
+			[],
+			"FactoryPreventsRespawn": true
+		}
+	]
+}

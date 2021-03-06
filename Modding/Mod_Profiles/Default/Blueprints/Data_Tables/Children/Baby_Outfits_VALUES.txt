@@ -1,0 +1,25 @@
+{
+	"Rows": 
+	[
+		{
+			"RowName": "Baby_Blue",
+			"Material": "/Game/Materials/Character_Body_Parts/Children/Baby_Swaddle_Blue.Baby_Swaddle_Blue"
+		},
+		{
+			"RowName": "Baby_Orange",
+			"Material": "/Game/Materials/Character_Body_Parts/Children/Baby_Swaddle_Grey.Baby_Swaddle_Grey"
+		},
+		{
+			"RowName": "Baby_Pink",
+			"Material": "/Game/Materials/Character_Body_Parts/Children/Baby_Swaddle_Pink.Baby_Swaddle_Pink"
+		},
+		{
+			"RowName": "Baby_White",
+			"Material": "/Game/Materials/Character_Body_Parts/Children/Baby_Swaddle_White.Baby_Swaddle_White"
+		},
+		{
+			"RowName": "Baby_Yellow",
+			"Material": "/Game/Materials/Character_Body_Parts/Children/Baby_Swaddle_Yellow.Baby_Swaddle_Yellow"
+		}
+	]
+}

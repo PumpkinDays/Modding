@@ -1,0 +1,25 @@
+{
+	"Rows": 
+	[
+		{
+			"RowName": "Toddler_1",
+			"Material": "/Game/Materials/Character_Body_Parts/Children/Toddler_Outfit_1.Toddler_Outfit_1"
+		},
+		{
+			"RowName": "Toddler_2",
+			"Material": "/Game/Materials/Character_Body_Parts/Children/Toddler_Outfit_2.Toddler_Outfit_2"
+		},
+		{
+			"RowName": "Toddler_3",
+			"Material": "/Game/Materials/Character_Body_Parts/Children/Toddler_Outfit_3.Toddler_Outfit_3"
+		},
+		{
+			"RowName": "Toddler_4",
+			"Material": "/Game/Materials/Character_Body_Parts/Children/Toddler_Outfit_4.Toddler_Outfit_4"
+		},
+		{
+			"RowName": "Toddler_5",
+			"Material": "/Game/Materials/Character_Body_Parts/Children/Toddler_Outfit_5.Toddler_Outfit_5"
+		}
+	]
+}

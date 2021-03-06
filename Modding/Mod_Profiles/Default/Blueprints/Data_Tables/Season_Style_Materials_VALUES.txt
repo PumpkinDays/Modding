@@ -1,0 +1,5684 @@
+{
+	"Rows": 
+	[
+		{
+			"RowName": "Hickory_Tree",
+			"SpringMats":
+			[],
+			"SummerMats":
+			[],
+			"FallMats":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"MaterialIndex": 2,
+						"SetParameter": true,
+						"ParameterName": "Leaf1",
+						"Value": 
+						{
+							"R": 0.81960797309875488,
+							"G": 0.22745099663734436,
+							"B": 0,
+							"A": 1
+						},
+						"OverwriteMaterialInstead": "None"
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"MaterialIndex": 3,
+						"SetParameter": true,
+						"ParameterName": "Leaf1",
+						"Value": 
+						{
+							"R": 0.81960797309875488,
+							"G": 0.22745099663734436,
+							"B": 0,
+							"A": 1
+						},
+						"OverwriteMaterialInstead": "None"
+					}
+				}
+			],
+			"WinterMats":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"MaterialIndex": 2,
+						"SetParameter": true,
+						"ParameterName": "Leaf1",
+						"Value": 
+						{
+							"R": 0.5607839822769165,
+							"G": 0.65882402658462524,
+							"B": 0.7176470160484314,
+							"A": 1
+						},
+						"OverwriteMaterialInstead": "None"
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"MaterialIndex": 3,
+						"SetParameter": true,
+						"ParameterName": "Leaf1",
+						"Value": 
+						{
+							"R": 0.5607839822769165,
+							"G": 0.65882402658462524,
+							"B": 0.7176470160484314,
+							"A": 1
+						},
+						"OverwriteMaterialInstead": "None"
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Hickory_Tree_Top",
+			"SpringMats":
+			[],
+			"SummerMats":
+			[],
+			"FallMats":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"MaterialIndex": 2,
+						"SetParameter": true,
+						"ParameterName": "Leaf1",
+						"Value": 
+						{
+							"R": 0.81960797309875488,
+							"G": 0.22745099663734436,
+							"B": 0,
+							"A": 1
+						},
+						"OverwriteMaterialInstead": "None"
+					}
+				}
+			],
+			"WinterMats":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"MaterialIndex": 2,
+						"SetParameter": false,
+						"ParameterName": "Leaf1",
+						"Value": 
+						{
+							"R": 0.5607839822769165,
+							"G": 0.65882402658462524,
+							"B": 0.7176470160484314,
+							"A": 1
+						},
+						"OverwriteMaterialInstead": "None"
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Maple_Tree",
+			"SpringMats":
+			[],
+			"SummerMats":
+			[],
+			"FallMats":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"MaterialIndex": 2,
+						"SetParameter": true,
+						"ParameterName": "Leaf1",
+						"Value": 
+						{
+							"R": 0.88235300779342651,
+							"G": 0.12156900018453598,
+							"B": 0,
+							"A": 1
+						},
+						"OverwriteMaterialInstead": "None"
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"MaterialIndex": 3,
+						"SetParameter": true,
+						"ParameterName": "Leaf1",
+						"Value": 
+						{
+							"R": 0.88235300779342651,
+							"G": 0.12156900018453598,
+							"B": 0,
+							"A": 1
+						},
+						"OverwriteMaterialInstead": "None"
+					}
+				}
+			],
+			"WinterMats":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"MaterialIndex": 2,
+						"SetParameter": false,
+						"ParameterName": "Leaf1",
+						"Value": 
+						{
+							"R": 0.5607839822769165,
+							"G": 0.65882402658462524,
+							"B": 0.7176470160484314,
+							"A": 1
+						},
+						"OverwriteMaterialInstead": "None"
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"MaterialIndex": 7,
+						"SetParameter": false,
+						"ParameterName": "Leaf1",
+						"Value": 
+						{
+							"R": 0.5607839822769165,
+							"G": 0.65882402658462524,
+							"B": 0.7176470160484314,
+							"A": 1
+						},
+						"OverwriteMaterialInstead": "None"
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Maple_Tree_Top",
+			"SpringMats":
+			[],
+			"SummerMats":
+			[],
+			"FallMats":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"MaterialIndex": 2,
+						"SetParameter": true,
+						"ParameterName": "Leaf1",
+						"Value": 
+						{
+							"R": 0.88235300779342651,
+							"G": 0.12156900018453598,
+							"B": 0,
+							"A": 1
+						},
+						"OverwriteMaterialInstead": "None"
+					}
+				}
+			],
+			"WinterMats":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"MaterialIndex": 2,
+						"SetParameter": false,
+						"ParameterName": "Leaf1",
+						"Value": 
+						{
+							"R": 0.5607839822769165,
+							"G": 0.65882402658462524,
+							"B": 0.7176470160484314,
+							"A": 1
+						},
+						"OverwriteMaterialInstead": "None"
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Poplar_Tree",
+			"SpringMats":
+			[],
+			"SummerMats":
+			[],
+			"FallMats":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"MaterialIndex": 2,
+						"SetParameter": true,
+						"ParameterName": "Leaf1",
+						"Value": 
+						{
+							"R": 0.9803919792175293,
+							"G": 0.22352899610996246,
+							"B": 0,
+							"A": 1
+						},
+						"OverwriteMaterialInstead": "None"
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"MaterialIndex": 4,
+						"SetParameter": true,
+						"ParameterName": "Leaf1",
+						"Value": 
+						{
+							"R": 0.9803919792175293,
+							"G": 0.22352899610996246,
+							"B": 0,
+							"A": 1
+						},
+						"OverwriteMaterialInstead": "None"
+					}
+				}
+			],
+			"WinterMats":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"MaterialIndex": 2,
+						"SetParameter": true,
+						"ParameterName": "Leaf1",
+						"Value": 
+						{
+							"R": 0.5607839822769165,
+							"G": 0.65882402658462524,
+							"B": 0.7176470160484314,
+							"A": 1
+						},
+						"OverwriteMaterialInstead": "None"
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"MaterialIndex": 10,
+						"SetParameter": true,
+						"ParameterName": "Leaf1",
+						"Value": 
+						{
+							"R": 0.5607839822769165,
+							"G": 0.65882402658462524,
+							"B": 0.7176470160484314,
+							"A": 1
+						},
+						"OverwriteMaterialInstead": "None"
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Poplar_Tree_Top",
+			"SpringMats":
+			[],
+			"SummerMats":
+			[],
+			"FallMats":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"MaterialIndex": 2,
+						"SetParameter": true,
+						"ParameterName": "Leaf1",
+						"Value": 
+						{
+							"R": 0.9803919792175293,
+							"G": 0.22352899610996246,
+							"B": 0,
+							"A": 1
+						},
+						"OverwriteMaterialInstead": "None"
+					}
+				}
+			],
+			"WinterMats":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"MaterialIndex": 2,
+						"SetParameter": true,
+						"ParameterName": "Leaf1",
+						"Value": 
+						{
+							"R": 0,
+							"G": 0,
+							"B": 0,
+							"A": 0
+						},
+						"OverwriteMaterialInstead": "Material'/Game/Materials/Misc/Blank_Material.Blank_Material'"
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Oak_Tree",
+			"SpringMats":
+			[],
+			"SummerMats":
+			[],
+			"FallMats":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"MaterialIndex": 2,
+						"SetParameter": true,
+						"ParameterName": "Leaf1",
+						"Value": 
+						{
+							"R": 1,
+							"G": 0.23921599984169006,
+							"B": 0.0078429998829960823,
+							"A": 1
+						},
+						"OverwriteMaterialInstead": "None"
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"MaterialIndex": 5,
+						"SetParameter": true,
+						"ParameterName": "Leaf1",
+						"Value": 
+						{
+							"R": 1,
+							"G": 0.23921599984169006,
+							"B": 0.0078429998829960823,
+							"A": 1
+						},
+						"OverwriteMaterialInstead": "None"
+					}
+				}
+			],
+			"WinterMats":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"MaterialIndex": 2,
+						"SetParameter": true,
+						"ParameterName": "Leaf1",
+						"Value": 
+						{
+							"R": 0.5607839822769165,
+							"G": 0.65882402658462524,
+							"B": 0.7176470160484314,
+							"A": 1
+						},
+						"OverwriteMaterialInstead": "None"
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"MaterialIndex": 6,
+						"SetParameter": true,
+						"ParameterName": "Leaf1",
+						"Value": 
+						{
+							"R": 0.5607839822769165,
+							"G": 0.65882402658462524,
+							"B": 0.7176470160484314,
+							"A": 1
+						},
+						"OverwriteMaterialInstead": "None"
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Oak_Tree_Top",
+			"SpringMats":
+			[],
+			"SummerMats":
+			[],
+			"FallMats":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"MaterialIndex": 2,
+						"SetParameter": true,
+						"ParameterName": "Leaf1",
+						"Value": 
+						{
+							"R": 1,
+							"G": 0.23921599984169006,
+							"B": 0.0078429998829960823,
+							"A": 1
+						},
+						"OverwriteMaterialInstead": "None"
+					}
+				}
+			],
+			"WinterMats":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"MaterialIndex": 2,
+						"SetParameter": true,
+						"ParameterName": "Leaf1",
+						"Value": 
+						{
+							"R": 0.5607839822769165,
+							"G": 0.65882402658462524,
+							"B": 0.7176470160484314,
+							"A": 1
+						},
+						"OverwriteMaterialInstead": "None"
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Redwood_Tree",
+			"SpringMats":
+			[],
+			"SummerMats":
+			[],
+			"FallMats":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"MaterialIndex": 3,
+						"SetParameter": true,
+						"ParameterName": "Leaf1",
+						"Value": 
+						{
+							"R": 0.86274498701095581,
+							"G": 0.30980399250984192,
+							"B": 0,
+							"A": 1
+						},
+						"OverwriteMaterialInstead": "None"
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"MaterialIndex": 5,
+						"SetParameter": true,
+						"ParameterName": "Leaf1",
+						"Value": 
+						{
+							"R": 0.5607839822769165,
+							"G": 0.65882402658462524,
+							"B": 0.7176470160484314,
+							"A": 1
+						},
+						"OverwriteMaterialInstead": "None"
+					}
+				}
+			],
+			"WinterMats":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"MaterialIndex": 3,
+						"SetParameter": true,
+						"ParameterName": "Leaf1",
+						"Value": 
+						{
+							"R": 0.5607839822769165,
+							"G": 0.65882402658462524,
+							"B": 0.7176470160484314,
+							"A": 1
+						},
+						"OverwriteMaterialInstead": "None"
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"MaterialIndex": 5,
+						"SetParameter": true,
+						"ParameterName": "Leaf1",
+						"Value": 
+						{
+							"R": 0.5607839822769165,
+							"G": 0.65882402658462524,
+							"B": 0.7176470160484314,
+							"A": 1
+						},
+						"OverwriteMaterialInstead": "None"
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Redwood_Tree_Top",
+			"SpringMats":
+			[],
+			"SummerMats":
+			[],
+			"FallMats":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"MaterialIndex": 3,
+						"SetParameter": true,
+						"ParameterName": "Leaf1",
+						"Value": 
+						{
+							"R": 0.86274498701095581,
+							"G": 0.30980399250984192,
+							"B": 0,
+							"A": 1
+						},
+						"OverwriteMaterialInstead": "None"
+					}
+				}
+			],
+			"WinterMats":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"MaterialIndex": 3,
+						"SetParameter": true,
+						"ParameterName": "Leaf1",
+						"Value": 
+						{
+							"R": 0.5607839822769165,
+							"G": 0.65882402658462524,
+							"B": 0.7176470160484314,
+							"A": 1
+						},
+						"OverwriteMaterialInstead": "None"
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Ash_Tree",
+			"SpringMats":
+			[],
+			"SummerMats":
+			[],
+			"FallMats":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"MaterialIndex": 2,
+						"SetParameter": true,
+						"ParameterName": "Leaf1",
+						"Value": 
+						{
+							"R": 0.47843098640441895,
+							"G": 0.062744997441768646,
+							"B": 0,
+							"A": 1
+						},
+						"OverwriteMaterialInstead": "None"
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"MaterialIndex": 3,
+						"SetParameter": true,
+						"ParameterName": "Leaf1",
+						"Value": 
+						{
+							"R": 0.47843098640441895,
+							"G": 0.062744997441768646,
+							"B": 0,
+							"A": 1
+						},
+						"OverwriteMaterialInstead": "None"
+					}
+				}
+			],
+			"WinterMats":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"MaterialIndex": 2,
+						"SetParameter": true,
+						"ParameterName": "Leaf1",
+						"Value": 
+						{
+							"R": 0.5607839822769165,
+							"G": 0.65882402658462524,
+							"B": 0.7176470160484314,
+							"A": 1
+						},
+						"OverwriteMaterialInstead": "None"
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"MaterialIndex": 3,
+						"SetParameter": true,
+						"ParameterName": "Leaf1",
+						"Value": 
+						{
+							"R": 0.5607839822769165,
+							"G": 0.65882402658462524,
+							"B": 0.7176470160484314,
+							"A": 1
+						},
+						"OverwriteMaterialInstead": "None"
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Ash_Tree_Top",
+			"SpringMats":
+			[],
+			"SummerMats":
+			[],
+			"FallMats":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"MaterialIndex": 2,
+						"SetParameter": true,
+						"ParameterName": "Leaf1",
+						"Value": 
+						{
+							"R": 0.47843098640441895,
+							"G": 0.062744997441768646,
+							"B": 0,
+							"A": 1
+						},
+						"OverwriteMaterialInstead": "None"
+					}
+				}
+			],
+			"WinterMats":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"MaterialIndex": 2,
+						"SetParameter": true,
+						"ParameterName": "Leaf1",
+						"Value": 
+						{
+							"R": 0.5607839822769165,
+							"G": 0.65882402658462524,
+							"B": 0.7176470160484314,
+							"A": 1
+						},
+						"OverwriteMaterialInstead": "None"
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Birch_Tree",
+			"SpringMats":
+			[],
+			"SummerMats":
+			[],
+			"FallMats":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"MaterialIndex": 2,
+						"SetParameter": true,
+						"ParameterName": "Leaf1",
+						"Value": 
+						{
+							"R": 0.97647100687026978,
+							"G": 0.31372600793838501,
+							"B": 0,
+							"A": 1
+						},
+						"OverwriteMaterialInstead": "None"
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"MaterialIndex": 4,
+						"SetParameter": true,
+						"ParameterName": "Leaf1",
+						"Value": 
+						{
+							"R": 0.97647100687026978,
+							"G": 0.31372600793838501,
+							"B": 0,
+							"A": 1
+						},
+						"OverwriteMaterialInstead": "None"
+					}
+				}
+			],
+			"WinterMats":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"MaterialIndex": 2,
+						"SetParameter": true,
+						"ParameterName": "Leaf1",
+						"Value": 
+						{
+							"R": 0.5607839822769165,
+							"G": 0.65882402658462524,
+							"B": 0.7176470160484314,
+							"A": 1
+						},
+						"OverwriteMaterialInstead": "None"
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"MaterialIndex": 4,
+						"SetParameter": true,
+						"ParameterName": "Leaf1",
+						"Value": 
+						{
+							"R": 0.5607839822769165,
+							"G": 0.65882402658462524,
+							"B": 0.7176470160484314,
+							"A": 1
+						},
+						"OverwriteMaterialInstead": "None"
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Birch_Tree_Top",
+			"SpringMats":
+			[],
+			"SummerMats":
+			[],
+			"FallMats":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"MaterialIndex": 2,
+						"SetParameter": true,
+						"ParameterName": "Leaf1",
+						"Value": 
+						{
+							"R": 0.97647100687026978,
+							"G": 0.31372600793838501,
+							"B": 0,
+							"A": 1
+						},
+						"OverwriteMaterialInstead": "None"
+					}
+				}
+			],
+			"WinterMats":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"MaterialIndex": 2,
+						"SetParameter": true,
+						"ParameterName": "Leaf1",
+						"Value": 
+						{
+							"R": 0.5607839822769165,
+							"G": 0.65882402658462524,
+							"B": 0.7176470160484314,
+							"A": 1
+						},
+						"OverwriteMaterialInstead": "None"
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Grass_Main1",
+			"SpringMats":
+			[],
+			"SummerMats":
+			[],
+			"FallMats":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"MaterialIndex": 0,
+						"SetParameter": true,
+						"ParameterName": "Colour",
+						"Value": 
+						{
+							"R": 0.38039198517799377,
+							"G": 0.11764699965715408,
+							"B": 0.023529000580310822,
+							"A": 0
+						},
+						"OverwriteMaterialInstead": "None"
+					}
+				}
+			],
+			"WinterMats":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"MaterialIndex": 0,
+						"SetParameter": true,
+						"ParameterName": "Colour",
+						"Value": 
+						{
+							"R": 0.21960799396038055,
+							"G": 0.011765000410377979,
+							"B": 0.23529399931430817,
+							"A": 0
+						},
+						"OverwriteMaterialInstead": "None"
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Barberry_Bush_Green",
+			"SpringMats":
+			[],
+			"SummerMats":
+			[],
+			"FallMats":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"MaterialIndex": 2,
+						"SetParameter": true,
+						"ParameterName": "Leaf1",
+						"Value": 
+						{
+							"R": 0.59607797861099243,
+							"G": 0.12156900018453598,
+							"B": 0,
+							"A": 1
+						},
+						"OverwriteMaterialInstead": "None"
+					}
+				}
+			],
+			"WinterMats":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"MaterialIndex": 2,
+						"SetParameter": true,
+						"ParameterName": "Leaf1",
+						"Value": 
+						{
+							"R": 0.5607839822769165,
+							"G": 0.65882402658462524,
+							"B": 0.7176470160484314,
+							"A": 1
+						},
+						"OverwriteMaterialInstead": "None"
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"MaterialIndex": 3,
+						"SetParameter": true,
+						"ParameterName": "Leaf1",
+						"Value": 
+						{
+							"R": 0.5607839822769165,
+							"G": 0.65882402658462524,
+							"B": 0.7176470160484314,
+							"A": 1
+						},
+						"OverwriteMaterialInstead": "None"
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Hickory_Tree_Old",
+			"SpringMats":
+			[],
+			"SummerMats":
+			[],
+			"FallMats":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"MaterialIndex": 3,
+						"SetParameter": true,
+						"ParameterName": "Leaf1",
+						"Value": 
+						{
+							"R": 0.81960797309875488,
+							"G": 0.22745099663734436,
+							"B": 0,
+							"A": 1
+						},
+						"OverwriteMaterialInstead": "None"
+					}
+				}
+			],
+			"WinterMats":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"MaterialIndex": 3,
+						"SetParameter": true,
+						"ParameterName": "Leaf1",
+						"Value": 
+						{
+							"R": 0.5607839822769165,
+							"G": 0.65882402658462524,
+							"B": 0.7176470160484314,
+							"A": 1
+						},
+						"OverwriteMaterialInstead": "None"
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Fern_Droopy",
+			"SpringMats":
+			[],
+			"SummerMats":
+			[],
+			"FallMats":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"MaterialIndex": 0,
+						"SetParameter": true,
+						"ParameterName": "Color",
+						"Value": 
+						{
+							"R": 0.34117600321769714,
+							"G": 0.16470600664615631,
+							"B": 0.17254899442195892,
+							"A": 1
+						},
+						"OverwriteMaterialInstead": "None"
+					}
+				}
+			],
+			"WinterMats":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"MaterialIndex": 0,
+						"SetParameter": true,
+						"ParameterName": "Leaves",
+						"Value": 
+						{
+							"R": 0,
+							"G": 0,
+							"B": 0,
+							"A": 0
+						},
+						"OverwriteMaterialInstead": "Material'/Game/Materials/Misc/Blank_Material.Blank_Material'"
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Acanthus_Bush",
+			"SpringMats":
+			[],
+			"SummerMats":
+			[],
+			"FallMats":
+			[],
+			"WinterMats":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"MaterialIndex": 0,
+						"SetParameter": true,
+						"ParameterName": "Leaves",
+						"Value": 
+						{
+							"R": 0,
+							"G": 0,
+							"B": 0,
+							"A": 0
+						},
+						"OverwriteMaterialInstead": "Material'/Game/Materials/Misc/Blank_Material.Blank_Material'"
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Adonis_Bush",
+			"SpringMats":
+			[],
+			"SummerMats":
+			[],
+			"FallMats":
+			[],
+			"WinterMats":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"MaterialIndex": 0,
+						"SetParameter": true,
+						"ParameterName": "Leaves",
+						"Value": 
+						{
+							"R": 0,
+							"G": 0,
+							"B": 0,
+							"A": 0
+						},
+						"OverwriteMaterialInstead": "Material'/Game/Materials/Misc/Blank_Material.Blank_Material'"
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Alstromeria_Bush",
+			"SpringMats":
+			[],
+			"SummerMats":
+			[],
+			"FallMats":
+			[],
+			"WinterMats":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"MaterialIndex": 0,
+						"SetParameter": true,
+						"ParameterName": "Leaves",
+						"Value": 
+						{
+							"R": 0,
+							"G": 0,
+							"B": 0,
+							"A": 0
+						},
+						"OverwriteMaterialInstead": "Material'/Game/Materials/Misc/Blank_Material.Blank_Material'"
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Angelonia_Bush",
+			"SpringMats":
+			[],
+			"SummerMats":
+			[],
+			"FallMats":
+			[],
+			"WinterMats":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"MaterialIndex": 0,
+						"SetParameter": true,
+						"ParameterName": "Leaves",
+						"Value": 
+						{
+							"R": 0,
+							"G": 0,
+							"B": 0,
+							"A": 0
+						},
+						"OverwriteMaterialInstead": "Material'/Game/Materials/Misc/Blank_Material.Blank_Material'"
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Bee_Balm_Bush",
+			"SpringMats":
+			[],
+			"SummerMats":
+			[],
+			"FallMats":
+			[],
+			"WinterMats":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"MaterialIndex": 0,
+						"SetParameter": true,
+						"ParameterName": "Leaves",
+						"Value": 
+						{
+							"R": 0,
+							"G": 0,
+							"B": 0,
+							"A": 0
+						},
+						"OverwriteMaterialInstead": "Material'/Game/Materials/Misc/Blank_Material.Blank_Material'"
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Birds_Of_Paradise",
+			"SpringMats":
+			[],
+			"SummerMats":
+			[],
+			"FallMats":
+			[],
+			"WinterMats":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"MaterialIndex": 0,
+						"SetParameter": true,
+						"ParameterName": "Leaves",
+						"Value": 
+						{
+							"R": 0,
+							"G": 0,
+							"B": 0,
+							"A": 0
+						},
+						"OverwriteMaterialInstead": "Material'/Game/Materials/Misc/Blank_Material.Blank_Material'"
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Black_Dahlia_Bush",
+			"SpringMats":
+			[],
+			"SummerMats":
+			[],
+			"FallMats":
+			[],
+			"WinterMats":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"MaterialIndex": 0,
+						"SetParameter": true,
+						"ParameterName": "Leaves",
+						"Value": 
+						{
+							"R": 0,
+							"G": 0,
+							"B": 0,
+							"A": 0
+						},
+						"OverwriteMaterialInstead": "Material'/Game/Materials/Misc/Blank_Material.Blank_Material'"
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Black_Iris_Bush",
+			"SpringMats":
+			[],
+			"SummerMats":
+			[],
+			"FallMats":
+			[],
+			"WinterMats":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"MaterialIndex": 0,
+						"SetParameter": true,
+						"ParameterName": "Leaves",
+						"Value": 
+						{
+							"R": 0,
+							"G": 0,
+							"B": 0,
+							"A": 0
+						},
+						"OverwriteMaterialInstead": "Material'/Game/Materials/Misc/Blank_Material.Blank_Material'"
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Canna_Lily_Bush",
+			"SpringMats":
+			[],
+			"SummerMats":
+			[],
+			"FallMats":
+			[],
+			"WinterMats":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"MaterialIndex": 0,
+						"SetParameter": true,
+						"ParameterName": "Leaves",
+						"Value": 
+						{
+							"R": 0,
+							"G": 0,
+							"B": 0,
+							"A": 0
+						},
+						"OverwriteMaterialInstead": "Material'/Game/Materials/Misc/Blank_Material.Blank_Material'"
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Carnation_Bush",
+			"SpringMats":
+			[],
+			"SummerMats":
+			[],
+			"FallMats":
+			[],
+			"WinterMats":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"MaterialIndex": 0,
+						"SetParameter": true,
+						"ParameterName": "Leaves",
+						"Value": 
+						{
+							"R": 0,
+							"G": 0,
+							"B": 0,
+							"A": 0
+						},
+						"OverwriteMaterialInstead": "Material'/Game/Materials/Misc/Blank_Material.Blank_Material'"
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Celogyne_Bush",
+			"SpringMats":
+			[],
+			"SummerMats":
+			[],
+			"FallMats":
+			[],
+			"WinterMats":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"MaterialIndex": 0,
+						"SetParameter": true,
+						"ParameterName": "Leaves",
+						"Value": 
+						{
+							"R": 0,
+							"G": 0,
+							"B": 0,
+							"A": 0
+						},
+						"OverwriteMaterialInstead": "Material'/Game/Materials/Misc/Blank_Material.Blank_Material'"
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Chrysanthemum_Bush",
+			"SpringMats":
+			[],
+			"SummerMats":
+			[],
+			"FallMats":
+			[],
+			"WinterMats":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"MaterialIndex": 0,
+						"SetParameter": true,
+						"ParameterName": "Leaves",
+						"Value": 
+						{
+							"R": 0,
+							"G": 0,
+							"B": 0,
+							"A": 0
+						},
+						"OverwriteMaterialInstead": "Material'/Game/Materials/Misc/Blank_Material.Blank_Material'"
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Columbine_Bush",
+			"SpringMats":
+			[],
+			"SummerMats":
+			[],
+			"FallMats":
+			[],
+			"WinterMats":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"MaterialIndex": 0,
+						"SetParameter": true,
+						"ParameterName": "Leaves",
+						"Value": 
+						{
+							"R": 0,
+							"G": 0,
+							"B": 0,
+							"A": 0
+						},
+						"OverwriteMaterialInstead": "Material'/Game/Materials/Misc/Blank_Material.Blank_Material'"
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Cosmos_Bush",
+			"SpringMats":
+			[],
+			"SummerMats":
+			[],
+			"FallMats":
+			[],
+			"WinterMats":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"MaterialIndex": 0,
+						"SetParameter": true,
+						"ParameterName": "Leaves",
+						"Value": 
+						{
+							"R": 0,
+							"G": 0,
+							"B": 0,
+							"A": 0
+						},
+						"OverwriteMaterialInstead": "Material'/Game/Materials/Misc/Blank_Material.Blank_Material'"
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Cotyledon_Bush",
+			"SpringMats":
+			[],
+			"SummerMats":
+			[],
+			"FallMats":
+			[],
+			"WinterMats":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"MaterialIndex": 0,
+						"SetParameter": true,
+						"ParameterName": "Leaves",
+						"Value": 
+						{
+							"R": 0,
+							"G": 0,
+							"B": 0,
+							"A": 0
+						},
+						"OverwriteMaterialInstead": "Material'/Game/Materials/Misc/Blank_Material.Blank_Material'"
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Cymbidium_Orchid_Bush",
+			"SpringMats":
+			[],
+			"SummerMats":
+			[],
+			"FallMats":
+			[],
+			"WinterMats":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"MaterialIndex": 0,
+						"SetParameter": true,
+						"ParameterName": "Leaves",
+						"Value": 
+						{
+							"R": 0,
+							"G": 0,
+							"B": 0,
+							"A": 0
+						},
+						"OverwriteMaterialInstead": "Material'/Game/Materials/Misc/Blank_Material.Blank_Material'"
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Daffodil_Bush",
+			"SpringMats":
+			[],
+			"SummerMats":
+			[],
+			"FallMats":
+			[],
+			"WinterMats":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"MaterialIndex": 0,
+						"SetParameter": true,
+						"ParameterName": "Leaves",
+						"Value": 
+						{
+							"R": 0,
+							"G": 0,
+							"B": 0,
+							"A": 0
+						},
+						"OverwriteMaterialInstead": "Material'/Game/Materials/Misc/Blank_Material.Blank_Material'"
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Daisy_Bush",
+			"SpringMats":
+			[],
+			"SummerMats":
+			[],
+			"FallMats":
+			[],
+			"WinterMats":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"MaterialIndex": 0,
+						"SetParameter": true,
+						"ParameterName": "Leaves",
+						"Value": 
+						{
+							"R": 0,
+							"G": 0,
+							"B": 0,
+							"A": 0
+						},
+						"OverwriteMaterialInstead": "Material'/Game/Materials/Misc/Blank_Material.Blank_Material'"
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Day_Lily_Bush",
+			"SpringMats":
+			[],
+			"SummerMats":
+			[],
+			"FallMats":
+			[],
+			"WinterMats":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"MaterialIndex": 0,
+						"SetParameter": true,
+						"ParameterName": "Leaves",
+						"Value": 
+						{
+							"R": 0,
+							"G": 0,
+							"B": 0,
+							"A": 0
+						},
+						"OverwriteMaterialInstead": "Material'/Game/Materials/Misc/Blank_Material.Blank_Material'"
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Delphinium_Bush",
+			"SpringMats":
+			[],
+			"SummerMats":
+			[],
+			"FallMats":
+			[],
+			"WinterMats":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"MaterialIndex": 0,
+						"SetParameter": true,
+						"ParameterName": "Leaves",
+						"Value": 
+						{
+							"R": 0,
+							"G": 0,
+							"B": 0,
+							"A": 0
+						},
+						"OverwriteMaterialInstead": "Material'/Game/Materials/Misc/Blank_Material.Blank_Material'"
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Echeveria_Bush",
+			"SpringMats":
+			[],
+			"SummerMats":
+			[],
+			"FallMats":
+			[],
+			"WinterMats":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"MaterialIndex": 0,
+						"SetParameter": true,
+						"ParameterName": "Leaves",
+						"Value": 
+						{
+							"R": 0,
+							"G": 0,
+							"B": 0,
+							"A": 0
+						},
+						"OverwriteMaterialInstead": "Material'/Game/Materials/Misc/Blank_Material.Blank_Material'"
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Echinaaceea_Bush",
+			"SpringMats":
+			[],
+			"SummerMats":
+			[],
+			"FallMats":
+			[],
+			"WinterMats":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"MaterialIndex": 0,
+						"SetParameter": true,
+						"ParameterName": "Leaves",
+						"Value": 
+						{
+							"R": 0,
+							"G": 0,
+							"B": 0,
+							"A": 0
+						},
+						"OverwriteMaterialInstead": "Material'/Game/Materials/Misc/Blank_Material.Blank_Material'"
+					}
+				}
+			]
+		},
+		{
+			"RowName": "FiddleFern_Bush",
+			"SpringMats":
+			[],
+			"SummerMats":
+			[],
+			"FallMats":
+			[],
+			"WinterMats":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"MaterialIndex": 0,
+						"SetParameter": true,
+						"ParameterName": "Leaves",
+						"Value": 
+						{
+							"R": 0,
+							"G": 0,
+							"B": 0,
+							"A": 0
+						},
+						"OverwriteMaterialInstead": "Material'/Game/Materials/Misc/Blank_Material.Blank_Material'"
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Forget_Me_Not",
+			"SpringMats":
+			[],
+			"SummerMats":
+			[],
+			"FallMats":
+			[],
+			"WinterMats":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"MaterialIndex": 0,
+						"SetParameter": true,
+						"ParameterName": "Leaves",
+						"Value": 
+						{
+							"R": 0,
+							"G": 0,
+							"B": 0,
+							"A": 0
+						},
+						"OverwriteMaterialInstead": "Material'/Game/Materials/Misc/Blank_Material.Blank_Material'"
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Gardenia_Bush",
+			"SpringMats":
+			[],
+			"SummerMats":
+			[],
+			"FallMats":
+			[],
+			"WinterMats":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"MaterialIndex": 0,
+						"SetParameter": true,
+						"ParameterName": "Leaves",
+						"Value": 
+						{
+							"R": 0,
+							"G": 0,
+							"B": 0,
+							"A": 0
+						},
+						"OverwriteMaterialInstead": "Material'/Game/Materials/Misc/Blank_Material.Blank_Material'"
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Gentian_Bush",
+			"SpringMats":
+			[],
+			"SummerMats":
+			[],
+			"FallMats":
+			[],
+			"WinterMats":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"MaterialIndex": 0,
+						"SetParameter": true,
+						"ParameterName": "Leaves",
+						"Value": 
+						{
+							"R": 0,
+							"G": 0,
+							"B": 0,
+							"A": 0
+						},
+						"OverwriteMaterialInstead": "Material'/Game/Materials/Misc/Blank_Material.Blank_Material'"
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Gladiolus_Bush",
+			"SpringMats":
+			[],
+			"SummerMats":
+			[],
+			"FallMats":
+			[],
+			"WinterMats":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"MaterialIndex": 0,
+						"SetParameter": true,
+						"ParameterName": "Leaves",
+						"Value": 
+						{
+							"R": 0,
+							"G": 0,
+							"B": 0,
+							"A": 0
+						},
+						"OverwriteMaterialInstead": "Material'/Game/Materials/Misc/Blank_Material.Blank_Material'"
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Greenovia_Bush_D",
+			"SpringMats":
+			[],
+			"SummerMats":
+			[],
+			"FallMats":
+			[],
+			"WinterMats":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"MaterialIndex": 0,
+						"SetParameter": true,
+						"ParameterName": "Leaves",
+						"Value": 
+						{
+							"R": 0,
+							"G": 0,
+							"B": 0,
+							"A": 0
+						},
+						"OverwriteMaterialInstead": "Material'/Game/Materials/Misc/Blank_Material.Blank_Material'"
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Hellebore_Bush",
+			"SpringMats":
+			[],
+			"SummerMats":
+			[],
+			"FallMats":
+			[],
+			"WinterMats":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"MaterialIndex": 0,
+						"SetParameter": true,
+						"ParameterName": "Leaves",
+						"Value": 
+						{
+							"R": 0,
+							"G": 0,
+							"B": 0,
+							"A": 0
+						},
+						"OverwriteMaterialInstead": "Material'/Game/Materials/Misc/Blank_Material.Blank_Material'"
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Hollyhock_Bush",
+			"SpringMats":
+			[],
+			"SummerMats":
+			[],
+			"FallMats":
+			[],
+			"WinterMats":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"MaterialIndex": 0,
+						"SetParameter": true,
+						"ParameterName": "Leaves",
+						"Value": 
+						{
+							"R": 0,
+							"G": 0,
+							"B": 0,
+							"A": 0
+						},
+						"OverwriteMaterialInstead": "Material'/Game/Materials/Misc/Blank_Material.Blank_Material'"
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Hyacinth_BUsh",
+			"SpringMats":
+			[],
+			"SummerMats":
+			[],
+			"FallMats":
+			[],
+			"WinterMats":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"MaterialIndex": 0,
+						"SetParameter": true,
+						"ParameterName": "Leaves",
+						"Value": 
+						{
+							"R": 0,
+							"G": 0,
+							"B": 0,
+							"A": 0
+						},
+						"OverwriteMaterialInstead": "Material'/Game/Materials/Misc/Blank_Material.Blank_Material'"
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Iris_Bush",
+			"SpringMats":
+			[],
+			"SummerMats":
+			[],
+			"FallMats":
+			[],
+			"WinterMats":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"MaterialIndex": 0,
+						"SetParameter": true,
+						"ParameterName": "Leaves",
+						"Value": 
+						{
+							"R": 0,
+							"G": 0,
+							"B": 0,
+							"A": 0
+						},
+						"OverwriteMaterialInstead": "Material'/Game/Materials/Misc/Blank_Material.Blank_Material'"
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Iris_Cristata_Bush",
+			"SpringMats":
+			[],
+			"SummerMats":
+			[],
+			"FallMats":
+			[],
+			"WinterMats":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"MaterialIndex": 0,
+						"SetParameter": true,
+						"ParameterName": "Leaves",
+						"Value": 
+						{
+							"R": 0,
+							"G": 0,
+							"B": 0,
+							"A": 0
+						},
+						"OverwriteMaterialInstead": "Material'/Game/Materials/Misc/Blank_Material.Blank_Material'"
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Jade_Vine_Bush",
+			"SpringMats":
+			[],
+			"SummerMats":
+			[],
+			"FallMats":
+			[],
+			"WinterMats":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"MaterialIndex": 0,
+						"SetParameter": true,
+						"ParameterName": "Leaves",
+						"Value": 
+						{
+							"R": 0,
+							"G": 0,
+							"B": 0,
+							"A": 0
+						},
+						"OverwriteMaterialInstead": "Material'/Game/Materials/Misc/Blank_Material.Blank_Material'"
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Kangaroo_Paw_Bush",
+			"SpringMats":
+			[],
+			"SummerMats":
+			[],
+			"FallMats":
+			[],
+			"WinterMats":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"MaterialIndex": 0,
+						"SetParameter": true,
+						"ParameterName": "Leaves",
+						"Value": 
+						{
+							"R": 0,
+							"G": 0,
+							"B": 0,
+							"A": 0
+						},
+						"OverwriteMaterialInstead": "Material'/Game/Materials/Misc/Blank_Material.Blank_Material'"
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Lambs_Ear",
+			"SpringMats":
+			[],
+			"SummerMats":
+			[],
+			"FallMats":
+			[],
+			"WinterMats":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"MaterialIndex": 0,
+						"SetParameter": true,
+						"ParameterName": "Leaves",
+						"Value": 
+						{
+							"R": 0,
+							"G": 0,
+							"B": 0,
+							"A": 0
+						},
+						"OverwriteMaterialInstead": "Material'/Game/Materials/Misc/Blank_Material.Blank_Material'"
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Lavender_Bush",
+			"SpringMats":
+			[],
+			"SummerMats":
+			[],
+			"FallMats":
+			[],
+			"WinterMats":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"MaterialIndex": 0,
+						"SetParameter": true,
+						"ParameterName": "Leaves",
+						"Value": 
+						{
+							"R": 0,
+							"G": 0,
+							"B": 0,
+							"A": 0
+						},
+						"OverwriteMaterialInstead": "Material'/Game/Materials/Misc/Blank_Material.Blank_Material'"
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Mariposas_De_Cuba",
+			"SpringMats":
+			[],
+			"SummerMats":
+			[],
+			"FallMats":
+			[],
+			"WinterMats":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"MaterialIndex": 0,
+						"SetParameter": true,
+						"ParameterName": "Leaves",
+						"Value": 
+						{
+							"R": 0,
+							"G": 0,
+							"B": 0,
+							"A": 0
+						},
+						"OverwriteMaterialInstead": "Material'/Game/Materials/Misc/Blank_Material.Blank_Material'"
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Morning_Glory_Bush",
+			"SpringMats":
+			[],
+			"SummerMats":
+			[],
+			"FallMats":
+			[],
+			"WinterMats":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"MaterialIndex": 0,
+						"SetParameter": true,
+						"ParameterName": "Leaves",
+						"Value": 
+						{
+							"R": 0,
+							"G": 0,
+							"B": 0,
+							"A": 0
+						},
+						"OverwriteMaterialInstead": "Material'/Game/Materials/Misc/Blank_Material.Blank_Material'"
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Nigella_Bush",
+			"SpringMats":
+			[],
+			"SummerMats":
+			[],
+			"FallMats":
+			[],
+			"WinterMats":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"MaterialIndex": 0,
+						"SetParameter": true,
+						"ParameterName": "Leaves",
+						"Value": 
+						{
+							"R": 0,
+							"G": 0,
+							"B": 0,
+							"A": 0
+						},
+						"OverwriteMaterialInstead": "Material'/Game/Materials/Misc/Blank_Material.Blank_Material'"
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Orchid_Bush",
+			"SpringMats":
+			[],
+			"SummerMats":
+			[],
+			"FallMats":
+			[],
+			"WinterMats":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"MaterialIndex": 0,
+						"SetParameter": true,
+						"ParameterName": "Leaves",
+						"Value": 
+						{
+							"R": 0,
+							"G": 0,
+							"B": 0,
+							"A": 0
+						},
+						"OverwriteMaterialInstead": "Material'/Game/Materials/Misc/Blank_Material.Blank_Material'"
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Passion_Flower_Bush",
+			"SpringMats":
+			[],
+			"SummerMats":
+			[],
+			"FallMats":
+			[],
+			"WinterMats":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"MaterialIndex": 0,
+						"SetParameter": true,
+						"ParameterName": "Leaves",
+						"Value": 
+						{
+							"R": 0,
+							"G": 0,
+							"B": 0,
+							"A": 0
+						},
+						"OverwriteMaterialInstead": "Material'/Game/Materials/Misc/Blank_Material.Blank_Material'"
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Petunia_Bush",
+			"SpringMats":
+			[],
+			"SummerMats":
+			[],
+			"FallMats":
+			[],
+			"WinterMats":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"MaterialIndex": 0,
+						"SetParameter": true,
+						"ParameterName": "Leaves",
+						"Value": 
+						{
+							"R": 0,
+							"G": 0,
+							"B": 0,
+							"A": 0
+						},
+						"OverwriteMaterialInstead": "Material'/Game/Materials/Misc/Blank_Material.Blank_Material'"
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Poppy_Bush",
+			"SpringMats":
+			[],
+			"SummerMats":
+			[],
+			"FallMats":
+			[],
+			"WinterMats":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"MaterialIndex": 0,
+						"SetParameter": true,
+						"ParameterName": "Leaves",
+						"Value": 
+						{
+							"R": 0,
+							"G": 0,
+							"B": 0,
+							"A": 0
+						},
+						"OverwriteMaterialInstead": "Material'/Game/Materials/Misc/Blank_Material.Blank_Material'"
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Pride_Of_Madeira_Bush",
+			"SpringMats":
+			[],
+			"SummerMats":
+			[],
+			"FallMats":
+			[],
+			"WinterMats":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"MaterialIndex": 0,
+						"SetParameter": true,
+						"ParameterName": "Leaves",
+						"Value": 
+						{
+							"R": 0,
+							"G": 0,
+							"B": 0,
+							"A": 0
+						},
+						"OverwriteMaterialInstead": "Material'/Game/Materials/Misc/Blank_Material.Blank_Material'"
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Sanndersonia_Bush",
+			"SpringMats":
+			[],
+			"SummerMats":
+			[],
+			"FallMats":
+			[],
+			"WinterMats":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"MaterialIndex": 0,
+						"SetParameter": true,
+						"ParameterName": "Leaves",
+						"Value": 
+						{
+							"R": 0,
+							"G": 0,
+							"B": 0,
+							"A": 0
+						},
+						"OverwriteMaterialInstead": "Material'/Game/Materials/Misc/Blank_Material.Blank_Material'"
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Scilla_Bush",
+			"SpringMats":
+			[],
+			"SummerMats":
+			[],
+			"FallMats":
+			[],
+			"WinterMats":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"MaterialIndex": 0,
+						"SetParameter": true,
+						"ParameterName": "Leaves",
+						"Value": 
+						{
+							"R": 0,
+							"G": 0,
+							"B": 0,
+							"A": 0
+						},
+						"OverwriteMaterialInstead": "Material'/Game/Materials/Misc/Blank_Material.Blank_Material'"
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Sneeze_Weed",
+			"SpringMats":
+			[],
+			"SummerMats":
+			[],
+			"FallMats":
+			[],
+			"WinterMats":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"MaterialIndex": 0,
+						"SetParameter": true,
+						"ParameterName": "Leaves",
+						"Value": 
+						{
+							"R": 0,
+							"G": 0,
+							"B": 0,
+							"A": 0
+						},
+						"OverwriteMaterialInstead": "Material'/Game/Materials/Misc/Blank_Material.Blank_Material'"
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Star_Scabiosa",
+			"SpringMats":
+			[],
+			"SummerMats":
+			[],
+			"FallMats":
+			[],
+			"WinterMats":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"MaterialIndex": 0,
+						"SetParameter": true,
+						"ParameterName": "Leaves",
+						"Value": 
+						{
+							"R": 0,
+							"G": 0,
+							"B": 0,
+							"A": 0
+						},
+						"OverwriteMaterialInstead": "Material'/Game/Materials/Misc/Blank_Material.Blank_Material'"
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Strokesia_Bush",
+			"SpringMats":
+			[],
+			"SummerMats":
+			[],
+			"FallMats":
+			[],
+			"WinterMats":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"MaterialIndex": 0,
+						"SetParameter": true,
+						"ParameterName": "Leaves",
+						"Value": 
+						{
+							"R": 0,
+							"G": 0,
+							"B": 0,
+							"A": 0
+						},
+						"OverwriteMaterialInstead": "Material'/Game/Materials/Misc/Blank_Material.Blank_Material'"
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Sunflower_Bush",
+			"SpringMats":
+			[],
+			"SummerMats":
+			[],
+			"FallMats":
+			[],
+			"WinterMats":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"MaterialIndex": 0,
+						"SetParameter": true,
+						"ParameterName": "Leaves",
+						"Value": 
+						{
+							"R": 0,
+							"G": 0,
+							"B": 0,
+							"A": 0
+						},
+						"OverwriteMaterialInstead": "Material'/Game/Materials/Misc/Blank_Material.Blank_Material'"
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Trillium_Bush",
+			"SpringMats":
+			[],
+			"SummerMats":
+			[],
+			"FallMats":
+			[],
+			"WinterMats":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"MaterialIndex": 0,
+						"SetParameter": true,
+						"ParameterName": "Leaves",
+						"Value": 
+						{
+							"R": 0,
+							"G": 0,
+							"B": 0,
+							"A": 0
+						},
+						"OverwriteMaterialInstead": "Material'/Game/Materials/Misc/Blank_Material.Blank_Material'"
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Violet_Bush",
+			"SpringMats":
+			[],
+			"SummerMats":
+			[],
+			"FallMats":
+			[],
+			"WinterMats":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"MaterialIndex": 0,
+						"SetParameter": true,
+						"ParameterName": "Leaves",
+						"Value": 
+						{
+							"R": 0,
+							"G": 0,
+							"B": 0,
+							"A": 0
+						},
+						"OverwriteMaterialInstead": "Material'/Game/Materials/Misc/Blank_Material.Blank_Material'"
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Zinnia_Bush",
+			"SpringMats":
+			[],
+			"SummerMats":
+			[],
+			"FallMats":
+			[],
+			"WinterMats":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"MaterialIndex": 0,
+						"SetParameter": true,
+						"ParameterName": "Leaves",
+						"Value": 
+						{
+							"R": 0,
+							"G": 0,
+							"B": 0,
+							"A": 0
+						},
+						"OverwriteMaterialInstead": "Material'/Game/Materials/Misc/Blank_Material.Blank_Material'"
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Jungle_Tree",
+			"SpringMats":
+			[],
+			"SummerMats":
+			[],
+			"FallMats":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"MaterialIndex": 0,
+						"SetParameter": true,
+						"ParameterName": "Leaf1",
+						"Value": 
+						{
+							"R": 0.18823499977588654,
+							"G": 0.12941199541091919,
+							"B": 0.023529000580310822,
+							"A": 1
+						},
+						"OverwriteMaterialInstead": "None"
+					}
+				}
+			],
+			"WinterMats":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"MaterialIndex": 0,
+						"SetParameter": true,
+						"ParameterName": "Leaf1",
+						"Value": 
+						{
+							"R": 0.18823499977588654,
+							"G": 0.12941199541091919,
+							"B": 0.023529000580310822,
+							"A": 1
+						},
+						"OverwriteMaterialInstead": "None"
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Jungle_Tree_Top",
+			"SpringMats":
+			[],
+			"SummerMats":
+			[],
+			"FallMats":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"MaterialIndex": 0,
+						"SetParameter": true,
+						"ParameterName": "Leaf1",
+						"Value": 
+						{
+							"R": 0.062744997441768646,
+							"G": 0.078431002795696259,
+							"B": 0.019608000293374062,
+							"A": 1
+						},
+						"OverwriteMaterialInstead": "None"
+					}
+				}
+			],
+			"WinterMats":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"MaterialIndex": 0,
+						"SetParameter": true,
+						"ParameterName": "Leaf1",
+						"Value": 
+						{
+							"R": 0.062744997441768646,
+							"G": 0.078431002795696259,
+							"B": 0.019608000293374062,
+							"A": 1
+						},
+						"OverwriteMaterialInstead": "None"
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Jungle_Bush",
+			"SpringMats":
+			[],
+			"SummerMats":
+			[],
+			"FallMats":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"MaterialIndex": 0,
+						"SetParameter": true,
+						"ParameterName": "Leaf1",
+						"Value": 
+						{
+							"R": 0.18823499977588654,
+							"G": 0.12941199541091919,
+							"B": 0.023529000580310822,
+							"A": 1
+						},
+						"OverwriteMaterialInstead": "None"
+					}
+				}
+			],
+			"WinterMats":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"MaterialIndex": 1,
+						"SetParameter": true,
+						"ParameterName": "Leaf1",
+						"Value": 
+						{
+							"R": 0.10588199645280838,
+							"G": 0.18431399762630463,
+							"B": 0.33333298563957214,
+							"A": 1
+						},
+						"OverwriteMaterialInstead": "None"
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Basil_Bush",
+			"SpringMats":
+			[],
+			"SummerMats":
+			[],
+			"FallMats":
+			[],
+			"WinterMats":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"MaterialIndex": 0,
+						"SetParameter": true,
+						"ParameterName": "Leaves",
+						"Value": 
+						{
+							"R": 0,
+							"G": 0,
+							"B": 0,
+							"A": 0
+						},
+						"OverwriteMaterialInstead": "Material'/Game/Materials/Misc/Blank_Material.Blank_Material'"
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Bay_Leaves_Bush",
+			"SpringMats":
+			[],
+			"SummerMats":
+			[],
+			"FallMats":
+			[],
+			"WinterMats":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"MaterialIndex": 0,
+						"SetParameter": true,
+						"ParameterName": "Leaves",
+						"Value": 
+						{
+							"R": 0,
+							"G": 0,
+							"B": 0,
+							"A": 0
+						},
+						"OverwriteMaterialInstead": "Material'/Game/Materials/Misc/Blank_Material.Blank_Material'"
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Chives_Bush",
+			"SpringMats":
+			[],
+			"SummerMats":
+			[],
+			"FallMats":
+			[],
+			"WinterMats":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"MaterialIndex": 0,
+						"SetParameter": true,
+						"ParameterName": "Leaves",
+						"Value": 
+						{
+							"R": 0,
+							"G": 0,
+							"B": 0,
+							"A": 0
+						},
+						"OverwriteMaterialInstead": "Material'/Game/Materials/Misc/Blank_Material.Blank_Material'"
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Cilantro_Bush",
+			"SpringMats":
+			[],
+			"SummerMats":
+			[],
+			"FallMats":
+			[],
+			"WinterMats":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"MaterialIndex": 0,
+						"SetParameter": true,
+						"ParameterName": "Leaves",
+						"Value": 
+						{
+							"R": 0,
+							"G": 0,
+							"B": 0,
+							"A": 0
+						},
+						"OverwriteMaterialInstead": "Material'/Game/Materials/Misc/Blank_Material.Blank_Material'"
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Curry_Bush",
+			"SpringMats":
+			[],
+			"SummerMats":
+			[],
+			"FallMats":
+			[],
+			"WinterMats":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"MaterialIndex": 0,
+						"SetParameter": true,
+						"ParameterName": "Leaves",
+						"Value": 
+						{
+							"R": 0,
+							"G": 0,
+							"B": 0,
+							"A": 0
+						},
+						"OverwriteMaterialInstead": "Material'/Game/Materials/Misc/Blank_Material.Blank_Material'"
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Herb_Leaves",
+			"SpringMats":
+			[],
+			"SummerMats":
+			[],
+			"FallMats":
+			[],
+			"WinterMats":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"MaterialIndex": 0,
+						"SetParameter": true,
+						"ParameterName": "Leaves",
+						"Value": 
+						{
+							"R": 0,
+							"G": 0,
+							"B": 0,
+							"A": 0
+						},
+						"OverwriteMaterialInstead": "Material'/Game/Materials/Misc/Blank_Material.Blank_Material'"
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Lemon_Grass_Bush",
+			"SpringMats":
+			[],
+			"SummerMats":
+			[],
+			"FallMats":
+			[],
+			"WinterMats":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"MaterialIndex": 0,
+						"SetParameter": true,
+						"ParameterName": "Leaves",
+						"Value": 
+						{
+							"R": 0,
+							"G": 0,
+							"B": 0,
+							"A": 0
+						},
+						"OverwriteMaterialInstead": "Material'/Game/Materials/Misc/Blank_Material.Blank_Material'"
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Mint_Bush",
+			"SpringMats":
+			[],
+			"SummerMats":
+			[],
+			"FallMats":
+			[],
+			"WinterMats":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"MaterialIndex": 0,
+						"SetParameter": true,
+						"ParameterName": "Leaves",
+						"Value": 
+						{
+							"R": 0,
+							"G": 0,
+							"B": 0,
+							"A": 0
+						},
+						"OverwriteMaterialInstead": "Material'/Game/Materials/Misc/Blank_Material.Blank_Material'"
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Oregano_Bush",
+			"SpringMats":
+			[],
+			"SummerMats":
+			[],
+			"FallMats":
+			[],
+			"WinterMats":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"MaterialIndex": 0,
+						"SetParameter": true,
+						"ParameterName": "Leaves",
+						"Value": 
+						{
+							"R": 0,
+							"G": 0,
+							"B": 0,
+							"A": 0
+						},
+						"OverwriteMaterialInstead": "Material'/Game/Materials/Misc/Blank_Material.Blank_Material'"
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Parsley_Bush",
+			"SpringMats":
+			[],
+			"SummerMats":
+			[],
+			"FallMats":
+			[],
+			"WinterMats":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"MaterialIndex": 0,
+						"SetParameter": true,
+						"ParameterName": "Leaves",
+						"Value": 
+						{
+							"R": 0,
+							"G": 0,
+							"B": 0,
+							"A": 0
+						},
+						"OverwriteMaterialInstead": "Material'/Game/Materials/Misc/Blank_Material.Blank_Material'"
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Rosemary_Bush",
+			"SpringMats":
+			[],
+			"SummerMats":
+			[],
+			"FallMats":
+			[],
+			"WinterMats":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"MaterialIndex": 0,
+						"SetParameter": true,
+						"ParameterName": "Leaves",
+						"Value": 
+						{
+							"R": 0,
+							"G": 0,
+							"B": 0,
+							"A": 0
+						},
+						"OverwriteMaterialInstead": "Material'/Game/Materials/Misc/Blank_Material.Blank_Material'"
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Sage_Bush",
+			"SpringMats":
+			[],
+			"SummerMats":
+			[],
+			"FallMats":
+			[],
+			"WinterMats":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"MaterialIndex": 0,
+						"SetParameter": true,
+						"ParameterName": "Leaves",
+						"Value": 
+						{
+							"R": 0,
+							"G": 0,
+							"B": 0,
+							"A": 0
+						},
+						"OverwriteMaterialInstead": "Material'/Game/Materials/Misc/Blank_Material.Blank_Material'"
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Sorrel_Bush",
+			"SpringMats":
+			[],
+			"SummerMats":
+			[],
+			"FallMats":
+			[],
+			"WinterMats":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"MaterialIndex": 0,
+						"SetParameter": true,
+						"ParameterName": "Leaves",
+						"Value": 
+						{
+							"R": 0,
+							"G": 0,
+							"B": 0,
+							"A": 0
+						},
+						"OverwriteMaterialInstead": "Material'/Game/Materials/Misc/Blank_Material.Blank_Material'"
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Thyme_Bush",
+			"SpringMats":
+			[],
+			"SummerMats":
+			[],
+			"FallMats":
+			[],
+			"WinterMats":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"MaterialIndex": 0,
+						"SetParameter": true,
+						"ParameterName": "Leaves",
+						"Value": 
+						{
+							"R": 0,
+							"G": 0,
+							"B": 0,
+							"A": 0
+						},
+						"OverwriteMaterialInstead": "Material'/Game/Materials/Misc/Blank_Material.Blank_Material'"
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Grass_Tall",
+			"SpringMats":
+			[],
+			"SummerMats":
+			[],
+			"FallMats":
+			[],
+			"WinterMats":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"MaterialIndex": 0,
+						"SetParameter": true,
+						"ParameterName": "Leaf1",
+						"Value": 
+						{
+							"R": 0.21960799396038055,
+							"G": 0.011765000410377979,
+							"B": 0.23529399931430817,
+							"A": 0
+						},
+						"OverwriteMaterialInstead": "None"
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Hemlock_Pine",
+			"SpringMats":
+			[],
+			"SummerMats":
+			[],
+			"FallMats":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"MaterialIndex": 1,
+						"SetParameter": true,
+						"ParameterName": "Leaf1",
+						"Value": 
+						{
+							"R": 0.074510000646114349,
+							"G": 0.078431002795696259,
+							"B": 0.0078429998829960823,
+							"A": 1
+						},
+						"OverwriteMaterialInstead": "None"
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"MaterialIndex": 6,
+						"SetParameter": true,
+						"ParameterName": "Leaf1",
+						"Value": 
+						{
+							"R": 0.074510000646114349,
+							"G": 0.078431002795696259,
+							"B": 0.0078429998829960823,
+							"A": 1
+						},
+						"OverwriteMaterialInstead": "None"
+					}
+				}
+			],
+			"WinterMats":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"MaterialIndex": 1,
+						"SetParameter": true,
+						"ParameterName": "Leaf1",
+						"Value": 
+						{
+							"R": 0.10588199645280838,
+							"G": 0.18431399762630463,
+							"B": 0.33333298563957214,
+							"A": 1
+						},
+						"OverwriteMaterialInstead": "None"
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"MaterialIndex": 6,
+						"SetParameter": true,
+						"ParameterName": "Leaf1",
+						"Value": 
+						{
+							"R": 0.10588199645280838,
+							"G": 0.18431399762630463,
+							"B": 0.33333298563957214,
+							"A": 1
+						},
+						"OverwriteMaterialInstead": "None"
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Hemlock_Pine_Not_Using",
+			"SpringMats":
+			[],
+			"SummerMats":
+			[],
+			"FallMats":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"MaterialIndex": 1,
+						"SetParameter": true,
+						"ParameterName": "Leaf1",
+						"Value": 
+						{
+							"R": 0.074510000646114349,
+							"G": 0.078431002795696259,
+							"B": 0.0078429998829960823,
+							"A": 1
+						},
+						"OverwriteMaterialInstead": "None"
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"MaterialIndex": 6,
+						"SetParameter": true,
+						"ParameterName": "Leaf1",
+						"Value": 
+						{
+							"R": 0.074510000646114349,
+							"G": 0.078431002795696259,
+							"B": 0.0078429998829960823,
+							"A": 1
+						},
+						"OverwriteMaterialInstead": "None"
+					}
+				}
+			],
+			"WinterMats":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"MaterialIndex": 1,
+						"SetParameter": true,
+						"ParameterName": "Leaf1",
+						"Value": 
+						{
+							"R": 0.10588199645280838,
+							"G": 0.18431399762630463,
+							"B": 0.33333298563957214,
+							"A": 1
+						},
+						"OverwriteMaterialInstead": "None"
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"MaterialIndex": 2,
+						"SetParameter": true,
+						"ParameterName": "Leaf1",
+						"Value": 
+						{
+							"R": 0.10588199645280838,
+							"G": 0.18431399762630463,
+							"B": 0.33333298563957214,
+							"A": 1
+						},
+						"OverwriteMaterialInstead": "None"
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Hemlock_Pine_Snow",
+			"SpringMats":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"MaterialIndex": 1,
+						"SetParameter": true,
+						"ParameterName": "Leaf1",
+						"Value": 
+						{
+							"R": 0.10588199645280838,
+							"G": 0.18431399762630463,
+							"B": 0.33333298563957214,
+							"A": 1
+						},
+						"OverwriteMaterialInstead": "None"
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"MaterialIndex": 6,
+						"SetParameter": true,
+						"ParameterName": "Leaf1",
+						"Value": 
+						{
+							"R": 0.10588199645280838,
+							"G": 0.18431399762630463,
+							"B": 0.33333298563957214,
+							"A": 1
+						},
+						"OverwriteMaterialInstead": "None"
+					}
+				}
+			],
+			"SummerMats":
+			[],
+			"FallMats":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"MaterialIndex": 1,
+						"SetParameter": true,
+						"ParameterName": "Leaf1",
+						"Value": 
+						{
+							"R": 0.10588199645280838,
+							"G": 0.18431399762630463,
+							"B": 0.33333298563957214,
+							"A": 1
+						},
+						"OverwriteMaterialInstead": "None"
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"MaterialIndex": 6,
+						"SetParameter": true,
+						"ParameterName": "Leaf1",
+						"Value": 
+						{
+							"R": 0.10588199645280838,
+							"G": 0.18431399762630463,
+							"B": 0.33333298563957214,
+							"A": 1
+						},
+						"OverwriteMaterialInstead": "None"
+					}
+				}
+			],
+			"WinterMats":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"MaterialIndex": 1,
+						"SetParameter": true,
+						"ParameterName": "Leaf1",
+						"Value": 
+						{
+							"R": 0.10588199645280838,
+							"G": 0.18431399762630463,
+							"B": 0.33333298563957214,
+							"A": 1
+						},
+						"OverwriteMaterialInstead": "None"
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"MaterialIndex": 6,
+						"SetParameter": true,
+						"ParameterName": "Leaf1",
+						"Value": 
+						{
+							"R": 0.10588199645280838,
+							"G": 0.18431399762630463,
+							"B": 0.33333298563957214,
+							"A": 1
+						},
+						"OverwriteMaterialInstead": "None"
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Hemlock_Pine_Top_Snow",
+			"SpringMats":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"MaterialIndex": 1,
+						"SetParameter": true,
+						"ParameterName": "Leaf1",
+						"Value": 
+						{
+							"R": 0.10588199645280838,
+							"G": 0.18431399762630463,
+							"B": 0.33333298563957214,
+							"A": 1
+						},
+						"OverwriteMaterialInstead": "None"
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"MaterialIndex": 6,
+						"SetParameter": true,
+						"ParameterName": "Leaf1",
+						"Value": 
+						{
+							"R": 0.10588199645280838,
+							"G": 0.18431399762630463,
+							"B": 0.33333298563957214,
+							"A": 1
+						},
+						"OverwriteMaterialInstead": "None"
+					}
+				}
+			],
+			"SummerMats":
+			[],
+			"FallMats":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"MaterialIndex": 1,
+						"SetParameter": true,
+						"ParameterName": "Leaf1",
+						"Value": 
+						{
+							"R": 0.10588199645280838,
+							"G": 0.18431399762630463,
+							"B": 0.33333298563957214,
+							"A": 1
+						},
+						"OverwriteMaterialInstead": "None"
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"MaterialIndex": 6,
+						"SetParameter": true,
+						"ParameterName": "Leaf1",
+						"Value": 
+						{
+							"R": 0.10588199645280838,
+							"G": 0.18431399762630463,
+							"B": 0.33333298563957214,
+							"A": 1
+						},
+						"OverwriteMaterialInstead": "None"
+					}
+				}
+			],
+			"WinterMats":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"MaterialIndex": 1,
+						"SetParameter": true,
+						"ParameterName": "Leaf1",
+						"Value": 
+						{
+							"R": 0.10588199645280838,
+							"G": 0.18431399762630463,
+							"B": 0.33333298563957214,
+							"A": 1
+						},
+						"OverwriteMaterialInstead": "None"
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"MaterialIndex": 6,
+						"SetParameter": true,
+						"ParameterName": "Leaf1",
+						"Value": 
+						{
+							"R": 0.10588199645280838,
+							"G": 0.18431399762630463,
+							"B": 0.33333298563957214,
+							"A": 1
+						},
+						"OverwriteMaterialInstead": "None"
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Cherry_Tree",
+			"SpringMats":
+			[],
+			"SummerMats":
+			[],
+			"FallMats":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"MaterialIndex": 3,
+						"SetParameter": true,
+						"ParameterName": "Leaf1",
+						"Value": 
+						{
+							"R": 0.74901998043060303,
+							"G": 0.2901960015296936,
+							"B": 0.15294100344181061,
+							"A": 1
+						},
+						"OverwriteMaterialInstead": "None"
+					}
+				}
+			],
+			"WinterMats":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"MaterialIndex": 3,
+						"SetParameter": true,
+						"ParameterName": "Leaf1",
+						"Value": 
+						{
+							"R": 0.33333298563957214,
+							"G": 0.29803898930549622,
+							"B": 0.74901998043060303,
+							"A": 1
+						},
+						"OverwriteMaterialInstead": "None"
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Cave_Cover",
+			"SpringMats":
+			[],
+			"SummerMats":
+			[],
+			"FallMats":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"MaterialIndex": 0,
+						"SetParameter": false,
+						"ParameterName": "Leaf1",
+						"Value": 
+						{
+							"R": 0,
+							"G": 0,
+							"B": 0,
+							"A": 0
+						},
+						"OverwriteMaterialInstead": "Material'/Game/Materials/Environment/Cave_Cover_Grass_Fall.Cave_Cover_Grass_Fall'"
+					}
+				}
+			],
+			"WinterMats":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"MaterialIndex": 0,
+						"SetParameter": false,
+						"ParameterName": "Leaf1",
+						"Value": 
+						{
+							"R": 0,
+							"G": 0,
+							"B": 0,
+							"A": 0
+						},
+						"OverwriteMaterialInstead": "Material'/Game/Materials/Environment/Cave_Cover_Grass_Snow.Cave_Cover_Grass_Snow'"
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Cave_Cover_Limestone",
+			"SpringMats":
+			[],
+			"SummerMats":
+			[],
+			"FallMats":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"MaterialIndex": 0,
+						"SetParameter": false,
+						"ParameterName": "Leaf1",
+						"Value": 
+						{
+							"R": 0,
+							"G": 0,
+							"B": 0,
+							"A": 0
+						},
+						"OverwriteMaterialInstead": "Material'/Game/Materials/Environment/Cave_Cover_Grass_Fall.Cave_Cover_Grass_Fall'"
+					}
+				}
+			],
+			"WinterMats":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"MaterialIndex": 0,
+						"SetParameter": false,
+						"ParameterName": "Leaf1",
+						"Value": 
+						{
+							"R": 0,
+							"G": 0,
+							"B": 0,
+							"A": 0
+						},
+						"OverwriteMaterialInstead": "Material'/Game/Materials/Environment/Cave_Cover_Grass_Snow.Cave_Cover_Grass_Snow'"
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Cave_Cover_Limestone2",
+			"SpringMats":
+			[],
+			"SummerMats":
+			[],
+			"FallMats":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"MaterialIndex": 0,
+						"SetParameter": false,
+						"ParameterName": "Leaf1",
+						"Value": 
+						{
+							"R": 0,
+							"G": 0,
+							"B": 0,
+							"A": 0
+						},
+						"OverwriteMaterialInstead": "Material'/Game/Materials/Environment/Cave_Cover_Grass_Fall.Cave_Cover_Grass_Fall'"
+					}
+				}
+			],
+			"WinterMats":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"MaterialIndex": 0,
+						"SetParameter": false,
+						"ParameterName": "Leaf1",
+						"Value": 
+						{
+							"R": 0,
+							"G": 0,
+							"B": 0,
+							"A": 0
+						},
+						"OverwriteMaterialInstead": "Material'/Game/Materials/Environment/Cave_Cover_Grass_Snow.Cave_Cover_Grass_Snow'"
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Flower_Circle_Day_Lily_Daffodil",
+			"SpringMats":
+			[],
+			"SummerMats":
+			[],
+			"FallMats":
+			[],
+			"WinterMats":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"MaterialIndex": 0,
+						"SetParameter": true,
+						"ParameterName": "Leaves",
+						"Value": 
+						{
+							"R": 0,
+							"G": 0,
+							"B": 0,
+							"A": 0
+						},
+						"OverwriteMaterialInstead": "Material'/Game/Materials/Misc/Blank_Material.Blank_Material'"
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"MaterialIndex": 1,
+						"SetParameter": true,
+						"ParameterName": "Leaves",
+						"Value": 
+						{
+							"R": 0,
+							"G": 0,
+							"B": 0,
+							"A": 0
+						},
+						"OverwriteMaterialInstead": "Material'/Game/Materials/Misc/Blank_Material.Blank_Material'"
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Flower_Circle_Chrysanthemum_Cosmos",
+			"SpringMats":
+			[],
+			"SummerMats":
+			[],
+			"FallMats":
+			[],
+			"WinterMats":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"MaterialIndex": 0,
+						"SetParameter": true,
+						"ParameterName": "Leaves",
+						"Value": 
+						{
+							"R": 0,
+							"G": 0,
+							"B": 0,
+							"A": 0
+						},
+						"OverwriteMaterialInstead": "Material'/Game/Materials/Misc/Blank_Material.Blank_Material'"
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"MaterialIndex": 1,
+						"SetParameter": true,
+						"ParameterName": "Leaves",
+						"Value": 
+						{
+							"R": 0,
+							"G": 0,
+							"B": 0,
+							"A": 0
+						},
+						"OverwriteMaterialInstead": "Material'/Game/Materials/Misc/Blank_Material.Blank_Material'"
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Flower_Circle_Hellebore_Scilla",
+			"SpringMats":
+			[],
+			"SummerMats":
+			[],
+			"FallMats":
+			[],
+			"WinterMats":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"MaterialIndex": 0,
+						"SetParameter": true,
+						"ParameterName": "Leaves",
+						"Value": 
+						{
+							"R": 0,
+							"G": 0,
+							"B": 0,
+							"A": 0
+						},
+						"OverwriteMaterialInstead": "Material'/Game/Materials/Misc/Blank_Material.Blank_Material'"
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"MaterialIndex": 1,
+						"SetParameter": true,
+						"ParameterName": "Leaves",
+						"Value": 
+						{
+							"R": 0,
+							"G": 0,
+							"B": 0,
+							"A": 0
+						},
+						"OverwriteMaterialInstead": "Material'/Game/Materials/Misc/Blank_Material.Blank_Material'"
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Flower_Circle_Chrysanthemum_Cosmos2",
+			"SpringMats":
+			[],
+			"SummerMats":
+			[],
+			"FallMats":
+			[],
+			"WinterMats":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"MaterialIndex": 0,
+						"SetParameter": true,
+						"ParameterName": "Leaves",
+						"Value": 
+						{
+							"R": 0,
+							"G": 0,
+							"B": 0,
+							"A": 0
+						},
+						"OverwriteMaterialInstead": "Material'/Game/Materials/Misc/Blank_Material.Blank_Material'"
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"MaterialIndex": 1,
+						"SetParameter": true,
+						"ParameterName": "Leaves",
+						"Value": 
+						{
+							"R": 0,
+							"G": 0,
+							"B": 0,
+							"A": 0
+						},
+						"OverwriteMaterialInstead": "Material'/Game/Materials/Misc/Blank_Material.Blank_Material'"
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Flower_Circle_Chrysanthemum_Cosmos3",
+			"SpringMats":
+			[],
+			"SummerMats":
+			[],
+			"FallMats":
+			[],
+			"WinterMats":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"MaterialIndex": 0,
+						"SetParameter": true,
+						"ParameterName": "Leaves",
+						"Value": 
+						{
+							"R": 0,
+							"G": 0,
+							"B": 0,
+							"A": 0
+						},
+						"OverwriteMaterialInstead": "Material'/Game/Materials/Misc/Blank_Material.Blank_Material'"
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"MaterialIndex": 1,
+						"SetParameter": true,
+						"ParameterName": "Leaves",
+						"Value": 
+						{
+							"R": 0,
+							"G": 0,
+							"B": 0,
+							"A": 0
+						},
+						"OverwriteMaterialInstead": "Material'/Game/Materials/Misc/Blank_Material.Blank_Material'"
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Flower_Circle_Day_Lily_Daffodil2",
+			"SpringMats":
+			[],
+			"SummerMats":
+			[],
+			"FallMats":
+			[],
+			"WinterMats":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"MaterialIndex": 0,
+						"SetParameter": true,
+						"ParameterName": "Leaves",
+						"Value": 
+						{
+							"R": 0,
+							"G": 0,
+							"B": 0,
+							"A": 0
+						},
+						"OverwriteMaterialInstead": "Material'/Game/Materials/Misc/Blank_Material.Blank_Material'"
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"MaterialIndex": 1,
+						"SetParameter": true,
+						"ParameterName": "Leaves",
+						"Value": 
+						{
+							"R": 0,
+							"G": 0,
+							"B": 0,
+							"A": 0
+						},
+						"OverwriteMaterialInstead": "Material'/Game/Materials/Misc/Blank_Material.Blank_Material'"
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Flower_Circle_Hellebore_Scilla2",
+			"SpringMats":
+			[],
+			"SummerMats":
+			[],
+			"FallMats":
+			[],
+			"WinterMats":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"MaterialIndex": 0,
+						"SetParameter": true,
+						"ParameterName": "Leaves",
+						"Value": 
+						{
+							"R": 0,
+							"G": 0,
+							"B": 0,
+							"A": 0
+						},
+						"OverwriteMaterialInstead": "Material'/Game/Materials/Misc/Blank_Material.Blank_Material'"
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"MaterialIndex": 1,
+						"SetParameter": true,
+						"ParameterName": "Leaves",
+						"Value": 
+						{
+							"R": 0,
+							"G": 0,
+							"B": 0,
+							"A": 0
+						},
+						"OverwriteMaterialInstead": "Material'/Game/Materials/Misc/Blank_Material.Blank_Material'"
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Barberry_Bush_Red",
+			"SpringMats":
+			[],
+			"SummerMats":
+			[],
+			"FallMats":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"MaterialIndex": 2,
+						"SetParameter": true,
+						"ParameterName": "Leaf1",
+						"Value": 
+						{
+							"R": 0.59607797861099243,
+							"G": 0.12156900018453598,
+							"B": 0,
+							"A": 1
+						},
+						"OverwriteMaterialInstead": "None"
+					}
+				}
+			],
+			"WinterMats":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"MaterialIndex": 2,
+						"SetParameter": true,
+						"ParameterName": "Leaf1",
+						"Value": 
+						{
+							"R": 0.5607839822769165,
+							"G": 0.65882402658462524,
+							"B": 0.7176470160484314,
+							"A": 1
+						},
+						"OverwriteMaterialInstead": "None"
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"MaterialIndex": 3,
+						"SetParameter": true,
+						"ParameterName": "Leaf1",
+						"Value": 
+						{
+							"R": 0.5607839822769165,
+							"G": 0.65882402658462524,
+							"B": 0.7176470160484314,
+							"A": 1
+						},
+						"OverwriteMaterialInstead": "None"
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Bad_Weed",
+			"SpringMats":
+			[],
+			"SummerMats":
+			[],
+			"FallMats":
+			[],
+			"WinterMats":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"MaterialIndex": 0,
+						"SetParameter": true,
+						"ParameterName": "Leaves",
+						"Value": 
+						{
+							"R": 0,
+							"G": 0,
+							"B": 0,
+							"A": 0
+						},
+						"OverwriteMaterialInstead": "Material'/Game/Materials/Misc/Blank_Material.Blank_Material'"
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Purple_Weed",
+			"SpringMats":
+			[],
+			"SummerMats":
+			[],
+			"FallMats":
+			[],
+			"WinterMats":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"MaterialIndex": 0,
+						"SetParameter": true,
+						"ParameterName": "Leaves",
+						"Value": 
+						{
+							"R": 0,
+							"G": 0,
+							"B": 0,
+							"A": 0
+						},
+						"OverwriteMaterialInstead": "Material'/Game/Materials/Misc/Blank_Material.Blank_Material'"
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Fern_Straight",
+			"SpringMats":
+			[],
+			"SummerMats":
+			[],
+			"FallMats":
+			[],
+			"WinterMats":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"MaterialIndex": 0,
+						"SetParameter": true,
+						"ParameterName": "Leaves",
+						"Value": 
+						{
+							"R": 0,
+							"G": 0,
+							"B": 0,
+							"A": 0
+						},
+						"OverwriteMaterialInstead": "Material'/Game/Materials/Misc/Blank_Material.Blank_Material'"
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Yew_Pine",
+			"SpringMats":
+			[],
+			"SummerMats":
+			[],
+			"FallMats":
+			[],
+			"WinterMats":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"MaterialIndex": 1,
+						"SetParameter": true,
+						"ParameterName": "Leaf1",
+						"Value": 
+						{
+							"R": 0.10588199645280838,
+							"G": 0.18431399762630463,
+							"B": 0.33333298563957214,
+							"A": 1
+						},
+						"OverwriteMaterialInstead": "None"
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Cypress_Tree",
+			"SpringMats":
+			[],
+			"SummerMats":
+			[],
+			"FallMats":
+			[],
+			"WinterMats":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"MaterialIndex": 2,
+						"SetParameter": true,
+						"ParameterName": "Leaf1",
+						"Value": 
+						{
+							"R": 0,
+							"G": 0,
+							"B": 0,
+							"A": 0
+						},
+						"OverwriteMaterialInstead": "Material'/Game/Materials/Misc/Transparent.Transparent'"
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"MaterialIndex": 3,
+						"SetParameter": true,
+						"ParameterName": "Leaf1",
+						"Value": 
+						{
+							"R": 0,
+							"G": 0,
+							"B": 0,
+							"A": 0
+						},
+						"OverwriteMaterialInstead": "Material'/Game/Materials/Misc/Transparent.Transparent'"
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"MaterialIndex": 6,
+						"SetParameter": true,
+						"ParameterName": "Leaf1",
+						"Value": 
+						{
+							"R": 0,
+							"G": 0,
+							"B": 0,
+							"A": 0
+						},
+						"OverwriteMaterialInstead": "Material'/Game/Materials/Misc/Transparent.Transparent'"
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Swamp_Shape",
+			"SpringMats":
+			[],
+			"SummerMats":
+			[],
+			"FallMats":
+			[],
+			"WinterMats":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"MaterialIndex": 0,
+						"SetParameter": true,
+						"ParameterName": "Leaf1",
+						"Value": 
+						{
+							"R": 0.29844298958778381,
+							"G": 0.53096699714660645,
+							"B": 0.6600000262260437,
+							"A": 1
+						},
+						"OverwriteMaterialInstead": "Material'/Game/Materials/Environment/Swamp_Texture_Blue.Swamp_Texture_Blue'"
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Plum_Tree_Plums",
+			"SpringMats":
+			[],
+			"SummerMats":
+			[],
+			"FallMats":
+			[],
+			"WinterMats":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"MaterialIndex": 3,
+						"SetParameter": true,
+						"ParameterName": "Leaf1",
+						"Value": 
+						{
+							"R": 0,
+							"G": 0,
+							"B": 0,
+							"A": 0
+						},
+						"OverwriteMaterialInstead": "Material'/Game/Materials/Misc/Transparent.Transparent'"
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"MaterialIndex": 2,
+						"SetParameter": true,
+						"ParameterName": "Leaf1",
+						"Value": 
+						{
+							"R": 0.10588199645280838,
+							"G": 0.18431399762630463,
+							"B": 0.33333298563957214,
+							"A": 1
+						},
+						"OverwriteMaterialInstead": "None"
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Lemon_Tree_Lemons",
+			"SpringMats":
+			[],
+			"SummerMats":
+			[],
+			"FallMats":
+			[],
+			"WinterMats":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"MaterialIndex": 3,
+						"SetParameter": true,
+						"ParameterName": "Leaf1",
+						"Value": 
+						{
+							"R": 0,
+							"G": 0,
+							"B": 0,
+							"A": 0
+						},
+						"OverwriteMaterialInstead": "Material'/Game/Materials/Misc/Transparent.Transparent'"
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"MaterialIndex": 2,
+						"SetParameter": true,
+						"ParameterName": "Leaf1",
+						"Value": 
+						{
+							"R": 0.10588199645280838,
+							"G": 0.18431399762630463,
+							"B": 0.33333298563957214,
+							"A": 1
+						},
+						"OverwriteMaterialInstead": "None"
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Scotts_Pine",
+			"SpringMats":
+			[],
+			"SummerMats":
+			[],
+			"FallMats":
+			[],
+			"WinterMats":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"MaterialIndex": 5,
+						"SetParameter": true,
+						"ParameterName": "Leaf1",
+						"Value": 
+						{
+							"R": 0.5607839822769165,
+							"G": 0.65882402658462524,
+							"B": 0.7176470160484314,
+							"A": 1
+						},
+						"OverwriteMaterialInstead": "None"
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"MaterialIndex": 6,
+						"SetParameter": true,
+						"ParameterName": "Leaf1",
+						"Value": 
+						{
+							"R": 0.5607839822769165,
+							"G": 0.65882402658462524,
+							"B": 0.7176470160484314,
+							"A": 1
+						},
+						"OverwriteMaterialInstead": "None"
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"MaterialIndex": 2,
+						"SetParameter": true,
+						"ParameterName": "Leaf1",
+						"Value": 
+						{
+							"R": 0.5607839822769165,
+							"G": 0.65882402658462524,
+							"B": 0.7176470160484314,
+							"A": 1
+						},
+						"OverwriteMaterialInstead": "None"
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Pear_Tree_Pears",
+			"SpringMats":
+			[],
+			"SummerMats":
+			[],
+			"FallMats":
+			[],
+			"WinterMats":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"MaterialIndex": 3,
+						"SetParameter": true,
+						"ParameterName": "Leaf1",
+						"Value": 
+						{
+							"R": 0,
+							"G": 0,
+							"B": 0,
+							"A": 0
+						},
+						"OverwriteMaterialInstead": "Material'/Game/Materials/Misc/Transparent.Transparent'"
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"MaterialIndex": 2,
+						"SetParameter": true,
+						"ParameterName": "Leaf1",
+						"Value": 
+						{
+							"R": 0.10588199645280838,
+							"G": 0.18431399762630463,
+							"B": 0.33333298563957214,
+							"A": 1
+						},
+						"OverwriteMaterialInstead": "None"
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Peach_Tree_Peaches",
+			"SpringMats":
+			[],
+			"SummerMats":
+			[],
+			"FallMats":
+			[],
+			"WinterMats":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"MaterialIndex": 3,
+						"SetParameter": true,
+						"ParameterName": "Leaf1",
+						"Value": 
+						{
+							"R": 0,
+							"G": 0,
+							"B": 0,
+							"A": 0
+						},
+						"OverwriteMaterialInstead": "Material'/Game/Materials/Misc/Transparent.Transparent'"
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"MaterialIndex": 2,
+						"SetParameter": true,
+						"ParameterName": "Leaf1",
+						"Value": 
+						{
+							"R": 0.10588199645280838,
+							"G": 0.18431399762630463,
+							"B": 0.33333298563957214,
+							"A": 1
+						},
+						"OverwriteMaterialInstead": "None"
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Almond_Tree",
+			"SpringMats":
+			[],
+			"SummerMats":
+			[],
+			"FallMats":
+			[],
+			"WinterMats":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"MaterialIndex": 3,
+						"SetParameter": true,
+						"ParameterName": "Leaf1",
+						"Value": 
+						{
+							"R": 0,
+							"G": 0,
+							"B": 0,
+							"A": 0
+						},
+						"OverwriteMaterialInstead": "Material'/Game/Materials/Misc/Transparent.Transparent'"
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"MaterialIndex": 2,
+						"SetParameter": true,
+						"ParameterName": "Leaf1",
+						"Value": 
+						{
+							"R": 0.10588199645280838,
+							"G": 0.18431399762630463,
+							"B": 0.33333298563957214,
+							"A": 1
+						},
+						"OverwriteMaterialInstead": "None"
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Almond_Tree_Small",
+			"SpringMats":
+			[],
+			"SummerMats":
+			[],
+			"FallMats":
+			[],
+			"WinterMats":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"MaterialIndex": 3,
+						"SetParameter": true,
+						"ParameterName": "Leaf1",
+						"Value": 
+						{
+							"R": 0,
+							"G": 0,
+							"B": 0,
+							"A": 0
+						},
+						"OverwriteMaterialInstead": "Material'/Game/Materials/Misc/Transparent.Transparent'"
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"MaterialIndex": 2,
+						"SetParameter": true,
+						"ParameterName": "Leaf1",
+						"Value": 
+						{
+							"R": 0.10588199645280838,
+							"G": 0.18431399762630463,
+							"B": 0.33333298563957214,
+							"A": 1
+						},
+						"OverwriteMaterialInstead": "None"
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Apple_Tree",
+			"SpringMats":
+			[],
+			"SummerMats":
+			[],
+			"FallMats":
+			[],
+			"WinterMats":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"MaterialIndex": 3,
+						"SetParameter": true,
+						"ParameterName": "Leaf1",
+						"Value": 
+						{
+							"R": 0,
+							"G": 0,
+							"B": 0,
+							"A": 0
+						},
+						"OverwriteMaterialInstead": "Material'/Game/Materials/Misc/Transparent.Transparent'"
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"MaterialIndex": 2,
+						"SetParameter": true,
+						"ParameterName": "Leaf1",
+						"Value": 
+						{
+							"R": 0.10588199645280838,
+							"G": 0.18431399762630463,
+							"B": 0.33333298563957214,
+							"A": 1
+						},
+						"OverwriteMaterialInstead": "None"
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Apple_Tree_Small",
+			"SpringMats":
+			[],
+			"SummerMats":
+			[],
+			"FallMats":
+			[],
+			"WinterMats":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"MaterialIndex": 3,
+						"SetParameter": true,
+						"ParameterName": "Leaf1",
+						"Value": 
+						{
+							"R": 0,
+							"G": 0,
+							"B": 0,
+							"A": 0
+						},
+						"OverwriteMaterialInstead": "Material'/Game/Materials/Misc/Transparent.Transparent'"
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"MaterialIndex": 2,
+						"SetParameter": true,
+						"ParameterName": "Leaf1",
+						"Value": 
+						{
+							"R": 0.10588199645280838,
+							"G": 0.18431399762630463,
+							"B": 0.33333298563957214,
+							"A": 1
+						},
+						"OverwriteMaterialInstead": "None"
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Apricot_Tree",
+			"SpringMats":
+			[],
+			"SummerMats":
+			[],
+			"FallMats":
+			[],
+			"WinterMats":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"MaterialIndex": 3,
+						"SetParameter": true,
+						"ParameterName": "Leaf1",
+						"Value": 
+						{
+							"R": 0,
+							"G": 0,
+							"B": 0,
+							"A": 0
+						},
+						"OverwriteMaterialInstead": "Material'/Game/Materials/Misc/Transparent.Transparent'"
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"MaterialIndex": 2,
+						"SetParameter": true,
+						"ParameterName": "Leaf1",
+						"Value": 
+						{
+							"R": 0.10588199645280838,
+							"G": 0.18431399762630463,
+							"B": 0.33333298563957214,
+							"A": 1
+						},
+						"OverwriteMaterialInstead": "None"
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Apricot_Tree_Small",
+			"SpringMats":
+			[],
+			"SummerMats":
+			[],
+			"FallMats":
+			[],
+			"WinterMats":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"MaterialIndex": 3,
+						"SetParameter": true,
+						"ParameterName": "Leaf1",
+						"Value": 
+						{
+							"R": 0,
+							"G": 0,
+							"B": 0,
+							"A": 0
+						},
+						"OverwriteMaterialInstead": "Material'/Game/Materials/Misc/Transparent.Transparent'"
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"MaterialIndex": 2,
+						"SetParameter": true,
+						"ParameterName": "Leaf1",
+						"Value": 
+						{
+							"R": 0.10588199645280838,
+							"G": 0.18431399762630463,
+							"B": 0.33333298563957214,
+							"A": 1
+						},
+						"OverwriteMaterialInstead": "None"
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Plum_Tree",
+			"SpringMats":
+			[],
+			"SummerMats":
+			[],
+			"FallMats":
+			[],
+			"WinterMats":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"MaterialIndex": 3,
+						"SetParameter": true,
+						"ParameterName": "Leaf1",
+						"Value": 
+						{
+							"R": 0,
+							"G": 0,
+							"B": 0,
+							"A": 0
+						},
+						"OverwriteMaterialInstead": "Material'/Game/Materials/Misc/Transparent.Transparent'"
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"MaterialIndex": 2,
+						"SetParameter": true,
+						"ParameterName": "Leaf1",
+						"Value": 
+						{
+							"R": 0.10588199645280838,
+							"G": 0.18431399762630463,
+							"B": 0.33333298563957214,
+							"A": 1
+						},
+						"OverwriteMaterialInstead": "None"
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Walnut_Tree",
+			"SpringMats":
+			[],
+			"SummerMats":
+			[],
+			"FallMats":
+			[],
+			"WinterMats":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"MaterialIndex": 3,
+						"SetParameter": true,
+						"ParameterName": "Leaf1",
+						"Value": 
+						{
+							"R": 0,
+							"G": 0,
+							"B": 0,
+							"A": 0
+						},
+						"OverwriteMaterialInstead": "Material'/Game/Materials/Misc/Transparent.Transparent'"
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"MaterialIndex": 2,
+						"SetParameter": true,
+						"ParameterName": "Leaf1",
+						"Value": 
+						{
+							"R": 0.10588199645280838,
+							"G": 0.18431399762630463,
+							"B": 0.33333298563957214,
+							"A": 1
+						},
+						"OverwriteMaterialInstead": "None"
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Walnut_Tree_Small",
+			"SpringMats":
+			[],
+			"SummerMats":
+			[],
+			"FallMats":
+			[],
+			"WinterMats":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"MaterialIndex": 3,
+						"SetParameter": true,
+						"ParameterName": "Leaf1",
+						"Value": 
+						{
+							"R": 0,
+							"G": 0,
+							"B": 0,
+							"A": 0
+						},
+						"OverwriteMaterialInstead": "Material'/Game/Materials/Misc/Transparent.Transparent'"
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"MaterialIndex": 2,
+						"SetParameter": true,
+						"ParameterName": "Leaf1",
+						"Value": 
+						{
+							"R": 0.10588199645280838,
+							"G": 0.18431399762630463,
+							"B": 0.33333298563957214,
+							"A": 1
+						},
+						"OverwriteMaterialInstead": "None"
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Pear_Tree",
+			"SpringMats":
+			[],
+			"SummerMats":
+			[],
+			"FallMats":
+			[],
+			"WinterMats":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"MaterialIndex": 3,
+						"SetParameter": true,
+						"ParameterName": "Leaf1",
+						"Value": 
+						{
+							"R": 0,
+							"G": 0,
+							"B": 0,
+							"A": 0
+						},
+						"OverwriteMaterialInstead": "Material'/Game/Materials/Misc/Transparent.Transparent'"
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"MaterialIndex": 2,
+						"SetParameter": true,
+						"ParameterName": "Leaf1",
+						"Value": 
+						{
+							"R": 0.10588199645280838,
+							"G": 0.18431399762630463,
+							"B": 0.33333298563957214,
+							"A": 1
+						},
+						"OverwriteMaterialInstead": "None"
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Pear_Tree_Small",
+			"SpringMats":
+			[],
+			"SummerMats":
+			[],
+			"FallMats":
+			[],
+			"WinterMats":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"MaterialIndex": 3,
+						"SetParameter": true,
+						"ParameterName": "Leaf1",
+						"Value": 
+						{
+							"R": 0,
+							"G": 0,
+							"B": 0,
+							"A": 0
+						},
+						"OverwriteMaterialInstead": "Material'/Game/Materials/Misc/Transparent.Transparent'"
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"MaterialIndex": 2,
+						"SetParameter": true,
+						"ParameterName": "Leaf1",
+						"Value": 
+						{
+							"R": 0.10588199645280838,
+							"G": 0.18431399762630463,
+							"B": 0.33333298563957214,
+							"A": 1
+						},
+						"OverwriteMaterialInstead": "None"
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Chestnut_Tree",
+			"SpringMats":
+			[],
+			"SummerMats":
+			[],
+			"FallMats":
+			[],
+			"WinterMats":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"MaterialIndex": 3,
+						"SetParameter": true,
+						"ParameterName": "Leaf1",
+						"Value": 
+						{
+							"R": 0,
+							"G": 0,
+							"B": 0,
+							"A": 0
+						},
+						"OverwriteMaterialInstead": "Material'/Game/Materials/Misc/Transparent.Transparent'"
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"MaterialIndex": 2,
+						"SetParameter": true,
+						"ParameterName": "Leaf1",
+						"Value": 
+						{
+							"R": 0.10588199645280838,
+							"G": 0.18431399762630463,
+							"B": 0.33333298563957214,
+							"A": 1
+						},
+						"OverwriteMaterialInstead": "None"
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Chestnut_Tree_Small",
+			"SpringMats":
+			[],
+			"SummerMats":
+			[],
+			"FallMats":
+			[],
+			"WinterMats":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"MaterialIndex": 3,
+						"SetParameter": true,
+						"ParameterName": "Leaf1",
+						"Value": 
+						{
+							"R": 0,
+							"G": 0,
+							"B": 0,
+							"A": 0
+						},
+						"OverwriteMaterialInstead": "Material'/Game/Materials/Misc/Transparent.Transparent'"
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"MaterialIndex": 2,
+						"SetParameter": true,
+						"ParameterName": "Leaf1",
+						"Value": 
+						{
+							"R": 0.10588199645280838,
+							"G": 0.18431399762630463,
+							"B": 0.33333298563957214,
+							"A": 1
+						},
+						"OverwriteMaterialInstead": "None"
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Cherry_Tree_Small",
+			"SpringMats":
+			[],
+			"SummerMats":
+			[],
+			"FallMats":
+			[],
+			"WinterMats":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"MaterialIndex": 3,
+						"SetParameter": true,
+						"ParameterName": "Leaf1",
+						"Value": 
+						{
+							"R": 0,
+							"G": 0,
+							"B": 0,
+							"A": 0
+						},
+						"OverwriteMaterialInstead": "Material'/Game/Materials/Misc/Transparent.Transparent'"
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"MaterialIndex": 2,
+						"SetParameter": true,
+						"ParameterName": "Leaf1",
+						"Value": 
+						{
+							"R": 0.10588199645280838,
+							"G": 0.18431399762630463,
+							"B": 0.33333298563957214,
+							"A": 1
+						},
+						"OverwriteMaterialInstead": "None"
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Lemon_Tree",
+			"SpringMats":
+			[],
+			"SummerMats":
+			[],
+			"FallMats":
+			[],
+			"WinterMats":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"MaterialIndex": 3,
+						"SetParameter": true,
+						"ParameterName": "Leaf1",
+						"Value": 
+						{
+							"R": 0,
+							"G": 0,
+							"B": 0,
+							"A": 0
+						},
+						"OverwriteMaterialInstead": "Material'/Game/Materials/Misc/Transparent.Transparent'"
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"MaterialIndex": 2,
+						"SetParameter": true,
+						"ParameterName": "Leaf1",
+						"Value": 
+						{
+							"R": 0.10588199645280838,
+							"G": 0.18431399762630463,
+							"B": 0.33333298563957214,
+							"A": 1
+						},
+						"OverwriteMaterialInstead": "None"
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Lemon_Tree_Small",
+			"SpringMats":
+			[],
+			"SummerMats":
+			[],
+			"FallMats":
+			[],
+			"WinterMats":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"MaterialIndex": 3,
+						"SetParameter": true,
+						"ParameterName": "Leaf1",
+						"Value": 
+						{
+							"R": 0,
+							"G": 0,
+							"B": 0,
+							"A": 0
+						},
+						"OverwriteMaterialInstead": "Material'/Game/Materials/Misc/Transparent.Transparent'"
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"MaterialIndex": 2,
+						"SetParameter": true,
+						"ParameterName": "Leaf1",
+						"Value": 
+						{
+							"R": 0.10588199645280838,
+							"G": 0.18431399762630463,
+							"B": 0.33333298563957214,
+							"A": 1
+						},
+						"OverwriteMaterialInstead": "None"
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Macadamia_Tree",
+			"SpringMats":
+			[],
+			"SummerMats":
+			[],
+			"FallMats":
+			[],
+			"WinterMats":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"MaterialIndex": 3,
+						"SetParameter": true,
+						"ParameterName": "Leaf1",
+						"Value": 
+						{
+							"R": 0,
+							"G": 0,
+							"B": 0,
+							"A": 0
+						},
+						"OverwriteMaterialInstead": "Material'/Game/Materials/Misc/Transparent.Transparent'"
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"MaterialIndex": 2,
+						"SetParameter": true,
+						"ParameterName": "Leaf1",
+						"Value": 
+						{
+							"R": 0.10588199645280838,
+							"G": 0.18431399762630463,
+							"B": 0.33333298563957214,
+							"A": 1
+						},
+						"OverwriteMaterialInstead": "None"
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Macadamia_Tree_Small",
+			"SpringMats":
+			[],
+			"SummerMats":
+			[],
+			"FallMats":
+			[],
+			"WinterMats":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"MaterialIndex": 3,
+						"SetParameter": true,
+						"ParameterName": "Leaf1",
+						"Value": 
+						{
+							"R": 0,
+							"G": 0,
+							"B": 0,
+							"A": 0
+						},
+						"OverwriteMaterialInstead": "Material'/Game/Materials/Misc/Transparent.Transparent'"
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"MaterialIndex": 2,
+						"SetParameter": true,
+						"ParameterName": "Leaf1",
+						"Value": 
+						{
+							"R": 0.10588199645280838,
+							"G": 0.18431399762630463,
+							"B": 0.33333298563957214,
+							"A": 1
+						},
+						"OverwriteMaterialInstead": "None"
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Pistachio_Tree",
+			"SpringMats":
+			[],
+			"SummerMats":
+			[],
+			"FallMats":
+			[],
+			"WinterMats":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"MaterialIndex": 3,
+						"SetParameter": true,
+						"ParameterName": "Leaf1",
+						"Value": 
+						{
+							"R": 0,
+							"G": 0,
+							"B": 0,
+							"A": 0
+						},
+						"OverwriteMaterialInstead": "Material'/Game/Materials/Misc/Transparent.Transparent'"
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"MaterialIndex": 2,
+						"SetParameter": true,
+						"ParameterName": "Leaf1",
+						"Value": 
+						{
+							"R": 0.10588199645280838,
+							"G": 0.18431399762630463,
+							"B": 0.33333298563957214,
+							"A": 1
+						},
+						"OverwriteMaterialInstead": "None"
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Pistachio_Tree_Small",
+			"SpringMats":
+			[],
+			"SummerMats":
+			[],
+			"FallMats":
+			[],
+			"WinterMats":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"MaterialIndex": 3,
+						"SetParameter": true,
+						"ParameterName": "Leaf1",
+						"Value": 
+						{
+							"R": 0,
+							"G": 0,
+							"B": 0,
+							"A": 0
+						},
+						"OverwriteMaterialInstead": "Material'/Game/Materials/Misc/Transparent.Transparent'"
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"MaterialIndex": 2,
+						"SetParameter": true,
+						"ParameterName": "Leaf1",
+						"Value": 
+						{
+							"R": 0.10588199645280838,
+							"G": 0.18431399762630463,
+							"B": 0.33333298563957214,
+							"A": 1
+						},
+						"OverwriteMaterialInstead": "None"
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Japanese_Maple2",
+			"SpringMats":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"MaterialIndex": 2,
+						"SetParameter": true,
+						"ParameterName": "Leaf1",
+						"Value": 
+						{
+							"R": 0.93725502490997314,
+							"G": 0.32941201329231262,
+							"B": 0.81568598747253418,
+							"A": 1
+						},
+						"OverwriteMaterialInstead": "None"
+					}
+				}
+			],
+			"SummerMats":
+			[],
+			"FallMats":
+			[],
+			"WinterMats":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"MaterialIndex": 2,
+						"SetParameter": true,
+						"ParameterName": "Leaf1",
+						"Value": 
+						{
+							"R": 0.10588199645280838,
+							"G": 0.18431399762630463,
+							"B": 0.33333298563957214,
+							"A": 1
+						},
+						"OverwriteMaterialInstead": "None"
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Japense_Maple",
+			"SpringMats":
+			[],
+			"SummerMats":
+			[],
+			"FallMats":
+			[],
+			"WinterMats":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"MaterialIndex": 3,
+						"SetParameter": true,
+						"ParameterName": "Leaf1",
+						"Value": 
+						{
+							"R": 0,
+							"G": 0,
+							"B": 0,
+							"A": 0
+						},
+						"OverwriteMaterialInstead": "Material'/Game/Materials/Misc/Transparent.Transparent'"
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"MaterialIndex": 2,
+						"SetParameter": true,
+						"ParameterName": "Leaf1",
+						"Value": 
+						{
+							"R": 0.10588199645280838,
+							"G": 0.18431399762630463,
+							"B": 0.33333298563957214,
+							"A": 1
+						},
+						"OverwriteMaterialInstead": "None"
+					}
+				}
+			]
+		}
+	]
+}

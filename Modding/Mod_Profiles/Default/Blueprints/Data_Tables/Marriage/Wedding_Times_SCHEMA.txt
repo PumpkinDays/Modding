@@ -1,0 +1,4 @@
+Wedding_Times Structure:
+
+Hour: integer
+Minute: integer

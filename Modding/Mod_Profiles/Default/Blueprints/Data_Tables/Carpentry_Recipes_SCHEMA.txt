@@ -1,0 +1,22 @@
+Carpentry_Recipes Structure:
+
+Row: string
+Thumbnail: UTexture2D*
+FriendlyName: string
+Category: string
+Slots: TArray-FCarpentrySlotShort
+ProducedFurnitureItem: string
+RecipeDifficulty: ONE of
+	Easy
+	Medium
+	Hard
+	Master
+Steps: TArray-TEnumAsByte<ECookingStep>
+PreviewLocOffset: 
+	X: float
+	Y: float
+	Z: float
+PreviewMeshOffset: 
+	X: float
+	Y: float
+	Z: float

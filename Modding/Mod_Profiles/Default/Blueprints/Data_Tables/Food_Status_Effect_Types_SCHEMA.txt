@@ -1,0 +1,16 @@
+Food_Status_Effect_Types Structure:
+
+Type: ONE of
+	NoEffect
+	SpeedMultiplier
+	StaminaUsageDivider
+	FishingTimerDivider
+	HeartPointsAdder
+	SleepyDelay
+	ReverseMovement
+	BugRepellent
+Strength: float
+DurationMinutes: integer
+StatusIcon: UTexture2D*
+TopOfIconPercentage: float
+BottomOfIconPercentage: float

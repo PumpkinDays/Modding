@@ -1,0 +1,18 @@
+Furniture_Classes_Data Structure:
+
+Class: TSubclassOf<AFurnitureMasterCpp> 
+Size: string
+ForGiftShop: true/false
+ExtraSettings: 
+	InteractionSound: TAssetPtr<USoundBase>
+	AnimationSkelMesh: TAssetPtr<USkeletalMesh>
+	AnimationLength: float
+	SkelAnimationToPlay: TAssetPtr<UAnimationAsset>
+	InteractionMaterial: TArray-TAssetPtr<UMaterialInterface>
+	InteractionMaterialIndex: integer
+	InteractionParticle: TAssetPtr<UParticleSystem>
+	ParticleOffset: 
+		X: float
+		Y: float
+		Z: float
+	ParticleMaxTime: float

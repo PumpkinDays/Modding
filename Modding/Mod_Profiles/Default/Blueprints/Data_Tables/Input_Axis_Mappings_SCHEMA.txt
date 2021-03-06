@@ -1,0 +1,11 @@
+Input_Axis_Mappings Structure:
+
+InputName: string
+InputDisplayName: string
+Scale: float
+DefaultValue: 
+	KeyName: string
+DefaultValueGamepad: 
+	KeyName: string
+IsKeyboardMouse: true/false
+IsGamepad: true/false

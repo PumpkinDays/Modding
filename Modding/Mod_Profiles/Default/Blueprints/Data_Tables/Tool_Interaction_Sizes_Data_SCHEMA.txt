@@ -1,0 +1,3 @@
+Tool_Interaction_Sizes_Data Structure:
+
+IntProperty: integer

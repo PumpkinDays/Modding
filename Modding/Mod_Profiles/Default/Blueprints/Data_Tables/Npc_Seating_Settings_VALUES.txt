@@ -1,0 +1,711 @@
+{
+	"Rows": 
+	[
+		{
+			"RowName": "Royal_Chair",
+			"SeatingPositions":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RelativeLocation": 
+						{
+							"X": 0,
+							"Y": 30,
+							"Z": 80
+						},
+						"RelativeRotation": 
+						{
+							"Pitch": 0,
+							"Yaw": 90,
+							"Roll": 0
+						}
+					}
+				}
+			],
+			"SittingAnim": "AnimSequence'/Game/Character/Animations/Sitting_Idle_Hands_At_Side.Sitting_Idle_Hands_At_Side'",
+			"ChildSittingAnim": "None"
+		},
+		{
+			"RowName": "Checkered_Chair",
+			"SeatingPositions":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RelativeLocation": 
+						{
+							"X": 0,
+							"Y": 30,
+							"Z": 97
+						},
+						"RelativeRotation": 
+						{
+							"Pitch": 0,
+							"Yaw": 90,
+							"Roll": 0
+						}
+					}
+				}
+			],
+			"SittingAnim": "AnimSequence'/Game/Character/Animations/Sitting_Idle_Hands_At_Side.Sitting_Idle_Hands_At_Side'",
+			"ChildSittingAnim": "None"
+		},
+		{
+			"RowName": "Checkered_Chair_Drinking",
+			"SeatingPositions":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RelativeLocation": 
+						{
+							"X": 0,
+							"Y": 30,
+							"Z": 97
+						},
+						"RelativeRotation": 
+						{
+							"Pitch": 0,
+							"Yaw": 90,
+							"Roll": 0
+						}
+					}
+				}
+			],
+			"SittingAnim": "AnimSequence'/Game/Character/Animations/Sitting_Idle_Drinking.Sitting_Idle_Drinking'",
+			"ChildSittingAnim": "None"
+		},
+		{
+			"RowName": "Checkered_Chair_Eat",
+			"SeatingPositions":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RelativeLocation": 
+						{
+							"X": 0,
+							"Y": 30,
+							"Z": 97
+						},
+						"RelativeRotation": 
+						{
+							"Pitch": 0,
+							"Yaw": 90,
+							"Roll": 0
+						}
+					}
+				}
+			],
+			"SittingAnim": "AnimSequence'/Game/Character/Animations/Sitting_Eating.Sitting_Eating'",
+			"ChildSittingAnim": "None"
+		},
+		{
+			"RowName": "Basic_Chair",
+			"SeatingPositions":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RelativeLocation": 
+						{
+							"X": 0,
+							"Y": 30,
+							"Z": 78
+						},
+						"RelativeRotation": 
+						{
+							"Pitch": 0,
+							"Yaw": 90,
+							"Roll": 0
+						}
+					}
+				}
+			],
+			"SittingAnim": "AnimSequence'/Game/Character/Animations/Sitting_Idle_Hands_At_Side.Sitting_Idle_Hands_At_Side'",
+			"ChildSittingAnim": "None"
+		},
+		{
+			"RowName": "Folding_Chair",
+			"SeatingPositions":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RelativeLocation": 
+						{
+							"X": 0,
+							"Y": 30,
+							"Z": 90
+						},
+						"RelativeRotation": 
+						{
+							"Pitch": 0,
+							"Yaw": 90,
+							"Roll": 0
+						}
+					}
+				}
+			],
+			"SittingAnim": "AnimSequence'/Game/Character/Animations/Sitting_Idle_Hands_At_Side.Sitting_Idle_Hands_At_Side'",
+			"ChildSittingAnim": "None"
+		},
+		{
+			"RowName": "Basic_Cushion_Chair_Cafe",
+			"SeatingPositions":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RelativeLocation": 
+						{
+							"X": 0,
+							"Y": 30,
+							"Z": 80
+						},
+						"RelativeRotation": 
+						{
+							"Pitch": 0,
+							"Yaw": 90,
+							"Roll": 0
+						}
+					}
+				}
+			],
+			"SittingAnim": "AnimSequence'/Game/Character/Animations/Sitting_Idle_Hands_At_Side.Sitting_Idle_Hands_At_Side'",
+			"ChildSittingAnim": "None"
+		},
+		{
+			"RowName": "Basic_Chair_Eating",
+			"SeatingPositions":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RelativeLocation": 
+						{
+							"X": 0,
+							"Y": 30,
+							"Z": 80
+						},
+						"RelativeRotation": 
+						{
+							"Pitch": 0,
+							"Yaw": 90,
+							"Roll": 0
+						}
+					}
+				}
+			],
+			"SittingAnim": "AnimSequence'/Game/Character/Animations/Sitting_Eating.Sitting_Eating'",
+			"ChildSittingAnim": "None"
+		},
+		{
+			"RowName": "Basic_Cushion_Chair_Cafe_Eating",
+			"SeatingPositions":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RelativeLocation": 
+						{
+							"X": 0,
+							"Y": 30,
+							"Z": 80
+						},
+						"RelativeRotation": 
+						{
+							"Pitch": 0,
+							"Yaw": 90,
+							"Roll": 0
+						}
+					}
+				}
+			],
+			"SittingAnim": "AnimSequence'/Game/Character/Animations/Sitting_Eating.Sitting_Eating'",
+			"ChildSittingAnim": "None"
+		},
+		{
+			"RowName": "Bench_Plain",
+			"SeatingPositions":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RelativeLocation": 
+						{
+							"X": 0,
+							"Y": 30,
+							"Z": 80
+						},
+						"RelativeRotation": 
+						{
+							"Pitch": 0,
+							"Yaw": 90,
+							"Roll": 0
+						}
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RelativeLocation": 
+						{
+							"X": 50,
+							"Y": 30,
+							"Z": 88
+						},
+						"RelativeRotation": 
+						{
+							"Pitch": 0,
+							"Yaw": 90,
+							"Roll": 0
+						}
+					}
+				}
+			],
+			"SittingAnim": "AnimSequence'/Game/Character/Animations/Sitting_Idle_Hands_At_Side.Sitting_Idle_Hands_At_Side'",
+			"ChildSittingAnim": "None"
+		},
+		{
+			"RowName": "Antique_Chair",
+			"SeatingPositions":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RelativeLocation": 
+						{
+							"X": 0,
+							"Y": 30,
+							"Z": 80
+						},
+						"RelativeRotation": 
+						{
+							"Pitch": 0,
+							"Yaw": 90,
+							"Roll": 0
+						}
+					}
+				}
+			],
+			"SittingAnim": "AnimSequence'/Game/Character/Animations/Sitting_Idle_Hands_At_Side.Sitting_Idle_Hands_At_Side'",
+			"ChildSittingAnim": "None"
+		},
+		{
+			"RowName": "Basic_Couch",
+			"SeatingPositions":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RelativeLocation": 
+						{
+							"X": -30,
+							"Y": 60,
+							"Z": 80
+						},
+						"RelativeRotation": 
+						{
+							"Pitch": 0,
+							"Yaw": 90,
+							"Roll": 0
+						}
+					}
+				}
+			],
+			"SittingAnim": "AnimSequence'/Game/Character/Animations/Sitting_Idle_Hands_At_Side.Sitting_Idle_Hands_At_Side'",
+			"ChildSittingAnim": "None"
+		},
+		{
+			"RowName": "Basic_Couch_Copy1",
+			"SeatingPositions":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RelativeLocation": 
+						{
+							"X": -30,
+							"Y": 60,
+							"Z": 80
+						},
+						"RelativeRotation": 
+						{
+							"Pitch": 0,
+							"Yaw": 90,
+							"Roll": 0
+						}
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RelativeLocation": 
+						{
+							"X": 50,
+							"Y": 60,
+							"Z": 88
+						},
+						"RelativeRotation": 
+						{
+							"Pitch": 0,
+							"Yaw": 90,
+							"Roll": 0
+						}
+					}
+				}
+			],
+			"SittingAnim": "AnimSequence'/Game/Character/Animations/Sitting_Idle_Hands_At_Side.Sitting_Idle_Hands_At_Side'",
+			"ChildSittingAnim": "None"
+		},
+		{
+			"RowName": "Sleek_Couch",
+			"SeatingPositions":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RelativeLocation": 
+						{
+							"X": -30,
+							"Y": 60,
+							"Z": 80
+						},
+						"RelativeRotation": 
+						{
+							"Pitch": 0,
+							"Yaw": 90,
+							"Roll": 0
+						}
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RelativeLocation": 
+						{
+							"X": 50,
+							"Y": 60,
+							"Z": 88
+						},
+						"RelativeRotation": 
+						{
+							"Pitch": 0,
+							"Yaw": 90,
+							"Roll": 0
+						}
+					}
+				}
+			],
+			"SittingAnim": "AnimSequence'/Game/Character/Animations/Sitting_Idle_Hands_At_Side.Sitting_Idle_Hands_At_Side'",
+			"ChildSittingAnim": "None"
+		},
+		{
+			"RowName": "Cafe_Outdoor_Chair",
+			"SeatingPositions":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RelativeLocation": 
+						{
+							"X": -5,
+							"Y": 30,
+							"Z": 80
+						},
+						"RelativeRotation": 
+						{
+							"Pitch": 0,
+							"Yaw": 90,
+							"Roll": 0
+						}
+					}
+				}
+			],
+			"SittingAnim": "AnimSequence'/Game/Character/Animations/Sitting_Idle_Hands_At_Side.Sitting_Idle_Hands_At_Side'",
+			"ChildSittingAnim": "None"
+		},
+		{
+			"RowName": "Office_Chair",
+			"SeatingPositions":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RelativeLocation": 
+						{
+							"X": 0,
+							"Y": 30,
+							"Z": 97
+						},
+						"RelativeRotation": 
+						{
+							"Pitch": 0,
+							"Yaw": 90,
+							"Roll": 0
+						}
+					}
+				}
+			],
+			"SittingAnim": "AnimSequence'/Game/Character/Animations/Typing.Typing'",
+			"ChildSittingAnim": "None"
+		},
+		{
+			"RowName": "Office_Chair_Sewing",
+			"SeatingPositions":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RelativeLocation": 
+						{
+							"X": 0,
+							"Y": 30,
+							"Z": 97
+						},
+						"RelativeRotation": 
+						{
+							"Pitch": 0,
+							"Yaw": 90,
+							"Roll": 0
+						}
+					}
+				}
+			],
+			"SittingAnim": "AnimSequence'/Game/Character/Animations/Sewing_Sitting.Sewing_Sitting'",
+			"ChildSittingAnim": "None"
+		},
+		{
+			"RowName": "Basic_SingleBed",
+			"SeatingPositions":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RelativeLocation": 
+						{
+							"X": -50,
+							"Y": 0,
+							"Z": 100
+						},
+						"RelativeRotation": 
+						{
+							"Pitch": 0,
+							"Yaw": -180,
+							"Roll": 0
+						}
+					}
+				}
+			],
+			"SittingAnim": "AnimSequence'/Game/Character/Animations/Laying_on_BedV2.Laying_on_BedV2'",
+			"ChildSittingAnim": "AnimSequence'/Game/Character/Child/Sleep_C.Sleep_C'"
+		},
+		{
+			"RowName": "Antique_Chair_Sort",
+			"SeatingPositions":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RelativeLocation": 
+						{
+							"X": 0,
+							"Y": 30,
+							"Z": 80
+						},
+						"RelativeRotation": 
+						{
+							"Pitch": 0,
+							"Yaw": 90,
+							"Roll": 0
+						}
+					}
+				}
+			],
+			"SittingAnim": "AnimSequence'/Game/Character/Animations/Sorting_Paper.Sorting_Paper'",
+			"ChildSittingAnim": "None"
+		},
+		{
+			"RowName": "Bench_Beach_Classic",
+			"SeatingPositions":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RelativeLocation": 
+						{
+							"X": -30,
+							"Y": -10,
+							"Z": 80
+						},
+						"RelativeRotation": 
+						{
+							"Pitch": 0,
+							"Yaw": 90,
+							"Roll": 0
+						}
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RelativeLocation": 
+						{
+							"X": 50,
+							"Y": 60,
+							"Z": 88
+						},
+						"RelativeRotation": 
+						{
+							"Pitch": 0,
+							"Yaw": 90,
+							"Roll": 0
+						}
+					}
+				}
+			],
+			"SittingAnim": "AnimSequence'/Game/Character/Animations/Sitting_Idle_Hands_At_Side.Sitting_Idle_Hands_At_Side'",
+			"ChildSittingAnim": "None"
+		},
+		{
+			"RowName": "Bench_Beach_Classic_Reading",
+			"SeatingPositions":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RelativeLocation": 
+						{
+							"X": -30,
+							"Y": -10,
+							"Z": 80
+						},
+						"RelativeRotation": 
+						{
+							"Pitch": 0,
+							"Yaw": 90,
+							"Roll": 0
+						}
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RelativeLocation": 
+						{
+							"X": 50,
+							"Y": 60,
+							"Z": 88
+						},
+						"RelativeRotation": 
+						{
+							"Pitch": 0,
+							"Yaw": 90,
+							"Roll": 0
+						}
+					}
+				}
+			],
+			"SittingAnim": "AnimSequence'/Game/Character/Animations/Sitting_Idle_Reading.Sitting_Idle_Reading'",
+			"ChildSittingAnim": "None"
+		},
+		{
+			"RowName": "Basic_DoubleBed",
+			"SeatingPositions":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RelativeLocation": 
+						{
+							"X": -10,
+							"Y": 0,
+							"Z": 100
+						},
+						"RelativeRotation": 
+						{
+							"Pitch": 0,
+							"Yaw": -180,
+							"Roll": 0
+						}
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RelativeLocation": 
+						{
+							"X": -90,
+							"Y": 0,
+							"Z": 100
+						},
+						"RelativeRotation": 
+						{
+							"Pitch": 0,
+							"Yaw": -180,
+							"Roll": 0
+						}
+					}
+				}
+			],
+			"SittingAnim": "AnimSequence'/Game/Character/Animations/Laying_on_BedV2.Laying_on_BedV2'",
+			"ChildSittingAnim": "None"
+		},
+		{
+			"RowName": "Hay_Square_Seat",
+			"SeatingPositions":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RelativeLocation": 
+						{
+							"X": 0,
+							"Y": 30,
+							"Z": 97
+						},
+						"RelativeRotation": 
+						{
+							"Pitch": 0,
+							"Yaw": 90,
+							"Roll": 0
+						}
+					}
+				}
+			],
+			"SittingAnim": "AnimSequence'/Game/Character/Animations/Sitting_Idle_Hands_At_Side.Sitting_Idle_Hands_At_Side'",
+			"ChildSittingAnim": "None"
+		}
+	]
+}

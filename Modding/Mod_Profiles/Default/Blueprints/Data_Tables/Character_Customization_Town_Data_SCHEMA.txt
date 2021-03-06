@@ -1,0 +1,6 @@
+Character_Customization_Town_Data Structure:
+
+RowName: string
+Town: string
+Description: string
+Thumbnail: UTexture2D*

@@ -1,0 +1,16 @@
+Shop_List_Data Structure:
+
+Category1: 
+	Spring: TArray-FName
+	Summer: TArray-FName
+	Fall: TArray-FName
+	Winter: TArray-FName
+Category2: 
+	Spring: TArray-FName
+	Summer: TArray-FName
+	Fall: TArray-FName
+	Winter: TArray-FName
+Category1Title: string
+Category1Num: integer
+Category2Num: integer
+BuyFromPlayerCategories: TArray-TEnumAsByte<EInventoryItemCategory>

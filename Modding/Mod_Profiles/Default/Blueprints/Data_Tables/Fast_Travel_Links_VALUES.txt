@@ -1,0 +1,210 @@
+{
+	"Rows": 
+	[
+		{
+			"RowName": "Default_Land-Land_Test_1",
+			"Cost": 100,
+			"TravelDurationHours": 2
+		},
+		{
+			"RowName": "WaypointA-WaypointB",
+			"Cost": 100,
+			"TravelDurationHours": 0
+		},
+		{
+			"RowName": "Default_Land-Museum_1",
+			"Cost": 100,
+			"TravelDurationHours": 1
+		},
+		{
+			"RowName": "Pumpkinvale_Land-Wahoo_Beach_Land",
+			"Cost": 100,
+			"TravelDurationHours": 2
+		},
+		{
+			"RowName": "Pumpkinvale_Land-Museum_1",
+			"Cost": 100,
+			"TravelDurationHours": 1
+		},
+		{
+			"RowName": "Pumpkinvale_Land-Swampland_1",
+			"Cost": 100,
+			"TravelDurationHours": 2
+		},
+		{
+			"RowName": "Pumpkinvale_Land-Spoonie_Island_1",
+			"Cost": 100,
+			"TravelDurationHours": 2
+		},
+		{
+			"RowName": "Wahoo_Beach_Land-Museum_1",
+			"Cost": 100,
+			"TravelDurationHours": 1
+		},
+		{
+			"RowName": "Wahoo_Beach_Land-Swampland_1",
+			"Cost": 100,
+			"TravelDurationHours": 1
+		},
+		{
+			"RowName": "Wahoo_Beach_Land-Spoonie_Island_1",
+			"Cost": 100,
+			"TravelDurationHours": 1
+		},
+		{
+			"RowName": "Museum_1-Swampland_1",
+			"Cost": 100,
+			"TravelDurationHours": 1
+		},
+		{
+			"RowName": "Museum_1-Spoonie_Island_1",
+			"Cost": 100,
+			"TravelDurationHours": 2
+		},
+		{
+			"RowName": "Swampland_1-Spoonie_Island_1",
+			"Cost": 100,
+			"TravelDurationHours": 1
+		},
+		{
+			"RowName": "Spoonie_Island_1-Swampland_1",
+			"Cost": 100,
+			"TravelDurationHours": 1
+		},
+		{
+			"RowName": "Wahoo_Beach-Default_Water",
+			"Cost": 0,
+			"TravelDurationHours": 1
+		},
+		{
+			"RowName": "Default_Water-Wahoo_Beach",
+			"Cost": 100,
+			"TravelDurationHours": 1
+		},
+		{
+			"RowName": "Pumpkinvale_Land-Topical_Tundra",
+			"Cost": 100,
+			"TravelDurationHours": 2
+		},
+		{
+			"RowName": "Diamond_Base-Diamond_Temple",
+			"Cost": 100,
+			"TravelDurationHours": 0
+		},
+		{
+			"RowName": "Wahoo_Beach-Topical_Tundra",
+			"Cost": 100,
+			"TravelDurationHours": 1
+		},
+		{
+			"RowName": "Swampland_1-Topical_Tundra",
+			"Cost": 100,
+			"TravelDurationHours": 2
+		},
+		{
+			"RowName": "Spoonie_Island_1-Topical_Tundra",
+			"Cost": 100,
+			"TravelDurationHours": 0
+		},
+		{
+			"RowName": "Pumpkinvale_Land-Hiatus_Trails",
+			"Cost": 100,
+			"TravelDurationHours": 1
+		},
+		{
+			"RowName": "Wahoo_Beach-Hiatus_Trails",
+			"Cost": 100,
+			"TravelDurationHours": 2
+		},
+		{
+			"RowName": "Swampland_1-Hiatus_Trails",
+			"Cost": 100,
+			"TravelDurationHours": 2
+		},
+		{
+			"RowName": "Spoonie_Island_1-Hiatus_Trails",
+			"Cost": 100,
+			"TravelDurationHours": 2
+		},
+		{
+			"RowName": "Topical_Tundra-Museum_1",
+			"Cost": 100,
+			"TravelDurationHours": 1
+		},
+		{
+			"RowName": "Hiatus_Trails-Museum_1",
+			"Cost": 100,
+			"TravelDurationHours": 1
+		},
+		{
+			"RowName": "Pumpkinvale_Land-Diamond_Falls",
+			"Cost": 100,
+			"TravelDurationHours": 2
+		},
+		{
+			"RowName": "Pumpkinvale_Land-Diamond_Falls2",
+			"Cost": 100,
+			"TravelDurationHours": 2
+		},
+		{
+			"RowName": "Wahoo_Beach-Diamond_Falls",
+			"Cost": 100,
+			"TravelDurationHours": 3
+		},
+		{
+			"RowName": "Wahoo_Beach-Diamond_Falls2",
+			"Cost": 100,
+			"TravelDurationHours": 3
+		},
+		{
+			"RowName": "Swampland_1-Diamond_Falls",
+			"Cost": 100,
+			"TravelDurationHours": 3
+		},
+		{
+			"RowName": "Swampland_1-Diamond_Falls2",
+			"Cost": 100,
+			"TravelDurationHours": 3
+		},
+		{
+			"RowName": "Spoonie_Island_1-Diamond_Falls",
+			"Cost": 100,
+			"TravelDurationHours": 3
+		},
+		{
+			"RowName": "Spoonie_Island_1-Diamond_Falls2",
+			"Cost": 100,
+			"TravelDurationHours": 3
+		},
+		{
+			"RowName": "Topical_Tundra-Diamond_Falls",
+			"Cost": 100,
+			"TravelDurationHours": 3
+		},
+		{
+			"RowName": "Topical_Tundra-Diamond_Falls2",
+			"Cost": 100,
+			"TravelDurationHours": 3
+		},
+		{
+			"RowName": "Hiatus_Trails-Diamond_Falls",
+			"Cost": 100,
+			"TravelDurationHours": 0
+		},
+		{
+			"RowName": "Hiatus_Trails-Diamond_Falls2",
+			"Cost": 100,
+			"TravelDurationHours": 0
+		},
+		{
+			"RowName": "Diamond_Falls-Wahoo_Beach",
+			"Cost": 100,
+			"TravelDurationHours": 3
+		},
+		{
+			"RowName": "Diamond_Falls2-Wahoo_Beach",
+			"Cost": 100,
+			"TravelDurationHours": 3
+		}
+	]
+}

@@ -1,0 +1,6 @@
+Season_Style_Materials Structure:
+
+SpringMats: TArray-FSeasonStyleMaterialValue
+SummerMats: TArray-FSeasonStyleMaterialValue
+FallMats: TArray-FSeasonStyleMaterialValue
+WinterMats: TArray-FSeasonStyleMaterialValue

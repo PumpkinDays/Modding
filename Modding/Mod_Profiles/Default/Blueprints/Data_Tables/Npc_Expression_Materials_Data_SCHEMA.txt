@@ -1,0 +1,6 @@
+Npc_Expression_Materials_Data Structure:
+
+Eyebrows: integer
+Eyes: integer
+Mouth: integer
+Cheeks: integer

@@ -1,0 +1,30 @@
+Npc_Data Structure:
+
+RowName: string
+FriendlyName: string
+Town: string
+Skeleton: TAssetPtr<USkeletalMesh>
+IdleAnimation: UAnimSequenceBase*
+ShopBuyAnimation: UAnimSequenceBase*
+Birthday: 
+	Season: ONE of
+		Spring
+		Summer
+		Fall
+		Winter
+	Day: integer
+DaysOff: TArray-TEnumAsByte<EDayOfWeekShort>
+QuestVoiceClip: USoundBase*
+HelloVoiceClip: USoundBase*
+LikedGiftParticle: UParticleSystem*
+LovedGiftParticle: UParticleSystem*
+BulletinBoardBackground: UTexture2D*
+CanPlayerDate: true/false
+NameTagHeight: float
+HideInJournal: true/false
+DefaultDialogueExpression: string
+AskStartDatingCutscene: string
+MarriageProposalCutscene: string
+RoommateCutscene: string
+CribCutscene: string
+NicknameUsedByChild: string

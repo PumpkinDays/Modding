@@ -1,0 +1,51 @@
+Game_Door_Settings Structure:
+
+DoorBuildingDisplayName: string
+Mesh: UStaticMesh*
+OpenInwardAngle: float
+OpenOutwardAngle: float
+OpenTime: 
+	Hour: integer
+	Minute: integer
+CloseTime: 
+	Hour: integer
+	Minute: integer
+ClosedDaysOfWeek: TArray-TEnumAsByte<EDayOfWeekShort>
+ClosedDates: TArray-FPumpkinDateShort
+RequiredHeartLevel: integer
+HeartLevelNpc: string
+OpenDoorCheckTransform: 
+	Rotation: 
+		X: float
+		Y: float
+		Z: float
+		W: float
+	Translation: 
+		X: float
+		Y: float
+		Z: float
+	Scale3D: 
+		X: float
+		Y: float
+		Z: float
+OpenDoorAlwaysTransform: 
+	Rotation: 
+		X: float
+		Y: float
+		Z: float
+		W: float
+	Translation: 
+		X: float
+		Y: float
+		Z: float
+	Scale3D: 
+		X: float
+		Y: float
+		Z: float
+DoorNavigationBlockerLength: float
+DoorOpensInsteadOfUnlocks: true/false
+NpcsThatCanOpenDoor: TArray-FName
+ClosedTime: string
+ClosedDayOfWeek: string
+ClosedHoliday: string
+ClosedHeartLevel: string

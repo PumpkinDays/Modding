@@ -1,0 +1,491 @@
+{
+	"Rows": 
+	[
+		{
+			"RowName": "Moving_Boxes",
+			"StorageSpace": 50,
+			"StoragePopupTitleOverride": "Moving Boxes",
+			"StorageNameTagRadius": 225
+		},
+		{
+			"RowName": "Storage_Container_House",
+			"StorageSpace": 25,
+			"StoragePopupTitleOverride": "",
+			"StorageNameTagRadius": 225
+		},
+		{
+			"RowName": "Basic_Dresser_Brown",
+			"StorageSpace": 16,
+			"StoragePopupTitleOverride": "Dresser",
+			"StorageNameTagRadius": 225
+		},
+		{
+			"RowName": "Basic_Dresser_Dark_Brown",
+			"StorageSpace": 16,
+			"StoragePopupTitleOverride": "Dresser",
+			"StorageNameTagRadius": 225
+		},
+		{
+			"RowName": "Basic_Dresser_Orange",
+			"StorageSpace": 16,
+			"StoragePopupTitleOverride": "Dresser",
+			"StorageNameTagRadius": 225
+		},
+		{
+			"RowName": "Basic_Dresser_Peach",
+			"StorageSpace": 16,
+			"StoragePopupTitleOverride": "Dresser",
+			"StorageNameTagRadius": 225
+		},
+		{
+			"RowName": "Basic_Dresser_Rose",
+			"StorageSpace": 16,
+			"StoragePopupTitleOverride": "Dresser",
+			"StorageNameTagRadius": 225
+		},
+		{
+			"RowName": "Basic_Dresser_Smoky",
+			"StorageSpace": 16,
+			"StoragePopupTitleOverride": "Dresser",
+			"StorageNameTagRadius": 225
+		},
+		{
+			"RowName": "Basic_Wardrobe_Wood_Brown",
+			"StorageSpace": 32,
+			"StoragePopupTitleOverride": "Wardrobe",
+			"StorageNameTagRadius": 225
+		},
+		{
+			"RowName": "Basic_Wardrobe_Wood_Dark_Brown",
+			"StorageSpace": 32,
+			"StoragePopupTitleOverride": "Wardrobe",
+			"StorageNameTagRadius": 225
+		},
+		{
+			"RowName": "Basic_Wardrobe_Wood_Orange",
+			"StorageSpace": 32,
+			"StoragePopupTitleOverride": "Wardrobe",
+			"StorageNameTagRadius": 225
+		},
+		{
+			"RowName": "Basic_Wardrobe_Wood_Rose",
+			"StorageSpace": 32,
+			"StoragePopupTitleOverride": "Wardrobe",
+			"StorageNameTagRadius": 225
+		},
+		{
+			"RowName": "Basic_Wardrobe_Wood_Smoky",
+			"StorageSpace": 32,
+			"StoragePopupTitleOverride": "Wardrobe",
+			"StorageNameTagRadius": 225
+		},
+		{
+			"RowName": "Basic_Wardrobe_Wood_Peach",
+			"StorageSpace": 32,
+			"StoragePopupTitleOverride": "Wardrobe",
+			"StorageNameTagRadius": 225
+		},
+		{
+			"RowName": "Antique_Dresser_Brown",
+			"StorageSpace": 16,
+			"StoragePopupTitleOverride": "Dresser",
+			"StorageNameTagRadius": 225
+		},
+		{
+			"RowName": "Antique_Dresser_Dark_Brown",
+			"StorageSpace": 16,
+			"StoragePopupTitleOverride": "Dresser",
+			"StorageNameTagRadius": 225
+		},
+		{
+			"RowName": "Antique_Dresser_Orange",
+			"StorageSpace": 16,
+			"StoragePopupTitleOverride": "Dresser",
+			"StorageNameTagRadius": 225
+		},
+		{
+			"RowName": "Antique_Dresser_Rose",
+			"StorageSpace": 16,
+			"StoragePopupTitleOverride": "Dresser",
+			"StorageNameTagRadius": 225
+		},
+		{
+			"RowName": "Antique_Dresser_Peach",
+			"StorageSpace": 16,
+			"StoragePopupTitleOverride": "Dresser",
+			"StorageNameTagRadius": 225
+		},
+		{
+			"RowName": "Antique_Dresser_Smoky",
+			"StorageSpace": 16,
+			"StoragePopupTitleOverride": "Dresser",
+			"StorageNameTagRadius": 225
+		},
+		{
+			"RowName": "Antique_Wardrobe_Brown",
+			"StorageSpace": 32,
+			"StoragePopupTitleOverride": "Wardrobe",
+			"StorageNameTagRadius": 225
+		},
+		{
+			"RowName": "Antique_Wardrobe_Dark_Brown",
+			"StorageSpace": 32,
+			"StoragePopupTitleOverride": "Wardrobe",
+			"StorageNameTagRadius": 225
+		},
+		{
+			"RowName": "Antique_Wardrobe_Orange",
+			"StorageSpace": 32,
+			"StoragePopupTitleOverride": "Wardrobe",
+			"StorageNameTagRadius": 225
+		},
+		{
+			"RowName": "Antique_Wardrobe_Peach",
+			"StorageSpace": 32,
+			"StoragePopupTitleOverride": "Wardrobe",
+			"StorageNameTagRadius": 225
+		},
+		{
+			"RowName": "Antique_Wardrobe_Rose",
+			"StorageSpace": 32,
+			"StoragePopupTitleOverride": "Wardrobe",
+			"StorageNameTagRadius": 225
+		},
+		{
+			"RowName": "Antique_Wardrobe_Smoky",
+			"StorageSpace": 32,
+			"StoragePopupTitleOverride": "Wardrobe",
+			"StorageNameTagRadius": 225
+		},
+		{
+			"RowName": "Nice_Wardrobe_Brown",
+			"StorageSpace": 32,
+			"StoragePopupTitleOverride": "Wardrobe",
+			"StorageNameTagRadius": 225
+		},
+		{
+			"RowName": "Nice_Wardrobe_Dark_Brown",
+			"StorageSpace": 32,
+			"StoragePopupTitleOverride": "Wardrobe",
+			"StorageNameTagRadius": 225
+		},
+		{
+			"RowName": "Nice_Wardrobe_Orange",
+			"StorageSpace": 32,
+			"StoragePopupTitleOverride": "Wardrobe",
+			"StorageNameTagRadius": 225
+		},
+		{
+			"RowName": "Nice_Wardrobe_Peach",
+			"StorageSpace": 32,
+			"StoragePopupTitleOverride": "Wardrobe",
+			"StorageNameTagRadius": 225
+		},
+		{
+			"RowName": "Nice_Wardrobe_Rose",
+			"StorageSpace": 32,
+			"StoragePopupTitleOverride": "Wardrobe",
+			"StorageNameTagRadius": 225
+		},
+		{
+			"RowName": "Nice_Wardrobe_Smoky",
+			"StorageSpace": 32,
+			"StoragePopupTitleOverride": "Wardrobe",
+			"StorageNameTagRadius": 225
+		},
+		{
+			"RowName": "Fun_Wardrobe_Brown",
+			"StorageSpace": 32,
+			"StoragePopupTitleOverride": "Wardrobe",
+			"StorageNameTagRadius": 225
+		},
+		{
+			"RowName": "Fun_Wardrobe_Dark_Brown",
+			"StorageSpace": 32,
+			"StoragePopupTitleOverride": "Wardrobe",
+			"StorageNameTagRadius": 225
+		},
+		{
+			"RowName": "Fun_Wardrobe_Orange",
+			"StorageSpace": 32,
+			"StoragePopupTitleOverride": "Wardrobe",
+			"StorageNameTagRadius": 225
+		},
+		{
+			"RowName": "Fun_Wardrobe_Rose",
+			"StorageSpace": 32,
+			"StoragePopupTitleOverride": "Wardrobe",
+			"StorageNameTagRadius": 225
+		},
+		{
+			"RowName": "Fun_Wardrobe_Peach",
+			"StorageSpace": 32,
+			"StoragePopupTitleOverride": "Wardrobe",
+			"StorageNameTagRadius": 225
+		},
+		{
+			"RowName": "Fun_Wardrobe_Smoky",
+			"StorageSpace": 32,
+			"StoragePopupTitleOverride": "Wardrobe",
+			"StorageNameTagRadius": 225
+		},
+		{
+			"RowName": "Barrels_Decor",
+			"StorageSpace": 16,
+			"StoragePopupTitleOverride": "Barrels",
+			"StorageNameTagRadius": 225
+		},
+		{
+			"RowName": "Chest_Nice",
+			"StorageSpace": 24,
+			"StoragePopupTitleOverride": "Chest",
+			"StorageNameTagRadius": 225
+		},
+		{
+			"RowName": "Chest_Worn",
+			"StorageSpace": 24,
+			"StoragePopupTitleOverride": "Chest",
+			"StorageNameTagRadius": 225
+		},
+		{
+			"RowName": "Small_Chest",
+			"StorageSpace": 16,
+			"StoragePopupTitleOverride": "Chest",
+			"StorageNameTagRadius": 225
+		},
+		{
+			"RowName": "Shipping_Bin",
+			"StorageSpace": 40,
+			"StoragePopupTitleOverride": "Shipping Bin",
+			"StorageNameTagRadius": 225
+		},
+		{
+			"RowName": "Trash_Can",
+			"StorageSpace": 20,
+			"StoragePopupTitleOverride": "Trash",
+			"StorageNameTagRadius": 225
+		},
+		{
+			"RowName": "Fun_Cupboard_Brown",
+			"StorageSpace": 16,
+			"StoragePopupTitleOverride": "Cupboard",
+			"StorageNameTagRadius": 225
+		},
+		{
+			"RowName": "Fun_Cupboard_Dark_Brown",
+			"StorageSpace": 16,
+			"StoragePopupTitleOverride": "Cupboard",
+			"StorageNameTagRadius": 225
+		},
+		{
+			"RowName": "Fun_Cupboard_Orange",
+			"StorageSpace": 16,
+			"StoragePopupTitleOverride": "Cupboard",
+			"StorageNameTagRadius": 225
+		},
+		{
+			"RowName": "Fun_Cupboard_Rose",
+			"StorageSpace": 16,
+			"StoragePopupTitleOverride": "Cupboard",
+			"StorageNameTagRadius": 225
+		},
+		{
+			"RowName": "Fun_Cupboard_Smoky",
+			"StorageSpace": 16,
+			"StoragePopupTitleOverride": "Cupboard",
+			"StorageNameTagRadius": 225
+		},
+		{
+			"RowName": "Fun_Cupboard_Peach",
+			"StorageSpace": 16,
+			"StoragePopupTitleOverride": "Cupboard",
+			"StorageNameTagRadius": 225
+		},
+		{
+			"RowName": "Basic_Cupboard_Wood_Brown",
+			"StorageSpace": 16,
+			"StoragePopupTitleOverride": "Cupboard",
+			"StorageNameTagRadius": 225
+		},
+		{
+			"RowName": "Basic_Cupboard_Wood_Dark_Brown",
+			"StorageSpace": 16,
+			"StoragePopupTitleOverride": "Cupboard",
+			"StorageNameTagRadius": 225
+		},
+		{
+			"RowName": "Basic_Cupboard_Wood_Orange",
+			"StorageSpace": 16,
+			"StoragePopupTitleOverride": "Cupboard",
+			"StorageNameTagRadius": 225
+		},
+		{
+			"RowName": "Basic_Cupboard_Wood_Peach",
+			"StorageSpace": 16,
+			"StoragePopupTitleOverride": "Cupboard",
+			"StorageNameTagRadius": 225
+		},
+		{
+			"RowName": "Basic_Cupboard_Wood_Rose",
+			"StorageSpace": 16,
+			"StoragePopupTitleOverride": "Cupboard",
+			"StorageNameTagRadius": 225
+		},
+		{
+			"RowName": "Basic_Cupboard_Wood_Smoky",
+			"StorageSpace": 16,
+			"StoragePopupTitleOverride": "Cupboard",
+			"StorageNameTagRadius": 225
+		},
+		{
+			"RowName": "Antique_Cupboard_Brown",
+			"StorageSpace": 16,
+			"StoragePopupTitleOverride": "Cupboard",
+			"StorageNameTagRadius": 225
+		},
+		{
+			"RowName": "Antique_Cupboard_Dark_Brown",
+			"StorageSpace": 16,
+			"StoragePopupTitleOverride": "Cupboard",
+			"StorageNameTagRadius": 225
+		},
+		{
+			"RowName": "Antique_Cupboard_Orange",
+			"StorageSpace": 16,
+			"StoragePopupTitleOverride": "Cupboard",
+			"StorageNameTagRadius": 225
+		},
+		{
+			"RowName": "Antique_Cupboard_Rose",
+			"StorageSpace": 16,
+			"StoragePopupTitleOverride": "Cupboard",
+			"StorageNameTagRadius": 225
+		},
+		{
+			"RowName": "Antique_Cupboard_Peach",
+			"StorageSpace": 16,
+			"StoragePopupTitleOverride": "Cupboard",
+			"StorageNameTagRadius": 225
+		},
+		{
+			"RowName": "Antique_Cupboard_Smoky",
+			"StorageSpace": 16,
+			"StoragePopupTitleOverride": "Cupboard",
+			"StorageNameTagRadius": 225
+		},
+		{
+			"RowName": "Basic_Fridge_Black",
+			"StorageSpace": 104,
+			"StoragePopupTitleOverride": "Fridge",
+			"StorageNameTagRadius": 225
+		},
+		{
+			"RowName": "Basic_Fridge_White",
+			"StorageSpace": 104,
+			"StoragePopupTitleOverride": "Fridge",
+			"StorageNameTagRadius": 225
+		},
+		{
+			"RowName": "Basic_Fridge_Grey",
+			"StorageSpace": 104,
+			"StoragePopupTitleOverride": "Fridge",
+			"StorageNameTagRadius": 225
+		},
+		{
+			"RowName": "Crate_Large",
+			"StorageSpace": 56,
+			"StoragePopupTitleOverride": "Storage",
+			"StorageNameTagRadius": 225
+		},
+		{
+			"RowName": "Storage_Shed",
+			"StorageSpace": 200,
+			"StoragePopupTitleOverride": "Storage Shed",
+			"StorageNameTagRadius": 350
+		},
+		{
+			"RowName": "Fish_Tank_Lake",
+			"StorageSpace": 16,
+			"StoragePopupTitleOverride": "Lake Fish Tank",
+			"StorageNameTagRadius": 225
+		},
+		{
+			"RowName": "Fish_Tank_Ocean",
+			"StorageSpace": 16,
+			"StoragePopupTitleOverride": "Beach Fish Tank",
+			"StorageNameTagRadius": 225
+		},
+		{
+			"RowName": "Fish_Tank_River",
+			"StorageSpace": 16,
+			"StoragePopupTitleOverride": "River Fish Tank",
+			"StorageNameTagRadius": 225
+		},
+		{
+			"RowName": "Fish_Tank_Deep_Ocean",
+			"StorageSpace": 16,
+			"StoragePopupTitleOverride": "Ocean Fish Tank",
+			"StorageNameTagRadius": 225
+		},
+		{
+			"RowName": "Wall_Cabinets_Brown",
+			"StorageSpace": 32,
+			"StoragePopupTitleOverride": "Cabinet",
+			"StorageNameTagRadius": 225
+		},
+		{
+			"RowName": "Wall_Cabinets_Dark_Brown",
+			"StorageSpace": 32,
+			"StoragePopupTitleOverride": "Cabinet",
+			"StorageNameTagRadius": 225
+		},
+		{
+			"RowName": "Wall_Cabinets_Peach",
+			"StorageSpace": 32,
+			"StoragePopupTitleOverride": "Cabinet",
+			"StorageNameTagRadius": 225
+		},
+		{
+			"RowName": "Wall_Cabinets_Rose",
+			"StorageSpace": 32,
+			"StoragePopupTitleOverride": "Cabinet",
+			"StorageNameTagRadius": 225
+		},
+		{
+			"RowName": "Wall_Cabinets_Smoky",
+			"StorageSpace": 32,
+			"StoragePopupTitleOverride": "Cabinet",
+			"StorageNameTagRadius": 225
+		},
+		{
+			"RowName": "Shell_Wardrobe",
+			"StorageSpace": 32,
+			"StoragePopupTitleOverride": "Wardrobe",
+			"StorageNameTagRadius": 225
+		},
+		{
+			"RowName": "Feeding_Dispenser_Large",
+			"StorageSpace": 16,
+			"StoragePopupTitleOverride": "Fodder Dispenser",
+			"StorageNameTagRadius": 225
+		},
+		{
+			"RowName": "Feeding_Dispenser_Small",
+			"StorageSpace": 16,
+			"StoragePopupTitleOverride": "Feed Dispenser",
+			"StorageNameTagRadius": 225
+		},
+		{
+			"RowName": "Pet_Food_Dispenser",
+			"StorageSpace": 16,
+			"StoragePopupTitleOverride": "Feed Dispenser",
+			"StorageNameTagRadius": 225
+		},
+		{
+			"RowName": "Spouse_Storage",
+			"StorageSpace": 150,
+			"StoragePopupTitleOverride": "Helper Storage",
+			"StorageNameTagRadius": 225
+		}
+	]
+}

@@ -1,0 +1,1400 @@
+{
+	"Rows": 
+	[
+		{
+			"RowName": "Fedora_Hat_Black",
+			"Mesh": "StaticMesh'/Game/Character/Clothes/Hats/Fedora_Hat.Fedora_Hat'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Clothes/Hats.Hats'",
+			"AvailableInCharCreation": false,
+			"AvailableInOther": true
+		},
+		{
+			"RowName": "Fedora_Hat_Blue",
+			"Mesh": "StaticMesh'/Game/Character/Clothes/Hats/Fedora_Hat.Fedora_Hat'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Clothes/Hats.Hats'",
+			"AvailableInCharCreation": false,
+			"AvailableInOther": true
+		},
+		{
+			"RowName": "Fedora_Hat_Coffee",
+			"Mesh": "StaticMesh'/Game/Character/Clothes/Hats/Fedora_Hat.Fedora_Hat'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Clothes/Hats.Hats'",
+			"AvailableInCharCreation": false,
+			"AvailableInOther": true
+		},
+		{
+			"RowName": "Fedora_Hat_Dark_Blue",
+			"Mesh": "StaticMesh'/Game/Character/Clothes/Hats/Fedora_Hat.Fedora_Hat'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Clothes/Hats.Hats'",
+			"AvailableInCharCreation": false,
+			"AvailableInOther": true
+		},
+		{
+			"RowName": "Fedora_Hat_Dark_Brown",
+			"Mesh": "StaticMesh'/Game/Character/Clothes/Hats/Fedora_Hat.Fedora_Hat'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Clothes/Hats.Hats'",
+			"AvailableInCharCreation": false,
+			"AvailableInOther": true
+		},
+		{
+			"RowName": "Fedora_Hat_Dark_Green",
+			"Mesh": "StaticMesh'/Game/Character/Clothes/Hats/Fedora_Hat.Fedora_Hat'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Clothes/Hats.Hats'",
+			"AvailableInCharCreation": false,
+			"AvailableInOther": true
+		},
+		{
+			"RowName": "Fedora_Hat_Dark_Red",
+			"Mesh": "StaticMesh'/Game/Character/Clothes/Hats/Fedora_Hat.Fedora_Hat'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Clothes/Hats.Hats'",
+			"AvailableInCharCreation": false,
+			"AvailableInOther": true
+		},
+		{
+			"RowName": "Fedora_Hat_Green",
+			"Mesh": "StaticMesh'/Game/Character/Clothes/Hats/Fedora_Hat.Fedora_Hat'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Clothes/Hats.Hats'",
+			"AvailableInCharCreation": false,
+			"AvailableInOther": true
+		},
+		{
+			"RowName": "Fedora_Hat_Grey",
+			"Mesh": "StaticMesh'/Game/Character/Clothes/Hats/Fedora_Hat.Fedora_Hat'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Clothes/Hats.Hats'",
+			"AvailableInCharCreation": false,
+			"AvailableInOther": true
+		},
+		{
+			"RowName": "Fedora_Hat_Light_Blue",
+			"Mesh": "StaticMesh'/Game/Character/Clothes/Hats/Fedora_Hat.Fedora_Hat'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Clothes/Hats.Hats'",
+			"AvailableInCharCreation": false,
+			"AvailableInOther": true
+		},
+		{
+			"RowName": "Fedora_Hat_Magenta",
+			"Mesh": "StaticMesh'/Game/Character/Clothes/Hats/Fedora_Hat.Fedora_Hat'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Clothes/Hats.Hats'",
+			"AvailableInCharCreation": false,
+			"AvailableInOther": true
+		},
+		{
+			"RowName": "Fedora_Hat_Orange",
+			"Mesh": "StaticMesh'/Game/Character/Clothes/Hats/Fedora_Hat.Fedora_Hat'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Clothes/Hats.Hats'",
+			"AvailableInCharCreation": false,
+			"AvailableInOther": true
+		},
+		{
+			"RowName": "Fedora_Hat_Pink",
+			"Mesh": "StaticMesh'/Game/Character/Clothes/Hats/Fedora_Hat.Fedora_Hat'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Clothes/Hats.Hats'",
+			"AvailableInCharCreation": false,
+			"AvailableInOther": true
+		},
+		{
+			"RowName": "Fedora_Hat_Purple",
+			"Mesh": "StaticMesh'/Game/Character/Clothes/Hats/Fedora_Hat.Fedora_Hat'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Clothes/Hats.Hats'",
+			"AvailableInCharCreation": false,
+			"AvailableInOther": true
+		},
+		{
+			"RowName": "Fedora_Hat_Red",
+			"Mesh": "StaticMesh'/Game/Character/Clothes/Hats/Fedora_Hat.Fedora_Hat'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Clothes/Hats.Hats'",
+			"AvailableInCharCreation": false,
+			"AvailableInOther": true
+		},
+		{
+			"RowName": "Fedora_Hat_White",
+			"Mesh": "StaticMesh'/Game/Character/Clothes/Hats/Fedora_Hat.Fedora_Hat'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Clothes/Hats.Hats'",
+			"AvailableInCharCreation": false,
+			"AvailableInOther": true
+		},
+		{
+			"RowName": "Fedora_Hat_Yellow",
+			"Mesh": "StaticMesh'/Game/Character/Clothes/Hats/Fedora_Hat.Fedora_Hat'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Clothes/Hats.Hats'",
+			"AvailableInCharCreation": false,
+			"AvailableInOther": true
+		},
+		{
+			"RowName": "Hat_Aviator",
+			"Mesh": "StaticMesh'/Game/Character/Clothes/Hats/Hat_Aviator.Hat_Aviator'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Clothes/Hats.Hats'",
+			"AvailableInCharCreation": false,
+			"AvailableInOther": true
+		},
+		{
+			"RowName": "Baseball_Hat_Black",
+			"Mesh": "StaticMesh'/Game/Character/Clothes/Hats/Hat_Baseball.Hat_Baseball'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Clothes/Hats.Hats'",
+			"AvailableInCharCreation": false,
+			"AvailableInOther": true
+		},
+		{
+			"RowName": "Baseball_Hat_Blue",
+			"Mesh": "StaticMesh'/Game/Character/Clothes/Hats/Hat_Baseball.Hat_Baseball'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Clothes/Hats.Hats'",
+			"AvailableInCharCreation": false,
+			"AvailableInOther": true
+		},
+		{
+			"RowName": "Baseball_Hat_Coffee",
+			"Mesh": "StaticMesh'/Game/Character/Clothes/Hats/Hat_Baseball.Hat_Baseball'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Clothes/Hats.Hats'",
+			"AvailableInCharCreation": false,
+			"AvailableInOther": true
+		},
+		{
+			"RowName": "Baseball_Hat_Dark_Blue",
+			"Mesh": "StaticMesh'/Game/Character/Clothes/Hats/Hat_Baseball.Hat_Baseball'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Clothes/Hats.Hats'",
+			"AvailableInCharCreation": false,
+			"AvailableInOther": true
+		},
+		{
+			"RowName": "Baseball_Hat_Dark_Brown",
+			"Mesh": "StaticMesh'/Game/Character/Clothes/Hats/Hat_Baseball.Hat_Baseball'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Clothes/Hats.Hats'",
+			"AvailableInCharCreation": false,
+			"AvailableInOther": true
+		},
+		{
+			"RowName": "Baseball_Hat_Dark_Green",
+			"Mesh": "StaticMesh'/Game/Character/Clothes/Hats/Hat_Baseball.Hat_Baseball'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Clothes/Hats.Hats'",
+			"AvailableInCharCreation": false,
+			"AvailableInOther": true
+		},
+		{
+			"RowName": "Baseball_Hat_Dark_Red",
+			"Mesh": "StaticMesh'/Game/Character/Clothes/Hats/Hat_Baseball.Hat_Baseball'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Clothes/Hats.Hats'",
+			"AvailableInCharCreation": false,
+			"AvailableInOther": true
+		},
+		{
+			"RowName": "Baseball_Hat_Green",
+			"Mesh": "StaticMesh'/Game/Character/Clothes/Hats/Hat_Baseball.Hat_Baseball'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Clothes/Hats.Hats'",
+			"AvailableInCharCreation": false,
+			"AvailableInOther": true
+		},
+		{
+			"RowName": "Baseball_Hat_Grey",
+			"Mesh": "StaticMesh'/Game/Character/Clothes/Hats/Hat_Baseball.Hat_Baseball'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Clothes/Hats.Hats'",
+			"AvailableInCharCreation": false,
+			"AvailableInOther": true
+		},
+		{
+			"RowName": "Baseball_Hat_Light_Blue",
+			"Mesh": "StaticMesh'/Game/Character/Clothes/Hats/Hat_Baseball.Hat_Baseball'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Clothes/Hats.Hats'",
+			"AvailableInCharCreation": false,
+			"AvailableInOther": true
+		},
+		{
+			"RowName": "Baseball_Hat_Magenta",
+			"Mesh": "StaticMesh'/Game/Character/Clothes/Hats/Hat_Baseball.Hat_Baseball'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Clothes/Hats.Hats'",
+			"AvailableInCharCreation": false,
+			"AvailableInOther": true
+		},
+		{
+			"RowName": "Baseball_Hat_Orange",
+			"Mesh": "StaticMesh'/Game/Character/Clothes/Hats/Hat_Baseball.Hat_Baseball'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Clothes/Hats.Hats'",
+			"AvailableInCharCreation": false,
+			"AvailableInOther": true
+		},
+		{
+			"RowName": "Baseball_Hat_Pink",
+			"Mesh": "StaticMesh'/Game/Character/Clothes/Hats/Hat_Baseball.Hat_Baseball'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Clothes/Hats.Hats'",
+			"AvailableInCharCreation": false,
+			"AvailableInOther": true
+		},
+		{
+			"RowName": "Baseball_Hat_Purple",
+			"Mesh": "StaticMesh'/Game/Character/Clothes/Hats/Hat_Baseball.Hat_Baseball'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Clothes/Hats.Hats'",
+			"AvailableInCharCreation": false,
+			"AvailableInOther": true
+		},
+		{
+			"RowName": "Baseball_Hat_Red",
+			"Mesh": "StaticMesh'/Game/Character/Clothes/Hats/Hat_Baseball.Hat_Baseball'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Clothes/Hats.Hats'",
+			"AvailableInCharCreation": false,
+			"AvailableInOther": true
+		},
+		{
+			"RowName": "Baseball_Hat_White",
+			"Mesh": "StaticMesh'/Game/Character/Clothes/Hats/Hat_Baseball.Hat_Baseball'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Clothes/Hats.Hats'",
+			"AvailableInCharCreation": false,
+			"AvailableInOther": true
+		},
+		{
+			"RowName": "Baseball_Hat_Yellow",
+			"Mesh": "StaticMesh'/Game/Character/Clothes/Hats/Hat_Baseball.Hat_Baseball'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Clothes/Hats.Hats'",
+			"AvailableInCharCreation": false,
+			"AvailableInOther": true
+		},
+		{
+			"RowName": "Baseball_Hat_Black_Backwards",
+			"Mesh": "StaticMesh'/Game/Character/Clothes/Hats/Hat_Baseball_Backwards.Hat_Baseball_Backwards'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Clothes/Hats.Hats'",
+			"AvailableInCharCreation": false,
+			"AvailableInOther": true
+		},
+		{
+			"RowName": "Baseball_Hat_Blue_Backwards",
+			"Mesh": "StaticMesh'/Game/Character/Clothes/Hats/Hat_Baseball_Backwards.Hat_Baseball_Backwards'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Clothes/Hats.Hats'",
+			"AvailableInCharCreation": false,
+			"AvailableInOther": true
+		},
+		{
+			"RowName": "Baseball_Hat_Coffee_Backwards",
+			"Mesh": "StaticMesh'/Game/Character/Clothes/Hats/Hat_Baseball_Backwards.Hat_Baseball_Backwards'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Clothes/Hats.Hats'",
+			"AvailableInCharCreation": false,
+			"AvailableInOther": true
+		},
+		{
+			"RowName": "Baseball_Hat_Dark_Blue_Backwards",
+			"Mesh": "StaticMesh'/Game/Character/Clothes/Hats/Hat_Baseball_Backwards.Hat_Baseball_Backwards'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Clothes/Hats.Hats'",
+			"AvailableInCharCreation": false,
+			"AvailableInOther": true
+		},
+		{
+			"RowName": "Baseball_Hat_Dark_Brown_Backwards",
+			"Mesh": "StaticMesh'/Game/Character/Clothes/Hats/Hat_Baseball_Backwards.Hat_Baseball_Backwards'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Clothes/Hats.Hats'",
+			"AvailableInCharCreation": false,
+			"AvailableInOther": true
+		},
+		{
+			"RowName": "Baseball_Hat_Dark_Green_Backwards",
+			"Mesh": "StaticMesh'/Game/Character/Clothes/Hats/Hat_Baseball_Backwards.Hat_Baseball_Backwards'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Clothes/Hats.Hats'",
+			"AvailableInCharCreation": false,
+			"AvailableInOther": true
+		},
+		{
+			"RowName": "Baseball_Hat_Dark_Red_Backwards",
+			"Mesh": "StaticMesh'/Game/Character/Clothes/Hats/Hat_Baseball_Backwards.Hat_Baseball_Backwards'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Clothes/Hats.Hats'",
+			"AvailableInCharCreation": false,
+			"AvailableInOther": true
+		},
+		{
+			"RowName": "Baseball_Hat_Grey_Backwards",
+			"Mesh": "StaticMesh'/Game/Character/Clothes/Hats/Hat_Baseball_Backwards.Hat_Baseball_Backwards'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Clothes/Hats.Hats'",
+			"AvailableInCharCreation": false,
+			"AvailableInOther": true
+		},
+		{
+			"RowName": "Baseball_Hat_Green_Backwards",
+			"Mesh": "StaticMesh'/Game/Character/Clothes/Hats/Hat_Baseball_Backwards.Hat_Baseball_Backwards'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Clothes/Hats.Hats'",
+			"AvailableInCharCreation": false,
+			"AvailableInOther": true
+		},
+		{
+			"RowName": "Baseball_Hat_Light_Blue_Backwards",
+			"Mesh": "StaticMesh'/Game/Character/Clothes/Hats/Hat_Baseball_Backwards.Hat_Baseball_Backwards'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Clothes/Hats.Hats'",
+			"AvailableInCharCreation": false,
+			"AvailableInOther": true
+		},
+		{
+			"RowName": "Baseball_Hat_Magenta_Backwards",
+			"Mesh": "StaticMesh'/Game/Character/Clothes/Hats/Hat_Baseball_Backwards.Hat_Baseball_Backwards'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Clothes/Hats.Hats'",
+			"AvailableInCharCreation": false,
+			"AvailableInOther": true
+		},
+		{
+			"RowName": "Baseball_Hat_Orange_Backwards",
+			"Mesh": "StaticMesh'/Game/Character/Clothes/Hats/Hat_Baseball_Backwards.Hat_Baseball_Backwards'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Clothes/Hats.Hats'",
+			"AvailableInCharCreation": false,
+			"AvailableInOther": true
+		},
+		{
+			"RowName": "Baseball_Hat_Pink_Backwards",
+			"Mesh": "StaticMesh'/Game/Character/Clothes/Hats/Hat_Baseball_Backwards.Hat_Baseball_Backwards'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Clothes/Hats.Hats'",
+			"AvailableInCharCreation": false,
+			"AvailableInOther": true
+		},
+		{
+			"RowName": "Baseball_Hat_Purple_Backwards",
+			"Mesh": "StaticMesh'/Game/Character/Clothes/Hats/Hat_Baseball_Backwards.Hat_Baseball_Backwards'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Clothes/Hats.Hats'",
+			"AvailableInCharCreation": false,
+			"AvailableInOther": true
+		},
+		{
+			"RowName": "Baseball_Hat_Red_Backwards",
+			"Mesh": "StaticMesh'/Game/Character/Clothes/Hats/Hat_Baseball_Backwards.Hat_Baseball_Backwards'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Clothes/Hats.Hats'",
+			"AvailableInCharCreation": false,
+			"AvailableInOther": true
+		},
+		{
+			"RowName": "Baseball_Hat_White_Backwards",
+			"Mesh": "StaticMesh'/Game/Character/Clothes/Hats/Hat_Baseball_Backwards.Hat_Baseball_Backwards'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Clothes/Hats.Hats'",
+			"AvailableInCharCreation": false,
+			"AvailableInOther": true
+		},
+		{
+			"RowName": "Baseball_Hat_Yellow_Backwards",
+			"Mesh": "StaticMesh'/Game/Character/Clothes/Hats/Hat_Baseball_Backwards.Hat_Baseball_Backwards'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Clothes/Hats.Hats'",
+			"AvailableInCharCreation": false,
+			"AvailableInOther": true
+		},
+		{
+			"RowName": "Hat_Sombero",
+			"Mesh": "StaticMesh'/Game/Character/Clothes/Hats/Hat_Sombero.Hat_Sombero'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Clothes/Hats.Hats'",
+			"AvailableInCharCreation": false,
+			"AvailableInOther": true
+		},
+		{
+			"RowName": "Top_Hat_Black",
+			"Mesh": "StaticMesh'/Game/Character/Clothes/Hats/Hat_Top_Hat.Hat_Top_Hat'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Clothes/Hats.Hats'",
+			"AvailableInCharCreation": false,
+			"AvailableInOther": true
+		},
+		{
+			"RowName": "Top_Hat_Blue",
+			"Mesh": "StaticMesh'/Game/Character/Clothes/Hats/Hat_Top_Hat.Hat_Top_Hat'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Clothes/Hats.Hats'",
+			"AvailableInCharCreation": false,
+			"AvailableInOther": true
+		},
+		{
+			"RowName": "Top_Hat_Coffee",
+			"Mesh": "StaticMesh'/Game/Character/Clothes/Hats/Hat_Top_Hat.Hat_Top_Hat'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Clothes/Hats.Hats'",
+			"AvailableInCharCreation": false,
+			"AvailableInOther": true
+		},
+		{
+			"RowName": "Top_Hat_Dark_Brown",
+			"Mesh": "StaticMesh'/Game/Character/Clothes/Hats/Hat_Top_Hat.Hat_Top_Hat'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Clothes/Hats.Hats'",
+			"AvailableInCharCreation": false,
+			"AvailableInOther": true
+		},
+		{
+			"RowName": "Top_Hat_Dark_Blue",
+			"Mesh": "StaticMesh'/Game/Character/Clothes/Hats/Hat_Top_Hat.Hat_Top_Hat'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Clothes/Hats.Hats'",
+			"AvailableInCharCreation": false,
+			"AvailableInOther": true
+		},
+		{
+			"RowName": "Top_Hat_Dark_Green",
+			"Mesh": "StaticMesh'/Game/Character/Clothes/Hats/Hat_Top_Hat.Hat_Top_Hat'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Clothes/Hats.Hats'",
+			"AvailableInCharCreation": false,
+			"AvailableInOther": true
+		},
+		{
+			"RowName": "Top_Hat_Dark_Red",
+			"Mesh": "StaticMesh'/Game/Character/Clothes/Hats/Hat_Top_Hat.Hat_Top_Hat'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Clothes/Hats.Hats'",
+			"AvailableInCharCreation": false,
+			"AvailableInOther": true
+		},
+		{
+			"RowName": "Top_Hat_Green",
+			"Mesh": "StaticMesh'/Game/Character/Clothes/Hats/Hat_Top_Hat.Hat_Top_Hat'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Clothes/Hats.Hats'",
+			"AvailableInCharCreation": false,
+			"AvailableInOther": true
+		},
+		{
+			"RowName": "Top_Hat_Grey",
+			"Mesh": "StaticMesh'/Game/Character/Clothes/Hats/Hat_Top_Hat.Hat_Top_Hat'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Clothes/Hats.Hats'",
+			"AvailableInCharCreation": false,
+			"AvailableInOther": true
+		},
+		{
+			"RowName": "Top_Hat_Magenta",
+			"Mesh": "StaticMesh'/Game/Character/Clothes/Hats/Hat_Top_Hat.Hat_Top_Hat'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Clothes/Hats.Hats'",
+			"AvailableInCharCreation": false,
+			"AvailableInOther": true
+		},
+		{
+			"RowName": "Top_Hat_Orange",
+			"Mesh": "StaticMesh'/Game/Character/Clothes/Hats/Hat_Top_Hat.Hat_Top_Hat'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Clothes/Hats.Hats'",
+			"AvailableInCharCreation": false,
+			"AvailableInOther": true
+		},
+		{
+			"RowName": "Top_Hat_Pink",
+			"Mesh": "StaticMesh'/Game/Character/Clothes/Hats/Hat_Top_Hat.Hat_Top_Hat'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Clothes/Hats.Hats'",
+			"AvailableInCharCreation": false,
+			"AvailableInOther": true
+		},
+		{
+			"RowName": "Top_Hat_Purple",
+			"Mesh": "StaticMesh'/Game/Character/Clothes/Hats/Hat_Top_Hat.Hat_Top_Hat'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Clothes/Hats.Hats'",
+			"AvailableInCharCreation": false,
+			"AvailableInOther": true
+		},
+		{
+			"RowName": "Top_Hat_Red",
+			"Mesh": "StaticMesh'/Game/Character/Clothes/Hats/Hat_Top_Hat.Hat_Top_Hat'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Clothes/Hats.Hats'",
+			"AvailableInCharCreation": false,
+			"AvailableInOther": true
+		},
+		{
+			"RowName": "Top_Hat_White",
+			"Mesh": "StaticMesh'/Game/Character/Clothes/Hats/Hat_Top_Hat.Hat_Top_Hat'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Clothes/Hats.Hats'",
+			"AvailableInCharCreation": false,
+			"AvailableInOther": true
+		},
+		{
+			"RowName": "Top_Hat_Yellow",
+			"Mesh": "StaticMesh'/Game/Character/Clothes/Hats/Hat_Top_Hat.Hat_Top_Hat'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Clothes/Hats.Hats'",
+			"AvailableInCharCreation": false,
+			"AvailableInOther": true
+		},
+		{
+			"RowName": "Top_Hat_Light_Blue",
+			"Mesh": "StaticMesh'/Game/Character/Clothes/Hats/Hat_Top_Hat.Hat_Top_Hat'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Clothes/Hats.Hats'",
+			"AvailableInCharCreation": false,
+			"AvailableInOther": true
+		},
+		{
+			"RowName": "Witch_Hat_Black",
+			"Mesh": "StaticMesh'/Game/Character/Clothes/Hats/Hat_Witch.Hat_Witch'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Clothes/Hats.Hats'",
+			"AvailableInCharCreation": false,
+			"AvailableInOther": true
+		},
+		{
+			"RowName": "Witch_Hat_Blue",
+			"Mesh": "StaticMesh'/Game/Character/Clothes/Hats/Hat_Witch.Hat_Witch'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Clothes/Hats.Hats'",
+			"AvailableInCharCreation": false,
+			"AvailableInOther": true
+		},
+		{
+			"RowName": "Witch_Hat_Coffee",
+			"Mesh": "StaticMesh'/Game/Character/Clothes/Hats/Hat_Witch.Hat_Witch'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Clothes/Hats.Hats'",
+			"AvailableInCharCreation": false,
+			"AvailableInOther": true
+		},
+		{
+			"RowName": "Witch_Hat_Dark_Blue",
+			"Mesh": "StaticMesh'/Game/Character/Clothes/Hats/Hat_Witch.Hat_Witch'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Clothes/Hats.Hats'",
+			"AvailableInCharCreation": false,
+			"AvailableInOther": true
+		},
+		{
+			"RowName": "Witch_Hat_Dark_Brown",
+			"Mesh": "StaticMesh'/Game/Character/Clothes/Hats/Hat_Witch.Hat_Witch'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Clothes/Hats.Hats'",
+			"AvailableInCharCreation": false,
+			"AvailableInOther": true
+		},
+		{
+			"RowName": "Witch_Hat_Dark_Green",
+			"Mesh": "StaticMesh'/Game/Character/Clothes/Hats/Hat_Witch.Hat_Witch'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Clothes/Hats.Hats'",
+			"AvailableInCharCreation": false,
+			"AvailableInOther": true
+		},
+		{
+			"RowName": "Witch_Hat_Dark_Red",
+			"Mesh": "StaticMesh'/Game/Character/Clothes/Hats/Hat_Witch.Hat_Witch'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Clothes/Hats.Hats'",
+			"AvailableInCharCreation": false,
+			"AvailableInOther": true
+		},
+		{
+			"RowName": "Witch_Hat_Green",
+			"Mesh": "StaticMesh'/Game/Character/Clothes/Hats/Hat_Witch.Hat_Witch'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Clothes/Hats.Hats'",
+			"AvailableInCharCreation": false,
+			"AvailableInOther": true
+		},
+		{
+			"RowName": "Witch_Hat_Grey",
+			"Mesh": "StaticMesh'/Game/Character/Clothes/Hats/Hat_Witch.Hat_Witch'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Clothes/Hats.Hats'",
+			"AvailableInCharCreation": false,
+			"AvailableInOther": true
+		},
+		{
+			"RowName": "Witch_Hat_Magenta",
+			"Mesh": "StaticMesh'/Game/Character/Clothes/Hats/Hat_Witch.Hat_Witch'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Clothes/Hats.Hats'",
+			"AvailableInCharCreation": false,
+			"AvailableInOther": true
+		},
+		{
+			"RowName": "Witch_Hat_Orange",
+			"Mesh": "StaticMesh'/Game/Character/Clothes/Hats/Hat_Witch.Hat_Witch'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Clothes/Hats.Hats'",
+			"AvailableInCharCreation": false,
+			"AvailableInOther": true
+		},
+		{
+			"RowName": "Witch_Hat_Pink",
+			"Mesh": "StaticMesh'/Game/Character/Clothes/Hats/Hat_Witch.Hat_Witch'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Clothes/Hats.Hats'",
+			"AvailableInCharCreation": false,
+			"AvailableInOther": true
+		},
+		{
+			"RowName": "Witch_Hat_Purple",
+			"Mesh": "StaticMesh'/Game/Character/Clothes/Hats/Hat_Witch.Hat_Witch'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Clothes/Hats.Hats'",
+			"AvailableInCharCreation": false,
+			"AvailableInOther": true
+		},
+		{
+			"RowName": "Witch_Hat_Red",
+			"Mesh": "StaticMesh'/Game/Character/Clothes/Hats/Hat_Witch.Hat_Witch'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Clothes/Hats.Hats'",
+			"AvailableInCharCreation": false,
+			"AvailableInOther": true
+		},
+		{
+			"RowName": "Witch_Hat_White",
+			"Mesh": "StaticMesh'/Game/Character/Clothes/Hats/Hat_Witch.Hat_Witch'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Clothes/Hats.Hats'",
+			"AvailableInCharCreation": false,
+			"AvailableInOther": true
+		},
+		{
+			"RowName": "Witch_Hat_Yellow",
+			"Mesh": "StaticMesh'/Game/Character/Clothes/Hats/Hat_Witch.Hat_Witch'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Clothes/Hats.Hats'",
+			"AvailableInCharCreation": false,
+			"AvailableInOther": true
+		},
+		{
+			"RowName": "Witch_Hat_Light_Blue",
+			"Mesh": "StaticMesh'/Game/Character/Clothes/Hats/Hat_Witch.Hat_Witch'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Clothes/Hats.Hats'",
+			"AvailableInCharCreation": false,
+			"AvailableInOther": true
+		},
+		{
+			"RowName": "Cowboy_Hat_Black",
+			"Mesh": "StaticMesh'/Game/Character/Clothes/Hats/Cowboy_Hat.Cowboy_Hat'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Clothes/Hats.Hats'",
+			"AvailableInCharCreation": false,
+			"AvailableInOther": true
+		},
+		{
+			"RowName": "Cowboy_Hat_Blue",
+			"Mesh": "StaticMesh'/Game/Character/Clothes/Hats/Cowboy_Hat.Cowboy_Hat'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Clothes/Hats.Hats'",
+			"AvailableInCharCreation": false,
+			"AvailableInOther": true
+		},
+		{
+			"RowName": "Cowboy_Hat_Brown",
+			"Mesh": "StaticMesh'/Game/Character/Clothes/Hats/Cowboy_Hat.Cowboy_Hat'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Clothes/Hats.Hats'",
+			"AvailableInCharCreation": false,
+			"AvailableInOther": true
+		},
+		{
+			"RowName": "Cowboy_Hat_Green",
+			"Mesh": "StaticMesh'/Game/Character/Clothes/Hats/Cowboy_Hat.Cowboy_Hat'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Clothes/Hats.Hats'",
+			"AvailableInCharCreation": false,
+			"AvailableInOther": true
+		},
+		{
+			"RowName": "Cowboy_Hat_Magenta",
+			"Mesh": "StaticMesh'/Game/Character/Clothes/Hats/Cowboy_Hat.Cowboy_Hat'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Clothes/Hats.Hats'",
+			"AvailableInCharCreation": false,
+			"AvailableInOther": true
+		},
+		{
+			"RowName": "Cowboy_Hat_Purple",
+			"Mesh": "StaticMesh'/Game/Character/Clothes/Hats/Cowboy_Hat.Cowboy_Hat'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Clothes/Hats.Hats'",
+			"AvailableInCharCreation": false,
+			"AvailableInOther": true
+		},
+		{
+			"RowName": "Cowboy_Hat_Red",
+			"Mesh": "StaticMesh'/Game/Character/Clothes/Hats/Cowboy_Hat.Cowboy_Hat'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Clothes/Hats.Hats'",
+			"AvailableInCharCreation": false,
+			"AvailableInOther": true
+		},
+		{
+			"RowName": "Cowboy_Hat_White",
+			"Mesh": "StaticMesh'/Game/Character/Clothes/Hats/Cowboy_Hat.Cowboy_Hat'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Clothes/Hats.Hats'",
+			"AvailableInCharCreation": false,
+			"AvailableInOther": true
+		},
+		{
+			"RowName": "Cat_Ears_Black",
+			"Mesh": "StaticMesh'/Game/Character/Clothes/Hats/Cat_Ears.Cat_Ears'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Clothes/Hats.Hats'",
+			"AvailableInCharCreation": false,
+			"AvailableInOther": true
+		},
+		{
+			"RowName": "Cat_Ears_Blonde",
+			"Mesh": "StaticMesh'/Game/Character/Clothes/Hats/Cat_Ears.Cat_Ears'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Clothes/Hats.Hats'",
+			"AvailableInCharCreation": false,
+			"AvailableInOther": true
+		},
+		{
+			"RowName": "Cat_Ears_Blue",
+			"Mesh": "StaticMesh'/Game/Character/Clothes/Hats/Cat_Ears.Cat_Ears'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Clothes/Hats.Hats'",
+			"AvailableInCharCreation": false,
+			"AvailableInOther": true
+		},
+		{
+			"RowName": "Cat_Ears_Brown",
+			"Mesh": "StaticMesh'/Game/Character/Clothes/Hats/Cat_Ears.Cat_Ears'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Clothes/Hats.Hats'",
+			"AvailableInCharCreation": false,
+			"AvailableInOther": true
+		},
+		{
+			"RowName": "Cat_Ears_Dark_Blue",
+			"Mesh": "StaticMesh'/Game/Character/Clothes/Hats/Cat_Ears.Cat_Ears'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Clothes/Hats.Hats'",
+			"AvailableInCharCreation": false,
+			"AvailableInOther": true
+		},
+		{
+			"RowName": "Cat_Ears_Dark_Brown",
+			"Mesh": "StaticMesh'/Game/Character/Clothes/Hats/Cat_Ears.Cat_Ears'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Clothes/Hats.Hats'",
+			"AvailableInCharCreation": false,
+			"AvailableInOther": true
+		},
+		{
+			"RowName": "Cat_Ears_Dark_Red",
+			"Mesh": "StaticMesh'/Game/Character/Clothes/Hats/Cat_Ears.Cat_Ears'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Clothes/Hats.Hats'",
+			"AvailableInCharCreation": false,
+			"AvailableInOther": true
+		},
+		{
+			"RowName": "Cat_Ears_Green",
+			"Mesh": "StaticMesh'/Game/Character/Clothes/Hats/Cat_Ears.Cat_Ears'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Clothes/Hats.Hats'",
+			"AvailableInCharCreation": false,
+			"AvailableInOther": true
+		},
+		{
+			"RowName": "Cat_Ears_Grey",
+			"Mesh": "StaticMesh'/Game/Character/Clothes/Hats/Cat_Ears.Cat_Ears'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Clothes/Hats.Hats'",
+			"AvailableInCharCreation": false,
+			"AvailableInOther": true
+		},
+		{
+			"RowName": "Cat_Ears_Light_Blue",
+			"Mesh": "StaticMesh'/Game/Character/Clothes/Hats/Cat_Ears.Cat_Ears'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "None",
+			"AvailableInCharCreation": false,
+			"AvailableInOther": true
+		},
+		{
+			"RowName": "Cat_Ears_Orange",
+			"Mesh": "StaticMesh'/Game/Character/Clothes/Hats/Cat_Ears.Cat_Ears'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Clothes/Hats.Hats'",
+			"AvailableInCharCreation": false,
+			"AvailableInOther": true
+		},
+		{
+			"RowName": "Cat_Ears_Pink",
+			"Mesh": "StaticMesh'/Game/Character/Clothes/Hats/Cat_Ears.Cat_Ears'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Clothes/Hats.Hats'",
+			"AvailableInCharCreation": false,
+			"AvailableInOther": true
+		},
+		{
+			"RowName": "Cat_Ears_Purple",
+			"Mesh": "StaticMesh'/Game/Character/Clothes/Hats/Cat_Ears.Cat_Ears'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Clothes/Hats.Hats'",
+			"AvailableInCharCreation": false,
+			"AvailableInOther": true
+		},
+		{
+			"RowName": "Cat_Ears_Red",
+			"Mesh": "StaticMesh'/Game/Character/Clothes/Hats/Cat_Ears.Cat_Ears'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Clothes/Hats.Hats'",
+			"AvailableInCharCreation": false,
+			"AvailableInOther": true
+		},
+		{
+			"RowName": "Cat_Ears_White",
+			"Mesh": "StaticMesh'/Game/Character/Clothes/Hats/Cat_Ears.Cat_Ears'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Clothes/Hats.Hats'",
+			"AvailableInCharCreation": false,
+			"AvailableInOther": true
+		},
+		{
+			"RowName": "Cat_Ears_Yellow",
+			"Mesh": "StaticMesh'/Game/Character/Clothes/Hats/Cat_Ears.Cat_Ears'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Clothes/Hats.Hats'",
+			"AvailableInCharCreation": false,
+			"AvailableInOther": true
+		},
+		{
+			"RowName": "Wolf_Ears_Black",
+			"Mesh": "StaticMesh'/Game/Character/Clothes/Hats/Wolf_Ears.Wolf_Ears'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Clothes/Hats.Hats'",
+			"AvailableInCharCreation": false,
+			"AvailableInOther": true
+		},
+		{
+			"RowName": "Wolf_Ears_Blonde",
+			"Mesh": "StaticMesh'/Game/Character/Clothes/Hats/Wolf_Ears.Wolf_Ears'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Clothes/Hats.Hats'",
+			"AvailableInCharCreation": false,
+			"AvailableInOther": true
+		},
+		{
+			"RowName": "Wolf_Ears_Blue",
+			"Mesh": "StaticMesh'/Game/Character/Clothes/Hats/Wolf_Ears.Wolf_Ears'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Clothes/Hats.Hats'",
+			"AvailableInCharCreation": false,
+			"AvailableInOther": true
+		},
+		{
+			"RowName": "Wolf_Ears_Brown",
+			"Mesh": "StaticMesh'/Game/Character/Clothes/Hats/Wolf_Ears.Wolf_Ears'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Clothes/Hats.Hats'",
+			"AvailableInCharCreation": false,
+			"AvailableInOther": true
+		},
+		{
+			"RowName": "Wolf_Ears_Dark_Blue",
+			"Mesh": "StaticMesh'/Game/Character/Clothes/Hats/Wolf_Ears.Wolf_Ears'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Clothes/Hats.Hats'",
+			"AvailableInCharCreation": false,
+			"AvailableInOther": true
+		},
+		{
+			"RowName": "Wolf_Ears_Dark_Brown",
+			"Mesh": "StaticMesh'/Game/Character/Clothes/Hats/Wolf_Ears.Wolf_Ears'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Clothes/Hats.Hats'",
+			"AvailableInCharCreation": false,
+			"AvailableInOther": true
+		},
+		{
+			"RowName": "Wolf_Ears_Dark_Red",
+			"Mesh": "StaticMesh'/Game/Character/Clothes/Hats/Wolf_Ears.Wolf_Ears'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Clothes/Hats.Hats'",
+			"AvailableInCharCreation": false,
+			"AvailableInOther": true
+		},
+		{
+			"RowName": "Wolf_Ears_Green",
+			"Mesh": "StaticMesh'/Game/Character/Clothes/Hats/Wolf_Ears.Wolf_Ears'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Clothes/Hats.Hats'",
+			"AvailableInCharCreation": false,
+			"AvailableInOther": true
+		},
+		{
+			"RowName": "Wolf_Ears_Grey",
+			"Mesh": "StaticMesh'/Game/Character/Clothes/Hats/Wolf_Ears.Wolf_Ears'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Clothes/Hats.Hats'",
+			"AvailableInCharCreation": false,
+			"AvailableInOther": true
+		},
+		{
+			"RowName": "Wolf_Ears_Light_Blue",
+			"Mesh": "StaticMesh'/Game/Character/Clothes/Hats/Wolf_Ears.Wolf_Ears'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Clothes/Hats.Hats'",
+			"AvailableInCharCreation": false,
+			"AvailableInOther": true
+		},
+		{
+			"RowName": "Wolf_Ears_Orange",
+			"Mesh": "StaticMesh'/Game/Character/Clothes/Hats/Wolf_Ears.Wolf_Ears'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Clothes/Hats.Hats'",
+			"AvailableInCharCreation": false,
+			"AvailableInOther": true
+		},
+		{
+			"RowName": "Wolf_Ears_Pink",
+			"Mesh": "StaticMesh'/Game/Character/Clothes/Hats/Wolf_Ears.Wolf_Ears'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Clothes/Hats.Hats'",
+			"AvailableInCharCreation": false,
+			"AvailableInOther": true
+		},
+		{
+			"RowName": "Wolf_Ears_Purple",
+			"Mesh": "StaticMesh'/Game/Character/Clothes/Hats/Wolf_Ears.Wolf_Ears'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Clothes/Hats.Hats'",
+			"AvailableInCharCreation": false,
+			"AvailableInOther": true
+		},
+		{
+			"RowName": "Wolf_Ears_White",
+			"Mesh": "StaticMesh'/Game/Character/Clothes/Hats/Wolf_Ears.Wolf_Ears'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Clothes/Hats.Hats'",
+			"AvailableInCharCreation": false,
+			"AvailableInOther": true
+		},
+		{
+			"RowName": "Wolf_Ears_Yellow",
+			"Mesh": "StaticMesh'/Game/Character/Clothes/Hats/Wolf_Ears.Wolf_Ears'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Clothes/Hats.Hats'",
+			"AvailableInCharCreation": false,
+			"AvailableInOther": true
+		},
+		{
+			"RowName": "Wolf_Ears_Red",
+			"Mesh": "StaticMesh'/Game/Character/Clothes/Hats/Wolf_Ears.Wolf_Ears'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Clothes/Hats.Hats'",
+			"AvailableInCharCreation": false,
+			"AvailableInOther": true
+		},
+		{
+			"RowName": "Bear_Ears_Black",
+			"Mesh": "StaticMesh'/Game/Character/Clothes/Hats/Bear_Ears.Bear_Ears'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Clothes/Hats.Hats'",
+			"AvailableInCharCreation": false,
+			"AvailableInOther": true
+		},
+		{
+			"RowName": "Bear_Ears_Blonde",
+			"Mesh": "StaticMesh'/Game/Character/Clothes/Hats/Bear_Ears.Bear_Ears'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Clothes/Hats.Hats'",
+			"AvailableInCharCreation": false,
+			"AvailableInOther": true
+		},
+		{
+			"RowName": "Bear_Ears_Blue",
+			"Mesh": "StaticMesh'/Game/Character/Clothes/Hats/Bear_Ears.Bear_Ears'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Clothes/Hats.Hats'",
+			"AvailableInCharCreation": false,
+			"AvailableInOther": true
+		},
+		{
+			"RowName": "Bear_Ears_Brown",
+			"Mesh": "StaticMesh'/Game/Character/Clothes/Hats/Bear_Ears.Bear_Ears'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Clothes/Hats.Hats'",
+			"AvailableInCharCreation": false,
+			"AvailableInOther": true
+		},
+		{
+			"RowName": "Bear_Ears_Dark_Blue",
+			"Mesh": "StaticMesh'/Game/Character/Clothes/Hats/Bear_Ears.Bear_Ears'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Clothes/Hats.Hats'",
+			"AvailableInCharCreation": false,
+			"AvailableInOther": true
+		},
+		{
+			"RowName": "Bear_Ears_Dark_Brown",
+			"Mesh": "StaticMesh'/Game/Character/Clothes/Hats/Bear_Ears.Bear_Ears'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Clothes/Hats.Hats'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": true
+		},
+		{
+			"RowName": "Bear_Ears_Dark_Red",
+			"Mesh": "StaticMesh'/Game/Character/Clothes/Hats/Bear_Ears.Bear_Ears'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Clothes/Hats.Hats'",
+			"AvailableInCharCreation": false,
+			"AvailableInOther": true
+		},
+		{
+			"RowName": "Bear_Ears_Green",
+			"Mesh": "StaticMesh'/Game/Character/Clothes/Hats/Bear_Ears.Bear_Ears'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Clothes/Hats.Hats'",
+			"AvailableInCharCreation": false,
+			"AvailableInOther": true
+		},
+		{
+			"RowName": "Bear_Ears_Grey",
+			"Mesh": "StaticMesh'/Game/Character/Clothes/Hats/Bear_Ears.Bear_Ears'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Clothes/Hats.Hats'",
+			"AvailableInCharCreation": false,
+			"AvailableInOther": true
+		},
+		{
+			"RowName": "Bear_Ears_Light_Blue",
+			"Mesh": "StaticMesh'/Game/Character/Clothes/Hats/Bear_Ears.Bear_Ears'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Clothes/Hats.Hats'",
+			"AvailableInCharCreation": false,
+			"AvailableInOther": true
+		},
+		{
+			"RowName": "Bear_Ears_Orange",
+			"Mesh": "StaticMesh'/Game/Character/Clothes/Hats/Bear_Ears.Bear_Ears'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Clothes/Hats.Hats'",
+			"AvailableInCharCreation": false,
+			"AvailableInOther": true
+		},
+		{
+			"RowName": "Bear_Ears_Pink",
+			"Mesh": "StaticMesh'/Game/Character/Clothes/Hats/Bear_Ears.Bear_Ears'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Clothes/Hats.Hats'",
+			"AvailableInCharCreation": false,
+			"AvailableInOther": true
+		},
+		{
+			"RowName": "Bear_Ears_Purple",
+			"Mesh": "StaticMesh'/Game/Character/Clothes/Hats/Bear_Ears.Bear_Ears'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Clothes/Hats.Hats'",
+			"AvailableInCharCreation": false,
+			"AvailableInOther": true
+		},
+		{
+			"RowName": "Bear_Ears_Red",
+			"Mesh": "StaticMesh'/Game/Character/Clothes/Hats/Bear_Ears.Bear_Ears'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Clothes/Hats.Hats'",
+			"AvailableInCharCreation": false,
+			"AvailableInOther": true
+		},
+		{
+			"RowName": "Bear_Ears_White",
+			"Mesh": "StaticMesh'/Game/Character/Clothes/Hats/Bear_Ears.Bear_Ears'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Clothes/Hats.Hats'",
+			"AvailableInCharCreation": false,
+			"AvailableInOther": true
+		},
+		{
+			"RowName": "Bear_Ears_Yellow",
+			"Mesh": "StaticMesh'/Game/Character/Clothes/Hats/Bear_Ears.Bear_Ears'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Clothes/Hats.Hats'",
+			"AvailableInCharCreation": false,
+			"AvailableInOther": true
+		},
+		{
+			"RowName": "Panda_Ears",
+			"Mesh": "StaticMesh'/Game/Character/Panda_Ears.Panda_Ears'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Clothes/Hats.Hats'",
+			"AvailableInCharCreation": false,
+			"AvailableInOther": true
+		},
+		{
+			"RowName": "Horns",
+			"Mesh": "StaticMesh'/Game/Character/Clothes/Hats/Devil_Horns.Devil_Horns'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Clothes/Hats.Hats'",
+			"AvailableInCharCreation": false,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Horns_Black",
+			"Mesh": "StaticMesh'/Game/Character/Clothes/Hats/Devil_Horns.Devil_Horns'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Clothes/Hats.Hats'",
+			"AvailableInCharCreation": false,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Horns_Gold",
+			"Mesh": "StaticMesh'/Game/Character/Clothes/Hats/Devil_Horns.Devil_Horns'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Clothes/Hats.Hats'",
+			"AvailableInCharCreation": false,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Flower_Crown",
+			"Mesh": "StaticMesh'/Game/Character/Clothes/Hats/Flower_Crown.Flower_Crown'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Clothes/Flower_Crown.Flower_Crown'",
+			"AvailableInCharCreation": false,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Flower_Crown_White",
+			"Mesh": "StaticMesh'/Game/Character/Clothes/Hats/Flower_Crown.Flower_Crown'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Clothes/Flower_Crown.Flower_Crown'",
+			"AvailableInCharCreation": false,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Flower_Crown_Yellow",
+			"Mesh": "StaticMesh'/Game/Character/Clothes/Hats/Flower_Crown.Flower_Crown'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Clothes/Flower_Crown.Flower_Crown'",
+			"AvailableInCharCreation": false,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Flower_Crown_Large",
+			"Mesh": "StaticMesh'/Game/Character/Clothes/Hats/Flower_Crown_L.Flower_Crown_L'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Clothes/Flower_Crown.Flower_Crown'",
+			"AvailableInCharCreation": false,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Flower_Crown_Large_White",
+			"Mesh": "StaticMesh'/Game/Character/Clothes/Hats/Flower_Crown_L.Flower_Crown_L'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Clothes/Flower_Crown.Flower_Crown'",
+			"AvailableInCharCreation": false,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Flower_Crown_Large_Yellow",
+			"Mesh": "StaticMesh'/Game/Character/Clothes/Hats/Flower_Crown_L.Flower_Crown_L'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Clothes/Flower_Crown.Flower_Crown'",
+			"AvailableInCharCreation": false,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Pumpkin_Head",
+			"Mesh": "StaticMesh'/Game/Character/Clothes/Hats/Jack_O_Lantern_Head.Jack_O_Lantern_Head'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Clothes/Hats.Hats'",
+			"AvailableInCharCreation": false,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Pumpkin_Head_Mean",
+			"Mesh": "StaticMesh'/Game/Character/Clothes/Hats/Pumpkin_Head_Mean.Pumpkin_Head_Mean'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Clothes/Hats.Hats'",
+			"AvailableInCharCreation": false,
+			"AvailableInOther": false
+		}
+	]
+}

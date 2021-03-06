@@ -1,0 +1,905 @@
+{
+	"Rows": 
+	[
+		{
+			"RowName": "Mouth_Smile",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Mouth/Mouth_Smile.Mouth_Smile'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Mouth_Icons/Mouth_Smile_Icon.Mouth_Smile_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Mouth_Little_Smile",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Mouth/Mouth_Little_Smile.Mouth_Little_Smile'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Mouth_Icons/Mouth_Little_Smile_Icon.Mouth_Little_Smile_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Mouth_Amused",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Mouth/Mouth_Amused.Mouth_Amused'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Mouth_Icons/Mouth_Amused_Icon.Mouth_Amused_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Mouth_Smirk",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Mouth/Mouth_Smirk.Mouth_Smirk'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Mouth_Icons/Mouth_Smirk_Icon.Mouth_Smirk_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Mouth_Nya",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Mouth/Mouth_Nya.Mouth_Nya'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Mouth_Icons/Mouth_Nya_Icon.Mouth_Nya_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Mouth_Cat",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Mouth/Mouth_Cat.Mouth_Cat'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Mouth_Icons/Mouth_Cat_Icon.Mouth_Cat_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Mouth_Mischievous",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Mouth/Mouth_Mischievous.Mouth_Mischievous'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Mouth_Icons/Mouth_Mischievous_Icon.Mouth_Mischievous_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Mouth_Knowing2",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Mouth/Mouth_Knowing2.Mouth_Knowing2'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Mouth_Icons/Mouth_Knowing2_Icon.Mouth_Knowing2_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Mouth_Too_Happy",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Mouth/Mouth_Too_Happy.Mouth_Too_Happy'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Mouth_Icons/Mouth_Too_Happy_Icon.Mouth_Too_Happy_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Mouth_U",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Mouth/Mouth_U.Mouth_U'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Mouth_Icons/Mouth_U_Icon.Mouth_U_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Mouth_Snooty",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Mouth/Mouth_Snooty.Mouth_Snooty'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Mouth_Icons/Mouth_Snooty_Icon.Mouth_Snooty_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Mouth_Bird",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Mouth/Mouth_Bird.Mouth_Bird'",
+			"MeshAsSkeleton": "None",
+			"Material": "Material'/Game/Materials/Character_Body_Parts/Mouth/Mouth_Bird.Mouth_Bird'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Mouth_Icons/Mouth_Bird_Icon.Mouth_Bird_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Mouth_Too_Sad",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Mouth/Mouth_Too_Sad.Mouth_Too_Sad'",
+			"MeshAsSkeleton": "None",
+			"Material": "Material'/Game/Materials/Character_Body_Parts/Mouth/Mouth_Too_Sad.Mouth_Too_Sad'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Mouth_Icons/Mouth_Too_Sad_Icon.Mouth_Too_Sad_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Mouth_Displeased",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Mouth/Mouth_Displeased.Mouth_Displeased'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Mouth_Icons/Mouth_Displeased_Icon.Mouth_Displeased_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Mouth_V",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Mouth/Mouth_V.Mouth_V'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Mouth_Icons/Mouth_V_Icon.Mouth_V_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Mouth_Upset_Lips",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Mouth/Mouth_Upet_Lip.Mouth_Upet_Lip'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Mouth_Icons/Mouth_Upset_Lips_Icon.Mouth_Upset_Lips_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Mouth_Serious_Lips",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Mouth/Mouth_Serious_Lips.Mouth_Serious_Lips'",
+			"MeshAsSkeleton": "None",
+			"Material": "Material'/Game/Materials/Character_Body_Parts/Mouth/Mouth_Serious_Lips.Mouth_Serious_Lips'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Mouth_Icons/Mouth_Serious_Lips_Icon.Mouth_Serious_Lips_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Mouth_Smile_Lips",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Mouth/Mouth_Smile_Lips.Mouth_Smile_Lips'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Mouth_Icons/Mouth_Smile_Lips_Icon.Mouth_Smile_Lips_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Mouth_Full",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Mouth/Mouth_Full.Mouth_Full'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Mouth_Icons/Mouth_Full_Icon.Mouth_Full_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Mouth_Mr_Smile",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Mouth/Mouth_Mr_Smile.Mouth_Mr_Smile'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Mouth_Icons/Mouth_Mr_Smile_Icon.Mouth_Mr_Smile_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Mouth_Unresponsive",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Mouth/Mouth_Unresponsive.Mouth_Unresponsive'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Mouth_Icons/Mouth_Unresponsive_Icon.Mouth_Unresponsive_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Mouth_Unimpressed",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Mouth/Mouth_Unimpressed.Mouth_Unimpressed'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Mouth_Icons/Mouth_Unimpressed_Icon.Mouth_Unimpressed_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Mouth_Negligable",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Mouth/Mouth_Negligable.Mouth_Negligable'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Mouth_Icons/Mouth_Negligable_Icon.Mouth_Negligable_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Mouth_Pout",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Mouth/Mouth_Pout.Mouth_Pout'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Mouth_Icons/Mouth_Pout_Icon.Mouth_Pout_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Mouth_Unamused",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Mouth/Mouth_Unamused.Mouth_Unamused'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Mouth_Icons/Mouth_Unamused_Icon.Mouth_Unamused_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Mouth_Chastised",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Mouth/Mouth_Chastised.Mouth_Chastised'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Mouth_Icons/Mouth_Chastised_Icon.Mouth_Chastised_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Mouth_Smug",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Mouth/Mouth_Smug.Mouth_Smug'",
+			"MeshAsSkeleton": "None",
+			"Material": "Material'/Game/Materials/Character_Body_Parts/Mouth/Mouth_Smug.Mouth_Smug'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Mouth_Icons/Mouth_Smug_Icon.Mouth_Smug_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Mouth_Wide_Frown",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Mouth/Mouth_Wide_Frown.Mouth_Wide_Frown'",
+			"MeshAsSkeleton": "None",
+			"Material": "Material'/Game/Materials/Character_Body_Parts/Mouth/Mouth_Wide_Frown.Mouth_Wide_Frown'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Mouth_Icons/Mouth_Wide_Frown_Icon.Mouth_Wide_Frown_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Mouth_Sick",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Mouth/Mouth_Sick.Mouth_Sick'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Mouth_Icons/Mouth_Sick_Icon.Mouth_Sick_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Mouth_Peeved",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Mouth/Mouth_Peeved.Mouth_Peeved'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Mouth_Icons/Mouth_Peeved_Icon.Mouth_Peeved_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Mouth_Serious",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Mouth/Mouth_Serious.Mouth_Serious'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Mouth_Icons/Mouth_Serious_Icon.Mouth_Serious_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Mouth_Cheeky",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Mouth/Mouth_Cheeky.Mouth_Cheeky'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Mouth_Icons/Mouth_Cheeky_Icon.Mouth_Cheeky_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Mouth_Angry",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Mouth/Mouth_Stern.Mouth_Stern'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Mouth_Icons/Mouth_Stern2_Icon.Mouth_Stern2_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Mouth_Pretty",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Mouth/Mouth_Pretty.Mouth_Pretty'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Mouth_Icons/Mouth_Pretty_Icon.Mouth_Pretty_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Mouth_Grin",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Mouth/Mouth_Grin.Mouth_Grin'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Mouth_Icons/Mouth_Grin_Icon.Mouth_Grin_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Mouth_Weirdo",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Mouth/Mouth_Weirdo.Mouth_Weirdo'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Mouth_Icons/Mouth_Weirdo_Icon.Mouth_Weirdo_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Mouth_Cheeks",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Mouth/Mouth_Cheeks.Mouth_Cheeks'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Mouth_Icons/Mouth_Cheeks_Icon.Mouth_Cheeks_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Mouth_Abominable",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Mouth/Mouth_Abominable.Mouth_Abominable'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Mouth_Icons/Mouth_Abominable_Icon.Mouth_Abominable_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Mouth_Nervous",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Mouth/Mouth_Nervous.Mouth_Nervous'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Mouth_Icons/Mouth_Nervous_Icon.Mouth_Nervous_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Mouth_Bucktooth",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Mouth/Mouth_Bucktooth.Mouth_Bucktooth'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Mouth_Icons/Mouth_Bucktooth_Icon.Mouth_Bucktooth_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Mouth_Vampire_Serious",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Mouth/Mouth_Vampire_Serious.Mouth_Vampire_Serious'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Mouth_Icons/Mouth_Vampire_Serious_Icon.Mouth_Vampire_Serious_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Mouth_Vampire_Smile",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Mouth/Mouth_Vampire_Smile.Mouth_Vampire_Smile'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Mouth_Icons/Mouth_Vampire_Smile_Icon.Mouth_Vampire_Smile_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Mouth_Fanged",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Mouth/Mouth_Fanged.Mouth_Fanged'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Mouth_Icons/Mouth_Fanged_Icon.Mouth_Fanged_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Mouth_Doofy",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Mouth/Mouth_Doofy.Mouth_Doofy'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Mouth_Icons/Mouth_Doofy_Icon.Mouth_Doofy_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Mouth_Big_Smile",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Mouth/Mouth_Big_Smile.Mouth_Big_Smile'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Mouth_Icons/Mouth_Big_Smile_Icon.Mouth_Big_Smile_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Mouth_Zombie",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Mouth/Mouth_Zombie.Mouth_Zombie'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Mouth_Icons/Mouth_Zombie_Icon.Mouth_Zombie_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Mouth_Silly",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Mouth/Mouth_Silly.Mouth_Silly'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Mouth_Icons/Mouth_Silly_Icon.Mouth_Silly_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Mouth_Smirk_Teeth",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Mouth/Mouth_Smirk_Teeth.Mouth_Smirk_Teeth'",
+			"MeshAsSkeleton": "None",
+			"Material": "Material'/Game/Materials/Character_Body_Parts/Mouth/Mouth_Smirk_Teeth.Mouth_Smirk_Teeth'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Mouth_Icons/Mouth_Smirk_Teeth_Icon.Mouth_Smirk_Teeth_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Mouth_Silly_Grin",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Mouth/Mouth_Silly_Grin.Mouth_Silly_Grin'",
+			"MeshAsSkeleton": "None",
+			"Material": "Material'/Game/Materials/Character_Body_Parts/Mouth/Mouth_Silly_Grin.Mouth_Silly_Grin'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Mouth_Icons/Mouth_Silly_Grin_Icon.Mouth_Silly_Grin_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Mouth_Flirty",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Mouth/Mouth_Flirty.Mouth_Flirty'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Mouth_Icons/Mouth_Flirty_Icon.Mouth_Flirty_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Mouth_Plotting",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Mouth/Mouth_Plotting.Mouth_Plotting'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Mouth_Icons/Mouth_Plotting_Icon.Mouth_Plotting_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Mouth_Pleased",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Mouth/Mouth_Pleased.Mouth_Pleased'",
+			"MeshAsSkeleton": "None",
+			"Material": "Material'/Game/Materials/Character_Body_Parts/Mouth/Mouth_Pleased.Mouth_Pleased'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Mouth_Icons/Mouth_Pleased_Icon.Mouth_Pleased_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Mouth_Robotic",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Mouth/Mouth_Robotic.Mouth_Robotic'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Mouth_Icons/Mouth_Robotic_Icon.Mouth_Robotic_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Mouth_Giddy",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Mouth/Mouth_Giddy.Mouth_Giddy'",
+			"MeshAsSkeleton": "None",
+			"Material": "Material'/Game/Materials/Character_Body_Parts/Mouth/Mouth_Giddy.Mouth_Giddy'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Mouth_Icons/Mouth_Giddy_Icon.Mouth_Giddy_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Mouth_Knowing",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Mouth/Mouth_Knowing.Mouth_Knowing'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Mouth_Icons/Mouth_Knowing_Icon.Mouth_Knowing_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Mouth_Monkey",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Mouth/Mouth_Monkey.Mouth_Monkey'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Mouth_Icons/Mouth_Monkey_Icon.Mouth_Monkey_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Mouth_Gap_Tooth",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Mouth/Mouth_Gap_Tooth.Mouth_Gap_Tooth'",
+			"MeshAsSkeleton": "None",
+			"Material": "Material'/Game/Materials/Character_Body_Parts/Mouth/Mouth_Gap_Tooth.Mouth_Gap_Tooth'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Mouth_Icons/Mouth_Gap_Tooth_Icon.Mouth_Gap_Tooth_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Mouth_Little_Smile_Teeth",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Mouth/Mouth_Little_Smile_Teeth.Mouth_Little_Smile_Teeth'",
+			"MeshAsSkeleton": "None",
+			"Material": "Material'/Game/Materials/Character_Body_Parts/Mouth/Mouth_Little_Smile_Teeth.Mouth_Little_Smile_Teeth'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Mouth_Icons/Mouth_Little_Smile_Teeth_Icon.Mouth_Little_Smile_Teeth_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Mouth_Ahh",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Mouth/Mouth_Ahh.Mouth_Ahh'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Mouth_Icons/Mouth_Ohh_Icon.Mouth_Ohh_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Mouth_Disgust",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Mouth/Mouth_Disgust.Mouth_Disgust'",
+			"MeshAsSkeleton": "None",
+			"Material": "Material'/Game/Materials/Character_Body_Parts/Mouth/Mouth_Disgust.Mouth_Disgust'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Mouth_Icons/Mouth_Disgust_Icon.Mouth_Disgust_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Mouth_Upset",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Mouth/Mouth_Upset.Mouth_Upset'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Mouth_Icons/Mouth_Upset_Icon.Mouth_Upset_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Mouth_Aggressive",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Mouth/Mouth_Aggressive.Mouth_Aggressive'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Mouth_Icons/Mouth_Aggressive_Icon.Mouth_Aggressive_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Mouth_Dog",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Mouth/Mouth_Dog.Mouth_Dog'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Mouth_Icons/Mouth_Dog_Icon.Mouth_Dog_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Mouth_Puppy",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Mouth/Mouth_Puppy.Mouth_Puppy'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Mouth_Icons/Mouth_Puppy_Icon.Mouth_Puppy_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Mouth_Rockstar",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Mouth/Mouth_Rockstar.Mouth_Rockstar'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Mouth_Icons/Mouth_Rockstar_Icon.Mouth_Rockstar_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Mouth_Wild",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Mouth/Mouth_Wild.Mouth_Wild'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Mouth_Icons/Mouth_Wild_Icon.Mouth_Wild_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Mouth_Sure",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Mouth/Mouth_Sure.Mouth_Sure'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Mouth_Icons/Mouth_Sure_Icon.Mouth_Sure_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Mouth_Monster_Sad",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Mouth/Mouth_Monster_Sad.Mouth_Monster_Sad'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Mouth_Icons/Mouth_Monster_Sad_Icon.Mouth_Monster_Sad_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Mouth_Monster_Happy",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Mouth/Mouth_Monster_Happy.Mouth_Monster_Happy'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Mouth_Icons/Mouth_Monster_Happy_Icon.Mouth_Monster_Happy_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Mouth_Villainous",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Mouth/Mouth_Villainous.Mouth_Villainous'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Mouth_Icons/Mouth_Villainous_Icon.Mouth_Villainous_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Mouth_Cackling",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Mouth/Mouth_Cackling.Mouth_Cackling'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Mouth_Icons/Mouth_Cackling_Icon.Mouth_Cackling_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Mouth_Braces",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Mouth/Mouth_Braces.Mouth_Braces'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Mouth_Icons/Mouth_Braces_Icon.Mouth_Braces_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Mouth_Yelling",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Mouth/Mouth_Yelling.Mouth_Yelling'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Mouth_Icons/Mouth_Yelling_Icon.Mouth_Yelling_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Mouth_Attitude",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Mouth/Mouth_Attitude.Mouth_Attitude'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Mouth_Icons/Mouth_Attitude_Icon.Mouth_Attitude_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Mouth_Grimace",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Mouth/Mouth_Grimace.Mouth_Grimace'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Mouth_Icons/Mouth_Grimace_Icon.Mouth_Grimace_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Mouth_Suggestive",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Mouth/Mouth_Suggestive.Mouth_Suggestive'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Mouth_Icons/Mouth_Suggestive_Icon.Mouth_Suggestive_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Mouth_Goofy",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Mouth/Mouth_Goofy.Mouth_Goofy'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Mouth_Icons/Mouth_Goofy_Icon.Mouth_Goofy_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Mouth_Dorky",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Mouth/Mouth_Dorky.Mouth_Dorky'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Mouth_Icons/Mouth_Dorky_Icon.Mouth_Dorky_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Mouth_Alarmed",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Mouth/Mouth_Alarmed.Mouth_Alarmed'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Mouth_Icons/Mouth_Alarmed_Icon.Mouth_Alarmed_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Mouth_Triangle",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Mouth/Mouth_Triangle.Mouth_Triangle'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Mouth_Icons/Mouth_Triangle_Icon.Mouth_Triangle_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Mouth_Triangle_Happy",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Mouth/Mouth_Triangle_Happy.Mouth_Triangle_Happy'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Mouth_Icons/Mouth_Triangle_Happy_Icon.Mouth_Triangle_Happy_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Mouth_Fang",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Mouth/Mouth_Fang.Mouth_Fang'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Mouth_Icons/Mouth_Fang_Icon.Mouth_Fang_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Mouth_Shiver",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Mouth/Mouth_Shiver.Mouth_Shiver'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Mouth_Icons/Mouth_Shiver_Icon.Mouth_Shiver_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Mouth_MeanOne",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Mouth/Mouth_MeanOne.Mouth_MeanOne'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Mouth_Icons/Mouth_MeanOne_Icon.Mouth_MeanOne_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Mouth_Zipper",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Mouth/Mouth_Zipper.Mouth_Zipper'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Mouth_Icons/Mouth_Zipper_Icon.Mouth_Zipper_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Mouth_Chapped",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Mouth/Mouth_Chapped.Mouth_Chapped'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Mouth_Icons/Mouth_Chapped_Icon.Mouth_Chapped_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Mouth_Barbed",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Mouth/Mouth_Barbed.Mouth_Barbed'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Mouth_Icons/Mouth_Barbed_Icon.Mouth_Barbed_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Mouth_Smarmy",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Mouth/Mouth_Smarmy.Mouth_Smarmy'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Mouth_Icons/Mouth_Sumarmy_Icon.Mouth_Sumarmy_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Mouth_Lips_Smile_Brown",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Mouth/Mouth_Lips_Smile_Brown.Mouth_Lips_Smile_Brown'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Mouth_Icons/Mouth_Lips_Smile_Brown_Icon.Mouth_Lips_Smile_Brown_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Mouth_Lips_Frown_Brown",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Mouth/Mouth_Lips_Frown_Brown.Mouth_Lips_Frown_Brown'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Mouth_Icons/Mouth_Lips_Brown_Icon.Mouth_Lips_Brown_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Mouth_Lips_Smile_Purple",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Mouth/Mouth_Lips_Smile_Purple.Mouth_Lips_Smile_Purple'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Mouth_Icons/Mouth_Lips_Smile_Purple_Icon.Mouth_Lips_Smile_Purple_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Mouth_Lips_Frown_Purple",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Mouth/Mouth_Lips_Frown_Purple2.Mouth_Lips_Frown_Purple2'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Mouth_Icons/Mouth_Lip_Frown_Purple_Icon.Mouth_Lip_Frown_Purple_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Mouth_Lips_Smile_Gold",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Mouth/Mouth_Lips_Smile_Gold.Mouth_Lips_Smile_Gold'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Mouth_Icons/Mouth_Lips_Smile_Gold_Icon.Mouth_Lips_Smile_Gold_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Mouth_Lips_Frown_Gold",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Mouth/Mouth_Lips_Frown_Gold.Mouth_Lips_Frown_Gold'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Mouth_Icons/Mouth_Lips_Frown_Gold_Icon.Mouth_Lips_Frown_Gold_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Mouth_Lips_Smile_Pink",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Mouth/Mouth_Lips_Smile_Pink.Mouth_Lips_Smile_Pink'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Mouth_Icons/Mouth_Lips_Smile_Pink_Icon.Mouth_Lips_Smile_Pink_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Mouth_Lips_Frown_Pink",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Mouth/Mouth_Lips_Frown_Pink.Mouth_Lips_Frown_Pink'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Mouth_Icons/Mouth_Lips_Frown_Pink_Icon.Mouth_Lips_Frown_Pink_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Mouth_Lips_Smile_Red",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Mouth/Mouth_Lips_Smile_Red.Mouth_Lips_Smile_Red'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Mouth_Icons/Mouth_Lips_Smile_Red_Icon.Mouth_Lips_Smile_Red_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Mouth_Lips_Frown_Red",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Mouth/Mouth_Lips_Frown_Red.Mouth_Lips_Frown_Red'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Mouth_Icons/Mouth_Lips_Frown_Red_Icon.Mouth_Lips_Frown_Red_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Mouth_Lips_Smile_Natural",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Mouth/Mouth_Lips_Smile_Natural.Mouth_Lips_Smile_Natural'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Mouth_Icons/Mouth_Lips_Smile_Natural_Icon.Mouth_Lips_Smile_Natural_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Mouth_Lips_Frown_Natural",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Mouth/Mouth_Lips_Frown_Natural.Mouth_Lips_Frown_Natural'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Mouth_Icons/Mouth_Lips_Frown_Natural_Icon.Mouth_Lips_Frown_Natural_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		}
+	]
+}

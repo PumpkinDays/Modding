@@ -1,0 +1,302 @@
+{
+	"Rows": 
+	[
+		{
+			"RowName": "Earrings_Ank_Black",
+			"Mesh": "StaticMesh'/Game/Character/Clothes/Jewelry/Earrings/Earrings_Ank.Earrings_Ank'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Patterns/Rugs_Wallpaper/Carpet/Carpet_Black.Carpet_Black'",
+			"Thumbnail": "None",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Earrings_Ank_Gold",
+			"Mesh": "StaticMesh'/Game/Character/Clothes/Jewelry/Earrings/Earrings_Ank.Earrings_Ank'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Patterns/Metal/Metal_Gold.Metal_Gold'",
+			"Thumbnail": "None",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Earrings_Ank_Silver",
+			"Mesh": "StaticMesh'/Game/Character/Clothes/Jewelry/Earrings/Earrings_Ank.Earrings_Ank'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Patterns/Metal/Metal_Silver.Metal_Silver'",
+			"Thumbnail": "None",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Earrings_Circl_Silver",
+			"Mesh": "StaticMesh'/Game/Character/Clothes/Jewelry/Earrings/Earrings_Circles.Earrings_Circles'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Patterns/Metal/Metal_Silver.Metal_Silver'",
+			"Thumbnail": "None",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Earrings_Circl_Black",
+			"Mesh": "StaticMesh'/Game/Character/Clothes/Jewelry/Earrings/Earrings_Circles.Earrings_Circles'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Patterns/Rugs_Wallpaper/Carpet/Carpet_Black.Carpet_Black'",
+			"Thumbnail": "None",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Earrings_Circl_Gold",
+			"Mesh": "StaticMesh'/Game/Character/Clothes/Jewelry/Earrings/Earrings_Circles.Earrings_Circles'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Patterns/Metal/Metal_Gold.Metal_Gold'",
+			"Thumbnail": "None",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Earrings_Cross_Black",
+			"Mesh": "StaticMesh'/Game/Character/Clothes/Jewelry/Earrings/Earrings_Cross.Earrings_Cross'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Patterns/Rugs_Wallpaper/Carpet/Carpet_Black.Carpet_Black'",
+			"Thumbnail": "None",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Earrings_Cross_Gold",
+			"Mesh": "StaticMesh'/Game/Character/Clothes/Jewelry/Earrings/Earrings_Cross.Earrings_Cross'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Patterns/Metal/Metal_Gold.Metal_Gold'",
+			"Thumbnail": "None",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Earrings_Cross_Silver",
+			"Mesh": "StaticMesh'/Game/Character/Clothes/Jewelry/Earrings/Earrings_Cross.Earrings_Cross'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Patterns/Metal/Metal_Silver.Metal_Silver'",
+			"Thumbnail": "None",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Earrings_Diamond_Frame_Black",
+			"Mesh": "StaticMesh'/Game/Character/Clothes/Jewelry/Earrings/Earrings_Diamond_Frame.Earrings_Diamond_Frame'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Patterns/Rugs_Wallpaper/Carpet/Carpet_Black.Carpet_Black'",
+			"Thumbnail": "None",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Earrings_Diamond_Frame_Gold",
+			"Mesh": "StaticMesh'/Game/Character/Clothes/Jewelry/Earrings/Earrings_Diamond_Frame.Earrings_Diamond_Frame'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Patterns/Metal/Metal_Gold.Metal_Gold'",
+			"Thumbnail": "None",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Earrings_Diamond_Frame_Silver",
+			"Mesh": "StaticMesh'/Game/Character/Clothes/Jewelry/Earrings/Earrings_Diamond_Frame.Earrings_Diamond_Frame'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Patterns/Metal/Metal_Silver.Metal_Silver'",
+			"Thumbnail": "None",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Earrings_Flower_Drops_Gold",
+			"Mesh": "StaticMesh'/Game/Character/Clothes/Jewelry/Earrings/Earrings_Flower_Drops.Earrings_Flower_Drops'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Patterns/Metal/Metal_Gold.Metal_Gold'",
+			"Thumbnail": "None",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Earrings_Flower_Drops_Silver",
+			"Mesh": "StaticMesh'/Game/Character/Clothes/Jewelry/Earrings/Earrings_Flower_Drops.Earrings_Flower_Drops'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Patterns/Metal/Metal_Silver.Metal_Silver'",
+			"Thumbnail": "None",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Earrings_Flower_Studs_Black",
+			"Mesh": "StaticMesh'/Game/Character/Clothes/Jewelry/Earrings/Earrings_Flower_Studs.Earrings_Flower_Studs'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Patterns/Rugs_Wallpaper/Carpet/Carpet_Black.Carpet_Black'",
+			"Thumbnail": "None",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Earrings_Flower_Studs_Gold",
+			"Mesh": "StaticMesh'/Game/Character/Clothes/Jewelry/Earrings/Earrings_Flower_Studs.Earrings_Flower_Studs'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Patterns/Metal/Metal_Gold.Metal_Gold'",
+			"Thumbnail": "None",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Earrings_Flower_Studs_Silver",
+			"Mesh": "StaticMesh'/Game/Character/Clothes/Jewelry/Earrings/Earrings_Flower_Studs.Earrings_Flower_Studs'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Patterns/Metal/Metal_Silver.Metal_Silver'",
+			"Thumbnail": "None",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Earrings_Large_Round_Gold",
+			"Mesh": "StaticMesh'/Game/Character/Clothes/Jewelry/Earrings/Earrings_Large_Rounds.Earrings_Large_Rounds'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Patterns/Metal/Metal_Gold.Metal_Gold'",
+			"Thumbnail": "None",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Earrings_Large_Round_Silver",
+			"Mesh": "StaticMesh'/Game/Character/Clothes/Jewelry/Earrings/Earrings_Large_Rounds.Earrings_Large_Rounds'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Patterns/Metal/Metal_Silver.Metal_Silver'",
+			"Thumbnail": "None",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Earrings_Simple_Studs_Black",
+			"Mesh": "StaticMesh'/Game/Character/Clothes/Jewelry/Earrings/Earrings_Simple_Studs.Earrings_Simple_Studs'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Patterns/Stone_Pattern/Hematite_Pattern.Hematite_Pattern'",
+			"Thumbnail": "None",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Earrings_Simple_Studs_Red",
+			"Mesh": "StaticMesh'/Game/Character/Clothes/Jewelry/Earrings/Earrings_Simple_Studs.Earrings_Simple_Studs'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Patterns/Stone_Pattern/Jasper_Pattern.Jasper_Pattern'",
+			"Thumbnail": "None",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Earrings_Simple_Studs_Blue",
+			"Mesh": "StaticMesh'/Game/Character/Clothes/Jewelry/Earrings/Earrings_Simple_Studs.Earrings_Simple_Studs'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Patterns/Stone_Pattern/Lapis_Lazuli_Pattern.Lapis_Lazuli_Pattern'",
+			"Thumbnail": "None",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Earrings_Stud_Star_Black",
+			"Mesh": "StaticMesh'/Game/Character/Clothes/Jewelry/Earrings/Earrings_Star_Studs.Earrings_Star_Studs'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Patterns/Rugs_Wallpaper/Carpet/Carpet_Black.Carpet_Black'",
+			"Thumbnail": "None",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Earrings_Stud_Star_Gold",
+			"Mesh": "StaticMesh'/Game/Character/Clothes/Jewelry/Earrings/Earrings_Star_Studs.Earrings_Star_Studs'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Patterns/Metal/Metal_Gold.Metal_Gold'",
+			"Thumbnail": "None",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Earrings_Stud_Star_Silver",
+			"Mesh": "StaticMesh'/Game/Character/Clothes/Jewelry/Earrings/Earrings_Star_Studs.Earrings_Star_Studs'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Patterns/Metal/Metal_Silver.Metal_Silver'",
+			"Thumbnail": "None",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Earring_TearDrops_Red",
+			"Mesh": "StaticMesh'/Game/Character/Clothes/Jewelry/Earrings/Earrings_Teardrop.Earrings_Teardrop'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Patterns/Stone_Pattern/Jasper_Pattern.Jasper_Pattern'",
+			"Thumbnail": "None",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Earring_TearDrops_Blue",
+			"Mesh": "StaticMesh'/Game/Character/Clothes/Jewelry/Earrings/Earrings_Teardrop.Earrings_Teardrop'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Patterns/Stone_Pattern/Lapis_Lazuli_Pattern.Lapis_Lazuli_Pattern'",
+			"Thumbnail": "None",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Earring_TearDrops_Black",
+			"Mesh": "StaticMesh'/Game/Character/Clothes/Jewelry/Earrings/Earrings_Teardrop.Earrings_Teardrop'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Patterns/Stone_Pattern/Hematite_Pattern.Hematite_Pattern'",
+			"Thumbnail": "None",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Earring_Long_Black",
+			"Mesh": "StaticMesh'/Game/Character/Clothes/Jewelry/Earrings/Earring_Long3.Earring_Long3'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Patterns/Rugs_Wallpaper/Carpet/Carpet_Black.Carpet_Black'",
+			"Thumbnail": "None",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Earring_Long_Gold",
+			"Mesh": "StaticMesh'/Game/Character/Clothes/Jewelry/Earrings/Earring_Long3.Earring_Long3'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Patterns/Metal/Metal_Gold.Metal_Gold'",
+			"Thumbnail": "None",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Earring_Long_Silver",
+			"Mesh": "StaticMesh'/Game/Character/Clothes/Jewelry/Earrings/Earring_Long3.Earring_Long3'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Patterns/Metal/Metal_Silver.Metal_Silver'",
+			"Thumbnail": "None",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Pretty_Diamond_Earrings_Gold",
+			"Mesh": "StaticMesh'/Game/Character/Clothes/Jewelry/Earrings/Earring_Pretty_Diamond3.Earring_Pretty_Diamond3'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Patterns/Metal/Metal_Gold.Metal_Gold'",
+			"Thumbnail": "None",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Pretty_Diamond_Earrings_Silver",
+			"Mesh": "StaticMesh'/Game/Character/Clothes/Jewelry/Earrings/Earring_Pretty_Diamond3.Earring_Pretty_Diamond3'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Patterns/Metal/Metal_Silver.Metal_Silver'",
+			"Thumbnail": "None",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		}
+	]
+}

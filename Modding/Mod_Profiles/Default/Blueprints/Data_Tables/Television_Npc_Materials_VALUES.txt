@@ -1,0 +1,37 @@
+{
+	"Rows": 
+	[
+		{
+			"RowName": "Jemma_Low",
+			"MaterialProperty": "/Game/Materials/Animated_Sprites/Jemma_Sun_Animated.Jemma_Sun_Animated"
+		},
+		{
+			"RowName": "Jemma_Mid",
+			"MaterialProperty": "/Game/Materials/Animated_Sprites/Jemma_Sun_Animated.Jemma_Sun_Animated"
+		},
+		{
+			"RowName": "Jemma_High",
+			"MaterialProperty": "/Game/Materials/Animated_Sprites/Jemma_Rain_Animated.Jemma_Rain_Animated"
+		},
+		{
+			"RowName": "Tucker",
+			"MaterialProperty": "/Game/Materials/Animated_Sprites/Tucker_Baking_Animated.Tucker_Baking_Animated"
+		},
+		{
+			"RowName": "Haku",
+			"MaterialProperty": "/Game/Materials/Animated_Sprites/Haku_Cooking_Animated.Haku_Cooking_Animated"
+		},
+		{
+			"RowName": "Jacqueline",
+			"MaterialProperty": "/Game/Materials/Animated_Sprites/Jacqueline_Crafting_Animated.Jacqueline_Crafting_Animated"
+		},
+		{
+			"RowName": "Zoey",
+			"MaterialProperty": "/Game/Materials/Animated_Sprites/Zoey_Juice_Animated.Zoey_Juice_Animated"
+		},
+		{
+			"RowName": "Jemma",
+			"MaterialProperty": "/Game/Materials/Animated_Sprites/Jemma_No_Recipe_Sprite.Jemma_No_Recipe_Sprite"
+		}
+	]
+}

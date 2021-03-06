@@ -1,0 +1,10 @@
+Character_Customization_Skin_Color_Data Structure:
+
+RowName: string
+Material: UMaterialInterface*
+SwatchColor: 
+	B: uint8
+	G: uint8
+	R: uint8
+	A: uint8
+HideFromPlayer: true/false

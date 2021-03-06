@@ -1,0 +1,3597 @@
+{
+	"Rows": 
+	[
+		{
+			"RowName": "Bananas",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Corn",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Cherries",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Potato",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Strawberries",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Leek",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Onion",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Turnip",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Wheat",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Almonds",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Apple",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Apricot",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Artichoke",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Asparagus",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Avocado",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Beet",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Bell_Pepper",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Blackberries",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Broccoli",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Brussel_Sprouts",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Cabbage",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Cantaloupe",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Carrot",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Cauliflower",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Celery",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Chestnut",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Chickpeas",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Cocoa",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Collard_Greens",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Cotton",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Cranberries",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Cucumber",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Dates",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Durian",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Eggplant",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Fig",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Ginger",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Grapefruit",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Grapes",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Green_Beans",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Guava",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Hazel_Nut",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Honey_Dew",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Barley",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Jalapeno",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Kale",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Kidney_Beans",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Kiwi",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Kumguats",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Lemon",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Lentils",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Lettuce",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Lime",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Lychees",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Macadamia",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Mandarin",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Mango",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Mushroom",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Nutmeg",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Olives",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Orange",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Papaya",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Passion_Fruit",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Peach",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Peanuts",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Pear",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Peas",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Pecans",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Pineapple",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Pistachios",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Plum",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Pomegranate",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Pumpkin",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Raspberries",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Rhubarb",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Soybeans",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Spinach",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Starfruit",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Sweet_Potato",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Tomato",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Walnuts",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Watermelon",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Zucchini",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Coffee",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Black_Beans",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Blueberries",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Sugarcane",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "SugarApple",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Peppercorn",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Oats",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Garlic",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Coconut",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Basil",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Bay_Leaves",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Camelia",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Capers",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Chamomile",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Chives",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Cilantro",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Cinnamon",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Cloves",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Coriander",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Cumin",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Curry",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Dill_Weed",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Honey",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Horse_Radish",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Lavender",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Lemon_Grass",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Licorice",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Mint",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Oregano",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Parsley",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Roosibos",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Rosemary",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Sage",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Sorrel",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Tarragon",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Thyme",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Vanilla",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Wasabi",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Beer",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Brandy",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Chicha",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Cider",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Ginger_Beer",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Mead",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Moonshine",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Plum_Wine",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Rum",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Sake",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Triple_Sec",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Vermouth",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Vodka",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Wheat_Beer",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Whiskey",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Wine",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Bag_Rice",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Bag_Sugar",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Cocoa_Powder",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Flour",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Oatmeal",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Pepper_Bottle",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Vegetable_Oil",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Batter",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Cookie_Batter",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Dough",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Pie_Crust",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Beef_Chili",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Beef_Stew",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Brisket_with_Bbq",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Steamed_Cabbage",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Crisp_Orange_Beef",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Hamburger",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Meatballs",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Meatloaf",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Roast_Meal",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Salisbury_Steak",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Shepards_Pie",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Sirloin_Kebab",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Spagetti",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Stuffed_Pepper",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Apple_Bread",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Bread",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Cantaloupe_Bread",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Cheese_Bread",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Cornbread_Bread",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Cranberry_Bread",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Lavender_Bread",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Olive_Bread",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Orange_Bread",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Pumpkin_Bread",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Raisin_Bread",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Rhubarb_Bread",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Vanilla_Bread",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Bacon",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Boiled_Eggs",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Broccoli_Quiche",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Corn_Flakes",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Donuts",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Fancy_Oatmeal",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Bowl_Of_Oatmeal",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Pancakes",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Rice_Pudding",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Scrambled_Eggs",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Almond_Cake",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Apple_Walnut_Cake",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Banana_Cake",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Blueberry_Cake",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Carrot_Cake",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Cheese_Cake",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Cherry_Cake",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Chestnut_Cake",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Chocolate_Cake",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Cinnamon_Cake",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Coconut_Cake",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Cranberry_Cake",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Key_Lime_Cake",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Lemon_Cake",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Milk_Cake",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Orange_Cake",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Peach_Cake",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Pear_Cake",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Pecan_Cake",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Pineapple_Cake",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Plum_Cake",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Rhubarb_Cake",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Rum_Cake",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Simple_Cake",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Apple_Candy",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Apricots_Candy",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Blackberry_Candy",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Cantaloupe_Candy",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Cherry_Candy",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Grape_Candy",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Grapefruit_Candy",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Kiwi_Candy",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Kumguat_Candy",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Lemon_Candy",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Lime_Candy",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Lychee_Candy",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Mango_Candy",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Orange_Candy",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Passion_Fruit_Candy",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Peach_Candy",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Peppermint_Candy",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Pineapple_Candy",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Plum_Candy",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Raspberry_Candy",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Starfruit_Candy",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Strawberry_Candy",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Watermelon_Candy",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Artichoke_Chicken",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Baked_Chicken",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Bbq_Chicken",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Buffalo_Chicken",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Chicken_Parmesan",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Chicken_Pot_Pie",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Chicken_with_Mushroom",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Fried_Chicken",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Garlic_Spicy_Chicken",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Honey_Mustard",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Lemon_Chicken",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Salsa_Chicken",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Spicy_Chicken",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Spinach_Stuffed_Chicken",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Yummy_Chicken",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Almond_Cookies",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Apple_Cookies",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Apple_Walnut_Squares",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Blueberry_Crumbs",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Brownies",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Chocolate_Cherry_Jam_Cookies",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Chocolate_Mint_Cookies",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Coconut_Cookies",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Cranberry_Cookies",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Cranberry_Jam_Cookies",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Ginger_Cookies",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Kumguat_Cookies",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Lavender_Cookies",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Lemon_Cookies",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Macadamia_Cookies",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Macaroons",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Oatmeal_Cookies",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Orange_Cookies",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Peach_Almond_Cookies",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Peach_Almond_Squares",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Peanut_Butter_Cookies",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Pistachio_Apricot_Square",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Pistachio_Cookies",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Pumpkin_Cookies",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Raspberry_Almond_Cookies",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Raspberry_Cookies",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Rhubarb_Cookies",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Strawberry_Squares",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Vanilla_Cherry_Cookies",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Walnut_Cookies",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Disaster_Dish",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Coconut_Curry",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Coconut_Fish_Curry",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Coconut_Chicken_Curry",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Coconut_Beef_Curry",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Coconut_Goat_Curry",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Coconut_Lamb_Curry",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Potato_Curry",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Potato_Fish_Curry",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Potato_Pork_Curry",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Potato_Chicken_Curry",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Potato_Beef_Curry",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Potato_Goat_Curry",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Potato_Lamb_Curry",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Pumpkin_Curry",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Pumpkin_Fish_Curry",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Pumpkin_Pork_Curry",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Pumpkin_Chicken_Curry",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Pumpkin_Beef_Curry",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Pumpkin_Goat_Curry",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Pumpkin_Lamb_Curry",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Mango_Curry",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Mango_Fish_Curry",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Mango_Pork_Curry",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Mango_Chicken_Curry",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Mango_Beef_Curry",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Mango_Goat_Curry",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Mango_Lamb_Curry",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Spicy_Curry",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Fish_Curry",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Pork_Curry",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Chicken_Curry",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Beef_Curry",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Goat_Curry",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Baked_Scallop",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Butter_Clams",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Calamari",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Clam_Chowder",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Clam_Linguine",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Coconut_Shrimp",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Crab_Cake",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Crab_Dip",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Crab_Leg",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Crab_Quiche",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Crab_Salad",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Crab_Stuffed_Lobster",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Crab_Stuffed_Mushrooms",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Fish_and_Chips",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Fish_Bake",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Fish_Burger",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Fish_Pasta",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Fish_Patties",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Fish_Sandwich",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Fish_Steak",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Fish_Tacos",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Ginger_Mahi_Mahi",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Glazed_Fish",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Grilled_Crab",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Grilled_Fish",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Grilled_Salmon",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Grilled_Shrimp",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Grilled_Tuna",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Herb_Fish",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Honey_Ginger_Salmon",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Honey_Scallop",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Honey_Shrimp",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Italian_Clams",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Lemon_Fish",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Lobster_Bisque",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Lobster_Fritters",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Mango_Mahi_Mahi",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Maple_Fish",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Salmon_Burger",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Salmon_Cakes",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Scallop_Pasta",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Seaweed_Salad",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Seaweed_Soup",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Shrimp_Creole",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Shrimp_Pasta",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Shrimp_Salad",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Stuffed_Lobster_Tail",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Takoyaki",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Tomato_Sardine",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Tuna_Burger",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Tuna_Casserole",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Tuna_Melt",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Tuna_Salad",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Almond_Icecream",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Apple_Icecream",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Banana_Icecream",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Brownie_Sundae",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Cantaloupe_Icecream",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Chestnut_Icecream",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Chocolate_Chip_Sundae",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Chocolate_Icecream",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Coconut_Icecream",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Coffee_Icecream",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Cookie_Icecream",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Cranberry_Icecream",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Grape_Icecream",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Hazelnut_Icecream",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Lavender_Icecream",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Lemon_Icecream",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Lychee_Icecream",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Macadamia_Icecream",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Mango_Icecream",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Mint_Icecream",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Pumpkin_Icecream",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Rasberry_Icecream",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Strawberry_Icecream",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Vanilla_Icecream",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Walnut_Icecream",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Watermelon_Icecream",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Apple_Jam",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Apricot_Jam",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Banana_Jam",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Blackberry_Jam",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Cherry_Jam",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Chocolate_Spread",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Coconut_Jam",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Cranberry_Jam",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Date_Jam",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Dragonfruit_Jam",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Fig_Jam",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Grape_Jam",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Guava_Jam",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Kumguat_Jam",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Lemon_Jam",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Lime_Jam",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Lychee_Jam",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Mango_Jam",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Mint_Jam",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Nutmeg_Jam",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Orange_Jam",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Passionfruit_Jam",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Peach_Jam",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Peanut_Butter",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Pear_Jam",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Pineapple_Jam",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Plum_Jam",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Pomegranate_Jam",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Pumpkin_Jam",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Raspberry_Jam",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Rhubarb_Jam",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Starfruit_Jam",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Strawberry_Jam",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Watermelon_Jam",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Bloody_Mary",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Brass_Monkey",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Coffee_Liquer",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Cosmopolitan",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Greyhound",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Grog",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Hurricane",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Lemon_Drop",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Martini",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Mojito",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Pina_Colada",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Sangria",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Stork_on_the_Beach",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "White_Diamond",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Alfredo_Sauce_Pasta",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Artichoke_and_Spinach_Pasta",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Artichoke_Pasta",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Mac_and_Cheese",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Mushroom_Pasta",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Red_Sauce_Pasta",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Spagetti_&_Meatballs",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Veggie_Pasta",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Apple_Pie",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Banana_Pie",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Blackberry_Pie",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Cantaloupe_Pie",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Cherry_Pie",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Chocolate_Pie",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Coconut_Cream_Pie",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Cranberry_Pie",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Custard_Pie",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Fruit_Pie",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Grapefruit_Pie",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Keylime_Pie",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Kumguat_Pie",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Lemon_Meringe_Pie",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Peaches_Pie",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Peanut_Butter_Pie",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Pear_Pie",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Pecan_Pie",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Pumpkin_Pie",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Rasberry_Pie",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Rhubarb_Pie",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Sweet_Potato_Pie",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Cheese_Pizza",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Chicken_Pizza",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Ham_Pizza",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Hawaiin_Pizza",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Herb_Pizza",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Meaty_Pizza",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Spicy_Pizza",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Spinach_&_Mushroom_Pizza",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Vegetarian_Pizza",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Apple_Slaw",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Avacado_and_Feta_Salad",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Black_Bean_Corn_Salad",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Cesar_Salad",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Coleslaw",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Cranberry_Salad",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Fancy_Cucumber_Salad",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Italian_Salad",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Melon_Salad",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Spinach_&_Strawberry_Salad",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Spinach_Pomegranate_Salad",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Vegetable_Salad",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Bbq_Pork_Sandwich",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Blackbean_Burgers",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "BLT_Sandwich",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Cheesesteak_Sandwich",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Chick_pea_Sandwich",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Corndogs",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Cucumber_Sandwich",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Eggplant_Burger",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Eggplant_Sandwich",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Grilled_Apple_Sandwich",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Grilled_Cheese_Sandwich",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Grilled_Tropical_Sandwich",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Grilled_Veggie_Sandwich",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Ham_&_Cheese_Sandwich",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Jalapeno_Sandwich",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Meatball_Sub",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Peanut_Butter_and_Jelly_Sandwich",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Potato_Salad_Sandwich",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Sausage_Sandwich",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Sloppy_Joe",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Tuna_Salad_Sandwich",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Zucchini_Sandwich",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Bbq_Sauce",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Hotsauce",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Ketchup",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Mustard_Sauce",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Soysauce",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Asparagus_Soup",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Beet_Soup",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Broccoli_Soup",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Cabbage_Soup",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Carrot_and_Ginger_Soup",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Chestnut_Soup",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Chicken_Noodle_Soup",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Chicken_Taco_Soup",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Chickpea_Soup",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Corn_Chowder_Soup",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Creamy_Turnip_Soup",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Fancy_Vegetable_Soup",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Ham_&_Potato_Soup",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Leeks_Soup",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Mushroom_Soup",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Onion_Soup",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Potato_&_Corn_Soup",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Potato_&_Leek_Soup",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Potato_Soup",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Pumpkin_Coconut_Soup",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Pumpkin_Soup",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Spicy_Chicken_Soup",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Spinach_&_Leek_Soup",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Sweet_Potato_Soup",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Tomato_Soup",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Turnip_Soup",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Veggie_Soup",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Amabi",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Anago",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Anakyu",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Ebi_Nigiri",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Engawa",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Futomaki",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Gyu_Nigiri",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Hamachi",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Hotate_Nigiri",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Ika_Nigiri",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Iseebi",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Kani_Nigiri",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Kappa_Maki",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Maguro_Nigiri",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Masu",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Namera",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Natto_Maki",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Ohyou",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Saba",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Sake_Nigiri",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Shirasu",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Spicy_Tuna",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Suzuki",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Tai",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Tako_Nigiri",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Tamagoyaki",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Tekkamaki",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Toro",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Tsunamayo_maki",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Umekyu",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Uramaki",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Berry_Tea",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Black_Tea",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Chai",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Chamomile_Tea",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Ginger_Tea",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Green_Tea",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Lavender_Tea",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Lemon_Tea",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Mint_Tea",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Oolon_Tea",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Orange_Tea",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Peach_Tea",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "White_Tea",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Artichoke_Dip",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Artichoke_Stuffed_Mushrooms",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Bacon_Chestnut",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Brasied_Collards",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Cauliflower_and_Broccoli_Bake",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Cauliflower_Casserole",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Cauliflower_Potato",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Corn_on_the_Cob",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Eggplant_Paramesan",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Fried_Eggplant",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Greenbean_Casserole",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Greenbean_Crips",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Leek_Casserole",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Peas_and_Rice",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Pickles",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Popcorn",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Potato_Parsley",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Ratatouille",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Rhubarb_Crisp",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Root_Gratin",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Sweet_Potato_Fries",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "French_Fries",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Black_Coffee",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Cafe_Con_Leche",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Cappuchino",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Coffee_Drink",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Espresso",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Hazel_Nut_Coffee",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Latte",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Pumpkin_Latte",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Spiced_Latte",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Goat_Milk",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Milk",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Pork",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Mutton",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Goat_Meat",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Duck_Meat",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Chicken_Meat",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Beef",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Bison_Meat",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Butter",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Chocolate_Chip_Cookies",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Cheese",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Apple_Juice",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Strawberry_Juice",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Kiwi_Juice",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Grape_Juice",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Blackberry_Juice",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Raspberry_Juice",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Sugarcane_Juice",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Pineapple_Juice",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Watermelon_Juice",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Honeydew_Juice",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Plum_Juice",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Pear_Juice",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Beet_Juice",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Veggie_Juice",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Fruit_Juice",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Cantaloupe_Juice",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Kumguat_Juice",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Cranberry_Juice",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Blueberry_Juice",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Carrot_Juice",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Mandarin_Juice",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Lime_Juice",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Mango_Juice",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Papaya_Juice",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Guava_Juice",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Starfruit_Juice",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Grapefruit_Juice",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Passionfruit_Juice",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Orange_Juice",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Cherry_Juice",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Lychee_Juice",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Peach_Juice",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Chicken_Egg",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Tomato_Juice",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Jounce_Liquid",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Honey_Cake",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Feta_Cheese",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Emu_Egg",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Duck_Egg",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Mayonaise",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Duckanaise",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Apple_Cake",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Macadamia_Cake",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Peanut_Butter_Cake",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Pumpkin_Cake",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Rasberry_Cake",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Sweet_Potato_Cake",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Chocolate_Bar",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Guava_Candy",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Chocolate_Mint_Filling_Cookies",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Russian_Teacakes",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Sugar_Cookies",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Coconut_Pork_Curry",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Lamb_Curry",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Honey_Fish",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Cherry_Icecream",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Whiskey_Sour",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "turnip_fries",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Hot_Chocolate",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Lentil_Soup",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Coconut_Water",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Lavender_Lemonade",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Lemonade",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Blueberry_Pie",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Chocolate_Pudding",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Vanilla_Pudding",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Lemon_Pudding",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Banana_Pudding",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Cooked_Rice",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Sausage",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Noodles",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Curry_Powder",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Raisons",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Chocolate_Milk",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Banana_Milk",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Gin",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Rice",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Dairy_Free_Milk",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Glowing_Mushrooms",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Fish_Cuts",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "FIsh_Cuts_Mahi_Mahi",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "FIsh_Cuts_Salmon",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Fish_Cuts_Tuna",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Fish_Cuts_Yellow_Tail",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Crab_Meat",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Bag_Barley",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Italian_Seasoning",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Chicken_Seasoning",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Beef_Seasoning",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Sweet_Spices",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Fish_Seasoning",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Pork_Seasoning",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Blueberry_Jam",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Dino_Cake",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Cat_Cake",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Unicorn_Cake",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Owl_Cake",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Drip_Cake",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Potarrots",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Tomatelons",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Jalaplant",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Spinip",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Brocados",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Zuccorn",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Grapple",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Banapple",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Bluerries",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Pealum",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Raspkins",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Sugarnut",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Ginger_Dragon",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Black_Beet",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Cocoberries",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Bellchees",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Blapple",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Crattuce",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Pumpkin_Gold",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Pumpkin_Snow",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Pumpkin_Green",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Dragonfruit",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Breadfruit",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Ground_Coffee",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Cashews",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Carrot_Soup",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Seitan",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Tofu",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Seitan_Meal",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Yummy_Tofu",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Chips_Tofu",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Seitan_Stew",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Pasta_Tofu",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Vegan_Pot_Pie",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Tofu_Curry",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Seitan_Curry",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Vegan_Burger",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Seitan_Spaghetti",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Sugar_Beets",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Blackbean_Soup",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "KidneyBean_Soup",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Soybean_Soup",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Sakura_Cookies",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Rose_Salad",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Honey_Lavender_Cheesecake",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Funnel_Cake",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "BBQ_Ribs",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Fizzy_Float",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Chicken_Waffles",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Pan_De_Muerto",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Tamale",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Sugar_Skulls",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Pumpkin_Spiced_Rum",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Eggnog",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Candy_Canes",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Gingerbread_Peeps",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Fruitcake",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Cobbler_Ice_Cream",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Fruit_Roll_Cake",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Fruit_Pizza",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Melon_Hibiscus_Icecream",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Roti",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Salt_Fish_Bakes",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Beef_Patties",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Conch_Fritters",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Samosa",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Aloo_Tikki",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Callaloo_Breadfruit",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Rose_Coconut",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Sorrel_Drink",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Festive_Ham",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Green_Tea_Cake",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Kumguat_Cake",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Chicken_Cordon_Blue",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Chicken_Pasta",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Rose_Water",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Tamales",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Cheese_Enchiladas",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Chicken_Fettucine",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Roulade_Chicken",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Bibimap",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Birthday_Cake",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Truffles",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Coco_Cow_Milk",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Sugarapple_Icecream",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Sugarapple_Smoothie",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Horseradish_Beef",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Horseradish_Dip",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Durian_Cream_Puffs",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Durian_Pancakes",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Truffle_Fries",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Truffle_Chocolates",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Roasted_Brussel_Sprouts",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Brussel_Sprout_Casserole",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Brussel_Sprouts_And_Steak",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Kale_Chips",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Sauteed_Kale",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Fried_Breadfruit",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Breadfruit_Pie",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Breadfruit_Curry",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Cashew_Butter",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Mixed_Nuts",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Salted_Cashew_Bar",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Rooibos_Tea",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Rooibos_Icecream",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Licorice_Candy",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Black_Licoric_Ice_Cream",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Licorice_Cake",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Salmon_Honey_Mustard",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Honey_Mustard_Chicken",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Honey_Mustard_Chicken_Sandwich",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Shrimp_And_Asparagus",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Cheesy_Asparagus",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Chicken_Asparagus",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Collard_Greens_Ham_Hocks",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Curried_Collard_Greens",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Beet_Salad",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Roasted_Beets",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Honey_Dew_Icecream",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Coconut_Lentil_Curry",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Lentil_Burger",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Madarin_Cake",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Fig_Bars",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Dragonfruit_IceCream",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Dragonfruit_Crepe",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Blueberry_Candy",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Cake_Pride",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Almond_Butter",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Coconut_Butter",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Macademia_Butter",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Walnut_Butter",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Tofu_Silken",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Soy_Milk",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Oat_Milk",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Rice_Milk",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Cashew_Milk",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Coconut_Milk",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Cake_Thank_You",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Cake_Jounce",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Juniper_Berries",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Cheesy_Oysters",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Grilled_Oysters",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Oyster_Stew",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Apricot_Juice",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Mushroom_Red",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Sakura_Mochi",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Sakura_Cake",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Taiyaki",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Sakura_Cocktail",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Candy_Corn",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Rock_Candy",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Creepy_Punch",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Festival_Chocolates",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Rosemary_Pork",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Summer_Festival_Salad",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Green_Man_Cake",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Plate.Eating_From_Plate'"
+		},
+		{
+			"RowName": "Goat_Cheese_Onion",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Bug_Repellant",
+			"Animation": "AnimSequence'/Game/Character/Animations/Watering.Watering'"
+		},
+		{
+			"RowName": "Jounce_Liquid_Lemon",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Jounce_Liquid_Apple",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Jounce_Liquid_Orange",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Jounce_Liquid_Strawberry",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Jounce_Liquid_Peach",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Apple_Special",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Grapes_Special",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Peach_Special",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Strawberries_Special",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Orange_Special",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Lemon_Special",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Vegan_Cheese",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		}
+	]
+}

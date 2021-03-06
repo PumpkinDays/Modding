@@ -1,0 +1,5 @@
+Npc_Seating_Settings Structure:
+
+SeatingPositions: TArray-FNpcSeatingPosition
+SittingAnim: UAnimSequenceBase*
+ChildSittingAnim: UAnimSequenceBase*

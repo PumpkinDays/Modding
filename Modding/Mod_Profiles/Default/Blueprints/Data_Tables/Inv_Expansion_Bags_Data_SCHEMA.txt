@@ -1,0 +1,3 @@
+Inv_Expansion_Bags_Data Structure:
+
+IntProperty: integer

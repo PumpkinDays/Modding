@@ -1,0 +1,3 @@
+Hair_Hat_Replacements Structure:
+
+NameProperty: string

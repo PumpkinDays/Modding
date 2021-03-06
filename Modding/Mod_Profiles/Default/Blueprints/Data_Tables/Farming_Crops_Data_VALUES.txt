@@ -1,0 +1,6153 @@
+{
+	"Rows": 
+	[
+		{
+			"RowName": "Kiwi",
+			"HoursBetweenStages": 30,
+			"CropsPerHarvest": 30,
+			"CanRegrow": true,
+			"StaminaToHarvest": 2,
+			"Meshes": 
+			{
+				"Seed": "/Game/Foliage/Trees/Tree_Sapling.Tree_Sapling",
+				"Sprout": "/Game/Meshes/Crops/Kiwi_Medium.Kiwi_Medium",
+				"Leaf": "/Game/Meshes/Crops/Kiwi_Medium.Kiwi_Medium",
+				"Flower": "/Game/Meshes/Crops/Kiwi_Flower.Kiwi_Flower",
+				"Fruit": "/Game/Meshes/Crops/Kiwi_Fruit.Kiwi_Fruit",
+				"Wilting": "/Game/Meshes/Crops/Kiwi_Wilting.Kiwi_Wilting",
+				"Dead": "/Game/Foliage/Trees/Tree_Dead.Tree_Dead"
+			},
+			"CropPickHeight": 0,
+			"Seasons":
+			[ 1 ],
+			"TownVolumes":
+			[
+				"Diamond_Falls"
+			],
+			"IsTree": false,
+			"BaseHitsRequired": 0,
+			"FruitMaterialIndex": 0
+		},
+		{
+			"RowName": "Passion_Fruit",
+			"HoursBetweenStages": 24,
+			"CropsPerHarvest": 5,
+			"CanRegrow": true,
+			"StaminaToHarvest": 1,
+			"Meshes": 
+			{
+				"Seed": "/Game/Meshes/Farming/Plots/Seeded_Mound.Seeded_Mound",
+				"Sprout": "/Game/Meshes/Crops/Sprout.Sprout",
+				"Leaf": "/Game/Meshes/Crops/Passion_Fruit_Medium.Passion_Fruit_Medium",
+				"Flower": "/Game/Meshes/Crops/Passion_Fruit_Flower.Passion_Fruit_Flower",
+				"Fruit": "/Game/Meshes/Crops/Passiont_Fruit_Fruit.Passiont_Fruit_Fruit",
+				"Wilting": "/Game/Meshes/Crops/Grapes_Medium_Wilting.Grapes_Medium_Wilting",
+				"Dead": "/Game/Meshes/Crops/Dead_Plant.Dead_Plant"
+			},
+			"CropPickHeight": 0,
+			"Seasons":
+			[ 3 ],
+			"TownVolumes":
+			[
+				"Wahoo_Beach",
+				"Spoony_Island"
+			],
+			"IsTree": false,
+			"BaseHitsRequired": 0,
+			"FruitMaterialIndex": 0
+		},
+		{
+			"RowName": "Peanuts",
+			"HoursBetweenStages": 55,
+			"CropsPerHarvest": 5,
+			"CanRegrow": false,
+			"StaminaToHarvest": 1,
+			"Meshes": 
+			{
+				"Seed": "/Game/Meshes/Farming/Plots/Seeded_Mound.Seeded_Mound",
+				"Sprout": "/Game/Meshes/Crops/Sprout.Sprout",
+				"Leaf": "/Game/Meshes/Crops/Peanut_Plant_Medium.Peanut_Plant_Medium",
+				"Flower": "/Game/Meshes/Crops/Peanut_Plant_Flower.Peanut_Plant_Flower",
+				"Fruit": "/Game/Meshes/Crops/Peanut_Plant_Fruit.Peanut_Plant_Fruit",
+				"Wilting": "/Game/Foliage/Trees/Tree_Wilting.Tree_Wilting",
+				"Dead": "/Game/Meshes/Crops/Dead_Plant.Dead_Plant"
+			},
+			"CropPickHeight": 0,
+			"Seasons":
+			[ 2 ],
+			"TownVolumes":
+			[
+				"Wahoo_Beach",
+				"Spoony_Island"
+			],
+			"IsTree": false,
+			"BaseHitsRequired": 0,
+			"FruitMaterialIndex": 0
+		},
+		{
+			"RowName": "Asparagus",
+			"HoursBetweenStages": 24,
+			"CropsPerHarvest": 5,
+			"CanRegrow": false,
+			"StaminaToHarvest": 1,
+			"Meshes": 
+			{
+				"Seed": "/Game/Meshes/Farming/Plots/Seeded_Mound.Seeded_Mound",
+				"Sprout": "/Game/Meshes/Crops/Sprout.Sprout",
+				"Leaf": "/Game/Meshes/Crops/Asparagus_Medium.Asparagus_Medium",
+				"Flower": "/Game/Meshes/Crops/Asparagus_Flower.Asparagus_Flower",
+				"Fruit": "/Game/Meshes/Crops/Asparagus_Fruit.Asparagus_Fruit",
+				"Wilting": "/Game/Meshes/Crops/Asparagus_Medium_Wilting.Asparagus_Medium_Wilting",
+				"Dead": "/Game/Meshes/Crops/Dead_Plant.Dead_Plant"
+			},
+			"CropPickHeight": 0,
+			"Seasons":
+			[ 0 ],
+			"TownVolumes":
+			[
+				"Diamond_Falls"
+			],
+			"IsTree": false,
+			"BaseHitsRequired": 0,
+			"FruitMaterialIndex": 0
+		},
+		{
+			"RowName": "Potato",
+			"HoursBetweenStages": 15,
+			"CropsPerHarvest": 4,
+			"CanRegrow": false,
+			"StaminaToHarvest": 1,
+			"Meshes": 
+			{
+				"Seed": "/Game/Meshes/Farming/Plots/Seeded_Mound.Seeded_Mound",
+				"Sprout": "/Game/Meshes/Crops/Sprout.Sprout",
+				"Leaf": "/Game/Meshes/Crops/Potato_Medium.Potato_Medium",
+				"Flower": "/Game/Meshes/Crops/Potato_Medium2.Potato_Medium2",
+				"Fruit": "/Game/Meshes/Crops/Potato_Flower.Potato_Flower",
+				"Wilting": "/Game/Meshes/Crops/Potato_Medium_Wilting.Potato_Medium_Wilting",
+				"Dead": "/Game/Meshes/Crops/Dead_Plant.Dead_Plant"
+			},
+			"CropPickHeight": 0,
+			"Seasons":
+			[ 0, 1, 2, 3 ],
+			"TownVolumes":
+			[
+				"Wahoo_Beach",
+				"Pumpkinvale",
+				"Spoony_Island",
+				"Diamond_Falls"
+			],
+			"IsTree": false,
+			"BaseHitsRequired": 0,
+			"FruitMaterialIndex": 0
+		},
+		{
+			"RowName": "Corn",
+			"HoursBetweenStages": 48,
+			"CropsPerHarvest": 6,
+			"CanRegrow": true,
+			"StaminaToHarvest": 2,
+			"Meshes": 
+			{
+				"Seed": "/Game/Meshes/Farming/Plots/Seeded_Mound.Seeded_Mound",
+				"Sprout": "/Game/Meshes/Crops/Sprout.Sprout",
+				"Leaf": "/Game/Meshes/Crops/Corn_Medium.Corn_Medium",
+				"Flower": "/Game/Meshes/Crops/Corn_Flower.Corn_Flower",
+				"Fruit": "/Game/Meshes/Crops/Corn_Fruit.Corn_Fruit",
+				"Wilting": "/Game/Meshes/Crops/Corn_Medium_Wilting.Corn_Medium_Wilting",
+				"Dead": "/Game/Meshes/Crops/Dead_Plant.Dead_Plant"
+			},
+			"CropPickHeight": 1,
+			"Seasons":
+			[ 1 ],
+			"TownVolumes":
+			[
+				"Pumpkinvale",
+				"Wahoo_Beach",
+				"Spoony_Island",
+				"Diamond_Falls"
+			],
+			"IsTree": false,
+			"BaseHitsRequired": 0,
+			"FruitMaterialIndex": 0
+		},
+		{
+			"RowName": "Turnip",
+			"HoursBetweenStages": 15,
+			"CropsPerHarvest": 5,
+			"CanRegrow": false,
+			"StaminaToHarvest": 1,
+			"Meshes": 
+			{
+				"Seed": "/Game/Meshes/Farming/Plots/Seeded_Mound.Seeded_Mound",
+				"Sprout": "/Game/Meshes/Crops/Sprout.Sprout",
+				"Leaf": "/Game/Meshes/Crops/Turnip_Medium.Turnip_Medium",
+				"Flower": "/Game/Meshes/Crops/Turnip_Medium.Turnip_Medium",
+				"Fruit": "/Game/Meshes/Crops/Turnip_Fruit.Turnip_Fruit",
+				"Wilting": "/Game/Meshes/Crops/Turnip_Medium_Wilting.Turnip_Medium_Wilting",
+				"Dead": "/Game/Meshes/Crops/Dead_Plant.Dead_Plant"
+			},
+			"CropPickHeight": 0,
+			"Seasons":
+			[ 0, 1, 2, 3 ],
+			"TownVolumes":
+			[
+				"Pumpkinvale"
+			],
+			"IsTree": false,
+			"BaseHitsRequired": 0,
+			"FruitMaterialIndex": 0
+		},
+		{
+			"RowName": "Leek",
+			"HoursBetweenStages": 19,
+			"CropsPerHarvest": 3,
+			"CanRegrow": false,
+			"StaminaToHarvest": 1,
+			"Meshes": 
+			{
+				"Seed": "/Game/Meshes/Farming/Plots/Seeded_Mound.Seeded_Mound",
+				"Sprout": "/Game/Meshes/Crops/Sprout.Sprout",
+				"Leaf": "/Game/Meshes/Crops/Leek_Medium.Leek_Medium",
+				"Flower": "/Game/Meshes/Crops/Leek_Medium.Leek_Medium",
+				"Fruit": "/Game/Meshes/Crops/Leek_Fruit.Leek_Fruit",
+				"Wilting": "/Game/Meshes/Crops/Leek_Medium_Wilting.Leek_Medium_Wilting",
+				"Dead": "/Game/Meshes/Crops/Dead_Plant.Dead_Plant"
+			},
+			"CropPickHeight": 0,
+			"Seasons":
+			[ 3 ],
+			"TownVolumes":
+			[
+				"Diamond_Falls"
+			],
+			"IsTree": false,
+			"BaseHitsRequired": 0,
+			"FruitMaterialIndex": 0
+		},
+		{
+			"RowName": "Onion",
+			"HoursBetweenStages": 24,
+			"CropsPerHarvest": 3,
+			"CanRegrow": false,
+			"StaminaToHarvest": 1,
+			"Meshes": 
+			{
+				"Seed": "/Game/Meshes/Farming/Plots/Seeded_Mound.Seeded_Mound",
+				"Sprout": "/Game/Meshes/Crops/Sprout_2.Sprout_2",
+				"Leaf": "/Game/Meshes/Crops/Onion_Medium.Onion_Medium",
+				"Flower": "/Game/Meshes/Crops/Onion_Flower.Onion_Flower",
+				"Fruit": "/Game/Meshes/Crops/Onion_Fruit.Onion_Fruit",
+				"Wilting": "/Game/Meshes/Crops/Onion_Medium_Wilting.Onion_Medium_Wilting",
+				"Dead": "/Game/Meshes/Crops/Dead_Plant.Dead_Plant"
+			},
+			"CropPickHeight": 0,
+			"Seasons":
+			[ 0 ],
+			"TownVolumes":
+			[
+				"Pumpkinvale"
+			],
+			"IsTree": false,
+			"BaseHitsRequired": 0,
+			"FruitMaterialIndex": 0
+		},
+		{
+			"RowName": "Wheat",
+			"HoursBetweenStages": 15,
+			"CropsPerHarvest": 5,
+			"CanRegrow": false,
+			"StaminaToHarvest": 1,
+			"Meshes": 
+			{
+				"Seed": "/Game/Meshes/Farming/Plots/Seeded_Mound.Seeded_Mound",
+				"Sprout": "/Game/Meshes/Crops/Wheat_Sprout.Wheat_Sprout",
+				"Leaf": "/Game/Meshes/Crops/Wheat_Medium.Wheat_Medium",
+				"Flower": "/Game/Meshes/Crops/Wheat_Leaf.Wheat_Leaf",
+				"Fruit": "/Game/Meshes/Crops/Wheat_Fruit.Wheat_Fruit",
+				"Wilting": "/Game/Meshes/Crops/Wheat_Wilting.Wheat_Wilting",
+				"Dead": "/Game/Meshes/Crops/Dead_Plant.Dead_Plant"
+			},
+			"CropPickHeight": 1,
+			"Seasons":
+			[ 2, 0, 1 ],
+			"TownVolumes":
+			[
+				"Pumpkinvale",
+				"Wahoo_Beach",
+				"Diamond_Falls",
+				"Spoony_Island"
+			],
+			"IsTree": false,
+			"BaseHitsRequired": 0,
+			"FruitMaterialIndex": 0
+		},
+		{
+			"RowName": "Carrot",
+			"HoursBetweenStages": 24,
+			"CropsPerHarvest": 5,
+			"CanRegrow": false,
+			"StaminaToHarvest": 1,
+			"Meshes": 
+			{
+				"Seed": "/Game/Meshes/Farming/Plots/Seeded_Mound.Seeded_Mound",
+				"Sprout": "/Game/Meshes/Crops/Sprout.Sprout",
+				"Leaf": "/Game/Meshes/Crops/Carrots_Medium.Carrots_Medium",
+				"Flower": "/Game/Meshes/Crops/Carrots_Flower.Carrots_Flower",
+				"Fruit": "/Game/Meshes/Crops/Carrots_Fruit.Carrots_Fruit",
+				"Wilting": "/Game/Meshes/Crops/Carrot_Wilt.Carrot_Wilt",
+				"Dead": "/Game/Meshes/Crops/Dead_Plant.Dead_Plant"
+			},
+			"CropPickHeight": 0,
+			"Seasons":
+			[ 2 ],
+			"TownVolumes":
+			[
+				"Pumpkinvale"
+			],
+			"IsTree": false,
+			"BaseHitsRequired": 0,
+			"FruitMaterialIndex": 0
+		},
+		{
+			"RowName": "Soybeans",
+			"HoursBetweenStages": 56,
+			"CropsPerHarvest": 10,
+			"CanRegrow": false,
+			"StaminaToHarvest": 1,
+			"Meshes": 
+			{
+				"Seed": "/Game/Meshes/Farming/Plots/Seeded_Mound.Seeded_Mound",
+				"Sprout": "/Game/Meshes/Crops/Sprout.Sprout",
+				"Leaf": "/Game/Meshes/Crops/Black_Bean_Medium.Black_Bean_Medium",
+				"Flower": "/Game/Meshes/Crops/Black_Bean_Medium.Black_Bean_Medium",
+				"Fruit": "/Game/Meshes/Crops/Soy_Bean_Fruit.Soy_Bean_Fruit",
+				"Wilting": "/Game/Meshes/Crops/Black_Bean_Medium_Wilting.Black_Bean_Medium_Wilting",
+				"Dead": "/Game/Meshes/Crops/Dead_Plant.Dead_Plant"
+			},
+			"CropPickHeight": 0,
+			"Seasons":
+			[ 0, 1, 2, 3 ],
+			"TownVolumes":
+			[
+				"Pumpkinvale"
+			],
+			"IsTree": false,
+			"BaseHitsRequired": 0,
+			"FruitMaterialIndex": 0
+		},
+		{
+			"RowName": "Lettuce",
+			"HoursBetweenStages": 24,
+			"CropsPerHarvest": 3,
+			"CanRegrow": false,
+			"StaminaToHarvest": 1,
+			"Meshes": 
+			{
+				"Seed": "/Game/Meshes/Farming/Plots/Seeded_Mound.Seeded_Mound",
+				"Sprout": "/Game/Meshes/Crops/Sprout.Sprout",
+				"Leaf": "/Game/Meshes/Crops/Lettuce_Medium.Lettuce_Medium",
+				"Flower": "/Game/Meshes/Crops/Lettuce_Flower.Lettuce_Flower",
+				"Fruit": "/Game/Meshes/Crops/Lettuce_Fruit.Lettuce_Fruit",
+				"Wilting": "/Game/Meshes/Crops/Cabbage_Medium_Wilting.Cabbage_Medium_Wilting",
+				"Dead": "/Game/Meshes/Crops/Dead_Plant.Dead_Plant"
+			},
+			"CropPickHeight": 0,
+			"Seasons":
+			[ 0 ],
+			"TownVolumes":
+			[
+				"Pumpkinvale"
+			],
+			"IsTree": false,
+			"BaseHitsRequired": 0,
+			"FruitMaterialIndex": 0
+		},
+		{
+			"RowName": "Rhubarb",
+			"HoursBetweenStages": 56,
+			"CropsPerHarvest": 4,
+			"CanRegrow": false,
+			"StaminaToHarvest": 1,
+			"Meshes": 
+			{
+				"Seed": "/Game/Meshes/Farming/Plots/Seeded_Mound.Seeded_Mound",
+				"Sprout": "/Game/Meshes/Crops/Sprout.Sprout",
+				"Leaf": "/Game/Meshes/Crops/Rhubarb_Medium.Rhubarb_Medium",
+				"Flower": "/Game/Meshes/Crops/Rhubarb_Flower.Rhubarb_Flower",
+				"Fruit": "/Game/Meshes/Crops/Rhubarab_Fruit.Rhubarab_Fruit",
+				"Wilting": "/Game/Meshes/Crops/Rhubarb_Medium_Wilting.Rhubarb_Medium_Wilting",
+				"Dead": "/Game/Meshes/Crops/Dead_Plant.Dead_Plant"
+			},
+			"CropPickHeight": 0,
+			"Seasons":
+			[ 0 ],
+			"TownVolumes":
+			[
+				"Diamond_Falls"
+			],
+			"IsTree": false,
+			"BaseHitsRequired": 0,
+			"FruitMaterialIndex": 0
+		},
+		{
+			"RowName": "Peas",
+			"HoursBetweenStages": 24,
+			"CropsPerHarvest": 5,
+			"CanRegrow": true,
+			"StaminaToHarvest": 1,
+			"Meshes": 
+			{
+				"Seed": "/Game/Meshes/Farming/Plots/Seeded_Mound.Seeded_Mound",
+				"Sprout": "/Game/Meshes/Crops/Sprout.Sprout",
+				"Leaf": "/Game/Meshes/Crops/Black_Bean_Medium.Black_Bean_Medium",
+				"Flower": "/Game/Meshes/Crops/Black__Bean_Flower.Black__Bean_Flower",
+				"Fruit": "/Game/Meshes/Crops/Green_Bean_Fruit.Green_Bean_Fruit",
+				"Wilting": "/Game/Meshes/Crops/Black_Bean_Medium_Wilting.Black_Bean_Medium_Wilting",
+				"Dead": "/Game/Meshes/Crops/Dead_Plant.Dead_Plant"
+			},
+			"CropPickHeight": 0,
+			"Seasons":
+			[ 0 ],
+			"TownVolumes":
+			[
+				"Diamond_Falls"
+			],
+			"IsTree": false,
+			"BaseHitsRequired": 0,
+			"FruitMaterialIndex": 0
+		},
+		{
+			"RowName": "Strawberries",
+			"HoursBetweenStages": 38,
+			"CropsPerHarvest": 5,
+			"CanRegrow": true,
+			"StaminaToHarvest": 1,
+			"Meshes": 
+			{
+				"Seed": "/Game/Meshes/Farming/Plots/Seeded_Mound.Seeded_Mound",
+				"Sprout": "/Game/Meshes/Crops/Sprout.Sprout",
+				"Leaf": "/Game/Meshes/Crops/Strawberry_Medium.Strawberry_Medium",
+				"Flower": "/Game/Meshes/Crops/Strawberry_Flowers.Strawberry_Flowers",
+				"Fruit": "/Game/Meshes/Crops/Strawberry_Fruit.Strawberry_Fruit",
+				"Wilting": "/Game/Meshes/Crops/Strawberry_Medium_Wilting.Strawberry_Medium_Wilting",
+				"Dead": "/Game/Meshes/Crops/Dead_Plant.Dead_Plant"
+			},
+			"CropPickHeight": 0,
+			"Seasons":
+			[ 0 ],
+			"TownVolumes":
+			[
+				"Pumpkinvale"
+			],
+			"IsTree": false,
+			"BaseHitsRequired": 0,
+			"FruitMaterialIndex": 0
+		},
+		{
+			"RowName": "Green_Beans",
+			"HoursBetweenStages": 24,
+			"CropsPerHarvest": 10,
+			"CanRegrow": true,
+			"StaminaToHarvest": 1,
+			"Meshes": 
+			{
+				"Seed": "/Game/Meshes/Farming/Plots/Seeded_Mound.Seeded_Mound",
+				"Sprout": "/Game/Meshes/Crops/Sprout.Sprout",
+				"Leaf": "/Game/Meshes/Crops/Black_Bean_Medium.Black_Bean_Medium",
+				"Flower": "/Game/Meshes/Crops/Black_Bean_Medium.Black_Bean_Medium",
+				"Fruit": "/Game/Meshes/Crops/Green_Bean_Fruit.Green_Bean_Fruit",
+				"Wilting": "/Game/Meshes/Crops/Black_Bean_Medium_Wilting.Black_Bean_Medium_Wilting",
+				"Dead": "/Game/Meshes/Crops/Dead_Plant.Dead_Plant"
+			},
+			"CropPickHeight": 0,
+			"Seasons":
+			[ 0 ],
+			"TownVolumes":
+			[
+				"Diamond_Falls"
+			],
+			"IsTree": false,
+			"BaseHitsRequired": 0,
+			"FruitMaterialIndex": 0
+		},
+		{
+			"RowName": "Artichoke",
+			"HoursBetweenStages": 24,
+			"CropsPerHarvest": 4,
+			"CanRegrow": false,
+			"StaminaToHarvest": 1,
+			"Meshes": 
+			{
+				"Seed": "/Game/Meshes/Farming/Plots/Seeded_Mound.Seeded_Mound",
+				"Sprout": "/Game/Meshes/Crops/Sprout.Sprout",
+				"Leaf": "/Game/Meshes/Crops/Artichoke_Medium.Artichoke_Medium",
+				"Flower": "/Game/Meshes/Crops/Artichoke_Flower.Artichoke_Flower",
+				"Fruit": "/Game/Meshes/Crops/Artichoke_Fruit.Artichoke_Fruit",
+				"Wilting": "/Game/Meshes/Crops/Artichoke_Medium_Wilting.Artichoke_Medium_Wilting",
+				"Dead": "/Game/Meshes/Crops/Dead_Plant.Dead_Plant"
+			},
+			"CropPickHeight": 0,
+			"Seasons":
+			[ 1 ],
+			"TownVolumes":
+			[
+				"Diamond_Falls"
+			],
+			"IsTree": false,
+			"BaseHitsRequired": 0,
+			"FruitMaterialIndex": 0
+		},
+		{
+			"RowName": "Cranberries",
+			"HoursBetweenStages": 56,
+			"CropsPerHarvest": 10,
+			"CanRegrow": true,
+			"StaminaToHarvest": 2,
+			"Meshes": 
+			{
+				"Seed": "/Game/Meshes/Farming/Plots/Seeded_Mound.Seeded_Mound",
+				"Sprout": "/Game/Meshes/Crops/Sprout.Sprout",
+				"Leaf": "/Game/Meshes/Crops/Cranberries_Medium.Cranberries_Medium",
+				"Flower": "/Game/Meshes/Crops/Cranberries_Flower.Cranberries_Flower",
+				"Fruit": "/Game/Meshes/Crops/Cranberries_Fruit.Cranberries_Fruit",
+				"Wilting": "/Game/Meshes/Crops/Berry_Bush_Wilt.Berry_Bush_Wilt",
+				"Dead": "/Game/Meshes/Crops/Dead_Plant.Dead_Plant"
+			},
+			"CropPickHeight": 0,
+			"Seasons":
+			[ 2 ],
+			"TownVolumes":
+			[
+				"Diamond_Falls"
+			],
+			"IsTree": false,
+			"BaseHitsRequired": 0,
+			"FruitMaterialIndex": 0
+		},
+		{
+			"RowName": "Pumpkin",
+			"HoursBetweenStages": 28,
+			"CropsPerHarvest": 2,
+			"CanRegrow": false,
+			"StaminaToHarvest": 1,
+			"Meshes": 
+			{
+				"Seed": "/Game/Meshes/Farming/Plots/Seeded_Mound.Seeded_Mound",
+				"Sprout": "/Game/Meshes/Crops/Sprout.Sprout",
+				"Leaf": "/Game/Meshes/Crops/Pumpkin_Medium.Pumpkin_Medium",
+				"Flower": "/Game/Meshes/Crops/Pumpkin_Flower.Pumpkin_Flower",
+				"Fruit": "/Game/Meshes/Crops/Pumpkin_Fruit.Pumpkin_Fruit",
+				"Wilting": "/Game/Meshes/Crops/Pumpkin_Medium_Wilting.Pumpkin_Medium_Wilting",
+				"Dead": "/Game/Meshes/Crops/Dead_Plant.Dead_Plant"
+			},
+			"CropPickHeight": 0,
+			"Seasons":
+			[ 2 ],
+			"TownVolumes":
+			[
+				"Diamond_Falls",
+				"Pumpkinvale"
+			],
+			"IsTree": false,
+			"BaseHitsRequired": 0,
+			"FruitMaterialIndex": 0
+		},
+		{
+			"RowName": "Sweet_Potato",
+			"HoursBetweenStages": 19,
+			"CropsPerHarvest": 4,
+			"CanRegrow": false,
+			"StaminaToHarvest": 1,
+			"Meshes": 
+			{
+				"Seed": "/Game/Meshes/Farming/Plots/Seeded_Mound.Seeded_Mound",
+				"Sprout": "/Game/Meshes/Crops/Sprout.Sprout",
+				"Leaf": "/Game/Meshes/Crops/Potato_Medium.Potato_Medium",
+				"Flower": "/Game/Meshes/Crops/Potato_Medium2.Potato_Medium2",
+				"Fruit": "/Game/Meshes/Crops/Potato_Flower.Potato_Flower",
+				"Wilting": "/Game/Meshes/Crops/Potato_Medium_Wilting.Potato_Medium_Wilting",
+				"Dead": "/Game/Meshes/Crops/Dead_Plant.Dead_Plant"
+			},
+			"CropPickHeight": 0,
+			"Seasons":
+			[ 2 ],
+			"TownVolumes":
+			[
+				"Diamond_Falls"
+			],
+			"IsTree": false,
+			"BaseHitsRequired": 0,
+			"FruitMaterialIndex": 0
+		},
+		{
+			"RowName": "Cabbage",
+			"HoursBetweenStages": 24,
+			"CropsPerHarvest": 3,
+			"CanRegrow": false,
+			"StaminaToHarvest": 1,
+			"Meshes": 
+			{
+				"Seed": "/Game/Meshes/Farming/Plots/Seeded_Mound.Seeded_Mound",
+				"Sprout": "/Game/Meshes/Crops/Sprout.Sprout",
+				"Leaf": "/Game/Meshes/Crops/Cabbage_Medium.Cabbage_Medium",
+				"Flower": "/Game/Meshes/Crops/Cabbage_Flower.Cabbage_Flower",
+				"Fruit": "/Game/Meshes/Crops/Cabbage_Fruit.Cabbage_Fruit",
+				"Wilting": "/Game/Meshes/Crops/Cabbage_Medium_Wilting.Cabbage_Medium_Wilting",
+				"Dead": "/Game/Meshes/Crops/Dead_Plant.Dead_Plant"
+			},
+			"CropPickHeight": 0,
+			"Seasons":
+			[ 1 ],
+			"TownVolumes":
+			[
+				"Diamond_Falls"
+			],
+			"IsTree": false,
+			"BaseHitsRequired": 0,
+			"FruitMaterialIndex": 0
+		},
+		{
+			"RowName": "Chickpeas",
+			"HoursBetweenStages": 56,
+			"CropsPerHarvest": 10,
+			"CanRegrow": false,
+			"StaminaToHarvest": 2,
+			"Meshes": 
+			{
+				"Seed": "/Game/Meshes/Farming/Plots/Seeded_Mound.Seeded_Mound",
+				"Sprout": "/Game/Meshes/Crops/Sprout.Sprout",
+				"Leaf": "/Game/Foliage/Crop_Plants/Chickpeas/Chick_Peas_Stage2/Chickpeas_Stage2.Chickpeas_Stage2",
+				"Flower": "/Game/Foliage/Crop_Plants/Chickpeas/Chick_Peas_Stage3/Chickpeas_Stage3.Chickpeas_Stage3",
+				"Fruit": "/Game/Foliage/Crop_Plants/Chickpeas/Chick_Peas_Stage4/Chickpeas_Stage4.Chickpeas_Stage4",
+				"Wilting": "/Game/Foliage/Crop_Plants/Chickpeas/Chick_Peas_Stage5/Chickpeas_Stage5.Chickpeas_Stage5",
+				"Dead": "/Game/Meshes/Crops/Dead_Plant.Dead_Plant"
+			},
+			"CropPickHeight": 0,
+			"Seasons":
+			[ 1 ],
+			"TownVolumes":
+			[
+				"Diamond_Falls"
+			],
+			"IsTree": false,
+			"BaseHitsRequired": 0,
+			"FruitMaterialIndex": 0
+		},
+		{
+			"RowName": "Brussel_Sprouts",
+			"HoursBetweenStages": 24,
+			"CropsPerHarvest": 4,
+			"CanRegrow": false,
+			"StaminaToHarvest": 1,
+			"Meshes": 
+			{
+				"Seed": "/Game/Meshes/Farming/Plots/Seeded_Mound.Seeded_Mound",
+				"Sprout": "/Game/Meshes/Crops/Sprout.Sprout",
+				"Leaf": "/Game/Foliage/Crop_Plants/Brussel_Sprouts/Brussel_Sprouts_Stage2/Brussel_Sprouts_Stage2.Brussel_Sprouts_Stage2",
+				"Flower": "/Game/Foliage/Crop_Plants/Brussel_Sprouts/Brussel_Sprouts_Stage4/Brussel_Sprouts_Stage4.Brussel_Sprouts_Stage4",
+				"Fruit": "/Game/Foliage/Crop_Plants/Brussel_Sprouts/Brussel_Sprouts_Stage4/Brussel_Sprouts_Stage4.Brussel_Sprouts_Stage4",
+				"Wilting": "/Game/Foliage/Crop_Plants/Chickpeas/Chick_Peas_Stage5/Chickpeas_Stage5.Chickpeas_Stage5",
+				"Dead": "/Game/Meshes/Crops/Dead_Plant.Dead_Plant"
+			},
+			"CropPickHeight": 0,
+			"Seasons":
+			[ 3 ],
+			"TownVolumes":
+			[
+				"Diamond_Falls"
+			],
+			"IsTree": false,
+			"BaseHitsRequired": 0,
+			"FruitMaterialIndex": 0
+		},
+		{
+			"RowName": "Collard_Greens",
+			"HoursBetweenStages": 24,
+			"CropsPerHarvest": 3,
+			"CanRegrow": false,
+			"StaminaToHarvest": 1,
+			"Meshes": 
+			{
+				"Seed": "/Game/Meshes/Farming/Plots/Seeded_Mound.Seeded_Mound",
+				"Sprout": "/Game/Meshes/Crops/Sprout.Sprout",
+				"Leaf": "/Game/Meshes/Crops/Collard_Medium.Collard_Medium",
+				"Flower": "/Game/Meshes/Crops/Collard_Flower.Collard_Flower",
+				"Fruit": "/Game/Meshes/Crops/Collard_Fruit.Collard_Fruit",
+				"Wilting": "/Game/Meshes/Crops/Cabbage_Medium_Wilting.Cabbage_Medium_Wilting",
+				"Dead": "/Game/Meshes/Crops/Dead_Plant.Dead_Plant"
+			},
+			"CropPickHeight": 0,
+			"Seasons":
+			[ 3 ],
+			"TownVolumes":
+			[
+				"Diamond_Falls"
+			],
+			"IsTree": false,
+			"BaseHitsRequired": 0,
+			"FruitMaterialIndex": 0
+		},
+		{
+			"RowName": "Barley",
+			"HoursBetweenStages": 38,
+			"CropsPerHarvest": 5,
+			"CanRegrow": false,
+			"StaminaToHarvest": 1,
+			"Meshes": 
+			{
+				"Seed": "/Game/Meshes/Farming/Plots/Seeded_Mound.Seeded_Mound",
+				"Sprout": "/Game/Meshes/Crops/Wheat_Sprout.Wheat_Sprout",
+				"Leaf": "/Game/Meshes/Crops/Wheat_Medium.Wheat_Medium",
+				"Flower": "/Game/Meshes/Crops/Wheat_Leaf.Wheat_Leaf",
+				"Fruit": "/Game/Meshes/Crops/Wheat_Fruit.Wheat_Fruit",
+				"Wilting": "/Game/Meshes/Crops/Wheat_Wilting.Wheat_Wilting",
+				"Dead": "/Game/Meshes/Crops/Dead_Plant.Dead_Plant"
+			},
+			"CropPickHeight": 1,
+			"Seasons":
+			[ 0, 1, 2 ],
+			"TownVolumes":
+			[
+				"Pumpkinvale",
+				"Wahoo_Beach",
+				"Spoony_Island"
+			],
+			"IsTree": false,
+			"BaseHitsRequired": 0,
+			"FruitMaterialIndex": 0
+		},
+		{
+			"RowName": "Kidney_Beans",
+			"HoursBetweenStages": 34,
+			"CropsPerHarvest": 5,
+			"CanRegrow": false,
+			"StaminaToHarvest": 1,
+			"Meshes": 
+			{
+				"Seed": "/Game/Meshes/Farming/Plots/Seeded_Mound.Seeded_Mound",
+				"Sprout": "/Game/Meshes/Crops/Sprout.Sprout",
+				"Leaf": "/Game/Meshes/Crops/Black_Bean_Medium.Black_Bean_Medium",
+				"Flower": "/Game/Meshes/Crops/Black_Bean_Medium.Black_Bean_Medium",
+				"Fruit": "/Game/Meshes/Crops/Kidney_Beans_Fruit.Kidney_Beans_Fruit",
+				"Wilting": "/Game/Meshes/Crops/Black_Bean_Medium_Wilting.Black_Bean_Medium_Wilting",
+				"Dead": "/Game/Meshes/Crops/Dead_Plant.Dead_Plant"
+			},
+			"CropPickHeight": 0,
+			"Seasons":
+			[ 0, 1, 2 ],
+			"TownVolumes":
+			[
+				"Pumpkinvale"
+			],
+			"IsTree": false,
+			"BaseHitsRequired": 0,
+			"FruitMaterialIndex": 0
+		},
+		{
+			"RowName": "Peppercorn",
+			"HoursBetweenStages": 24,
+			"CropsPerHarvest": 5,
+			"CanRegrow": false,
+			"StaminaToHarvest": 1,
+			"Meshes": 
+			{
+				"Seed": "/Game/Meshes/Farming/Plots/Seeded_Mound.Seeded_Mound",
+				"Sprout": "/Game/Meshes/Crops/Sprout.Sprout",
+				"Leaf": "/Game/Meshes/Crops/Peppercorn_Medium.Peppercorn_Medium",
+				"Flower": "/Game/Meshes/Crops/Peppercorn_Flower.Peppercorn_Flower",
+				"Fruit": "/Game/Meshes/Crops/Peppercorn_Fruit.Peppercorn_Fruit",
+				"Wilting": "/Game/Meshes/Crops/Peppercorn_Medium_Wilting.Peppercorn_Medium_Wilting",
+				"Dead": "/Game/Meshes/Crops/Dead_Plant.Dead_Plant"
+			},
+			"CropPickHeight": 0,
+			"Seasons":
+			[ 1 ],
+			"TownVolumes":
+			[
+				"Wahoo_Beach",
+				"Pumpkinvale",
+				"Spoony_Island"
+			],
+			"IsTree": false,
+			"BaseHitsRequired": 0,
+			"FruitMaterialIndex": 0
+		},
+		{
+			"RowName": "Tomato",
+			"HoursBetweenStages": 56,
+			"CropsPerHarvest": 6,
+			"CanRegrow": true,
+			"StaminaToHarvest": 2,
+			"Meshes": 
+			{
+				"Seed": "/Game/Meshes/Farming/Plots/Seeded_Mound.Seeded_Mound",
+				"Sprout": "/Game/Meshes/Crops/Sprout.Sprout",
+				"Leaf": "/Game/Meshes/Crops/Tomato_Medium.Tomato_Medium",
+				"Flower": "/Game/Meshes/Crops/Tomato_Flower.Tomato_Flower",
+				"Fruit": "/Game/Meshes/Crops/Tomato_Fruit.Tomato_Fruit",
+				"Wilting": "/Game/Meshes/Crops/Tomato_Medium_Wilting.Tomato_Medium_Wilting",
+				"Dead": "/Game/Meshes/Crops/Dead_Plant.Dead_Plant"
+			},
+			"CropPickHeight": 0,
+			"Seasons":
+			[ 1 ],
+			"TownVolumes":
+			[
+				"Wahoo_Beach",
+				"Pumpkinvale",
+				"Spoony_Island"
+			],
+			"IsTree": false,
+			"BaseHitsRequired": 0,
+			"FruitMaterialIndex": 0
+		},
+		{
+			"RowName": "Bell_Pepper",
+			"HoursBetweenStages": 24,
+			"CropsPerHarvest": 4,
+			"CanRegrow": true,
+			"StaminaToHarvest": 1,
+			"Meshes": 
+			{
+				"Seed": "/Game/Meshes/Farming/Plots/Seeded_Mound.Seeded_Mound",
+				"Sprout": "/Game/Meshes/Crops/Sprout.Sprout",
+				"Leaf": "/Game/Meshes/Crops/Bell_Pepper_Medium.Bell_Pepper_Medium",
+				"Flower": "/Game/Meshes/Crops/Bell_Pepper_Flower.Bell_Pepper_Flower",
+				"Fruit": "/Game/Meshes/Crops/Bell_Pepper_Fruit.Bell_Pepper_Fruit",
+				"Wilting": "/Game/Meshes/Crops/Bell_Pepper_Medium_Wilting.Bell_Pepper_Medium_Wilting",
+				"Dead": "/Game/Meshes/Crops/Dead_Plant.Dead_Plant"
+			},
+			"CropPickHeight": 0,
+			"Seasons":
+			[ 1 ],
+			"TownVolumes":
+			[
+				"Pumpkinvale"
+			],
+			"IsTree": false,
+			"BaseHitsRequired": 0,
+			"FruitMaterialIndex": 0
+		},
+		{
+			"RowName": "Blackberries",
+			"HoursBetweenStages": 56,
+			"CropsPerHarvest": 10,
+			"CanRegrow": true,
+			"StaminaToHarvest": 2,
+			"Meshes": 
+			{
+				"Seed": "/Game/Meshes/Farming/Plots/Seeded_Mound.Seeded_Mound",
+				"Sprout": "/Game/Meshes/Crops/Sprout.Sprout",
+				"Leaf": "/Game/Meshes/Crops/Blackberries_Medium.Blackberries_Medium",
+				"Flower": "/Game/Meshes/Crops/Blackberries_Flower.Blackberries_Flower",
+				"Fruit": "/Game/Meshes/Crops/Blackberries_Fruit.Blackberries_Fruit",
+				"Wilting": "/Game/Meshes/Crops/Berry_Bush_Wilt.Berry_Bush_Wilt",
+				"Dead": "/Game/Meshes/Crops/Dead_Plant.Dead_Plant"
+			},
+			"CropPickHeight": 0,
+			"Seasons":
+			[ 1 ],
+			"TownVolumes":
+			[
+				"Pumpkinvale"
+			],
+			"IsTree": false,
+			"BaseHitsRequired": 0,
+			"FruitMaterialIndex": 0
+		},
+		{
+			"RowName": "Raspberries",
+			"HoursBetweenStages": 56,
+			"CropsPerHarvest": 10,
+			"CanRegrow": true,
+			"StaminaToHarvest": 2,
+			"Meshes": 
+			{
+				"Seed": "/Game/Meshes/Farming/Plots/Seeded_Mound.Seeded_Mound",
+				"Sprout": "/Game/Meshes/Crops/Sprout.Sprout",
+				"Leaf": "/Game/Meshes/Crops/Raspberries_Medium.Raspberries_Medium",
+				"Flower": "/Game/Meshes/Crops/Raspberries_Flower.Raspberries_Flower",
+				"Fruit": "/Game/Meshes/Crops/Raspberries_Fruit.Raspberries_Fruit",
+				"Wilting": "/Game/Meshes/Crops/Berry_Bush_Wilt.Berry_Bush_Wilt",
+				"Dead": "/Game/Meshes/Crops/Dead_Plant.Dead_Plant"
+			},
+			"CropPickHeight": 0,
+			"Seasons":
+			[ 1 ],
+			"TownVolumes":
+			[
+				"Pumpkinvale"
+			],
+			"IsTree": false,
+			"BaseHitsRequired": 0,
+			"FruitMaterialIndex": 0
+		},
+		{
+			"RowName": "Beet",
+			"HoursBetweenStages": 24,
+			"CropsPerHarvest": 3,
+			"CanRegrow": false,
+			"StaminaToHarvest": 1,
+			"Meshes": 
+			{
+				"Seed": "/Game/Meshes/Farming/Plots/Seeded_Mound.Seeded_Mound",
+				"Sprout": "/Game/Meshes/Crops/Sprout.Sprout",
+				"Leaf": "/Game/Meshes/Crops/Beet_Medium.Beet_Medium",
+				"Flower": "/Game/Meshes/Crops/Beet_Flower.Beet_Flower",
+				"Fruit": "/Game/Meshes/Crops/Beet_Fruit.Beet_Fruit",
+				"Wilting": "/Game/Meshes/Crops/Beet_Wilting.Beet_Wilting",
+				"Dead": "/Game/Meshes/Crops/Dead_Plant.Dead_Plant"
+			},
+			"CropPickHeight": 0,
+			"Seasons":
+			[ 1 ],
+			"TownVolumes":
+			[
+				"Pumpkinvale"
+			],
+			"IsTree": false,
+			"BaseHitsRequired": 0,
+			"FruitMaterialIndex": 0
+		},
+		{
+			"RowName": "Grapes",
+			"HoursBetweenStages": 56,
+			"CropsPerHarvest": 10,
+			"CanRegrow": true,
+			"StaminaToHarvest": 2,
+			"Meshes": 
+			{
+				"Seed": "/Game/Meshes/Farming/Plots/Seeded_Mound.Seeded_Mound",
+				"Sprout": "/Game/Meshes/Crops/Sprout.Sprout",
+				"Leaf": "/Game/Meshes/Crops/Grapes_Medium.Grapes_Medium",
+				"Flower": "/Game/Meshes/Crops/Grapes_Flower.Grapes_Flower",
+				"Fruit": "/Game/Meshes/Crops/Grapes_Fruits.Grapes_Fruits",
+				"Wilting": "/Game/Meshes/Crops/Grapes_Medium_Wilting.Grapes_Medium_Wilting",
+				"Dead": "/Game/Meshes/Crops/Dead_Plant.Dead_Plant"
+			},
+			"CropPickHeight": 0,
+			"Seasons":
+			[ 0 ],
+			"TownVolumes":
+			[
+				"Diamond_Falls"
+			],
+			"IsTree": false,
+			"BaseHitsRequired": 0,
+			"FruitMaterialIndex": 0
+		},
+		{
+			"RowName": "Oats",
+			"HoursBetweenStages": 34,
+			"CropsPerHarvest": 5,
+			"CanRegrow": false,
+			"StaminaToHarvest": 1,
+			"Meshes": 
+			{
+				"Seed": "/Game/Meshes/Farming/Plots/Seeded_Mound.Seeded_Mound",
+				"Sprout": "/Game/Meshes/Crops/Sprout.Sprout",
+				"Leaf": "/Game/Meshes/Crops/Wheat_Medium.Wheat_Medium",
+				"Flower": "/Game/Meshes/Crops/Wheat_Leaf.Wheat_Leaf",
+				"Fruit": "/Game/Meshes/Crops/Wheat_Fruit.Wheat_Fruit",
+				"Wilting": "/Game/Meshes/Crops/Wheat_Medium_Wilting.Wheat_Medium_Wilting",
+				"Dead": "/Game/Meshes/Crops/Dead_Plant.Dead_Plant"
+			},
+			"CropPickHeight": 0,
+			"Seasons":
+			[ 1 ],
+			"TownVolumes":
+			[
+				"Pumpkinvale"
+			],
+			"IsTree": false,
+			"BaseHitsRequired": 0,
+			"FruitMaterialIndex": 0
+		},
+		{
+			"RowName": "Eggplant",
+			"HoursBetweenStages": 34,
+			"CropsPerHarvest": 3,
+			"CanRegrow": false,
+			"StaminaToHarvest": 1,
+			"Meshes": 
+			{
+				"Seed": "/Game/Meshes/Farming/Plots/Seeded_Mound.Seeded_Mound",
+				"Sprout": "/Game/Meshes/Crops/Sprout.Sprout",
+				"Leaf": "/Game/Meshes/Crops/Eggplant_Medium.Eggplant_Medium",
+				"Flower": "/Game/Meshes/Crops/Eggplant_Flower.Eggplant_Flower",
+				"Fruit": "/Game/Meshes/Crops/Eggplant_Fruit.Eggplant_Fruit",
+				"Wilting": "/Game/Meshes/Crops/Eggplant_Medium_Wilting.Eggplant_Medium_Wilting",
+				"Dead": "/Game/Meshes/Crops/Dead_Plant.Dead_Plant"
+			},
+			"CropPickHeight": 0,
+			"Seasons":
+			[ 2 ],
+			"TownVolumes":
+			[
+				"Pumpkinvale"
+			],
+			"IsTree": false,
+			"BaseHitsRequired": 0,
+			"FruitMaterialIndex": 0
+		},
+		{
+			"RowName": "Broccoli",
+			"HoursBetweenStages": 34,
+			"CropsPerHarvest": 3,
+			"CanRegrow": false,
+			"StaminaToHarvest": 1,
+			"Meshes": 
+			{
+				"Seed": "/Game/Meshes/Farming/Plots/Seeded_Mound.Seeded_Mound",
+				"Sprout": "/Game/Meshes/Crops/Sprout.Sprout",
+				"Leaf": "/Game/Meshes/Crops/Broccoli_Medium.Broccoli_Medium",
+				"Flower": "/Game/Meshes/Crops/Broccoli_Flower.Broccoli_Flower",
+				"Fruit": "/Game/Meshes/Crops/Broccoli_Fruit.Broccoli_Fruit",
+				"Wilting": "/Game/Meshes/Crops/Broccoli_Medium_Wilting.Broccoli_Medium_Wilting",
+				"Dead": "/Game/Meshes/Crops/Dead_Plant.Dead_Plant"
+			},
+			"CropPickHeight": 0,
+			"Seasons":
+			[ 1 ],
+			"TownVolumes":
+			[
+				"Diamond_Falls"
+			],
+			"IsTree": false,
+			"BaseHitsRequired": 0,
+			"FruitMaterialIndex": 0
+		},
+		{
+			"RowName": "Cauliflower",
+			"HoursBetweenStages": 24,
+			"CropsPerHarvest": 3,
+			"CanRegrow": false,
+			"StaminaToHarvest": 1,
+			"Meshes": 
+			{
+				"Seed": "/Game/Meshes/Farming/Plots/Seeded_Mound.Seeded_Mound",
+				"Sprout": "/Game/Meshes/Crops/Sprout.Sprout",
+				"Leaf": "/Game/Meshes/Crops/Broccoli_Medium.Broccoli_Medium",
+				"Flower": "/Game/Meshes/Crops/Broccoli_Flower.Broccoli_Flower",
+				"Fruit": "/Game/Meshes/Crops/Cauliflower_Fruit.Cauliflower_Fruit",
+				"Wilting": "/Game/Meshes/Crops/Broccoli_Medium_Wilting.Broccoli_Medium_Wilting",
+				"Dead": "/Game/Meshes/Crops/Dead_Plant.Dead_Plant"
+			},
+			"CropPickHeight": 0,
+			"Seasons":
+			[ 2 ],
+			"TownVolumes":
+			[
+				"Pumpkinvale"
+			],
+			"IsTree": false,
+			"BaseHitsRequired": 0,
+			"FruitMaterialIndex": 0
+		},
+		{
+			"RowName": "Kale",
+			"HoursBetweenStages": 24,
+			"CropsPerHarvest": 3,
+			"CanRegrow": false,
+			"StaminaToHarvest": 1,
+			"Meshes": 
+			{
+				"Seed": "/Game/Meshes/Farming/Plots/Seeded_Mound.Seeded_Mound",
+				"Sprout": "/Game/Meshes/Crops/Sprout.Sprout",
+				"Leaf": "/Game/Meshes/Crops/Kale_Medium.Kale_Medium",
+				"Flower": "/Game/Meshes/Crops/Kale_Flower.Kale_Flower",
+				"Fruit": "/Game/Meshes/Crops/Kale_Fruit.Kale_Fruit",
+				"Wilting": "/Game/Meshes/Crops/Kale_Medium_Wilting.Kale_Medium_Wilting",
+				"Dead": "/Game/Meshes/Crops/Dead_Plant.Dead_Plant"
+			},
+			"CropPickHeight": 0,
+			"Seasons":
+			[ 3 ],
+			"TownVolumes":
+			[
+				"Pumpkinvale"
+			],
+			"IsTree": false,
+			"BaseHitsRequired": 0,
+			"FruitMaterialIndex": 0
+		},
+		{
+			"RowName": "Sugarcane",
+			"HoursBetweenStages": 24,
+			"CropsPerHarvest": 5,
+			"CanRegrow": false,
+			"StaminaToHarvest": 1,
+			"Meshes": 
+			{
+				"Seed": "/Game/Meshes/Farming/Plots/Seeded_Mound.Seeded_Mound",
+				"Sprout": "/Game/Meshes/Crops/Sprout.Sprout",
+				"Leaf": "/Game/Meshes/Crops/Sugarcane_Medium.Sugarcane_Medium",
+				"Flower": "/Game/Meshes/Crops/Sugarcane_Flower.Sugarcane_Flower",
+				"Fruit": "/Game/Meshes/Crops/Sugarcane_Fruit.Sugarcane_Fruit",
+				"Wilting": "/Game/Meshes/Crops/Sugarcane_Wilting.Sugarcane_Wilting",
+				"Dead": "/Game/Meshes/Crops/Dead_Plant.Dead_Plant"
+			},
+			"CropPickHeight": 0,
+			"Seasons":
+			[ 0, 1, 2, 3 ],
+			"TownVolumes":
+			[
+				"Wahoo_Beach",
+				"Spoony_Island"
+			],
+			"IsTree": false,
+			"BaseHitsRequired": 0,
+			"FruitMaterialIndex": 0
+		},
+		{
+			"RowName": "Lentils",
+			"HoursBetweenStages": 34,
+			"CropsPerHarvest": 5,
+			"CanRegrow": false,
+			"StaminaToHarvest": 1,
+			"Meshes": 
+			{
+				"Seed": "/Game/Meshes/Farming/Plots/Seeded_Mound.Seeded_Mound",
+				"Sprout": "/Game/Meshes/Crops/Sprout.Sprout",
+				"Leaf": "/Game/Meshes/Crops/Lentil_Medium.Lentil_Medium",
+				"Flower": "/Game/Meshes/Crops/Lentil_Flower.Lentil_Flower",
+				"Fruit": "/Game/Meshes/Crops/Lentil_Fruit.Lentil_Fruit",
+				"Wilting": "/Game/Meshes/Crops/Lentil_Medium_Wilting.Lentil_Medium_Wilting",
+				"Dead": "/Game/Meshes/Crops/Dead_Plant.Dead_Plant"
+			},
+			"CropPickHeight": 0,
+			"Seasons":
+			[ 0, 1, 2, 3 ],
+			"TownVolumes":
+			[
+				"Wahoo_Beach",
+				"Spoony_Island"
+			],
+			"IsTree": false,
+			"BaseHitsRequired": 0,
+			"FruitMaterialIndex": 0
+		},
+		{
+			"RowName": "Spinach",
+			"HoursBetweenStages": 24,
+			"CropsPerHarvest": 5,
+			"CanRegrow": false,
+			"StaminaToHarvest": 1,
+			"Meshes": 
+			{
+				"Seed": "/Game/Meshes/Farming/Plots/Seeded_Mound.Seeded_Mound",
+				"Sprout": "/Game/Meshes/Crops/Sprout.Sprout",
+				"Leaf": "/Game/Meshes/Crops/Spinach_Medium.Spinach_Medium",
+				"Flower": "/Game/Meshes/Crops/Spinach_Flower.Spinach_Flower",
+				"Fruit": "/Game/Meshes/Crops/Spinach_Fruit.Spinach_Fruit",
+				"Wilting": "/Game/Meshes/Crops/Cabbage_Medium_Wilting.Cabbage_Medium_Wilting",
+				"Dead": "/Game/Meshes/Crops/Dead_Plant.Dead_Plant"
+			},
+			"CropPickHeight": 0,
+			"Seasons":
+			[ 0 ],
+			"TownVolumes":
+			[
+				"Wahoo_Beach",
+				"Spoony_Island"
+			],
+			"IsTree": false,
+			"BaseHitsRequired": 0,
+			"FruitMaterialIndex": 0
+		},
+		{
+			"RowName": "Cucumber",
+			"HoursBetweenStages": 34,
+			"CropsPerHarvest": 5,
+			"CanRegrow": true,
+			"StaminaToHarvest": 1,
+			"Meshes": 
+			{
+				"Seed": "/Game/Meshes/Farming/Plots/Seeded_Mound.Seeded_Mound",
+				"Sprout": "/Game/Meshes/Crops/Sprout.Sprout",
+				"Leaf": "/Game/Meshes/Crops/cucumber_medium.Cucumber_Medium",
+				"Flower": "/Game/Meshes/Crops/Cucumber_Flower.Cucumber_Flower",
+				"Fruit": "/Game/Meshes/Crops/Cucumber_Fruit.Cucumber_Fruit",
+				"Wilting": "/Game/Meshes/Crops/Cucumber_Medium_Wilting.Cucumber_Medium_Wilting",
+				"Dead": "/Game/Meshes/Crops/Dead_Plant.Dead_Plant"
+			},
+			"CropPickHeight": 0,
+			"Seasons":
+			[ 0 ],
+			"TownVolumes":
+			[
+				"Wahoo_Beach",
+				"Spoony_Island"
+			],
+			"IsTree": false,
+			"BaseHitsRequired": 0,
+			"FruitMaterialIndex": 0
+		},
+		{
+			"RowName": "Jalapeno",
+			"HoursBetweenStages": 24,
+			"CropsPerHarvest": 5,
+			"CanRegrow": true,
+			"StaminaToHarvest": 1,
+			"Meshes": 
+			{
+				"Seed": "/Game/Meshes/Farming/Plots/Seeded_Mound.Seeded_Mound",
+				"Sprout": "/Game/Meshes/Crops/Sprout.Sprout",
+				"Leaf": "/Game/Meshes/Crops/Jalapeno_Medium.Jalapeno_Medium",
+				"Flower": "/Game/Meshes/Crops/Jalapeno_Flower.Jalapeno_Flower",
+				"Fruit": "/Game/Meshes/Crops/Jalapeno_Fruit.Jalapeno_Fruit",
+				"Wilting": "/Game/Meshes/Crops/Jalapeno_Wilt.Jalapeno_Wilt",
+				"Dead": "/Game/Meshes/Crops/Dead_Plant.Dead_Plant"
+			},
+			"CropPickHeight": 0,
+			"Seasons":
+			[ 0 ],
+			"TownVolumes":
+			[
+				"Wahoo_Beach",
+				"Spoony_Island"
+			],
+			"IsTree": false,
+			"BaseHitsRequired": 0,
+			"FruitMaterialIndex": 0
+		},
+		{
+			"RowName": "Pineapple",
+			"HoursBetweenStages": 96,
+			"CropsPerHarvest": 1,
+			"CanRegrow": false,
+			"StaminaToHarvest": 1,
+			"Meshes": 
+			{
+				"Seed": "/Game/Meshes/Farming/Plots/Seeded_Mound.Seeded_Mound",
+				"Sprout": "/Game/Meshes/Crops/Pineapple_Small.Pineapple_Small",
+				"Leaf": "/Game/Meshes/Crops/Pineapple_Small.Pineapple_Small",
+				"Flower": "/Game/Meshes/Crops/Pineapple_Flower.Pineapple_Flower",
+				"Fruit": "/Game/Meshes/Farming/Crops/Pineapple.Pineapple",
+				"Wilting": "/Game/Meshes/Crops/Pineapple_Wilting.Pineapple_Wilting",
+				"Dead": "/Game/Meshes/Crops/Dead_Plant.Dead_Plant"
+			},
+			"CropPickHeight": 0,
+			"Seasons":
+			[ 1 ],
+			"TownVolumes":
+			[
+				"Wahoo_Beach",
+				"Spoony_Island"
+			],
+			"IsTree": false,
+			"BaseHitsRequired": 0,
+			"FruitMaterialIndex": 0
+		},
+		{
+			"RowName": "Watermelon",
+			"HoursBetweenStages": 28,
+			"CropsPerHarvest": 2,
+			"CanRegrow": false,
+			"StaminaToHarvest": 1,
+			"Meshes": 
+			{
+				"Seed": "/Game/Meshes/Farming/Plots/Seeded_Mound.Seeded_Mound",
+				"Sprout": "/Game/Meshes/Crops/Sprout.Sprout",
+				"Leaf": "/Game/Meshes/Crops/Pumpkin_Medium.Pumpkin_Medium",
+				"Flower": "/Game/Meshes/Crops/Pumpkin_Flower.Pumpkin_Flower",
+				"Fruit": "/Game/Meshes/Crops/Watermelon_Fruit.Watermelon_Fruit",
+				"Wilting": "/Game/Meshes/Crops/Pumpkin_Medium_Wilting.Pumpkin_Medium_Wilting",
+				"Dead": "/Game/Meshes/Crops/Dead_Plant.Dead_Plant"
+			},
+			"CropPickHeight": 0,
+			"Seasons":
+			[ 1 ],
+			"TownVolumes":
+			[
+				"Wahoo_Beach",
+				"Spoony_Island"
+			],
+			"IsTree": false,
+			"BaseHitsRequired": 0,
+			"FruitMaterialIndex": 0
+		},
+		{
+			"RowName": "Cotton",
+			"HoursBetweenStages": 34,
+			"CropsPerHarvest": 10,
+			"CanRegrow": false,
+			"StaminaToHarvest": 2,
+			"Meshes": 
+			{
+				"Seed": "/Game/Meshes/Farming/Plots/Seeded_Mound.Seeded_Mound",
+				"Sprout": "/Game/Meshes/Crops/Sprout.Sprout",
+				"Leaf": "/Game/Meshes/Crops/Cotton_Medium.Cotton_Medium",
+				"Flower": "/Game/Meshes/Crops/Cotton_Flower.Cotton_Flower",
+				"Fruit": "/Game/Meshes/Crops/Cotton_Fruit.Cotton_Fruit",
+				"Wilting": "/Game/Meshes/Crops/Cotton_Medium_Wilting.Cotton_Medium_Wilting",
+				"Dead": "/Game/Meshes/Crops/Dead_Plant.Dead_Plant"
+			},
+			"CropPickHeight": 0,
+			"Seasons":
+			[ 1 ],
+			"TownVolumes":
+			[
+				"Wahoo_Beach",
+				"Spoony_Island"
+			],
+			"IsTree": false,
+			"BaseHitsRequired": 0,
+			"FruitMaterialIndex": 0
+		},
+		{
+			"RowName": "Zucchini",
+			"HoursBetweenStages": 24,
+			"CropsPerHarvest": 3,
+			"CanRegrow": true,
+			"StaminaToHarvest": 1,
+			"Meshes": 
+			{
+				"Seed": "/Game/Meshes/Farming/Plots/Seeded_Mound.Seeded_Mound",
+				"Sprout": "/Game/Meshes/Crops/Sprout.Sprout",
+				"Leaf": "/Game/Meshes/Crops/Zucchini_Medium.Zucchini_Medium",
+				"Flower": "/Game/Meshes/Crops/Zucchini_Flower.Zucchini_Flower",
+				"Fruit": "/Game/Meshes/Crops/Zucchini_Fruit.Zucchini_Fruit",
+				"Wilting": "/Game/Meshes/Crops/Zucchini_Medium_Wilting.Zucchini_Medium_Wilting",
+				"Dead": "/Game/Meshes/Crops/Dead_Plant.Dead_Plant"
+			},
+			"CropPickHeight": 0,
+			"Seasons":
+			[ 2 ],
+			"TownVolumes":
+			[
+				"Wahoo_Beach",
+				"Spoony_Island"
+			],
+			"IsTree": false,
+			"BaseHitsRequired": 0,
+			"FruitMaterialIndex": 0
+		},
+		{
+			"RowName": "Cantaloupe",
+			"HoursBetweenStages": 28,
+			"CropsPerHarvest": 2,
+			"CanRegrow": false,
+			"StaminaToHarvest": 1,
+			"Meshes": 
+			{
+				"Seed": "/Game/Meshes/Farming/Plots/Seeded_Mound.Seeded_Mound",
+				"Sprout": "/Game/Meshes/Crops/Sprout.Sprout",
+				"Leaf": "/Game/Meshes/Crops/Pumpkin_Medium.Pumpkin_Medium",
+				"Flower": "/Game/Meshes/Crops/Pumpkin_Flower.Pumpkin_Flower",
+				"Fruit": "/Game/Meshes/Crops/Cantaloupe_Fruit.Cantaloupe_Fruit",
+				"Wilting": "/Game/Meshes/Crops/Pumpkin_Medium_Wilting.Pumpkin_Medium_Wilting",
+				"Dead": "/Game/Meshes/Crops/Dead_Plant.Dead_Plant"
+			},
+			"CropPickHeight": 0,
+			"Seasons":
+			[ 2 ],
+			"TownVolumes":
+			[
+				"Wahoo_Beach",
+				"Spoony_Island"
+			],
+			"IsTree": false,
+			"BaseHitsRequired": 0,
+			"FruitMaterialIndex": 0
+		},
+		{
+			"RowName": "Honey_Dew",
+			"HoursBetweenStages": 28,
+			"CropsPerHarvest": 2,
+			"CanRegrow": false,
+			"StaminaToHarvest": 1,
+			"Meshes": 
+			{
+				"Seed": "/Game/Meshes/Farming/Plots/Seeded_Mound.Seeded_Mound",
+				"Sprout": "/Game/Meshes/Crops/Sprout.Sprout",
+				"Leaf": "/Game/Meshes/Crops/Pumpkin_Medium.Pumpkin_Medium",
+				"Flower": "/Game/Meshes/Crops/Pumpkin_Flower.Pumpkin_Flower",
+				"Fruit": "/Game/Meshes/Crops/Honeydew_Fruit.Honeydew_Fruit",
+				"Wilting": "/Game/Meshes/Crops/Pumpkin_Medium_Wilting.Pumpkin_Medium_Wilting",
+				"Dead": "/Game/Meshes/Crops/Dead_Plant.Dead_Plant"
+			},
+			"CropPickHeight": 0,
+			"Seasons":
+			[ 2 ],
+			"TownVolumes":
+			[
+				"Wahoo_Beach",
+				"Spoony_Island"
+			],
+			"IsTree": false,
+			"BaseHitsRequired": 0,
+			"FruitMaterialIndex": 0
+		},
+		{
+			"RowName": "Celery",
+			"HoursBetweenStages": 24,
+			"CropsPerHarvest": 3,
+			"CanRegrow": false,
+			"StaminaToHarvest": 1,
+			"Meshes": 
+			{
+				"Seed": "/Game/Meshes/Farming/Plots/Seeded_Mound.Seeded_Mound",
+				"Sprout": "/Game/Meshes/Crops/Sprout.Sprout",
+				"Leaf": "/Game/Meshes/Crops/Celery_Medium.Celery_Medium",
+				"Flower": "/Game/Meshes/Crops/Celery_Medium.Celery_Medium",
+				"Fruit": "/Game/Meshes/Crops/Celery_Fruit.Celery_Fruit",
+				"Wilting": "/Game/Meshes/Crops/Celery_Medium_Wilting.Celery_Medium_Wilting",
+				"Dead": "/Game/Meshes/Crops/Dead_Plant.Dead_Plant"
+			},
+			"CropPickHeight": 0,
+			"Seasons":
+			[ 3 ],
+			"TownVolumes":
+			[
+				"Wahoo_Beach",
+				"Spoony_Island"
+			],
+			"IsTree": false,
+			"BaseHitsRequired": 0,
+			"FruitMaterialIndex": 0
+		},
+		{
+			"RowName": "Coffee",
+			"HoursBetweenStages": 34,
+			"CropsPerHarvest": 5,
+			"CanRegrow": true,
+			"StaminaToHarvest": 1,
+			"Meshes": 
+			{
+				"Seed": "/Game/Meshes/Farming/Plots/Seeded_Mound.Seeded_Mound",
+				"Sprout": "/Game/Meshes/Crops/Sprout.Sprout",
+				"Leaf": "/Game/Meshes/Crops/Coffee_Medium.Coffee_Medium",
+				"Flower": "/Game/Meshes/Crops/Coffee_Flower.Coffee_Flower",
+				"Fruit": "/Game/Meshes/Crops/Coffee_Fruit.Coffee_Fruit",
+				"Wilting": "/Game/Meshes/Crops/Coffee_Medium_Wilting.Coffee_Medium_Wilting",
+				"Dead": "/Game/Meshes/Crops/Dead_Plant.Dead_Plant"
+			},
+			"CropPickHeight": 0,
+			"Seasons":
+			[ 1 ],
+			"TownVolumes":
+			[
+				"Wahoo_Beach",
+				"Pumpkinvale",
+				"Spoony_Island"
+			],
+			"IsTree": false,
+			"BaseHitsRequired": 0,
+			"FruitMaterialIndex": 0
+		},
+		{
+			"RowName": "Blueberries",
+			"HoursBetweenStages": 48,
+			"CropsPerHarvest": 10,
+			"CanRegrow": true,
+			"StaminaToHarvest": 2,
+			"Meshes": 
+			{
+				"Seed": "/Game/Meshes/Farming/Plots/Seeded_Mound.Seeded_Mound",
+				"Sprout": "/Game/Meshes/Crops/Sprout.Sprout",
+				"Leaf": "/Game/Meshes/Crops/Blueberries_Medium.Blueberries_Medium",
+				"Flower": "/Game/Meshes/Crops/Blueberries_Flower.Blueberries_Flower",
+				"Fruit": "/Game/Meshes/Crops/Blueberry_Fruit.Blueberry_Fruit",
+				"Wilting": "/Game/Meshes/Crops/Berry_Bush_Wilt.Berry_Bush_Wilt",
+				"Dead": "/Game/Meshes/Crops/Dead_Plant.Dead_Plant"
+			},
+			"CropPickHeight": 0,
+			"Seasons":
+			[ 2 ],
+			"TownVolumes":
+			[
+				"Pumpkinvale"
+			],
+			"IsTree": false,
+			"BaseHitsRequired": 0,
+			"FruitMaterialIndex": 0
+		},
+		{
+			"RowName": "Black_Beans",
+			"HoursBetweenStages": 24,
+			"CropsPerHarvest": 5,
+			"CanRegrow": true,
+			"StaminaToHarvest": 1,
+			"Meshes": 
+			{
+				"Seed": "/Game/Meshes/Farming/Plots/Seeded_Mound.Seeded_Mound",
+				"Sprout": "/Game/Meshes/Crops/Sprout.Sprout",
+				"Leaf": "/Game/Meshes/Crops/Black_Bean_Medium.Black_Bean_Medium",
+				"Flower": "/Game/Meshes/Crops/Black_Bean_Medium.Black_Bean_Medium",
+				"Fruit": "/Game/Meshes/Crops/Black_Bean_Fruit.Black_Bean_Fruit",
+				"Wilting": "/Game/Meshes/Crops/Black_Bean_Medium_Wilting.Black_Bean_Medium_Wilting",
+				"Dead": "/Game/Meshes/Crops/Dead_Plant.Dead_Plant"
+			},
+			"CropPickHeight": 0,
+			"Seasons":
+			[ 1 ],
+			"TownVolumes":
+			[
+				"Pumpkinvale",
+				"Wahoo_Beach",
+				"Spoony_Island"
+			],
+			"IsTree": false,
+			"BaseHitsRequired": 0,
+			"FruitMaterialIndex": 0
+		},
+		{
+			"RowName": "Acanthus",
+			"HoursBetweenStages": 24,
+			"CropsPerHarvest": 5,
+			"CanRegrow": false,
+			"StaminaToHarvest": 1,
+			"Meshes": 
+			{
+				"Seed": "/Game/Meshes/Farming/Plots/Seeded_Mound.Seeded_Mound",
+				"Sprout": "/Game/Meshes/Crops/Sprout.Sprout",
+				"Leaf": "/Game/Meshes/Flowers/Flower_Bushes/Acanthus_Bush_2.Acanthus_Bush_2",
+				"Flower": "/Game/Meshes/Flowers/Flower_Bushes/Acanthus_Bush_2.Acanthus_Bush_2",
+				"Fruit": "/Game/Meshes/Flowers/Flower_Bushes/Acanthus_Bush.Acanthus_Bush",
+				"Wilting": "/Game/Meshes/Flowers/Flower_Bushes/Acanthus_Bush_Wilting.Acanthus_Bush_Wilting",
+				"Dead": "/Game/Meshes/Crops/Dead_Plant.Dead_Plant"
+			},
+			"CropPickHeight": 0,
+			"Seasons":
+			[ 0, 1, 2 ],
+			"TownVolumes":
+			[
+				"Pumpkinvale"
+			],
+			"IsTree": false,
+			"BaseHitsRequired": 0,
+			"FruitMaterialIndex": 0
+		},
+		{
+			"RowName": "Adonis",
+			"HoursBetweenStages": 24,
+			"CropsPerHarvest": 5,
+			"CanRegrow": false,
+			"StaminaToHarvest": 1,
+			"Meshes": 
+			{
+				"Seed": "/Game/Meshes/Farming/Plots/Seeded_Mound.Seeded_Mound",
+				"Sprout": "/Game/Meshes/Crops/Sprout.Sprout",
+				"Leaf": "/Game/Meshes/Flowers/Flower_Bushes/Adonis_Bush_2.Adonis_Bush_2",
+				"Flower": "/Game/Meshes/Flowers/Flower_Bushes/Adonis_Bush_2.Adonis_Bush_2",
+				"Fruit": "/Game/Meshes/Flowers/Flower_Bushes/Adonis_Bush.Adonis_Bush",
+				"Wilting": "/Game/Meshes/Flowers/Flower_Bushes/Adonis_Bush_Wilting.Adonis_Bush_Wilting",
+				"Dead": "/Game/Meshes/Crops/Dead_Plant.Dead_Plant"
+			},
+			"CropPickHeight": 0,
+			"Seasons":
+			[ 0, 1, 2 ],
+			"TownVolumes":
+			[
+				"Pumpkinvale",
+				"Diamond_Falls"
+			],
+			"IsTree": false,
+			"BaseHitsRequired": 0,
+			"FruitMaterialIndex": 0
+		},
+		{
+			"RowName": "alstroemeria",
+			"HoursBetweenStages": 30,
+			"CropsPerHarvest": 5,
+			"CanRegrow": false,
+			"StaminaToHarvest": 1,
+			"Meshes": 
+			{
+				"Seed": "/Game/Meshes/Farming/Plots/Seeded_Mound.Seeded_Mound",
+				"Sprout": "/Game/Meshes/Crops/Sprout.Sprout",
+				"Leaf": "/Game/Meshes/Flowers/Flower_Bushes/Alstromeria_Bush_Bare.Alstromeria_Bush_Bare",
+				"Flower": "/Game/Meshes/Flowers/Flower_Bushes/Alstromeria_Bush_Bare.Alstromeria_Bush_Bare",
+				"Fruit": "/Game/Meshes/Flowers/Flower_Bushes/Alstromeria_Bush.Alstromeria_Bush",
+				"Wilting": "/Game/Meshes/Flowers/Flower_Bushes/Alstromeria_Bush_2.Alstromeria_Bush_2",
+				"Dead": "/Game/Meshes/Crops/Dead_Plant.Dead_Plant"
+			},
+			"CropPickHeight": 0,
+			"Seasons":
+			[ 0, 1, 2 ],
+			"TownVolumes":
+			[
+				"Pumpkinvale",
+				"Diamond_Falls"
+			],
+			"IsTree": false,
+			"BaseHitsRequired": 0,
+			"FruitMaterialIndex": 0
+		},
+		{
+			"RowName": "Angelonia",
+			"HoursBetweenStages": 24,
+			"CropsPerHarvest": 5,
+			"CanRegrow": false,
+			"StaminaToHarvest": 1,
+			"Meshes": 
+			{
+				"Seed": "/Game/Meshes/Farming/Plots/Seeded_Mound.Seeded_Mound",
+				"Sprout": "/Game/Meshes/Crops/Sprout.Sprout",
+				"Leaf": "/Game/Meshes/Flowers/Flower_Bushes/Delphinium_Bush_2.Delphinium_Bush_2",
+				"Flower": "/Game/Meshes/Flowers/Flower_Bushes/Delphinium_Bush_2.Delphinium_Bush_2",
+				"Fruit": "/Game/Meshes/Flowers/Flower_Bushes/Angelonia_Bush.Angelonia_Bush",
+				"Wilting": "/Game/Meshes/Flowers/Flower_Bushes/Delphinium_Bush_Wilting.Delphinium_Bush_Wilting",
+				"Dead": "/Game/Meshes/Crops/Dead_Plant.Dead_Plant"
+			},
+			"CropPickHeight": 0,
+			"Seasons":
+			[ 0, 1, 2 ],
+			"TownVolumes":
+			[
+				"Pumpkinvale"
+			],
+			"IsTree": false,
+			"BaseHitsRequired": 0,
+			"FruitMaterialIndex": 0
+		},
+		{
+			"RowName": "Babys_Breath",
+			"HoursBetweenStages": 24,
+			"CropsPerHarvest": 5,
+			"CanRegrow": false,
+			"StaminaToHarvest": 1,
+			"Meshes": 
+			{
+				"Seed": "/Game/Meshes/Farming/Plots/Seeded_Mound.Seeded_Mound",
+				"Sprout": "/Game/Meshes/Crops/Sprout.Sprout",
+				"Leaf": "/Game/Meshes/Flowers/Flower_Bushes/Babys_Breath_Small.Babys_Breath_Small",
+				"Flower": "/Game/Meshes/Flowers/Flower_Bushes/Babys_Breath_Medium.Babys_Breath_Medium",
+				"Fruit": "/Game/Meshes/Flowers/Flower_Bushes/Babys_Breath.Babys_Breath",
+				"Wilting": "/Game/Meshes/Flowers/Flower_Bushes/Babys_Breath_Small_Wilting.Babys_Breath_Small_Wilting",
+				"Dead": "/Game/Meshes/Crops/Dead_Plant.Dead_Plant"
+			},
+			"CropPickHeight": 0,
+			"Seasons":
+			[ 0, 1, 2 ],
+			"TownVolumes":
+			[
+				"Pumpkinvale",
+				"Diamond_Falls"
+			],
+			"IsTree": false,
+			"BaseHitsRequired": 0,
+			"FruitMaterialIndex": 0
+		},
+		{
+			"RowName": "Bee_Balm",
+			"HoursBetweenStages": 24,
+			"CropsPerHarvest": 5,
+			"CanRegrow": false,
+			"StaminaToHarvest": 1,
+			"Meshes": 
+			{
+				"Seed": "/Game/Meshes/Farming/Plots/Seeded_Mound.Seeded_Mound",
+				"Sprout": "/Game/Meshes/Crops/Sprout.Sprout",
+				"Leaf": "/Game/Meshes/Flowers/Flower_Bushes/Bee_Balm_Bush_2.Bee_Balm_Bush_2",
+				"Flower": "/Game/Meshes/Flowers/Flower_Bushes/Bee_Balm_Bush_2.Bee_Balm_Bush_2",
+				"Fruit": "/Game/Meshes/Flowers/Flower_Bushes/Bee_Balm_Bush.Bee_Balm_Bush",
+				"Wilting": "/Game/Meshes/Flowers/Flower_Bushes/Bee_Balm_Bush_Wilting.Bee_Balm_Bush_Wilting",
+				"Dead": "/Game/Meshes/Crops/Dead_Plant.Dead_Plant"
+			},
+			"CropPickHeight": 0,
+			"Seasons":
+			[ 0, 1, 2 ],
+			"TownVolumes":
+			[
+				"Pumpkinvale"
+			],
+			"IsTree": false,
+			"BaseHitsRequired": 0,
+			"FruitMaterialIndex": 0
+		},
+		{
+			"RowName": "Bird_Of_Paradise",
+			"HoursBetweenStages": 28,
+			"CropsPerHarvest": 5,
+			"CanRegrow": false,
+			"StaminaToHarvest": 1,
+			"Meshes": 
+			{
+				"Seed": "/Game/Meshes/Farming/Plots/Seeded_Mound.Seeded_Mound",
+				"Sprout": "/Game/Meshes/Crops/Sprout.Sprout",
+				"Leaf": "/Game/Meshes/Flowers/Flower_Bushes/Birds_Of_Paradise_2.Birds_Of_Paradise_2",
+				"Flower": "/Game/Meshes/Flowers/Flower_Bushes/Birds_Of_Paradise_2.Birds_Of_Paradise_2",
+				"Fruit": "/Game/Meshes/Flowers/Flower_Bushes/Birds_Of_Paradise.Birds_Of_Paradise",
+				"Wilting": "/Game/Meshes/Flowers/Flower_Bushes/Birds_Of_Paradise_Wilting.Birds_Of_Paradise_Wilting",
+				"Dead": "/Game/Meshes/Crops/Dead_Plant.Dead_Plant"
+			},
+			"CropPickHeight": 0,
+			"Seasons":
+			[ 0, 1, 2 ],
+			"TownVolumes":
+			[
+				"Wahoo_Beach",
+				"Spoony_Island"
+			],
+			"IsTree": false,
+			"BaseHitsRequired": 0,
+			"FruitMaterialIndex": 0
+		},
+		{
+			"RowName": "BlackDahlia",
+			"HoursBetweenStages": 30,
+			"CropsPerHarvest": 5,
+			"CanRegrow": false,
+			"StaminaToHarvest": 1,
+			"Meshes": 
+			{
+				"Seed": "/Game/Meshes/Farming/Plots/Seeded_Mound.Seeded_Mound",
+				"Sprout": "/Game/Meshes/Crops/Sprout.Sprout",
+				"Leaf": "/Game/Meshes/Flowers/Flower_Bushes/Black_Dahlia_Bush_2.Black_Dahlia_Bush_2",
+				"Flower": "/Game/Meshes/Flowers/Flower_Bushes/Black_Dahlia_Bush_2.Black_Dahlia_Bush_2",
+				"Fruit": "/Game/Meshes/Flowers/Flower_Bushes/Black_Dahlia_Bush.Black_Dahlia_Bush",
+				"Wilting": "/Game/Meshes/Flowers/Flower_Bushes/Black_Dahlia_Bush_Wilting.Black_Dahlia_Bush_Wilting",
+				"Dead": "/Game/Meshes/Crops/Dead_Plant.Dead_Plant"
+			},
+			"CropPickHeight": 0,
+			"Seasons":
+			[ 0, 1, 2 ],
+			"TownVolumes":
+			[
+				"Pumpkinvale"
+			],
+			"IsTree": false,
+			"BaseHitsRequired": 0,
+			"FruitMaterialIndex": 0
+		},
+		{
+			"RowName": "Black_Iris",
+			"HoursBetweenStages": 24,
+			"CropsPerHarvest": 5,
+			"CanRegrow": false,
+			"StaminaToHarvest": 1,
+			"Meshes": 
+			{
+				"Seed": "/Game/Meshes/Farming/Plots/Seeded_Mound.Seeded_Mound",
+				"Sprout": "/Game/Meshes/Crops/Sprout.Sprout",
+				"Leaf": "/Game/Meshes/Flowers/Flower_Bushes/Black_Iris_Bush_2.Black_Iris_Bush_2",
+				"Flower": "/Game/Meshes/Flowers/Flower_Bushes/Black_Iris_Bush_2.Black_Iris_Bush_2",
+				"Fruit": "/Game/Meshes/Flowers/Flower_Bushes/Black_Iris_Bush.Black_Iris_Bush",
+				"Wilting": "/Game/Meshes/Flowers/Flower_Bushes/Black_Iris_Bush_Wilting.Black_Iris_Bush_Wilting",
+				"Dead": "/Game/Meshes/Crops/Dead_Plant.Dead_Plant"
+			},
+			"CropPickHeight": 0,
+			"Seasons":
+			[ 0, 1, 2 ],
+			"TownVolumes":
+			[
+				"Pumpkinvale"
+			],
+			"IsTree": false,
+			"BaseHitsRequired": 0,
+			"FruitMaterialIndex": 0
+		},
+		{
+			"RowName": "Blue_Hydrangea",
+			"HoursBetweenStages": 30,
+			"CropsPerHarvest": 5,
+			"CanRegrow": false,
+			"StaminaToHarvest": 1,
+			"Meshes": 
+			{
+				"Seed": "/Game/Meshes/Farming/Plots/Seeded_Mound.Seeded_Mound",
+				"Sprout": "/Game/Meshes/Crops/Sprout.Sprout",
+				"Leaf": "/Game/Meshes/Flowers/Flower_Bushes/Hydrangea_Small.Hydrangea_Small",
+				"Flower": "/Game/Meshes/Flowers/Flower_Bushes/Hydrangea_Medium.Hydrangea_Medium",
+				"Fruit": "/Game/Meshes/Flowers/Flower_Bushes/Hydrangea_Bush_Blue.Hydrangea_Bush_Blue",
+				"Wilting": "/Game/Meshes/Flowers/Flower_Bushes/Hydrangea_Medium_Wilting.Hydrangea_Medium_Wilting",
+				"Dead": "/Game/Meshes/Crops/Dead_Plant.Dead_Plant"
+			},
+			"CropPickHeight": 0,
+			"Seasons":
+			[ 0, 1, 2 ],
+			"TownVolumes":
+			[
+				"Pumpkinvale",
+				"Wahoo_Beach",
+				"Spoony_Island"
+			],
+			"IsTree": false,
+			"BaseHitsRequired": 0,
+			"FruitMaterialIndex": 0
+		},
+		{
+			"RowName": "Canna",
+			"HoursBetweenStages": 24,
+			"CropsPerHarvest": 5,
+			"CanRegrow": false,
+			"StaminaToHarvest": 1,
+			"Meshes": 
+			{
+				"Seed": "/Game/Meshes/Farming/Plots/Seeded_Mound.Seeded_Mound",
+				"Sprout": "/Game/Meshes/Crops/Sprout.Sprout",
+				"Leaf": "/Game/Meshes/Flowers/Flower_Bushes/Canna_Lily_Bush_2.Canna_Lily_Bush_2",
+				"Flower": "/Game/Meshes/Flowers/Flower_Bushes/Canna_Lily_Bush_2.Canna_Lily_Bush_2",
+				"Fruit": "/Game/Meshes/Flowers/Flower_Bushes/Canna_Lily_Bush.Canna_Lily_Bush",
+				"Wilting": "/Game/Meshes/Flowers/Flower_Bushes/Canna_Lily_Bush_Wilting.Canna_Lily_Bush_Wilting",
+				"Dead": "/Game/Meshes/Crops/Dead_Plant.Dead_Plant"
+			},
+			"CropPickHeight": 0,
+			"Seasons":
+			[ 0, 1, 2 ],
+			"TownVolumes":
+			[
+				"Pumpkinvale"
+			],
+			"IsTree": false,
+			"BaseHitsRequired": 0,
+			"FruitMaterialIndex": 0
+		},
+		{
+			"RowName": "Carnation",
+			"HoursBetweenStages": 24,
+			"CropsPerHarvest": 5,
+			"CanRegrow": false,
+			"StaminaToHarvest": 1,
+			"Meshes": 
+			{
+				"Seed": "/Game/Meshes/Farming/Plots/Seeded_Mound.Seeded_Mound",
+				"Sprout": "/Game/Meshes/Crops/Sprout.Sprout",
+				"Leaf": "/Game/Meshes/Flowers/Flower_Bushes/Carnation_Bush_2.Carnation_Bush_2",
+				"Flower": "/Game/Meshes/Flowers/Flower_Bushes/Carnation_Bush_2.Carnation_Bush_2",
+				"Fruit": "/Game/Meshes/Flowers/Flower_Bushes/Carnation_Bush.Carnation_Bush",
+				"Wilting": "/Game/Meshes/Flowers/Flower_Bushes/Carnation_Bush_Wilting.Carnation_Bush_Wilting",
+				"Dead": "/Game/Meshes/Crops/Dead_Plant.Dead_Plant"
+			},
+			"CropPickHeight": 0,
+			"Seasons":
+			[ 0, 1, 2 ],
+			"TownVolumes":
+			[
+				"Pumpkinvale"
+			],
+			"IsTree": false,
+			"BaseHitsRequired": 0,
+			"FruitMaterialIndex": 0
+		},
+		{
+			"RowName": "Chrysanthemum",
+			"HoursBetweenStages": 24,
+			"CropsPerHarvest": 5,
+			"CanRegrow": false,
+			"StaminaToHarvest": 1,
+			"Meshes": 
+			{
+				"Seed": "/Game/Meshes/Farming/Plots/Seeded_Mound.Seeded_Mound",
+				"Sprout": "/Game/Meshes/Crops/Sprout.Sprout",
+				"Leaf": "/Game/Meshes/Flowers/Flower_Bushes/Chrysanthemum_Bush_2.Chrysanthemum_Bush_2",
+				"Flower": "/Game/Meshes/Flowers/Flower_Bushes/Chrysanthemum_Bush_2.Chrysanthemum_Bush_2",
+				"Fruit": "/Game/Meshes/Flowers/Flower_Bushes/Chrysanthemum_Bush.Chrysanthemum_Bush",
+				"Wilting": "/Game/Meshes/Flowers/Flower_Bushes/Chrysanthemum_Bush_Wilting.Chrysanthemum_Bush_Wilting",
+				"Dead": "/Game/Meshes/Crops/Dead_Plant.Dead_Plant"
+			},
+			"CropPickHeight": 0,
+			"Seasons":
+			[ 0, 1, 2 ],
+			"TownVolumes":
+			[
+				"Pumpkinvale"
+			],
+			"IsTree": false,
+			"BaseHitsRequired": 0,
+			"FruitMaterialIndex": 0
+		},
+		{
+			"RowName": "Coelogyne_Pandurata",
+			"HoursBetweenStages": 30,
+			"CropsPerHarvest": 5,
+			"CanRegrow": false,
+			"StaminaToHarvest": 1,
+			"Meshes": 
+			{
+				"Seed": "/Game/Meshes/Farming/Plots/Seeded_Mound.Seeded_Mound",
+				"Sprout": "/Game/Meshes/Crops/Sprout.Sprout",
+				"Leaf": "/Game/Meshes/Flowers/Flower_Bushes/Celogyne_Bush_2.Celogyne_Bush_2",
+				"Flower": "/Game/Meshes/Flowers/Flower_Bushes/Celogyne_Bush_2.Celogyne_Bush_2",
+				"Fruit": "/Game/Meshes/Flowers/Flower_Bushes/Celogyne_Bush.Celogyne_Bush",
+				"Wilting": "/Game/Meshes/Flowers/Flower_Bushes/Celogyne_Bush_Wilting.Celogyne_Bush_Wilting",
+				"Dead": "/Game/Meshes/Crops/Dead_Plant.Dead_Plant"
+			},
+			"CropPickHeight": 0,
+			"Seasons":
+			[ 0, 1, 2 ],
+			"TownVolumes":
+			[
+				"Wahoo_Beach",
+				"Spoony_Island"
+			],
+			"IsTree": false,
+			"BaseHitsRequired": 0,
+			"FruitMaterialIndex": 0
+		},
+		{
+			"RowName": "Colombine",
+			"HoursBetweenStages": 24,
+			"CropsPerHarvest": 5,
+			"CanRegrow": false,
+			"StaminaToHarvest": 1,
+			"Meshes": 
+			{
+				"Seed": "/Game/Meshes/Farming/Plots/Seeded_Mound.Seeded_Mound",
+				"Sprout": "/Game/Meshes/Crops/Sprout.Sprout",
+				"Leaf": "/Game/Meshes/Flowers/Flower_Bushes/Columbine_Bush_2.Columbine_Bush_2",
+				"Flower": "/Game/Meshes/Flowers/Flower_Bushes/Columbine_Bush_2.Columbine_Bush_2",
+				"Fruit": "/Game/Meshes/Flowers/Flower_Bushes/Columbine_Bush.Columbine_Bush",
+				"Wilting": "/Game/Meshes/Flowers/Flower_Bushes/Columbine_Bush_Wilting.Columbine_Bush_Wilting",
+				"Dead": "/Game/Meshes/Crops/Dead_Plant.Dead_Plant"
+			},
+			"CropPickHeight": 0,
+			"Seasons":
+			[ 0, 1, 2 ],
+			"TownVolumes":
+			[
+				"Pumpkinvale"
+			],
+			"IsTree": false,
+			"BaseHitsRequired": 0,
+			"FruitMaterialIndex": 0
+		},
+		{
+			"RowName": "Cosmos",
+			"HoursBetweenStages": 24,
+			"CropsPerHarvest": 5,
+			"CanRegrow": false,
+			"StaminaToHarvest": 1,
+			"Meshes": 
+			{
+				"Seed": "/Game/Meshes/Farming/Plots/Seeded_Mound.Seeded_Mound",
+				"Sprout": "/Game/Meshes/Crops/Sprout.Sprout",
+				"Leaf": "/Game/Meshes/Flowers/Flower_Bushes/Cosmos_Bush_2.Cosmos_Bush_2",
+				"Flower": "/Game/Meshes/Flowers/Flower_Bushes/Cosmos_Bush_2.Cosmos_Bush_2",
+				"Fruit": "/Game/Meshes/Flowers/Flower_Bushes/Cosmos_Bush.Cosmos_Bush",
+				"Wilting": "/Game/Meshes/Flowers/Flower_Bushes/Cosmos_Bush_Wilting.Cosmos_Bush_Wilting",
+				"Dead": "/Game/Meshes/Crops/Dead_Plant.Dead_Plant"
+			},
+			"CropPickHeight": 0,
+			"Seasons":
+			[ 0, 1, 2 ],
+			"TownVolumes":
+			[
+				"Pumpkinvale"
+			],
+			"IsTree": false,
+			"BaseHitsRequired": 0,
+			"FruitMaterialIndex": 0
+		},
+		{
+			"RowName": "cotyledon_blossoms",
+			"HoursBetweenStages": 24,
+			"CropsPerHarvest": 5,
+			"CanRegrow": false,
+			"StaminaToHarvest": 1,
+			"Meshes": 
+			{
+				"Seed": "/Game/Meshes/Farming/Plots/Seeded_Mound.Seeded_Mound",
+				"Sprout": "/Game/Meshes/Crops/Sprout.Sprout",
+				"Leaf": "/Game/Meshes/Flowers/Flower_Bushes/Cotyledon_Bush_2.Cotyledon_Bush_2",
+				"Flower": "/Game/Meshes/Flowers/Flower_Bushes/Cotyledon_Bush_2.Cotyledon_Bush_2",
+				"Fruit": "/Game/Meshes/Flowers/Flower_Bushes/Cotyledon_Bush.Cotyledon_Bush",
+				"Wilting": "/Game/Meshes/Flowers/Flower_Bushes/Cotyledon_Bush_Wilting.Cotyledon_Bush_Wilting",
+				"Dead": "/Game/Meshes/Crops/Dead_Plant.Dead_Plant"
+			},
+			"CropPickHeight": 0,
+			"Seasons":
+			[ 0, 1, 2 ],
+			"TownVolumes":
+			[
+				"Pumpkinvale"
+			],
+			"IsTree": false,
+			"BaseHitsRequired": 0,
+			"FruitMaterialIndex": 0
+		},
+		{
+			"RowName": "Cymbidium_Orchid",
+			"HoursBetweenStages": 30,
+			"CropsPerHarvest": 5,
+			"CanRegrow": false,
+			"StaminaToHarvest": 1,
+			"Meshes": 
+			{
+				"Seed": "/Game/Meshes/Farming/Plots/Seeded_Mound.Seeded_Mound",
+				"Sprout": "/Game/Meshes/Crops/Sprout.Sprout",
+				"Leaf": "/Game/Meshes/Flowers/Flower_Bushes/Cymbidium_Orchid_Bush_2.Cymbidium_Orchid_Bush_2",
+				"Flower": "/Game/Meshes/Flowers/Flower_Bushes/Cymbidium_Orchid_Bush_2.Cymbidium_Orchid_Bush_2",
+				"Fruit": "/Game/Meshes/Flowers/Flower_Bushes/Cymbidium_Orchid_Bush.Cymbidium_Orchid_Bush",
+				"Wilting": "/Game/Meshes/Flowers/Flower_Bushes/Cymbidium_Orchid_Bush_Wilting.Cymbidium_Orchid_Bush_Wilting",
+				"Dead": "/Game/Meshes/Crops/Dead_Plant.Dead_Plant"
+			},
+			"CropPickHeight": 0,
+			"Seasons":
+			[ 0, 1, 2 ],
+			"TownVolumes":
+			[
+				"Pumpkinvale"
+			],
+			"IsTree": false,
+			"BaseHitsRequired": 0,
+			"FruitMaterialIndex": 0
+		},
+		{
+			"RowName": "Daffodil",
+			"HoursBetweenStages": 30,
+			"CropsPerHarvest": 5,
+			"CanRegrow": false,
+			"StaminaToHarvest": 1,
+			"Meshes": 
+			{
+				"Seed": "/Game/Meshes/Farming/Plots/Seeded_Mound.Seeded_Mound",
+				"Sprout": "/Game/Meshes/Crops/Sprout.Sprout",
+				"Leaf": "/Game/Meshes/Flowers/Flower_Bushes/Daffodil_Bush_2.Daffodil_Bush_2",
+				"Flower": "/Game/Meshes/Flowers/Flower_Bushes/Daffodil_Bush_2.Daffodil_Bush_2",
+				"Fruit": "/Game/Meshes/Flowers/Flower_Bushes/Daffodil_Bush.Daffodil_Bush",
+				"Wilting": "/Game/Meshes/Flowers/Flower_Bushes/Daffodil_Bush_Wilting.Daffodil_Bush_Wilting",
+				"Dead": "/Game/Meshes/Crops/Dead_Plant.Dead_Plant"
+			},
+			"CropPickHeight": 0,
+			"Seasons":
+			[ 0, 1, 2 ],
+			"TownVolumes":
+			[
+				"Pumpkinvale"
+			],
+			"IsTree": false,
+			"BaseHitsRequired": 0,
+			"FruitMaterialIndex": 0
+		},
+		{
+			"RowName": "Daisy",
+			"HoursBetweenStages": 24,
+			"CropsPerHarvest": 5,
+			"CanRegrow": false,
+			"StaminaToHarvest": 1,
+			"Meshes": 
+			{
+				"Seed": "/Game/Meshes/Farming/Plots/Seeded_Mound.Seeded_Mound",
+				"Sprout": "/Game/Meshes/Crops/Sprout.Sprout",
+				"Leaf": "/Game/Meshes/Flowers/Flower_Bushes/Daisy_Bush_2.Daisy_Bush_2",
+				"Flower": "/Game/Meshes/Flowers/Flower_Bushes/Daisy_Bush_2.Daisy_Bush_2",
+				"Fruit": "/Game/Meshes/Flowers/Flower_Bushes/Daisy_Bush.Daisy_Bush",
+				"Wilting": "/Game/Meshes/Flowers/Flower_Bushes/Daisy_Bush_Wilting.Daisy_Bush_Wilting",
+				"Dead": "/Game/Meshes/Crops/Dead_Plant.Dead_Plant"
+			},
+			"CropPickHeight": 0,
+			"Seasons":
+			[ 0, 1, 2 ],
+			"TownVolumes":
+			[
+				"Pumpkinvale",
+				"Diamond_Falls"
+			],
+			"IsTree": false,
+			"BaseHitsRequired": 0,
+			"FruitMaterialIndex": 0
+		},
+		{
+			"RowName": "Day_Lily_Hemerocallis",
+			"HoursBetweenStages": 24,
+			"CropsPerHarvest": 5,
+			"CanRegrow": false,
+			"StaminaToHarvest": 1,
+			"Meshes": 
+			{
+				"Seed": "/Game/Meshes/Farming/Plots/Seeded_Mound.Seeded_Mound",
+				"Sprout": "/Game/Meshes/Crops/Sprout.Sprout",
+				"Leaf": "/Game/Meshes/Flowers/Flower_Bushes/Day_Lily_Bush_2.Day_Lily_Bush_2",
+				"Flower": "/Game/Meshes/Flowers/Flower_Bushes/Day_Lily_Bush_2.Day_Lily_Bush_2",
+				"Fruit": "/Game/Meshes/Flowers/Flower_Bushes/Day_Lily_Bush.Day_Lily_Bush",
+				"Wilting": "/Game/Meshes/Flowers/Flower_Bushes/Day_Lily_Bush_Wilting.Day_Lily_Bush_Wilting",
+				"Dead": "/Game/Meshes/Crops/Dead_Plant.Dead_Plant"
+			},
+			"CropPickHeight": 0,
+			"Seasons":
+			[ 0, 1, 2 ],
+			"TownVolumes":
+			[
+				"Pumpkinvale"
+			],
+			"IsTree": false,
+			"BaseHitsRequired": 0,
+			"FruitMaterialIndex": 0
+		},
+		{
+			"RowName": "Delphinium",
+			"HoursBetweenStages": 24,
+			"CropsPerHarvest": 5,
+			"CanRegrow": false,
+			"StaminaToHarvest": 1,
+			"Meshes": 
+			{
+				"Seed": "/Game/Meshes/Farming/Plots/Seeded_Mound.Seeded_Mound",
+				"Sprout": "/Game/Meshes/Crops/Sprout.Sprout",
+				"Leaf": "/Game/Meshes/Flowers/Flower_Bushes/Delphinium_Bush_2.Delphinium_Bush_2",
+				"Flower": "/Game/Meshes/Flowers/Flower_Bushes/Delphinium_Bush_2.Delphinium_Bush_2",
+				"Fruit": "/Game/Meshes/Flowers/Flower_Bushes/Delphinium_Bush.Delphinium_Bush",
+				"Wilting": "/Game/Meshes/Flowers/Flower_Bushes/Delphinium_Bush_Wilting.Delphinium_Bush_Wilting",
+				"Dead": "/Game/Meshes/Crops/Dead_Plant.Dead_Plant"
+			},
+			"CropPickHeight": 0,
+			"Seasons":
+			[ 0, 1, 2 ],
+			"TownVolumes":
+			[
+				"Pumpkinvale"
+			],
+			"IsTree": false,
+			"BaseHitsRequired": 0,
+			"FruitMaterialIndex": 0
+		},
+		{
+			"RowName": "Echeveria",
+			"HoursBetweenStages": 24,
+			"CropsPerHarvest": 5,
+			"CanRegrow": false,
+			"StaminaToHarvest": 1,
+			"Meshes": 
+			{
+				"Seed": "/Game/Meshes/Farming/Plots/Seeded_Mound.Seeded_Mound",
+				"Sprout": "/Game/Meshes/Crops/Sprout.Sprout",
+				"Leaf": "/Game/Meshes/Flowers/Flower_Bushes/Echeveria_Bush_2.Echeveria_Bush_2",
+				"Flower": "/Game/Meshes/Flowers/Flower_Bushes/Echeveria_Bush_2.Echeveria_Bush_2",
+				"Fruit": "/Game/Meshes/Flowers/Flower_Bushes/Echeveria_Bush.Echeveria_Bush",
+				"Wilting": "/Game/Meshes/Flowers/Flower_Bushes/Echeveria_Bush_Wilting.Echeveria_Bush_Wilting",
+				"Dead": "/Game/Meshes/Crops/Dead_Plant.Dead_Plant"
+			},
+			"CropPickHeight": 0,
+			"Seasons":
+			[ 0, 1, 2 ],
+			"TownVolumes":
+			[
+				"Pumpkinvale"
+			],
+			"IsTree": false,
+			"BaseHitsRequired": 0,
+			"FruitMaterialIndex": 0
+		},
+		{
+			"RowName": "Echinacea_Aster",
+			"HoursBetweenStages": 24,
+			"CropsPerHarvest": 5,
+			"CanRegrow": false,
+			"StaminaToHarvest": 1,
+			"Meshes": 
+			{
+				"Seed": "/Game/Meshes/Farming/Plots/Seeded_Mound.Seeded_Mound",
+				"Sprout": "/Game/Meshes/Crops/Sprout.Sprout",
+				"Leaf": "/Game/Meshes/Flowers/Flower_Bushes/Echinaaceea_Bush_2.Echinaaceea_Bush_2",
+				"Flower": "/Game/Meshes/Flowers/Flower_Bushes/Echinaaceea_Bush_2.Echinaaceea_Bush_2",
+				"Fruit": "/Game/Meshes/Flowers/Flower_Bushes/Echinaaceea_Bush.Echinaaceea_Bush",
+				"Wilting": "/Game/Meshes/Flowers/Flower_Bushes/Echinaaceea_Bush_Wilting.Echinaaceea_Bush_Wilting",
+				"Dead": "/Game/Meshes/Crops/Dead_Plant.Dead_Plant"
+			},
+			"CropPickHeight": 0,
+			"Seasons":
+			[ 0, 1, 2 ],
+			"TownVolumes":
+			[
+				"Pumpkinvale"
+			],
+			"IsTree": false,
+			"BaseHitsRequired": 0,
+			"FruitMaterialIndex": 0
+		},
+		{
+			"RowName": "Fiddle_Fern",
+			"HoursBetweenStages": 44,
+			"CropsPerHarvest": 5,
+			"CanRegrow": false,
+			"StaminaToHarvest": 1,
+			"Meshes": 
+			{
+				"Seed": "/Game/Meshes/Farming/Plots/Seeded_Mound.Seeded_Mound",
+				"Sprout": "/Game/Meshes/Crops/Sprout.Sprout",
+				"Leaf": "/Game/Meshes/Flowers/Flower_Bushes/FiddleFern_Bush.FiddleFern_Bush",
+				"Flower": "/Game/Meshes/Flowers/Flower_Bushes/FiddleFern_Bush.FiddleFern_Bush",
+				"Fruit": "/Game/Meshes/Flowers/Flower_Bushes/FiddleFern_Bush.FiddleFern_Bush",
+				"Wilting": "/Game/Meshes/Flowers/Flower_Bushes/FiddleFern_Bush_Wilting.FiddleFern_Bush_Wilting",
+				"Dead": "/Game/Meshes/Crops/Dead_Plant.Dead_Plant"
+			},
+			"CropPickHeight": 0,
+			"Seasons":
+			[ 0, 1, 2 ],
+			"TownVolumes":
+			[
+				"Pumpkinvale"
+			],
+			"IsTree": false,
+			"BaseHitsRequired": 0,
+			"FruitMaterialIndex": 0
+		},
+		{
+			"RowName": "Forget_Me_Not",
+			"HoursBetweenStages": 24,
+			"CropsPerHarvest": 5,
+			"CanRegrow": false,
+			"StaminaToHarvest": 1,
+			"Meshes": 
+			{
+				"Seed": "/Game/Meshes/Farming/Plots/Seeded_Mound.Seeded_Mound",
+				"Sprout": "/Game/Meshes/Crops/Sprout.Sprout",
+				"Leaf": "/Game/Meshes/Flowers/Flower_Bushes/Forget_Me_Not_2.Forget_Me_Not_2",
+				"Flower": "/Game/Meshes/Flowers/Flower_Bushes/Forget_Me_Not_2.Forget_Me_Not_2",
+				"Fruit": "/Game/Meshes/Flowers/Flower_Bushes/Forget_Me_Not.Forget_Me_Not",
+				"Wilting": "/Game/Meshes/Flowers/Flower_Bushes/Forget_Me_Not_Wilting.Forget_Me_Not_Wilting",
+				"Dead": "/Game/Meshes/Crops/Dead_Plant.Dead_Plant"
+			},
+			"CropPickHeight": 0,
+			"Seasons":
+			[ 0, 1, 2 ],
+			"TownVolumes":
+			[
+				"Pumpkinvale"
+			],
+			"IsTree": false,
+			"BaseHitsRequired": 0,
+			"FruitMaterialIndex": 0
+		},
+		{
+			"RowName": "Gardenia",
+			"HoursBetweenStages": 24,
+			"CropsPerHarvest": 5,
+			"CanRegrow": false,
+			"StaminaToHarvest": 1,
+			"Meshes": 
+			{
+				"Seed": "/Game/Meshes/Farming/Plots/Seeded_Mound.Seeded_Mound",
+				"Sprout": "/Game/Meshes/Crops/Sprout.Sprout",
+				"Leaf": "/Game/Meshes/Flowers/Flower_Bushes/Hydrangea_Small.Hydrangea_Small",
+				"Flower": "/Game/Meshes/Flowers/Flower_Bushes/Hydrangea_Medium.Hydrangea_Medium",
+				"Fruit": "/Game/Meshes/Flowers/Flower_Bushes/Gardenia_Bush.Gardenia_Bush",
+				"Wilting": "/Game/Meshes/Flowers/Flower_Bushes/Hydrangea_Medium_Wilting.Hydrangea_Medium_Wilting",
+				"Dead": "/Game/Meshes/Crops/Dead_Plant.Dead_Plant"
+			},
+			"CropPickHeight": 0,
+			"Seasons":
+			[ 0, 1, 2 ],
+			"TownVolumes":
+			[
+				"Pumpkinvale",
+				"Wahoo_Beach",
+				"Spoony_Island"
+			],
+			"IsTree": false,
+			"BaseHitsRequired": 0,
+			"FruitMaterialIndex": 0
+		},
+		{
+			"RowName": "Gentian",
+			"HoursBetweenStages": 24,
+			"CropsPerHarvest": 5,
+			"CanRegrow": false,
+			"StaminaToHarvest": 1,
+			"Meshes": 
+			{
+				"Seed": "/Game/Meshes/Farming/Plots/Seeded_Mound.Seeded_Mound",
+				"Sprout": "/Game/Meshes/Crops/Sprout.Sprout",
+				"Leaf": "/Game/Meshes/Flowers/Flower_Bushes/Gentian_Bush_2.Gentian_Bush_2",
+				"Flower": "/Game/Meshes/Flowers/Flower_Bushes/Gentian_Bush_2.Gentian_Bush_2",
+				"Fruit": "/Game/Meshes/Flowers/Flower_Bushes/Gentian_Bush.Gentian_Bush",
+				"Wilting": "/Game/Meshes/Flowers/Flower_Bushes/Gentian_Bush_Wilting.Gentian_Bush_Wilting",
+				"Dead": "/Game/Meshes/Crops/Dead_Plant.Dead_Plant"
+			},
+			"CropPickHeight": 0,
+			"Seasons":
+			[ 0, 1, 2 ],
+			"TownVolumes":
+			[
+				"Pumpkinvale",
+				"Wahoo_Beach",
+				"Spoony_Island"
+			],
+			"IsTree": false,
+			"BaseHitsRequired": 0,
+			"FruitMaterialIndex": 0
+		},
+		{
+			"RowName": "Gladiolus",
+			"HoursBetweenStages": 24,
+			"CropsPerHarvest": 5,
+			"CanRegrow": false,
+			"StaminaToHarvest": 1,
+			"Meshes": 
+			{
+				"Seed": "/Game/Meshes/Farming/Plots/Seeded_Mound.Seeded_Mound",
+				"Sprout": "/Game/Meshes/Crops/Sprout.Sprout",
+				"Leaf": "/Game/Meshes/Flowers/Flower_Bushes/Gladiolus_Bush_2.Gladiolus_Bush_2",
+				"Flower": "/Game/Meshes/Flowers/Flower_Bushes/Gladiolus_Bush_2.Gladiolus_Bush_2",
+				"Fruit": "/Game/Meshes/Flowers/Flower_Bushes/Gladiolus_Bush.Gladiolus_Bush",
+				"Wilting": "/Game/Meshes/Flowers/Flower_Bushes/Gladiolus_Bush_Wilting.Gladiolus_Bush_Wilting",
+				"Dead": "/Game/Meshes/Crops/Dead_Plant.Dead_Plant"
+			},
+			"CropPickHeight": 0,
+			"Seasons":
+			[ 0, 1, 2 ],
+			"TownVolumes":
+			[
+				"Pumpkinvale"
+			],
+			"IsTree": false,
+			"BaseHitsRequired": 0,
+			"FruitMaterialIndex": 0
+		},
+		{
+			"RowName": "Greenovia_Dodrentalis",
+			"HoursBetweenStages": 30,
+			"CropsPerHarvest": 5,
+			"CanRegrow": false,
+			"StaminaToHarvest": 1,
+			"Meshes": 
+			{
+				"Seed": "/Game/Meshes/Farming/Plots/Seeded_Mound.Seeded_Mound",
+				"Sprout": "/Game/Meshes/Crops/Sprout.Sprout",
+				"Leaf": "/Game/Meshes/Flowers/Flower_Bushes/Greenovia_Bush_D_2.Greenovia_Bush_D_2",
+				"Flower": "/Game/Meshes/Flowers/Flower_Bushes/Greenovia_Bush_D_2.Greenovia_Bush_D_2",
+				"Fruit": "/Game/Meshes/Flowers/Flower_Bushes/Greenovia_Bush_D.Greenovia_Bush_D",
+				"Wilting": "/Game/Meshes/Flowers/Flower_Bushes/Greenovia_Bush_D_Wilting.Greenovia_Bush_D_Wilting",
+				"Dead": "/Game/Meshes/Crops/Dead_Plant.Dead_Plant"
+			},
+			"CropPickHeight": 0,
+			"Seasons":
+			[ 0, 1, 2 ],
+			"TownVolumes":
+			[
+				"Pumpkinvale"
+			],
+			"IsTree": false,
+			"BaseHitsRequired": 0,
+			"FruitMaterialIndex": 0
+		},
+		{
+			"RowName": "Hellebore",
+			"HoursBetweenStages": 48,
+			"CropsPerHarvest": 5,
+			"CanRegrow": false,
+			"StaminaToHarvest": 1,
+			"Meshes": 
+			{
+				"Seed": "/Game/Meshes/Farming/Plots/Seeded_Mound.Seeded_Mound",
+				"Sprout": "/Game/Meshes/Crops/Sprout.Sprout",
+				"Leaf": "/Game/Meshes/Flowers/Flower_Bushes/Hellebore_Bush_2.Hellebore_Bush_2",
+				"Flower": "/Game/Meshes/Flowers/Flower_Bushes/Hellebore_Bush_2.Hellebore_Bush_2",
+				"Fruit": "/Game/Meshes/Flowers/Flower_Bushes/Hellebore_Bush.Hellebore_Bush",
+				"Wilting": "/Game/Meshes/Flowers/Flower_Bushes/Hellebore_Bush_Wilting.Hellebore_Bush_Wilting",
+				"Dead": "/Game/Meshes/Crops/Dead_Plant.Dead_Plant"
+			},
+			"CropPickHeight": 0,
+			"Seasons":
+			[ 0, 1, 2 ],
+			"TownVolumes":
+			[
+				"Pumpkinvale",
+				"Diamond_Falls"
+			],
+			"IsTree": false,
+			"BaseHitsRequired": 0,
+			"FruitMaterialIndex": 0
+		},
+		{
+			"RowName": "Hollyhock_Alcea",
+			"HoursBetweenStages": 30,
+			"CropsPerHarvest": 5,
+			"CanRegrow": false,
+			"StaminaToHarvest": 1,
+			"Meshes": 
+			{
+				"Seed": "/Game/Meshes/Farming/Plots/Seeded_Mound.Seeded_Mound",
+				"Sprout": "/Game/Meshes/Crops/Sprout.Sprout",
+				"Leaf": "/Game/Meshes/Flowers/Flower_Bushes/Hollyhock_Bush_2.Hollyhock_Bush_2",
+				"Flower": "/Game/Meshes/Flowers/Flower_Bushes/Hollyhock_Bush_2.Hollyhock_Bush_2",
+				"Fruit": "/Game/Meshes/Flowers/Flower_Bushes/Hollyhock_Bush.Hollyhock_Bush",
+				"Wilting": "/Game/Meshes/Flowers/Flower_Bushes/Hollyhock_Bush__Wlting.Hollyhock_Bush__Wlting",
+				"Dead": "/Game/Meshes/Crops/Dead_Plant.Dead_Plant"
+			},
+			"CropPickHeight": 0,
+			"Seasons":
+			[ 0, 1, 2 ],
+			"TownVolumes":
+			[
+				"Pumpkinvale",
+				"Diamond_Falls"
+			],
+			"IsTree": false,
+			"BaseHitsRequired": 0,
+			"FruitMaterialIndex": 0
+		},
+		{
+			"RowName": "Hyacinth",
+			"HoursBetweenStages": 24,
+			"CropsPerHarvest": 5,
+			"CanRegrow": false,
+			"StaminaToHarvest": 1,
+			"Meshes": 
+			{
+				"Seed": "/Game/Meshes/Farming/Plots/Seeded_Mound.Seeded_Mound",
+				"Sprout": "/Game/Meshes/Crops/Sprout.Sprout",
+				"Leaf": "/Game/Meshes/Flowers/Flower_Bushes/Hyacinth_BUsh_2.Hyacinth_BUsh_2",
+				"Flower": "/Game/Meshes/Flowers/Flower_Bushes/Hyacinth_BUsh_2.Hyacinth_BUsh_2",
+				"Fruit": "/Game/Meshes/Flowers/Flower_Bushes/Hyacinth_BUsh.Hyacinth_BUsh",
+				"Wilting": "/Game/Meshes/Flowers/Flower_Bushes/Hyacinth_Wilting.Hyacinth_Wilting",
+				"Dead": "/Game/Meshes/Crops/Dead_Plant.Dead_Plant"
+			},
+			"CropPickHeight": 0,
+			"Seasons":
+			[ 0, 1, 2 ],
+			"TownVolumes":
+			[
+				"Pumpkinvale"
+			],
+			"IsTree": false,
+			"BaseHitsRequired": 0,
+			"FruitMaterialIndex": 0
+		},
+		{
+			"RowName": "Iris_Cristata",
+			"HoursBetweenStages": 24,
+			"CropsPerHarvest": 5,
+			"CanRegrow": false,
+			"StaminaToHarvest": 1,
+			"Meshes": 
+			{
+				"Seed": "/Game/Meshes/Farming/Plots/Seeded_Mound.Seeded_Mound",
+				"Sprout": "/Game/Meshes/Crops/Sprout.Sprout",
+				"Leaf": "/Game/Meshes/Flowers/Flower_Bushes/Iris_Cristata_Bush_2.Iris_Cristata_Bush_2",
+				"Flower": "/Game/Meshes/Flowers/Flower_Bushes/Iris_Cristata_Bush_2.Iris_Cristata_Bush_2",
+				"Fruit": "/Game/Meshes/Flowers/Flower_Bushes/Iris_Cristata_Bush.Iris_Cristata_Bush",
+				"Wilting": "/Game/Meshes/Flowers/Flower_Bushes/Iris_Cristata_Bush_Wilting.Iris_Cristata_Bush_Wilting",
+				"Dead": "/Game/Meshes/Crops/Dead_Plant.Dead_Plant"
+			},
+			"CropPickHeight": 0,
+			"Seasons":
+			[ 0, 1, 2 ],
+			"TownVolumes":
+			[
+				"Pumpkinvale"
+			],
+			"IsTree": false,
+			"BaseHitsRequired": 0,
+			"FruitMaterialIndex": 0
+		},
+		{
+			"RowName": "Iris",
+			"HoursBetweenStages": 24,
+			"CropsPerHarvest": 5,
+			"CanRegrow": false,
+			"StaminaToHarvest": 1,
+			"Meshes": 
+			{
+				"Seed": "/Game/Meshes/Farming/Plots/Seeded_Mound.Seeded_Mound",
+				"Sprout": "/Game/Meshes/Crops/Sprout.Sprout",
+				"Leaf": "/Game/Meshes/Flowers/Flower_Bushes/Black_Iris_Bush_2.Black_Iris_Bush_2",
+				"Flower": "/Game/Meshes/Flowers/Flower_Bushes/Black_Iris_Bush_2.Black_Iris_Bush_2",
+				"Fruit": "/Game/Meshes/Flowers/Flower_Bushes/Iris_Bush.Iris_Bush",
+				"Wilting": "/Game/Meshes/Flowers/Flower_Bushes/Iris_Bush_Wilting.Iris_Bush_Wilting",
+				"Dead": "/Game/Meshes/Crops/Dead_Plant.Dead_Plant"
+			},
+			"CropPickHeight": 0,
+			"Seasons":
+			[ 0, 1, 2 ],
+			"TownVolumes":
+			[
+				"Wahoo_Beach",
+				"Spoony_Island"
+			],
+			"IsTree": false,
+			"BaseHitsRequired": 0,
+			"FruitMaterialIndex": 0
+		},
+		{
+			"RowName": "Jade_Vine_Flower",
+			"HoursBetweenStages": 28,
+			"CropsPerHarvest": 5,
+			"CanRegrow": false,
+			"StaminaToHarvest": 1,
+			"Meshes": 
+			{
+				"Seed": "/Game/Meshes/Farming/Plots/Seeded_Mound.Seeded_Mound",
+				"Sprout": "/Game/Meshes/Crops/Sprout.Sprout",
+				"Leaf": "/Game/Meshes/Crops/cucumber_medium.Cucumber_Medium",
+				"Flower": "/Game/Meshes/Crops/cucumber_medium.Cucumber_Medium",
+				"Fruit": "/Game/Meshes/Flowers/Flower_Bushes/Jade_Vine_Bush2.Jade_Vine_Bush2",
+				"Wilting": "/Game/Meshes/Flowers/Flower_Bushes/Jade_Vine_Bush_Wilting2.Jade_Vine_Bush_Wilting2",
+				"Dead": "/Game/Meshes/Crops/Dead_Plant.Dead_Plant"
+			},
+			"CropPickHeight": 0,
+			"Seasons":
+			[ 0, 1, 2 ],
+			"TownVolumes":
+			[
+				"Wahoo_Beach",
+				"Spoony_Island"
+			],
+			"IsTree": false,
+			"BaseHitsRequired": 0,
+			"FruitMaterialIndex": 0
+		},
+		{
+			"RowName": "Lambs_Ear",
+			"HoursBetweenStages": 30,
+			"CropsPerHarvest": 5,
+			"CanRegrow": false,
+			"StaminaToHarvest": 1,
+			"Meshes": 
+			{
+				"Seed": "/Game/Meshes/Farming/Plots/Seeded_Mound.Seeded_Mound",
+				"Sprout": "/Game/Meshes/Crops/Sprout.Sprout",
+				"Leaf": "/Game/Meshes/Flowers/Flower_Bushes/Lambs_Ear_Small.Lambs_Ear_Small",
+				"Flower": "/Game/Meshes/Flowers/Flower_Bushes/Lambs_Ear_Small.Lambs_Ear_Small",
+				"Fruit": "/Game/Meshes/Flowers/Flower_Bushes/Lambs_Ear.Lambs_Ear",
+				"Wilting": "/Game/Meshes/Flowers/Flower_Bushes/Lambs_Ear_Small_Wilting.Lambs_Ear_Small_Wilting",
+				"Dead": "/Game/Meshes/Crops/Dead_Plant.Dead_Plant"
+			},
+			"CropPickHeight": 0,
+			"Seasons":
+			[ 0, 1, 2 ],
+			"TownVolumes":
+			[
+				"Pumpkinvale"
+			],
+			"IsTree": false,
+			"BaseHitsRequired": 0,
+			"FruitMaterialIndex": 0
+		},
+		{
+			"RowName": "Mariposas_De_Cuba",
+			"HoursBetweenStages": 24,
+			"CropsPerHarvest": 5,
+			"CanRegrow": false,
+			"StaminaToHarvest": 1,
+			"Meshes": 
+			{
+				"Seed": "/Game/Meshes/Farming/Plots/Seeded_Mound.Seeded_Mound",
+				"Sprout": "/Game/Meshes/Crops/Sprout.Sprout",
+				"Leaf": "/Game/Meshes/Flowers/Flower_Bushes/Mariposas_De_Cuba_2.Mariposas_De_Cuba_2",
+				"Flower": "/Game/Meshes/Flowers/Flower_Bushes/Mariposas_De_Cuba_2.Mariposas_De_Cuba_2",
+				"Fruit": "/Game/Meshes/Flowers/Flower_Bushes/Mariposas_De_Cuba.Mariposas_De_Cuba",
+				"Wilting": "/Game/Meshes/Flowers/Flower_Bushes/Mariposas_De_Cuba_Wilting.Mariposas_De_Cuba_Wilting",
+				"Dead": "/Game/Meshes/Crops/Dead_Plant.Dead_Plant"
+			},
+			"CropPickHeight": 0,
+			"Seasons":
+			[ 0, 1, 2 ],
+			"TownVolumes":
+			[
+				"Pumpkinvale"
+			],
+			"IsTree": false,
+			"BaseHitsRequired": 0,
+			"FruitMaterialIndex": 0
+		},
+		{
+			"RowName": "Morning_Glory",
+			"HoursBetweenStages": 36,
+			"CropsPerHarvest": 5,
+			"CanRegrow": false,
+			"StaminaToHarvest": 1,
+			"Meshes": 
+			{
+				"Seed": "/Game/Meshes/Farming/Plots/Seeded_Mound.Seeded_Mound",
+				"Sprout": "/Game/Meshes/Crops/Sprout.Sprout",
+				"Leaf": "/Game/Meshes/Flowers/Flower_Bushes/Morning_Glory_Bush_Trellis_Bare.Morning_Glory_Bush_Trellis_Bare",
+				"Flower": "/Game/Meshes/Flowers/Flower_Bushes/Morning_Glory_Bush_Trellis_Bare.Morning_Glory_Bush_Trellis_Bare",
+				"Fruit": "/Game/Meshes/Flowers/Flower_Bushes/Morning_Glory_Bush_Trellis.Morning_Glory_Bush_Trellis",
+				"Wilting": "/Game/Meshes/Flowers/Flower_Bushes/Morning_Glory_Bush_Trellis_Wilting.Morning_Glory_Bush_Trellis_Wilting",
+				"Dead": "/Game/Meshes/Crops/Dead_Plant.Dead_Plant"
+			},
+			"CropPickHeight": 0,
+			"Seasons":
+			[ 0, 1, 2 ],
+			"TownVolumes":
+			[
+				"Pumpkinvale"
+			],
+			"IsTree": false,
+			"BaseHitsRequired": 0,
+			"FruitMaterialIndex": 0
+		},
+		{
+			"RowName": "Nigella",
+			"HoursBetweenStages": 24,
+			"CropsPerHarvest": 5,
+			"CanRegrow": false,
+			"StaminaToHarvest": 1,
+			"Meshes": 
+			{
+				"Seed": "/Game/Meshes/Farming/Plots/Seeded_Mound.Seeded_Mound",
+				"Sprout": "/Game/Meshes/Crops/Sprout.Sprout",
+				"Leaf": "/Game/Meshes/Flowers/Flower_Bushes/Nigella_Bush_2.Nigella_Bush_2",
+				"Flower": "/Game/Meshes/Flowers/Flower_Bushes/Nigella_Bush_2.Nigella_Bush_2",
+				"Fruit": "/Game/Meshes/Flowers/Flower_Bushes/Nigella_Bush.Nigella_Bush",
+				"Wilting": "/Game/Meshes/Flowers/Flower_Bushes/Nigella_Bush_Wilting.Nigella_Bush_Wilting",
+				"Dead": "/Game/Meshes/Crops/Dead_Plant.Dead_Plant"
+			},
+			"CropPickHeight": 0,
+			"Seasons":
+			[ 0, 1, 2 ],
+			"TownVolumes":
+			[
+				"Pumpkinvale"
+			],
+			"IsTree": false,
+			"BaseHitsRequired": 0,
+			"FruitMaterialIndex": 0
+		},
+		{
+			"RowName": "Orchid",
+			"HoursBetweenStages": 30,
+			"CropsPerHarvest": 5,
+			"CanRegrow": false,
+			"StaminaToHarvest": 1,
+			"Meshes": 
+			{
+				"Seed": "/Game/Meshes/Farming/Plots/Seeded_Mound.Seeded_Mound",
+				"Sprout": "/Game/Meshes/Crops/Sprout.Sprout",
+				"Leaf": "/Game/Meshes/Flowers/Flower_Bushes/Orchid_Bush_2.Orchid_Bush_2",
+				"Flower": "/Game/Meshes/Flowers/Flower_Bushes/Orchid_Bush_2.Orchid_Bush_2",
+				"Fruit": "/Game/Meshes/Flowers/Flower_Bushes/Orchid_Bush.Orchid_Bush",
+				"Wilting": "/Game/Meshes/Flowers/Flower_Bushes/Orchid_Bush_Wilting.Orchid_Bush_Wilting",
+				"Dead": "/Game/Meshes/Crops/Dead_Plant.Dead_Plant"
+			},
+			"CropPickHeight": 0,
+			"Seasons":
+			[ 0, 1, 2 ],
+			"TownVolumes":
+			[
+				"Pumpkinvale",
+				"Wahoo_Beach",
+				"Spoony_Island"
+			],
+			"IsTree": false,
+			"BaseHitsRequired": 0,
+			"FruitMaterialIndex": 0
+		},
+		{
+			"RowName": "Passion_Flower",
+			"HoursBetweenStages": 24,
+			"CropsPerHarvest": 5,
+			"CanRegrow": false,
+			"StaminaToHarvest": 1,
+			"Meshes": 
+			{
+				"Seed": "/Game/Meshes/Farming/Plots/Seeded_Mound.Seeded_Mound",
+				"Sprout": "/Game/Meshes/Crops/Sprout.Sprout",
+				"Leaf": "/Game/Meshes/Crops/Passion_Fruit_Medium.Passion_Fruit_Medium",
+				"Flower": "/Game/Meshes/Crops/Passion_Fruit_Medium.Passion_Fruit_Medium",
+				"Fruit": "/Game/Meshes/Crops/Passion_Fruit_Flower.Passion_Fruit_Flower",
+				"Wilting": "/Game/Meshes/Flowers/Flower_Bushes/Passion_Flower_Bush_Wilting.Passion_Flower_Bush_Wilting",
+				"Dead": "/Game/Meshes/Crops/Dead_Plant.Dead_Plant"
+			},
+			"CropPickHeight": 0,
+			"Seasons":
+			[ 0, 1, 2 ],
+			"TownVolumes":
+			[
+				"Wahoo_Beach",
+				"Spoony_Island"
+			],
+			"IsTree": false,
+			"BaseHitsRequired": 0,
+			"FruitMaterialIndex": 0
+		},
+		{
+			"RowName": "Petunia",
+			"HoursBetweenStages": 48,
+			"CropsPerHarvest": 5,
+			"CanRegrow": false,
+			"StaminaToHarvest": 1,
+			"Meshes": 
+			{
+				"Seed": "/Game/Meshes/Farming/Plots/Seeded_Mound.Seeded_Mound",
+				"Sprout": "/Game/Meshes/Crops/Sprout.Sprout",
+				"Leaf": "/Game/Meshes/Flowers/Flower_Bushes/Petunia_Bush_2.Petunia_Bush_2",
+				"Flower": "/Game/Meshes/Flowers/Flower_Bushes/Petunia_Bush_2.Petunia_Bush_2",
+				"Fruit": "/Game/Meshes/Flowers/Flower_Bushes/Petunia_Bush.Petunia_Bush",
+				"Wilting": "/Game/Meshes/Flowers/Flower_Bushes/Petunia_Bush_Wilting.Petunia_Bush_Wilting",
+				"Dead": "/Game/Meshes/Crops/Dead_Plant.Dead_Plant"
+			},
+			"CropPickHeight": 0,
+			"Seasons":
+			[ 0, 1, 2 ],
+			"TownVolumes":
+			[
+				"Pumpkinvale"
+			],
+			"IsTree": false,
+			"BaseHitsRequired": 0,
+			"FruitMaterialIndex": 0
+		},
+		{
+			"RowName": "Poinsettia",
+			"HoursBetweenStages": 30,
+			"CropsPerHarvest": 5,
+			"CanRegrow": false,
+			"StaminaToHarvest": 1,
+			"Meshes": 
+			{
+				"Seed": "/Game/Meshes/Farming/Plots/Seeded_Mound.Seeded_Mound",
+				"Sprout": "/Game/Meshes/Crops/Sprout.Sprout",
+				"Leaf": "/Game/Meshes/Flowers/Flower_Bushes/Poinsettia_Bush2.Poinsettia_Bush2",
+				"Flower": "/Game/Meshes/Flowers/Flower_Bushes/Poinsettia_Bush2.Poinsettia_Bush2",
+				"Fruit": "/Game/Meshes/Flowers/Flower_Bushes/Poinsettia_Bush.Poinsettia_Bush",
+				"Wilting": "/Game/Meshes/Flowers/Flower_Bushes/Poinsettia_Bush_Wilting.Poinsettia_Bush_Wilting",
+				"Dead": "/Game/Meshes/Crops/Dead_Plant.Dead_Plant"
+			},
+			"CropPickHeight": 0,
+			"Seasons":
+			[ 0, 1, 2 ],
+			"TownVolumes":
+			[
+				"Wahoo_Beach",
+				"Spoony_Island"
+			],
+			"IsTree": false,
+			"BaseHitsRequired": 0,
+			"FruitMaterialIndex": 0
+		},
+		{
+			"RowName": "Poppy",
+			"HoursBetweenStages": 24,
+			"CropsPerHarvest": 5,
+			"CanRegrow": false,
+			"StaminaToHarvest": 1,
+			"Meshes": 
+			{
+				"Seed": "/Game/Meshes/Farming/Plots/Seeded_Mound.Seeded_Mound",
+				"Sprout": "/Game/Meshes/Crops/Sprout.Sprout",
+				"Leaf": "/Game/Meshes/Flowers/Flower_Bushes/Poppy_Bush_2.Poppy_Bush_2",
+				"Flower": "/Game/Meshes/Flowers/Flower_Bushes/Poppy_Bush_2.Poppy_Bush_2",
+				"Fruit": "/Game/Meshes/Flowers/Flower_Bushes/Poppy_Bush.Poppy_Bush",
+				"Wilting": "/Game/Meshes/Flowers/Flower_Bushes/Poppy_Bush_Wilting.Poppy_Bush_Wilting",
+				"Dead": "/Game/Meshes/Crops/Dead_Plant.Dead_Plant"
+			},
+			"CropPickHeight": 0,
+			"Seasons":
+			[ 0, 1, 2 ],
+			"TownVolumes":
+			[
+				"Pumpkinvale",
+				"Wahoo_Beach",
+				"Spoony_Island"
+			],
+			"IsTree": false,
+			"BaseHitsRequired": 0,
+			"FruitMaterialIndex": 0
+		},
+		{
+			"RowName": "Pride_Of_Madeira",
+			"HoursBetweenStages": 24,
+			"CropsPerHarvest": 5,
+			"CanRegrow": false,
+			"StaminaToHarvest": 1,
+			"Meshes": 
+			{
+				"Seed": "/Game/Meshes/Farming/Plots/Seeded_Mound.Seeded_Mound",
+				"Sprout": "/Game/Meshes/Crops/Sprout.Sprout",
+				"Leaf": "/Game/Meshes/Flowers/Flower_Bushes/Pride_Of_Madeira_Bush_2.Pride_Of_Madeira_Bush_2",
+				"Flower": "/Game/Meshes/Flowers/Flower_Bushes/Pride_Of_Madeira_Bush_2.Pride_Of_Madeira_Bush_2",
+				"Fruit": "/Game/Meshes/Flowers/Flower_Bushes/Pride_Of_Madeira_Bush.Pride_Of_Madeira_Bush",
+				"Wilting": "/Game/Meshes/Flowers/Flower_Bushes/Pride_Of_Madeira_Bush_Wilting.Pride_Of_Madeira_Bush_Wilting",
+				"Dead": "/Game/Meshes/Crops/Dead_Plant.Dead_Plant"
+			},
+			"CropPickHeight": 0,
+			"Seasons":
+			[ 0, 1, 2 ],
+			"TownVolumes":
+			[
+				"Pumpkinvale"
+			],
+			"IsTree": false,
+			"BaseHitsRequired": 0,
+			"FruitMaterialIndex": 0
+		},
+		{
+			"RowName": "Purple_Hydrangea",
+			"HoursBetweenStages": 30,
+			"CropsPerHarvest": 5,
+			"CanRegrow": false,
+			"StaminaToHarvest": 1,
+			"Meshes": 
+			{
+				"Seed": "/Game/Meshes/Farming/Plots/Seeded_Mound.Seeded_Mound",
+				"Sprout": "/Game/Meshes/Crops/Sprout.Sprout",
+				"Leaf": "/Game/Meshes/Flowers/Flower_Bushes/Hydrangea_Small.Hydrangea_Small",
+				"Flower": "/Game/Meshes/Flowers/Flower_Bushes/Hydrangea_Medium.Hydrangea_Medium",
+				"Fruit": "/Game/Meshes/Flowers/Flower_Bushes/Hydrangea_Bush_Purple.Hydrangea_Bush_Purple",
+				"Wilting": "/Game/Meshes/Flowers/Flower_Bushes/Hydrangea_Medium_Wilting.Hydrangea_Medium_Wilting",
+				"Dead": "/Game/Meshes/Crops/Dead_Plant.Dead_Plant"
+			},
+			"CropPickHeight": 0,
+			"Seasons":
+			[ 0, 1, 2 ],
+			"TownVolumes":
+			[
+				"Pumpkinvale",
+				"Wahoo_Beach",
+				"Spoony_Island"
+			],
+			"IsTree": false,
+			"BaseHitsRequired": 0,
+			"FruitMaterialIndex": 0
+		},
+		{
+			"RowName": "Rose",
+			"HoursBetweenStages": 48,
+			"CropsPerHarvest": 5,
+			"CanRegrow": false,
+			"StaminaToHarvest": 1,
+			"Meshes": 
+			{
+				"Seed": "/Game/Meshes/Farming/Plots/Seeded_Mound.Seeded_Mound",
+				"Sprout": "/Game/Meshes/Crops/Sprout.Sprout",
+				"Leaf": "/Game/Meshes/Flowers/Flower_Bushes/Hydrangea_Small.Hydrangea_Small",
+				"Flower": "/Game/Meshes/Flowers/Flower_Bushes/Hydrangea_Medium.Hydrangea_Medium",
+				"Fruit": "/Game/Meshes/Flowers/Flower_Bushes/Rose_Bush.Rose_Bush",
+				"Wilting": "/Game/Meshes/Flowers/Flower_Bushes/Hydrangea_Medium_Wilting.Hydrangea_Medium_Wilting",
+				"Dead": "/Game/Meshes/Crops/Dead_Plant.Dead_Plant"
+			},
+			"CropPickHeight": 0,
+			"Seasons":
+			[ 0, 1, 2 ],
+			"TownVolumes":
+			[
+				"Pumpkinvale"
+			],
+			"IsTree": false,
+			"BaseHitsRequired": 0,
+			"FruitMaterialIndex": 0
+		},
+		{
+			"RowName": "Sandersonia",
+			"HoursBetweenStages": 24,
+			"CropsPerHarvest": 5,
+			"CanRegrow": false,
+			"StaminaToHarvest": 1,
+			"Meshes": 
+			{
+				"Seed": "/Game/Meshes/Farming/Plots/Seeded_Mound.Seeded_Mound",
+				"Sprout": "/Game/Meshes/Crops/Sprout.Sprout",
+				"Leaf": "/Game/Meshes/Flowers/Flower_Bushes/Sanndersonia_Bush_2.Sanndersonia_Bush_2",
+				"Flower": "/Game/Meshes/Flowers/Flower_Bushes/Sanndersonia_Bush_2.Sanndersonia_Bush_2",
+				"Fruit": "/Game/Meshes/Flowers/Flower_Bushes/Sanndersonia_Bush.Sanndersonia_Bush",
+				"Wilting": "/Game/Meshes/Flowers/Flower_Bushes/Sanndersonia_Bush_Wilting.Sanndersonia_Bush_Wilting",
+				"Dead": "/Game/Meshes/Crops/Dead_Plant.Dead_Plant"
+			},
+			"CropPickHeight": 0,
+			"Seasons":
+			[ 0, 1, 2 ],
+			"TownVolumes":
+			[
+				"Pumpkinvale"
+			],
+			"IsTree": false,
+			"BaseHitsRequired": 0,
+			"FruitMaterialIndex": 0
+		},
+		{
+			"RowName": "Scilla",
+			"HoursBetweenStages": 24,
+			"CropsPerHarvest": 5,
+			"CanRegrow": false,
+			"StaminaToHarvest": 1,
+			"Meshes": 
+			{
+				"Seed": "/Game/Meshes/Farming/Plots/Seeded_Mound.Seeded_Mound",
+				"Sprout": "/Game/Meshes/Crops/Sprout.Sprout",
+				"Leaf": "/Game/Meshes/Flowers/Flower_Bushes/Scilla_Bush_2.Scilla_Bush_2",
+				"Flower": "/Game/Meshes/Flowers/Flower_Bushes/Scilla_Bush_2.Scilla_Bush_2",
+				"Fruit": "/Game/Meshes/Flowers/Flower_Bushes/Scilla_Bush.Scilla_Bush",
+				"Wilting": "/Game/Meshes/Flowers/Flower_Bushes/Scilla_Bush_Wilting.Scilla_Bush_Wilting",
+				"Dead": "/Game/Meshes/Crops/Dead_Plant.Dead_Plant"
+			},
+			"CropPickHeight": 0,
+			"Seasons":
+			[ 0, 1, 2 ],
+			"TownVolumes":
+			[
+				"Pumpkinvale"
+			],
+			"IsTree": false,
+			"BaseHitsRequired": 0,
+			"FruitMaterialIndex": 0
+		},
+		{
+			"RowName": "Sneezeweed",
+			"HoursBetweenStages": 30,
+			"CropsPerHarvest": 5,
+			"CanRegrow": false,
+			"StaminaToHarvest": 1,
+			"Meshes": 
+			{
+				"Seed": "/Game/Meshes/Farming/Plots/Seeded_Mound.Seeded_Mound",
+				"Sprout": "/Game/Meshes/Crops/Sprout.Sprout",
+				"Leaf": "/Game/Meshes/Flowers/Flower_Bushes/Sneeze_Weed_2.Sneeze_Weed_2",
+				"Flower": "/Game/Meshes/Flowers/Flower_Bushes/Sneeze_Weed_2.Sneeze_Weed_2",
+				"Fruit": "/Game/Meshes/Flowers/Flower_Bushes/Sneeze_Weed.Sneeze_Weed",
+				"Wilting": "/Game/Meshes/Flowers/Flower_Bushes/Sneeze_Weed_Wilting.Sneeze_Weed_Wilting",
+				"Dead": "/Game/Meshes/Crops/Dead_Plant.Dead_Plant"
+			},
+			"CropPickHeight": 0,
+			"Seasons":
+			[ 0, 1, 2 ],
+			"TownVolumes":
+			[
+				"Pumpkinvale"
+			],
+			"IsTree": false,
+			"BaseHitsRequired": 0,
+			"FruitMaterialIndex": 0
+		},
+		{
+			"RowName": "Spirea",
+			"HoursBetweenStages": 24,
+			"CropsPerHarvest": 5,
+			"CanRegrow": false,
+			"StaminaToHarvest": 1,
+			"Meshes": 
+			{
+				"Seed": "/Game/Meshes/Farming/Plots/Seeded_Mound.Seeded_Mound",
+				"Sprout": "/Game/Meshes/Crops/Sprout.Sprout",
+				"Leaf": "/Game/Meshes/Flowers/Flower_Bushes/Poinsettia_Bush2.Poinsettia_Bush2",
+				"Flower": "/Game/Meshes/Flowers/Flower_Bushes/Poinsettia_Bush2.Poinsettia_Bush2",
+				"Fruit": "/Game/Meshes/Flowers/Flower_Bushes/Spirea_Bush.Spirea_Bush",
+				"Wilting": "/Game/Meshes/Flowers/Flower_Bushes/Poinsettia_Bush_Wilting.Poinsettia_Bush_Wilting",
+				"Dead": "/Game/Meshes/Crops/Dead_Plant.Dead_Plant"
+			},
+			"CropPickHeight": 0,
+			"Seasons":
+			[ 0, 1, 2 ],
+			"TownVolumes":
+			[
+				"Pumpkinvale",
+				"Diamond_Falls"
+			],
+			"IsTree": false,
+			"BaseHitsRequired": 0,
+			"FruitMaterialIndex": 0
+		},
+		{
+			"RowName": "Star_Scabiosa",
+			"HoursBetweenStages": 24,
+			"CropsPerHarvest": 5,
+			"CanRegrow": false,
+			"StaminaToHarvest": 1,
+			"Meshes": 
+			{
+				"Seed": "/Game/Meshes/Farming/Plots/Seeded_Mound.Seeded_Mound",
+				"Sprout": "/Game/Meshes/Crops/Sprout.Sprout",
+				"Leaf": "/Game/Meshes/Flowers/Flower_Bushes/Star_Scabiosa_2.Star_Scabiosa_2",
+				"Flower": "/Game/Meshes/Flowers/Flower_Bushes/Star_Scabiosa_2.Star_Scabiosa_2",
+				"Fruit": "/Game/Meshes/Flowers/Flower_Bushes/Star_Scabiosa.Star_Scabiosa",
+				"Wilting": "/Game/Meshes/Flowers/Flower_Bushes/Star_Scabiosa_Wilting.Star_Scabiosa_Wilting",
+				"Dead": "/Game/Meshes/Crops/Dead_Plant.Dead_Plant"
+			},
+			"CropPickHeight": 0,
+			"Seasons":
+			[ 0, 1, 2 ],
+			"TownVolumes":
+			[
+				"Pumpkinvale",
+				"Diamond_Falls"
+			],
+			"IsTree": false,
+			"BaseHitsRequired": 0,
+			"FruitMaterialIndex": 0
+		},
+		{
+			"RowName": "Stokesia",
+			"HoursBetweenStages": 24,
+			"CropsPerHarvest": 5,
+			"CanRegrow": false,
+			"StaminaToHarvest": 1,
+			"Meshes": 
+			{
+				"Seed": "/Game/Meshes/Farming/Plots/Seeded_Mound.Seeded_Mound",
+				"Sprout": "/Game/Meshes/Crops/Sprout.Sprout",
+				"Leaf": "/Game/Meshes/Flowers/Flower_Bushes/Strokesia_Bush_2.Strokesia_Bush_2",
+				"Flower": "/Game/Meshes/Flowers/Flower_Bushes/Strokesia_Bush_2.Strokesia_Bush_2",
+				"Fruit": "/Game/Meshes/Flowers/Flower_Bushes/Strokesia_Bush.Strokesia_Bush",
+				"Wilting": "/Game/Meshes/Flowers/Flower_Bushes/Strokesia_Bush_Wilting.Strokesia_Bush_Wilting",
+				"Dead": "/Game/Meshes/Crops/Dead_Plant.Dead_Plant"
+			},
+			"CropPickHeight": 0,
+			"Seasons":
+			[ 0, 1, 2 ],
+			"TownVolumes":
+			[
+				"Diamond_Falls"
+			],
+			"IsTree": false,
+			"BaseHitsRequired": 0,
+			"FruitMaterialIndex": 0
+		},
+		{
+			"RowName": "Trillium",
+			"HoursBetweenStages": 20,
+			"CropsPerHarvest": 5,
+			"CanRegrow": false,
+			"StaminaToHarvest": 1,
+			"Meshes": 
+			{
+				"Seed": "/Game/Meshes/Farming/Plots/Seeded_Mound.Seeded_Mound",
+				"Sprout": "/Game/Meshes/Crops/Sprout.Sprout",
+				"Leaf": "/Game/Meshes/Flowers/Flower_Bushes/Trillium_Bush_2.Trillium_Bush_2",
+				"Flower": "/Game/Meshes/Flowers/Flower_Bushes/Trillium_Bush_2.Trillium_Bush_2",
+				"Fruit": "/Game/Meshes/Flowers/Flower_Bushes/Trillium_Bush.Trillium_Bush",
+				"Wilting": "/Game/Meshes/Flowers/Flower_Bushes/Trillium_Bush_Wilting.Trillium_Bush_Wilting",
+				"Dead": "/Game/Meshes/Crops/Dead_Plant.Dead_Plant"
+			},
+			"CropPickHeight": 0,
+			"Seasons":
+			[ 0, 1, 2 ],
+			"TownVolumes":
+			[
+				"Pumpkinvale"
+			],
+			"IsTree": false,
+			"BaseHitsRequired": 0,
+			"FruitMaterialIndex": 0
+		},
+		{
+			"RowName": "Venus_Flytrap",
+			"HoursBetweenStages": 48,
+			"CropsPerHarvest": 5,
+			"CanRegrow": false,
+			"StaminaToHarvest": 1,
+			"Meshes": 
+			{
+				"Seed": "/Game/Meshes/Farming/Plots/Seeded_Mound.Seeded_Mound",
+				"Sprout": "/Game/Meshes/Crops/Sprout.Sprout",
+				"Leaf": "/Game/Meshes/Flowers/Flower_Bushes/Venus_Flytrap_Bush.Venus_Flytrap_Bush",
+				"Flower": "/Game/Meshes/Flowers/Flower_Bushes/Venus_Flytrap_Bush.Venus_Flytrap_Bush",
+				"Fruit": "/Game/Meshes/Flowers/Flower_Bushes/Venus_Flytrap_Bush.Venus_Flytrap_Bush",
+				"Wilting": "/Game/Meshes/Flowers/Flower_Bushes/Venus_Flytrap_Bush_Wilting.Venus_Flytrap_Bush_Wilting",
+				"Dead": "/Game/Meshes/Crops/Dead_Plant.Dead_Plant"
+			},
+			"CropPickHeight": 0,
+			"Seasons":
+			[ 0, 1, 2 ],
+			"TownVolumes":
+			[
+				"Wahoo_Beach",
+				"Spoony_Island"
+			],
+			"IsTree": false,
+			"BaseHitsRequired": 0,
+			"FruitMaterialIndex": 0
+		},
+		{
+			"RowName": "Verbana",
+			"HoursBetweenStages": 30,
+			"CropsPerHarvest": 5,
+			"CanRegrow": false,
+			"StaminaToHarvest": 1,
+			"Meshes": 
+			{
+				"Seed": "/Game/Meshes/Farming/Plots/Seeded_Mound.Seeded_Mound",
+				"Sprout": "/Game/Meshes/Crops/Sprout.Sprout",
+				"Leaf": "/Game/Meshes/Flowers/Flower_Bushes/Verbana_Bush_2.Verbana_Bush_2",
+				"Flower": "/Game/Meshes/Flowers/Flower_Bushes/Verbana_Bush_2.Verbana_Bush_2",
+				"Fruit": "/Game/Meshes/Flowers/Flower_Bushes/Verbana_Bush.Verbana_Bush",
+				"Wilting": "/Game/Meshes/Flowers/Flower_Bushes/Verbana_Bush_Wilting.Verbana_Bush_Wilting",
+				"Dead": "/Game/Meshes/Crops/Dead_Plant.Dead_Plant"
+			},
+			"CropPickHeight": 0,
+			"Seasons":
+			[ 0, 1, 2 ],
+			"TownVolumes":
+			[
+				"Pumpkinvale"
+			],
+			"IsTree": false,
+			"BaseHitsRequired": 0,
+			"FruitMaterialIndex": 0
+		},
+		{
+			"RowName": "Violet",
+			"HoursBetweenStages": 24,
+			"CropsPerHarvest": 5,
+			"CanRegrow": false,
+			"StaminaToHarvest": 1,
+			"Meshes": 
+			{
+				"Seed": "/Game/Meshes/Farming/Plots/Seeded_Mound.Seeded_Mound",
+				"Sprout": "/Game/Meshes/Crops/Sprout.Sprout",
+				"Leaf": "/Game/Meshes/Flowers/Flower_Bushes/Violet_Bush_2.Violet_Bush_2",
+				"Flower": "/Game/Meshes/Flowers/Flower_Bushes/Violet_Bush_2.Violet_Bush_2",
+				"Fruit": "/Game/Meshes/Flowers/Flower_Bushes/Violet_Bush.Violet_Bush",
+				"Wilting": "/Game/Meshes/Flowers/Flower_Bushes/Violet_Bush_Wilting.Violet_Bush_Wilting",
+				"Dead": "/Game/Meshes/Crops/Dead_Plant.Dead_Plant"
+			},
+			"CropPickHeight": 0,
+			"Seasons":
+			[ 0, 1, 2 ],
+			"TownVolumes":
+			[
+				"Pumpkinvale"
+			],
+			"IsTree": false,
+			"BaseHitsRequired": 0,
+			"FruitMaterialIndex": 0
+		},
+		{
+			"RowName": "Zinnia",
+			"HoursBetweenStages": 30,
+			"CropsPerHarvest": 5,
+			"CanRegrow": false,
+			"StaminaToHarvest": 1,
+			"Meshes": 
+			{
+				"Seed": "/Game/Meshes/Farming/Plots/Seeded_Mound.Seeded_Mound",
+				"Sprout": "/Game/Meshes/Crops/Sprout.Sprout",
+				"Leaf": "/Game/Meshes/Flowers/Flower_Bushes/Zinnia_Bush_2.Zinnia_Bush_2",
+				"Flower": "/Game/Meshes/Flowers/Flower_Bushes/Zinnia_Bush_2.Zinnia_Bush_2",
+				"Fruit": "/Game/Meshes/Flowers/Flower_Bushes/Zinnia_Bush.Zinnia_Bush",
+				"Wilting": "/Game/Meshes/Flowers/Flower_Bushes/Zinnia_Bush_Wilting.Zinnia_Bush_Wilting",
+				"Dead": "/Game/Meshes/Crops/Dead_Plant.Dead_Plant"
+			},
+			"CropPickHeight": 0,
+			"Seasons":
+			[ 0, 1, 2 ],
+			"TownVolumes":
+			[
+				"Pumpkinvale",
+				"Wahoo_Beach",
+				"Spoony_Island"
+			],
+			"IsTree": false,
+			"BaseHitsRequired": 0,
+			"FruitMaterialIndex": 0
+		},
+		{
+			"RowName": "Sunflower",
+			"HoursBetweenStages": 24,
+			"CropsPerHarvest": 5,
+			"CanRegrow": false,
+			"StaminaToHarvest": 1,
+			"Meshes": 
+			{
+				"Seed": "/Game/Meshes/Farming/Plots/Seeded_Mound.Seeded_Mound",
+				"Sprout": "/Game/Meshes/Crops/Sprout.Sprout",
+				"Leaf": "/Game/Meshes/Flowers/Flower_Bushes/Sunflower_Bush_2.Sunflower_Bush_2",
+				"Flower": "/Game/Meshes/Flowers/Flower_Bushes/Sunflower_Bush_2.Sunflower_Bush_2",
+				"Fruit": "/Game/Meshes/Flowers/Flower_Bushes/Sunflower_Bush.Sunflower_Bush",
+				"Wilting": "/Game/Meshes/Flowers/Flower_Bushes/Sunflower_Bush_Wilting.Sunflower_Bush_Wilting",
+				"Dead": "/Game/Meshes/Crops/Dead_Plant.Dead_Plant"
+			},
+			"CropPickHeight": 0,
+			"Seasons":
+			[ 0, 1, 2 ],
+			"TownVolumes":
+			[
+				"Pumpkinvale"
+			],
+			"IsTree": false,
+			"BaseHitsRequired": 0,
+			"FruitMaterialIndex": 0
+		},
+		{
+			"RowName": "Kangaroo_Paw",
+			"HoursBetweenStages": 30,
+			"CropsPerHarvest": 5,
+			"CanRegrow": false,
+			"StaminaToHarvest": 1,
+			"Meshes": 
+			{
+				"Seed": "/Game/Meshes/Farming/Plots/Seeded_Mound.Seeded_Mound",
+				"Sprout": "/Game/Meshes/Crops/Sprout.Sprout",
+				"Leaf": "/Game/Meshes/Flowers/Flower_Bushes/Kangaroo_Paw_Bush_2.Kangaroo_Paw_Bush_2",
+				"Flower": "/Game/Meshes/Flowers/Flower_Bushes/Kangaroo_Paw_Bush_2.Kangaroo_Paw_Bush_2",
+				"Fruit": "/Game/Meshes/Flowers/Flower_Bushes/Kangaroo_Paw_Bush.Kangaroo_Paw_Bush",
+				"Wilting": "/Game/Meshes/Flowers/Flower_Bushes/Kangaroo_Paw_Bush_Wilting.Kangaroo_Paw_Bush_Wilting",
+				"Dead": "/Game/Meshes/Crops/Dead_Plant.Dead_Plant"
+			},
+			"CropPickHeight": 0,
+			"Seasons":
+			[ 0, 1, 2 ],
+			"TownVolumes":
+			[
+				"Wahoo_Beach",
+				"Spoony_Island"
+			],
+			"IsTree": false,
+			"BaseHitsRequired": 0,
+			"FruitMaterialIndex": 0
+		},
+		{
+			"RowName": "lavender",
+			"HoursBetweenStages": 24,
+			"CropsPerHarvest": 5,
+			"CanRegrow": false,
+			"StaminaToHarvest": 1,
+			"Meshes": 
+			{
+				"Seed": "/Game/Meshes/Farming/Plots/Seeded_Mound.Seeded_Mound",
+				"Sprout": "/Game/Meshes/Crops/Sprout.Sprout",
+				"Leaf": "/Game/Meshes/Flowers/Flower_Bushes/Kangaroo_Paw_Bush_2.Kangaroo_Paw_Bush_2",
+				"Flower": "/Game/Meshes/Flowers/Flower_Bushes/Kangaroo_Paw_Bush_2.Kangaroo_Paw_Bush_2",
+				"Fruit": "/Game/Meshes/Flowers/Flower_Bushes/Lavender_Bush.Lavender_Bush",
+				"Wilting": "/Game/Meshes/Flowers/Flower_Bushes/Kangaroo_Paw_Bush_Wilting.Kangaroo_Paw_Bush_Wilting",
+				"Dead": "/Game/Meshes/Crops/Dead_Plant.Dead_Plant"
+			},
+			"CropPickHeight": 0,
+			"Seasons":
+			[ 0, 1, 2 ],
+			"TownVolumes":
+			[
+				"Pumpkinvale",
+				"Wahoo_Beach",
+				"Spoony_Island",
+				"Diamond_Falls"
+			],
+			"IsTree": false,
+			"BaseHitsRequired": 0,
+			"FruitMaterialIndex": 0
+		},
+		{
+			"RowName": "Apricot",
+			"HoursBetweenStages": 130,
+			"CropsPerHarvest": 30,
+			"CanRegrow": true,
+			"StaminaToHarvest": 5,
+			"Meshes": 
+			{
+				"Seed": "/Game/Foliage/Trees/Tree_Sapling.Tree_Sapling",
+				"Sprout": "/Game/Foliage/Trees/Apricot_Tree_Small.Apricot_Tree_Small",
+				"Leaf": "/Game/Foliage/Trees/Apricot_Tree.Apricot_Tree",
+				"Flower": "/Game/Foliage/Trees/Apricot_Tree_Flower.Apricot_Tree_Flower",
+				"Fruit": "/Game/Foliage/Trees/Apricot_Tree_Apricots.Apricot_Tree_Apricots",
+				"Wilting": "/Game/Foliage/Trees/Tree_Wilting.Tree_Wilting",
+				"Dead": "/Game/Foliage/Trees/Tree_Dead.Tree_Dead"
+			},
+			"CropPickHeight": 0,
+			"Seasons":
+			[ 0, 1 ],
+			"TownVolumes":
+			[
+				"Diamond_Falls"
+			],
+			"IsTree": true,
+			"BaseHitsRequired": 150,
+			"FruitMaterialIndex": 3
+		},
+		{
+			"RowName": "Plum",
+			"HoursBetweenStages": 130,
+			"CropsPerHarvest": 30,
+			"CanRegrow": true,
+			"StaminaToHarvest": 5,
+			"Meshes": 
+			{
+				"Seed": "/Game/Foliage/Trees/Tree_Sapling.Tree_Sapling",
+				"Sprout": "/Game/Foliage/Trees/Plum_Tree_Small.Plum_Tree_Small",
+				"Leaf": "/Game/Foliage/Trees/Plum_Tree.Plum_Tree",
+				"Flower": "/Game/Foliage/Trees/Plum_Tree_Flowers.Plum_Tree_Flowers",
+				"Fruit": "/Game/Foliage/Trees/Plum_Tree_Plums.Plum_Tree_Plums",
+				"Wilting": "/Game/Foliage/Trees/Tree_Wilting.Tree_Wilting",
+				"Dead": "/Game/Foliage/Trees/Tree_Dead.Tree_Dead"
+			},
+			"CropPickHeight": 0,
+			"Seasons":
+			[ 1, 0 ],
+			"TownVolumes":
+			[
+				"Diamond_Falls"
+			],
+			"IsTree": true,
+			"BaseHitsRequired": 150,
+			"FruitMaterialIndex": 3
+		},
+		{
+			"RowName": "Walnuts",
+			"HoursBetweenStages": 130,
+			"CropsPerHarvest": 30,
+			"CanRegrow": true,
+			"StaminaToHarvest": 5,
+			"Meshes": 
+			{
+				"Seed": "/Game/Foliage/Trees/Tree_Sapling.Tree_Sapling",
+				"Sprout": "/Game/Foliage/Trees/Walnut_Tree_Small.Walnut_Tree_Small",
+				"Leaf": "/Game/Foliage/Trees/Walnut_Tree.Walnut_Tree",
+				"Flower": "/Game/Foliage/Trees/Walnut_Tree.Walnut_Tree",
+				"Fruit": "/Game/Foliage/Trees/Walnut_Tree_Fruit.Walnut_Tree_Fruit",
+				"Wilting": "/Game/Foliage/Trees/Tree_Wilting.Tree_Wilting",
+				"Dead": "/Game/Foliage/Trees/Tree_Dead.Tree_Dead"
+			},
+			"CropPickHeight": 0,
+			"Seasons":
+			[ 1, 0 ],
+			"TownVolumes":
+			[
+				"Diamond_Falls"
+			],
+			"IsTree": true,
+			"BaseHitsRequired": 200,
+			"FruitMaterialIndex": 0
+		},
+		{
+			"RowName": "Pear",
+			"HoursBetweenStages": 130,
+			"CropsPerHarvest": 30,
+			"CanRegrow": true,
+			"StaminaToHarvest": 5,
+			"Meshes": 
+			{
+				"Seed": "/Game/Foliage/Trees/Tree_Sapling.Tree_Sapling",
+				"Sprout": "/Game/Foliage/Trees/Pear_Tree_Small.Pear_Tree_Small",
+				"Leaf": "/Game/Foliage/Trees/Pear_Tree.Pear_Tree",
+				"Flower": "/Game/Foliage/Trees/Pear_Flowers.Pear_Flowers",
+				"Fruit": "/Game/Foliage/Trees/Pear_Tree_Pears.Pear_Tree_Pears",
+				"Wilting": "/Game/Foliage/Trees/Tree_Wilting.Tree_Wilting",
+				"Dead": "/Game/Foliage/Trees/Tree_Dead.Tree_Dead"
+			},
+			"CropPickHeight": 0,
+			"Seasons":
+			[ 2, 1 ],
+			"TownVolumes":
+			[
+				"Diamond_Falls"
+			],
+			"IsTree": true,
+			"BaseHitsRequired": 150,
+			"FruitMaterialIndex": 3
+		},
+		{
+			"RowName": "Chestnut",
+			"HoursBetweenStages": 130,
+			"CropsPerHarvest": 30,
+			"CanRegrow": true,
+			"StaminaToHarvest": 5,
+			"Meshes": 
+			{
+				"Seed": "/Game/Foliage/Trees/Tree_Sapling.Tree_Sapling",
+				"Sprout": "/Game/Foliage/Trees/Chestnut_Tree_Small.Chestnut_Tree_Small",
+				"Leaf": "/Game/Foliage/Trees/Chestnut_Tree.Chestnut_Tree",
+				"Flower": "/Game/Foliage/Trees/Chestnut_Tree_Flower.Chestnut_Tree_Flower",
+				"Fruit": "/Game/Foliage/Trees/Chestnut_tree_Fruit.Chestnut_tree_Fruit",
+				"Wilting": "/Game/Foliage/Trees/Tree_Wilting.Tree_Wilting",
+				"Dead": "/Game/Foliage/Trees/Tree_Dead.Tree_Dead"
+			},
+			"CropPickHeight": 0,
+			"Seasons":
+			[ 2, 1 ],
+			"TownVolumes":
+			[
+				"Diamond_Falls"
+			],
+			"IsTree": true,
+			"BaseHitsRequired": 0,
+			"FruitMaterialIndex": 0
+		},
+		{
+			"RowName": "Cherries",
+			"HoursBetweenStages": 130,
+			"CropsPerHarvest": 30,
+			"CanRegrow": true,
+			"StaminaToHarvest": 5,
+			"Meshes": 
+			{
+				"Seed": "/Game/Foliage/Trees/Tree_Sapling.Tree_Sapling",
+				"Sprout": "/Game/Foliage/Trees/Cherry_Tree_Small.Cherry_Tree_Small",
+				"Leaf": "/Game/Foliage/Trees/Cherry_Tree.Cherry_Tree",
+				"Flower": "/Game/Foliage/Trees/Cherry_Tree_Flowers.Cherry_Tree_Flowers",
+				"Fruit": "/Game/Foliage/Trees/Cherry_Fruit.Cherry_Fruit",
+				"Wilting": "/Game/Foliage/Trees/Tree_Wilting.Tree_Wilting",
+				"Dead": "/Game/Foliage/Trees/Tree_Dead.Tree_Dead"
+			},
+			"CropPickHeight": 0,
+			"Seasons":
+			[ 0, 1 ],
+			"TownVolumes":
+			[
+				"Pumpkinvale"
+			],
+			"IsTree": true,
+			"BaseHitsRequired": 50,
+			"FruitMaterialIndex": 0
+		},
+		{
+			"RowName": "Kumguats",
+			"HoursBetweenStages": 130,
+			"CropsPerHarvest": 30,
+			"CanRegrow": true,
+			"StaminaToHarvest": 5,
+			"Meshes": 
+			{
+				"Seed": "/Game/Foliage/Trees/Tree_Sapling.Tree_Sapling",
+				"Sprout": "/Game/Foliage/Trees/Kumguat_Tree_Small.Kumguat_Tree_Small",
+				"Leaf": "/Game/Foliage/Trees/Kumguat_Tree.Kumguat_Tree",
+				"Flower": "/Game/Foliage/Trees/Kumguat_Tree_Flowers.Kumguat_Tree_Flowers",
+				"Fruit": "/Game/Foliage/Trees/Kumguat_Tree_Kumguats.Kumguat_Tree_Kumguats",
+				"Wilting": "/Game/Foliage/Trees/Tree_Wilting.Tree_Wilting",
+				"Dead": "/Game/Foliage/Trees/Tree_Dead.Tree_Dead"
+			},
+			"CropPickHeight": 0,
+			"Seasons":
+			[ 0, 1 ],
+			"TownVolumes":
+			[
+				"Wahoo_Beach",
+				"Spoony_Island"
+			],
+			"IsTree": true,
+			"BaseHitsRequired": 150,
+			"FruitMaterialIndex": 3
+		},
+		{
+			"RowName": "Lemon",
+			"HoursBetweenStages": 130,
+			"CropsPerHarvest": 30,
+			"CanRegrow": true,
+			"StaminaToHarvest": 5,
+			"Meshes": 
+			{
+				"Seed": "/Game/Foliage/Trees/Tree_Sapling.Tree_Sapling",
+				"Sprout": "/Game/Foliage/Trees/Lemon_Tree_Small.Lemon_Tree_Small",
+				"Leaf": "/Game/Foliage/Trees/Lemon_Tree.Lemon_Tree",
+				"Flower": "/Game/Foliage/Trees/Lemon_Tree_Flowers.Lemon_Tree_Flowers",
+				"Fruit": "/Game/Foliage/Trees/Lemon_Tree_Lemons.Lemon_Tree_Lemons",
+				"Wilting": "/Game/Foliage/Trees/Tree_Wilting.Tree_Wilting",
+				"Dead": "/Game/Foliage/Trees/Tree_Dead.Tree_Dead"
+			},
+			"CropPickHeight": 0,
+			"Seasons":
+			[ 0, 1 ],
+			"TownVolumes":
+			[
+				"Pumpkinvale"
+			],
+			"IsTree": true,
+			"BaseHitsRequired": 150,
+			"FruitMaterialIndex": 3
+		},
+		{
+			"RowName": "Almonds",
+			"HoursBetweenStages": 130,
+			"CropsPerHarvest": 30,
+			"CanRegrow": true,
+			"StaminaToHarvest": 5,
+			"Meshes": 
+			{
+				"Seed": "/Game/Foliage/Trees/Tree_Sapling.Tree_Sapling",
+				"Sprout": "/Game/Foliage/Trees/Almond_Tree_Small.Almond_Tree_Small",
+				"Leaf": "/Game/Foliage/Trees/Almond_Tree.Almond_Tree",
+				"Flower": "/Game/Foliage/Trees/Almond_Tree_Flowers.Almond_Tree_Flowers",
+				"Fruit": "/Game/Foliage/Trees/Almond_Tree_Fruit.Almond_Tree_Fruit",
+				"Wilting": "/Game/Foliage/Trees/Tree_Wilting.Tree_Wilting",
+				"Dead": "/Game/Foliage/Trees/Tree_Dead.Tree_Dead"
+			},
+			"CropPickHeight": 0,
+			"Seasons":
+			[ 0, 1 ],
+			"TownVolumes":
+			[
+				"Wahoo_Beach",
+				"Spoony_Island"
+			],
+			"IsTree": true,
+			"BaseHitsRequired": 150,
+			"FruitMaterialIndex": 0
+		},
+		{
+			"RowName": "Peach",
+			"HoursBetweenStages": 130,
+			"CropsPerHarvest": 30,
+			"CanRegrow": true,
+			"StaminaToHarvest": 5,
+			"Meshes": 
+			{
+				"Seed": "/Game/Foliage/Trees/Tree_Sapling.Tree_Sapling",
+				"Sprout": "/Game/Foliage/Trees/Peach_Tree_Small.Peach_Tree_Small",
+				"Leaf": "/Game/Foliage/Trees/Peach_Tree.Peach_Tree",
+				"Flower": "/Game/Foliage/Trees/Peach_Flowers.Peach_Flowers",
+				"Fruit": "/Game/Foliage/Trees/Peach_Tree_Peaches.Peach_Tree_Peaches",
+				"Wilting": "/Game/Foliage/Trees/Tree_Wilting.Tree_Wilting",
+				"Dead": "/Game/Foliage/Trees/Tree_Dead.Tree_Dead"
+			},
+			"CropPickHeight": 0,
+			"Seasons":
+			[ 1, 0 ],
+			"TownVolumes":
+			[
+				"Wahoo_Beach",
+				"Spoony_Island"
+			],
+			"IsTree": true,
+			"BaseHitsRequired": 150,
+			"FruitMaterialIndex": 3
+		},
+		{
+			"RowName": "Lychees",
+			"HoursBetweenStages": 130,
+			"CropsPerHarvest": 30,
+			"CanRegrow": true,
+			"StaminaToHarvest": 5,
+			"Meshes": 
+			{
+				"Seed": "/Game/Foliage/Trees/Tree_Sapling.Tree_Sapling",
+				"Sprout": "/Game/Foliage/Trees/Lychee_Tree_Small.Lychee_Tree_Small",
+				"Leaf": "/Game/Foliage/Trees/Lychee_Tree.Lychee_Tree",
+				"Flower": "/Game/Foliage/Trees/Lychee_Flowers.Lychee_Flowers",
+				"Fruit": "/Game/Foliage/Trees/Lychee_Fruit.Lychee_Fruit",
+				"Wilting": "/Game/Foliage/Trees/Tree_Wilting.Tree_Wilting",
+				"Dead": "/Game/Foliage/Trees/Tree_Dead.Tree_Dead"
+			},
+			"CropPickHeight": 0,
+			"Seasons":
+			[ 1, 0 ],
+			"TownVolumes":
+			[
+				"Wahoo_Beach",
+				"Spoony_Island"
+			],
+			"IsTree": true,
+			"BaseHitsRequired": 0,
+			"FruitMaterialIndex": 0
+		},
+		{
+			"RowName": "Olives",
+			"HoursBetweenStages": 130,
+			"CropsPerHarvest": 30,
+			"CanRegrow": true,
+			"StaminaToHarvest": 5,
+			"Meshes": 
+			{
+				"Seed": "/Game/Foliage/Trees/Tree_Sapling.Tree_Sapling",
+				"Sprout": "/Game/Foliage/Trees/Olive_Tree_Small.Olive_Tree_Small",
+				"Leaf": "/Game/Foliage/Trees/Olive_Tree.Olive_Tree",
+				"Flower": "/Game/Foliage/Trees/Olive_Tree_Flowers.Olive_Tree_Flowers",
+				"Fruit": "/Game/Foliage/Trees/Olive_Tree_Fruit.Olive_Tree_Fruit",
+				"Wilting": "/Game/Foliage/Trees/Tree_Wilting.Tree_Wilting",
+				"Dead": "/Game/Foliage/Trees/Tree_Dead.Tree_Dead"
+			},
+			"CropPickHeight": 0,
+			"Seasons":
+			[ 1, 0 ],
+			"TownVolumes":
+			[
+				"Wahoo_Beach",
+				"Spoony_Island"
+			],
+			"IsTree": true,
+			"BaseHitsRequired": 0,
+			"FruitMaterialIndex": 0
+		},
+		{
+			"RowName": "Macadamia",
+			"HoursBetweenStages": 130,
+			"CropsPerHarvest": 30,
+			"CanRegrow": true,
+			"StaminaToHarvest": 5,
+			"Meshes": 
+			{
+				"Seed": "/Game/Foliage/Trees/Tree_Sapling.Tree_Sapling",
+				"Sprout": "/Game/Foliage/Trees/Macadamia_Tree_Small.Macadamia_Tree_Small",
+				"Leaf": "/Game/Foliage/Trees/Macadamia_Tree.Macadamia_Tree",
+				"Flower": "/Game/Foliage/Trees/Macadamia_Tree_Flowers.Macadamia_Tree_Flowers",
+				"Fruit": "/Game/Foliage/Trees/Macadamia_Tree_Fruit.Macadamia_Tree_Fruit",
+				"Wilting": "/Game/Foliage/Trees/Tree_Wilting.Tree_Wilting",
+				"Dead": "/Game/Foliage/Trees/Tree_Dead.Tree_Dead"
+			},
+			"CropPickHeight": 0,
+			"Seasons":
+			[ 1, 0 ],
+			"TownVolumes":
+			[
+				"Pumpkinvale"
+			],
+			"IsTree": true,
+			"BaseHitsRequired": 200,
+			"FruitMaterialIndex": 0
+		},
+		{
+			"RowName": "Apple",
+			"HoursBetweenStages": 130,
+			"CropsPerHarvest": 30,
+			"CanRegrow": true,
+			"StaminaToHarvest": 5,
+			"Meshes": 
+			{
+				"Seed": "/Game/Foliage/Trees/Tree_Sapling.Tree_Sapling",
+				"Sprout": "/Game/Foliage/Trees/Apple_Tree_Small.Apple_Tree_Small",
+				"Leaf": "/Game/Foliage/Trees/Apple_Tree.Apple_Tree",
+				"Flower": "/Game/Foliage/Trees/Apple_Tree_Flowers.Apple_Tree_Flowers",
+				"Fruit": "/Game/Foliage/Trees/Apple_Tree_Apples.Apple_Tree_Apples",
+				"Wilting": "/Game/Foliage/Trees/Tree_Wilting.Tree_Wilting",
+				"Dead": "/Game/Foliage/Trees/Tree_Dead.Tree_Dead"
+			},
+			"CropPickHeight": 0,
+			"Seasons":
+			[ 1, 2 ],
+			"TownVolumes":
+			[
+				"Pumpkinvale"
+			],
+			"IsTree": true,
+			"BaseHitsRequired": 100,
+			"FruitMaterialIndex": 3
+		},
+		{
+			"RowName": "Fig",
+			"HoursBetweenStages": 130,
+			"CropsPerHarvest": 30,
+			"CanRegrow": true,
+			"StaminaToHarvest": 5,
+			"Meshes": 
+			{
+				"Seed": "/Game/Foliage/Trees/Tree_Sapling.Tree_Sapling",
+				"Sprout": "/Game/Foliage/Trees/Fig_Tree_Small.Fig_Tree_Small",
+				"Leaf": "/Game/Foliage/Trees/Fig_Tree.Fig_Tree",
+				"Flower": "/Game/Foliage/Trees/Fig_Tree_Flower.Fig_Tree_Flower",
+				"Fruit": "/Game/Foliage/Trees/Fig_Tree_Fruit.Fig_Tree_Fruit",
+				"Wilting": "/Game/Foliage/Trees/Tree_Wilting.Tree_Wilting",
+				"Dead": "/Game/Foliage/Trees/Tree_Dead.Tree_Dead"
+			},
+			"CropPickHeight": 0,
+			"Seasons":
+			[ 2, 1 ],
+			"TownVolumes":
+			[
+				"Wahoo_Beach",
+				"Spoony_Island"
+			],
+			"IsTree": true,
+			"BaseHitsRequired": 0,
+			"FruitMaterialIndex": 0
+		},
+		{
+			"RowName": "Pomegranate",
+			"HoursBetweenStages": 130,
+			"CropsPerHarvest": 30,
+			"CanRegrow": true,
+			"StaminaToHarvest": 5,
+			"Meshes": 
+			{
+				"Seed": "/Game/Foliage/Trees/Tree_Sapling.Tree_Sapling",
+				"Sprout": "/Game/Foliage/Trees/Pomegrante_Tree_Small.Pomegrante_Tree_Small",
+				"Leaf": "/Game/Foliage/Trees/Pomegrante_Tree.Pomegrante_Tree",
+				"Flower": "/Game/Foliage/Trees/Pomegrante_Tree_Flowers.Pomegrante_Tree_Flowers",
+				"Fruit": "/Game/Foliage/Trees/Pomegranate_Tree_Pomegranates.Pomegranate_Tree_Pomegranates",
+				"Wilting": "/Game/Foliage/Trees/Tree_Wilting.Tree_Wilting",
+				"Dead": "/Game/Foliage/Trees/Tree_Dead.Tree_Dead"
+			},
+			"CropPickHeight": 0,
+			"Seasons":
+			[ 2, 1 ],
+			"TownVolumes":
+			[
+				"Wahoo_Beach",
+				"Spoony_Island"
+			],
+			"IsTree": true,
+			"BaseHitsRequired": 100,
+			"FruitMaterialIndex": 3
+		},
+		{
+			"RowName": "Dates",
+			"HoursBetweenStages": 130,
+			"CropsPerHarvest": 30,
+			"CanRegrow": true,
+			"StaminaToHarvest": 5,
+			"Meshes": 
+			{
+				"Seed": "/Game/Foliage/Trees/Tree_Sapling.Tree_Sapling",
+				"Sprout": "/Game/Foliage/Trees/DateTree_Medium.DateTree_Medium",
+				"Leaf": "/Game/Foliage/Trees/DateTree_Medium.DateTree_Medium",
+				"Flower": "/Game/Foliage/Trees/DateTree_Flower.DateTree_Flower",
+				"Fruit": "/Game/Foliage/Trees/DateTree_Fruit.DateTree_Fruit",
+				"Wilting": "/Game/Foliage/Trees/Tree_Wilting.Tree_Wilting",
+				"Dead": "/Game/Foliage/Trees/Tree_Dead.Tree_Dead"
+			},
+			"CropPickHeight": 0,
+			"Seasons":
+			[ 2, 1 ],
+			"TownVolumes":
+			[
+				"Wahoo_Beach",
+				"Spoony_Island"
+			],
+			"IsTree": true,
+			"BaseHitsRequired": 150,
+			"FruitMaterialIndex": 0
+		},
+		{
+			"RowName": "Mandarin",
+			"HoursBetweenStages": 130,
+			"CropsPerHarvest": 30,
+			"CanRegrow": true,
+			"StaminaToHarvest": 5,
+			"Meshes": 
+			{
+				"Seed": "/Game/Foliage/Trees/Tree_Sapling.Tree_Sapling",
+				"Sprout": "/Game/Foliage/Trees/Orange_Tree_Small.Orange_Tree_Small",
+				"Leaf": "/Game/Foliage/Trees/Orange_Tree.Orange_Tree",
+				"Flower": "/Game/Foliage/Trees/Mandarin_Flower.Mandarin_Flower",
+				"Fruit": "/Game/Foliage/Trees/Orange_Tree_Oranges.Orange_Tree_Oranges",
+				"Wilting": "/Game/Foliage/Trees/Tree_Wilting.Tree_Wilting",
+				"Dead": "/Game/Foliage/Trees/Tree_Dead.Tree_Dead"
+			},
+			"CropPickHeight": 0,
+			"Seasons":
+			[ 2, 1 ],
+			"TownVolumes":
+			[
+				"Wahoo_Beach",
+				"Spoony_Island"
+			],
+			"IsTree": true,
+			"BaseHitsRequired": 150,
+			"FruitMaterialIndex": 3
+		},
+		{
+			"RowName": "Pistachios",
+			"HoursBetweenStages": 130,
+			"CropsPerHarvest": 30,
+			"CanRegrow": true,
+			"StaminaToHarvest": 5,
+			"Meshes": 
+			{
+				"Seed": "/Game/Foliage/Trees/Tree_Sapling.Tree_Sapling",
+				"Sprout": "/Game/Foliage/Trees/Pistachio_Tree_Small.Pistachio_Tree_Small",
+				"Leaf": "/Game/Foliage/Trees/Pistachio_Tree.Pistachio_Tree",
+				"Flower": "/Game/Foliage/Trees/Pistachio_Tree_Flower.Pistachio_Tree_Flower",
+				"Fruit": "/Game/Foliage/Trees/Pistachio_Tree_Fruit.Pistachio_Tree_Fruit",
+				"Wilting": "/Game/Foliage/Trees/Tree_Wilting.Tree_Wilting",
+				"Dead": "/Game/Foliage/Trees/Tree_Dead.Tree_Dead"
+			},
+			"CropPickHeight": 0,
+			"Seasons":
+			[ 2, 1 ],
+			"TownVolumes":
+			[
+				"Pumpkinvale"
+			],
+			"IsTree": true,
+			"BaseHitsRequired": 200,
+			"FruitMaterialIndex": 0
+		},
+		{
+			"RowName": "Lime",
+			"HoursBetweenStages": 130,
+			"CropsPerHarvest": 30,
+			"CanRegrow": true,
+			"StaminaToHarvest": 5,
+			"Meshes": 
+			{
+				"Seed": "/Game/Foliage/Trees/Tree_Sapling.Tree_Sapling",
+				"Sprout": "/Game/Foliage/Trees/Lime_Tree_Small.Lime_Tree_Small",
+				"Leaf": "/Game/Foliage/Trees/Lime_Tree.Lime_Tree",
+				"Flower": "/Game/Foliage/Trees/Lemon_Tree_Flowers.Lemon_Tree_Flowers",
+				"Fruit": "/Game/Foliage/Trees/Lime_Tree_Limes.Lime_Tree_Limes",
+				"Wilting": "/Game/Foliage/Trees/Tree_Wilting.Tree_Wilting",
+				"Dead": "/Game/Foliage/Trees/Tree_Dead.Tree_Dead"
+			},
+			"CropPickHeight": 0,
+			"Seasons":
+			[ 0, 1 ],
+			"TownVolumes":
+			[
+				"Wahoo_Beach",
+				"Spoony_Island"
+			],
+			"IsTree": true,
+			"BaseHitsRequired": 150,
+			"FruitMaterialIndex": 3
+		},
+		{
+			"RowName": "Mango",
+			"HoursBetweenStages": 130,
+			"CropsPerHarvest": 30,
+			"CanRegrow": true,
+			"StaminaToHarvest": 5,
+			"Meshes": 
+			{
+				"Seed": "/Game/Foliage/Trees/Tree_Sapling.Tree_Sapling",
+				"Sprout": "/Game/Foliage/Trees/Mango_Tree_Small.Mango_Tree_Small",
+				"Leaf": "/Game/Foliage/Trees/Mango_Tree.Mango_Tree",
+				"Flower": "/Game/Foliage/Trees/Mango_Tree_Flowers.Mango_Tree_Flowers",
+				"Fruit": "/Game/Foliage/Trees/Mango_Tree_Fruit.Mango_Tree_Fruit",
+				"Wilting": "/Game/Foliage/Trees/Tree_Wilting.Tree_Wilting",
+				"Dead": "/Game/Foliage/Trees/Tree_Dead.Tree_Dead"
+			},
+			"CropPickHeight": 0,
+			"Seasons":
+			[ 0, 1 ],
+			"TownVolumes":
+			[
+				"Wahoo_Beach",
+				"Spoony_Island"
+			],
+			"IsTree": true,
+			"BaseHitsRequired": 0,
+			"FruitMaterialIndex": 0
+		},
+		{
+			"RowName": "Orange",
+			"HoursBetweenStages": 130,
+			"CropsPerHarvest": 30,
+			"CanRegrow": true,
+			"StaminaToHarvest": 5,
+			"Meshes": 
+			{
+				"Seed": "/Game/Foliage/Trees/Tree_Sapling.Tree_Sapling",
+				"Sprout": "/Game/Foliage/Trees/Orange_Tree_Small.Orange_Tree_Small",
+				"Leaf": "/Game/Foliage/Trees/Orange_Tree.Orange_Tree",
+				"Flower": "/Game/Foliage/Trees/Mandarin_Flower.Mandarin_Flower",
+				"Fruit": "/Game/Foliage/Trees/Orange_Tree_Oranges.Orange_Tree_Oranges",
+				"Wilting": "/Game/Foliage/Trees/Tree_Wilting.Tree_Wilting",
+				"Dead": "/Game/Foliage/Trees/Tree_Dead.Tree_Dead"
+			},
+			"CropPickHeight": 0,
+			"Seasons":
+			[ 0, 1 ],
+			"TownVolumes":
+			[
+				"Wahoo_Beach",
+				"Spoony_Island"
+			],
+			"IsTree": true,
+			"BaseHitsRequired": 150,
+			"FruitMaterialIndex": 3
+		},
+		{
+			"RowName": "Papaya",
+			"HoursBetweenStages": 130,
+			"CropsPerHarvest": 30,
+			"CanRegrow": true,
+			"StaminaToHarvest": 5,
+			"Meshes": 
+			{
+				"Seed": "/Game/Foliage/Trees/Tree_Sapling.Tree_Sapling",
+				"Sprout": "/Game/Foliage/Trees/PapayaTree_Medium.PapayaTree_Medium",
+				"Leaf": "/Game/Foliage/Trees/PapayaTree_Medium.PapayaTree_Medium",
+				"Flower": "/Game/Foliage/Trees/PapayaTree_Flower.PapayaTree_Flower",
+				"Fruit": "/Game/Foliage/Trees/PapayaTree_Fruit.PapayaTree_Fruit",
+				"Wilting": "/Game/Foliage/Trees/Tree_Wilting.Tree_Wilting",
+				"Dead": "/Game/Foliage/Trees/Tree_Dead.Tree_Dead"
+			},
+			"CropPickHeight": 0,
+			"Seasons":
+			[ 1, 0 ],
+			"TownVolumes":
+			[
+				"Wahoo_Beach",
+				"Spoony_Island"
+			],
+			"IsTree": true,
+			"BaseHitsRequired": 0,
+			"FruitMaterialIndex": 0
+		},
+		{
+			"RowName": "Pecans",
+			"HoursBetweenStages": 130,
+			"CropsPerHarvest": 30,
+			"CanRegrow": true,
+			"StaminaToHarvest": 5,
+			"Meshes": 
+			{
+				"Seed": "/Game/Foliage/Trees/Tree_Sapling.Tree_Sapling",
+				"Sprout": "/Game/Foliage/Trees/Pecan_Tree_Small.Pecan_Tree_Small",
+				"Leaf": "/Game/Foliage/Trees/Pecan_Tree.Pecan_Tree",
+				"Flower": "/Game/Foliage/Trees/Pecan_Tree_Flower.Pecan_Tree_Flower",
+				"Fruit": "/Game/Foliage/Trees/Pecan_Tree_Fruit.Pecan_Tree_Fruit",
+				"Wilting": "/Game/Foliage/Trees/Tree_Wilting.Tree_Wilting",
+				"Dead": "/Game/Foliage/Trees/Tree_Dead.Tree_Dead"
+			},
+			"CropPickHeight": 0,
+			"Seasons":
+			[ 0, 1 ],
+			"TownVolumes":
+			[
+				"Wahoo_Beach",
+				"Spoony_Island"
+			],
+			"IsTree": true,
+			"BaseHitsRequired": 200,
+			"FruitMaterialIndex": 0
+		},
+		{
+			"RowName": "Cashews",
+			"HoursBetweenStages": 130,
+			"CropsPerHarvest": 30,
+			"CanRegrow": true,
+			"StaminaToHarvest": 5,
+			"Meshes": 
+			{
+				"Seed": "/Game/Foliage/Trees/Tree_Sapling.Tree_Sapling",
+				"Sprout": "/Game/Foliage/Trees/Cashew_Tree_Small.Cashew_Tree_Small",
+				"Leaf": "/Game/Foliage/Trees/Cashew_Tree.Cashew_Tree",
+				"Flower": "/Game/Foliage/Trees/Cashew_Tree_Flower.Cashew_Tree_Flower",
+				"Fruit": "/Game/Foliage/Trees/Cashew_Tree_Flower.Cashew_Tree_Flower",
+				"Wilting": "/Game/Foliage/Trees/Tree_Wilting.Tree_Wilting",
+				"Dead": "/Game/Foliage/Trees/Tree_Dead.Tree_Dead"
+			},
+			"CropPickHeight": 0,
+			"Seasons":
+			[ 0, 1 ],
+			"TownVolumes":
+			[
+				"Wahoo_Beach",
+				"Spoony_Island"
+			],
+			"IsTree": true,
+			"BaseHitsRequired": 200,
+			"FruitMaterialIndex": 0
+		},
+		{
+			"RowName": "Cocoa",
+			"HoursBetweenStages": 130,
+			"CropsPerHarvest": 30,
+			"CanRegrow": true,
+			"StaminaToHarvest": 5,
+			"Meshes": 
+			{
+				"Seed": "/Game/Foliage/Trees/Tree_Sapling.Tree_Sapling",
+				"Sprout": "/Game/Foliage/Trees/Cocoa_Small.Cocoa_Small",
+				"Leaf": "/Game/Foliage/Trees/Cocoa_Flowers.Cocoa_Flowers",
+				"Flower": "/Game/Foliage/Trees/Cocoa_Tree.Cocoa_Tree",
+				"Fruit": "/Game/Foliage/Trees/Cocoa_Tree_Fruit.Cocoa_Tree_Fruit",
+				"Wilting": "/Game/Foliage/Trees/Tree_Wilting.Tree_Wilting",
+				"Dead": "/Game/Foliage/Trees/Tree_Dead.Tree_Dead"
+			},
+			"CropPickHeight": 0,
+			"Seasons":
+			[ 1, 0 ],
+			"TownVolumes":
+			[
+				"Wahoo_Beach",
+				"Spoony_Island"
+			],
+			"IsTree": true,
+			"BaseHitsRequired": 0,
+			"FruitMaterialIndex": 0
+		},
+		{
+			"RowName": "Coconut",
+			"HoursBetweenStages": 130,
+			"CropsPerHarvest": 30,
+			"CanRegrow": true,
+			"StaminaToHarvest": 5,
+			"Meshes": 
+			{
+				"Seed": "/Game/Meshes/Farming/Crops/Coconut.Coconut",
+				"Sprout": "/Game/Foliage/Trees/Coconut_Tree_Medium.Coconut_Tree_Medium",
+				"Leaf": "/Game/Foliage/Trees/Coconut_Tree_Medium.Coconut_Tree_Medium",
+				"Flower": "/Game/Foliage/Trees/Coconut_Tree.Coconut_Tree",
+				"Fruit": "/Game/Foliage/Trees/Coconut_Tree_Fruit.Coconut_Tree_Fruit",
+				"Wilting": "/Game/Meshes/Farming/Crops/Coconut.Coconut",
+				"Dead": "/Game/Foliage/Trees/Tree_Dead.Tree_Dead"
+			},
+			"CropPickHeight": 0,
+			"Seasons":
+			[ 1, 0 ],
+			"TownVolumes":
+			[
+				"Wahoo_Beach",
+				"Spoony_Island"
+			],
+			"IsTree": true,
+			"BaseHitsRequired": 0,
+			"FruitMaterialIndex": 0
+		},
+		{
+			"RowName": "Bananas",
+			"HoursBetweenStages": 130,
+			"CropsPerHarvest": 30,
+			"CanRegrow": true,
+			"StaminaToHarvest": 5,
+			"Meshes": 
+			{
+				"Seed": "/Game/Meshes/Farming/Plots/Seeded_Mound.Seeded_Mound",
+				"Sprout": "/Game/Meshes/Crops/Banana_Medium.Banana_Medium",
+				"Leaf": "/Game/Meshes/Crops/Banana_Medium.Banana_Medium",
+				"Flower": "/Game/Meshes/Crops/Banana_Flower.Banana_Flower",
+				"Fruit": "/Game/Meshes/Crops/Banana_Fruit.Banana_Fruit",
+				"Wilting": "/Game/Meshes/Crops/Sprout.Sprout",
+				"Dead": "/Game/Foliage/Trees/Tree_Dead.Tree_Dead"
+			},
+			"CropPickHeight": 0,
+			"Seasons":
+			[ 1, 0 ],
+			"TownVolumes":
+			[
+				"Wahoo_Beach",
+				"Spoony_Island"
+			],
+			"IsTree": true,
+			"BaseHitsRequired": 150,
+			"FruitMaterialIndex": 0
+		},
+		{
+			"RowName": "Dragonfruit",
+			"HoursBetweenStages": 400,
+			"CropsPerHarvest": 30,
+			"CanRegrow": true,
+			"StaminaToHarvest": 5,
+			"Meshes": 
+			{
+				"Seed": "/Game/Foliage/Trees/Tree_Sapling.Tree_Sapling",
+				"Sprout": "/Game/Foliage/Trees/Dragonfruit_Medium.Dragonfruit_Medium",
+				"Leaf": "/Game/Foliage/Trees/Dragonfruit_Medium.Dragonfruit_Medium",
+				"Flower": "/Game/Foliage/Trees/Dragonfruit_Flower.Dragonfruit_Flower",
+				"Fruit": "/Game/Foliage/Trees/Dragonfruit_Fruit.Dragonfruit_Fruit",
+				"Wilting": "/Game/Foliage/Trees/Tree_Sapling.Tree_Sapling",
+				"Dead": "/Game/Foliage/Trees/Tree_Dead.Tree_Dead"
+			},
+			"CropPickHeight": 0,
+			"Seasons":
+			[ 0, 1 ],
+			"TownVolumes":
+			[
+				"Wahoo_Beach",
+				"Spoony_Island"
+			],
+			"IsTree": true,
+			"BaseHitsRequired": 200,
+			"FruitMaterialIndex": 0
+		},
+		{
+			"RowName": "Breadfruit",
+			"HoursBetweenStages": 130,
+			"CropsPerHarvest": 30,
+			"CanRegrow": true,
+			"StaminaToHarvest": 5,
+			"Meshes": 
+			{
+				"Seed": "/Game/Foliage/Trees/Tree_Sapling.Tree_Sapling",
+				"Sprout": "/Game/Foliage/Trees/Breadfruit_Tree_Small.Breadfruit_Tree_Small",
+				"Leaf": "/Game/Foliage/Trees/Breadfruit_Tree_Small.Breadfruit_Tree_Small",
+				"Flower": "/Game/Foliage/Trees/Breadfruit_Flower.Breadfruit_Flower",
+				"Fruit": "/Game/Foliage/Trees/Breadfruit_Tree_Fruit.Breadfruit_Tree_Fruit",
+				"Wilting": "/Game/Foliage/Trees/Tree_Wilting.Tree_Wilting",
+				"Dead": "/Game/Foliage/Trees/Tree_Dead.Tree_Dead"
+			},
+			"CropPickHeight": 0,
+			"Seasons":
+			[ 1, 0 ],
+			"TownVolumes":
+			[
+				"Wahoo_Beach",
+				"Spoony_Island"
+			],
+			"IsTree": true,
+			"BaseHitsRequired": 0,
+			"FruitMaterialIndex": 0
+		},
+		{
+			"RowName": "Avocado",
+			"HoursBetweenStages": 130,
+			"CropsPerHarvest": 30,
+			"CanRegrow": true,
+			"StaminaToHarvest": 5,
+			"Meshes": 
+			{
+				"Seed": "/Game/Foliage/Trees/Tree_Sapling.Tree_Sapling",
+				"Sprout": "/Game/Foliage/Trees/Avocado_Tree_Small.Avocado_Tree_Small",
+				"Leaf": "/Game/Foliage/Trees/Avocado_Tree.Avocado_Tree",
+				"Flower": "/Game/Foliage/Trees/Avocado_Flowers.Avocado_Flowers",
+				"Fruit": "/Game/Foliage/Trees/Avocado_Tree_Fruit.Avocado_Tree_Fruit",
+				"Wilting": "/Game/Foliage/Trees/Tree_Wilting.Tree_Wilting",
+				"Dead": "/Game/Foliage/Trees/Tree_Dead.Tree_Dead"
+			},
+			"CropPickHeight": 0,
+			"Seasons":
+			[ 2, 3 ],
+			"TownVolumes":
+			[
+				"Wahoo_Beach",
+				"Spoony_Island"
+			],
+			"IsTree": true,
+			"BaseHitsRequired": 0,
+			"FruitMaterialIndex": 0
+		},
+		{
+			"RowName": "Guava",
+			"HoursBetweenStages": 130,
+			"CropsPerHarvest": 30,
+			"CanRegrow": true,
+			"StaminaToHarvest": 5,
+			"Meshes": 
+			{
+				"Seed": "/Game/Foliage/Trees/Tree_Sapling.Tree_Sapling",
+				"Sprout": "/Game/Foliage/Trees/Guava_Tree_Small.Guava_Tree_Small",
+				"Leaf": "/Game/Foliage/Trees/Guava_Tree.Guava_Tree",
+				"Flower": "/Game/Foliage/Trees/Guava_Tree_Flowers.Guava_Tree_Flowers",
+				"Fruit": "/Game/Foliage/Trees/Guava_Tree_Guava.Guava_Tree_Guava",
+				"Wilting": "/Game/Foliage/Trees/Tree_Wilting.Tree_Wilting",
+				"Dead": "/Game/Foliage/Trees/Tree_Dead.Tree_Dead"
+			},
+			"CropPickHeight": 0,
+			"Seasons":
+			[ 2, 3 ],
+			"TownVolumes":
+			[
+				"Wahoo_Beach",
+				"Spoony_Island"
+			],
+			"IsTree": true,
+			"BaseHitsRequired": 200,
+			"FruitMaterialIndex": 3
+		},
+		{
+			"RowName": "Starfruit",
+			"HoursBetweenStages": 130,
+			"CropsPerHarvest": 30,
+			"CanRegrow": true,
+			"StaminaToHarvest": 5,
+			"Meshes": 
+			{
+				"Seed": "/Game/Foliage/Trees/Tree_Sapling.Tree_Sapling",
+				"Sprout": "/Game/Foliage/Trees/Starfruit_Tree_Small.Starfruit_Tree_Small",
+				"Leaf": "/Game/Foliage/Trees/Starfruit_Tree.Starfruit_Tree",
+				"Flower": "/Game/Foliage/Trees/Starfruit_Tree_Flowers.Starfruit_Tree_Flowers",
+				"Fruit": "/Game/Foliage/Trees/Starfruit_Tree_Starfruit.Starfruit_Tree_Starfruit",
+				"Wilting": "/Game/Foliage/Trees/Tree_Wilting.Tree_Wilting",
+				"Dead": "/Game/Foliage/Trees/Tree_Dead.Tree_Dead"
+			},
+			"CropPickHeight": 0,
+			"Seasons":
+			[ 2, 3 ],
+			"TownVolumes":
+			[
+				"Wahoo_Beach",
+				"Spoony_Island"
+			],
+			"IsTree": true,
+			"BaseHitsRequired": 150,
+			"FruitMaterialIndex": 3
+		},
+		{
+			"RowName": "SugarApple",
+			"HoursBetweenStages": 130,
+			"CropsPerHarvest": 30,
+			"CanRegrow": true,
+			"StaminaToHarvest": 5,
+			"Meshes": 
+			{
+				"Seed": "/Game/Meshes/Farming/Plots/Seeded_Mound.Seeded_Mound",
+				"Sprout": "/Game/Foliage/Trees/Sugar_Apple_Tree_SMall.Sugar_Apple_Tree_SMall",
+				"Leaf": "/Game/Foliage/Trees/Sugar_Apple_Tree.Sugar_Apple_Tree",
+				"Flower": "/Game/Foliage/Trees/Sugarapple_FLower.Sugarapple_FLower",
+				"Fruit": "/Game/Foliage/Trees/Sugar_Apple_Tree_SugarApples.Sugar_Apple_Tree_SugarApples",
+				"Wilting": "/Game/Foliage/Trees/Tree_Wilting.Tree_Wilting",
+				"Dead": "/Game/Foliage/Trees/Tree_Dead.Tree_Dead"
+			},
+			"CropPickHeight": 0,
+			"Seasons":
+			[ 2, 3 ],
+			"TownVolumes":
+			[
+				"Wahoo_Beach",
+				"Spoony_Island"
+			],
+			"IsTree": true,
+			"BaseHitsRequired": 150,
+			"FruitMaterialIndex": 3
+		},
+		{
+			"RowName": "Hazel_Nut",
+			"HoursBetweenStages": 130,
+			"CropsPerHarvest": 30,
+			"CanRegrow": true,
+			"StaminaToHarvest": 5,
+			"Meshes": 
+			{
+				"Seed": "/Game/Foliage/Trees/Tree_Sapling.Tree_Sapling",
+				"Sprout": "/Game/Foliage/Trees/Hazelnut_Tree_Small.Hazelnut_Tree_Small",
+				"Leaf": "/Game/Foliage/Trees/Hazelnut_Tree.Hazelnut_Tree",
+				"Flower": "/Game/Foliage/Trees/Hazelnut_Tree_Flowers.Hazelnut_Tree_Flowers",
+				"Fruit": "/Game/Foliage/Trees/Hazelnut_Tree_Fruit.Hazelnut_Tree_Fruit",
+				"Wilting": "/Game/Foliage/Trees/Tree_Wilting.Tree_Wilting",
+				"Dead": "/Game/Foliage/Trees/Tree_Dead.Tree_Dead"
+			},
+			"CropPickHeight": 0,
+			"Seasons":
+			[ 2, 3 ],
+			"TownVolumes":
+			[
+				"Wahoo_Beach",
+				"Spoony_Island"
+			],
+			"IsTree": true,
+			"BaseHitsRequired": 0,
+			"FruitMaterialIndex": 0
+		},
+		{
+			"RowName": "Grapefruit",
+			"HoursBetweenStages": 130,
+			"CropsPerHarvest": 30,
+			"CanRegrow": true,
+			"StaminaToHarvest": 5,
+			"Meshes": 
+			{
+				"Seed": "/Game/Foliage/Trees/Tree_Sapling.Tree_Sapling",
+				"Sprout": "/Game/Foliage/Trees/Grapefruit_Tree_Small.Grapefruit_Tree_Small",
+				"Leaf": "/Game/Foliage/Trees/Grapefruit_Tree.Grapefruit_Tree",
+				"Flower": "/Game/Foliage/Trees/Grapefruit_Tree_Flowers.Grapefruit_Tree_Flowers",
+				"Fruit": "/Game/Foliage/Trees/Grapefruit_Tree_Grapefruits.Grapefruit_Tree_Grapefruits",
+				"Wilting": "/Game/Foliage/Trees/Tree_Wilting.Tree_Wilting",
+				"Dead": "/Game/Foliage/Trees/Tree_Dead.Tree_Dead"
+			},
+			"CropPickHeight": 0,
+			"Seasons":
+			[ 2, 1 ],
+			"TownVolumes":
+			[
+				"Wahoo_Beach",
+				"Spoony_Island"
+			],
+			"IsTree": true,
+			"BaseHitsRequired": 200,
+			"FruitMaterialIndex": 3
+		},
+		{
+			"RowName": "Nutmeg",
+			"HoursBetweenStages": 130,
+			"CropsPerHarvest": 30,
+			"CanRegrow": true,
+			"StaminaToHarvest": 5,
+			"Meshes": 
+			{
+				"Seed": "/Game/Foliage/Trees/Tree_Sapling.Tree_Sapling",
+				"Sprout": "/Game/Foliage/Trees/Nutmeg_Tree_Small.Nutmeg_Tree_Small",
+				"Leaf": "/Game/Foliage/Trees/Nutmeg_Tree.Nutmeg_Tree",
+				"Flower": "/Game/Foliage/Trees/Nutmeg_Flowers.Nutmeg_Flowers",
+				"Fruit": "/Game/Foliage/Trees/Nutmeg_Tree_Nutmegs.Nutmeg_Tree_Nutmegs",
+				"Wilting": "/Game/Foliage/Trees/Tree_Wilting.Tree_Wilting",
+				"Dead": "/Game/Foliage/Trees/Tree_Dead.Tree_Dead"
+			},
+			"CropPickHeight": 0,
+			"Seasons":
+			[ 2, 1 ],
+			"TownVolumes":
+			[
+				"Wahoo_Beach",
+				"Spoony_Island"
+			],
+			"IsTree": true,
+			"BaseHitsRequired": 150,
+			"FruitMaterialIndex": 3
+		},
+		{
+			"RowName": "Durian",
+			"HoursBetweenStages": 130,
+			"CropsPerHarvest": 30,
+			"CanRegrow": true,
+			"StaminaToHarvest": 5,
+			"Meshes": 
+			{
+				"Seed": "/Game/Foliage/Trees/Tree_Sapling.Tree_Sapling",
+				"Sprout": "/Game/Foliage/Trees/Durian_Small.Durian_Small",
+				"Leaf": "/Game/Foliage/Trees/Durian_Tree.Durian_Tree",
+				"Flower": "/Game/Foliage/Trees/Durian_Tree.Durian_Tree",
+				"Fruit": "/Game/Foliage/Trees/Durian_Tree_Fruit.Durian_Tree_Fruit",
+				"Wilting": "/Game/Foliage/Trees/Tree_Wilting.Tree_Wilting",
+				"Dead": "/Game/Foliage/Trees/Tree_Dead.Tree_Dead"
+			},
+			"CropPickHeight": 0,
+			"Seasons":
+			[ 3, 2 ],
+			"TownVolumes":
+			[
+				"Wahoo_Beach",
+				"Spoony_Island"
+			],
+			"IsTree": true,
+			"BaseHitsRequired": 0,
+			"FruitMaterialIndex": 0
+		},
+		{
+			"RowName": "Potarrots",
+			"HoursBetweenStages": 60,
+			"CropsPerHarvest": 5,
+			"CanRegrow": false,
+			"StaminaToHarvest": 2,
+			"Meshes": 
+			{
+				"Seed": "/Game/Meshes/Farming/Plots/Seeded_Mound.Seeded_Mound",
+				"Sprout": "/Game/Meshes/Crops/Sprout.Sprout",
+				"Leaf": "/Game/Meshes/Crops/Potarrot_Medium.Potarrot_Medium",
+				"Flower": "/Game/Meshes/Crops/Potarrot_Flower.Potarrot_Flower",
+				"Fruit": "/Game/Meshes/Crops/POtarrot_Fruit.Potarrot_Fruit",
+				"Wilting": "/Game/Meshes/Crops/Carrot_Wilt.Carrot_Wilt",
+				"Dead": "/Game/Meshes/Crops/Dead_Plant.Dead_Plant"
+			},
+			"CropPickHeight": 0,
+			"Seasons":
+			[ 2 ],
+			"TownVolumes":
+			[
+				"Wahoo_Beach",
+				"Pumpkinvale",
+				"Spoony_Island",
+				"Diamond_Falls"
+			],
+			"IsTree": false,
+			"BaseHitsRequired": 0,
+			"FruitMaterialIndex": 0
+		},
+		{
+			"RowName": "Tomatelons",
+			"HoursBetweenStages": 60,
+			"CropsPerHarvest": 5,
+			"CanRegrow": false,
+			"StaminaToHarvest": 2,
+			"Meshes": 
+			{
+				"Seed": "/Game/Meshes/Farming/Plots/Seeded_Mound.Seeded_Mound",
+				"Sprout": "/Game/Meshes/Crops/Sprout.Sprout",
+				"Leaf": "/Game/Meshes/Crops/Tomato_Medium.Tomato_Medium",
+				"Flower": "/Game/Meshes/Crops/Tomato_Flower.Tomato_Flower",
+				"Fruit": "/Game/Meshes/Crops/Tomatelon_Fruit.Tomatelon_Fruit",
+				"Wilting": "/Game/Meshes/Crops/Tomato_Medium_Wilting.Tomato_Medium_Wilting",
+				"Dead": "/Game/Meshes/Crops/Dead_Plant.Dead_Plant"
+			},
+			"CropPickHeight": 0,
+			"Seasons":
+			[ 1 ],
+			"TownVolumes":
+			[
+				"Wahoo_Beach",
+				"Pumpkinvale",
+				"Spoony_Island",
+				"Diamond_Falls"
+			],
+			"IsTree": false,
+			"BaseHitsRequired": 0,
+			"FruitMaterialIndex": 0
+		},
+		{
+			"RowName": "Jalaplant",
+			"HoursBetweenStages": 60,
+			"CropsPerHarvest": 5,
+			"CanRegrow": false,
+			"StaminaToHarvest": 2,
+			"Meshes": 
+			{
+				"Seed": "/Game/Meshes/Farming/Plots/Seeded_Mound.Seeded_Mound",
+				"Sprout": "/Game/Meshes/Crops/Sprout.Sprout",
+				"Leaf": "/Game/Meshes/Crops/Eggplant_Medium.Eggplant_Medium",
+				"Flower": "/Game/Meshes/Crops/Eggplant_Flower.Eggplant_Flower",
+				"Fruit": "/Game/Meshes/Crops/Jalaplant_Fruit.Jalaplant_Fruit",
+				"Wilting": "/Game/Meshes/Crops/Jalapeno_Wilt.Jalapeno_Wilt",
+				"Dead": "/Game/Meshes/Crops/Dead_Plant.Dead_Plant"
+			},
+			"CropPickHeight": 0,
+			"Seasons":
+			[ 1 ],
+			"TownVolumes":
+			[
+				"Wahoo_Beach",
+				"Pumpkinvale",
+				"Spoony_Island",
+				"Diamond_Falls"
+			],
+			"IsTree": false,
+			"BaseHitsRequired": 0,
+			"FruitMaterialIndex": 0
+		},
+		{
+			"RowName": "Spinip",
+			"HoursBetweenStages": 60,
+			"CropsPerHarvest": 5,
+			"CanRegrow": false,
+			"StaminaToHarvest": 2,
+			"Meshes": 
+			{
+				"Seed": "/Game/Meshes/Farming/Plots/Seeded_Mound.Seeded_Mound",
+				"Sprout": "/Game/Meshes/Crops/Sprout.Sprout",
+				"Leaf": "/Game/Meshes/Crops/Spinip_Medium.Spinip_Medium",
+				"Flower": "/Game/Meshes/Crops/Spinip_Medium.Spinip_Medium",
+				"Fruit": "/Game/Meshes/Crops/Spinip_Fruit.Spinip_Fruit",
+				"Wilting": "/Game/Meshes/Crops/Turnip_Medium_Wilting.Turnip_Medium_Wilting",
+				"Dead": "/Game/Meshes/Crops/Dead_Plant.Dead_Plant"
+			},
+			"CropPickHeight": 0,
+			"Seasons":
+			[ 0 ],
+			"TownVolumes":
+			[
+				"Wahoo_Beach",
+				"Pumpkinvale",
+				"Spoony_Island",
+				"Diamond_Falls"
+			],
+			"IsTree": false,
+			"BaseHitsRequired": 0,
+			"FruitMaterialIndex": 0
+		},
+		{
+			"RowName": "Brocados",
+			"HoursBetweenStages": 60,
+			"CropsPerHarvest": 5,
+			"CanRegrow": false,
+			"StaminaToHarvest": 2,
+			"Meshes": 
+			{
+				"Seed": "/Game/Meshes/Crops/Sprout.Sprout",
+				"Sprout": "/Game/Meshes/Crops/Broccoli_Medium.Broccoli_Medium",
+				"Leaf": "/Game/Meshes/Crops/Broccoli_Medium.Broccoli_Medium",
+				"Flower": "/Game/Meshes/Crops/Broccoli_Flower.Broccoli_Flower",
+				"Fruit": "/Game/Meshes/Crops/Brocado_Fruit.Brocado_Fruit",
+				"Wilting": "/Game/Meshes/Crops/Broccoli_Medium_Wilting.Broccoli_Medium_Wilting",
+				"Dead": "/Game/Foliage/Trees/Tree_Dead.Tree_Dead"
+			},
+			"CropPickHeight": 0,
+			"Seasons":
+			[ 2 ],
+			"TownVolumes":
+			[
+				"Wahoo_Beach",
+				"Pumpkinvale",
+				"Spoony_Island",
+				"Diamond_Falls"
+			],
+			"IsTree": false,
+			"BaseHitsRequired": 0,
+			"FruitMaterialIndex": 0
+		},
+		{
+			"RowName": "Zuccorn",
+			"HoursBetweenStages": 60,
+			"CropsPerHarvest": 5,
+			"CanRegrow": false,
+			"StaminaToHarvest": 2,
+			"Meshes": 
+			{
+				"Seed": "/Game/Meshes/Farming/Plots/Seeded_Mound.Seeded_Mound",
+				"Sprout": "/Game/Meshes/Crops/Sprout.Sprout",
+				"Leaf": "/Game/Meshes/Crops/Zucchini_Medium.Zucchini_Medium",
+				"Flower": "/Game/Meshes/Crops/Zucchini_Flower.Zucchini_Flower",
+				"Fruit": "/Game/Meshes/Crops/Zuccorn_Fruit.Zuccorn_Fruit",
+				"Wilting": "/Game/Meshes/Crops/Zucchini_Medium_Wilting.Zucchini_Medium_Wilting",
+				"Dead": "/Game/Meshes/Crops/Dead_Plant.Dead_Plant"
+			},
+			"CropPickHeight": 0,
+			"Seasons":
+			[ 1 ],
+			"TownVolumes":
+			[
+				"Wahoo_Beach",
+				"Pumpkinvale",
+				"Spoony_Island",
+				"Diamond_Falls"
+			],
+			"IsTree": false,
+			"BaseHitsRequired": 0,
+			"FruitMaterialIndex": 0
+		},
+		{
+			"RowName": "Grapple",
+			"HoursBetweenStages": 130,
+			"CropsPerHarvest": 30,
+			"CanRegrow": true,
+			"StaminaToHarvest": 5,
+			"Meshes": 
+			{
+				"Seed": "/Game/Foliage/Trees/Tree_Sapling.Tree_Sapling",
+				"Sprout": "/Game/Foliage/Trees/Apple_Tree_Small.Apple_Tree_Small",
+				"Leaf": "/Game/Foliage/Trees/Apple_Tree.Apple_Tree",
+				"Flower": "/Game/Foliage/Trees/Apple_Tree_Flowers.Apple_Tree_Flowers",
+				"Fruit": "/Game/Foliage/Trees/Grapple_Tree_Grapples.Grapple_Tree_Grapples",
+				"Wilting": "/Game/Foliage/Trees/Apple_Tree.Apple_Tree",
+				"Dead": "/Game/Foliage/Trees/Tree_Dead.Tree_Dead"
+			},
+			"CropPickHeight": 0,
+			"Seasons":
+			[ 1, 2 ],
+			"TownVolumes":
+			[
+				"Wahoo_Beach",
+				"Pumpkinvale",
+				"Spoony_Island",
+				"Diamond_Falls"
+			],
+			"IsTree": true,
+			"BaseHitsRequired": 0,
+			"FruitMaterialIndex": 0
+		},
+		{
+			"RowName": "Banapple",
+			"HoursBetweenStages": 130,
+			"CropsPerHarvest": 30,
+			"CanRegrow": true,
+			"StaminaToHarvest": 5,
+			"Meshes": 
+			{
+				"Seed": "/Game/Foliage/Trees/Tree_Sapling.Tree_Sapling",
+				"Sprout": "/Game/Foliage/Trees/Apple_Tree_Small.Apple_Tree_Small",
+				"Leaf": "/Game/Foliage/Trees/Apple_Tree_Apples.Apple_Tree_Apples",
+				"Flower": "/Game/Foliage/Trees/Apple_Tree_Flowers.Apple_Tree_Flowers",
+				"Fruit": "/Game/Foliage/Trees/Banapples_Tree_Banapples.Banapples_Tree_Banapples",
+				"Wilting": "/Game/Foliage/Trees/Apple_Tree_Apples.Apple_Tree_Apples",
+				"Dead": "/Game/Foliage/Trees/Tree_Dead.Tree_Dead"
+			},
+			"CropPickHeight": 0,
+			"Seasons":
+			[ 1, 2 ],
+			"TownVolumes":
+			[
+				"Wahoo_Beach",
+				"Pumpkinvale",
+				"Spoony_Island",
+				"Diamond_Falls"
+			],
+			"IsTree": true,
+			"BaseHitsRequired": 0,
+			"FruitMaterialIndex": 0
+		},
+		{
+			"RowName": "Bluerries",
+			"HoursBetweenStages": 48,
+			"CropsPerHarvest": 10,
+			"CanRegrow": false,
+			"StaminaToHarvest": 2,
+			"Meshes": 
+			{
+				"Seed": "/Game/Meshes/Farming/Plots/Seeded_Mound.Seeded_Mound",
+				"Sprout": "/Game/Meshes/Crops/Sprout.Sprout",
+				"Leaf": "/Game/Meshes/Crops/Blueberries_Medium.Blueberries_Medium",
+				"Flower": "/Game/Meshes/Crops/Blueberries_Flower.Blueberries_Flower",
+				"Fruit": "/Game/Meshes/Crops/Blueberry_Fruit.Blueberry_Fruit",
+				"Wilting": "/Game/Meshes/Crops/Blueberries_Medium.Blueberries_Medium",
+				"Dead": "/Game/Meshes/Crops/Dead_Plant.Dead_Plant"
+			},
+			"CropPickHeight": 0,
+			"Seasons":
+			[ 1, 2 ],
+			"TownVolumes":
+			[
+				"Wahoo_Beach",
+				"Pumpkinvale",
+				"Spoony_Island",
+				"Diamond_Falls"
+			],
+			"IsTree": false,
+			"BaseHitsRequired": 0,
+			"FruitMaterialIndex": 0
+		},
+		{
+			"RowName": "Pealum",
+			"HoursBetweenStages": 130,
+			"CropsPerHarvest": 30,
+			"CanRegrow": true,
+			"StaminaToHarvest": 5,
+			"Meshes": 
+			{
+				"Seed": "/Game/Foliage/Trees/Tree_Sapling.Tree_Sapling",
+				"Sprout": "/Game/Foliage/Trees/Peach_Tree_Small.Peach_Tree_Small",
+				"Leaf": "/Game/Foliage/Trees/Peach_Tree.Peach_Tree",
+				"Flower": "/Game/Foliage/Trees/Peach_Flowers.Peach_Flowers",
+				"Fruit": "/Game/Foliage/Trees/Peach_Tree_Peaches.Peach_Tree_Peaches",
+				"Wilting": "/Game/Foliage/Trees/Peach_Tree.Peach_Tree",
+				"Dead": "/Game/Foliage/Trees/Tree_Dead.Tree_Dead"
+			},
+			"CropPickHeight": 0,
+			"Seasons":
+			[ 1, 2 ],
+			"TownVolumes":
+			[
+				"Wahoo_Beach",
+				"Pumpkinvale",
+				"Spoony_Island",
+				"Diamond_Falls"
+			],
+			"IsTree": true,
+			"BaseHitsRequired": 0,
+			"FruitMaterialIndex": 0
+		},
+		{
+			"RowName": "Raspkins",
+			"HoursBetweenStages": 60,
+			"CropsPerHarvest": 10,
+			"CanRegrow": false,
+			"StaminaToHarvest": 2,
+			"Meshes": 
+			{
+				"Seed": "/Game/Meshes/Farming/Plots/Seeded_Mound.Seeded_Mound",
+				"Sprout": "/Game/Meshes/Crops/Sprout.Sprout",
+				"Leaf": "/Game/Meshes/Crops/Raspberries_Medium.Raspberries_Medium",
+				"Flower": "/Game/Meshes/Crops/Raspberries_Flower.Raspberries_Flower",
+				"Fruit": "/Game/Meshes/Crops/Raspberries_Fruit.Raspberries_Fruit",
+				"Wilting": "/Game/Meshes/Crops/Raspberries_Medium.Raspberries_Medium",
+				"Dead": "/Game/Meshes/Crops/Dead_Plant.Dead_Plant"
+			},
+			"CropPickHeight": 0,
+			"Seasons":
+			[ 2 ],
+			"TownVolumes":
+			[
+				"Wahoo_Beach",
+				"Pumpkinvale",
+				"Spoony_Island",
+				"Diamond_Falls"
+			],
+			"IsTree": false,
+			"BaseHitsRequired": 0,
+			"FruitMaterialIndex": 0
+		},
+		{
+			"RowName": "Sugarnut",
+			"HoursBetweenStages": 130,
+			"CropsPerHarvest": 30,
+			"CanRegrow": true,
+			"StaminaToHarvest": 5,
+			"Meshes": 
+			{
+				"Seed": "/Game/Foliage/Trees/Tree_Sapling.Tree_Sapling",
+				"Sprout": "/Game/Foliage/Trees/Sugar_Apple_Tree_SMall.Sugar_Apple_Tree_SMall",
+				"Leaf": "/Game/Foliage/Trees/Sugar_Apple_Tree.Sugar_Apple_Tree",
+				"Flower": "/Game/Foliage/Trees/Sugar_Apple_Tree.Sugar_Apple_Tree",
+				"Fruit": "/Game/Foliage/Trees/Sugarnut_Tree_Sugarnuts.Sugarnut_Tree_Sugarnuts",
+				"Wilting": "/Game/Foliage/Trees/Sugar_Apple_Tree.Sugar_Apple_Tree",
+				"Dead": "/Game/Foliage/Trees/Tree_Dead.Tree_Dead"
+			},
+			"CropPickHeight": 0,
+			"Seasons":
+			[ 0, 1 ],
+			"TownVolumes":
+			[
+				"Wahoo_Beach",
+				"Pumpkinvale",
+				"Spoony_Island",
+				"Diamond_Falls"
+			],
+			"IsTree": true,
+			"BaseHitsRequired": 0,
+			"FruitMaterialIndex": 0
+		},
+		{
+			"RowName": "Ginger_Dragon",
+			"HoursBetweenStages": 130,
+			"CropsPerHarvest": 30,
+			"CanRegrow": true,
+			"StaminaToHarvest": 5,
+			"Meshes": 
+			{
+				"Seed": "/Game/Foliage/Trees/Tree_Sapling.Tree_Sapling",
+				"Sprout": "/Game/Foliage/Trees/Dragonfruit_Medium.Dragonfruit_Medium",
+				"Leaf": "/Game/Foliage/Trees/Dragonfruit_Medium.Dragonfruit_Medium",
+				"Flower": "/Game/Foliage/Trees/Dragonfruit_Flower.Dragonfruit_Flower",
+				"Fruit": "/Game/Foliage/Trees/Ginger_Dragon_Tree-Ginger_Dragons.Ginger_Dragon_Tree-Ginger_Dragons",
+				"Wilting": "/Game/Foliage/Trees/Dragonfruit_Medium.Dragonfruit_Medium",
+				"Dead": "/Game/Meshes/Crops/Dead_Plant.Dead_Plant"
+			},
+			"CropPickHeight": 0,
+			"Seasons":
+			[ 0, 1 ],
+			"TownVolumes":
+			[
+				"Wahoo_Beach",
+				"Pumpkinvale",
+				"Spoony_Island",
+				"Diamond_Falls"
+			],
+			"IsTree": true,
+			"BaseHitsRequired": 0,
+			"FruitMaterialIndex": 0
+		},
+		{
+			"RowName": "Black_Beet",
+			"HoursBetweenStages": 60,
+			"CropsPerHarvest": 5,
+			"CanRegrow": false,
+			"StaminaToHarvest": 2,
+			"Meshes": 
+			{
+				"Seed": "/Game/Meshes/Farming/Plots/Seeded_Mound.Seeded_Mound",
+				"Sprout": "/Game/Meshes/Crops/Sprout.Sprout",
+				"Leaf": "/Game/Meshes/Crops/Black_Beet_Medium.Black_Beet_Medium",
+				"Flower": "/Game/Meshes/Crops/Black_Beet_Medium.Black_Beet_Medium",
+				"Fruit": "/Game/Meshes/Crops/Black_Beet_Fruit.Black_Beet_Fruit",
+				"Wilting": "/Game/Meshes/Crops/Turnip_Medium_Wilting.Turnip_Medium_Wilting",
+				"Dead": "/Game/Meshes/Crops/Dead_Plant.Dead_Plant"
+			},
+			"CropPickHeight": 0,
+			"Seasons":
+			[ 2 ],
+			"TownVolumes":
+			[
+				"Wahoo_Beach",
+				"Pumpkinvale",
+				"Spoony_Island",
+				"Diamond_Falls"
+			],
+			"IsTree": false,
+			"BaseHitsRequired": 0,
+			"FruitMaterialIndex": 0
+		},
+		{
+			"RowName": "Cocoberries",
+			"HoursBetweenStages": 60,
+			"CropsPerHarvest": 5,
+			"CanRegrow": false,
+			"StaminaToHarvest": 2,
+			"Meshes": 
+			{
+				"Seed": "/Game/Meshes/Farming/Plots/Seeded_Mound.Seeded_Mound",
+				"Sprout": "/Game/Meshes/Crops/Sprout.Sprout",
+				"Leaf": "/Game/Meshes/Crops/Strawberry_Medium.Strawberry_Medium",
+				"Flower": "/Game/Meshes/Crops/Strawberry_Flowers.Strawberry_Flowers",
+				"Fruit": "/Game/Meshes/Crops/Cocoberries_Fruit.Cocoberries_Fruit",
+				"Wilting": "/Game/Meshes/Crops/Strawberry_Medium_Wilting.Strawberry_Medium_Wilting",
+				"Dead": "/Game/Meshes/Crops/Dead_Plant.Dead_Plant"
+			},
+			"CropPickHeight": 0,
+			"Seasons":
+			[ 0 ],
+			"TownVolumes":
+			[
+				"Wahoo_Beach",
+				"Pumpkinvale",
+				"Spoony_Island",
+				"Diamond_Falls"
+			],
+			"IsTree": false,
+			"BaseHitsRequired": 0,
+			"FruitMaterialIndex": 0
+		},
+		{
+			"RowName": "Bellchees",
+			"HoursBetweenStages": 60,
+			"CropsPerHarvest": 5,
+			"CanRegrow": false,
+			"StaminaToHarvest": 2,
+			"Meshes": 
+			{
+				"Seed": "/Game/Meshes/Farming/Plots/Seeded_Mound.Seeded_Mound",
+				"Sprout": "/Game/Meshes/Crops/Sprout.Sprout",
+				"Leaf": "/Game/Meshes/Crops/Bell_Pepper_Medium.Bell_Pepper_Medium",
+				"Flower": "/Game/Meshes/Crops/Bell_Pepper_Flower.Bell_Pepper_Flower",
+				"Fruit": "/Game/Meshes/Crops/Bellchees_Fruit.Bellchees_Fruit",
+				"Wilting": "/Game/Meshes/Crops/Peppercorn_Medium_Wilting.Peppercorn_Medium_Wilting",
+				"Dead": "/Game/Meshes/Crops/Dead_Plant.Dead_Plant"
+			},
+			"CropPickHeight": 0,
+			"Seasons":
+			[ 0 ],
+			"TownVolumes":
+			[
+				"Wahoo_Beach",
+				"Pumpkinvale",
+				"Spoony_Island",
+				"Diamond_Falls"
+			],
+			"IsTree": false,
+			"BaseHitsRequired": 0,
+			"FruitMaterialIndex": 0
+		},
+		{
+			"RowName": "Blapple",
+			"HoursBetweenStages": 130,
+			"CropsPerHarvest": 1,
+			"CanRegrow": true,
+			"StaminaToHarvest": 2,
+			"Meshes": 
+			{
+				"Seed": "/Game/Meshes/Farming/Plots/Seeded_Mound.Seeded_Mound",
+				"Sprout": "/Game/Meshes/Crops/Sprout.Sprout",
+				"Leaf": "/Game/Meshes/Crops/Blapple_Small.Blapple_Small",
+				"Flower": "/Game/Meshes/Crops/Blapple_Flower.Blapple_Flower",
+				"Fruit": "/Game/Meshes/Farming/Crops/Blapple.Blapple",
+				"Wilting": "/Game/Meshes/Crops/Pineapple_Wilting.Pineapple_Wilting",
+				"Dead": "/Game/Meshes/Crops/Dead_Plant.Dead_Plant"
+			},
+			"CropPickHeight": 0,
+			"Seasons":
+			[ 1, 2 ],
+			"TownVolumes":
+			[
+				"Wahoo_Beach",
+				"Pumpkinvale",
+				"Spoony_Island",
+				"Diamond_Falls"
+			],
+			"IsTree": false,
+			"BaseHitsRequired": 0,
+			"FruitMaterialIndex": 0
+		},
+		{
+			"RowName": "Crattuce",
+			"HoursBetweenStages": 60,
+			"CropsPerHarvest": 5,
+			"CanRegrow": false,
+			"StaminaToHarvest": 2,
+			"Meshes": 
+			{
+				"Seed": "/Game/Meshes/Farming/Plots/Seeded_Mound.Seeded_Mound",
+				"Sprout": "/Game/Meshes/Crops/Sprout.Sprout",
+				"Leaf": "/Game/Meshes/Crops/Crattuce_Medium.Crattuce_Medium",
+				"Flower": "/Game/Meshes/Crops/Crattuce_Flower.Crattuce_Flower",
+				"Fruit": "/Game/Meshes/Crops/Crattuce_Fruit.Crattuce_Fruit",
+				"Wilting": "/Game/Meshes/Crops/Cabbage_Medium_Wilting.Cabbage_Medium_Wilting",
+				"Dead": "/Game/Meshes/Crops/Dead_Plant.Dead_Plant"
+			},
+			"CropPickHeight": 0,
+			"Seasons":
+			[ 0 ],
+			"TownVolumes":
+			[
+				"Wahoo_Beach",
+				"Pumpkinvale",
+				"Spoony_Island",
+				"Diamond_Falls"
+			],
+			"IsTree": false,
+			"BaseHitsRequired": 0,
+			"FruitMaterialIndex": 0
+		},
+		{
+			"RowName": "Pumpkin_Snow",
+			"HoursBetweenStages": 28,
+			"CropsPerHarvest": 2,
+			"CanRegrow": false,
+			"StaminaToHarvest": 1,
+			"Meshes": 
+			{
+				"Seed": "/Game/Meshes/Farming/Plots/Seeded_Mound.Seeded_Mound",
+				"Sprout": "/Game/Meshes/Crops/Sprout.Sprout",
+				"Leaf": "/Game/Meshes/Crops/Pumpkin_Medium.Pumpkin_Medium",
+				"Flower": "/Game/Meshes/Crops/Pumpkin_Flower.Pumpkin_Flower",
+				"Fruit": "/Game/Meshes/Crops/Pumpkin_Fruit_Snow.Pumpkin_Fruit_Snow",
+				"Wilting": "/Game/Meshes/Crops/Pumpkin_Medium_Wilting.Pumpkin_Medium_Wilting",
+				"Dead": "/Game/Meshes/Crops/Dead_Plant.Dead_Plant"
+			},
+			"CropPickHeight": 0,
+			"Seasons":
+			[ 3 ],
+			"TownVolumes":
+			[
+				"Wahoo_Beach",
+				"Pumpkinvale",
+				"Spoony_Island",
+				"Diamond_Falls"
+			],
+			"IsTree": false,
+			"BaseHitsRequired": 0,
+			"FruitMaterialIndex": 0
+		},
+		{
+			"RowName": "Pumpkin_Gold",
+			"HoursBetweenStages": 28,
+			"CropsPerHarvest": 2,
+			"CanRegrow": false,
+			"StaminaToHarvest": 1,
+			"Meshes": 
+			{
+				"Seed": "/Game/Meshes/Farming/Plots/Seeded_Mound.Seeded_Mound",
+				"Sprout": "/Game/Meshes/Crops/Sprout.Sprout",
+				"Leaf": "/Game/Meshes/Crops/Pumpkin_Medium.Pumpkin_Medium",
+				"Flower": "/Game/Meshes/Crops/Pumpkin_Flower.Pumpkin_Flower",
+				"Fruit": "/Game/Meshes/Crops/Pumpkin_Fruit_Gold.Pumpkin_Fruit_Gold",
+				"Wilting": "/Game/Meshes/Crops/Pumpkin_Medium_Wilting.Pumpkin_Medium_Wilting",
+				"Dead": "/Game/Meshes/Crops/Dead_Plant.Dead_Plant"
+			},
+			"CropPickHeight": 0,
+			"Seasons":
+			[ 1 ],
+			"TownVolumes":
+			[
+				"Wahoo_Beach",
+				"Pumpkinvale",
+				"Spoony_Island",
+				"Diamond_Falls"
+			],
+			"IsTree": false,
+			"BaseHitsRequired": 0,
+			"FruitMaterialIndex": 0
+		},
+		{
+			"RowName": "Pumpkin_Green",
+			"HoursBetweenStages": 28,
+			"CropsPerHarvest": 2,
+			"CanRegrow": false,
+			"StaminaToHarvest": 1,
+			"Meshes": 
+			{
+				"Seed": "/Game/Meshes/Farming/Plots/Seeded_Mound.Seeded_Mound",
+				"Sprout": "/Game/Meshes/Crops/Sprout.Sprout",
+				"Leaf": "/Game/Meshes/Crops/Pumpkin_Medium.Pumpkin_Medium",
+				"Flower": "/Game/Meshes/Crops/Pumpkin_Flower.Pumpkin_Flower",
+				"Fruit": "/Game/Meshes/Crops/Pumpkin_Fruit_Green.Pumpkin_Fruit_Green",
+				"Wilting": "/Game/Meshes/Crops/Pumpkin_Medium_Wilting.Pumpkin_Medium_Wilting",
+				"Dead": "/Game/Meshes/Crops/Dead_Plant.Dead_Plant"
+			},
+			"CropPickHeight": 0,
+			"Seasons":
+			[ 0 ],
+			"TownVolumes":
+			[
+				"Wahoo_Beach",
+				"Pumpkinvale",
+				"Spoony_Island",
+				"Diamond_Falls"
+			],
+			"IsTree": false,
+			"BaseHitsRequired": 0,
+			"FruitMaterialIndex": 0
+		},
+		{
+			"RowName": "Rice",
+			"HoursBetweenStages": 24,
+			"CropsPerHarvest": 10,
+			"CanRegrow": false,
+			"StaminaToHarvest": 2,
+			"Meshes": 
+			{
+				"Seed": "/Game/Meshes/Crops/Rice_Paddy_Sprout.Rice_Paddy_Sprout",
+				"Sprout": "/Game/Meshes/Crops/Rice_Paddy_Sprout.Rice_Paddy_Sprout",
+				"Leaf": "/Game/Meshes/Crops/Rice_Paddy_Medium.Rice_Paddy_Medium",
+				"Flower": "/Game/Meshes/Crops/Rice_Paddy_Leaf.Rice_Paddy_Leaf",
+				"Fruit": "/Game/Meshes/Crops/Rice_Paddy_Fruit.Rice_Paddy_Fruit",
+				"Wilting": "/Game/Meshes/Crops/Rice_Paddy_Wilting.Rice_Paddy_Wilting",
+				"Dead": "/Game/Meshes/Crops/Dead_Plant.Dead_Plant"
+			},
+			"CropPickHeight": 0,
+			"Seasons":
+			[ 2 ],
+			"TownVolumes":
+			[
+				"Wahoo_Beach",
+				"Pumpkinvale",
+				"Spoony_Island"
+			],
+			"IsTree": false,
+			"BaseHitsRequired": 0,
+			"FruitMaterialIndex": 0
+		},
+		{
+			"RowName": "Sugar_Beets",
+			"HoursBetweenStages": 24,
+			"CropsPerHarvest": 5,
+			"CanRegrow": false,
+			"StaminaToHarvest": 2,
+			"Meshes": 
+			{
+				"Seed": "/Game/Meshes/Farming/Plots/Seeded_Mound.Seeded_Mound",
+				"Sprout": "/Game/Meshes/Crops/Sprout.Sprout",
+				"Leaf": "/Game/Meshes/Crops/Sugar_Beet_Medium.Sugar_Beet_Medium",
+				"Flower": "/Game/Meshes/Crops/Sugar_Beet_Flower.Sugar_Beet_Flower",
+				"Fruit": "/Game/Meshes/Crops/Sugar_Beet_Fruit.Sugar_Beet_Fruit",
+				"Wilting": "/Game/Meshes/Crops/Turnip_Medium_Wilting.Turnip_Medium_Wilting",
+				"Dead": "/Game/Meshes/Crops/Dead_Plant.Dead_Plant"
+			},
+			"CropPickHeight": 0,
+			"Seasons":
+			[ 0, 1, 2, 3 ],
+			"TownVolumes":
+			[
+				"Pumpkinvale",
+				"Diamond_Falls"
+			],
+			"IsTree": false,
+			"BaseHitsRequired": 0,
+			"FruitMaterialIndex": 0
+		},
+		{
+			"RowName": "Basil",
+			"HoursBetweenStages": 24,
+			"CropsPerHarvest": 4,
+			"CanRegrow": false,
+			"StaminaToHarvest": 1,
+			"Meshes": 
+			{
+				"Seed": "/Game/Meshes/Farming/Plots/Seeded_Mound.Seeded_Mound",
+				"Sprout": "/Game/Meshes/Crops/Sprout.Sprout",
+				"Leaf": "/Game/Meshes/Crops/Sprout.Sprout",
+				"Flower": "/Game/Meshes/Crops/Sprout.Sprout",
+				"Fruit": "/Game/Meshes/Herbs/Basil_Bush.Basil_Bush",
+				"Wilting": "/Game/Meshes/Crops/Dead_Plant.Dead_Plant",
+				"Dead": "/Game/Meshes/Crops/Dead_Plant.Dead_Plant"
+			},
+			"CropPickHeight": 0,
+			"Seasons":
+			[ 0, 1, 2 ],
+			"TownVolumes":
+			[
+				"Wahoo_Beach",
+				"Pumpkinvale",
+				"Spoony_Island"
+			],
+			"IsTree": false,
+			"BaseHitsRequired": 0,
+			"FruitMaterialIndex": 0
+		},
+		{
+			"RowName": "Bay_Leaves",
+			"HoursBetweenStages": 24,
+			"CropsPerHarvest": 4,
+			"CanRegrow": false,
+			"StaminaToHarvest": 1,
+			"Meshes": 
+			{
+				"Seed": "/Game/Meshes/Farming/Plots/Seeded_Mound.Seeded_Mound",
+				"Sprout": "/Game/Meshes/Crops/Sprout.Sprout",
+				"Leaf": "/Game/Meshes/Crops/Sprout.Sprout",
+				"Flower": "/Game/Meshes/Crops/Sprout.Sprout",
+				"Fruit": "/Game/Meshes/Herbs/Bay_Leaves_Bush.Bay_Leaves_Bush",
+				"Wilting": "/Game/Meshes/Crops/Dead_Plant.Dead_Plant",
+				"Dead": "/Game/Meshes/Crops/Dead_Plant.Dead_Plant"
+			},
+			"CropPickHeight": 0,
+			"Seasons":
+			[ 0, 1, 2 ],
+			"TownVolumes":
+			[
+				"Wahoo_Beach",
+				"Spoony_Island"
+			],
+			"IsTree": false,
+			"BaseHitsRequired": 0,
+			"FruitMaterialIndex": 0
+		},
+		{
+			"RowName": "Camelia",
+			"HoursBetweenStages": 24,
+			"CropsPerHarvest": 4,
+			"CanRegrow": false,
+			"StaminaToHarvest": 1,
+			"Meshes": 
+			{
+				"Seed": "/Game/Meshes/Farming/Plots/Seeded_Mound.Seeded_Mound",
+				"Sprout": "/Game/Meshes/Crops/Sprout.Sprout",
+				"Leaf": "/Game/Meshes/Crops/Sprout.Sprout",
+				"Flower": "/Game/Meshes/Crops/Sprout.Sprout",
+				"Fruit": "/Game/Meshes/Flowers/Flower_Bushes/Camilia_Bush.Camilia_Bush",
+				"Wilting": "/Game/Meshes/Flowers/Flower_Bushes/Poinsettia_Bush_Wilting.Poinsettia_Bush_Wilting",
+				"Dead": "/Game/Meshes/Crops/Dead_Plant.Dead_Plant"
+			},
+			"CropPickHeight": 0,
+			"Seasons":
+			[ 0, 1, 2 ],
+			"TownVolumes":
+			[
+				"Wahoo_Beach",
+				"Pumpkinvale",
+				"Spoony_Island",
+				"Diamond_Falls"
+			],
+			"IsTree": false,
+			"BaseHitsRequired": 0,
+			"FruitMaterialIndex": 0
+		},
+		{
+			"RowName": "Cilantro",
+			"HoursBetweenStages": 24,
+			"CropsPerHarvest": 4,
+			"CanRegrow": false,
+			"StaminaToHarvest": 1,
+			"Meshes": 
+			{
+				"Seed": "/Game/Meshes/Farming/Plots/Seeded_Mound.Seeded_Mound",
+				"Sprout": "/Game/Meshes/Crops/Sprout.Sprout",
+				"Leaf": "/Game/Meshes/Crops/Sprout.Sprout",
+				"Flower": "/Game/Meshes/Crops/Sprout.Sprout",
+				"Fruit": "/Game/Meshes/Herbs/Cilantro_Bush.Cilantro_Bush",
+				"Wilting": "/Game/Meshes/Crops/Dead_Plant.Dead_Plant",
+				"Dead": "/Game/Meshes/Crops/Dead_Plant.Dead_Plant"
+			},
+			"CropPickHeight": 0,
+			"Seasons":
+			[ 0, 1, 2 ],
+			"TownVolumes":
+			[
+				"Wahoo_Beach",
+				"Pumpkinvale",
+				"Spoony_Island"
+			],
+			"IsTree": false,
+			"BaseHitsRequired": 0,
+			"FruitMaterialIndex": 0
+		},
+		{
+			"RowName": "Capers",
+			"HoursBetweenStages": 24,
+			"CropsPerHarvest": 4,
+			"CanRegrow": false,
+			"StaminaToHarvest": 1,
+			"Meshes": 
+			{
+				"Seed": "/Game/Meshes/Farming/Plots/Seeded_Mound.Seeded_Mound",
+				"Sprout": "/Game/Meshes/Farming/Plots/Seeded_Mound.Seeded_Mound",
+				"Leaf": "/Game/Meshes/Crops/Sprout.Sprout",
+				"Flower": "/Game/Meshes/Crops/Sprout.Sprout",
+				"Fruit": "/Game/Meshes/Flowers/Flower_Bushes/Capers_Bush.Capers_Bush",
+				"Wilting": "/Game/Meshes/Crops/Dead_Plant.Dead_Plant",
+				"Dead": "/Game/Meshes/Crops/Dead_Plant.Dead_Plant"
+			},
+			"CropPickHeight": 0,
+			"Seasons":
+			[ 0, 1, 2 ],
+			"TownVolumes":
+			[
+				"Wahoo_Beach",
+				"Spoony_Island"
+			],
+			"IsTree": false,
+			"BaseHitsRequired": 0,
+			"FruitMaterialIndex": 0
+		},
+		{
+			"RowName": "Chamomile",
+			"HoursBetweenStages": 24,
+			"CropsPerHarvest": 4,
+			"CanRegrow": false,
+			"StaminaToHarvest": 1,
+			"Meshes": 
+			{
+				"Seed": "/Game/Meshes/Farming/Plots/Seeded_Mound.Seeded_Mound",
+				"Sprout": "/Game/Meshes/Crops/Sprout.Sprout",
+				"Leaf": "/Game/Meshes/Crops/Sprout.Sprout",
+				"Flower": "/Game/Meshes/Flowers/Flower_Bushes/Daisy_Bush_2.Daisy_Bush_2",
+				"Fruit": "/Game/Meshes/Flowers/Flower_Bushes/Daisy_Bush.Daisy_Bush",
+				"Wilting": "/Game/Meshes/Flowers/Flower_Bushes/Daisy_Bush_Wilting.Daisy_Bush_Wilting",
+				"Dead": "/Game/Meshes/Crops/Dead_Plant.Dead_Plant"
+			},
+			"CropPickHeight": 0,
+			"Seasons":
+			[ 0, 1, 2 ],
+			"TownVolumes":
+			[
+				"Wahoo_Beach",
+				"Pumpkinvale",
+				"Spoony_Island"
+			],
+			"IsTree": false,
+			"BaseHitsRequired": 0,
+			"FruitMaterialIndex": 0
+		},
+		{
+			"RowName": "Chives",
+			"HoursBetweenStages": 24,
+			"CropsPerHarvest": 4,
+			"CanRegrow": false,
+			"StaminaToHarvest": 1,
+			"Meshes": 
+			{
+				"Seed": "/Game/Meshes/Farming/Plots/Seeded_Mound.Seeded_Mound",
+				"Sprout": "/Game/Meshes/Crops/Sprout.Sprout",
+				"Leaf": "/Game/Meshes/Crops/Sprout.Sprout",
+				"Flower": "/Game/Meshes/Crops/Sprout.Sprout",
+				"Fruit": "/Game/Meshes/Herbs/Chives_Bush.Chives_Bush",
+				"Wilting": "/Game/Meshes/Crops/Dead_Plant.Dead_Plant",
+				"Dead": "/Game/Meshes/Crops/Dead_Plant.Dead_Plant"
+			},
+			"CropPickHeight": 0,
+			"Seasons":
+			[ 0, 1, 2 ],
+			"TownVolumes":
+			[
+				"Wahoo_Beach",
+				"Pumpkinvale",
+				"Spoony_Island"
+			],
+			"IsTree": false,
+			"BaseHitsRequired": 0,
+			"FruitMaterialIndex": 0
+		},
+		{
+			"RowName": "Cinnamon",
+			"HoursBetweenStages": 130,
+			"CropsPerHarvest": 30,
+			"CanRegrow": true,
+			"StaminaToHarvest": 1,
+			"Meshes": 
+			{
+				"Seed": "/Game/Foliage/Trees/Tree_Sapling.Tree_Sapling",
+				"Sprout": "/Game/Foliage/Trees/Cinnamon_Tree_Small.Cinnamon_Tree_Small",
+				"Leaf": "/Game/Foliage/Trees/Cinnamon_Tree_Small.Cinnamon_Tree_Small",
+				"Flower": "/Game/Foliage/Trees/Cinnamon_Tree_Medium.Cinnamon_Tree_Medium",
+				"Fruit": "/Game/Foliage/Trees/Cinnamon_Tree.Cinnamon_Tree",
+				"Wilting": "/Game/Meshes/Crops/Dead_Plant.Dead_Plant",
+				"Dead": "/Game/Foliage/Dead_Plant_Tree.Dead_Plant_Tree"
+			},
+			"CropPickHeight": 0,
+			"Seasons":
+			[ 0, 1, 2 ],
+			"TownVolumes":
+			[
+				"Wahoo_Beach",
+				"Pumpkinvale",
+				"Spoony_Island"
+			],
+			"IsTree": true,
+			"BaseHitsRequired": 150,
+			"FruitMaterialIndex": 0
+		},
+		{
+			"RowName": "Cloves",
+			"HoursBetweenStages": 130,
+			"CropsPerHarvest": 30,
+			"CanRegrow": true,
+			"StaminaToHarvest": 1,
+			"Meshes": 
+			{
+				"Seed": "/Game/Foliage/Trees/Tree_Sapling.Tree_Sapling",
+				"Sprout": "/Game/Foliage/Trees/Cloves_Tree_Small.Cloves_Tree_Small",
+				"Leaf": "/Game/Foliage/Trees/Cloves_Tree.Cloves_Tree",
+				"Flower": "/Game/Foliage/Trees/Cloves_Tree.Cloves_Tree",
+				"Fruit": "/Game/Foliage/Trees/Cloves_Tree_Flowers.Cloves_Tree_Flowers",
+				"Wilting": "/Game/Foliage/Trees/Cloves_Tree.Cloves_Tree",
+				"Dead": "/Game/Foliage/Trees/Tree_Dead.Tree_Dead"
+			},
+			"CropPickHeight": 0,
+			"Seasons":
+			[ 0, 1, 2 ],
+			"TownVolumes":
+			[
+				"Wahoo_Beach",
+				"Spoony_Island"
+			],
+			"IsTree": true,
+			"BaseHitsRequired": 150,
+			"FruitMaterialIndex": 0
+		},
+		{
+			"RowName": "Coriander",
+			"HoursBetweenStages": 24,
+			"CropsPerHarvest": 4,
+			"CanRegrow": false,
+			"StaminaToHarvest": 1,
+			"Meshes": 
+			{
+				"Seed": "/Game/Meshes/Farming/Plots/Seeded_Mound.Seeded_Mound",
+				"Sprout": "/Game/Meshes/Crops/Sprout.Sprout",
+				"Leaf": "/Game/Meshes/Crops/Sprout.Sprout",
+				"Flower": "/Game/Meshes/Crops/Sprout.Sprout",
+				"Fruit": "/Game/Meshes/Herbs/Cilantro_Bush.Cilantro_Bush",
+				"Wilting": "/Game/Meshes/Crops/Dead_Plant.Dead_Plant",
+				"Dead": "/Game/Meshes/Crops/Dead_Plant.Dead_Plant"
+			},
+			"CropPickHeight": 0,
+			"Seasons":
+			[ 0, 1, 2 ],
+			"TownVolumes":
+			[
+				"Wahoo_Beach",
+				"Pumpkinvale",
+				"Spoony_Island"
+			],
+			"IsTree": false,
+			"BaseHitsRequired": 0,
+			"FruitMaterialIndex": 0
+		},
+		{
+			"RowName": "Cumin",
+			"HoursBetweenStages": 24,
+			"CropsPerHarvest": 4,
+			"CanRegrow": false,
+			"StaminaToHarvest": 1,
+			"Meshes": 
+			{
+				"Seed": "/Game/Meshes/Farming/Plots/Seeded_Mound.Seeded_Mound",
+				"Sprout": "/Game/Meshes/Crops/Sprout.Sprout",
+				"Leaf": "/Game/Meshes/Flowers/Flower_Bushes/Cumin_Bush_Bare.Cumin_Bush_Bare",
+				"Flower": "/Game/Meshes/Flowers/Flower_Bushes/Cumin_Bush_Bare.Cumin_Bush_Bare",
+				"Fruit": "/Game/Meshes/Flowers/Flower_Bushes/Cumin_Bush.Cumin_Bush",
+				"Wilting": "/Game/Meshes/Flowers/Flower_Bushes/Cumin_Bush_Wilting.Cumin_Bush_Wilting",
+				"Dead": "/Game/Meshes/Crops/Dead_Plant.Dead_Plant"
+			},
+			"CropPickHeight": 0,
+			"Seasons":
+			[ 0, 1, 2 ],
+			"TownVolumes":
+			[
+				"Wahoo_Beach",
+				"Spoony_Island"
+			],
+			"IsTree": false,
+			"BaseHitsRequired": 0,
+			"FruitMaterialIndex": 0
+		},
+		{
+			"RowName": "Curry",
+			"HoursBetweenStages": 24,
+			"CropsPerHarvest": 4,
+			"CanRegrow": false,
+			"StaminaToHarvest": 1,
+			"Meshes": 
+			{
+				"Seed": "/Game/Meshes/Farming/Plots/Seeded_Mound.Seeded_Mound",
+				"Sprout": "/Game/Meshes/Crops/Sprout.Sprout",
+				"Leaf": "/Game/Meshes/Crops/Sprout.Sprout",
+				"Flower": "/Game/Meshes/Crops/Sprout.Sprout",
+				"Fruit": "/Game/Meshes/Herbs/Curry_Bush.Curry_Bush",
+				"Wilting": "/Game/Meshes/Crops/Dead_Plant.Dead_Plant",
+				"Dead": "/Game/Meshes/Crops/Dead_Plant.Dead_Plant"
+			},
+			"CropPickHeight": 0,
+			"Seasons":
+			[ 0, 1, 2 ],
+			"TownVolumes":
+			[
+				"Wahoo_Beach",
+				"Spoony_Island"
+			],
+			"IsTree": false,
+			"BaseHitsRequired": 0,
+			"FruitMaterialIndex": 0
+		},
+		{
+			"RowName": "Dill_Weed",
+			"HoursBetweenStages": 24,
+			"CropsPerHarvest": 4,
+			"CanRegrow": false,
+			"StaminaToHarvest": 1,
+			"Meshes": 
+			{
+				"Seed": "/Game/Meshes/Farming/Plots/Seeded_Mound.Seeded_Mound",
+				"Sprout": "/Game/Meshes/Crops/Sprout.Sprout",
+				"Leaf": "/Game/Meshes/Crops/Sprout.Sprout",
+				"Flower": "/Game/Meshes/Crops/Sprout.Sprout",
+				"Fruit": "/Game/Meshes/Herbs/Basil_Bush.Basil_Bush",
+				"Wilting": "/Game/Meshes/Crops/Dead_Plant.Dead_Plant",
+				"Dead": "/Game/Meshes/Crops/Dead_Plant.Dead_Plant"
+			},
+			"CropPickHeight": 0,
+			"Seasons":
+			[ 0, 1, 2 ],
+			"TownVolumes":
+			[
+				"Pumpkinvale"
+			],
+			"IsTree": false,
+			"BaseHitsRequired": 0,
+			"FruitMaterialIndex": 0
+		},
+		{
+			"RowName": "Horse_Radish",
+			"HoursBetweenStages": 24,
+			"CropsPerHarvest": 4,
+			"CanRegrow": false,
+			"StaminaToHarvest": 1,
+			"Meshes": 
+			{
+				"Seed": "/Game/Meshes/Farming/Plots/Seeded_Mound.Seeded_Mound",
+				"Sprout": "/Game/Meshes/Crops/Sprout.Sprout",
+				"Leaf": "/Game/Meshes/Crops/Sprout.Sprout",
+				"Flower": "/Game/Meshes/Crops/Sprout.Sprout",
+				"Fruit": "/Game/Meshes/Herbs/Basil_Bush.Basil_Bush",
+				"Wilting": "/Game/Meshes/Crops/Dead_Plant.Dead_Plant",
+				"Dead": "/Game/Meshes/Crops/Dead_Plant.Dead_Plant"
+			},
+			"CropPickHeight": 0,
+			"Seasons":
+			[ 0, 1, 2 ],
+			"TownVolumes":
+			[
+				"Wahoo_Beach",
+				"Pumpkinvale",
+				"Spoony_Island"
+			],
+			"IsTree": false,
+			"BaseHitsRequired": 0,
+			"FruitMaterialIndex": 0
+		},
+		{
+			"RowName": "Licorice",
+			"HoursBetweenStages": 24,
+			"CropsPerHarvest": 4,
+			"CanRegrow": false,
+			"StaminaToHarvest": 1,
+			"Meshes": 
+			{
+				"Seed": "/Game/Meshes/Farming/Plots/Seeded_Mound.Seeded_Mound",
+				"Sprout": "/Game/Meshes/Crops/Sprout.Sprout",
+				"Leaf": "/Game/Meshes/Crops/Sprout.Sprout",
+				"Flower": "/Game/Meshes/Crops/Sprout.Sprout",
+				"Fruit": "/Game/Meshes/Herbs/Basil_Bush.Basil_Bush",
+				"Wilting": "/Game/Meshes/Crops/Dead_Plant.Dead_Plant",
+				"Dead": "/Game/Meshes/Crops/Dead_Plant.Dead_Plant"
+			},
+			"CropPickHeight": 0,
+			"Seasons":
+			[ 0, 1, 2 ],
+			"TownVolumes":
+			[
+				"Pumpkinvale"
+			],
+			"IsTree": false,
+			"BaseHitsRequired": 0,
+			"FruitMaterialIndex": 0
+		},
+		{
+			"RowName": "Lemon_Grass",
+			"HoursBetweenStages": 24,
+			"CropsPerHarvest": 4,
+			"CanRegrow": false,
+			"StaminaToHarvest": 1,
+			"Meshes": 
+			{
+				"Seed": "/Game/Meshes/Farming/Plots/Seeded_Mound.Seeded_Mound",
+				"Sprout": "/Game/Meshes/Crops/Sprout_2.Sprout_2",
+				"Leaf": "/Game/Meshes/Crops/Sprout_2.Sprout_2",
+				"Flower": "/Game/Meshes/Crops/Sprout_2.Sprout_2",
+				"Fruit": "/Game/Meshes/Herbs/Basil_Bush.Basil_Bush",
+				"Wilting": "/Game/Meshes/Crops/Dead_Plant.Dead_Plant",
+				"Dead": "/Game/Meshes/Crops/Dead_Plant.Dead_Plant"
+			},
+			"CropPickHeight": 0,
+			"Seasons":
+			[ 0, 1, 2 ],
+			"TownVolumes":
+			[
+				"Wahoo_Beach",
+				"Pumpkinvale",
+				"Spoony_Island"
+			],
+			"IsTree": false,
+			"BaseHitsRequired": 0,
+			"FruitMaterialIndex": 0
+		},
+		{
+			"RowName": "Mint",
+			"HoursBetweenStages": 24,
+			"CropsPerHarvest": 4,
+			"CanRegrow": false,
+			"StaminaToHarvest": 1,
+			"Meshes": 
+			{
+				"Seed": "/Game/Meshes/Farming/Plots/Seeded_Mound.Seeded_Mound",
+				"Sprout": "/Game/Meshes/Crops/Sprout.Sprout",
+				"Leaf": "/Game/Meshes/Crops/Sprout.Sprout",
+				"Flower": "/Game/Meshes/Crops/Sprout.Sprout",
+				"Fruit": "/Game/Meshes/Herbs/Mint_Bush.Mint_Bush",
+				"Wilting": "/Game/Meshes/Crops/Dead_Plant.Dead_Plant",
+				"Dead": "/Game/Meshes/Crops/Dead_Plant.Dead_Plant"
+			},
+			"CropPickHeight": 0,
+			"Seasons":
+			[ 0, 1, 2 ],
+			"TownVolumes":
+			[
+				"Wahoo_Beach",
+				"Pumpkinvale",
+				"Spoony_Island"
+			],
+			"IsTree": false,
+			"BaseHitsRequired": 0,
+			"FruitMaterialIndex": 0
+		},
+		{
+			"RowName": "Mustard",
+			"HoursBetweenStages": 24,
+			"CropsPerHarvest": 4,
+			"CanRegrow": false,
+			"StaminaToHarvest": 1,
+			"Meshes": 
+			{
+				"Seed": "/Game/Meshes/Farming/Plots/Seeded_Mound.Seeded_Mound",
+				"Sprout": "/Game/Meshes/Crops/Sprout.Sprout",
+				"Leaf": "/Game/Meshes/Crops/Sprout.Sprout",
+				"Flower": "/Game/Meshes/Crops/Sprout.Sprout",
+				"Fruit": "/Game/Meshes/Herbs/Basil_Bush.Basil_Bush",
+				"Wilting": "/Game/Meshes/Crops/Dead_Plant.Dead_Plant",
+				"Dead": "/Game/Meshes/Crops/Dead_Plant.Dead_Plant"
+			},
+			"CropPickHeight": 0,
+			"Seasons":
+			[ 0, 1, 2 ],
+			"TownVolumes":
+			[
+				"Wahoo_Beach",
+				"Pumpkinvale",
+				"Spoony_Island"
+			],
+			"IsTree": false,
+			"BaseHitsRequired": 0,
+			"FruitMaterialIndex": 0
+		},
+		{
+			"RowName": "Oregano",
+			"HoursBetweenStages": 24,
+			"CropsPerHarvest": 4,
+			"CanRegrow": false,
+			"StaminaToHarvest": 1,
+			"Meshes": 
+			{
+				"Seed": "/Game/Meshes/Farming/Plots/Seeded_Mound.Seeded_Mound",
+				"Sprout": "/Game/Meshes/Crops/Sprout.Sprout",
+				"Leaf": "/Game/Meshes/Crops/Sprout.Sprout",
+				"Flower": "/Game/Meshes/Crops/Sprout.Sprout",
+				"Fruit": "/Game/Meshes/Herbs/Oregano_Bush.Oregano_Bush",
+				"Wilting": "/Game/Meshes/Crops/Dead_Plant.Dead_Plant",
+				"Dead": "/Game/Meshes/Crops/Dead_Plant.Dead_Plant"
+			},
+			"CropPickHeight": 0,
+			"Seasons":
+			[ 0, 1, 2 ],
+			"TownVolumes":
+			[
+				"Pumpkinvale"
+			],
+			"IsTree": false,
+			"BaseHitsRequired": 0,
+			"FruitMaterialIndex": 0
+		},
+		{
+			"RowName": "Parsley",
+			"HoursBetweenStages": 24,
+			"CropsPerHarvest": 4,
+			"CanRegrow": false,
+			"StaminaToHarvest": 1,
+			"Meshes": 
+			{
+				"Seed": "/Game/Meshes/Farming/Plots/Seeded_Mound.Seeded_Mound",
+				"Sprout": "/Game/Meshes/Crops/Sprout.Sprout",
+				"Leaf": "/Game/Meshes/Crops/Sprout.Sprout",
+				"Flower": "/Game/Meshes/Crops/Sprout.Sprout",
+				"Fruit": "/Game/Meshes/Herbs/Parsley_Bush.Parsley_Bush",
+				"Wilting": "/Game/Meshes/Crops/Dead_Plant.Dead_Plant",
+				"Dead": "/Game/Meshes/Crops/Dead_Plant.Dead_Plant"
+			},
+			"CropPickHeight": 0,
+			"Seasons":
+			[ 0, 1, 2 ],
+			"TownVolumes":
+			[
+				"Wahoo_Beach",
+				"Pumpkinvale",
+				"Spoony_Island"
+			],
+			"IsTree": false,
+			"BaseHitsRequired": 0,
+			"FruitMaterialIndex": 0
+		},
+		{
+			"RowName": "Roosibos",
+			"HoursBetweenStages": 24,
+			"CropsPerHarvest": 4,
+			"CanRegrow": false,
+			"StaminaToHarvest": 1,
+			"Meshes": 
+			{
+				"Seed": "/Game/Meshes/Farming/Plots/Seeded_Mound.Seeded_Mound",
+				"Sprout": "/Game/Meshes/Crops/Sprout.Sprout",
+				"Leaf": "/Game/Meshes/Crops/Sprout.Sprout",
+				"Flower": "/Game/Meshes/Crops/Sprout.Sprout",
+				"Fruit": "/Game/Meshes/Herbs/Basil_Bush.Basil_Bush",
+				"Wilting": "/Game/Meshes/Crops/Dead_Plant.Dead_Plant",
+				"Dead": "/Game/Meshes/Crops/Dead_Plant.Dead_Plant"
+			},
+			"CropPickHeight": 0,
+			"Seasons":
+			[ 0, 1, 2 ],
+			"TownVolumes":
+			[
+				"Wahoo_Beach",
+				"Spoony_Island"
+			],
+			"IsTree": false,
+			"BaseHitsRequired": 0,
+			"FruitMaterialIndex": 0
+		},
+		{
+			"RowName": "Rosemary",
+			"HoursBetweenStages": 24,
+			"CropsPerHarvest": 4,
+			"CanRegrow": false,
+			"StaminaToHarvest": 1,
+			"Meshes": 
+			{
+				"Seed": "/Game/Meshes/Farming/Plots/Seeded_Mound.Seeded_Mound",
+				"Sprout": "/Game/Meshes/Crops/Sprout.Sprout",
+				"Leaf": "/Game/Meshes/Crops/Sprout.Sprout",
+				"Flower": "/Game/Meshes/Crops/Sprout.Sprout",
+				"Fruit": "/Game/Meshes/Herbs/Rosemary_Bush.Rosemary_Bush",
+				"Wilting": "/Game/Meshes/Crops/Dead_Plant.Dead_Plant",
+				"Dead": "/Game/Meshes/Crops/Dead_Plant.Dead_Plant"
+			},
+			"CropPickHeight": 0,
+			"Seasons":
+			[ 0, 1, 2 ],
+			"TownVolumes":
+			[
+				"Wahoo_Beach",
+				"Pumpkinvale",
+				"Spoony_Island"
+			],
+			"IsTree": false,
+			"BaseHitsRequired": 0,
+			"FruitMaterialIndex": 0
+		},
+		{
+			"RowName": "Sage",
+			"HoursBetweenStages": 24,
+			"CropsPerHarvest": 4,
+			"CanRegrow": false,
+			"StaminaToHarvest": 1,
+			"Meshes": 
+			{
+				"Seed": "/Game/Meshes/Farming/Plots/Seeded_Mound.Seeded_Mound",
+				"Sprout": "/Game/Meshes/Crops/Sprout.Sprout",
+				"Leaf": "/Game/Meshes/Crops/Sprout.Sprout",
+				"Flower": "/Game/Meshes/Crops/Sprout.Sprout",
+				"Fruit": "/Game/Meshes/Herbs/Sage_Bush.Sage_Bush",
+				"Wilting": "/Game/Meshes/Crops/Dead_Plant.Dead_Plant",
+				"Dead": "/Game/Meshes/Crops/Dead_Plant.Dead_Plant"
+			},
+			"CropPickHeight": 0,
+			"Seasons":
+			[ 0, 1, 2 ],
+			"TownVolumes":
+			[
+				"Wahoo_Beach",
+				"Pumpkinvale",
+				"Spoony_Island"
+			],
+			"IsTree": false,
+			"BaseHitsRequired": 0,
+			"FruitMaterialIndex": 0
+		},
+		{
+			"RowName": "Sorrel",
+			"HoursBetweenStages": 24,
+			"CropsPerHarvest": 4,
+			"CanRegrow": false,
+			"StaminaToHarvest": 1,
+			"Meshes": 
+			{
+				"Seed": "/Game/Meshes/Farming/Plots/Seeded_Mound.Seeded_Mound",
+				"Sprout": "/Game/Meshes/Crops/Sprout.Sprout",
+				"Leaf": "/Game/Meshes/Crops/Sprout.Sprout",
+				"Flower": "/Game/Meshes/Crops/Sprout.Sprout",
+				"Fruit": "/Game/Meshes/Herbs/Sorrel_Bush.Sorrel_Bush",
+				"Wilting": "/Game/Meshes/Crops/Dead_Plant.Dead_Plant",
+				"Dead": "/Game/Meshes/Crops/Dead_Plant.Dead_Plant"
+			},
+			"CropPickHeight": 0,
+			"Seasons":
+			[ 0, 1, 2 ],
+			"TownVolumes":
+			[
+				"Wahoo_Beach",
+				"Spoony_Island"
+			],
+			"IsTree": false,
+			"BaseHitsRequired": 0,
+			"FruitMaterialIndex": 0
+		},
+		{
+			"RowName": "Tarragon",
+			"HoursBetweenStages": 24,
+			"CropsPerHarvest": 4,
+			"CanRegrow": false,
+			"StaminaToHarvest": 1,
+			"Meshes": 
+			{
+				"Seed": "/Game/Meshes/Farming/Plots/Seeded_Mound.Seeded_Mound",
+				"Sprout": "/Game/Meshes/Crops/Sprout.Sprout",
+				"Leaf": "/Game/Meshes/Crops/Sprout.Sprout",
+				"Flower": "/Game/Meshes/Crops/Sprout.Sprout",
+				"Fruit": "/Game/Meshes/Herbs/Rosemary_Bush.Rosemary_Bush",
+				"Wilting": "/Game/Meshes/Crops/Dead_Plant.Dead_Plant",
+				"Dead": "/Game/Meshes/Crops/Dead_Plant.Dead_Plant"
+			},
+			"CropPickHeight": 0,
+			"Seasons":
+			[ 0, 1, 2 ],
+			"TownVolumes":
+			[
+				"Pumpkinvale"
+			],
+			"IsTree": false,
+			"BaseHitsRequired": 0,
+			"FruitMaterialIndex": 0
+		},
+		{
+			"RowName": "Thyme",
+			"HoursBetweenStages": 24,
+			"CropsPerHarvest": 4,
+			"CanRegrow": false,
+			"StaminaToHarvest": 1,
+			"Meshes": 
+			{
+				"Seed": "/Game/Meshes/Farming/Plots/Seeded_Mound.Seeded_Mound",
+				"Sprout": "/Game/Meshes/Crops/Sprout.Sprout",
+				"Leaf": "/Game/Meshes/Crops/Sprout.Sprout",
+				"Flower": "/Game/Meshes/Crops/Sprout.Sprout",
+				"Fruit": "/Game/Meshes/Herbs/Thyme_Bush.Thyme_Bush",
+				"Wilting": "/Game/Meshes/Crops/Dead_Plant.Dead_Plant",
+				"Dead": "/Game/Meshes/Crops/Dead_Plant.Dead_Plant"
+			},
+			"CropPickHeight": 0,
+			"Seasons":
+			[ 0, 1, 2 ],
+			"TownVolumes":
+			[
+				"Wahoo_Beach",
+				"Pumpkinvale",
+				"Spoony_Island"
+			],
+			"IsTree": false,
+			"BaseHitsRequired": 0,
+			"FruitMaterialIndex": 0
+		},
+		{
+			"RowName": "Wasabi",
+			"HoursBetweenStages": 24,
+			"CropsPerHarvest": 4,
+			"CanRegrow": false,
+			"StaminaToHarvest": 1,
+			"Meshes": 
+			{
+				"Seed": "/Game/Meshes/Farming/Plots/Seeded_Mound.Seeded_Mound",
+				"Sprout": "/Game/Meshes/Crops/Sprout.Sprout",
+				"Leaf": "/Game/Meshes/Crops/Sprout.Sprout",
+				"Flower": "/Game/Meshes/Crops/Sprout.Sprout",
+				"Fruit": "/Game/Meshes/Herbs/Basil_Bush.Basil_Bush",
+				"Wilting": "/Game/Meshes/Crops/Dead_Plant.Dead_Plant",
+				"Dead": "/Game/Meshes/Crops/Dead_Plant.Dead_Plant"
+			},
+			"CropPickHeight": 0,
+			"Seasons":
+			[ 0, 1, 2 ],
+			"TownVolumes":
+			[
+				"Pumpkinvale"
+			],
+			"IsTree": false,
+			"BaseHitsRequired": 0,
+			"FruitMaterialIndex": 0
+		},
+		{
+			"RowName": "Vanilla",
+			"HoursBetweenStages": 24,
+			"CropsPerHarvest": 4,
+			"CanRegrow": false,
+			"StaminaToHarvest": 1,
+			"Meshes": 
+			{
+				"Seed": "/Game/Meshes/Farming/Plots/Seeded_Mound.Seeded_Mound",
+				"Sprout": "/Game/Meshes/Crops/Sprout.Sprout",
+				"Leaf": "/Game/Meshes/Crops/Sprout.Sprout",
+				"Flower": "/Game/Meshes/Crops/Sprout.Sprout",
+				"Fruit": "/Game/Meshes/Herbs/Basil_Bush.Basil_Bush",
+				"Wilting": "/Game/Meshes/Crops/Dead_Plant.Dead_Plant",
+				"Dead": "/Game/Meshes/Crops/Dead_Plant.Dead_Plant"
+			},
+			"CropPickHeight": 0,
+			"Seasons":
+			[ 0, 1, 2 ],
+			"TownVolumes":
+			[
+				"Wahoo_Beach",
+				"Spoony_Island"
+			],
+			"IsTree": false,
+			"BaseHitsRequired": 0,
+			"FruitMaterialIndex": 0
+		},
+		{
+			"RowName": "Ginger",
+			"HoursBetweenStages": 24,
+			"CropsPerHarvest": 4,
+			"CanRegrow": false,
+			"StaminaToHarvest": 1,
+			"Meshes": 
+			{
+				"Seed": "/Game/Meshes/Farming/Plots/Seeded_Mound.Seeded_Mound",
+				"Sprout": "/Game/Meshes/Crops/Sprout_2.Sprout_2",
+				"Leaf": "/Game/Meshes/Crops/Sprout_2.Sprout_2",
+				"Flower": "/Game/Meshes/Crops/Sprout_2.Sprout_2",
+				"Fruit": "/Game/Meshes/Herbs/Sage_Bush.Sage_Bush",
+				"Wilting": "/Game/Meshes/Crops/Dead_Plant.Dead_Plant",
+				"Dead": "/Game/Meshes/Crops/Dead_Plant.Dead_Plant"
+			},
+			"CropPickHeight": 0,
+			"Seasons":
+			[ 0, 1, 2 ],
+			"TownVolumes":
+			[
+				"Wahoo_Beach",
+				"Pumpkinvale",
+				"Spoony_Island"
+			],
+			"IsTree": false,
+			"BaseHitsRequired": 0,
+			"FruitMaterialIndex": 0
+		},
+		{
+			"RowName": "Garlic",
+			"HoursBetweenStages": 24,
+			"CropsPerHarvest": 4,
+			"CanRegrow": false,
+			"StaminaToHarvest": 1,
+			"Meshes": 
+			{
+				"Seed": "/Game/Meshes/Farming/Plots/Seeded_Mound.Seeded_Mound",
+				"Sprout": "/Game/Meshes/Crops/Sprout_2.Sprout_2",
+				"Leaf": "/Game/Meshes/Crops/Sprout_2.Sprout_2",
+				"Flower": "/Game/Meshes/Crops/Sprout_2.Sprout_2",
+				"Fruit": "/Game/Meshes/Herbs/Sage_Bush.Sage_Bush",
+				"Wilting": "/Game/Meshes/Crops/Dead_Plant.Dead_Plant",
+				"Dead": "/Game/Meshes/Crops/Dead_Plant.Dead_Plant"
+			},
+			"CropPickHeight": 0,
+			"Seasons":
+			[ 0, 1, 2 ],
+			"TownVolumes":
+			[
+				"Wahoo_Beach",
+				"Pumpkinvale",
+				"Spoony_Island"
+			],
+			"IsTree": false,
+			"BaseHitsRequired": 0,
+			"FruitMaterialIndex": 0
+		},
+		{
+			"RowName": "Mushroom",
+			"HoursBetweenStages": 34,
+			"CropsPerHarvest": 3,
+			"CanRegrow": true,
+			"StaminaToHarvest": 1,
+			"Meshes": 
+			{
+				"Seed": "/Game/Meshes/Crops/Mushrooms_Sprout.Mushrooms_Sprout",
+				"Sprout": "/Game/Meshes/Crops/Mushrooms_Sprout.Mushrooms_Sprout",
+				"Leaf": "/Game/Meshes/Crops/Mushrooms_Medium.Mushrooms_Medium",
+				"Flower": "/Game/Meshes/Crops/Mushrooms_Medium.Mushrooms_Medium",
+				"Fruit": "/Game/Meshes/Crops/Mushrooms_Fruit.Mushrooms_Fruit",
+				"Wilting": "/Game/Meshes/Crops/Mushrooms_Sprout.Mushrooms_Sprout",
+				"Dead": "/Game/Meshes/Ores/Not_Using/Log_Brown.Log_Brown"
+			},
+			"CropPickHeight": 0,
+			"Seasons":
+			[ 0, 1, 2 ],
+			"TownVolumes":
+			[
+				"Pumpkinvale",
+				"Wahoo_Beach",
+				"Spoony_Island",
+				"Diamond_Falls"
+			],
+			"IsTree": false,
+			"BaseHitsRequired": 0,
+			"FruitMaterialIndex": 0
+		},
+		{
+			"RowName": "Aloe",
+			"HoursBetweenStages": 30,
+			"CropsPerHarvest": 4,
+			"CanRegrow": false,
+			"StaminaToHarvest": 1,
+			"Meshes": 
+			{
+				"Seed": "/Game/Meshes/Farming/Plots/Seeded_Mound.Seeded_Mound",
+				"Sprout": "/Game/Meshes/Crops/Sprout.Sprout",
+				"Leaf": "/Game/Meshes/Crops/Sprout.Sprout",
+				"Flower": "/Game/Meshes/Crops/Sprout.Sprout",
+				"Fruit": "/Game/Meshes/Flowers/Flower_Bushes/Aloe_Bush.Aloe_Bush",
+				"Wilting": "/Game/Meshes/Flowers/Flower_Bushes/Aloe_Wilting.Aloe_Wilting",
+				"Dead": "/Game/Meshes/Crops/Dead_Plant.Dead_Plant"
+			},
+			"CropPickHeight": 0,
+			"Seasons":
+			[ 0, 1, 2 ],
+			"TownVolumes":
+			[
+				"Wahoo_Beach",
+				"Spoony_Island"
+			],
+			"IsTree": false,
+			"BaseHitsRequired": 0,
+			"FruitMaterialIndex": 0
+		},
+		{
+			"RowName": "Glowing_Mushrooms",
+			"HoursBetweenStages": 60,
+			"CropsPerHarvest": 2,
+			"CanRegrow": false,
+			"StaminaToHarvest": 2,
+			"Meshes": 
+			{
+				"Seed": "/Game/Meshes/Farming/Plots/Seeded_Mound.Seeded_Mound",
+				"Sprout": "/Game/Meshes/OutdoorAssets/Mushroom_Cluster_No_Glow.Mushroom_Cluster_No_Glow",
+				"Leaf": "/Game/Meshes/OutdoorAssets/Mushroom_Cluster_No_Glow.Mushroom_Cluster_No_Glow",
+				"Flower": "/Game/Meshes/OutdoorAssets/Mushroom_Cluster_No_Glow.Mushroom_Cluster_No_Glow",
+				"Fruit": "/Game/Meshes/OutdoorAssets/Mushroom_Cluster_Glowing.Mushroom_Cluster_Glowing",
+				"Wilting": "/Game/Meshes/OutdoorAssets/Mushroom_Cluster_Glowing.Mushroom_Cluster_Glowing",
+				"Dead": "/Game/Meshes/OutdoorAssets/Mushroom_Cluster_Wilting.Mushroom_Cluster_Wilting"
+			},
+			"CropPickHeight": 0,
+			"Seasons":
+			[ 0, 1, 2 ],
+			"TownVolumes":
+			[
+				"Wahoo_Beach",
+				"Pumpkinvale",
+				"Spoony_Island",
+				"Diamond_Falls"
+			],
+			"IsTree": false,
+			"BaseHitsRequired": 0,
+			"FruitMaterialIndex": 0
+		},
+		{
+			"RowName": "Juniper_Berries",
+			"HoursBetweenStages": 48,
+			"CropsPerHarvest": 10,
+			"CanRegrow": true,
+			"StaminaToHarvest": 2,
+			"Meshes": 
+			{
+				"Seed": "/Game/Meshes/Farming/Plots/Seeded_Mound.Seeded_Mound",
+				"Sprout": "/Game/Meshes/Crops/Sprout.Sprout",
+				"Leaf": "/Game/Meshes/Crops/Blueberries_Medium.Blueberries_Medium",
+				"Flower": "/Game/Meshes/Crops/Blueberries_Flower.Blueberries_Flower",
+				"Fruit": "/Game/Meshes/Crops/Blueberry_Fruit.Blueberry_Fruit",
+				"Wilting": "/Game/Meshes/Crops/Berry_Bush_Wilt.Berry_Bush_Wilt",
+				"Dead": "/Game/Meshes/Crops/Dead_Plant.Dead_Plant"
+			},
+			"CropPickHeight": 0,
+			"Seasons":
+			[ 0 ],
+			"TownVolumes":
+			[
+				"Diamond_Falls"
+			],
+			"IsTree": false,
+			"BaseHitsRequired": 0,
+			"FruitMaterialIndex": 0
+		},
+		{
+			"RowName": "Pride_Flower",
+			"HoursBetweenStages": 48,
+			"CropsPerHarvest": 5,
+			"CanRegrow": false,
+			"StaminaToHarvest": 1,
+			"Meshes": 
+			{
+				"Seed": "/Game/Meshes/Farming/Plots/Seeded_Mound.Seeded_Mound",
+				"Sprout": "/Game/Meshes/Crops/Sprout.Sprout",
+				"Leaf": "/Game/Meshes/Flowers/Flower_Bushes/Petunia_Bush_2.Petunia_Bush_2",
+				"Flower": "/Game/Meshes/Flowers/Flower_Bushes/Petunia_Bush_2.Petunia_Bush_2",
+				"Fruit": "/Game/Meshes/Flowers/Flower_Bushes/Pride_Bush.Pride_Bush",
+				"Wilting": "/Game/Meshes/Flowers/Flower_Bushes/Petunia_Bush_Wilting.Petunia_Bush_Wilting",
+				"Dead": "/Game/Meshes/Crops/Dead_Plant.Dead_Plant"
+			},
+			"CropPickHeight": 0,
+			"Seasons":
+			[ 0, 1, 2, 3 ],
+			"TownVolumes":
+			[
+				"Pumpkinvale",
+				"Wahoo_Beach",
+				"Spoony_Island",
+				"Diamond_Falls"
+			],
+			"IsTree": false,
+			"BaseHitsRequired": 0,
+			"FruitMaterialIndex": 0
+		},
+		{
+			"RowName": "Mushroom_Red",
+			"HoursBetweenStages": 34,
+			"CropsPerHarvest": 3,
+			"CanRegrow": true,
+			"StaminaToHarvest": 1,
+			"Meshes": 
+			{
+				"Seed": "/Game/Meshes/Crops/Mushrooms_Sprout_Red.Mushrooms_Sprout_Red",
+				"Sprout": "/Game/Meshes/Crops/Mushrooms_Sprout_Red.Mushrooms_Sprout_Red",
+				"Leaf": "/Game/Meshes/Crops/Mushrooms_Medium_Red.Mushrooms_Medium_Red",
+				"Flower": "/Game/Meshes/Crops/Mushrooms_Medium_Red.Mushrooms_Medium_Red",
+				"Fruit": "/Game/Meshes/Crops/Mushrooms_Fruit_Red.Mushrooms_Fruit_Red",
+				"Wilting": "/Game/Meshes/Crops/Mushrooms_Sprout_Red.Mushrooms_Sprout_Red",
+				"Dead": "/Game/Meshes/Ores/Not_Using/Log_Brown.Log_Brown"
+			},
+			"CropPickHeight": 0,
+			"Seasons":
+			[ 0, 1, 2 ],
+			"TownVolumes":
+			[
+				"Pumpkinvale",
+				"Wahoo_Beach",
+				"Spoony_Island",
+				"Diamond_Falls"
+			],
+			"IsTree": false,
+			"BaseHitsRequired": 0,
+			"FruitMaterialIndex": 0
+		},
+		{
+			"RowName": "Apple_Special",
+			"HoursBetweenStages": 130,
+			"CropsPerHarvest": 30,
+			"CanRegrow": true,
+			"StaminaToHarvest": 5,
+			"Meshes": 
+			{
+				"Seed": "/Game/Foliage/Trees/Tree_Sapling.Tree_Sapling",
+				"Sprout": "/Game/Foliage/Trees/Apple_Tree_Small.Apple_Tree_Small",
+				"Leaf": "/Game/Foliage/Trees/Apple_Tree.Apple_Tree",
+				"Flower": "/Game/Foliage/Trees/Apple_Tree_Flowers.Apple_Tree_Flowers",
+				"Fruit": "/Game/Foliage/Trees/Apple_Tree_Apples_Special.Apple_Tree_Apples_Special",
+				"Wilting": "/Game/Foliage/Trees/Tree_Wilting.Tree_Wilting",
+				"Dead": "/Game/Foliage/Trees/Tree_Dead.Tree_Dead"
+			},
+			"CropPickHeight": 0,
+			"Seasons":
+			[ 1, 2 ],
+			"TownVolumes":
+			[
+				"Wahoo_Beach",
+				"Pumpkinvale",
+				"Spoony_Island",
+				"Diamond_Fall"
+			],
+			"IsTree": true,
+			"BaseHitsRequired": 100,
+			"FruitMaterialIndex": 3
+		},
+		{
+			"RowName": "Lemon_Special",
+			"HoursBetweenStages": 130,
+			"CropsPerHarvest": 30,
+			"CanRegrow": true,
+			"StaminaToHarvest": 5,
+			"Meshes": 
+			{
+				"Seed": "/Game/Foliage/Trees/Tree_Sapling.Tree_Sapling",
+				"Sprout": "/Game/Foliage/Trees/Lemon_Tree_Small.Lemon_Tree_Small",
+				"Leaf": "/Game/Foliage/Trees/Lemon_Tree.Lemon_Tree",
+				"Flower": "/Game/Foliage/Trees/Lemon_Tree_Flowers.Lemon_Tree_Flowers",
+				"Fruit": "/Game/Foliage/Trees/Lemon_Tree_Lemons_Special.Lemon_Tree_Lemons_Special",
+				"Wilting": "/Game/Foliage/Trees/Tree_Wilting.Tree_Wilting",
+				"Dead": "/Game/Foliage/Trees/Tree_Dead.Tree_Dead"
+			},
+			"CropPickHeight": 0,
+			"Seasons":
+			[ 0, 1 ],
+			"TownVolumes":
+			[
+				"Wahoo_Beach",
+				"Pumpkinvale",
+				"Spoony_Island",
+				"Diamond_Fall"
+			],
+			"IsTree": true,
+			"BaseHitsRequired": 150,
+			"FruitMaterialIndex": 3
+		},
+		{
+			"RowName": "Grapes_Special",
+			"HoursBetweenStages": 56,
+			"CropsPerHarvest": 10,
+			"CanRegrow": true,
+			"StaminaToHarvest": 2,
+			"Meshes": 
+			{
+				"Seed": "/Game/Meshes/Farming/Plots/Seeded_Mound.Seeded_Mound",
+				"Sprout": "/Game/Meshes/Crops/Sprout.Sprout",
+				"Leaf": "/Game/Meshes/Crops/Grapes_Medium.Grapes_Medium",
+				"Flower": "/Game/Meshes/Crops/Grapes_Flower.Grapes_Flower",
+				"Fruit": "/Game/Meshes/Crops/Grapes_Fruits_Special.Grapes_Fruits_Special",
+				"Wilting": "/Game/Meshes/Crops/Grapes_Medium_Wilting.Grapes_Medium_Wilting",
+				"Dead": "/Game/Meshes/Crops/Dead_Plant.Dead_Plant"
+			},
+			"CropPickHeight": 0,
+			"Seasons":
+			[ 0 ],
+			"TownVolumes":
+			[
+				"Wahoo_Beach",
+				"Pumpkinvale",
+				"Spoony_Island",
+				"Diamond_Fall"
+			],
+			"IsTree": false,
+			"BaseHitsRequired": 0,
+			"FruitMaterialIndex": 0
+		},
+		{
+			"RowName": "Peach_Special",
+			"HoursBetweenStages": 130,
+			"CropsPerHarvest": 30,
+			"CanRegrow": true,
+			"StaminaToHarvest": 5,
+			"Meshes": 
+			{
+				"Seed": "/Game/Foliage/Trees/Tree_Sapling.Tree_Sapling",
+				"Sprout": "/Game/Foliage/Trees/Peach_Tree_Small.Peach_Tree_Small",
+				"Leaf": "/Game/Foliage/Trees/Peach_Tree.Peach_Tree",
+				"Flower": "/Game/Foliage/Trees/Peach_Flowers.Peach_Flowers",
+				"Fruit": "/Game/Foliage/Trees/Peach_Tree_Peaches_Special.Peach_Tree_Peaches_Special",
+				"Wilting": "/Game/Foliage/Trees/Tree_Wilting.Tree_Wilting",
+				"Dead": "/Game/Foliage/Trees/Tree_Dead.Tree_Dead"
+			},
+			"CropPickHeight": 0,
+			"Seasons":
+			[ 1, 0 ],
+			"TownVolumes":
+			[
+				"Wahoo_Beach",
+				"Pumpkinvale",
+				"Spoony_Island",
+				"Diamond_Fall"
+			],
+			"IsTree": true,
+			"BaseHitsRequired": 150,
+			"FruitMaterialIndex": 3
+		},
+		{
+			"RowName": "Strawberries_Special",
+			"HoursBetweenStages": 38,
+			"CropsPerHarvest": 5,
+			"CanRegrow": true,
+			"StaminaToHarvest": 1,
+			"Meshes": 
+			{
+				"Seed": "/Game/Meshes/Farming/Plots/Seeded_Mound.Seeded_Mound",
+				"Sprout": "/Game/Meshes/Crops/Sprout.Sprout",
+				"Leaf": "/Game/Meshes/Crops/Strawberry_Medium.Strawberry_Medium",
+				"Flower": "/Game/Meshes/Crops/Strawberry_Flowers.Strawberry_Flowers",
+				"Fruit": "/Game/Meshes/Crops/Strawberry_Fruit_Special.Strawberry_Fruit_Special",
+				"Wilting": "/Game/Meshes/Crops/Strawberry_Medium_Wilting.Strawberry_Medium_Wilting",
+				"Dead": "/Game/Meshes/Crops/Dead_Plant.Dead_Plant"
+			},
+			"CropPickHeight": 0,
+			"Seasons":
+			[ 0 ],
+			"TownVolumes":
+			[
+				"Wahoo_Beach",
+				"Pumpkinvale",
+				"Spoony_Island",
+				"Diamond_Fall"
+			],
+			"IsTree": false,
+			"BaseHitsRequired": 0,
+			"FruitMaterialIndex": 0
+		},
+		{
+			"RowName": "Orange_Special",
+			"HoursBetweenStages": 130,
+			"CropsPerHarvest": 30,
+			"CanRegrow": true,
+			"StaminaToHarvest": 5,
+			"Meshes": 
+			{
+				"Seed": "/Game/Foliage/Trees/Tree_Sapling.Tree_Sapling",
+				"Sprout": "/Game/Foliage/Trees/Orange_Tree_Small.Orange_Tree_Small",
+				"Leaf": "/Game/Foliage/Trees/Orange_Tree.Orange_Tree",
+				"Flower": "/Game/Foliage/Trees/Mandarin_Flower.Mandarin_Flower",
+				"Fruit": "/Game/Foliage/Trees/Orange_Tree_Oranges.Orange_Tree_Oranges",
+				"Wilting": "/Game/Foliage/Trees/Tree_Wilting.Tree_Wilting",
+				"Dead": "/Game/Foliage/Trees/Tree_Dead.Tree_Dead"
+			},
+			"CropPickHeight": 0,
+			"Seasons":
+			[ 0, 1 ],
+			"TownVolumes":
+			[
+				"Wahoo_Beach",
+				"Pumpkinvale",
+				"Spoony_Island",
+				"Diamond_Fall"
+			],
+			"IsTree": true,
+			"BaseHitsRequired": 150,
+			"FruitMaterialIndex": 3
+		}
+	]
+}

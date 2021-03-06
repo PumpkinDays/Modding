@@ -1,0 +1,389 @@
+{
+	"Rows": 
+	[
+		{
+			"RowName": "NorthernForest",
+			"PlayPriority": 0,
+			"Spring": 
+			{
+				"MorningTheme": "None",
+				"DaytimeTheme": "NorthernForestSpringDay",
+				"NightTheme": "NorthernForestSpringNight",
+				"FestivalDaytimeTheme": "None"
+			},
+			"Summer": 
+			{
+				"MorningTheme": "None",
+				"DaytimeTheme": "None",
+				"NightTheme": "None",
+				"FestivalDaytimeTheme": "None"
+			},
+			"Fall": 
+			{
+				"MorningTheme": "None",
+				"DaytimeTheme": "None",
+				"NightTheme": "None",
+				"FestivalDaytimeTheme": "None"
+			},
+			"Winter": 
+			{
+				"MorningTheme": "None",
+				"DaytimeTheme": "None",
+				"NightTheme": "None",
+				"FestivalDaytimeTheme": "None"
+			}
+		},
+		{
+			"RowName": "EasternCave",
+			"PlayPriority": 1,
+			"Spring": 
+			{
+				"MorningTheme": "EasternCaveSpringDay",
+				"DaytimeTheme": "EasternCaveSpringDay",
+				"NightTheme": "EasternCaveSpringDay",
+				"FestivalDaytimeTheme": "None"
+			},
+			"Summer": 
+			{
+				"MorningTheme": "EasternCaveSpringDay",
+				"DaytimeTheme": "EasternCaveSpringDay",
+				"NightTheme": "EasternCaveSpringDay",
+				"FestivalDaytimeTheme": "None"
+			},
+			"Fall": 
+			{
+				"MorningTheme": "EasternCaveSpringDay",
+				"DaytimeTheme": "EasternCaveSpringDay",
+				"NightTheme": "EasternCaveSpringDay",
+				"FestivalDaytimeTheme": "None"
+			},
+			"Winter": 
+			{
+				"MorningTheme": "EasternCaveSpringDay",
+				"DaytimeTheme": "EasternCaveSpringDay",
+				"NightTheme": "EasternCaveSpringDay",
+				"FestivalDaytimeTheme": "None"
+			}
+		},
+		{
+			"RowName": "Wahoo",
+			"PlayPriority": 0,
+			"Spring": 
+			{
+				"MorningTheme": "None",
+				"DaytimeTheme": "None",
+				"NightTheme": "None",
+				"FestivalDaytimeTheme": "None"
+			},
+			"Summer": 
+			{
+				"MorningTheme": "None",
+				"DaytimeTheme": "None",
+				"NightTheme": "None",
+				"FestivalDaytimeTheme": "None"
+			},
+			"Fall": 
+			{
+				"MorningTheme": "None",
+				"DaytimeTheme": "None",
+				"NightTheme": "None",
+				"FestivalDaytimeTheme": "None"
+			},
+			"Winter": 
+			{
+				"MorningTheme": "None",
+				"DaytimeTheme": "None",
+				"NightTheme": "None",
+				"FestivalDaytimeTheme": "None"
+			}
+		},
+		{
+			"RowName": "Forests",
+			"PlayPriority": 1,
+			"Spring": 
+			{
+				"MorningTheme": "Forest_DayTime",
+				"DaytimeTheme": "Forest_DayTime",
+				"NightTheme": "Night_Ambience",
+				"FestivalDaytimeTheme": "None"
+			},
+			"Summer": 
+			{
+				"MorningTheme": "Forest_DayTime",
+				"DaytimeTheme": "Forest_DayTime",
+				"NightTheme": "Forest_NightTime",
+				"FestivalDaytimeTheme": "None"
+			},
+			"Fall": 
+			{
+				"MorningTheme": "Forest_DayTime",
+				"DaytimeTheme": "Forest_DayTime",
+				"NightTheme": "Night_Ambience",
+				"FestivalDaytimeTheme": "None"
+			},
+			"Winter": 
+			{
+				"MorningTheme": "Forest_DayTime",
+				"DaytimeTheme": "Forest_DayTime",
+				"NightTheme": "Night_Ambience",
+				"FestivalDaytimeTheme": "None"
+			}
+		},
+		{
+			"RowName": "Pumpkinvale_Town",
+			"PlayPriority": 2,
+			"Spring": 
+			{
+				"MorningTheme": "Night_Ambience",
+				"DaytimeTheme": "Pumpkinvale_Daytime_Spring",
+				"NightTheme": "Pumpkinvale_Nightime_Spring",
+				"FestivalDaytimeTheme": "Pumpkin_Festival2"
+			},
+			"Summer": 
+			{
+				"MorningTheme": "Night_Ambience",
+				"DaytimeTheme": "Pumpkinvale_Daytime_Summer",
+				"NightTheme": "Pumpkinvale_Nightime_Summer",
+				"FestivalDaytimeTheme": "Pumpkin_Festival2"
+			},
+			"Fall": 
+			{
+				"MorningTheme": "Night_Ambience",
+				"DaytimeTheme": "Pumpkinvale_Daytime_Fall",
+				"NightTheme": "Pumpkinvale_Nightime_Fall",
+				"FestivalDaytimeTheme": "Pumpkin_Festival2"
+			},
+			"Winter": 
+			{
+				"MorningTheme": "Night_Ambience",
+				"DaytimeTheme": "Pumpkinvale_Daytime_Winter",
+				"NightTheme": "Pumpkinvale_Nightime_Winter",
+				"FestivalDaytimeTheme": "Pumpkin_Festival2"
+			}
+		},
+		{
+			"RowName": "Wahoo_Beach",
+			"PlayPriority": 2,
+			"Spring": 
+			{
+				"MorningTheme": "Night_Ambience",
+				"DaytimeTheme": "Wahoo_Day_Spring",
+				"NightTheme": "Wahoo_Night_Spring",
+				"FestivalDaytimeTheme": "Wahoo_Festival2"
+			},
+			"Summer": 
+			{
+				"MorningTheme": "Night_Ambience",
+				"DaytimeTheme": "Wahoo_Day_Summer",
+				"NightTheme": "Wahoo_Night_Summer",
+				"FestivalDaytimeTheme": "Wahoo_Festival2"
+			},
+			"Fall": 
+			{
+				"MorningTheme": "Night_Ambience",
+				"DaytimeTheme": "Wahoo_Day_Fall",
+				"NightTheme": "Wahoo_Night_Fall",
+				"FestivalDaytimeTheme": "Wahoo_Festival2"
+			},
+			"Winter": 
+			{
+				"MorningTheme": "Night_Ambience",
+				"DaytimeTheme": "Wahoo_Day_Winter",
+				"NightTheme": "Wahoo_Night_Winter",
+				"FestivalDaytimeTheme": "Wahoo_Festival2"
+			}
+		},
+		{
+			"RowName": "Pumpkinvale_Bar",
+			"PlayPriority": 3,
+			"Spring": 
+			{
+				"MorningTheme": "None",
+				"DaytimeTheme": "None",
+				"NightTheme": "Pumpkinvale_Bar",
+				"FestivalDaytimeTheme": "None"
+			},
+			"Summer": 
+			{
+				"MorningTheme": "None",
+				"DaytimeTheme": "None",
+				"NightTheme": "Pumpkinvale_Bar",
+				"FestivalDaytimeTheme": "None"
+			},
+			"Fall": 
+			{
+				"MorningTheme": "None",
+				"DaytimeTheme": "None",
+				"NightTheme": "Pumpkinvale_Bar",
+				"FestivalDaytimeTheme": "None"
+			},
+			"Winter": 
+			{
+				"MorningTheme": "None",
+				"DaytimeTheme": "None",
+				"NightTheme": "Pumpkinvale_Bar",
+				"FestivalDaytimeTheme": "None"
+			}
+		},
+		{
+			"RowName": "Mines_Pumpkin",
+			"PlayPriority": 2,
+			"Spring": 
+			{
+				"MorningTheme": "Pumpkin_Mines",
+				"DaytimeTheme": "Pumpkin_Mines",
+				"NightTheme": "Pumpkin_Mines",
+				"FestivalDaytimeTheme": "None"
+			},
+			"Summer": 
+			{
+				"MorningTheme": "Pumpkin_Mines",
+				"DaytimeTheme": "Pumpkin_Mines",
+				"NightTheme": "Pumpkin_Mines",
+				"FestivalDaytimeTheme": "None"
+			},
+			"Fall": 
+			{
+				"MorningTheme": "Pumpkin_Mines",
+				"DaytimeTheme": "Pumpkin_Mines",
+				"NightTheme": "Pumpkin_Mines",
+				"FestivalDaytimeTheme": "None"
+			},
+			"Winter": 
+			{
+				"MorningTheme": "Pumpkin_Mines",
+				"DaytimeTheme": "Pumpkin_Mines",
+				"NightTheme": "Pumpkin_Mines",
+				"FestivalDaytimeTheme": "None"
+			}
+		},
+		{
+			"RowName": "Wahoo_Bar",
+			"PlayPriority": 3,
+			"Spring": 
+			{
+				"MorningTheme": "None",
+				"DaytimeTheme": "None",
+				"NightTheme": "Wahoo_Bar",
+				"FestivalDaytimeTheme": "None"
+			},
+			"Summer": 
+			{
+				"MorningTheme": "None",
+				"DaytimeTheme": "None",
+				"NightTheme": "Wahoo_Bar",
+				"FestivalDaytimeTheme": "None"
+			},
+			"Fall": 
+			{
+				"MorningTheme": "None",
+				"DaytimeTheme": "None",
+				"NightTheme": "Wahoo_Bar",
+				"FestivalDaytimeTheme": "None"
+			},
+			"Winter": 
+			{
+				"MorningTheme": "None",
+				"DaytimeTheme": "None",
+				"NightTheme": "Wahoo_Bar",
+				"FestivalDaytimeTheme": "None"
+			}
+		},
+		{
+			"RowName": "Spoonie_Island",
+			"PlayPriority": 2,
+			"Spring": 
+			{
+				"MorningTheme": "Spoonie_Island",
+				"DaytimeTheme": "Spoonie_Island",
+				"NightTheme": "Wahoo_Night_Spring",
+				"FestivalDaytimeTheme": "Spoonie_Island"
+			},
+			"Summer": 
+			{
+				"MorningTheme": "Spoonie_Island",
+				"DaytimeTheme": "Spoonie_Island",
+				"NightTheme": "Wahoo_Night_Spring",
+				"FestivalDaytimeTheme": "Spoonie_Island"
+			},
+			"Fall": 
+			{
+				"MorningTheme": "Spoonie_Island",
+				"DaytimeTheme": "Spoonie_Island",
+				"NightTheme": "Wahoo_Night_Spring",
+				"FestivalDaytimeTheme": "Spoonie_Island"
+			},
+			"Winter": 
+			{
+				"MorningTheme": "Spoonie_Island",
+				"DaytimeTheme": "Spoonie_Island",
+				"NightTheme": "Wahoo_Night_Spring",
+				"FestivalDaytimeTheme": "Spoonie_Island"
+			}
+		},
+		{
+			"RowName": "No_Music",
+			"PlayPriority": -1,
+			"Spring": 
+			{
+				"MorningTheme": "No_Music",
+				"DaytimeTheme": "No_Music",
+				"NightTheme": "No_Music",
+				"FestivalDaytimeTheme": "No_Music"
+			},
+			"Summer": 
+			{
+				"MorningTheme": "No_Music",
+				"DaytimeTheme": "No_Music",
+				"NightTheme": "No_Music",
+				"FestivalDaytimeTheme": "No_Music"
+			},
+			"Fall": 
+			{
+				"MorningTheme": "No_Music",
+				"DaytimeTheme": "No_Music",
+				"NightTheme": "No_Music",
+				"FestivalDaytimeTheme": "No_Music"
+			},
+			"Winter": 
+			{
+				"MorningTheme": "No_Music",
+				"DaytimeTheme": "No_Music",
+				"NightTheme": "No_Music",
+				"FestivalDaytimeTheme": "No_Music"
+			}
+		},
+		{
+			"RowName": "Diamond_Falls_Town",
+			"PlayPriority": 2,
+			"Spring": 
+			{
+				"MorningTheme": "Night_Ambience",
+				"DaytimeTheme": "Diamond_Daytime_Spring",
+				"NightTheme": "Diamond_Nighttime_Spring",
+				"FestivalDaytimeTheme": "Diamond_Festival2"
+			},
+			"Summer": 
+			{
+				"MorningTheme": "Night_Ambience",
+				"DaytimeTheme": "Diamond_Daytime_Summer",
+				"NightTheme": "Diamond_Nighttime_Summer",
+				"FestivalDaytimeTheme": "Diamond_Festival2"
+			},
+			"Fall": 
+			{
+				"MorningTheme": "Night_Ambience",
+				"DaytimeTheme": "Diamond_Daytime_Fall",
+				"NightTheme": "Diamond_NightTime_Fall",
+				"FestivalDaytimeTheme": "Diamond_Festival2"
+			},
+			"Winter": 
+			{
+				"MorningTheme": "Night_Ambience",
+				"DaytimeTheme": "Diamond_DayTime_Winter",
+				"NightTheme": "Diamond_NightTime_Winter",
+				"FestivalDaytimeTheme": "Diamond_Festival2"
+			}
+		}
+	]
+}

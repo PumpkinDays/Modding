@@ -1,0 +1,5 @@
+Festival_Cooking_Npc_Settings Structure:
+
+NumRecipesEasy: integer
+NumRecipesMedium: integer
+NumRecipesHard: integer

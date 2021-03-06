@@ -1,0 +1,135 @@
+{
+	"Rows": 
+	[
+		{
+			"RowName": "PumpkinVale_River_Lot",
+			"Property": "PumpkinVale_River_Lot",
+			"Name": "Pumpkinvale River Lot",
+			"Town": "PumpkinVale",
+			"Cost": 20000,
+			"CompassLocation": 
+			{
+				"X": 62869.26171875,
+				"Y": 62263.37890625,
+				"Z": -13193.5166015625
+			}
+		},
+		{
+			"RowName": "PumpkinVale_Field_Lot",
+			"Property": "PumpkinVale_Field_Lot",
+			"Name": "Pumpkinvale Field lot",
+			"Town": "PumpkinVale",
+			"Cost": 20000,
+			"CompassLocation": 
+			{
+				"X": 67530,
+				"Y": 82440,
+				"Z": -12240
+			}
+		},
+		{
+			"RowName": "PumpkinVale_Town_Lot",
+			"Property": "PumpkinVale_Town_Lot",
+			"Name": "Pumpkinvale Town Lot",
+			"Town": "PumpkinVale",
+			"Cost": 20000,
+			"CompassLocation": 
+			{
+				"X": 49633.84375,
+				"Y": 60324.015625,
+				"Z": -12030
+			}
+		},
+		{
+			"RowName": "Wahoo_Shore_Lot",
+			"Property": "Wahoo_Shore_Lot",
+			"Name": "Wahoo Beach Beach Lot",
+			"Town": "Wahoo_Beach",
+			"Cost": 20000,
+			"CompassLocation": 
+			{
+				"X": -70325,
+				"Y": 72721,
+				"Z": 167
+			}
+		},
+		{
+			"RowName": "Wahoo_Town_Lot",
+			"Property": "Wahoo_Town_Lot",
+			"Name": "Wahoo Beach Hill Lot",
+			"Town": "Wahoo_Beach",
+			"Cost": 20000,
+			"CompassLocation": 
+			{
+				"X": -17817.107421875,
+				"Y": 186791.78125,
+				"Z": -13985.0244140625
+			}
+		},
+		{
+			"RowName": "Wahoo_Field_Lot",
+			"Property": "Wahoo_Field_Lot",
+			"Name": "Wahoo Beach Jungle Lot",
+			"Town": "Wahoo_Beach",
+			"Cost": 20000,
+			"CompassLocation": 
+			{
+				"X": -12318.9921875,
+				"Y": 169786.625,
+				"Z": -13713
+			}
+		},
+		{
+			"RowName": "Spoonie_Lot",
+			"Property": "Spoonie_Lot",
+			"Name": "Spoonie Island Lot",
+			"Town": "Spoony_Island",
+			"Cost": 10000,
+			"CompassLocation": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Diamond_Falls_Cave_Plot",
+			"Property": "Diamond_Falls_Cave_Plot",
+			"Name": "Diamond Falls Cave Plot",
+			"Town": "Diamond_Falls",
+			"Cost": 20000,
+			"CompassLocation": 
+			{
+				"X": 23561.271484375,
+				"Y": -51025.66796875,
+				"Z": 9086.451171875
+			}
+		},
+		{
+			"RowName": "Diamond_Falls_Town_Plot",
+			"Property": "Diamond_Falls_Town_Plot",
+			"Name": "Diamond Falls Town Plot",
+			"Town": "Diamond_Falls",
+			"Cost": 20000,
+			"CompassLocation": 
+			{
+				"X": 11726.26953125,
+				"Y": -72829.5703125,
+				"Z": 12443.8779296875
+			}
+		},
+		{
+			"RowName": "Diamond_Falls_Wilderness",
+			"Property": "Diamond_Falls_Wilderness",
+			"Name": "Diamond Falls Lake Plot",
+			"Town": "Diamond_Falls",
+			"Cost": 20000,
+			"CompassLocation": 
+			{
+				"X": 46598.57421875,
+				"Y": -63161.73828125,
+				"Z": 12535.27734375
+			}
+		}
+	]
+}

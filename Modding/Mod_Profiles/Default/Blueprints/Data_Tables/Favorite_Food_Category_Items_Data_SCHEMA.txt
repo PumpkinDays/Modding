@@ -1,0 +1,3 @@
+Favorite_Food_Category_Items_Data Structure:
+
+NameArray: TArray-FName

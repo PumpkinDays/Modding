@@ -1,0 +1,3 @@
+Npc_Disable_Interaction_Animations Structure:
+
+IntProperty: integer

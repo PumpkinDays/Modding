@@ -1,0 +1,275 @@
+{
+	"Rows": 
+	[
+		{
+			"RowName": "Hoe",
+			"Animation": "AnimSequence'/Game/Character/Animations/Hoeing.Hoeing'",
+			"UnableAnimation": "None"
+		},
+		{
+			"RowName": "Watering_Can",
+			"Animation": "AnimSequence'/Game/Character/Animations/Watering.Watering'",
+			"UnableAnimation": "AnimSequence'/Game/Character/Animations/Empty_Watering_Can_Anim.Empty_Watering_Can_Anim'"
+		},
+		{
+			"RowName": "Seeds",
+			"Animation": "AnimSequence'/Game/Character/Animations/Seeding.Seeding'",
+			"UnableAnimation": "AnimSequence'/Game/Character/Animations/Disagree.Disagree'"
+		},
+		{
+			"RowName": "Hammer",
+			"Animation": "AnimSequence'/Game/Character/Animations/Hammer.Hammer'",
+			"UnableAnimation": "None"
+		},
+		{
+			"RowName": "Sickle",
+			"Animation": "None",
+			"UnableAnimation": "None"
+		},
+		{
+			"RowName": "Bucket",
+			"Animation": "None",
+			"UnableAnimation": "None"
+		},
+		{
+			"RowName": "Shears",
+			"Animation": "AnimSequence'/Game/Character/Animations/Shearing.Shearing'",
+			"UnableAnimation": "AnimSequence'/Game/Character/Animations/Disagree.Disagree'"
+		},
+		{
+			"RowName": "Axe",
+			"Animation": "AnimSequence'/Game/Character/Animations/Axe.Axe'",
+			"UnableAnimation": "None"
+		},
+		{
+			"RowName": "Fishing_Rod",
+			"Animation": "AnimSequence'/Game/Character/Animations/FishingToIdle.FishingToIdle'",
+			"UnableAnimation": "AnimSequence'/Game/Character/Animations/Disagree.Disagree'"
+		},
+		{
+			"RowName": "Bug_Net",
+			"Animation": "AnimSequence'/Game/Character/Animations/Swinging_Net.Swinging_Net'",
+			"UnableAnimation": "AnimSequence'/Game/Character/Animations/Disagree.Disagree'"
+		},
+		{
+			"RowName": "Pickaxe",
+			"Animation": "AnimSequence'/Game/Character/Animations/Hammer.Hammer'",
+			"UnableAnimation": "AnimSequence'/Game/Character/Animations/Disagree.Disagree'"
+		},
+		{
+			"RowName": "Shovel",
+			"Animation": "AnimSequence'/Game/Character/Animations/Shovel.Shovel'",
+			"UnableAnimation": "AnimSequence'/Game/Character/Animations/Disagree.Disagree'"
+		},
+		{
+			"RowName": "Brush",
+			"Animation": "AnimSequence'/Game/Character/Animations/Brushing_Short.Brushing_Short'",
+			"UnableAnimation": "AnimSequence'/Game/Character/Animations/Disagree.Disagree'"
+		},
+		{
+			"RowName": "Watering_Can_Wooden",
+			"Animation": "AnimSequence'/Game/Character/Animations/Watering.Watering'",
+			"UnableAnimation": "AnimSequence'/Game/Character/Animations/Empty_Watering_Can_Anim.Empty_Watering_Can_Anim'"
+		},
+		{
+			"RowName": "Watering_Can_Iron",
+			"Animation": "AnimSequence'/Game/Character/Animations/Watering.Watering'",
+			"UnableAnimation": "AnimSequence'/Game/Character/Animations/Empty_Watering_Can_Anim.Empty_Watering_Can_Anim'"
+		},
+		{
+			"RowName": "Watering_Can_Copper",
+			"Animation": "AnimSequence'/Game/Character/Animations/Watering.Watering'",
+			"UnableAnimation": "AnimSequence'/Game/Character/Animations/Empty_Watering_Can_Anim.Empty_Watering_Can_Anim'"
+		},
+		{
+			"RowName": "Watering_Can_Silver",
+			"Animation": "AnimSequence'/Game/Character/Animations/Watering.Watering'",
+			"UnableAnimation": "AnimSequence'/Game/Character/Animations/Empty_Watering_Can_Anim.Empty_Watering_Can_Anim'"
+		},
+		{
+			"RowName": "Watering_Can_Gold",
+			"Animation": "AnimSequence'/Game/Character/Animations/Watering.Watering'",
+			"UnableAnimation": "AnimSequence'/Game/Character/Animations/Empty_Watering_Can_Anim.Empty_Watering_Can_Anim'"
+		},
+		{
+			"RowName": "Watering_Can_Steel",
+			"Animation": "AnimSequence'/Game/Character/Animations/Watering.Watering'",
+			"UnableAnimation": "AnimSequence'/Game/Character/Animations/Empty_Watering_Can_Anim.Empty_Watering_Can_Anim'"
+		},
+		{
+			"RowName": "Watering_Can_Titanium",
+			"Animation": "AnimSequence'/Game/Character/Animations/Watering.Watering'",
+			"UnableAnimation": "AnimSequence'/Game/Character/Animations/Empty_Watering_Can_Anim.Empty_Watering_Can_Anim'"
+		},
+		{
+			"RowName": "Watering_Can_Diamond",
+			"Animation": "AnimSequence'/Game/Character/Animations/Watering.Watering'",
+			"UnableAnimation": "AnimSequence'/Game/Character/Animations/Empty_Watering_Can_Anim.Empty_Watering_Can_Anim'"
+		},
+		{
+			"RowName": "Watering_Can_Uranium",
+			"Animation": "AnimSequence'/Game/Character/Animations/Watering.Watering'",
+			"UnableAnimation": "AnimSequence'/Game/Character/Animations/Empty_Watering_Can_Anim.Empty_Watering_Can_Anim'"
+		},
+		{
+			"RowName": "Watering_Can_Meteor",
+			"Animation": "AnimSequence'/Game/Character/Animations/Watering.Watering'",
+			"UnableAnimation": "AnimSequence'/Game/Character/Animations/Empty_Watering_Can_Anim.Empty_Watering_Can_Anim'"
+		},
+		{
+			"RowName": "Hoe_Copper",
+			"Animation": "AnimSequence'/Game/Character/Animations/Hoeing.Hoeing'",
+			"UnableAnimation": "AnimSequence'/Game/Character/Animations/Disagree.Disagree'"
+		},
+		{
+			"RowName": "Hoe_Diamond",
+			"Animation": "AnimSequence'/Game/Character/Animations/Hoeing.Hoeing'",
+			"UnableAnimation": "AnimSequence'/Game/Character/Animations/Disagree.Disagree'"
+		},
+		{
+			"RowName": "Hoe_Gold",
+			"Animation": "AnimSequence'/Game/Character/Animations/Hoeing.Hoeing'",
+			"UnableAnimation": "AnimSequence'/Game/Character/Animations/Disagree.Disagree'"
+		},
+		{
+			"RowName": "Hoe_Iron",
+			"Animation": "AnimSequence'/Game/Character/Animations/Hoeing.Hoeing'",
+			"UnableAnimation": "AnimSequence'/Game/Character/Animations/Disagree.Disagree'"
+		},
+		{
+			"RowName": "Hoe_Meteor",
+			"Animation": "AnimSequence'/Game/Character/Animations/Hoeing.Hoeing'",
+			"UnableAnimation": "AnimSequence'/Game/Character/Animations/Disagree.Disagree'"
+		},
+		{
+			"RowName": "Hoe_Silver",
+			"Animation": "AnimSequence'/Game/Character/Animations/Hoeing.Hoeing'",
+			"UnableAnimation": "AnimSequence'/Game/Character/Animations/Disagree.Disagree'"
+		},
+		{
+			"RowName": "Hoe_Steel",
+			"Animation": "AnimSequence'/Game/Character/Animations/Hoeing.Hoeing'",
+			"UnableAnimation": "AnimSequence'/Game/Character/Animations/Disagree.Disagree'"
+		},
+		{
+			"RowName": "Hoe_Titanium",
+			"Animation": "AnimSequence'/Game/Character/Animations/Hoeing.Hoeing'",
+			"UnableAnimation": "AnimSequence'/Game/Character/Animations/Disagree.Disagree'"
+		},
+		{
+			"RowName": "Hoe_Uranium",
+			"Animation": "AnimSequence'/Game/Character/Animations/Hoeing.Hoeing'",
+			"UnableAnimation": "AnimSequence'/Game/Character/Animations/Disagree.Disagree'"
+		},
+		{
+			"RowName": "Fishing_Rod_Wooden",
+			"Animation": "AnimSequence'/Game/Character/Animations/FishingToIdle.FishingToIdle'",
+			"UnableAnimation": "AnimSequence'/Game/Character/Animations/Disagree.Disagree'"
+		},
+		{
+			"RowName": "Fishing_Rod_Meteor",
+			"Animation": "AnimSequence'/Game/Character/Animations/FishingToIdle.FishingToIdle'",
+			"UnableAnimation": "AnimSequence'/Game/Character/Animations/Disagree.Disagree'"
+		},
+		{
+			"RowName": "Fishing_Rod_Copper",
+			"Animation": "AnimSequence'/Game/Character/Animations/FishingToIdle.FishingToIdle'",
+			"UnableAnimation": "AnimSequence'/Game/Character/Animations/Disagree.Disagree'"
+		},
+		{
+			"RowName": "Fishing_Rod_Diamond",
+			"Animation": "AnimSequence'/Game/Character/Animations/FishingToIdle.FishingToIdle'",
+			"UnableAnimation": "AnimSequence'/Game/Character/Animations/Disagree.Disagree'"
+		},
+		{
+			"RowName": "Fishing_Rod_Gold",
+			"Animation": "AnimSequence'/Game/Character/Animations/FishingToIdle.FishingToIdle'",
+			"UnableAnimation": "AnimSequence'/Game/Character/Animations/Disagree.Disagree'"
+		},
+		{
+			"RowName": "Fishing_Rod_Iron",
+			"Animation": "AnimSequence'/Game/Character/Animations/FishingToIdle.FishingToIdle'",
+			"UnableAnimation": "AnimSequence'/Game/Character/Animations/Disagree.Disagree'"
+		},
+		{
+			"RowName": "Fishing_Rod_Silver",
+			"Animation": "AnimSequence'/Game/Character/Animations/FishingToIdle.FishingToIdle'",
+			"UnableAnimation": "AnimSequence'/Game/Character/Animations/Disagree.Disagree'"
+		},
+		{
+			"RowName": "Fishing_Rod_Steel",
+			"Animation": "AnimSequence'/Game/Character/Animations/FishingToIdle.FishingToIdle'",
+			"UnableAnimation": "AnimSequence'/Game/Character/Animations/Disagree.Disagree'"
+		},
+		{
+			"RowName": "Fishing_Rod_Titanium",
+			"Animation": "AnimSequence'/Game/Character/Animations/FishingToIdle.FishingToIdle'",
+			"UnableAnimation": "AnimSequence'/Game/Character/Animations/Disagree.Disagree'"
+		},
+		{
+			"RowName": "Fishing_Rod_Uranium",
+			"Animation": "AnimSequence'/Game/Character/Animations/FishingToIdle.FishingToIdle'",
+			"UnableAnimation": "AnimSequence'/Game/Character/Animations/Disagree.Disagree'"
+		},
+		{
+			"RowName": "Fruit_Picker",
+			"Animation": "AnimSequence'/Game/Character/Animations/Gathering_Fruits.Gathering_Fruits'",
+			"UnableAnimation": "AnimSequence'/Game/Character/Animations/Disagree.Disagree'"
+		},
+		{
+			"RowName": "Fertilizer",
+			"Animation": "AnimSequence'/Game/Character/Animations/Seeding.Seeding'",
+			"UnableAnimation": "AnimSequence'/Game/Character/Animations/Disagree.Disagree'"
+		},
+		{
+			"RowName": "Brush_Copper",
+			"Animation": "AnimSequence'/Game/Character/Animations/Brushing_Short.Brushing_Short'",
+			"UnableAnimation": "None"
+		},
+		{
+			"RowName": "Brush_Diamond",
+			"Animation": "AnimSequence'/Game/Character/Animations/Brushing_Short.Brushing_Short'",
+			"UnableAnimation": "None"
+		},
+		{
+			"RowName": "Brush_Gold",
+			"Animation": "AnimSequence'/Game/Character/Animations/Brushing_Short.Brushing_Short'",
+			"UnableAnimation": "None"
+		},
+		{
+			"RowName": "Brush_Iron",
+			"Animation": "AnimSequence'/Game/Character/Animations/Brushing_Short.Brushing_Short'",
+			"UnableAnimation": "None"
+		},
+		{
+			"RowName": "Brush_Meteor",
+			"Animation": "AnimSequence'/Game/Character/Animations/Brushing_Short.Brushing_Short'",
+			"UnableAnimation": "None"
+		},
+		{
+			"RowName": "Brush_Silver",
+			"Animation": "AnimSequence'/Game/Character/Animations/Brushing_Short.Brushing_Short'",
+			"UnableAnimation": "None"
+		},
+		{
+			"RowName": "Brush_Steel",
+			"Animation": "AnimSequence'/Game/Character/Animations/Brushing_Short.Brushing_Short'",
+			"UnableAnimation": "None"
+		},
+		{
+			"RowName": "Brush_Titanium",
+			"Animation": "AnimSequence'/Game/Character/Animations/Brushing_Short.Brushing_Short'",
+			"UnableAnimation": "None"
+		},
+		{
+			"RowName": "Brush_Uranium",
+			"Animation": "AnimSequence'/Game/Character/Animations/Brushing_Short.Brushing_Short'",
+			"UnableAnimation": "None"
+		},
+		{
+			"RowName": "Brush_Wooden",
+			"Animation": "AnimSequence'/Game/Character/Animations/Brushing_Short.Brushing_Short'",
+			"UnableAnimation": "None"
+		}
+	]
+}

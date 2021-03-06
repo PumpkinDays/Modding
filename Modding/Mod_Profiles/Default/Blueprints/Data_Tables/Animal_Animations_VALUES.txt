@@ -1,0 +1,210 @@
+{
+	"Rows": 
+	[
+		{
+			"RowName": "Cow_C",
+			"IdleAnimations":
+			[
+				"AnimSequence'/Game/Animals/Cow_Idle_2.Cow_Idle_2'",
+				"AnimSequence'/Game/Animals/Cow_Idle_Anim.Cow_Idle_Anim'",
+				"AnimSequence'/Game/Animals/Cow_Relax_Anim.Cow_Relax_Anim'"
+			],
+			"GrazingAnimation": "AnimSequence'/Game/Animals/Cow_Grazing.Cow_Grazing'",
+			"WalkingAnimation": "AnimSequence'/Game/Animals/Cow_Walk.Cow_Walk'",
+			"PetAnimation": "AnimSequence'/Game/Animals/Cow_Pet.Cow_Pet'",
+			"PetAnimationPlayer": "AnimSequence'/Game/Character/Animations/Petting_Tall_Animal.Petting_Tall_Animal'",
+			"SleepingAnimation": "AnimSequence'/Game/Animals/Cow_Sleep_Anim.Cow_Sleep_Anim'"
+		},
+		{
+			"RowName": "Bull_C",
+			"IdleAnimations":
+			[
+				"AnimSequence'/Game/Animals/Bull_Idle_Anim.Bull_Idle_Anim'",
+				"AnimSequence'/Game/Animals/Bull_Idle_2.Bull_Idle_2'",
+				"AnimSequence'/Game/Animals/Bull_Relax_Anim.Bull_Relax_Anim'"
+			],
+			"GrazingAnimation": "AnimSequence'/Game/Animals/Bull_Grazing.Bull_Grazing'",
+			"WalkingAnimation": "AnimSequence'/Game/Animals/Bull_Walk.Bull_Walk'",
+			"PetAnimation": "AnimSequence'/Game/Animals/Bull_Pet_Anim.Bull_Pet_Anim'",
+			"PetAnimationPlayer": "AnimSequence'/Game/Character/Animations/Petting_Tall_Animal.Petting_Tall_Animal'",
+			"SleepingAnimation": "AnimSequence'/Game/Animals/Bull_Sleep.Bull_Sleep'"
+		},
+		{
+			"RowName": "Sheep_C",
+			"IdleAnimations":
+			[
+				"AnimSequence'/Game/Animals/Sheep_Idle_Anim.Sheep_Idle_Anim'",
+				"AnimSequence'/Game/Animals/Sheep_Idle_Anim.Sheep_Idle_Anim'",
+				"AnimSequence'/Game/Animals/Sheep_Relax.Sheep_Relax'"
+			],
+			"GrazingAnimation": "AnimSequence'/Game/Animals/Sheep_Grazing.Sheep_Grazing'",
+			"WalkingAnimation": "AnimSequence'/Game/Animals/Sheep_Walk.Sheep_Walk'",
+			"PetAnimation": "AnimSequence'/Game/Animals/Sheep_Pet.Sheep_Pet'",
+			"PetAnimationPlayer": "AnimSequence'/Game/Character/Animations/Petting_Small_Animal.Petting_Small_Animal'",
+			"SleepingAnimation": "AnimSequence'/Game/Animals/Sheep_Sleep.Sheep_Sleep'"
+		},
+		{
+			"RowName": "Hen_C",
+			"IdleAnimations":
+			[
+				"AnimSequence'/Game/Animals/Hen_Idle_2.Hen_Idle_2'",
+				"AnimSequence'/Game/Animals/Hen_Idle_Anim.Hen_Idle_Anim'"
+			],
+			"GrazingAnimation": "AnimSequence'/Game/Animals/HenGrazing.HenGrazing'",
+			"WalkingAnimation": "AnimSequence'/Game/Animals/Hen_Walk.Hen_Walk'",
+			"PetAnimation": "None",
+			"PetAnimationPlayer": "None",
+			"SleepingAnimation": "AnimSequence'/Game/Animals/Hen_Sleeping_Anim.Hen_Sleeping_Anim'"
+		},
+		{
+			"RowName": "Horse_C",
+			"IdleAnimations":
+			[
+				"AnimSequence'/Game/Animals/Horse_Idle_2.Horse_Idle_2'",
+				"AnimSequence'/Game/Animals/Horse_Idle_Anim.Horse_Idle_Anim'"
+			],
+			"GrazingAnimation": "AnimSequence'/Game/Animals/Horse_Grazing.Horse_Grazing'",
+			"WalkingAnimation": "AnimSequence'/Game/Animals/Horse_Walk.Horse_Walk'",
+			"PetAnimation": "AnimSequence'/Game/Animals/Horse_Pet.Horse_Pet'",
+			"PetAnimationPlayer": "AnimSequence'/Game/Character/Animations/Petting_Tall_Animal.Petting_Tall_Animal'",
+			"SleepingAnimation": "AnimSequence'/Game/Animals/Horse_Sleep.Horse_Sleep'"
+		},
+		{
+			"RowName": "Pig_C",
+			"IdleAnimations":
+			[
+				"AnimSequence'/Game/Animals/Pig_Idle_2.Pig_Idle_2'",
+				"AnimSequence'/Game/Animals/Pig_Idle_Anim.Pig_Idle_Anim'"
+			],
+			"GrazingAnimation": "AnimSequence'/Game/Animals/Pig_Grazing.Pig_Grazing'",
+			"WalkingAnimation": "AnimSequence'/Game/Animals/Pig_Walk.Pig_Walk'",
+			"PetAnimation": "AnimSequence'/Game/Animals/Pig_Pet.Pig_Pet'",
+			"PetAnimationPlayer": "AnimSequence'/Game/Character/Animations/Petting_Small_Animal.Petting_Small_Animal'",
+			"SleepingAnimation": "AnimSequence'/Game/Animals/Pig_Sleep.Pig_Sleep'"
+		},
+		{
+			"RowName": "Baby_Bull_C",
+			"IdleAnimations":
+			[
+				"AnimSequence'/Game/Animals/Baby_Animals/Baby_Cow_Idle_Mesh23_Anim.Baby_Cow_Idle_Mesh23_Anim'"
+			],
+			"GrazingAnimation": "AnimSequence'/Game/Animals/Baby_Animals/Baby_Cow_Grazing.Baby_Cow_Grazing'",
+			"WalkingAnimation": "AnimSequence'/Game/Animals/Baby_Animals/Baby_Cow_Walk.Baby_Cow_Walk'",
+			"PetAnimation": "AnimSequence'/Game/Animals/Baby_Animals/Baby_Cow_Petting.Baby_Cow_Petting'",
+			"PetAnimationPlayer": "AnimSequence'/Game/Character/Animations/Petting_Small_Animal.Petting_Small_Animal'",
+			"SleepingAnimation": "AnimSequence'/Game/Animals/Baby_Animals/Baby_Cow_Sleeping.Baby_Cow_Sleeping'"
+		},
+		{
+			"RowName": "Baby_Cow_C",
+			"IdleAnimations":
+			[
+				"AnimSequence'/Game/Animals/Baby_Animals/Baby_Cow_Idle_Mesh23_Anim.Baby_Cow_Idle_Mesh23_Anim'"
+			],
+			"GrazingAnimation": "AnimSequence'/Game/Animals/Baby_Animals/Baby_Cow_Grazing.Baby_Cow_Grazing'",
+			"WalkingAnimation": "AnimSequence'/Game/Animals/Baby_Animals/Baby_Cow_Walk.Baby_Cow_Walk'",
+			"PetAnimation": "AnimSequence'/Game/Animals/Baby_Animals/Baby_Cow_Petting.Baby_Cow_Petting'",
+			"PetAnimationPlayer": "AnimSequence'/Game/Character/Animations/Petting_Small_Animal.Petting_Small_Animal'",
+			"SleepingAnimation": "AnimSequence'/Game/Animals/Baby_Animals/Baby_Cow_Sleeping.Baby_Cow_Sleeping'"
+		},
+		{
+			"RowName": "Baby_Hen_C",
+			"IdleAnimations":
+			[
+				"AnimSequence'/Game/Animals/Baby_Animals/Baby_Chicken_Idle_Mesh_Anim.Baby_Chicken_Idle_Mesh_Anim'"
+			],
+			"GrazingAnimation": "AnimSequence'/Game/Animals/Baby_Animals/Baby_Chicken_Grazing.Baby_Chicken_Grazing'",
+			"WalkingAnimation": "AnimSequence'/Game/Animals/Baby_Animals/Baby_Chicken_Walk.Baby_Chicken_Walk'",
+			"PetAnimation": "None",
+			"PetAnimationPlayer": "None",
+			"SleepingAnimation": "AnimSequence'/Game/Animals/Baby_Animals/Baby_Chicken_Sleeping.Baby_Chicken_Sleeping'"
+		},
+		{
+			"RowName": "Baby_Horse_C",
+			"IdleAnimations":
+			[
+				"AnimSequence'/Game/Animals/Baby_Animals/Baby_Horse_Idle_Horse_Anim.Baby_Horse_Idle_Horse_Anim'"
+			],
+			"GrazingAnimation": "AnimSequence'/Game/Animals/Baby_Animals/Baby_Horse_Grazing.Baby_Horse_Grazing'",
+			"WalkingAnimation": "AnimSequence'/Game/Animals/Baby_Animals/Baby_Horse_Walk.Baby_Horse_Walk'",
+			"PetAnimation": "AnimSequence'/Game/Animals/Baby_Animals/Baby_Horse_Petting.Baby_Horse_Petting'",
+			"PetAnimationPlayer": "AnimSequence'/Game/Character/Animations/Petting_Small_Animal.Petting_Small_Animal'",
+			"SleepingAnimation": "AnimSequence'/Game/Animals/Baby_Animals/Baby_Horse_Sleeping.Baby_Horse_Sleeping'"
+		},
+		{
+			"RowName": "Baby_Pig_C",
+			"IdleAnimations":
+			[
+				"AnimSequence'/Game/Animals/Baby_Animals/Baby_Pig_Idle_polySurface20_Anim.Baby_Pig_Idle_polySurface20_Anim'"
+			],
+			"GrazingAnimation": "AnimSequence'/Game/Animals/Baby_Animals/Baby_Pig_Grazing.Baby_Pig_Grazing'",
+			"WalkingAnimation": "AnimSequence'/Game/Animals/Baby_Animals/Baby_Pig_Walk.Baby_Pig_Walk'",
+			"PetAnimation": "AnimSequence'/Game/Animals/Baby_Animals/Baby_Pig_Petting.Baby_Pig_Petting'",
+			"PetAnimationPlayer": "AnimSequence'/Game/Character/Animations/Petting_Small_Animal.Petting_Small_Animal'",
+			"SleepingAnimation": "AnimSequence'/Game/Animals/Baby_Animals/Baby_Pig_Sleeping.Baby_Pig_Sleeping'"
+		},
+		{
+			"RowName": "Baby_Sheep_C",
+			"IdleAnimations":
+			[
+				"AnimSequence'/Game/Animals/Baby_Animals/Baby_Sheep_Idle_Sheep_Anim.Baby_Sheep_Idle_Sheep_Anim'"
+			],
+			"GrazingAnimation": "AnimSequence'/Game/Animals/Baby_Animals/Baby_Sheep_Grazing.Baby_Sheep_Grazing'",
+			"WalkingAnimation": "AnimSequence'/Game/Animals/Baby_Animals/Baby_Sheep_Walk.Baby_Sheep_Walk'",
+			"PetAnimation": "AnimSequence'/Game/Animals/Baby_Animals/Baby_Sheep_Petting.Baby_Sheep_Petting'",
+			"PetAnimationPlayer": "AnimSequence'/Game/Character/Animations/Petting_Small_Animal.Petting_Small_Animal'",
+			"SleepingAnimation": "AnimSequence'/Game/Animals/Baby_Animals/Baby_Sheep_Sleep.Baby_Sheep_Sleep'"
+		},
+		{
+			"RowName": "Rooster_C",
+			"IdleAnimations":
+			[
+				"AnimSequence'/Game/Animals/Rooster_Idle_Anim.Rooster_Idle_Anim'"
+			],
+			"GrazingAnimation": "AnimSequence'/Game/Animals/Rooster_Grazing.Rooster_Grazing'",
+			"WalkingAnimation": "AnimSequence'/Game/Animals/Rooster_Walk.Rooster_Walk'",
+			"PetAnimation": "None",
+			"PetAnimationPlayer": "None",
+			"SleepingAnimation": "AnimSequence'/Game/Animals/Rooster_Sleep.Rooster_Sleep'"
+		},
+		{
+			"RowName": "Goat_C",
+			"IdleAnimations":
+			[
+				"AnimSequence'/Game/Animals/Goat_idle_Anim.Goat_idle_Anim'"
+			],
+			"GrazingAnimation": "AnimSequence'/Game/Animals/Goat_grazing_Anim.Goat_grazing_Anim'",
+			"WalkingAnimation": "AnimSequence'/Game/Animals/Goat_walk_Anim.Goat_walk_Anim'",
+			"PetAnimation": "AnimSequence'/Game/Animals/Goat_pet_Anim.Goat_pet_Anim'",
+			"PetAnimationPlayer": "AnimSequence'/Game/Character/Animations/Petting_Small_Animal.Petting_Small_Animal'",
+			"SleepingAnimation": "AnimSequence'/Game/Animals/Goat_sleep_Anim.Goat_sleep_Anim'"
+		},
+		{
+			"RowName": "Dog_C",
+			"IdleAnimations":
+			[
+				"AnimSequence'/Game/Animals/Pets/Dog_Idle_Anim.Dog_Idle_Anim'",
+				"AnimSequence'/Game/Animals/Pets/Dog_Play.Dog_Play'",
+				"AnimSequence'/Game/Animals/Pets/Dog_Sleep.Dog_Sleep'"
+			],
+			"GrazingAnimation": "AnimSequence'/Game/Animals/Pets/Dog_Idle_Anim.Dog_Idle_Anim'",
+			"WalkingAnimation": "AnimSequence'/Game/Animals/Pets/Dog_Walk.Dog_Walk'",
+			"PetAnimation": "AnimSequence'/Game/Animals/Pets/Dog_Petting.Dog_Petting'",
+			"PetAnimationPlayer": "AnimSequence'/Game/Character/Animations/Petting_Small_Animal.Petting_Small_Animal'",
+			"SleepingAnimation": "AnimSequence'/Game/Animals/Pets/Dog_Sleep.Dog_Sleep'"
+		},
+		{
+			"RowName": "Cat_C",
+			"IdleAnimations":
+			[
+				"AnimSequence'/Game/Animals/Pets/Cat_Idle_Anim.Cat_Idle_Anim'",
+				"AnimSequence'/Game/Animals/Pets/Cat_Idle_Sit.Cat_Idle_Sit'",
+				"AnimSequence'/Game/Animals/Pets/Cat_Sleep.Cat_Sleep'"
+			],
+			"GrazingAnimation": "AnimSequence'/Game/Animals/Pets/Cat_Idle_Anim.Cat_Idle_Anim'",
+			"WalkingAnimation": "AnimSequence'/Game/Animals/Pets/Cat_Walk.Cat_Walk'",
+			"PetAnimation": "AnimSequence'/Game/Animals/Pets/Cat_Pet.Cat_Pet'",
+			"PetAnimationPlayer": "AnimSequence'/Game/Character/Animations/Petting_Small_Animal.Petting_Small_Animal'",
+			"SleepingAnimation": "AnimSequence'/Game/Animals/Pets/Cat_Sleep.Cat_Sleep'"
+		}
+	]
+}

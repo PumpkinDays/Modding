@@ -1,0 +1,45 @@
+{
+	"Rows": 
+	[
+		{
+			"RowName": "Wooden",
+			"MaxWater": 10
+		},
+		{
+			"RowName": "Copper",
+			"MaxWater": 15
+		},
+		{
+			"RowName": "Iron",
+			"MaxWater": 20
+		},
+		{
+			"RowName": "Silver",
+			"MaxWater": 30
+		},
+		{
+			"RowName": "Gold",
+			"MaxWater": 40
+		},
+		{
+			"RowName": "Steel",
+			"MaxWater": 50
+		},
+		{
+			"RowName": "Titanium",
+			"MaxWater": 60
+		},
+		{
+			"RowName": "Uranium",
+			"MaxWater": 70
+		},
+		{
+			"RowName": "Diamond",
+			"MaxWater": 80
+		},
+		{
+			"RowName": "Meteor",
+			"MaxWater": 100
+		}
+	]
+}

@@ -1,0 +1,185 @@
+{
+	"Rows": 
+	[
+		{
+			"RowName": "Crab",
+			"SwimType": 1,
+			"SwayHalfAngle": 10
+		},
+		{
+			"RowName": "Dungeoness_Crab",
+			"SwimType": 1,
+			"SwayHalfAngle": 10
+		},
+		{
+			"RowName": "Horse_Hair_Crab",
+			"SwimType": 1,
+			"SwayHalfAngle": 10
+		},
+		{
+			"RowName": "Jellyfish",
+			"SwimType": 2,
+			"SwayHalfAngle": 10
+		},
+		{
+			"RowName": "Seahorse",
+			"SwimType": 2,
+			"SwayHalfAngle": 10
+		},
+		{
+			"RowName": "Octopus",
+			"SwimType": 1,
+			"SwayHalfAngle": 10
+		},
+		{
+			"RowName": "Oyster",
+			"SwimType": 1,
+			"SwayHalfAngle": 10
+		},
+		{
+			"RowName": "Sea_Cucumber",
+			"SwimType": 1,
+			"SwayHalfAngle": 10
+		},
+		{
+			"RowName": "Scallops",
+			"SwimType": 1,
+			"SwayHalfAngle": 10
+		},
+		{
+			"RowName": "Sea_Urchin",
+			"SwimType": 1,
+			"SwayHalfAngle": 10
+		},
+		{
+			"RowName": "Clam",
+			"SwimType": 1,
+			"SwayHalfAngle": 10
+		},
+		{
+			"RowName": "Giant_Trevally",
+			"SwimType": 2,
+			"SwayHalfAngle": 10
+		},
+		{
+			"RowName": "Squid",
+			"SwimType": 2,
+			"SwayHalfAngle": 10
+		},
+		{
+			"RowName": "Spiny_Lobster",
+			"SwimType": 1,
+			"SwayHalfAngle": 10
+		},
+		{
+			"RowName": "Rock_Lobster",
+			"SwimType": 1,
+			"SwayHalfAngle": 10
+		},
+		{
+			"RowName": "Black_Sea_Nettle",
+			"SwimType": 2,
+			"SwayHalfAngle": 10
+		},
+		{
+			"RowName": "Spider_Crab",
+			"SwimType": 1,
+			"SwayHalfAngle": 10
+		},
+		{
+			"RowName": "Zebra_Mussel",
+			"SwimType": 1,
+			"SwayHalfAngle": 10
+		},
+		{
+			"RowName": "Mitten_Crab",
+			"SwimType": 1,
+			"SwayHalfAngle": 10
+		},
+		{
+			"RowName": "Abalone",
+			"SwimType": 1,
+			"SwayHalfAngle": 10
+		},
+		{
+			"RowName": "Chambered_Nautilus",
+			"SwimType": 1,
+			"SwayHalfAngle": 10
+		},
+		{
+			"RowName": "Snow_Crab",
+			"SwimType": 1,
+			"SwayHalfAngle": 10
+		},
+		{
+			"RowName": "Conch_Shell",
+			"SwimType": 1,
+			"SwayHalfAngle": 10
+		},
+		{
+			"RowName": "Star_fish",
+			"SwimType": 1,
+			"SwayHalfAngle": 10
+		},
+		{
+			"RowName": "Horse_Shoe_Crab",
+			"SwimType": 1,
+			"SwayHalfAngle": 10
+		},
+		{
+			"RowName": "Giant_Isopod",
+			"SwimType": 1,
+			"SwayHalfAngle": 10
+		},
+		{
+			"RowName": "Turban_Shell",
+			"SwimType": 0,
+			"SwayHalfAngle": 10
+		},
+		{
+			"RowName": "Red_King_Crab",
+			"SwimType": 1,
+			"SwayHalfAngle": 10
+		},
+		{
+			"RowName": "Oar_Fish",
+			"SwimType": 3,
+			"SwayHalfAngle": 10
+		},
+		{
+			"RowName": "Shark",
+			"SwimType": 0,
+			"SwayHalfAngle": 10
+		},
+		{
+			"RowName": "Pride_Fish",
+			"SwimType": 3,
+			"SwayHalfAngle": 10
+		},
+		{
+			"RowName": "Crawdad",
+			"SwimType": 1,
+			"SwayHalfAngle": 10
+		},
+		{
+			"RowName": "Mudcrab",
+			"SwimType": 1,
+			"SwayHalfAngle": 10
+		},
+		{
+			"RowName": "Ghost_Crab",
+			"SwimType": 1,
+			"SwayHalfAngle": 10
+		},
+		{
+			"RowName": "Arowana",
+			"SwimType": 0,
+			"SwayHalfAngle": 10
+		},
+		{
+			"RowName": "Tiger_Fish",
+			"SwimType": 0,
+			"SwayHalfAngle": 10
+		}
+	]
+}

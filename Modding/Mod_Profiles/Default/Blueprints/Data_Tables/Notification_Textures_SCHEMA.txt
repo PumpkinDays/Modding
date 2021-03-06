@@ -1,0 +1,3 @@
+Notification_Textures Structure:
+
+TextureProperty: UTexture2D*

@@ -1,0 +1,17 @@
+{
+	"Rows": 
+	[
+		{
+			"RowName": "English",
+			"FlagImage": "/Game/Textures/Main_Menu/American_Flag.American_Flag",
+			"Language": 1,
+			"Description": "English\\n100% Complete. English is the original language of Pumpkin Days."
+		},
+		{
+			"RowName": "German",
+			"FlagImage": "/Game/Textures/Main_Menu/German_Flag.German_Flag",
+			"Language": 2,
+			"Description": "German 50%. Partially translated in German by fans of the game. Non-translated parts are in English and we will continue to work on more. A special thanks to our top 5 translators: Dobby, Porcelain1985, Alienteddy, Charlie, Nael. "
+		}
+	]
+}

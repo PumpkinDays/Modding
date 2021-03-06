@@ -1,0 +1,19 @@
+Character_Customization_Recipe_Categories_Data Structure:
+
+RowName: string
+RecipeCategory: ONE of
+	Alcohol
+	Beef
+	Chicken
+	Cookies
+	Fish
+	Icecream
+	Juice
+	Pizza
+	Pie
+	Salads
+	Sandwiches
+	Sushi
+	Vegetarian
+	Pasta
+Thumbnail: UTexture2D*

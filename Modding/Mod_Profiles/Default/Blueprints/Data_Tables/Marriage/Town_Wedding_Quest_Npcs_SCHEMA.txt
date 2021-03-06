@@ -1,0 +1,3 @@
+Town_Wedding_Quest_Npcs Structure:
+
+Npcs: TArray-FNpcAndQuestTypeField

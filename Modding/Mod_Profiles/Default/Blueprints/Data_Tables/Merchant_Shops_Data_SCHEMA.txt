@@ -1,0 +1,9 @@
+Merchant_Shops_Data Structure:
+
+FriendlyName: string
+ShopMesh: UStaticMesh*
+Class: TSubclassOf<AActor> 
+TimeRanges: TArray-FPumpkinSingleDayTimeRange
+DateRanges: TArray-FPumpkinTimeRange
+SpawnWaypoint: string
+ShowsInCalendar: true/false

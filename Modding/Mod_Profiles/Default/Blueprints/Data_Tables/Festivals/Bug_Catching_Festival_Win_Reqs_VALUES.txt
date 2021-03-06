@@ -1,0 +1,47 @@
+{
+	"Rows": 
+	[
+		{
+			"RowName": "P_Bug_Catching",
+			"Easy": 
+			{
+				"Value1st": 12,
+				"Value2nd": 10,
+				"Value3rd": 6
+			},
+			"Medium": 
+			{
+				"Value1st": 13,
+				"Value2nd": 12,
+				"Value3rd": 10
+			},
+			"Hard": 
+			{
+				"Value1st": 13,
+				"Value2nd": 12,
+				"Value3rd": 10
+			}
+		},
+		{
+			"RowName": "W_Bug_Catching",
+			"Easy": 
+			{
+				"Value1st": 12,
+				"Value2nd": 10,
+				"Value3rd": 6
+			},
+			"Medium": 
+			{
+				"Value1st": 18,
+				"Value2nd": 15,
+				"Value3rd": 10
+			},
+			"Hard": 
+			{
+				"Value1st": 15,
+				"Value2nd": 12,
+				"Value3rd": 10
+			}
+		}
+	]
+}

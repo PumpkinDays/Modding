@@ -1,0 +1,33 @@
+{
+	"Rows": 
+	[
+		{
+			"RowName": "RedPin",
+			"MarkerImage": "Texture2D'/Game/Textures/Maps/Marker_Pin_Red.Marker_Pin_Red'"
+		},
+		{
+			"RowName": "GreenPin",
+			"MarkerImage": "Texture2D'/Game/Textures/Maps/Marker_Pin_Green.Marker_Pin_Green'"
+		},
+		{
+			"RowName": "BluePin",
+			"MarkerImage": "Texture2D'/Game/Textures/Maps/Marker_Pin_Blue.Marker_Pin_Blue'"
+		},
+		{
+			"RowName": "X",
+			"MarkerImage": "Texture2D'/Game/Textures/Maps/Marker_X.Marker_X'"
+		},
+		{
+			"RowName": "Leaf",
+			"MarkerImage": "Texture2D'/Game/Textures/Maps/Marker_Leaf.Marker_Leaf'"
+		},
+		{
+			"RowName": "Star",
+			"MarkerImage": "Texture2D'/Game/Textures/Maps/Marker_Star.Marker_Star'"
+		},
+		{
+			"RowName": "Heart",
+			"MarkerImage": "Texture2D'/Game/Textures/Maps/Marker_Heart.Marker_Heart'"
+		}
+	]
+}

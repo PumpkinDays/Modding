@@ -1,0 +1,45 @@
+{
+	"Rows": 
+	[
+		{
+			"RowName": "1",
+			"Material": "/Game/Materials/Character_Body_Parts/Children/Child_Skin_1.Child_Skin_1"
+		},
+		{
+			"RowName": "2",
+			"Material": "/Game/Materials/Character_Body_Parts/Children/Child_Skin_2.Child_Skin_2"
+		},
+		{
+			"RowName": "3",
+			"Material": "/Game/Materials/Character_Body_Parts/Children/Child_Skin_3.Child_Skin_3"
+		},
+		{
+			"RowName": "4",
+			"Material": "/Game/Materials/Character_Body_Parts/Children/Child_Skin_4.Child_Skin_4"
+		},
+		{
+			"RowName": "5",
+			"Material": "/Game/Materials/Character_Body_Parts/Children/Child_Skin_5.Child_Skin_5"
+		},
+		{
+			"RowName": "6",
+			"Material": "/Game/Materials/Character_Body_Parts/Children/Child_Skin_6.Child_Skin_6"
+		},
+		{
+			"RowName": "7",
+			"Material": "/Game/Materials/Character_Body_Parts/Children/Child_Skin_7.Child_Skin_7"
+		},
+		{
+			"RowName": "8",
+			"Material": "/Game/Materials/Character_Body_Parts/Children/Child_Skin_8.Child_Skin_8"
+		},
+		{
+			"RowName": "9",
+			"Material": "/Game/Materials/Character_Body_Parts/Children/Child_Skin_9.Child_Skin_9"
+		},
+		{
+			"RowName": "10",
+			"Material": "/Game/Materials/Character_Body_Parts/Children/Child_Skin_10.Child_Skin_10"
+		}
+	]
+}

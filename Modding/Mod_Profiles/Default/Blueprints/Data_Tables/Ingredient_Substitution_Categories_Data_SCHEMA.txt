@@ -1,0 +1,3 @@
+Ingredient_Substitution_Categories_Data Structure:
+
+NameArray: TArray-FName

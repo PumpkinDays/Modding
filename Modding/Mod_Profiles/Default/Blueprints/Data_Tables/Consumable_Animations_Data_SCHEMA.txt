@@ -1,0 +1,4 @@
+Consumable_Animations_Data Structure:
+
+RowName: string
+Animation: UAnimSequenceBase*

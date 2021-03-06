@@ -1,0 +1,179 @@
+{
+	"Rows": 
+	[
+		{
+			"RowName": "Cheese_Maker",
+			"Action": "Ship",
+			"Item": "Ctg_Cheese_Maker_Unlock",
+			"Amount": 20
+		},
+		{
+			"RowName": "Fish_Prep_Station",
+			"Action": "Ship",
+			"Item": "Ctg_Fish",
+			"Amount": 50
+		},
+		{
+			"RowName": "Medium_Bland_Kitchen",
+			"Action": "Ship",
+			"Item": "Ctg_Recipe",
+			"Amount": 50
+		},
+		{
+			"RowName": "Large_Bland_Kitchen",
+			"Action": "Ship",
+			"Item": "Ctg_Recipe",
+			"Amount": 100
+		},
+		{
+			"RowName": "Beer_Barrel",
+			"Action": "Ship",
+			"Item": "Ctg_Barley",
+			"Amount": 100
+		},
+		{
+			"RowName": "Bee_Box",
+			"Action": "Ship",
+			"Item": "Ctg_Flowers",
+			"Amount": 100
+		},
+		{
+			"RowName": "Still",
+			"Action": "Ship",
+			"Item": "Ctg_Barley",
+			"Amount": 300
+		},
+		{
+			"RowName": "Milk_Processor",
+			"Action": "Ship",
+			"Item": "Ctg_Non_Dairy",
+			"Amount": 50
+		},
+		{
+			"RowName": "Dyeing_Pot",
+			"Action": "Ship",
+			"Item": "Ctg_Wool",
+			"Amount": 20
+		},
+		{
+			"RowName": "Windmill",
+			"Action": "Ship",
+			"Item": "Ctg_Grains",
+			"Amount": 100
+		},
+		{
+			"RowName": "Oil_Press",
+			"Action": "Ship",
+			"Item": "Ctg_Oil_Ingredients",
+			"Amount": 50
+		},
+		{
+			"RowName": "Gem_Polishing_Station",
+			"Action": "Ship",
+			"Item": "Ctg_Gems_Uncut",
+			"Amount": 30
+		},
+		{
+			"RowName": "Fertilizer_Barrel",
+			"Action": "Ship",
+			"Item": "Ctg_Poop",
+			"Amount": 10
+		},
+		{
+			"RowName": "Butter_Maker",
+			"Action": "Ship",
+			"Item": "Ctg_Nut",
+			"Amount": 20
+		},
+		{
+			"RowName": "Seed_Maker",
+			"Action": "Ship",
+			"Item": "Ctg_Crops",
+			"Amount": 500
+		},
+		{
+			"RowName": "Sewing_Machine",
+			"Action": "Ship",
+			"Item": "Ctg_Wool",
+			"Amount": 20
+		},
+		{
+			"RowName": "Basic_Fridge_Grey",
+			"Action": "Ship",
+			"Item": "Ctg_Recipe",
+			"Amount": 50
+		},
+		{
+			"RowName": "Fish_Tank_Lake",
+			"Action": "Ship",
+			"Item": "Ctg_Fish",
+			"Amount": 100
+		},
+		{
+			"RowName": "Fish_Tank_Ocean",
+			"Action": "Ship",
+			"Item": "Ctg_Fish",
+			"Amount": 100
+		},
+		{
+			"RowName": "Fish_Tank_River",
+			"Action": "Ship",
+			"Item": "Ctg_Fish",
+			"Amount": 100
+		},
+		{
+			"RowName": "Fish_Tank_Deep_Ocean",
+			"Action": "Ship",
+			"Item": "Ctg_Fish",
+			"Amount": 100
+		},
+		{
+			"RowName": "Jam_Processor",
+			"Action": "Ship",
+			"Item": "Ctg_Crops",
+			"Amount": 10000
+		},
+		{
+			"RowName": "Juice_Processor",
+			"Action": "Ship",
+			"Item": "Ctg_Crops",
+			"Amount": 10000
+		},
+		{
+			"RowName": "Icecream_Processor",
+			"Action": "Ship",
+			"Item": "Ctg_Crops",
+			"Amount": 10000
+		},
+		{
+			"RowName": "Bread_Processor",
+			"Action": "Ship",
+			"Item": "Ctg_Crops",
+			"Amount": 10000
+		},
+		{
+			"RowName": "Candy_Processor",
+			"Action": "Ship",
+			"Item": "Ctg_Crops",
+			"Amount": 10000
+		},
+		{
+			"RowName": "Star_Crafting_Kit",
+			"Action": "Ship",
+			"Item": "Ctg_Red_Paper",
+			"Amount": 100000
+		},
+		{
+			"RowName": "Jounce_Machine",
+			"Action": "Ship",
+			"Item": "Ctg_Jounce_Fruit",
+			"Amount": 1000000
+		},
+		{
+			"RowName": "Recycling_Machine",
+			"Action": "Ship",
+			"Item": "Ctg_Jounce_Fruit",
+			"Amount": 100000
+		}
+	]
+}

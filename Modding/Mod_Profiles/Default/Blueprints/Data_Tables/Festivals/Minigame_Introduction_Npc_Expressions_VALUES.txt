@@ -1,0 +1,9 @@
+{
+	"Rows": 
+	[
+		{
+			"RowName": "Vera",
+			"NameProperty": "$VeraGrin$"
+		}
+	]
+}

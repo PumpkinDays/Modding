@@ -1,0 +1,53 @@
+{
+	"Rows": 
+	[
+		{
+			"RowName": "Sign_Kiwi",
+			"Position": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 100
+			},
+			"Rotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			},
+			"WorldSize": 26,
+			"MaxCharacters": 0,
+			"TextColor": 
+			{
+				"R": 1,
+				"G": 0.73102998733520508,
+				"B": 0,
+				"A": 1
+			}
+		},
+		{
+			"RowName": "Sign_Small",
+			"Position": 
+			{
+				"X": -0.22373700141906738,
+				"Y": 1.3266680240631104,
+				"Z": 63.756084442138672
+			},
+			"Rotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 91.649238586425781,
+				"Roll": -0
+			},
+			"WorldSize": 30,
+			"MaxCharacters": 30,
+			"TextColor": 
+			{
+				"R": 0,
+				"G": 0,
+				"B": 0,
+				"A": 1
+			}
+		}
+	]
+}

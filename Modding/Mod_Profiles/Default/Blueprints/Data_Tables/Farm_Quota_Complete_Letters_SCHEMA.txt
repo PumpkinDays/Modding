@@ -1,0 +1,8 @@
+Farm_Quota_Complete_Letters Structure:
+
+Subject: string
+Body: string
+Sender: string
+Item: string
+ItemAmount: integer
+GoldAmount: integer

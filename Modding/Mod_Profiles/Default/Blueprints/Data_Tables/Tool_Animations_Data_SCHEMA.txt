@@ -1,0 +1,4 @@
+Tool_Animations_Data Structure:
+
+Animation: UAnimSequenceBase*
+UnableAnimation: UAnimSequenceBase*

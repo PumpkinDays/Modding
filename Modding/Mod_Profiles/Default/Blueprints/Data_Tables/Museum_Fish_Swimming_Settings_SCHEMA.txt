@@ -1,0 +1,8 @@
+Museum_Fish_Swimming_Settings Structure:
+
+SwimType: ONE of
+	Fish
+	Crab
+	Jellyfish
+	SwayOnly
+SwayHalfAngle: float

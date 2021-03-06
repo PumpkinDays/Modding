@@ -1,0 +1,5 @@
+Clothing_Personality_Replacements Structure:
+
+ClothingItems: TArray-FName
+Normal: UAnimSequenceBase*
+Large: UAnimSequenceBase*

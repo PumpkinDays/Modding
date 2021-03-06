@@ -1,0 +1,2639 @@
+{
+	"Rows": 
+	[
+		{
+			"RowName": "Hoe_Wooden",
+			"FriendlyName": "Wooden Hoe",
+			"ProducedItem": "Hoe_Wooden",
+			"Category": "Hoes",
+			"RecipeDifficulty": 0,
+			"Ingredients":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Brown_Wood_Planks",
+						"AmountNeeded": 3
+					}
+				}
+			],
+			"RecipeSteps":
+			[ 5 ],
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Tools/Hoe_Wooden.Hoe_Wooden'",
+			"IsUnknown": false
+		},
+		{
+			"RowName": "Hoe_Copper",
+			"FriendlyName": "Copper Hoe",
+			"ProducedItem": "Hoe_Copper",
+			"Category": "Hoes",
+			"RecipeDifficulty": 1,
+			"Ingredients":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Brown_Wood_Planks",
+						"AmountNeeded": 1
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Copper_Bar",
+						"AmountNeeded": 3
+					}
+				}
+			],
+			"RecipeSteps":
+			[ 5 ],
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Tools/Hoe_Copper.Hoe_Copper'",
+			"IsUnknown": false
+		},
+		{
+			"RowName": "Hoe_Iron",
+			"FriendlyName": "Iron Hoe",
+			"ProducedItem": "Hoe_Iron",
+			"Category": "Hoes",
+			"RecipeDifficulty": 1,
+			"Ingredients":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Brown_Wood_Planks",
+						"AmountNeeded": 1
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Iron_Bar",
+						"AmountNeeded": 3
+					}
+				}
+			],
+			"RecipeSteps":
+			[ 5 ],
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Tools/Hoe_Iron.Hoe_Iron'",
+			"IsUnknown": false
+		},
+		{
+			"RowName": "Hoe_Silver",
+			"FriendlyName": "Silver Hoe",
+			"ProducedItem": "Hoe_Silver",
+			"Category": "Hoes",
+			"RecipeDifficulty": 1,
+			"Ingredients":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Brown_Wood_Planks",
+						"AmountNeeded": 1
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Silver_Bar",
+						"AmountNeeded": 3
+					}
+				}
+			],
+			"RecipeSteps":
+			[ 5 ],
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Tools/Hoe_Silver.Hoe_Silver'",
+			"IsUnknown": false
+		},
+		{
+			"RowName": "Hoe_Gold",
+			"FriendlyName": "Gold Hoe",
+			"ProducedItem": "Hoe_Gold",
+			"Category": "Hoes",
+			"RecipeDifficulty": 1,
+			"Ingredients":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Brown_Wood_Planks",
+						"AmountNeeded": 1
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Gold_Bar",
+						"AmountNeeded": 3
+					}
+				}
+			],
+			"RecipeSteps":
+			[ 5 ],
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Tools/Hoe_Gold.Hoe_Gold'",
+			"IsUnknown": false
+		},
+		{
+			"RowName": "Hoe_Steel",
+			"FriendlyName": "Steel Hoe",
+			"ProducedItem": "Hoe_Steel",
+			"Category": "Hoes",
+			"RecipeDifficulty": 2,
+			"Ingredients":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Brown_Wood_Planks",
+						"AmountNeeded": 1
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Steel_Bar",
+						"AmountNeeded": 3
+					}
+				}
+			],
+			"RecipeSteps":
+			[ 5 ],
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Tools/Hoe_Steel.Hoe_Steel'",
+			"IsUnknown": false
+		},
+		{
+			"RowName": "Hoe_Titanium",
+			"FriendlyName": "Titanium Hoe",
+			"ProducedItem": "Hoe_Titanium",
+			"Category": "Hoes",
+			"RecipeDifficulty": 2,
+			"Ingredients":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Brown_Wood_Planks",
+						"AmountNeeded": 1
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Titanium_Bar",
+						"AmountNeeded": 3
+					}
+				}
+			],
+			"RecipeSteps":
+			[ 5 ],
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Tools/Hoe_Titanium.Hoe_Titanium'",
+			"IsUnknown": false
+		},
+		{
+			"RowName": "Hoe_Uranium",
+			"FriendlyName": "Uranium Hoe",
+			"ProducedItem": "Hoe_Uranium",
+			"Category": "Hoes",
+			"RecipeDifficulty": 3,
+			"Ingredients":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Brown_Wood_Planks",
+						"AmountNeeded": 1
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Uranium_Bar",
+						"AmountNeeded": 3
+					}
+				}
+			],
+			"RecipeSteps":
+			[ 5 ],
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Tools/Hoe_Uranium.Hoe_Uranium'",
+			"IsUnknown": false
+		},
+		{
+			"RowName": "Hoe_Diamond",
+			"FriendlyName": "Diamond Hoe",
+			"ProducedItem": "Hoe_Diamond",
+			"Category": "Hoes",
+			"RecipeDifficulty": 3,
+			"Ingredients":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Brown_Wood_Planks",
+						"AmountNeeded": 1
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Diamond_Polished",
+						"AmountNeeded": 3
+					}
+				}
+			],
+			"RecipeSteps":
+			[ 5 ],
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Tools/Hoe_Diamond.Hoe_Diamond'",
+			"IsUnknown": false
+		},
+		{
+			"RowName": "Hoe_Meteor",
+			"FriendlyName": "Meteor Hoe",
+			"ProducedItem": "Hoe_Meteor",
+			"Category": "Hoes",
+			"RecipeDifficulty": 3,
+			"Ingredients":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Brown_Wood_Planks",
+						"AmountNeeded": 1
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Meteorite_Polished",
+						"AmountNeeded": 3
+					}
+				}
+			],
+			"RecipeSteps":
+			[ 5 ],
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Tools/Hoe_Meteor.Hoe_Meteor'",
+			"IsUnknown": false
+		},
+		{
+			"RowName": "Watering_Can_Wooden",
+			"FriendlyName": "Wooden Watering Can",
+			"ProducedItem": "Watering_Can_Wooden",
+			"Category": "Watering Can",
+			"RecipeDifficulty": 0,
+			"Ingredients":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Brown_Wood_Planks",
+						"AmountNeeded": 3
+					}
+				}
+			],
+			"RecipeSteps":
+			[ 5 ],
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Tools/WateringCan_Wooden.WateringCan_Wooden'",
+			"IsUnknown": false
+		},
+		{
+			"RowName": "Watering_Can_Copper",
+			"FriendlyName": "Copper Watering Can",
+			"ProducedItem": "Watering_Can_Copper",
+			"Category": "Watering Can",
+			"RecipeDifficulty": 1,
+			"Ingredients":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Copper_Bar",
+						"AmountNeeded": 3
+					}
+				}
+			],
+			"RecipeSteps":
+			[ 5 ],
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Tools/WateringCan_Copper.WateringCan_Copper'",
+			"IsUnknown": false
+		},
+		{
+			"RowName": "Watering_Can_Iron",
+			"FriendlyName": "Iron Watering Can",
+			"ProducedItem": "Watering_Can_Iron",
+			"Category": "Watering Can",
+			"RecipeDifficulty": 1,
+			"Ingredients":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Iron_Bar",
+						"AmountNeeded": 3
+					}
+				}
+			],
+			"RecipeSteps":
+			[ 5 ],
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Tools/WateringCan_Iron.WateringCan_Iron'",
+			"IsUnknown": false
+		},
+		{
+			"RowName": "Watering_Can_Silver",
+			"FriendlyName": "Silver Watering Can",
+			"ProducedItem": "Watering_Can_Silver",
+			"Category": "Watering Can",
+			"RecipeDifficulty": 1,
+			"Ingredients":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Silver_Bar",
+						"AmountNeeded": 3
+					}
+				}
+			],
+			"RecipeSteps":
+			[ 5 ],
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Tools/WateringCan_Silver.WateringCan_Silver'",
+			"IsUnknown": false
+		},
+		{
+			"RowName": "Watering_Can_Gold",
+			"FriendlyName": "Gold Watering Can",
+			"ProducedItem": "Watering_Can_Gold",
+			"Category": "Watering Can",
+			"RecipeDifficulty": 1,
+			"Ingredients":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Gold_Bar",
+						"AmountNeeded": 3
+					}
+				}
+			],
+			"RecipeSteps":
+			[ 5 ],
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Tools/WateringCan_Gold.WateringCan_Gold'",
+			"IsUnknown": false
+		},
+		{
+			"RowName": "Watering_Can_Steel",
+			"FriendlyName": "Steel Watering Can",
+			"ProducedItem": "Watering_Can_Steel",
+			"Category": "Watering Can",
+			"RecipeDifficulty": 2,
+			"Ingredients":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Steel_Bar",
+						"AmountNeeded": 3
+					}
+				}
+			],
+			"RecipeSteps":
+			[ 5 ],
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Tools/WateringCan_Steel.WateringCan_Steel'",
+			"IsUnknown": false
+		},
+		{
+			"RowName": "Watering_Can_Titanium",
+			"FriendlyName": "Titanium Watering Can",
+			"ProducedItem": "Watering_Can_Titanium",
+			"Category": "Watering Can",
+			"RecipeDifficulty": 2,
+			"Ingredients":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Titanium_Bar",
+						"AmountNeeded": 3
+					}
+				}
+			],
+			"RecipeSteps":
+			[ 5 ],
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Tools/WateringCan_Titanium.WateringCan_Titanium'",
+			"IsUnknown": false
+		},
+		{
+			"RowName": "Watering_Can_Uranium",
+			"FriendlyName": "Uranium Watering Can",
+			"ProducedItem": "Watering_Can_Uranium",
+			"Category": "Watering Can",
+			"RecipeDifficulty": 3,
+			"Ingredients":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Uranium_Bar",
+						"AmountNeeded": 3
+					}
+				}
+			],
+			"RecipeSteps":
+			[ 5 ],
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Tools/WateringCan_Uranium.WateringCan_Uranium'",
+			"IsUnknown": false
+		},
+		{
+			"RowName": "Watering_Can_Diamond",
+			"FriendlyName": "Diamond Watering Can",
+			"ProducedItem": "Watering_Can_Diamond",
+			"Category": "Watering Can",
+			"RecipeDifficulty": 3,
+			"Ingredients":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Diamond_Polished",
+						"AmountNeeded": 3
+					}
+				}
+			],
+			"RecipeSteps":
+			[ 5 ],
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Tools/WateringCan_Diamond.WateringCan_Diamond'",
+			"IsUnknown": false
+		},
+		{
+			"RowName": "Watering_Can_Meteor",
+			"FriendlyName": "Meteor Watering Can",
+			"ProducedItem": "Watering_Can_Meteor",
+			"Category": "Watering Can",
+			"RecipeDifficulty": 3,
+			"Ingredients":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Meteorite_Polished",
+						"AmountNeeded": 3
+					}
+				}
+			],
+			"RecipeSteps":
+			[ 5 ],
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Tools/WateringCan_Meteor.WateringCan_Meteor'",
+			"IsUnknown": false
+		},
+		{
+			"RowName": "Fishing_Rod_Wooden",
+			"FriendlyName": "Wooden Fishing Rod",
+			"ProducedItem": "Fishing_Rod_Wooden",
+			"Category": "Fishing Rod",
+			"RecipeDifficulty": 0,
+			"Ingredients":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Brown_Wood_Planks",
+						"AmountNeeded": 3
+					}
+				}
+			],
+			"RecipeSteps":
+			[ 5 ],
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Tools/Fishing_Rod_Wooden.Fishing_Rod_Wooden'",
+			"IsUnknown": false
+		},
+		{
+			"RowName": "Fishing_Rod_Copper",
+			"FriendlyName": "Copper Fishing Rod",
+			"ProducedItem": "Fishing_Rod_Copper",
+			"Category": "Fishing Rod",
+			"RecipeDifficulty": 1,
+			"Ingredients":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Brown_Wood_Planks",
+						"AmountNeeded": 1
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Copper_Bar",
+						"AmountNeeded": 2
+					}
+				}
+			],
+			"RecipeSteps":
+			[ 5 ],
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Tools/FishingRod_Copper.FishingRod_Copper'",
+			"IsUnknown": false
+		},
+		{
+			"RowName": "Fishing_Rod_Iron",
+			"FriendlyName": "Iron Fishing Rod",
+			"ProducedItem": "Fishing_Rod_Iron",
+			"Category": "Fishing Rod",
+			"RecipeDifficulty": 1,
+			"Ingredients":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Brown_Wood_Planks",
+						"AmountNeeded": 1
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Iron_Bar",
+						"AmountNeeded": 2
+					}
+				}
+			],
+			"RecipeSteps":
+			[ 5 ],
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Tools/FishingRod_Iron.FishingRod_Iron'",
+			"IsUnknown": false
+		},
+		{
+			"RowName": "Fishing_Rod_Silver",
+			"FriendlyName": "Silver Fishing Rod",
+			"ProducedItem": "Fishing_Rod_Silver",
+			"Category": "Fishing Rod",
+			"RecipeDifficulty": 1,
+			"Ingredients":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Brown_Wood_Planks",
+						"AmountNeeded": 1
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Silver_Bar",
+						"AmountNeeded": 2
+					}
+				}
+			],
+			"RecipeSteps":
+			[ 5 ],
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Tools/FishingRod_Silver.FishingRod_Silver'",
+			"IsUnknown": false
+		},
+		{
+			"RowName": "Fishing_Rod_Gold",
+			"FriendlyName": "Gold Fishing Rod",
+			"ProducedItem": "Fishing_Rod_Gold",
+			"Category": "Fishing Rod",
+			"RecipeDifficulty": 1,
+			"Ingredients":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Brown_Wood_Planks",
+						"AmountNeeded": 1
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Gold_Bar",
+						"AmountNeeded": 2
+					}
+				}
+			],
+			"RecipeSteps":
+			[ 5 ],
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Tools/FishingRod_Gold.FishingRod_Gold'",
+			"IsUnknown": false
+		},
+		{
+			"RowName": "Fishing_Rod_Steel",
+			"FriendlyName": "Steel Fishing Rod",
+			"ProducedItem": "Fishing_Rod_Steel",
+			"Category": "Fishing Rod",
+			"RecipeDifficulty": 2,
+			"Ingredients":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Brown_Wood_Planks",
+						"AmountNeeded": 1
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Steel_Bar",
+						"AmountNeeded": 2
+					}
+				}
+			],
+			"RecipeSteps":
+			[ 5 ],
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Tools/FishingRod_Steel.FishingRod_Steel'",
+			"IsUnknown": false
+		},
+		{
+			"RowName": "Fishing_Rod_Titanium",
+			"FriendlyName": "Titanium Fishing Rod",
+			"ProducedItem": "Fishing_Rod_Titanium",
+			"Category": "Fishing Rod",
+			"RecipeDifficulty": 2,
+			"Ingredients":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Brown_Wood_Planks",
+						"AmountNeeded": 1
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Titanium_Bar",
+						"AmountNeeded": 2
+					}
+				}
+			],
+			"RecipeSteps":
+			[ 5 ],
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Tools/FishingRod_Titanium.FishingRod_Titanium'",
+			"IsUnknown": false
+		},
+		{
+			"RowName": "Fishing_Rod_Uranium",
+			"FriendlyName": "Uranium Fishing Rod",
+			"ProducedItem": "Fishing_Rod_Uranium",
+			"Category": "Fishing Rod",
+			"RecipeDifficulty": 3,
+			"Ingredients":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Brown_Wood_Planks",
+						"AmountNeeded": 1
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Uranium_Bar",
+						"AmountNeeded": 2
+					}
+				}
+			],
+			"RecipeSteps":
+			[ 5 ],
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Tools/FishingRod_Uranium.FishingRod_Uranium'",
+			"IsUnknown": false
+		},
+		{
+			"RowName": "Fishing_Rod_Diamond",
+			"FriendlyName": "Diamond Fishing Rod",
+			"ProducedItem": "Fishing_Rod_Diamond",
+			"Category": "Fishing Rod",
+			"RecipeDifficulty": 3,
+			"Ingredients":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Brown_Wood_Planks",
+						"AmountNeeded": 1
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Diamond_Polished",
+						"AmountNeeded": 2
+					}
+				}
+			],
+			"RecipeSteps":
+			[ 5 ],
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Tools/FishingRod_Diamond.FishingRod_Diamond'",
+			"IsUnknown": false
+		},
+		{
+			"RowName": "Fishing_Rod_Meteor",
+			"FriendlyName": "Meteor Fishing Rod",
+			"ProducedItem": "Fishing_Rod_Meteor",
+			"Category": "Fishing Rod",
+			"RecipeDifficulty": 3,
+			"Ingredients":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Brown_Wood_Planks",
+						"AmountNeeded": 1
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Meteorite_Polished",
+						"AmountNeeded": 2
+					}
+				}
+			],
+			"RecipeSteps":
+			[ 5 ],
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Tools/FishingRod_Meteor.FishingRod_Meteor'",
+			"IsUnknown": false
+		},
+		{
+			"RowName": "Pickaxe_Wooden",
+			"FriendlyName": "Wooden Pickaxe",
+			"ProducedItem": "Pickaxe_Wooden",
+			"Category": "Pickaxe",
+			"RecipeDifficulty": 0,
+			"Ingredients":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Brown_Wood_Planks",
+						"AmountNeeded": 4
+					}
+				}
+			],
+			"RecipeSteps":
+			[ 5 ],
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Tools/PickAxe_Wooden.PickAxe_Wooden'",
+			"IsUnknown": false
+		},
+		{
+			"RowName": "Pickaxe_Copper",
+			"FriendlyName": "Copper Pickaxe",
+			"ProducedItem": "Pickaxe_Copper",
+			"Category": "Pickaxe",
+			"RecipeDifficulty": 1,
+			"Ingredients":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Brown_Wood_Planks",
+						"AmountNeeded": 2
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Copper_Bar",
+						"AmountNeeded": 3
+					}
+				}
+			],
+			"RecipeSteps":
+			[ 5 ],
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Tools/PickAxe_Copper.PickAxe_Copper'",
+			"IsUnknown": false
+		},
+		{
+			"RowName": "Pickaxe_Iron",
+			"FriendlyName": "Iron Pickaxe",
+			"ProducedItem": "Pickaxe_Iron",
+			"Category": "Pickaxe",
+			"RecipeDifficulty": 1,
+			"Ingredients":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Brown_Wood_Planks",
+						"AmountNeeded": 2
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Iron_Bar",
+						"AmountNeeded": 3
+					}
+				}
+			],
+			"RecipeSteps":
+			[ 5 ],
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Tools/PickAxe_Iron.PickAxe_Iron'",
+			"IsUnknown": false
+		},
+		{
+			"RowName": "Pickaxe_Silver",
+			"FriendlyName": "Silver Pickaxe",
+			"ProducedItem": "Pickaxe_Silver",
+			"Category": "Pickaxe",
+			"RecipeDifficulty": 1,
+			"Ingredients":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Brown_Wood_Planks",
+						"AmountNeeded": 2
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Silver_Bar",
+						"AmountNeeded": 3
+					}
+				}
+			],
+			"RecipeSteps":
+			[ 5 ],
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Tools/PickAxe_Silver.PickAxe_Silver'",
+			"IsUnknown": false
+		},
+		{
+			"RowName": "Pickaxe_Gold",
+			"FriendlyName": "Gold Pickaxe",
+			"ProducedItem": "Pickaxe_Gold",
+			"Category": "Pickaxe",
+			"RecipeDifficulty": 2,
+			"Ingredients":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Brown_Wood_Planks",
+						"AmountNeeded": 2
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Gold_Bar",
+						"AmountNeeded": 3
+					}
+				}
+			],
+			"RecipeSteps":
+			[ 5 ],
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Tools/PickAxe_Gold.PickAxe_Gold'",
+			"IsUnknown": false
+		},
+		{
+			"RowName": "Pickaxe_Steel",
+			"FriendlyName": "Steel Pickaxe",
+			"ProducedItem": "Pickaxe_Steel",
+			"Category": "Pickaxe",
+			"RecipeDifficulty": 2,
+			"Ingredients":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Brown_Wood_Planks",
+						"AmountNeeded": 2
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Steel_Bar",
+						"AmountNeeded": 3
+					}
+				}
+			],
+			"RecipeSteps":
+			[ 5 ],
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Tools/PickAxe_Steel.PickAxe_Steel'",
+			"IsUnknown": false
+		},
+		{
+			"RowName": "Pickaxe_Titanium",
+			"FriendlyName": "Titanium Pickaxe",
+			"ProducedItem": "Pickaxe_Titanium",
+			"Category": "Pickaxe",
+			"RecipeDifficulty": 2,
+			"Ingredients":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Brown_Wood_Planks",
+						"AmountNeeded": 2
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Titanium_Bar",
+						"AmountNeeded": 3
+					}
+				}
+			],
+			"RecipeSteps":
+			[ 5 ],
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Tools/PickAxe_Titanium.PickAxe_Titanium'",
+			"IsUnknown": false
+		},
+		{
+			"RowName": "Pickaxe_Uranium",
+			"FriendlyName": "Uranium Pickaxe",
+			"ProducedItem": "Pickaxe_Uranium",
+			"Category": "Pickaxe",
+			"RecipeDifficulty": 3,
+			"Ingredients":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Brown_Wood_Planks",
+						"AmountNeeded": 2
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Uranium_Bar",
+						"AmountNeeded": 3
+					}
+				}
+			],
+			"RecipeSteps":
+			[ 5 ],
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Tools/PickAxe_Uranium.PickAxe_Uranium'",
+			"IsUnknown": false
+		},
+		{
+			"RowName": "Pickaxe_Diamond",
+			"FriendlyName": "Diamond Pickaxe",
+			"ProducedItem": "Pickaxe_Diamond",
+			"Category": "Pickaxe",
+			"RecipeDifficulty": 3,
+			"Ingredients":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Brown_Wood_Planks",
+						"AmountNeeded": 2
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Diamond_Polished",
+						"AmountNeeded": 3
+					}
+				}
+			],
+			"RecipeSteps":
+			[ 5 ],
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Tools/PickAxe_Diamond.PickAxe_Diamond'",
+			"IsUnknown": false
+		},
+		{
+			"RowName": "Pickaxe_Meteor",
+			"FriendlyName": "Meteor Pickaxe",
+			"ProducedItem": "Pickaxe_Meteor",
+			"Category": "Pickaxe",
+			"RecipeDifficulty": 3,
+			"Ingredients":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Brown_Wood_Planks",
+						"AmountNeeded": 2
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Meteorite_Polished",
+						"AmountNeeded": 3
+					}
+				}
+			],
+			"RecipeSteps":
+			[ 5 ],
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Tools/PickAxe_Meteor.PickAxe_Meteor'",
+			"IsUnknown": false
+		},
+		{
+			"RowName": "Axe_Iron_Quest",
+			"FriendlyName": "Practice Axe",
+			"ProducedItem": "Axe_Iron",
+			"Category": "Axes",
+			"RecipeDifficulty": 0,
+			"Ingredients":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Quest_Bar",
+						"AmountNeeded": 5
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Quest_Wood",
+						"AmountNeeded": 5
+					}
+				}
+			],
+			"RecipeSteps":
+			[ 5 ],
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Tools/Axe_Iron.Axe_Iron'",
+			"IsUnknown": false
+		},
+		{
+			"RowName": "Axe_Wooden",
+			"FriendlyName": "Wooden Axe",
+			"ProducedItem": "Axe_Wooden",
+			"Category": "Axes",
+			"RecipeDifficulty": 0,
+			"Ingredients":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Brown_Wood_Planks",
+						"AmountNeeded": 5
+					}
+				}
+			],
+			"RecipeSteps":
+			[ 5 ],
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Tools/Axe_Wooden.Axe_Wooden'",
+			"IsUnknown": false
+		},
+		{
+			"RowName": "Axe_Copper",
+			"FriendlyName": "Copper Axe",
+			"ProducedItem": "Axe_Copper",
+			"Category": "Axes",
+			"RecipeDifficulty": 1,
+			"Ingredients":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Brown_Wood_Planks",
+						"AmountNeeded": 2
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Copper_Bar",
+						"AmountNeeded": 4
+					}
+				}
+			],
+			"RecipeSteps":
+			[ 5 ],
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Tools/Axe_Copper.Axe_Copper'",
+			"IsUnknown": false
+		},
+		{
+			"RowName": "Axe_Iron",
+			"FriendlyName": "Iron Axe",
+			"ProducedItem": "Axe_Iron",
+			"Category": "Axes",
+			"RecipeDifficulty": 1,
+			"Ingredients":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Brown_Wood_Planks",
+						"AmountNeeded": 2
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Iron_Bar",
+						"AmountNeeded": 4
+					}
+				}
+			],
+			"RecipeSteps":
+			[ 5 ],
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Tools/Axe_Iron.Axe_Iron'",
+			"IsUnknown": false
+		},
+		{
+			"RowName": "Axe_Silver",
+			"FriendlyName": "Silver Axe",
+			"ProducedItem": "Axe_Silver",
+			"Category": "Axes",
+			"RecipeDifficulty": 1,
+			"Ingredients":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Brown_Wood_Planks",
+						"AmountNeeded": 2
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Silver_Bar",
+						"AmountNeeded": 4
+					}
+				}
+			],
+			"RecipeSteps":
+			[ 5 ],
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Tools/Axe_Silver.Axe_Silver'",
+			"IsUnknown": false
+		},
+		{
+			"RowName": "Axe_Gold",
+			"FriendlyName": "Gold Axe",
+			"ProducedItem": "Axe_Gold",
+			"Category": "Axes",
+			"RecipeDifficulty": 1,
+			"Ingredients":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Brown_Wood_Planks",
+						"AmountNeeded": 2
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Gold_Bar",
+						"AmountNeeded": 4
+					}
+				}
+			],
+			"RecipeSteps":
+			[ 5 ],
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Tools/Axe_Gold_Axe.Axe_Gold_Axe'",
+			"IsUnknown": false
+		},
+		{
+			"RowName": "Axe_Steel",
+			"FriendlyName": "Steel Axe",
+			"ProducedItem": "Axe_Steel",
+			"Category": "Axes",
+			"RecipeDifficulty": 2,
+			"Ingredients":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Brown_Wood_Planks",
+						"AmountNeeded": 2
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Steel_Bar",
+						"AmountNeeded": 4
+					}
+				}
+			],
+			"RecipeSteps":
+			[ 5 ],
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Tools/Axe_Steel.Axe_Steel'",
+			"IsUnknown": false
+		},
+		{
+			"RowName": "Axe_Titanium",
+			"FriendlyName": "Titanium Axe",
+			"ProducedItem": "Axe_Titanium",
+			"Category": "Axes",
+			"RecipeDifficulty": 2,
+			"Ingredients":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Brown_Wood_Planks",
+						"AmountNeeded": 2
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Titanium_Bar",
+						"AmountNeeded": 4
+					}
+				}
+			],
+			"RecipeSteps":
+			[ 5 ],
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Tools/Axe_Titanium.Axe_Titanium'",
+			"IsUnknown": false
+		},
+		{
+			"RowName": "Axe_Uranium",
+			"FriendlyName": "Uranium Axe",
+			"ProducedItem": "Axe_Uranium",
+			"Category": "Axes",
+			"RecipeDifficulty": 3,
+			"Ingredients":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Brown_Wood_Planks",
+						"AmountNeeded": 2
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Uranium_Bar",
+						"AmountNeeded": 4
+					}
+				}
+			],
+			"RecipeSteps":
+			[ 5 ],
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Tools/Axe_Uranium.Axe_Uranium'",
+			"IsUnknown": false
+		},
+		{
+			"RowName": "Axe_Diamond",
+			"FriendlyName": "Diamond Axe",
+			"ProducedItem": "Axe_Diamond",
+			"Category": "Axes",
+			"RecipeDifficulty": 3,
+			"Ingredients":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Brown_Wood_Planks",
+						"AmountNeeded": 2
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Diamond_Polished",
+						"AmountNeeded": 4
+					}
+				}
+			],
+			"RecipeSteps":
+			[ 5 ],
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Tools/Axe_Diamond.Axe_Diamond'",
+			"IsUnknown": false
+		},
+		{
+			"RowName": "Axe_Meteor",
+			"FriendlyName": "Meteor Axe",
+			"ProducedItem": "Axe_Meteor",
+			"Category": "Axes",
+			"RecipeDifficulty": 3,
+			"Ingredients":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Brown_Wood_Planks",
+						"AmountNeeded": 2
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Meteorite_Polished",
+						"AmountNeeded": 4
+					}
+				}
+			],
+			"RecipeSteps":
+			[ 5 ],
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Tools/Axe_Meteor.Axe_Meteor'",
+			"IsUnknown": false
+		},
+		{
+			"RowName": "Shovel_Wooden",
+			"FriendlyName": "Wooden Shovel",
+			"ProducedItem": "Shovel_Wooden",
+			"Category": "Shovels",
+			"RecipeDifficulty": 0,
+			"Ingredients":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Brown_Wood_Planks",
+						"AmountNeeded": 2
+					}
+				}
+			],
+			"RecipeSteps":
+			[ 5 ],
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Tools/Shovel_Wooden.Shovel_Wooden'",
+			"IsUnknown": false
+		},
+		{
+			"RowName": "Shovel_Copper",
+			"FriendlyName": "Copper Shovel",
+			"ProducedItem": "Shovel_Copper",
+			"Category": "Shovels",
+			"RecipeDifficulty": 1,
+			"Ingredients":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Brown_Wood_Planks",
+						"AmountNeeded": 1
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Copper_Bar",
+						"AmountNeeded": 1
+					}
+				}
+			],
+			"RecipeSteps":
+			[ 5 ],
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Tools/Shovel_Copper.Shovel_Copper'",
+			"IsUnknown": false
+		},
+		{
+			"RowName": "Shovel_Iron",
+			"FriendlyName": "Iron Shovel",
+			"ProducedItem": "Shovel_Iron",
+			"Category": "Shovels",
+			"RecipeDifficulty": 1,
+			"Ingredients":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Brown_Wood_Planks",
+						"AmountNeeded": 1
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Iron_Bar",
+						"AmountNeeded": 1
+					}
+				}
+			],
+			"RecipeSteps":
+			[ 5 ],
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Tools/Shovel_Iron.Shovel_Iron'",
+			"IsUnknown": false
+		},
+		{
+			"RowName": "Shovel_Silver",
+			"FriendlyName": "Silver Shovel",
+			"ProducedItem": "Shovel_Silver",
+			"Category": "Shovels",
+			"RecipeDifficulty": 1,
+			"Ingredients":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Brown_Wood_Planks",
+						"AmountNeeded": 1
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Silver_Bar",
+						"AmountNeeded": 1
+					}
+				}
+			],
+			"RecipeSteps":
+			[ 5 ],
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Tools/Shovel_Silver.Shovel_Silver'",
+			"IsUnknown": false
+		},
+		{
+			"RowName": "Shovel_Gold",
+			"FriendlyName": "Gold Shovel",
+			"ProducedItem": "Shovel_Gold",
+			"Category": "Shovels",
+			"RecipeDifficulty": 1,
+			"Ingredients":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Brown_Wood_Planks",
+						"AmountNeeded": 1
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Gold_Bar",
+						"AmountNeeded": 1
+					}
+				}
+			],
+			"RecipeSteps":
+			[ 5 ],
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Tools/Shovel_Gold.Shovel_Gold'",
+			"IsUnknown": false
+		},
+		{
+			"RowName": "Shovel_Steel",
+			"FriendlyName": "Steel Shovel",
+			"ProducedItem": "Shovel_Steel",
+			"Category": "Shovels",
+			"RecipeDifficulty": 2,
+			"Ingredients":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Brown_Wood_Planks",
+						"AmountNeeded": 1
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Steel_Bar",
+						"AmountNeeded": 1
+					}
+				}
+			],
+			"RecipeSteps":
+			[ 5 ],
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Tools/Shovel_Steel.Shovel_Steel'",
+			"IsUnknown": false
+		},
+		{
+			"RowName": "Shovel_Titanium",
+			"FriendlyName": "Titanium Shovel",
+			"ProducedItem": "Shovel_Titanium",
+			"Category": "Shovels",
+			"RecipeDifficulty": 2,
+			"Ingredients":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Brown_Wood_Planks",
+						"AmountNeeded": 1
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Titanium_Bar",
+						"AmountNeeded": 1
+					}
+				}
+			],
+			"RecipeSteps":
+			[ 5 ],
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Tools/Shovel_Titanium.Shovel_Titanium'",
+			"IsUnknown": false
+		},
+		{
+			"RowName": "Shovel_Uranium",
+			"FriendlyName": "Uranium Shovel",
+			"ProducedItem": "Shovel_Uranium",
+			"Category": "Shovels",
+			"RecipeDifficulty": 3,
+			"Ingredients":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Brown_Wood_Planks",
+						"AmountNeeded": 1
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Uranium_Bar",
+						"AmountNeeded": 1
+					}
+				}
+			],
+			"RecipeSteps":
+			[ 5 ],
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Tools/Shovel_Uranium.Shovel_Uranium'",
+			"IsUnknown": false
+		},
+		{
+			"RowName": "Shovel_Diamond",
+			"FriendlyName": "Diamond Shovel",
+			"ProducedItem": "Shovel_Diamond",
+			"Category": "Shovels",
+			"RecipeDifficulty": 3,
+			"Ingredients":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Brown_Wood_Planks",
+						"AmountNeeded": 1
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Diamond_Polished",
+						"AmountNeeded": 1
+					}
+				}
+			],
+			"RecipeSteps":
+			[ 5 ],
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Tools/Shovel_Diamond.Shovel_Diamond'",
+			"IsUnknown": false
+		},
+		{
+			"RowName": "Shovel_Meteor",
+			"FriendlyName": "Meteor Shovel",
+			"ProducedItem": "Shovel_Meteor",
+			"Category": "Shovels",
+			"RecipeDifficulty": 3,
+			"Ingredients":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Brown_Wood_Planks",
+						"AmountNeeded": 1
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Meteorite_Polished",
+						"AmountNeeded": 1
+					}
+				}
+			],
+			"RecipeSteps":
+			[ 5 ],
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Tools/Shovel_Meteor.Shovel_Meteor'",
+			"IsUnknown": false
+		},
+		{
+			"RowName": "Brush_Wooden",
+			"FriendlyName": "Wooden Brush",
+			"ProducedItem": "Brush_Wooden",
+			"Category": "Animal Brush",
+			"RecipeDifficulty": 0,
+			"Ingredients":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Brown_Wood_Planks",
+						"AmountNeeded": 2
+					}
+				}
+			],
+			"RecipeSteps":
+			[ 5 ],
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Tools/Brush_Wooden.Brush_Wooden'",
+			"IsUnknown": false
+		},
+		{
+			"RowName": "Brush_Copper",
+			"FriendlyName": "Copper Brush",
+			"ProducedItem": "Brush_Copper",
+			"Category": "Animal Brush",
+			"RecipeDifficulty": 1,
+			"Ingredients":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Brown_Wood_Planks",
+						"AmountNeeded": 2
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Copper_Bar",
+						"AmountNeeded": 1
+					}
+				}
+			],
+			"RecipeSteps":
+			[ 5 ],
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Tools/Brush_Copper.Brush_Copper'",
+			"IsUnknown": false
+		},
+		{
+			"RowName": "Brush_Iron",
+			"FriendlyName": "Iron Brush",
+			"ProducedItem": "Brush_Iron",
+			"Category": "Animal Brush",
+			"RecipeDifficulty": 1,
+			"Ingredients":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Brown_Wood_Planks",
+						"AmountNeeded": 2
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Iron_Bar",
+						"AmountNeeded": 1
+					}
+				}
+			],
+			"RecipeSteps":
+			[ 5 ],
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Tools/Brush_Iron.Brush_Iron'",
+			"IsUnknown": false
+		},
+		{
+			"RowName": "Brush_Silver",
+			"FriendlyName": "Silver Brush",
+			"ProducedItem": "Brush_Silver",
+			"Category": "Animal Brush",
+			"RecipeDifficulty": 1,
+			"Ingredients":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Brown_Wood_Planks",
+						"AmountNeeded": 2
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Silver_Bar",
+						"AmountNeeded": 1
+					}
+				}
+			],
+			"RecipeSteps":
+			[ 5 ],
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Tools/Brush_Silver.Brush_Silver'",
+			"IsUnknown": false
+		},
+		{
+			"RowName": "Brush_Gold",
+			"FriendlyName": "Gold Brush",
+			"ProducedItem": "Brush_Gold",
+			"Category": "Animal Brush",
+			"RecipeDifficulty": 1,
+			"Ingredients":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Brown_Wood_Planks",
+						"AmountNeeded": 2
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Gold_Bar",
+						"AmountNeeded": 1
+					}
+				}
+			],
+			"RecipeSteps":
+			[ 5 ],
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Tools/Brush_Gold.Brush_Gold'",
+			"IsUnknown": false
+		},
+		{
+			"RowName": "Brush_Steel",
+			"FriendlyName": "Steel Brush",
+			"ProducedItem": "Brush_Steel",
+			"Category": "Animal Brush",
+			"RecipeDifficulty": 2,
+			"Ingredients":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Brown_Wood_Planks",
+						"AmountNeeded": 2
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Steel_Bar",
+						"AmountNeeded": 1
+					}
+				}
+			],
+			"RecipeSteps":
+			[ 5 ],
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Tools/Brush_Steel.Brush_Steel'",
+			"IsUnknown": false
+		},
+		{
+			"RowName": "Brush_Titanium",
+			"FriendlyName": "Titanium Brush",
+			"ProducedItem": "Brush_Titanium",
+			"Category": "Animal Brush",
+			"RecipeDifficulty": 2,
+			"Ingredients":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Brown_Wood_Planks",
+						"AmountNeeded": 2
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Titanium_Bar",
+						"AmountNeeded": 1
+					}
+				}
+			],
+			"RecipeSteps":
+			[ 5 ],
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Tools/Brush_Titanium.Brush_Titanium'",
+			"IsUnknown": false
+		},
+		{
+			"RowName": "Brush_Uranium",
+			"FriendlyName": "Uranium Brush",
+			"ProducedItem": "Brush_Uranium",
+			"Category": "Animal Brush",
+			"RecipeDifficulty": 3,
+			"Ingredients":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Brown_Wood_Planks",
+						"AmountNeeded": 2
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Uranium_Bar",
+						"AmountNeeded": 1
+					}
+				}
+			],
+			"RecipeSteps":
+			[ 5 ],
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Tools/Brush_Uranium.Brush_Uranium'",
+			"IsUnknown": false
+		},
+		{
+			"RowName": "Brush_Diamond",
+			"FriendlyName": "Diamond Brush",
+			"ProducedItem": "Brush_Diamond",
+			"Category": "Animal Brush",
+			"RecipeDifficulty": 3,
+			"Ingredients":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Brown_Wood_Planks",
+						"AmountNeeded": 2
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Diamond_Polished",
+						"AmountNeeded": 1
+					}
+				}
+			],
+			"RecipeSteps":
+			[ 5 ],
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Tools/Brush_Diamond.Brush_Diamond'",
+			"IsUnknown": false
+		},
+		{
+			"RowName": "Brush_Meteor",
+			"FriendlyName": "Meteor Brush",
+			"ProducedItem": "Brush_Meteor",
+			"Category": "Animal Brush",
+			"RecipeDifficulty": 3,
+			"Ingredients":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Brown_Wood_Planks",
+						"AmountNeeded": 2
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Meteorite_Polished",
+						"AmountNeeded": 1
+					}
+				}
+			],
+			"RecipeSteps":
+			[ 5 ],
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Tools/Brush_Meteor.Brush_Meteor'",
+			"IsUnknown": false
+		},
+		{
+			"RowName": "Shears_Wooden",
+			"FriendlyName": "Wooden Shears",
+			"ProducedItem": "Shears_Wooden",
+			"Category": "Shears",
+			"RecipeDifficulty": 0,
+			"Ingredients":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Brown_Wood_Planks",
+						"AmountNeeded": 2
+					}
+				}
+			],
+			"RecipeSteps":
+			[ 5 ],
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Tools/Shears_Wooden.Shears_Wooden'",
+			"IsUnknown": false
+		},
+		{
+			"RowName": "Shears_Copper",
+			"FriendlyName": "Copper Shears",
+			"ProducedItem": "Shears_Copper",
+			"Category": "Shears",
+			"RecipeDifficulty": 1,
+			"Ingredients":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Copper_Bar",
+						"AmountNeeded": 2
+					}
+				}
+			],
+			"RecipeSteps":
+			[ 5 ],
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Tools/Shears_Copper.Shears_Copper'",
+			"IsUnknown": false
+		},
+		{
+			"RowName": "Shears_Iron",
+			"FriendlyName": "Iron Shears",
+			"ProducedItem": "Shears_Iron",
+			"Category": "Shears",
+			"RecipeDifficulty": 1,
+			"Ingredients":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Iron_Bar",
+						"AmountNeeded": 2
+					}
+				}
+			],
+			"RecipeSteps":
+			[ 5 ],
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Tools/Shears_Iron.Shears_Iron'",
+			"IsUnknown": false
+		},
+		{
+			"RowName": "Shears_Silver",
+			"FriendlyName": "Silver Shears",
+			"ProducedItem": "Shears_Silver",
+			"Category": "Shears",
+			"RecipeDifficulty": 1,
+			"Ingredients":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Silver_Bar",
+						"AmountNeeded": 2
+					}
+				}
+			],
+			"RecipeSteps":
+			[ 5 ],
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Tools/Shears_Silver.Shears_Silver'",
+			"IsUnknown": false
+		},
+		{
+			"RowName": "Shears_Gold",
+			"FriendlyName": "Gold Shears",
+			"ProducedItem": "Shears_Gold",
+			"Category": "Shears",
+			"RecipeDifficulty": 1,
+			"Ingredients":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Gold_Bar",
+						"AmountNeeded": 2
+					}
+				}
+			],
+			"RecipeSteps":
+			[ 5 ],
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Tools/Shears_Gold.Shears_Gold'",
+			"IsUnknown": false
+		},
+		{
+			"RowName": "Shears_Steel",
+			"FriendlyName": "Steel Shears",
+			"ProducedItem": "Shears_Steel",
+			"Category": "Shears",
+			"RecipeDifficulty": 2,
+			"Ingredients":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Steel_Bar",
+						"AmountNeeded": 2
+					}
+				}
+			],
+			"RecipeSteps":
+			[ 5 ],
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Tools/Shears_Steel.Shears_Steel'",
+			"IsUnknown": false
+		},
+		{
+			"RowName": "Shears_Titanium",
+			"FriendlyName": "Titanium Shears",
+			"ProducedItem": "Shears_Titanium",
+			"Category": "Shears",
+			"RecipeDifficulty": 2,
+			"Ingredients":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Titanium_Bar",
+						"AmountNeeded": 2
+					}
+				}
+			],
+			"RecipeSteps":
+			[ 5 ],
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Tools/Shears_Titanium.Shears_Titanium'",
+			"IsUnknown": false
+		},
+		{
+			"RowName": "Shears_Uranium",
+			"FriendlyName": "Uranium Shears",
+			"ProducedItem": "Shears_Uranium",
+			"Category": "Shears",
+			"RecipeDifficulty": 3,
+			"Ingredients":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Uranium_Bar",
+						"AmountNeeded": 2
+					}
+				}
+			],
+			"RecipeSteps":
+			[ 5 ],
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Tools/Shears_Uranium.Shears_Uranium'",
+			"IsUnknown": false
+		},
+		{
+			"RowName": "Shears_Diamond",
+			"FriendlyName": "Diamond Shears",
+			"ProducedItem": "Shears_Diamond",
+			"Category": "Shears",
+			"RecipeDifficulty": 3,
+			"Ingredients":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Diamond_Polished",
+						"AmountNeeded": 2
+					}
+				}
+			],
+			"RecipeSteps":
+			[ 5 ],
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Tools/Shears_Diamond.Shears_Diamond'",
+			"IsUnknown": false
+		},
+		{
+			"RowName": "Shears_Meteor",
+			"FriendlyName": "Meteor Shears",
+			"ProducedItem": "Shears_Meteor",
+			"Category": "Shears",
+			"RecipeDifficulty": 3,
+			"Ingredients":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Meteorite_Polished",
+						"AmountNeeded": 2
+					}
+				}
+			],
+			"RecipeSteps":
+			[ 5 ],
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Tools/Shears_Meteor.Shears_Meteor'",
+			"IsUnknown": false
+		},
+		{
+			"RowName": "Sickle_Wooden",
+			"FriendlyName": "Wooden Sickle",
+			"ProducedItem": "Sickle_Wooden",
+			"Category": "Sickles",
+			"RecipeDifficulty": 0,
+			"Ingredients":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Brown_Wood_Planks",
+						"AmountNeeded": 4
+					}
+				}
+			],
+			"RecipeSteps":
+			[ 5 ],
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Tools/Sickle_Wooden.Sickle_Wooden'",
+			"IsUnknown": false
+		},
+		{
+			"RowName": "Sickle_Copper",
+			"FriendlyName": "Copper Sickle",
+			"ProducedItem": "Sickle_Copper",
+			"Category": "Sickles",
+			"RecipeDifficulty": 1,
+			"Ingredients":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Brown_Wood_Planks",
+						"AmountNeeded": 2
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Copper_Bar",
+						"AmountNeeded": 2
+					}
+				}
+			],
+			"RecipeSteps":
+			[ 5 ],
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Tools/Sickle_Copper.Sickle_Copper'",
+			"IsUnknown": false
+		},
+		{
+			"RowName": "Sickle_Iron",
+			"FriendlyName": "Iron Sickle",
+			"ProducedItem": "Sickle_Iron",
+			"Category": "Sickles",
+			"RecipeDifficulty": 1,
+			"Ingredients":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Brown_Wood_Planks",
+						"AmountNeeded": 2
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Iron_Bar",
+						"AmountNeeded": 2
+					}
+				}
+			],
+			"RecipeSteps":
+			[ 5 ],
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Tools/Sickle_Iron.Sickle_Iron'",
+			"IsUnknown": false
+		},
+		{
+			"RowName": "Sickle_Silver",
+			"FriendlyName": "Silver Sickle",
+			"ProducedItem": "Sickle_Silver",
+			"Category": "Sickles",
+			"RecipeDifficulty": 1,
+			"Ingredients":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Brown_Wood_Planks",
+						"AmountNeeded": 2
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Silver_Bar",
+						"AmountNeeded": 2
+					}
+				}
+			],
+			"RecipeSteps":
+			[ 5 ],
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Tools/Sickle_Silver.Sickle_Silver'",
+			"IsUnknown": false
+		},
+		{
+			"RowName": "Sickle_Gold",
+			"FriendlyName": "Gold Sickle",
+			"ProducedItem": "Sickle_Gold",
+			"Category": "Sickles",
+			"RecipeDifficulty": 1,
+			"Ingredients":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Brown_Wood_Planks",
+						"AmountNeeded": 2
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Gold_Bar",
+						"AmountNeeded": 2
+					}
+				}
+			],
+			"RecipeSteps":
+			[ 5 ],
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Tools/Sickle_Gold.Sickle_Gold'",
+			"IsUnknown": false
+		},
+		{
+			"RowName": "Sickle_Steel",
+			"FriendlyName": "Steel Sickle",
+			"ProducedItem": "Sickle_Steel",
+			"Category": "Sickles",
+			"RecipeDifficulty": 2,
+			"Ingredients":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Brown_Wood_Planks",
+						"AmountNeeded": 2
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Steel_Bar",
+						"AmountNeeded": 2
+					}
+				}
+			],
+			"RecipeSteps":
+			[ 5 ],
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Tools/Sickle_Steel.Sickle_Steel'",
+			"IsUnknown": false
+		},
+		{
+			"RowName": "Sickle_Titanium",
+			"FriendlyName": "Titanium Sickle",
+			"ProducedItem": "Sickle_Titanium",
+			"Category": "Sickles",
+			"RecipeDifficulty": 2,
+			"Ingredients":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Brown_Wood_Planks",
+						"AmountNeeded": 2
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Titanium_Bar",
+						"AmountNeeded": 2
+					}
+				}
+			],
+			"RecipeSteps":
+			[ 5 ],
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Tools/Sickle_Titanium.Sickle_Titanium'",
+			"IsUnknown": false
+		},
+		{
+			"RowName": "Sickle_Uranium",
+			"FriendlyName": "Uranium Sickle",
+			"ProducedItem": "Sickle_Uranium",
+			"Category": "Sickles",
+			"RecipeDifficulty": 3,
+			"Ingredients":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Brown_Wood_Planks",
+						"AmountNeeded": 2
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Uranium_Bar",
+						"AmountNeeded": 2
+					}
+				}
+			],
+			"RecipeSteps":
+			[ 5 ],
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Tools/Sickle_Uranium.Sickle_Uranium'",
+			"IsUnknown": false
+		},
+		{
+			"RowName": "Sickle_Diamond",
+			"FriendlyName": "Diamond Sickle",
+			"ProducedItem": "Sickle_Diamond",
+			"Category": "Sickles",
+			"RecipeDifficulty": 3,
+			"Ingredients":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Brown_Wood_Planks",
+						"AmountNeeded": 2
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Diamond_Polished",
+						"AmountNeeded": 2
+					}
+				}
+			],
+			"RecipeSteps":
+			[ 5 ],
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Tools/Sickle_Diamond.Sickle_Diamond'",
+			"IsUnknown": false
+		},
+		{
+			"RowName": "Sickle_Meteor",
+			"FriendlyName": "Meteor Sickle",
+			"ProducedItem": "Sickle_Meteor",
+			"Category": "Sickles",
+			"RecipeDifficulty": 3,
+			"Ingredients":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Brown_Wood_Planks",
+						"AmountNeeded": 2
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Meteorite_Polished",
+						"AmountNeeded": 2
+					}
+				}
+			],
+			"RecipeSteps":
+			[ 5 ],
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Tools/Sickle_Meteor.Sickle_Meteor'",
+			"IsUnknown": false
+		},
+		{
+			"RowName": "Bug_Net_Wooden",
+			"FriendlyName": "Regular Bug Net",
+			"ProducedItem": "Bug_Net_Wooden",
+			"Category": "Bug Net",
+			"RecipeDifficulty": 1,
+			"Ingredients":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Brown_Wood_Planks",
+						"AmountNeeded": 1
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Old_Netting",
+						"AmountNeeded": 1
+					}
+				}
+			],
+			"RecipeSteps":
+			[ 5 ],
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Tools/BugNet_Wooden.BugNet_Wooden'",
+			"IsUnknown": false
+		},
+		{
+			"RowName": "Bug_Net_Iron",
+			"FriendlyName": "Premium Bug Net",
+			"ProducedItem": "Bug_Net_Iron",
+			"Category": "Bug Net",
+			"RecipeDifficulty": 1,
+			"Ingredients":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Brown_Wood_Planks",
+						"AmountNeeded": 2
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Old_Netting",
+						"AmountNeeded": 2
+					}
+				}
+			],
+			"RecipeSteps":
+			[ 5 ],
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Tools/BugNet_Iron.BugNet_Iron'",
+			"IsUnknown": false
+		},
+		{
+			"RowName": "Bug_Net_Copper",
+			"FriendlyName": "Nice Bug Net",
+			"ProducedItem": "Bug_Net_Copper",
+			"Category": "Bug Net",
+			"RecipeDifficulty": 2,
+			"Ingredients":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Brown_Wood_Planks",
+						"AmountNeeded": 1
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Old_Netting",
+						"AmountNeeded": 3
+					}
+				}
+			],
+			"RecipeSteps":
+			[ 5 ],
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Tools/BugNet_Wooden.BugNet_Wooden'",
+			"IsUnknown": false
+		},
+		{
+			"RowName": "Bug_Net_Silver",
+			"FriendlyName": "Ultimate Bug Net",
+			"ProducedItem": "Bug_Net_Silver",
+			"Category": "Bug Net",
+			"RecipeDifficulty": 2,
+			"Ingredients":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Brown_Wood_Planks",
+						"AmountNeeded": 1
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Old_Netting",
+						"AmountNeeded": 4
+					}
+				}
+			],
+			"RecipeSteps":
+			[ 5 ],
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Tools/BugNet_Gold.BugNet_Gold'",
+			"IsUnknown": false
+		}
+	]
+}

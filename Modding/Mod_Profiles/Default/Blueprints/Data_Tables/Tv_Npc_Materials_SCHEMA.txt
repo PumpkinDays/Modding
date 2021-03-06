@@ -1,0 +1,3 @@
+Tv_Npc_Materials Structure:
+
+MaterialProperty: UMaterialInterface*

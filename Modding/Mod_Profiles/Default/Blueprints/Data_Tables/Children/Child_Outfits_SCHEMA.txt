@@ -1,0 +1,3 @@
+Child_Outfits Structure:
+
+Outfits: TArray-FChildOutfit

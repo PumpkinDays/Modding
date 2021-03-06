@@ -1,0 +1,3 @@
+Shared_Heart_Groups Structure:
+
+NameArray: TArray-FName

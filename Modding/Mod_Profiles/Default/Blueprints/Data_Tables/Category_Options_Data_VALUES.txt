@@ -1,0 +1,120 @@
+{
+	"Rows": 
+	[
+		{
+			"RowName": "Tools",
+			"Options":
+			[ 0, 6 ]
+		},
+		{
+			"RowName": "Furniture",
+			"Options":
+			[ 2, 6 ]
+		},
+		{
+			"RowName": "Food",
+			"Options":
+			[ 4, 3, 2, 6 ]
+		},
+		{
+			"RowName": "Crops",
+			"Options":
+			[ 3, 7, 4, 6 ]
+		},
+		{
+			"RowName": "Herbs",
+			"Options":
+			[ 7, 4, 6 ]
+		},
+		{
+			"RowName": "Flowers",
+			"Options":
+			[ 4, 7, 6 ]
+		},
+		{
+			"RowName": "Ores",
+			"Options":
+			[ 4, 6 ]
+		},
+		{
+			"RowName": "Wood",
+			"Options":
+			[ 4, 6 ]
+		},
+		{
+			"RowName": "Fish",
+			"Options":
+			[ 4, 6 ]
+		},
+		{
+			"RowName": "AnimalProducts",
+			"Options":
+			[ 3, 4, 6 ]
+		},
+		{
+			"RowName": "ClothRawMaterials",
+			"Options":
+			[ 4, 6 ]
+		},
+		{
+			"RowName": "Fertilizer",
+			"Options":
+			[ 0, 6 ]
+		},
+		{
+			"RowName": "Clothes",
+			"Options":
+			[ 5, 6 ]
+		},
+		{
+			"RowName": "Seeds",
+			"Options":
+			[ 0, 6 ]
+		},
+		{
+			"RowName": "Wallpaper",
+			"Options":
+			[ 6 ]
+		},
+		{
+			"RowName": "Processors",
+			"Options":
+			[ 2, 6 ]
+		},
+		{
+			"RowName": "Misc",
+			"Options":
+			[ 4, 6 ]
+		},
+		{
+			"RowName": "Decor",
+			"Options":
+			[ 2, 6 ]
+		},
+		{
+			"RowName": "Paintings",
+			"Options":
+			[ 2, 6 ]
+		},
+		{
+			"RowName": "Bugs",
+			"Options":
+			[ 4, 2, 6 ]
+		},
+		{
+			"RowName": "Fossils",
+			"Options":
+			[ 4, 6 ]
+		},
+		{
+			"RowName": "Artifacts",
+			"Options":
+			[ 4, 0, 6 ]
+		},
+		{
+			"RowName": "Stars",
+			"Options":
+			[ 6 ]
+		}
+	]
+}

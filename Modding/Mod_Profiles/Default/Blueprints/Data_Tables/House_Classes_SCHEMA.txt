@@ -1,0 +1,3 @@
+House_Classes Structure:
+
+ClassProperty: TSubclassOf<AActor> 

@@ -1,0 +1,45 @@
+{
+	"Rows": 
+	[
+		{
+			"RowName": "Zoey",
+			"SkinShadeOverride": 3,
+			"Hair": "None",
+			"Eyes": "None",
+			"Eyebrows": "None",
+			"Mouth": "None"
+		},
+		{
+			"RowName": "Ikaia",
+			"SkinShadeOverride": 5,
+			"Hair": "None",
+			"Eyes": "None",
+			"Eyebrows": "None",
+			"Mouth": "None"
+		},
+		{
+			"RowName": "Mickie",
+			"SkinShadeOverride": 3,
+			"Hair": "None",
+			"Eyes": "None",
+			"Eyebrows": "None",
+			"Mouth": "None"
+		},
+		{
+			"RowName": "Finn",
+			"SkinShadeOverride": 6,
+			"Hair": "None",
+			"Eyes": "None",
+			"Eyebrows": "None",
+			"Mouth": "None"
+		},
+		{
+			"RowName": "Tanya",
+			"SkinShadeOverride": 8,
+			"Hair": "None",
+			"Eyes": "None",
+			"Eyebrows": "None",
+			"Mouth": "None"
+		}
+	]
+}

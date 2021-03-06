@@ -1,0 +1,9 @@
+{
+	"Rows": 
+	[
+		{
+			"RowName": "Hearts",
+			"MaterialProperty": "Material'/Game/Materials/Animated_Sprites/Heart_Scene_Animated.Heart_Scene_Animated'"
+		}
+	]
+}

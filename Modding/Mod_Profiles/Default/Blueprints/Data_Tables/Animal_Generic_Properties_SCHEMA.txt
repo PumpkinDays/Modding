@@ -1,0 +1,7 @@
+Animal_Generic_Properties Structure:
+
+StorkBasketAnimation: TAssetPtr<UAnimSequenceBase>
+BasketMesh: TAssetPtr<UStaticMesh>
+BasketAnimalZOffset: float
+NameTagZOffset: integer
+JournalHarvestString: string

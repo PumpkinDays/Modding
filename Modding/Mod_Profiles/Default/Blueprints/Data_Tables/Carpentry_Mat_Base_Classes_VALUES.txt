@@ -1,0 +1,520 @@
+{
+	"Rows": 
+	[
+		{
+			"RowName": "BASIC_Blend_Basic_Simgle_Bed",
+			"BaseClass": "Material'/Game/Materials/Furniture/Basic_Set/Basic_Blend_Basic_Simgle_Bed.BASIC_Blend_Basic_Simgle_Bed'",
+			"ParameterName": "Parameter_Texture"
+		},
+		{
+			"RowName": "BASIC_Blend_Basic_Coffee_Table",
+			"BaseClass": "Material'/Game/Materials/Furniture/Basic_Set/BASIC_Blend_Basic_Coffee_Table.BASIC_Blend_Basic_Coffee_Table'",
+			"ParameterName": "Parameter_Texture"
+		},
+		{
+			"RowName": "BASIC_Blend_Antique_Bookcase_short",
+			"BaseClass": "Material'/Game/Materials/Furniture/Antique/BASIC_Blend_Antique_Bookcase_short.BASIC_Blend_Antique_Bookcase_short'",
+			"ParameterName": "Parameter_Texture"
+		},
+		{
+			"RowName": "BASIC_Blend_Antique_Bookcase_tall",
+			"BaseClass": "Material'/Game/Materials/Furniture/Antique/BASIC_Blend_Antique_Bookcase_tall.BASIC_Blend_Antique_Bookcase_tall'",
+			"ParameterName": "Parameter_Texture"
+		},
+		{
+			"RowName": "BASIC_Blend_Antique_Chair",
+			"BaseClass": "Material'/Game/Materials/Furniture/Antique/BASIC_Blend_Antique_Chair.BASIC_Blend_Antique_Chair'",
+			"ParameterName": "Parameter_Texture"
+		},
+		{
+			"RowName": "BASIC_Blend_Antique_Coffee_Table",
+			"BaseClass": "Material'/Game/Materials/Furniture/Antique/BASIC_Blend_Antique_Coffee_Table.BASIC_Blend_Antique_Coffee_Table'",
+			"ParameterName": "Parameter_Texture"
+		},
+		{
+			"RowName": "BASIC_Blend_Antique_Cupboard",
+			"BaseClass": "Material'/Game/Materials/Furniture/Antique/BASIC_Blend_Antique_Cupboard.BASIC_Blend_Antique_Cupboard'",
+			"ParameterName": "Parameter_Texture"
+		},
+		{
+			"RowName": "BASIC_Blend_Antique_Dresser",
+			"BaseClass": "Material'/Game/Materials/Furniture/Antique/BASIC_Blend_Antique_Dresser.BASIC_Blend_Antique_Dresser'",
+			"ParameterName": "Parameter_Texture"
+		},
+		{
+			"RowName": "BASIC_Blend_Antique_Office_Desk",
+			"BaseClass": "Material'/Game/Materials/Furniture/Antique/BASIC_Blend_Antique_Office_Desk.BASIC_Blend_Antique_Office_Desk'",
+			"ParameterName": "Parameter_Texture"
+		},
+		{
+			"RowName": "BASIC_Blend_Antique_Table",
+			"BaseClass": "Material'/Game/Materials/Furniture/Antique/BASIC_Blend_Antique_Table.BASIC_Blend_Antique_Table'",
+			"ParameterName": "Parameter_Texture"
+		},
+		{
+			"RowName": "BASIC_Blend_Antique_Wardrobe",
+			"BaseClass": "Material'/Game/Materials/Furniture/Antique/BASIC_Blend_Antique_Wardrobe.BASIC_Blend_Antique_Wardrobe'",
+			"ParameterName": "Parameter_Texture"
+		},
+		{
+			"RowName": "BASIC_Blend_Basic_Arm_Chair",
+			"BaseClass": "Material'/Game/Materials/Furniture/Basic_Set/BASIC_Blend_Basic_Arm_Chair.BASIC_Blend_Basic_Arm_Chair'",
+			"ParameterName": "Parameter_Texture"
+		},
+		{
+			"RowName": "BASIC_Blend_Basic_Bookshelf_Short",
+			"BaseClass": "Material'/Game/Materials/Furniture/Basic_Set/BASIC_Blend_Basic_Bookshelf_Short.BASIC_Blend_Basic_Bookshelf_Short'",
+			"ParameterName": "Parameter_Texture"
+		},
+		{
+			"RowName": "BASIC_Blend_Basic_Bookshelf_Tall",
+			"BaseClass": "Material'/Game/Materials/Furniture/Basic_Set/BASIC_Blend_Basic_Bookshelf_Tall.BASIC_Blend_Basic_Bookshelf_Tall'",
+			"ParameterName": "Parameter_Texture"
+		},
+		{
+			"RowName": "BASIC_Blend_Basic_Chair",
+			"BaseClass": "Material'/Game/Materials/Furniture/Basic_Set/BASIC_Blend_Basic_Chair.BASIC_Blend_Basic_Chair'",
+			"ParameterName": "Parameter_Texture"
+		},
+		{
+			"RowName": "BASIC_Blend_Basic_Counter_Bottom",
+			"BaseClass": "Material'/Game/Materials/Furniture/Basic_Set/BASIC_Blend_Basic_Counter_Bottom.BASIC_Blend_Basic_Counter_Bottom'",
+			"ParameterName": "Parameter_Texture"
+		},
+		{
+			"RowName": "BASIC_Blend_Basic_Cupboard",
+			"BaseClass": "Material'/Game/Materials/Furniture/Basic_Set/BASIC_Blend_Basic_Cupboard.BASIC_Blend_Basic_Cupboard'",
+			"ParameterName": "Parameter_Texture"
+		},
+		{
+			"RowName": "BASIC_Blend_Basic_Dresser",
+			"BaseClass": "Material'/Game/Materials/Furniture/Basic_Set/BASIC_Blend_Basic_Dresser.BASIC_Blend_Basic_Dresser'",
+			"ParameterName": "Parameter_Texture"
+		},
+		{
+			"RowName": "BASIC_Blend_Basic_End_Table",
+			"BaseClass": "Material'/Game/Materials/Furniture/Basic_Set/BASIC_Blend_Basic_End_Table.BASIC_Blend_Basic_End_Table'",
+			"ParameterName": "Parameter_Texture"
+		},
+		{
+			"RowName": "BASIC_Blend_Basic_Office_Desk",
+			"BaseClass": "Material'/Game/Materials/Furniture/Basic_Set/BASIC_Blend_Basic_Office_Desk.BASIC_Blend_Basic_Office_Desk'",
+			"ParameterName": "Parameter_Texture"
+		},
+		{
+			"RowName": "BASIC_Blend_Basic_Table",
+			"BaseClass": "Material'/Game/Materials/Furniture/Basic_Set/BASIC_Blend_Basic_Table.BASIC_Blend_Basic_Table'",
+			"ParameterName": "Parameter_Texture"
+		},
+		{
+			"RowName": "BASIC_Blend_Basic_Vanity",
+			"BaseClass": "Material'/Game/Materials/Furniture/Basic_Set/BASIC_Blend_Basic_Vanity.BASIC_Blend_Basic_Vanity'",
+			"ParameterName": "Parameter_Texture"
+		},
+		{
+			"RowName": "BASIC_Blend_Basic_Wardrobe",
+			"BaseClass": "Material'/Game/Materials/Furniture/Basic_Set/BASIC_Blend_Basic_Wardrobe.BASIC_Blend_Basic_Wardrobe'",
+			"ParameterName": "Parameter_Texture"
+		},
+		{
+			"RowName": "BASIC_Blend_Fun_Coffee_Table",
+			"BaseClass": "Material'/Game/Materials/Furniture/Fun_Set/BASIC_Blend_Fun_Coffee_Table.BASIC_Blend_Fun_Coffee_Table'",
+			"ParameterName": "Parameter_Texture"
+		},
+		{
+			"RowName": "BASIC_Blend_Fun_Cupboard",
+			"BaseClass": "Material'/Game/Materials/Furniture/Fun_Set/BASIC_Blend_Fun_Cupboard.BASIC_Blend_Fun_Cupboard'",
+			"ParameterName": "Parameter_Texture"
+		},
+		{
+			"RowName": "BASIC_Blend_Fun_Table",
+			"BaseClass": "Material'/Game/Materials/Furniture/Fun_Set/BASIC_Blend_Fun_Table.BASIC_Blend_Fun_Table'",
+			"ParameterName": "Parameter_Texture"
+		},
+		{
+			"RowName": "BASIC_Blend_Fun_Wardrobe",
+			"BaseClass": "Material'/Game/Materials/Furniture/Fun_Set/BASIC_Blend_Fun_Wardrobe.BASIC_Blend_Fun_Wardrobe'",
+			"ParameterName": "Parameter_Texture"
+		},
+		{
+			"RowName": "BASIC_Blend_Nice_Chair",
+			"BaseClass": "Material'/Game/Materials/Furniture/Nice_Set/BASIC_Blend_Nice_Chair.BASIC_Blend_Nice_Chair'",
+			"ParameterName": "Parameter_Texture"
+		},
+		{
+			"RowName": "BASIC_Blend_Nice_Coffee_Table",
+			"BaseClass": "Material'/Game/Materials/Furniture/Nice_Set/BASIC_Blend_Nice_Coffee_Table.BASIC_Blend_Nice_Coffee_Table'",
+			"ParameterName": "Parameter_Texture"
+		},
+		{
+			"RowName": "BASIC_Blend_Nice_Table",
+			"BaseClass": "Material'/Game/Materials/Furniture/Nice_Set/BASIC_Blend_Nice_Table.BASIC_Blend_Nice_Table'",
+			"ParameterName": "Parameter_Texture"
+		},
+		{
+			"RowName": "BASIC_Blend_Wardrobe",
+			"BaseClass": "Material'/Game/Materials/Furniture/Nice_Set/BASIC_Blend_Wardrobe.BASIC_Blend_Wardrobe'",
+			"ParameterName": "Parameter_Texture"
+		},
+		{
+			"RowName": "BASIC_Blend_Basic_Couch",
+			"BaseClass": "Material'/Game/Materials/Furniture/Basic_Set/BASIC_Blend_Basic_Couch.BASIC_Blend_Basic_Couch'",
+			"ParameterName": "Parameter_Texture"
+		},
+		{
+			"RowName": "BASIC_Cat_Plushie",
+			"BaseClass": "Material'/Game/Materials/Unique/Plushies/BASIC_Cat_Plushie.BASIC_Cat_Plushie'",
+			"ParameterName": "Parameter_Texture"
+		},
+		{
+			"RowName": "BASIC_Chicken_Plushie",
+			"BaseClass": "Material'/Game/Materials/Unique/Plushies/BASIC_Chicken_Plushie.BASIC_Chicken_Plushie'",
+			"ParameterName": "Parameter_Texture"
+		},
+		{
+			"RowName": "BASIC_Cow_Plushie",
+			"BaseClass": "Material'/Game/Materials/Unique/Plushies/BASIC_Cow_Plushie.BASIC_Cow_Plushie'",
+			"ParameterName": "Parameter_Texture"
+		},
+		{
+			"RowName": "BASIC_Dog_Plushie",
+			"BaseClass": "Material'/Game/Materials/Unique/Plushies/BASIC_Dog_Plushie.BASIC_Dog_Plushie'",
+			"ParameterName": "Parameter_Texture"
+		},
+		{
+			"RowName": "BASIC_Elephant_Plushie",
+			"BaseClass": "Material'/Game/Materials/Unique/Plushies/BASIC_Elephant_Plushie.BASIC_Elephant_Plushie'",
+			"ParameterName": "Parameter_Texture"
+		},
+		{
+			"RowName": "BASIC_Horse_Plushie",
+			"BaseClass": "Material'/Game/Materials/Unique/Plushies/BASIC_Horse_Plushie.BASIC_Horse_Plushie'",
+			"ParameterName": "Parameter_Texture"
+		},
+		{
+			"RowName": "BASIC_Pig_Plushie",
+			"BaseClass": "Material'/Game/Materials/Unique/Plushies/BASIC_Pig_Plushie.BASIC_Pig_Plushie'",
+			"ParameterName": "Parameter_Texture"
+		},
+		{
+			"RowName": "BASIC_Kitchen_Blend",
+			"BaseClass": "Material'/Game/Materials/Furniture/Expansions/BASIC_Kitchen_Blend.BASIC_Kitchen_Blend'",
+			"ParameterName": "Parameter_Texture"
+		},
+		{
+			"RowName": "BASIC_CRAFTING_Frilly_Shirt_Blend",
+			"BaseClass": "Material'/Game/Materials/Clothes/Shirts/Frilly_Shirt/BASIC_CRAFTING_Frilly_Shirt_Blend.BASIC_CRAFTING_Frilly_Shirt_Blend'",
+			"ParameterName": "Parameter_Texture"
+		},
+		{
+			"RowName": "BASIC_CRAFTING_Heart_Shirt_Blend",
+			"BaseClass": "Material'/Game/Materials/Clothes/Shirts/Heart_Shirt/BASIC_CRAFTING_Heart_Shirt_Blend.BASIC_CRAFTING_Heart_Shirt_Blend'",
+			"ParameterName": "Parameter_Texture"
+		},
+		{
+			"RowName": "BASIC_CRAFT_Poet_Shirt_Blend",
+			"BaseClass": "Material'/Game/Materials/Clothes/Shirts/Poet_Shirt/BASIC_CRAFT_Poet_Shirt_Blend.BASIC_CRAFT_Poet_Shirt_Blend'",
+			"ParameterName": "Parameter_Texture"
+		},
+		{
+			"RowName": "BASIC_CRAFTIN_Sassy_Shirt_Blend",
+			"BaseClass": "Material'/Game/Materials/Clothes/Shirts/Sassy_Shirt/BASIC_CRAFTIN_Sassy_Shirt_Blend.BASIC_CRAFTIN_Sassy_Shirt_Blend'",
+			"ParameterName": "Parameter_Texture"
+		},
+		{
+			"RowName": "BASIC_CRAFTING_Short_Top_Blend",
+			"BaseClass": "Material'/Game/Materials/Clothes/Shirts/Short_Top/BASIC_CRAFTING_Short_Top_Blend.BASIC_CRAFTING_Short_Top_Blend'",
+			"ParameterName": "Parameter_Texture"
+		},
+		{
+			"RowName": "BASIC_Crafting_Sleeveless_Shirt_Blend",
+			"BaseClass": "Material'/Game/Materials/Clothes/Shirts/Sleeveless/BASIC_Crafting_Sleeveless_Shirt_Blend.BASIC_Crafting_Sleeveless_Shirt_Blend'",
+			"ParameterName": "Parameter_Texture"
+		},
+		{
+			"RowName": "BASIC_Crafting_Spaghetti_Shirt_Blend",
+			"BaseClass": "Material'/Game/Materials/Clothes/Shirts/Spaghetti_Strap/BASIC_Crafting_Spaghetti_Shirt_Blend.BASIC_Crafting_Spaghetti_Shirt_Blend'",
+			"ParameterName": "Parameter_Texture"
+		},
+		{
+			"RowName": "BASIC_Crafting_TShirt_Blend",
+			"BaseClass": "Material'/Game/Materials/Clothes/Shirts/T_Shirt/BASIC_Crafting_TShirt_Blend.BASIC_Crafting_TShirt_Blend'",
+			"ParameterName": "Parameter_Texture"
+		},
+		{
+			"RowName": "BASIC_Crafting_VNeck_Dress_Shirt_Blend",
+			"BaseClass": "Material'/Game/Materials/Clothes/Shirts/V_Neck_Dress/BASIC_Crafting_VNeck_Dress_Shirt_Blend.BASIC_Crafting_VNeck_Dress_Shirt_Blend'",
+			"ParameterName": "Parameter_Texture"
+		},
+		{
+			"RowName": "BASIC_Crafting_Board_Shorts_Board",
+			"BaseClass": "Material'/Game/Materials/Clothes/Pants/Board_Shorts/BASIC_Crafting_Board_Shorts_Board.BASIC_Crafting_Board_Shorts_Board'",
+			"ParameterName": "Parameter_Texture"
+		},
+		{
+			"RowName": "BASIC_CRAFTING_Pants_Jeans",
+			"BaseClass": "Material'/Game/Materials/Clothes/Pants/Pants_Jeans/BASIC_CRAFTING_Pants_Jeans.BASIC_CRAFTING_Pants_Jeans'",
+			"ParameterName": "Parameter_Texture"
+		},
+		{
+			"RowName": "BASIC_CRAFTING_Cargo_Pants",
+			"BaseClass": "Material'/Game/Materials/Clothes/Pants/Cargo_Pants/BASIC_CRAFTING_Cargo_Pants.BASIC_CRAFTING_Cargo_Pants'",
+			"ParameterName": "Parameter_Texture"
+		},
+		{
+			"RowName": "BASIC_Crafting_Overall_Pants",
+			"BaseClass": "Material'/Game/Materials/Clothes/Pants/Overall_Pants/BASIC_Crafting_Overall_Pants.BASIC_Crafting_Overall_Pants'",
+			"ParameterName": "Parameter_Texture"
+		},
+		{
+			"RowName": "BASIC_Crafting_Hammer_Pants",
+			"BaseClass": "Material'/Game/Materials/Clothes/Pants/Hammer_Pants/BASIC_Crafting_Hammer_Pants.BASIC_Crafting_Hammer_Pants'",
+			"ParameterName": "Parameter_Texture"
+		},
+		{
+			"RowName": "BASIC_Crafting_Shorts_Blend",
+			"BaseClass": "Material'/Game/Materials/Clothes/Pants/Shorts/BASIC_Crafting_Shorts_Blend.BASIC_Crafting_Shorts_Blend'",
+			"ParameterName": "Parameter_Texture"
+		},
+		{
+			"RowName": "BASIC_Crafting_Sweatpants_Blend",
+			"BaseClass": "Material'/Game/Materials/Clothes/Pants/Sweatpants/BASIC_Crafting_Sweatpants_Blend.BASIC_Crafting_Sweatpants_Blend'",
+			"ParameterName": "Parameter_Texture"
+		},
+		{
+			"RowName": "BASIC_CraftingBoots_Plain",
+			"BaseClass": "Material'/Game/Materials/Clothes/Shoes/Boots_Plain/BASIC_CraftingBoots_Plain.BASIC_CraftingBoots_Plain'",
+			"ParameterName": "Parameter_Texture"
+		},
+		{
+			"RowName": "BASIC_Crafting_Flip_Flop",
+			"BaseClass": "Material'/Game/Materials/Clothes/Shoes/Flip_Flops/BASIC_Crafting_Flip_Flop.BASIC_Crafting_Flip_Flop'",
+			"ParameterName": "Parameter_Texture"
+		},
+		{
+			"RowName": "BASIC_Crafting_Loafers_Plain",
+			"BaseClass": "Material'/Game/Materials/Clothes/Shoes/Loafers_Plain/BASIC_Crafting_Loafers_Plain.BASIC_Crafting_Loafers_Plain'",
+			"ParameterName": "Parameter_Texture"
+		},
+		{
+			"RowName": "BASIC_Crafting_Collared_Shirt_Open",
+			"BaseClass": "Material'/Game/Materials/Clothes/Shirts/Collared_Shirt_Open/BASIC_Crafting_Collared_Shirt_Open.BASIC_Crafting_Collared_Shirt_Open'",
+			"ParameterName": "Parameter_Texture"
+		},
+		{
+			"RowName": "BASIC_Crafting_Collared_DressBlend",
+			"BaseClass": "Material'/Game/Materials/Clothes/Dresses/Collared_Dress/BASIC_Crafting_Collared_DressBlend.BASIC_Crafting_Collared_DressBlend'",
+			"ParameterName": "Parameter_Texture"
+		},
+		{
+			"RowName": "BASIC_Crafting_Collared_Dress_Blend_Dark",
+			"BaseClass": "Material'/Game/Materials/Clothes/Dresses/Collared_Dress/BASIC_Crafting_Collared_Dress_Blend_Dark.BASIC_Crafting_Collared_Dress_Blend_Dark'",
+			"ParameterName": "Parameter_Texture"
+		},
+		{
+			"RowName": "BASIC_Crafting_Suit_Turtle_Neck_Sweater_Blend",
+			"BaseClass": "Material'/Game/Materials/Clothes/Jacket/Suit_Turtle_Neck_Sweater/BASIC_Crafting_Suit_Turtle_Neck_Sweater_Blend.BASIC_Crafting_Suit_Turtle_Neck_Sweater_Blend'",
+			"ParameterName": "Parameter_Texture"
+		},
+		{
+			"RowName": "BASIC_Craft_Collared_Shirt_Tie_Blend",
+			"BaseClass": "Material'/Game/Materials/Clothes/Shirts/Collared_Shirt_Tie/BASIC_Craft_Collared_Shirt_Tie_Blend.BASIC_Craft_Collared_Shirt_Tie_Blend'",
+			"ParameterName": "Parameter_Texture"
+		},
+		{
+			"RowName": "BASIC_CRAFTING_Tie_Blend",
+			"BaseClass": "Material'/Game/Materials/Clothes/Shirts/Collared_Shirt_Tie/BASIC_CRAFTING_Tie_Blend.BASIC_CRAFTING_Tie_Blend'",
+			"ParameterName": "Parameter_Texture"
+		},
+		{
+			"RowName": "BASIC_CRAFTING_Collared_Shirt_Long_Blend",
+			"BaseClass": "Material'/Game/Materials/Clothes/Shirts/Collared_Shirt_Open_Long/BASIC_CRAFTING_Collared_Shirt_Long_Blend.BASIC_CRAFTING_Collared_Shirt_Long_Blend'",
+			"ParameterName": "Parameter_Texture"
+		},
+		{
+			"RowName": "BASIC_CRAFTING_Shirt_Vest_Blend",
+			"BaseClass": "Material'/Game/Materials/Clothes/Shirts/Shirt_Vest/BASIC_CRAFTING_Shirt_Vest_Blend.BASIC_CRAFTING_Shirt_Vest_Blend'",
+			"ParameterName": "Parameter_Texture"
+		},
+		{
+			"RowName": "BASIC_CRAFT_Cheongsam_Dress_Blend",
+			"BaseClass": "Material'/Game/Materials/Clothes/Dresses/Cheongsam_Dress/BASIC_CRAFT_Cheongsam_Dress_Blend.BASIC_CRAFT_Cheongsam_Dress_Blend'",
+			"ParameterName": "Parameter_Texture"
+		},
+		{
+			"RowName": "BASIC_CRAFTING_Fancy_Frilly_Blend",
+			"BaseClass": "Material'/Game/Materials/Clothes/Shirts/Fancy_Frilly_Shirt/BASIC_CRAFTING_Fancy_Frilly_Blend.BASIC_CRAFTING_Fancy_Frilly_Blend'",
+			"ParameterName": "Parameter_Texture"
+		},
+		{
+			"RowName": "BASIC_CRAFTING_Hoodie_Blend",
+			"BaseClass": "Material'/Game/Materials/Clothes/Shirts/Hoodie/BASIC_CRAFTING_Hoodie_Blend.BASIC_CRAFTING_Hoodie_Blend'",
+			"ParameterName": "Parameter_Texture"
+		},
+		{
+			"RowName": "BASIC_CRAFTING_Longsleeve_Shirt_Blend",
+			"BaseClass": "Material'/Game/Materials/Clothes/Shirts/Long_Sleeve_Shirt/BASIC_CRAFTING_Longsleeve_Shirt_Blend.BASIC_CRAFTING_Longsleeve_Shirt_Blend'",
+			"ParameterName": "Paranmeter_Texture"
+		},
+		{
+			"RowName": "BASIC_CRAFT_Jacket_Open_Jacket_Blend",
+			"BaseClass": "Material'/Game/Materials/Clothes/Jacket/Jacket_Open/BASIC_CRAFT_Jacket_Open_Jacket_Blend.BASIC_CRAFT_Jacket_Open_Jacket_Blend'",
+			"ParameterName": "Parameter_Texture"
+		},
+		{
+			"RowName": "BASIC_CRAFTING_Jacket_Open_Blend",
+			"BaseClass": "Material'/Game/Materials/Clothes/Jacket/Jacket_Open/BASIC_CRAFTING_Jacket_Open_Blend.BASIC_CRAFTING_Jacket_Open_Blend'",
+			"ParameterName": "Parameter_Texture"
+		},
+		{
+			"RowName": "BASIC_CRAFT_Sweater_Vest_Vest_Blend",
+			"BaseClass": "Material'/Game/Materials/Clothes/Shirts/Sweater_Vest/BASIC_CRAFT_Sweater_Vest_Vest_Blend.BASIC_CRAFT_Sweater_Vest_Vest_Blend'",
+			"ParameterName": "Parameter_Texture"
+		},
+		{
+			"RowName": "BASIC_CRAFTING_Sweater_Vest_Shirt_Blend",
+			"BaseClass": "Material'/Game/Materials/Clothes/Shirts/Sweater_Vest/BASIC_CRAFTING_Sweater_Vest_Shirt_Blend.BASIC_CRAFTING_Sweater_Vest_Shirt_Blend'",
+			"ParameterName": "parameter_Texture"
+		},
+		{
+			"RowName": "BASIC_CRAFTING_Turtleneck_Sweater_Blend",
+			"BaseClass": "Material'/Game/Materials/Clothes/Shirts/Turtleneck_Sweater/BASIC_CRAFTING_Turtleneck_Sweater_Blend.BASIC_CRAFTING_Turtleneck_Sweater_Blend'",
+			"ParameterName": "Parameter_Texture"
+		},
+		{
+			"RowName": "BASIC_CRAFT_Pants",
+			"BaseClass": "Material'/Game/Materials/Clothes/Pants/Pants/BASIC_CRAFT_Pants.BASIC_CRAFT_Pants'",
+			"ParameterName": "Parameter_Texture"
+		},
+		{
+			"RowName": "BASIC_CRAFT_Fishtail_Skirt_Long_Blend",
+			"BaseClass": "Material'/Game/Materials/Clothes/Skirts/Fishtail_Skirt_Long/BASIC_CRAFT_Fishtail_Skirt_Long_Blend.BASIC_CRAFT_Fishtail_Skirt_Long_Blend'",
+			"ParameterName": "Parameter_Texture"
+		},
+		{
+			"RowName": "BASIC_CRAFT_Pencil_Skirt_Blend",
+			"BaseClass": "Material'/Game/Materials/Clothes/Skirts/Pencil_Skirt/BASIC_CRAFT_Pencil_Skirt_Blend.BASIC_CRAFT_Pencil_Skirt_Blend'",
+			"ParameterName": "Parameter_Texture"
+		},
+		{
+			"RowName": "BASIC_CRAFT_Fishtail_Skirt_Short_Blend",
+			"BaseClass": "Material'/Game/Materials/Clothes/Skirts/Fishtail_Skirt_Short/BASIC_CRAFT_Fishtail_Skirt_Short_Blend.BASIC_CRAFT_Fishtail_Skirt_Short_Blend'",
+			"ParameterName": "Parameter_Texture"
+		},
+		{
+			"RowName": "BASIC_CRAFT_Long_Skirt_Blend",
+			"BaseClass": "Material'/Game/Materials/Clothes/Skirts/Long_Skirt/BASIC_CRAFT_Long_Skirt_Blend.BASIC_CRAFT_Long_Skirt_Blend'",
+			"ParameterName": "Parameter_Texture"
+		},
+		{
+			"RowName": "BASIC_CRAFT__Peasant_Dress_Light",
+			"BaseClass": "Material'/Game/Materials/Clothes/Dresses/Peasant_Dress/BASIC_CRAFT__Peasant_Dress_Light.BASIC_CRAFT__Peasant_Dress_Light'",
+			"ParameterName": "Parameter_Texture"
+		},
+		{
+			"RowName": "BASIC_Tile",
+			"BaseClass": "Material'/Game/Materials/Unique/Tiles/BASIC_Tile.BASIC_Tile'",
+			"ParameterName": "Parameter_Texture"
+		},
+		{
+			"RowName": "BASIC_Curtain",
+			"BaseClass": "Material'/Game/Materials/Unique/Curtains/BASIC_Curtain.BASIC_Curtain'",
+			"ParameterName": "Parameter_Texture"
+		},
+		{
+			"RowName": "Wallpaper_Base",
+			"BaseClass": "Material'/Game/Materials/Patterns/Rugs_Wallpaper/Wallpaper/Wallpaper_Base.Wallpaper_Base'",
+			"ParameterName": "Parameter_Texture"
+		},
+		{
+			"RowName": "BASE_Fridge",
+			"BaseClass": "Material'/Game/Materials/Furniture/Fridge/BASE_Fridge.BASE_Fridge'",
+			"ParameterName": "Parameter_Texture"
+		},
+		{
+			"RowName": "BASIC_Blend_Table_Cloth",
+			"BaseClass": "Material'/Game/Materials/Furniture/Basic_Set/BASIC_Blend_Table_Cloth.BASIC_Blend_Table_Cloth'",
+			"ParameterName": "Parameter_Texture"
+		},
+		{
+			"RowName": "BASIC_Chair_Cushion",
+			"BaseClass": "Material'/Game/Materials/Furniture/Festival_Furniture/BASIC_Chair_Cushion.BASIC_Chair_Cushion'",
+			"ParameterName": "Parameter_Texture"
+		},
+		{
+			"RowName": "BASIC_Stone_Latern",
+			"BaseClass": "Material'/Game/Materials/Unique/_BASIC_Stone_Latern._BASIC_Stone_Latern'",
+			"ParameterName": "Parameter_Texture"
+		},
+		{
+			"RowName": "BASIC_Blend_Basic_Wall_Cabinet",
+			"BaseClass": "Material'/Game/Materials/Furniture/Basic_Set/BASIC_Blend_Basic_Wall_Cabinet.BASIC_Blend_Basic_Wall_Cabinet'",
+			"ParameterName": "Parameter_Texture"
+		},
+		{
+			"RowName": "BASIC_Sleek_Couch",
+			"BaseClass": "Material'/Game/Materials/Furniture/Basic_Set/BASIC_Sleek_Couch.BASIC_Sleek_Couch'",
+			"ParameterName": "Parameter_Texture"
+		},
+		{
+			"RowName": "BASIC_Blend_Basic_Couch_Pillow",
+			"BaseClass": "Material'/Game/Materials/Furniture/Basic_Set/BASIC_Blend_Basic_Couch_Pillow.BASIC_Blend_Basic_Couch_Pillow'",
+			"ParameterName": "Parameter_Texture"
+		},
+		{
+			"RowName": "BASIC_Elegant_Couch",
+			"BaseClass": "Material'/Game/Materials/Furniture/Basic_Set/BASIC_Elegant_Couch.BASIC_Elegant_Couch'",
+			"ParameterName": "Parameter_Texture"
+		},
+		{
+			"RowName": "BASIC_Blend_Basic_Lamp",
+			"BaseClass": "Material'/Game/Materials/Furniture/Basic_Set/BASIC_Blend_Basic_Lamp.BASIC_Blend_Basic_Lamp'",
+			"ParameterName": "Parameter_Texture"
+		},
+		{
+			"RowName": "BASIC_Blend_Basic_Antique_Lamp",
+			"BaseClass": "Material'/Game/Materials/Furniture/Basic_Set/BASIC_Blend_Basic_Antique_Lamp.BASIC_Blend_Basic_Antique_Lamp'",
+			"ParameterName": "Parameter_Texture"
+		},
+		{
+			"RowName": "BASIC_Oven_Mitts",
+			"BaseClass": "Material'/Game/Materials/Unique/_BASIC_Oven_Mitts._BASIC_Oven_Mitts'",
+			"ParameterName": "Parameter_Texture"
+		},
+		{
+			"RowName": "BASIC_CRAFT__Peasant_Dress_Unique",
+			"BaseClass": "Material'/Game/Materials/Clothes/Dresses/Peasant_Dress/BASIC_CRAFT__Peasant_Dress_UNique.BASIC_CRAFT__Peasant_Dress_Unique'",
+			"ParameterName": "Parameter_Texture"
+		},
+		{
+			"RowName": "BASIC_Fox_Plushie",
+			"BaseClass": "Material'/Game/Materials/Unique/Plushies/BASIC_Fox_Plushie.BASIC_Fox_Plushie'",
+			"ParameterName": "Parameter_Texture"
+		},
+		{
+			"RowName": "BASE_Lolita_Dress_Unique1",
+			"BaseClass": "Material'/Game/Materials/Clothes/Dresses/Lolita_Dress/BASE_Lolita_Dress_CRAFT1.BASE_Lolita_Dress_CRAFT1'",
+			"ParameterName": "Parameter_Texture"
+		},
+		{
+			"RowName": "BASE_Lolita_Dress_Unique2",
+			"BaseClass": "Material'/Game/Materials/Clothes/Dresses/Lolita_Dress/BASE_Lolita_Dress_CRAFT2.BASE_Lolita_Dress_CRAFT2'",
+			"ParameterName": "Parameter_Texture"
+		},
+		{
+			"RowName": "BASE_Lolita_Dress_Unique3",
+			"BaseClass": "Material'/Game/Materials/Clothes/Dresses/Lolita_Dress/BASE_Lolita_Dress_CRAFT3.BASE_Lolita_Dress_CRAFT3'",
+			"ParameterName": "Parameter_Texture"
+		},
+		{
+			"RowName": "BASE_Varsity_Unique",
+			"BaseClass": "Material'/Game/Materials/Clothes/Jacket/Varisty_Jacket/BASE_Varsity_Crafting.BASE_Varsity_Crafting'",
+			"ParameterName": "Parameter_Texture"
+		},
+		{
+			"RowName": "Crib_Blend",
+			"BaseClass": "Material'/Game/Materials/Furniture/Expansions/Crib_Blend.Crib_Blend'",
+			"ParameterName": "Parameter_Texture"
+		}
+	]
+}

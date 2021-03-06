@@ -1,0 +1,5 @@
+Storage_Containers_Data Structure:
+
+StorageSpace: integer
+StoragePopupTitleOverride: string
+StorageNameTagRadius: float

@@ -1,0 +1,77 @@
+{
+	"Rows": 
+	[
+		{
+			"RowName": "EWeddingQuestType::Clothing_Rose",
+			"Title": "Pick Wedding Attire",
+			"Description": "I should talk to Rose to pick out what I'll wear for the wedding.",
+			"Type": 1
+		},
+		{
+			"RowName": "EWeddingQuestType::Clothing_Kishan",
+			"Title": "Pick Wedding Attire",
+			"Description": "I should talk to Kishan to pick out what I'll wear for the wedding.",
+			"Type": 1
+		},
+		{
+			"RowName": "EWeddingQuestType::Flowers_NIcolas",
+			"Title": "Pick Wedding Flowers",
+			"Description": "I should talk to Nicolas to pick what color flowers I want at my wedding.",
+			"Type": 2
+		},
+		{
+			"RowName": "EWeddingQuestType::Flowers_Jabalah",
+			"Title": "Pick Wedding Flowers",
+			"Description": "I should talk to Jabalah to pick what color flowers I want at my wedding.",
+			"Type": 2
+		},
+		{
+			"RowName": "EWeddingQuestType::Location_Abigail",
+			"Title": "Pick Wedding Location",
+			"Description": "I should talk to Abigail to discuss the wedding location and time.",
+			"Type": 3
+		},
+		{
+			"RowName": "EWeddingQuestType::Location_Finn",
+			"Title": "Pick Wedding Location",
+			"Description": "I should talk to Finn to discuss the wedding location and time.",
+			"Type": 3
+		},
+		{
+			"RowName": "EWeddingQuestType::StartWedding_Abigail",
+			"Title": "Start Wedding!",
+			"Description": "I should talk to Abigail to start the wedding!",
+			"Type": 4
+		},
+		{
+			"RowName": "EWeddingQuestType::StartWedding_Finn",
+			"Title": "Start Wedding!",
+			"Description": "I should talk to Finn to start the wedding!",
+			"Type": 4
+		},
+		{
+			"RowName": "EWeddingQuestType::StartWedding_Lonan",
+			"Title": "Start Wedding!",
+			"Description": "I should talk to Lonan to start the wedding!",
+			"Type": 4
+		},
+		{
+			"RowName": "EWeddingQuestType::Clothing_Hideo",
+			"Title": "Pick Wedding Attire",
+			"Description": "I should talk to Hideo to pick out what I'll wear for the wedding.",
+			"Type": 1
+		},
+		{
+			"RowName": "EWeddingQuestType::Location_Lonan",
+			"Title": "Pick Wedding Location",
+			"Description": "I should talk to Lonan to discuss the wedding location and time.",
+			"Type": 3
+		},
+		{
+			"RowName": "EWeddingQuestType::Flowers_Katherine",
+			"Title": "Pick Wedding Location",
+			"Description": "I should talk to Katherine to pick what color flowers I want at my wedding.",
+			"Type": 2
+		}
+	]
+}

@@ -1,0 +1,73 @@
+{
+	"Rows": 
+	[
+		{
+			"RowName": "FriendshipChangeNeg",
+			"TextureProperty": "Texture2D'/Game/Textures/Icons/Misc/Friendship_Face.Friendship_Face'"
+		},
+		{
+			"RowName": "FriendshipChange",
+			"TextureProperty": "Texture2D'/Game/Textures/Icons/Misc/Friendship_Face.Friendship_Face'"
+		},
+		{
+			"RowName": "ReceivedMail",
+			"TextureProperty": "Texture2D'/Game/Textures/Icons/Misc/Letter.Letter'"
+		},
+		{
+			"RowName": "ClosedLetterReceivedGold",
+			"TextureProperty": "Texture2D'/Game/Textures/Icons/Misc/Coins.Coins'"
+		},
+		{
+			"RowName": "DebtPaid",
+			"TextureProperty": "Texture2D'/Game/Textures/Icons/Misc/Coins.Coins'"
+		},
+		{
+			"RowName": "BeeBoxNoHoney",
+			"TextureProperty": "Texture2D'/Game/Textures/Icons/Herbs/Honey.Honey'"
+		},
+		{
+			"RowName": "SwimmingLosingEnergy",
+			"TextureProperty": "Texture2D'/Game/Textures/Icons/Misc/Sad_Face.Sad_Face'"
+		},
+		{
+			"RowName": "TutLookAtMap",
+			"TextureProperty": "None"
+		},
+		{
+			"RowName": "TutTalkToMayor",
+			"TextureProperty": "None"
+		},
+		{
+			"RowName": "InvFull",
+			"TextureProperty": "None"
+		},
+		{
+			"RowName": "CantHarvestDontOwn",
+			"TextureProperty": "None"
+		},
+		{
+			"RowName": "UnlockedFastTravel",
+			"TextureProperty": "None"
+		},
+		{
+			"RowName": "ReceivedGoldReward",
+			"TextureProperty": "Texture2D'/Game/Textures/Icons/Misc/Coins.Coins'"
+		},
+		{
+			"RowName": "GamepadDetected",
+			"TextureProperty": "None"
+		},
+		{
+			"RowName": "Chicken",
+			"TextureProperty": "Texture2D'/Game/Textures/Icons/Animals/Chicken.Chicken'"
+		},
+		{
+			"RowName": "Horse",
+			"TextureProperty": "Texture2D'/Game/Textures/Icons/Animals/Horse.Horse'"
+		},
+		{
+			"RowName": "MultiplayerQuest",
+			"TextureProperty": "None"
+		}
+	]
+}

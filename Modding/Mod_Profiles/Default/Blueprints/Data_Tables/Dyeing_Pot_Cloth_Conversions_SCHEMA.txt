@@ -1,0 +1,3 @@
+Dyeing_Pot_Cloth_Conversions Structure:
+
+NameProperty: string

@@ -1,0 +1,371 @@
+{
+	"Rows": 
+	[
+		{
+			"RowName": "Socks_Dark_Red",
+			"MaterialSlots":
+			[ 5, 4, 12 ],
+			"Material": "MaterialInstanceConstant'/Game/Materials/Clothes/Socks/Socks_Dark_Red.Socks_Dark_Red'"
+		},
+		{
+			"RowName": "Socks_Black",
+			"MaterialSlots":
+			[ 5, 12, 4 ],
+			"Material": "MaterialInstanceConstant'/Game/Materials/Clothes/Socks/Socks_Black.Socks_Black'"
+		},
+		{
+			"RowName": "Socks_Blue",
+			"MaterialSlots":
+			[ 5, 4, 12 ],
+			"Material": "MaterialInstanceConstant'/Game/Materials/Clothes/Socks/Socks_Blue.Socks_Blue'"
+		},
+		{
+			"RowName": "Socks_Coffee",
+			"MaterialSlots":
+			[ 5, 4, 12 ],
+			"Material": "MaterialInstanceConstant'/Game/Materials/Clothes/Socks/Socks_Coffee.Socks_Coffee'"
+		},
+		{
+			"RowName": "Socks_Dark_Blue",
+			"MaterialSlots":
+			[ 5, 4, 12 ],
+			"Material": "MaterialInstanceConstant'/Game/Materials/Clothes/Socks/Socks_Dark_Blue.Socks_Dark_Blue'"
+		},
+		{
+			"RowName": "Socks_Dark_Brown",
+			"MaterialSlots":
+			[ 5, 4, 12 ],
+			"Material": "MaterialInstanceConstant'/Game/Materials/Clothes/Socks/Socks_Dark_Brown.Socks_Dark_Brown'"
+		},
+		{
+			"RowName": "Socks_Dark_Green",
+			"MaterialSlots":
+			[ 5, 12, 4 ],
+			"Material": "MaterialInstanceConstant'/Game/Materials/Clothes/Socks/Socks_Dark_Green.Socks_Dark_Green'"
+		},
+		{
+			"RowName": "Socks_Green",
+			"MaterialSlots":
+			[ 5, 4, 12 ],
+			"Material": "MaterialInstanceConstant'/Game/Materials/Clothes/Socks/Socks_Green.Socks_Green'"
+		},
+		{
+			"RowName": "Socks_Grey",
+			"MaterialSlots":
+			[ 5, 4, 12 ],
+			"Material": "MaterialInstanceConstant'/Game/Materials/Clothes/Socks/Socks_Grey.Socks_Grey'"
+		},
+		{
+			"RowName": "Socks_Light_Blue",
+			"MaterialSlots":
+			[ 5, 4, 12 ],
+			"Material": "MaterialInstanceConstant'/Game/Materials/Clothes/Socks/Socks_Light_Blue.Socks_Light_Blue'"
+		},
+		{
+			"RowName": "Socks_Magenta",
+			"MaterialSlots":
+			[ 5, 4, 12 ],
+			"Material": "MaterialInstanceConstant'/Game/Materials/Clothes/Socks/Socks_Magenta.Socks_Magenta'"
+		},
+		{
+			"RowName": "Socks_Orange",
+			"MaterialSlots":
+			[ 5, 4, 12 ],
+			"Material": "MaterialInstanceConstant'/Game/Materials/Clothes/Socks/Socks_Orange.Socks_Orange'"
+		},
+		{
+			"RowName": "Socks_Pink",
+			"MaterialSlots":
+			[ 5, 4, 12 ],
+			"Material": "MaterialInstanceConstant'/Game/Materials/Clothes/Socks/Socks_Pink.Socks_Pink'"
+		},
+		{
+			"RowName": "Socks_Purple",
+			"MaterialSlots":
+			[ 5, 4, 12 ],
+			"Material": "MaterialInstanceConstant'/Game/Materials/Clothes/Socks/Socks_Purple.Socks_Purple'"
+		},
+		{
+			"RowName": "Socks_Red",
+			"MaterialSlots":
+			[ 5, 12, 4 ],
+			"Material": "MaterialInstanceConstant'/Game/Materials/Clothes/Socks/Socks_Red.Socks_Red'"
+		},
+		{
+			"RowName": "Socks_White",
+			"MaterialSlots":
+			[ 5, 4, 12 ],
+			"Material": "MaterialInstanceConstant'/Game/Materials/Clothes/Socks/Socks_White.Socks_White'"
+		},
+		{
+			"RowName": "Socks_Yellow",
+			"MaterialSlots":
+			[ 5, 4, 12 ],
+			"Material": "MaterialInstanceConstant'/Game/Materials/Clothes/Socks/Socks_Yellow.Socks_Yellow'"
+		},
+		{
+			"RowName": "Socks_Pattern_Missing_Dots_Black",
+			"MaterialSlots":
+			[ 5, 12, 4, 9 ],
+			"Material": "MaterialInstanceConstant'/Game/Materials/Clothes/Socks/Socks_Pattern_Missing_Dots_Black.Socks_Pattern_Missing_Dots_Black'"
+		},
+		{
+			"RowName": "Socks_Pattern_Missing_Dots_Blue",
+			"MaterialSlots":
+			[ 5, 12, 4, 9 ],
+			"Material": "MaterialInstanceConstant'/Game/Materials/Clothes/Socks/Socks_Pattern_Missing_Dots_Blue.Socks_Pattern_Missing_Dots_Blue'"
+		},
+		{
+			"RowName": "Socks_Pattern_Missing_Dots_Burgundy",
+			"MaterialSlots":
+			[ 5, 12, 4, 9 ],
+			"Material": "MaterialInstanceConstant'/Game/Materials/Clothes/Socks/Socks_Pattern_Missing_Dots_Burgundy.Socks_Pattern_Missing_Dots_Burgundy'"
+		},
+		{
+			"RowName": "Socks_Pattern_Missing_Dots_Cream",
+			"MaterialSlots":
+			[ 5, 12, 4, 9 ],
+			"Material": "MaterialInstanceConstant'/Game/Materials/Clothes/Socks/Socks_Pattern_Missing_Dots_Cream.Socks_Pattern_Missing_Dots_Cream'"
+		},
+		{
+			"RowName": "Socks_Pattern_Missing_Dots_Green",
+			"MaterialSlots":
+			[ 5, 12, 9, 4 ],
+			"Material": "MaterialInstanceConstant'/Game/Materials/Clothes/Socks/Socks_Pattern_Missing_Dots_Green.Socks_Pattern_Missing_Dots_Green'"
+		},
+		{
+			"RowName": "Socks_Pattern_Missing_Dots_Grey",
+			"MaterialSlots":
+			[ 5, 12, 4, 9 ],
+			"Material": "MaterialInstanceConstant'/Game/Materials/Clothes/Socks/Socks_Pattern_Missing_Dots_Grey.Socks_Pattern_Missing_Dots_Grey'"
+		},
+		{
+			"RowName": "Socks_Pattern_Missing_Dots_Pink",
+			"MaterialSlots":
+			[ 5, 12, 4, 9 ],
+			"Material": "MaterialInstanceConstant'/Game/Materials/Clothes/Socks/Socks_Pattern_Missing_Dots_Pink.Socks_Pattern_Missing_Dots_Pink'"
+		},
+		{
+			"RowName": "Socks_Pattern_Missing_Dots_Purple",
+			"MaterialSlots":
+			[ 5, 12, 9, 4 ],
+			"Material": "MaterialInstanceConstant'/Game/Materials/Clothes/Socks/Socks_Pattern_Missing_Dots_Purple.Socks_Pattern_Missing_Dots_Purple'"
+		},
+		{
+			"RowName": "Socks_Pattern_Streaky_Lines_Black",
+			"MaterialSlots":
+			[ 5, 12, 4, 9 ],
+			"Material": "MaterialInstanceConstant'/Game/Materials/Clothes/Socks/Socks_Pattern_Streaky_Lines_Black.Socks_Pattern_Streaky_Lines_Black'"
+		},
+		{
+			"RowName": "Socks_Pattern_Streaky_Lines_Blue",
+			"MaterialSlots":
+			[ 5, 12, 4, 9 ],
+			"Material": "MaterialInstanceConstant'/Game/Materials/Clothes/Socks/Socks_Pattern_Streaky_Lines_Blue.Socks_Pattern_Streaky_Lines_Blue'"
+		},
+		{
+			"RowName": "Socks_Pattern_Streaky_Lines_Cream",
+			"MaterialSlots":
+			[ 5, 12, 4, 9 ],
+			"Material": "MaterialInstanceConstant'/Game/Materials/Clothes/Socks/Socks_Pattern_Streaky_Lines_Cream.Socks_Pattern_Streaky_Lines_Cream'"
+		},
+		{
+			"RowName": "Socks_Pattern_Streaky_Lines_Green",
+			"MaterialSlots":
+			[ 5, 12, 4, 9 ],
+			"Material": "MaterialInstanceConstant'/Game/Materials/Clothes/Socks/Socks_Pattern_Streaky_Lines_Green.Socks_Pattern_Streaky_Lines_Green'"
+		},
+		{
+			"RowName": "Socks_Pattern_Streaky_Lines_Grey",
+			"MaterialSlots":
+			[ 5, 12, 4, 9 ],
+			"Material": "MaterialInstanceConstant'/Game/Materials/Clothes/Socks/Socks_Pattern_Streaky_Lines_Grey.Socks_Pattern_Streaky_Lines_Grey'"
+		},
+		{
+			"RowName": "Socks_Pattern_Streaky_Lines_Pink",
+			"MaterialSlots":
+			[ 5, 12, 4, 9 ],
+			"Material": "MaterialInstanceConstant'/Game/Materials/Clothes/Socks/Socks_Pattern_Streaky_Lines_Pink.Socks_Pattern_Streaky_Lines_Pink'"
+		},
+		{
+			"RowName": "Socks_Pattern_Streaky_Lines_Purple",
+			"MaterialSlots":
+			[ 5, 12, 4, 9 ],
+			"Material": "MaterialInstanceConstant'/Game/Materials/Clothes/Socks/Socks_Pattern_Streaky_Lines_Purple.Socks_Pattern_Streaky_Lines_Purple'"
+		},
+		{
+			"RowName": "Socks_Pattern_Streaky_Lines_Reds",
+			"MaterialSlots":
+			[ 5, 12, 4, 9 ],
+			"Material": "MaterialInstanceConstant'/Game/Materials/Clothes/Socks/Socks_Pattern_Streaky_Lines_Reds.Socks_Pattern_Streaky_Lines_Reds'"
+		},
+		{
+			"RowName": "Socks_Pattern_Checkered_Blue",
+			"MaterialSlots":
+			[ 5, 12, 4, 9 ],
+			"Material": "MaterialInstanceConstant'/Game/Materials/Clothes/Socks/Socks_Pattern_Checkered_Blue.Socks_Pattern_Checkered_Blue'"
+		},
+		{
+			"RowName": "Socks_Pattern_Checkered_Pink",
+			"MaterialSlots":
+			[ 5, 12, 4, 9 ],
+			"Material": "MaterialInstanceConstant'/Game/Materials/Clothes/Socks/Socks_Pattern_Checkered_Pink.Socks_Pattern_Checkered_Pink'"
+		},
+		{
+			"RowName": "Socks_Pattern_Checkered_Green",
+			"MaterialSlots":
+			[ 5, 12, 4, 9 ],
+			"Material": "MaterialInstanceConstant'/Game/Materials/Clothes/Socks/Socks_Pattern_Checkered_Green.Socks_Pattern_Checkered_Green'"
+		},
+		{
+			"RowName": "Socks_Pattern_Checkered_Red",
+			"MaterialSlots":
+			[ 5, 12, 4, 9 ],
+			"Material": "MaterialInstanceConstant'/Game/Materials/Clothes/Socks/Socks_Pattern_Checkered_Red.Socks_Pattern_Checkered_Red'"
+		},
+		{
+			"RowName": "Socks_Pattern_Checkered_Yellow",
+			"MaterialSlots":
+			[ 5, 12, 9, 4 ],
+			"Material": "MaterialInstanceConstant'/Game/Materials/Clothes/Socks/Socks_Pattern_Checkered_Yellow.Socks_Pattern_Checkered_Yellow'"
+		},
+		{
+			"RowName": "Socks_Stripes_Blue_Black",
+			"MaterialSlots":
+			[ 5, 12, 9, 4 ],
+			"Material": "MaterialInstanceConstant'/Game/Materials/Clothes/Socks/Socks_Stripes_Blue_Black.Socks_Stripes_Blue_Black'"
+		},
+		{
+			"RowName": "Socks_Stripes_Green_Black",
+			"MaterialSlots":
+			[ 5, 12, 9, 4 ],
+			"Material": "MaterialInstanceConstant'/Game/Materials/Clothes/Socks/Socks_Stripes_Green_Black.Socks_Stripes_Green_Black'"
+		},
+		{
+			"RowName": "Socks_Stripes_Magenta_Black",
+			"MaterialSlots":
+			[ 5, 12, 9, 4 ],
+			"Material": "MaterialInstanceConstant'/Game/Materials/Clothes/Socks/Socks_Stripes_Magenta_Black.Socks_Stripes_Magenta_Black'"
+		},
+		{
+			"RowName": "Socks_Stripes_Orange_Black",
+			"MaterialSlots":
+			[ 5, 12, 9, 4 ],
+			"Material": "MaterialInstanceConstant'/Game/Materials/Clothes/Socks/Socks_Stripes_Orange_Black.Socks_Stripes_Orange_Black'"
+		},
+		{
+			"RowName": "Socks_Stripes_Purple_Black",
+			"MaterialSlots":
+			[ 5, 12, 9, 4 ],
+			"Material": "MaterialInstanceConstant'/Game/Materials/Clothes/Socks/Socks_Stripes_Purple_Black.Socks_Stripes_Purple_Black'"
+		},
+		{
+			"RowName": "Socks_Stripes_Red_Black",
+			"MaterialSlots":
+			[ 5, 12, 9, 4 ],
+			"Material": "MaterialInstanceConstant'/Game/Materials/Clothes/Socks/Socks_Stripes_Red_Black.Socks_Stripes_Red_Black'"
+		},
+		{
+			"RowName": "Socks_Stripes_White_Black",
+			"MaterialSlots":
+			[ 5, 12, 9, 4 ],
+			"Material": "MaterialInstanceConstant'/Game/Materials/Clothes/Socks/Socks_Stripes_White_Black.Socks_Stripes_White_Black'"
+		},
+		{
+			"RowName": "Socks_Stripes_Yellow_Black",
+			"MaterialSlots":
+			[ 5, 12, 9, 4 ],
+			"Material": "MaterialInstanceConstant'/Game/Materials/Clothes/Socks/Socks_Stripes_Yellow_Black.Socks_Stripes_Yellow_Black'"
+		},
+		{
+			"RowName": "Socks_Knee_High_Coffee",
+			"MaterialSlots":
+			[ 5, 12, 9, 4 ],
+			"Material": "MaterialInstanceConstant'/Game/Materials/Clothes/Socks/Socks_Coffee.Socks_Coffee'"
+		},
+		{
+			"RowName": "Socks_Knee_High_Dark_Blue",
+			"MaterialSlots":
+			[ 5, 12, 9, 4 ],
+			"Material": "MaterialInstanceConstant'/Game/Materials/Clothes/Socks/Socks_Dark_Blue.Socks_Dark_Blue'"
+		},
+		{
+			"RowName": "Socks_Knee_High_Dark_Brown",
+			"MaterialSlots":
+			[ 5, 12, 9, 4 ],
+			"Material": "MaterialInstanceConstant'/Game/Materials/Clothes/Socks/Socks_Dark_Brown.Socks_Dark_Brown'"
+		},
+		{
+			"RowName": "Socks_Knee_High_Dark_Green",
+			"MaterialSlots":
+			[ 5, 12, 9, 4 ],
+			"Material": "MaterialInstanceConstant'/Game/Materials/Clothes/Socks/Socks_Dark_Green.Socks_Dark_Green'"
+		},
+		{
+			"RowName": "Socks_Knee_High_Dark_Red",
+			"MaterialSlots":
+			[ 5, 12, 9, 4 ],
+			"Material": "MaterialInstanceConstant'/Game/Materials/Clothes/Socks/Socks_Dark_Red.Socks_Dark_Red'"
+		},
+		{
+			"RowName": "Socks_Knee_High_Green",
+			"MaterialSlots":
+			[ 5, 12, 9, 4 ],
+			"Material": "MaterialInstanceConstant'/Game/Materials/Clothes/Socks/Socks_Green.Socks_Green'"
+		},
+		{
+			"RowName": "Socks_Knee_High_Grey",
+			"MaterialSlots":
+			[ 5, 12, 9, 4 ],
+			"Material": "MaterialInstanceConstant'/Game/Materials/Clothes/Socks/Socks_Grey.Socks_Grey'"
+		},
+		{
+			"RowName": "Socks_Knee_High_White",
+			"MaterialSlots":
+			[ 5, 12, 9, 4 ],
+			"Material": "MaterialInstanceConstant'/Game/Materials/Clothes/Socks/Socks_White.Socks_White'"
+		},
+		{
+			"RowName": "Socks_Knee_High_Light_Blue",
+			"MaterialSlots":
+			[ 5, 12, 9, 4 ],
+			"Material": "MaterialInstanceConstant'/Game/Materials/Clothes/Socks/Socks_Light_Blue.Socks_Light_Blue'"
+		},
+		{
+			"RowName": "Socks_Knee_High_Magenta",
+			"MaterialSlots":
+			[ 5, 12, 9, 4 ],
+			"Material": "MaterialInstanceConstant'/Game/Materials/Clothes/Socks/Socks_Magenta.Socks_Magenta'"
+		},
+		{
+			"RowName": "Socks_Knee_High_Orange",
+			"MaterialSlots":
+			[ 5, 12, 9, 4 ],
+			"Material": "MaterialInstanceConstant'/Game/Materials/Clothes/Socks/Socks_Orange.Socks_Orange'"
+		},
+		{
+			"RowName": "Socks_Knee_High_Pink",
+			"MaterialSlots":
+			[ 5, 12, 9, 4 ],
+			"Material": "MaterialInstanceConstant'/Game/Materials/Clothes/Socks/Socks_Pink.Socks_Pink'"
+		},
+		{
+			"RowName": "Socks_Knee_High_Purple",
+			"MaterialSlots":
+			[ 5, 12, 9, 4 ],
+			"Material": "MaterialInstanceConstant'/Game/Materials/Clothes/Socks/Socks_Purple.Socks_Purple'"
+		},
+		{
+			"RowName": "Socks_Knee_High_Red",
+			"MaterialSlots":
+			[ 5, 12, 9, 4 ],
+			"Material": "MaterialInstanceConstant'/Game/Materials/Clothes/Socks/Socks_Red.Socks_Red'"
+		},
+		{
+			"RowName": "Socks_Knee_High_Yellow",
+			"MaterialSlots":
+			[ 5, 12, 9, 4 ],
+			"Material": "MaterialInstanceConstant'/Game/Materials/Clothes/Socks/Socks_Yellow.Socks_Yellow'"
+		}
+	]
+}

@@ -1,0 +1,49 @@
+{
+	"Rows": 
+	[
+		{
+			"RowName": "NoPath",
+			"Tier": 0,
+			"HeartColor": 
+			{
+				"B": 230,
+				"G": 161,
+				"R": 0,
+				"A": 255
+			}
+		},
+		{
+			"RowName": "FriendPath",
+			"Tier": 1,
+			"HeartColor": 
+			{
+				"B": 0,
+				"G": 77,
+				"R": 231,
+				"A": 255
+			}
+		},
+		{
+			"RowName": "LoverPath",
+			"Tier": 2,
+			"HeartColor": 
+			{
+				"B": 18,
+				"G": 0,
+				"R": 255,
+				"A": 255
+			}
+		},
+		{
+			"RowName": "LoverPath_Primary",
+			"Tier": 0,
+			"HeartColor": 
+			{
+				"B": 234,
+				"G": 82,
+				"R": 209,
+				"A": 255
+			}
+		}
+	]
+}

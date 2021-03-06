@@ -1,0 +1,1643 @@
+{
+	"Rows": 
+	[
+		{
+			"RowName": "Frilly_Shirt_Black",
+			"Row": "Frilly_Shirt_Black",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Clothes/Tube_Top_Icon_Brown.Tube_Top_Icon_Brown'",
+			"FriendlyName": "Frilly Shirt",
+			"Category": "Shirts",
+			"Slots":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Slot": "Fabric_1",
+						"MaterialBaseClass": "BASIC_CRAFTING_Frilly_Shirt_Blend"
+					}
+				}
+			],
+			"ProducedFurnitureItem": "Frilly_Shirt_Black",
+			"RecipeDifficulty": 0,
+			"Steps":
+			[ 8 ],
+			"PreviewLocOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			},
+			"PreviewMeshOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Heart_Shirt_Black",
+			"Row": "Heart_Shirt_Black",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Clothes/Heart_Top_Icon_Orange.Heart_Top_Icon_Orange'",
+			"FriendlyName": "Heart Shirt",
+			"Category": "Shirts",
+			"Slots":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Slot": "Fabric_1",
+						"MaterialBaseClass": "BASIC_CRAFTING_Heart_Shirt_Blend"
+					}
+				}
+			],
+			"ProducedFurnitureItem": "Heart_Shirt_Black",
+			"RecipeDifficulty": 0,
+			"Steps":
+			[ 8 ],
+			"PreviewLocOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			},
+			"PreviewMeshOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Poet_Shirt_Black",
+			"Row": "Poet_Shirt_Black",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Clothes/Camp_Shirt_Icon_Orange.Camp_Shirt_Icon_Orange'",
+			"FriendlyName": "Poet Shirt",
+			"Category": "Shirts",
+			"Slots":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Slot": "Fabric_1",
+						"MaterialBaseClass": "BASIC_CRAFT_Poet_Shirt_Blend"
+					}
+				}
+			],
+			"ProducedFurnitureItem": "Poet_Shirt_Black",
+			"RecipeDifficulty": 1,
+			"Steps":
+			[ 8 ],
+			"PreviewLocOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			},
+			"PreviewMeshOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Sassy_Shirt_Black",
+			"Row": "Sassy_Shirt_Black",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Clothes/T_Shirt_Icon_Orange.T_Shirt_Icon_Orange'",
+			"FriendlyName": "Sassy Shirt",
+			"Category": "Shirts",
+			"Slots":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Slot": "Fabric_1",
+						"MaterialBaseClass": "BASIC_CRAFTIN_Sassy_Shirt_Blend"
+					}
+				}
+			],
+			"ProducedFurnitureItem": "Sassy_Shirt_Black",
+			"RecipeDifficulty": 0,
+			"Steps":
+			[ 8 ],
+			"PreviewLocOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			},
+			"PreviewMeshOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Short_Top_Black",
+			"Row": "Short_Top_Black",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Clothes/T_Shirt_Icon_Orange.T_Shirt_Icon_Orange'",
+			"FriendlyName": "Short Top",
+			"Category": "Shirts",
+			"Slots":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Slot": "Fabric_1",
+						"MaterialBaseClass": "BASIC_CRAFTING_Short_Top_Blend"
+					}
+				}
+			],
+			"ProducedFurnitureItem": "Short_Top_Black",
+			"RecipeDifficulty": 0,
+			"Steps":
+			[ 8 ],
+			"PreviewLocOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			},
+			"PreviewMeshOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Sleeveless_Shirt_Black",
+			"Row": "Sleeveless_Shirt_Black",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Clothes/Spaghetti_Strap_Icon_Orange.Spaghetti_Strap_Icon_Orange'",
+			"FriendlyName": "Sleeveless Shirt",
+			"Category": "Shirts",
+			"Slots":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Slot": "Fabric_1",
+						"MaterialBaseClass": "BASIC_Crafting_Sleeveless_Shirt_Blend"
+					}
+				}
+			],
+			"ProducedFurnitureItem": "Sleeveless_Shirt_Black",
+			"RecipeDifficulty": 1,
+			"Steps":
+			[ 8 ],
+			"PreviewLocOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			},
+			"PreviewMeshOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Spaghetti_Strap_Shirt_Black",
+			"Row": "Spaghetti_Strap_Shirt_Black",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Clothes/Spaghetti_Strap_Icon_Orange.Spaghetti_Strap_Icon_Orange'",
+			"FriendlyName": "Spaghetti Strap Shirt",
+			"Category": "Shirts",
+			"Slots":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Slot": "Fabric_1",
+						"MaterialBaseClass": "BASIC_Crafting_Spaghetti_Shirt_Blend"
+					}
+				}
+			],
+			"ProducedFurnitureItem": "Spaghetti_Strap_Shirt_Black",
+			"RecipeDifficulty": 1,
+			"Steps":
+			[ 8 ],
+			"PreviewLocOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			},
+			"PreviewMeshOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "T_Shirt_Black",
+			"Row": "T_Shirt_Black",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Clothes/T_Shirt_Icon_Orange.T_Shirt_Icon_Orange'",
+			"FriendlyName": "T-Shirt",
+			"Category": "Shirts",
+			"Slots":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Slot": "Fabric_1",
+						"MaterialBaseClass": "BASIC_Crafting_TShirt_Blend"
+					}
+				}
+			],
+			"ProducedFurnitureItem": "T_Shirt_Black",
+			"RecipeDifficulty": 1,
+			"Steps":
+			[ 8 ],
+			"PreviewLocOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			},
+			"PreviewMeshOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "V_Neck_Dress_Black",
+			"Row": "V_Neck_Dress_Black",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Clothes/Dress_Icon_Orange.Dress_Icon_Orange'",
+			"FriendlyName": "V-Neck Dress",
+			"Category": "Shirts",
+			"Slots":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Slot": "Fabric_1",
+						"MaterialBaseClass": "BASIC_Crafting_VNeck_Dress_Shirt_Blend"
+					}
+				}
+			],
+			"ProducedFurnitureItem": "V_Neck_Dress_Black",
+			"RecipeDifficulty": 2,
+			"Steps":
+			[ 8 ],
+			"PreviewLocOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			},
+			"PreviewMeshOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Board_Shorts_Black",
+			"Row": "Board_Shorts_Black",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Clothes/Board_Shorts_Icon_Orange.Board_Shorts_Icon_Orange'",
+			"FriendlyName": "Board Shorts",
+			"Category": "Pants",
+			"Slots":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Slot": "Fabric_1",
+						"MaterialBaseClass": "BASIC_Crafting_Board_Shorts_Board"
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Slot": "Fabric_1",
+						"MaterialBaseClass": "BASIC_Crafting_Board_Shorts_Board"
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Slot": "Fabric_1",
+						"MaterialBaseClass": "BASIC_Crafting_Board_Shorts_Board"
+					}
+				}
+			],
+			"ProducedFurnitureItem": "Board_Shorts_Black",
+			"RecipeDifficulty": 1,
+			"Steps":
+			[ 8 ],
+			"PreviewLocOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			},
+			"PreviewMeshOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Black_Jeans",
+			"Row": "Black_Jeans",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Clothes/Long_Pants_Icon_Orange.Long_Pants_Icon_Orange'",
+			"FriendlyName": "Jeans",
+			"Category": "Pants",
+			"Slots":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Slot": "Fabric_1",
+						"MaterialBaseClass": "BASIC_CRAFTING_Pants_Jeans"
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Slot": "Fabric_1",
+						"MaterialBaseClass": "BASIC_CRAFTING_Pants_Jeans"
+					}
+				}
+			],
+			"ProducedFurnitureItem": "Black_Jeans",
+			"RecipeDifficulty": 1,
+			"Steps":
+			[ 8 ],
+			"PreviewLocOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			},
+			"PreviewMeshOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Capris_Black",
+			"Row": "Capris_Black",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Clothes/Long_Pants_Icon_Orange.Long_Pants_Icon_Orange'",
+			"FriendlyName": "Capris",
+			"Category": "Pants",
+			"Slots":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Slot": "Fabric_1",
+						"MaterialBaseClass": "BASIC_CRAFTING_Pants_Jeans"
+					}
+				}
+			],
+			"ProducedFurnitureItem": "Capris_Black",
+			"RecipeDifficulty": 1,
+			"Steps":
+			[ 8 ],
+			"PreviewLocOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			},
+			"PreviewMeshOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Cargo_Pants_Black",
+			"Row": "Cargo_Pants_Black",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Clothes/Cargo_Pants_Icon_Orange.Cargo_Pants_Icon_Orange'",
+			"FriendlyName": "Cargo Pants",
+			"Category": "Pants",
+			"Slots":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Slot": "Fabric_1",
+						"MaterialBaseClass": "BASIC_CRAFTING_Cargo_Pants"
+					}
+				}
+			],
+			"ProducedFurnitureItem": "Cargo_Pants_Black",
+			"RecipeDifficulty": 1,
+			"Steps":
+			[ 8 ],
+			"PreviewLocOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			},
+			"PreviewMeshOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Overalls_Black",
+			"Row": "Overalls_Black",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Clothes/Long_Pants_Icon_Black.Long_Pants_Icon_Black'",
+			"FriendlyName": "Overalls ",
+			"Category": "Pants",
+			"Slots":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Slot": "Fabric_1",
+						"MaterialBaseClass": "BASIC_Crafting_Overall_Pants"
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Slot": "Fabric_1",
+						"MaterialBaseClass": "BASIC_Crafting_Overall_Pants"
+					}
+				}
+			],
+			"ProducedFurnitureItem": "Overalls_Black",
+			"RecipeDifficulty": 1,
+			"Steps":
+			[ 8 ],
+			"PreviewLocOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			},
+			"PreviewMeshOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Hammer_Pants_Black",
+			"Row": "Hammer_Pants_Black",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Clothes/Harlem_Pants_Icon_Orange.Harlem_Pants_Icon_Orange'",
+			"FriendlyName": "Harlem Pants",
+			"Category": "Pants",
+			"Slots":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Slot": "Fabric_1",
+						"MaterialBaseClass": "BASIC_Crafting_Hammer_Pants"
+					}
+				}
+			],
+			"ProducedFurnitureItem": "Hammer_Pants_Black",
+			"RecipeDifficulty": 1,
+			"Steps":
+			[ 8 ],
+			"PreviewLocOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			},
+			"PreviewMeshOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Shorts_Black",
+			"Row": "Shorts_Black",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Clothes/Board_Shorts_Icon_Orange.Board_Shorts_Icon_Orange'",
+			"FriendlyName": "Shorts",
+			"Category": "Pants",
+			"Slots":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Slot": "Fabric_1",
+						"MaterialBaseClass": "BASIC_Crafting_Shorts_Blend"
+					}
+				}
+			],
+			"ProducedFurnitureItem": "Shorts_Black",
+			"RecipeDifficulty": 0,
+			"Steps":
+			[ 8 ],
+			"PreviewLocOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			},
+			"PreviewMeshOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Sweatpants_Black",
+			"Row": "Sweatpants_Black",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Clothes/Long_Pants_Icon_Orange.Long_Pants_Icon_Orange'",
+			"FriendlyName": "Sweatpants",
+			"Category": "Pants",
+			"Slots":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Slot": "Fabric_1",
+						"MaterialBaseClass": "BASIC_Crafting_Sweatpants_Blend"
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Slot": "Fabric_1",
+						"MaterialBaseClass": "BASIC_Crafting_Sweatpants_Blend"
+					}
+				}
+			],
+			"ProducedFurnitureItem": "Sweatpants_Black",
+			"RecipeDifficulty": 0,
+			"Steps":
+			[ 8 ],
+			"PreviewLocOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			},
+			"PreviewMeshOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Boots_Plain_Black",
+			"Row": "Boots_Plain_Black",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Clothes/Shoes.Shoes'",
+			"FriendlyName": "Boots",
+			"Category": "Shoes",
+			"Slots":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Slot": "Fabric_1",
+						"MaterialBaseClass": "BASIC_CraftingBoots_Plain"
+					}
+				}
+			],
+			"ProducedFurnitureItem": "Boots_Plain_Black",
+			"RecipeDifficulty": 1,
+			"Steps":
+			[ 8 ],
+			"PreviewLocOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 100
+			},
+			"PreviewMeshOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Flip_Flops_Black",
+			"Row": "Flip_Flops_Black",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Clothes/Shoes.Shoes'",
+			"FriendlyName": "Flip Flops",
+			"Category": "Shoes",
+			"Slots":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Slot": "Fabric_1",
+						"MaterialBaseClass": "BASIC_Crafting_Flip_Flop"
+					}
+				}
+			],
+			"ProducedFurnitureItem": "Flip_Flops_Black",
+			"RecipeDifficulty": 1,
+			"Steps":
+			[ 8 ],
+			"PreviewLocOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			},
+			"PreviewMeshOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Loafers_Black",
+			"Row": "Loafers_Black",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Clothes/Shoes.Shoes'",
+			"FriendlyName": "Loafers",
+			"Category": "Shoes",
+			"Slots":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Slot": "Fabric_1",
+						"MaterialBaseClass": "BASIC_Crafting_Loafers_Plain"
+					}
+				}
+			],
+			"ProducedFurnitureItem": "Loafers_Black",
+			"RecipeDifficulty": 1,
+			"Steps":
+			[ 8 ],
+			"PreviewLocOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			},
+			"PreviewMeshOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Collared_Shirt_Opened_Black",
+			"Row": "Collared_Shirt_Opened_Black",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Clothes/Dress_Shirt_Icon_Orange.Dress_Shirt_Icon_Orange'",
+			"FriendlyName": "Collared Shirt",
+			"Category": "Shirts",
+			"Slots":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Slot": "Fabric_1",
+						"MaterialBaseClass": "BASIC_Crafting_Collared_Shirt_Open"
+					}
+				}
+			],
+			"ProducedFurnitureItem": "Collared_Shirt_Opened_Black",
+			"RecipeDifficulty": 1,
+			"Steps":
+			[ 8 ],
+			"PreviewLocOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			},
+			"PreviewMeshOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Collared_Dress_Black",
+			"Row": "Collared_Dress_Black",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Clothes/Dress_Icon_Orange.Dress_Icon_Orange'",
+			"FriendlyName": "Collared Dress",
+			"Category": "Dresses",
+			"Slots":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Slot": "Fabric_1",
+						"MaterialBaseClass": "BASIC_Crafting_Collared_DressBlend"
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Slot": "Fabric_2",
+						"MaterialBaseClass": "BASIC_Crafting_Collared_DressBlend"
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Slot": "Fabric_3",
+						"MaterialBaseClass": "BASIC_Crafting_Collared_Dress_Blend_Dark"
+					}
+				}
+			],
+			"ProducedFurnitureItem": "Collared_Dress_Black",
+			"RecipeDifficulty": 2,
+			"Steps":
+			[ 8 ],
+			"PreviewLocOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			},
+			"PreviewMeshOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Suit_Turtle_Neck_Sweater_Tan_Red",
+			"Row": "Suit_Turtle_Neck_Sweater_Tan_Red",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Clothes/TurtleNeck_Sweater_Orange_Icon.TurtleNeck_Sweater_Orange_Icon'",
+			"FriendlyName": "Suit with Turtle Neck",
+			"Category": "Shirts",
+			"Slots":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Slot": "Fabric_4",
+						"MaterialBaseClass": "BASIC_Crafting_Suit_Turtle_Neck_Sweater_Blend"
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Slot": "Fabric_1",
+						"MaterialBaseClass": "BASIC_Crafting_Suit_Turtle_Neck_Sweater_Blend"
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Slot": "Fabric_2",
+						"MaterialBaseClass": "BASIC_Crafting_Suit_Turtle_Neck_Sweater_Blend"
+					}
+				}
+			],
+			"ProducedFurnitureItem": "Suit_Turtle_Neck_Sweater_Tan_Red",
+			"RecipeDifficulty": 2,
+			"Steps":
+			[ 8 ],
+			"PreviewLocOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			},
+			"PreviewMeshOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Collared_Shirt_White_Tie_Black",
+			"Row": "Collared_Shirt_White_Tie_Black",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Clothes/Dress_Shirt_Icon_Orange.Dress_Shirt_Icon_Orange'",
+			"FriendlyName": "Collared Shirt With Tie",
+			"Category": "Shirts",
+			"Slots":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Slot": "Fabric_1",
+						"MaterialBaseClass": "BASIC_Craft_Collared_Shirt_Tie_Blend"
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Slot": "Fabric_5",
+						"MaterialBaseClass": "BASIC_CRAFTING_Tie_Blend"
+					}
+				}
+			],
+			"ProducedFurnitureItem": "Collared_Shirt_White_Tie_Black",
+			"RecipeDifficulty": 1,
+			"Steps":
+			[ 8 ],
+			"PreviewLocOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			},
+			"PreviewMeshOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Collared_Shirt_Long_Black",
+			"Row": "Collared_Shirt_Long_Black",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Clothes/Dress_Shirt_Long_Sleeves_Icon_Orange.Dress_Shirt_Long_Sleeves_Icon_Orange'",
+			"FriendlyName": "Long Sleeve Collared Shirt",
+			"Category": "Shirts",
+			"Slots":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Slot": "Fabric_1",
+						"MaterialBaseClass": "BASIC_CRAFTING_Collared_Shirt_Long_Blend"
+					}
+				}
+			],
+			"ProducedFurnitureItem": "Collared_Shirt_Long_Black",
+			"RecipeDifficulty": 1,
+			"Steps":
+			[ 8 ],
+			"PreviewLocOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			},
+			"PreviewMeshOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Collared_Shirt_Vest_White",
+			"Row": "Collared_Shirt_Vest_White",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Clothes/Dress_Shirt_Icon_Orange.Dress_Shirt_Icon_Orange'",
+			"FriendlyName": "Collared Shirt With Vest",
+			"Category": "Shirts",
+			"Slots":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Slot": "Fabric_1",
+						"MaterialBaseClass": "BASIC_CRAFTING_Shirt_Vest_Blend"
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Slot": "Fabric_4",
+						"MaterialBaseClass": "BASIC_CRAFTING_Shirt_Vest_Blend"
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Slot": "Fabric_2",
+						"MaterialBaseClass": "BASIC_CRAFTING_Shirt_Vest_Blend"
+					}
+				}
+			],
+			"ProducedFurnitureItem": "Collared_Shirt_Vest_White",
+			"RecipeDifficulty": 2,
+			"Steps":
+			[ 8 ],
+			"PreviewLocOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			},
+			"PreviewMeshOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Cheongsam_Dress_Black",
+			"Row": "Cheongsam_Dress_Black",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Clothes/Dress_Icon_Orange.Dress_Icon_Orange'",
+			"FriendlyName": "Cheongsam Dress",
+			"Category": "Dresses",
+			"Slots":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Slot": "Fabric_1",
+						"MaterialBaseClass": "BASIC_CRAFT_Cheongsam_Dress_Blend"
+					}
+				}
+			],
+			"ProducedFurnitureItem": "Cheongsam_Dress_Black",
+			"RecipeDifficulty": 2,
+			"Steps":
+			[ 8 ],
+			"PreviewLocOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			},
+			"PreviewMeshOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Fancy_Frilly_Shirt_Black",
+			"Row": "Fancy_Frilly_Shirt_Black",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Clothes/Dress_Shirt_Icon_Orange.Dress_Shirt_Icon_Orange'",
+			"FriendlyName": "Fancy Frilly Shirt",
+			"Category": "Shirts",
+			"Slots":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Slot": "Fabric_1",
+						"MaterialBaseClass": "BASIC_CRAFTING_Fancy_Frilly_Blend"
+					}
+				}
+			],
+			"ProducedFurnitureItem": "Fancy_Frilly_Shirt_Black",
+			"RecipeDifficulty": 1,
+			"Steps":
+			[ 8 ],
+			"PreviewLocOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			},
+			"PreviewMeshOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Hoodie_Black",
+			"Row": "Hoodie_Black",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Clothes/Hoodie_Orange.Hoodie_Orange'",
+			"FriendlyName": "Hoodie",
+			"Category": "Shirts",
+			"Slots":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Slot": "Fabric_1",
+						"MaterialBaseClass": "BASIC_CRAFTING_Hoodie_Blend"
+					}
+				}
+			],
+			"ProducedFurnitureItem": "Hoodie_Black",
+			"RecipeDifficulty": 1,
+			"Steps":
+			[ 8 ],
+			"PreviewLocOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			},
+			"PreviewMeshOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Long_Sleeve_Shirt_Black",
+			"Row": "Long_Sleeve_Shirt_Black",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Clothes/TurtleNeck_Sweater_Orange_Icon.TurtleNeck_Sweater_Orange_Icon'",
+			"FriendlyName": "Long Sleeve Shirt",
+			"Category": "Shirts",
+			"Slots":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Slot": "Fabric_1",
+						"MaterialBaseClass": "BASIC_CRAFTING_Longsleeve_Shirt_Blend"
+					}
+				}
+			],
+			"ProducedFurnitureItem": "Long_Sleeve_Shirt_Black",
+			"RecipeDifficulty": 1,
+			"Steps":
+			[ 8 ],
+			"PreviewLocOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			},
+			"PreviewMeshOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Jacket_Open_White_Shirt",
+			"Row": "Jacket_Open_White_Shirt",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Clothes/Jacket_Icon.Jacket_Icon'",
+			"FriendlyName": "Black Jacket With Shirt",
+			"Category": "Shirts",
+			"Slots":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Slot": "Fabric_1",
+						"MaterialBaseClass": "BASIC_CRAFT_Jacket_Open_Jacket_Blend"
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Slot": "Fabric_2",
+						"MaterialBaseClass": "BASIC_CRAFTING_Jacket_Open_Blend"
+					}
+				}
+			],
+			"ProducedFurnitureItem": "Jacket_Open_White_Shirt",
+			"RecipeDifficulty": 2,
+			"Steps":
+			[ 8 ],
+			"PreviewLocOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			},
+			"PreviewMeshOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Sweater_Vest_Red",
+			"Row": "Sweater_Vest_Red",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Clothes/Sweater_Vest_Orange_Icon.Sweater_Vest_Orange_Icon'",
+			"FriendlyName": "Sweater Vest",
+			"Category": "Shirts",
+			"Slots":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Slot": "Fabric_1",
+						"MaterialBaseClass": "BASIC_CRAFT_Sweater_Vest_Vest_Blend"
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Slot": "Fabric_2",
+						"MaterialBaseClass": "BASIC_CRAFTING_Sweater_Vest_Shirt_Blend"
+					}
+				}
+			],
+			"ProducedFurnitureItem": "Sweater_Vest_Red",
+			"RecipeDifficulty": 2,
+			"Steps":
+			[ 8 ],
+			"PreviewLocOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			},
+			"PreviewMeshOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Turtleneck_Sweater_Black",
+			"Row": "Turtleneck_Sweater_Black",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Clothes/TurtleNeck_Sweater_Orange_Icon.TurtleNeck_Sweater_Orange_Icon'",
+			"FriendlyName": "Turtleneck Sweater",
+			"Category": "Shirts",
+			"Slots":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Slot": "Fabric_1",
+						"MaterialBaseClass": "BASIC_CRAFTING_Turtleneck_Sweater_Blend"
+					}
+				}
+			],
+			"ProducedFurnitureItem": "Turtleneck_Sweater_Black",
+			"RecipeDifficulty": 1,
+			"Steps":
+			[ 8 ],
+			"PreviewLocOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			},
+			"PreviewMeshOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Pants_Black",
+			"Row": "Pants_Black",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Clothes/Pants_Icon_Orange.Pants_Icon_Orange'",
+			"FriendlyName": "Pants",
+			"Category": "Pants",
+			"Slots":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Slot": "Fabric_1",
+						"MaterialBaseClass": "BASIC_CRAFT_Pants"
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Slot": "Fabric_1",
+						"MaterialBaseClass": "BASIC_CRAFT_Pants"
+					}
+				}
+			],
+			"ProducedFurnitureItem": "Pants_Black",
+			"RecipeDifficulty": 1,
+			"Steps":
+			[ 8 ],
+			"PreviewLocOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			},
+			"PreviewMeshOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Fishtail_Skirt_Black",
+			"Row": "Fishtail_Skirt_Black",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Clothes/Pencil_Skirt_Icon_Orange.Pencil_Skirt_Icon_Orange'",
+			"FriendlyName": "Fishtail Skirt",
+			"Category": "Skirts",
+			"Slots":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Slot": "Fabric_1",
+						"MaterialBaseClass": "BASIC_CRAFT_Fishtail_Skirt_Long_Blend"
+					}
+				}
+			],
+			"ProducedFurnitureItem": "Fishtail_Skirt_Black",
+			"RecipeDifficulty": 1,
+			"Steps":
+			[ 8 ],
+			"PreviewLocOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			},
+			"PreviewMeshOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Pencil_Skirt_Black",
+			"Row": "Pencil_Skirt_Black",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Clothes/Pencil_Skirt_Icon_Orange.Pencil_Skirt_Icon_Orange'",
+			"FriendlyName": "Pencil Skirt",
+			"Category": "Skirts",
+			"Slots":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Slot": "Fabric_1",
+						"MaterialBaseClass": "BASIC_CRAFT_Pencil_Skirt_Blend"
+					}
+				}
+			],
+			"ProducedFurnitureItem": "Pencil_Skirt_Black",
+			"RecipeDifficulty": 0,
+			"Steps":
+			[ 8 ],
+			"PreviewLocOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			},
+			"PreviewMeshOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Fishtail_Skirt_Short_Black",
+			"Row": "Fishtail_Skirt_Short_Black",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Clothes/Pencil_Skirt_Icon_Orange.Pencil_Skirt_Icon_Orange'",
+			"FriendlyName": "Short Fishtail Skirt",
+			"Category": "Skirts",
+			"Slots":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Slot": "Fabric_1",
+						"MaterialBaseClass": "BASIC_CRAFT_Fishtail_Skirt_Short_Blend"
+					}
+				}
+			],
+			"ProducedFurnitureItem": "Fishtail_Skirt_Short_Black",
+			"RecipeDifficulty": 1,
+			"Steps":
+			[ 8 ],
+			"PreviewLocOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			},
+			"PreviewMeshOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Long_Skirt_Black",
+			"Row": "Long_Skirt_Black",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Clothes/Pencil_Skirt_Icon_Orange.Pencil_Skirt_Icon_Orange'",
+			"FriendlyName": "Long Skirt",
+			"Category": "Skirts",
+			"Slots":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Slot": "Fabric_1",
+						"MaterialBaseClass": "BASIC_CRAFT_Long_Skirt_Blend"
+					}
+				}
+			],
+			"ProducedFurnitureItem": "Long_Skirt_Black",
+			"RecipeDifficulty": 1,
+			"Steps":
+			[ 8 ],
+			"PreviewLocOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			},
+			"PreviewMeshOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Peasant_Dress_Green",
+			"Row": "Peasant_Dress_Green",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Clothes/Dress_Icon_Orange.Dress_Icon_Orange'",
+			"FriendlyName": "Peasant Dress",
+			"Category": "Dresses",
+			"Slots":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Slot": "Fabric_1",
+						"MaterialBaseClass": "BASIC_CRAFT__Peasant_Dress_Light"
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Slot": "Fabric_3",
+						"MaterialBaseClass": "BASIC_CRAFT__Peasant_Dress_Light"
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Slot": "Fabric_2",
+						"MaterialBaseClass": "BASIC_CRAFT__Peasant_Dress_Light"
+					}
+				}
+			],
+			"ProducedFurnitureItem": "Peasant_Dress_Green",
+			"RecipeDifficulty": 2,
+			"Steps":
+			[ 8 ],
+			"PreviewLocOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			},
+			"PreviewMeshOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Short_Skirt_Black",
+			"Row": "Short_Skirt_Black",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Clothes/Pencil_Skirt_Icon_Orange.Pencil_Skirt_Icon_Orange'",
+			"FriendlyName": "Short Skirt",
+			"Category": "Skirts",
+			"Slots":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Slot": "Fabric_1",
+						"MaterialBaseClass": "BASIC_CRAFT_Long_Skirt_Blend"
+					}
+				}
+			],
+			"ProducedFurnitureItem": "Short_Skirt_Black",
+			"RecipeDifficulty": 1,
+			"Steps":
+			[ 8 ],
+			"PreviewLocOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			},
+			"PreviewMeshOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Summer_Dress_White",
+			"Row": "Summer_Dress_White",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Clothes/Dress_Icon_Orange.Dress_Icon_Orange'",
+			"FriendlyName": "Summer Dress",
+			"Category": "Dresses",
+			"Slots":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Slot": "Fabric_1",
+						"MaterialBaseClass": "BASIC_CRAFT__Peasant_Dress_Unique"
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Slot": "Fabric_3",
+						"MaterialBaseClass": "BASIC_CRAFT__Peasant_Dress_Unique"
+					}
+				}
+			],
+			"ProducedFurnitureItem": "Summer_Dress_White",
+			"RecipeDifficulty": 2,
+			"Steps":
+			[ 8 ],
+			"PreviewLocOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			},
+			"PreviewMeshOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Lolita_Dress_White",
+			"Row": "Lolita_Dress_White",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Clothes/Dress_Icon_Orange.Dress_Icon_Orange'",
+			"FriendlyName": "Lolita Dress",
+			"Category": "Dresses",
+			"Slots":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Slot": "Fabric_8",
+						"MaterialBaseClass": "BASE_Lolita_Dress_Unique2"
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Slot": "Fabric_7",
+						"MaterialBaseClass": "BASE_Lolita_Dress_Unique3"
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Slot": "Fabric_6",
+						"MaterialBaseClass": "BASE_Lolita_Dress_Unique3"
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Slot": "Fabric_1",
+						"MaterialBaseClass": "BASE_Lolita_Dress_Unique1"
+					}
+				}
+			],
+			"ProducedFurnitureItem": "Lolita_Dress_White",
+			"RecipeDifficulty": 3,
+			"Steps":
+			[ 8 ],
+			"PreviewLocOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			},
+			"PreviewMeshOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		},
+		{
+			"RowName": "Varsity_Jacket_Red",
+			"Row": "Varsity_Jacket_Red",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Clothes/Jacket_Icon.Jacket_Icon'",
+			"FriendlyName": "Varsity Jacket",
+			"Category": "Shirts",
+			"Slots":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Slot": "Fabric_1",
+						"MaterialBaseClass": "BASE_Varsity_Unique"
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Slot": "Fabric_9",
+						"MaterialBaseClass": "BASE_Varsity_Unique"
+					}
+				}
+			],
+			"ProducedFurnitureItem": "Varsity_Jacket_Red",
+			"RecipeDifficulty": 1,
+			"Steps":
+			[ 8 ],
+			"PreviewLocOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			},
+			"PreviewMeshOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			}
+		}
+	]
+}

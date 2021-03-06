@@ -1,0 +1,3 @@
+Loading_Screen_Images Structure:
+
+TextureProperty: UTexture2D*

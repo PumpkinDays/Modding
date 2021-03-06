@@ -1,0 +1,809 @@
+{
+	"Rows": 
+	[
+		{
+			"RowName": "Glasses_Thick_Black",
+			"PrimarySlot": 2,
+			"Mesh": "None",
+			"NonSkeletalMesh": "StaticMesh'/Game/Character/Clothes/Jewelry/Glasses/Glasses_Thick_Frames.Glasses_Thick_Frames'",
+			"CoveringMaterials":
+			[],
+			"Category": 2,
+			"ExtraOptions":
+			[],
+			"ShowInShop": true
+		},
+		{
+			"RowName": "Glasses_Thick_Red",
+			"PrimarySlot": 2,
+			"Mesh": "None",
+			"NonSkeletalMesh": "StaticMesh'/Game/Character/Clothes/Jewelry/Glasses/Glasses_Thick_Frames.Glasses_Thick_Frames'",
+			"CoveringMaterials":
+			[],
+			"Category": 2,
+			"ExtraOptions":
+			[],
+			"ShowInShop": true
+		},
+		{
+			"RowName": "Glasses_Thick_Brown",
+			"PrimarySlot": 2,
+			"Mesh": "None",
+			"NonSkeletalMesh": "StaticMesh'/Game/Character/Clothes/Jewelry/Glasses/Glasses_Thick_Frames.Glasses_Thick_Frames'",
+			"CoveringMaterials":
+			[],
+			"Category": 2,
+			"ExtraOptions":
+			[],
+			"ShowInShop": true
+		},
+		{
+			"RowName": "Glasses_Thick_Blue",
+			"PrimarySlot": 2,
+			"Mesh": "None",
+			"NonSkeletalMesh": "StaticMesh'/Game/Character/Clothes/Jewelry/Glasses/Glasses_Thick_Frames.Glasses_Thick_Frames'",
+			"CoveringMaterials":
+			[],
+			"Category": 2,
+			"ExtraOptions":
+			[],
+			"ShowInShop": true
+		},
+		{
+			"RowName": "Glasses_Oval_Black",
+			"PrimarySlot": 2,
+			"Mesh": "None",
+			"NonSkeletalMesh": "StaticMesh'/Game/Character/Clothes/Jewelry/Glasses/Glasses_Round_Small.Glasses_Round_Small'",
+			"CoveringMaterials":
+			[],
+			"Category": 2,
+			"ExtraOptions":
+			[],
+			"ShowInShop": true
+		},
+		{
+			"RowName": "Glasses_Oval_Red",
+			"PrimarySlot": 2,
+			"Mesh": "None",
+			"NonSkeletalMesh": "StaticMesh'/Game/Character/Clothes/Jewelry/Glasses/Glasses_Round_Small.Glasses_Round_Small'",
+			"CoveringMaterials":
+			[],
+			"Category": 2,
+			"ExtraOptions":
+			[],
+			"ShowInShop": true
+		},
+		{
+			"RowName": "Glasses_Oval_Brown",
+			"PrimarySlot": 2,
+			"Mesh": "None",
+			"NonSkeletalMesh": "StaticMesh'/Game/Character/Clothes/Jewelry/Glasses/Glasses_Round_Small.Glasses_Round_Small'",
+			"CoveringMaterials":
+			[],
+			"Category": 2,
+			"ExtraOptions":
+			[],
+			"ShowInShop": true
+		},
+		{
+			"RowName": "Glasses_Oval_Blue",
+			"PrimarySlot": 2,
+			"Mesh": "None",
+			"NonSkeletalMesh": "StaticMesh'/Game/Character/Clothes/Jewelry/Glasses/Glasses_Round_Small.Glasses_Round_Small'",
+			"CoveringMaterials":
+			[],
+			"Category": 2,
+			"ExtraOptions":
+			[],
+			"ShowInShop": true
+		},
+		{
+			"RowName": "Glasses_Round_Large_Black",
+			"PrimarySlot": 2,
+			"Mesh": "None",
+			"NonSkeletalMesh": "StaticMesh'/Game/Character/Clothes/Jewelry/Glasses/Glasses_Round_Frames.Glasses_Round_Frames'",
+			"CoveringMaterials":
+			[],
+			"Category": 2,
+			"ExtraOptions":
+			[],
+			"ShowInShop": true
+		},
+		{
+			"RowName": "Glasses_Round_Large_Red",
+			"PrimarySlot": 2,
+			"Mesh": "None",
+			"NonSkeletalMesh": "StaticMesh'/Game/Character/Clothes/Jewelry/Glasses/Glasses_Round_Frames.Glasses_Round_Frames'",
+			"CoveringMaterials":
+			[],
+			"Category": 2,
+			"ExtraOptions":
+			[],
+			"ShowInShop": true
+		},
+		{
+			"RowName": "Glasses_Round_Large_Brown",
+			"PrimarySlot": 2,
+			"Mesh": "None",
+			"NonSkeletalMesh": "StaticMesh'/Game/Character/Clothes/Jewelry/Glasses/Glasses_Round_Frames.Glasses_Round_Frames'",
+			"CoveringMaterials":
+			[],
+			"Category": 2,
+			"ExtraOptions":
+			[],
+			"ShowInShop": true
+		},
+		{
+			"RowName": "Glasses_Round_Large_Blue",
+			"PrimarySlot": 2,
+			"Mesh": "None",
+			"NonSkeletalMesh": "StaticMesh'/Game/Character/Clothes/Jewelry/Glasses/Glasses_Round_Frames.Glasses_Round_Frames'",
+			"CoveringMaterials":
+			[],
+			"Category": 2,
+			"ExtraOptions":
+			[],
+			"ShowInShop": true
+		},
+		{
+			"RowName": "Glasses_Heavy_Bridge_Black",
+			"PrimarySlot": 2,
+			"Mesh": "None",
+			"NonSkeletalMesh": "StaticMesh'/Game/Character/Clothes/Jewelry/Glasses/Glasses_Regular.Glasses_Regular'",
+			"CoveringMaterials":
+			[],
+			"Category": 2,
+			"ExtraOptions":
+			[],
+			"ShowInShop": true
+		},
+		{
+			"RowName": "Glasses_Heavy_Bridge_Red",
+			"PrimarySlot": 2,
+			"Mesh": "None",
+			"NonSkeletalMesh": "StaticMesh'/Game/Character/Clothes/Jewelry/Glasses/Glasses_Regular.Glasses_Regular'",
+			"CoveringMaterials":
+			[],
+			"Category": 2,
+			"ExtraOptions":
+			[],
+			"ShowInShop": true
+		},
+		{
+			"RowName": "Glasses_Heavy_Bridge_Brown",
+			"PrimarySlot": 2,
+			"Mesh": "None",
+			"NonSkeletalMesh": "StaticMesh'/Game/Character/Clothes/Jewelry/Glasses/Glasses_Regular.Glasses_Regular'",
+			"CoveringMaterials":
+			[],
+			"Category": 2,
+			"ExtraOptions":
+			[],
+			"ShowInShop": true
+		},
+		{
+			"RowName": "Glasses_Heavy_Bridge_Blue",
+			"PrimarySlot": 2,
+			"Mesh": "None",
+			"NonSkeletalMesh": "StaticMesh'/Game/Character/Clothes/Jewelry/Glasses/Glasses_Regular.Glasses_Regular'",
+			"CoveringMaterials":
+			[],
+			"Category": 2,
+			"ExtraOptions":
+			[],
+			"ShowInShop": true
+		},
+		{
+			"RowName": "Glasses_Monocle_Black",
+			"PrimarySlot": 2,
+			"Mesh": "None",
+			"NonSkeletalMesh": "StaticMesh'/Game/Character/Clothes/Jewelry/Glasses/Glasses_Monocle.Glasses_Monocle'",
+			"CoveringMaterials":
+			[],
+			"Category": 2,
+			"ExtraOptions":
+			[],
+			"ShowInShop": true
+		},
+		{
+			"RowName": "Glasses_Monocle_Gold",
+			"PrimarySlot": 2,
+			"Mesh": "None",
+			"NonSkeletalMesh": "StaticMesh'/Game/Character/Clothes/Jewelry/Glasses/Glasses_Monocle.Glasses_Monocle'",
+			"CoveringMaterials":
+			[],
+			"Category": 2,
+			"ExtraOptions":
+			[],
+			"ShowInShop": true
+		},
+		{
+			"RowName": "Glasses_Librarian_Black",
+			"PrimarySlot": 2,
+			"Mesh": "None",
+			"NonSkeletalMesh": "StaticMesh'/Game/Character/Clothes/Jewelry/Glasses/Glasses_Librarian.Glasses_Librarian'",
+			"CoveringMaterials":
+			[],
+			"Category": 2,
+			"ExtraOptions":
+			[],
+			"ShowInShop": true
+		},
+		{
+			"RowName": "Glasses_Librarian_Red",
+			"PrimarySlot": 2,
+			"Mesh": "None",
+			"NonSkeletalMesh": "StaticMesh'/Game/Character/Clothes/Jewelry/Glasses/Glasses_Librarian.Glasses_Librarian'",
+			"CoveringMaterials":
+			[],
+			"Category": 2,
+			"ExtraOptions":
+			[],
+			"ShowInShop": true
+		},
+		{
+			"RowName": "Glasses_Librarian_Brown",
+			"PrimarySlot": 2,
+			"Mesh": "None",
+			"NonSkeletalMesh": "StaticMesh'/Game/Character/Clothes/Jewelry/Glasses/Glasses_Librarian.Glasses_Librarian'",
+			"CoveringMaterials":
+			[],
+			"Category": 2,
+			"ExtraOptions":
+			[],
+			"ShowInShop": true
+		},
+		{
+			"RowName": "Glasses_Librarian_Blue",
+			"PrimarySlot": 2,
+			"Mesh": "None",
+			"NonSkeletalMesh": "StaticMesh'/Game/Character/Clothes/Jewelry/Glasses/Glasses_Librarian.Glasses_Librarian'",
+			"CoveringMaterials":
+			[],
+			"Category": 2,
+			"ExtraOptions":
+			[],
+			"ShowInShop": true
+		},
+		{
+			"RowName": "Glasses_Aviator",
+			"PrimarySlot": 2,
+			"Mesh": "None",
+			"NonSkeletalMesh": "StaticMesh'/Game/Character/Clothes/Jewelry/Glasses/Glasses_Aviators.Glasses_Aviators'",
+			"CoveringMaterials":
+			[],
+			"Category": 2,
+			"ExtraOptions":
+			[],
+			"ShowInShop": true
+		},
+		{
+			"RowName": "Earring_Long_Black",
+			"PrimarySlot": 3,
+			"Mesh": "None",
+			"NonSkeletalMesh": "StaticMesh'/Game/Character/Clothes/Jewelry/Earrings/Earring_Long3.Earring_Long3'",
+			"CoveringMaterials":
+			[],
+			"Category": 3,
+			"ExtraOptions":
+			[],
+			"ShowInShop": true
+		},
+		{
+			"RowName": "Earring_Long_Gold",
+			"PrimarySlot": 3,
+			"Mesh": "None",
+			"NonSkeletalMesh": "StaticMesh'/Game/Character/Clothes/Jewelry/Earrings/Earring_Long3.Earring_Long3'",
+			"CoveringMaterials":
+			[],
+			"Category": 3,
+			"ExtraOptions":
+			[],
+			"ShowInShop": true
+		},
+		{
+			"RowName": "Earring_Long_Silver",
+			"PrimarySlot": 3,
+			"Mesh": "None",
+			"NonSkeletalMesh": "StaticMesh'/Game/Character/Clothes/Jewelry/Earrings/Earring_Long3.Earring_Long3'",
+			"CoveringMaterials":
+			[],
+			"Category": 3,
+			"ExtraOptions":
+			[],
+			"ShowInShop": true
+		},
+		{
+			"RowName": "Pretty_Diamond_Earrings_Gold",
+			"PrimarySlot": 3,
+			"Mesh": "None",
+			"NonSkeletalMesh": "StaticMesh'/Game/Character/Clothes/Jewelry/Earrings/Earring_Pretty_Diamond3.Earring_Pretty_Diamond3'",
+			"CoveringMaterials":
+			[],
+			"Category": 3,
+			"ExtraOptions":
+			[],
+			"ShowInShop": true
+		},
+		{
+			"RowName": "Pretty_Diamond_Earrings_Silver",
+			"PrimarySlot": 3,
+			"Mesh": "None",
+			"NonSkeletalMesh": "StaticMesh'/Game/Character/Clothes/Jewelry/Earrings/Earring_Pretty_Diamond3.Earring_Pretty_Diamond3'",
+			"CoveringMaterials":
+			[],
+			"Category": 3,
+			"ExtraOptions":
+			[],
+			"ShowInShop": true
+		},
+		{
+			"RowName": "Earrings_Ank_Black",
+			"PrimarySlot": 3,
+			"Mesh": "None",
+			"NonSkeletalMesh": "StaticMesh'/Game/Character/Clothes/Jewelry/Earrings/Earrings_Ank.Earrings_Ank'",
+			"CoveringMaterials":
+			[],
+			"Category": 3,
+			"ExtraOptions":
+			[],
+			"ShowInShop": true
+		},
+		{
+			"RowName": "Earrings_Ank_Gold",
+			"PrimarySlot": 3,
+			"Mesh": "None",
+			"NonSkeletalMesh": "StaticMesh'/Game/Character/Clothes/Jewelry/Earrings/Earrings_Ank.Earrings_Ank'",
+			"CoveringMaterials":
+			[],
+			"Category": 3,
+			"ExtraOptions":
+			[],
+			"ShowInShop": true
+		},
+		{
+			"RowName": "Earrings_Ank_Silver",
+			"PrimarySlot": 3,
+			"Mesh": "None",
+			"NonSkeletalMesh": "StaticMesh'/Game/Character/Clothes/Jewelry/Earrings/Earrings_Ank.Earrings_Ank'",
+			"CoveringMaterials":
+			[],
+			"Category": 3,
+			"ExtraOptions":
+			[],
+			"ShowInShop": true
+		},
+		{
+			"RowName": "Earrings_Circl_Silver",
+			"PrimarySlot": 3,
+			"Mesh": "None",
+			"NonSkeletalMesh": "StaticMesh'/Game/Character/Clothes/Jewelry/Earrings/Earrings_Circles.Earrings_Circles'",
+			"CoveringMaterials":
+			[],
+			"Category": 3,
+			"ExtraOptions":
+			[],
+			"ShowInShop": true
+		},
+		{
+			"RowName": "Earrings_Circl_Black",
+			"PrimarySlot": 3,
+			"Mesh": "None",
+			"NonSkeletalMesh": "StaticMesh'/Game/Character/Clothes/Jewelry/Earrings/Earrings_Circles.Earrings_Circles'",
+			"CoveringMaterials":
+			[],
+			"Category": 3,
+			"ExtraOptions":
+			[],
+			"ShowInShop": true
+		},
+		{
+			"RowName": "Earrings_Circl_Gold",
+			"PrimarySlot": 3,
+			"Mesh": "None",
+			"NonSkeletalMesh": "StaticMesh'/Game/Character/Clothes/Jewelry/Earrings/Earrings_Circles.Earrings_Circles'",
+			"CoveringMaterials":
+			[],
+			"Category": 3,
+			"ExtraOptions":
+			[],
+			"ShowInShop": true
+		},
+		{
+			"RowName": "Earrings_Cross_Black",
+			"PrimarySlot": 3,
+			"Mesh": "None",
+			"NonSkeletalMesh": "StaticMesh'/Game/Character/Clothes/Jewelry/Earrings/Earrings_Cross.Earrings_Cross'",
+			"CoveringMaterials":
+			[],
+			"Category": 3,
+			"ExtraOptions":
+			[],
+			"ShowInShop": true
+		},
+		{
+			"RowName": "Earrings_Cross_Gold",
+			"PrimarySlot": 3,
+			"Mesh": "None",
+			"NonSkeletalMesh": "StaticMesh'/Game/Character/Clothes/Jewelry/Earrings/Earrings_Cross.Earrings_Cross'",
+			"CoveringMaterials":
+			[],
+			"Category": 3,
+			"ExtraOptions":
+			[],
+			"ShowInShop": true
+		},
+		{
+			"RowName": "Earrings_Cross_Silver",
+			"PrimarySlot": 3,
+			"Mesh": "None",
+			"NonSkeletalMesh": "StaticMesh'/Game/Character/Clothes/Jewelry/Earrings/Earrings_Cross.Earrings_Cross'",
+			"CoveringMaterials":
+			[],
+			"Category": 3,
+			"ExtraOptions":
+			[],
+			"ShowInShop": true
+		},
+		{
+			"RowName": "Earrings_Diamond_Frame_Black",
+			"PrimarySlot": 3,
+			"Mesh": "None",
+			"NonSkeletalMesh": "StaticMesh'/Game/Character/Clothes/Jewelry/Earrings/Earrings_Diamond_Frame.Earrings_Diamond_Frame'",
+			"CoveringMaterials":
+			[],
+			"Category": 3,
+			"ExtraOptions":
+			[],
+			"ShowInShop": true
+		},
+		{
+			"RowName": "Earrings_Diamond_Frame_Gold",
+			"PrimarySlot": 3,
+			"Mesh": "None",
+			"NonSkeletalMesh": "StaticMesh'/Game/Character/Clothes/Jewelry/Earrings/Earrings_Diamond_Frame.Earrings_Diamond_Frame'",
+			"CoveringMaterials":
+			[],
+			"Category": 3,
+			"ExtraOptions":
+			[],
+			"ShowInShop": true
+		},
+		{
+			"RowName": "Earrings_Diamond_Frame_Silver",
+			"PrimarySlot": 3,
+			"Mesh": "None",
+			"NonSkeletalMesh": "StaticMesh'/Game/Character/Clothes/Jewelry/Earrings/Earrings_Diamond_Frame.Earrings_Diamond_Frame'",
+			"CoveringMaterials":
+			[],
+			"Category": 3,
+			"ExtraOptions":
+			[],
+			"ShowInShop": true
+		},
+		{
+			"RowName": "Earrings_Flower_Drops_Gold",
+			"PrimarySlot": 3,
+			"Mesh": "None",
+			"NonSkeletalMesh": "StaticMesh'/Game/Character/Clothes/Jewelry/Earrings/Earrings_Flower_Drops.Earrings_Flower_Drops'",
+			"CoveringMaterials":
+			[],
+			"Category": 3,
+			"ExtraOptions":
+			[],
+			"ShowInShop": true
+		},
+		{
+			"RowName": "Earrings_Flower_Drops_Silver",
+			"PrimarySlot": 3,
+			"Mesh": "None",
+			"NonSkeletalMesh": "StaticMesh'/Game/Character/Clothes/Jewelry/Earrings/Earrings_Flower_Drops.Earrings_Flower_Drops'",
+			"CoveringMaterials":
+			[],
+			"Category": 3,
+			"ExtraOptions":
+			[],
+			"ShowInShop": true
+		},
+		{
+			"RowName": "Earrings_Flower_Studs_Black",
+			"PrimarySlot": 3,
+			"Mesh": "None",
+			"NonSkeletalMesh": "StaticMesh'/Game/Character/Clothes/Jewelry/Earrings/Earrings_Flower_Studs.Earrings_Flower_Studs'",
+			"CoveringMaterials":
+			[],
+			"Category": 3,
+			"ExtraOptions":
+			[],
+			"ShowInShop": true
+		},
+		{
+			"RowName": "Earrings_Flower_Studs_Gold",
+			"PrimarySlot": 3,
+			"Mesh": "None",
+			"NonSkeletalMesh": "StaticMesh'/Game/Character/Clothes/Jewelry/Earrings/Earrings_Flower_Studs.Earrings_Flower_Studs'",
+			"CoveringMaterials":
+			[],
+			"Category": 3,
+			"ExtraOptions":
+			[],
+			"ShowInShop": true
+		},
+		{
+			"RowName": "Earrings_Flower_Studs_Silver",
+			"PrimarySlot": 3,
+			"Mesh": "None",
+			"NonSkeletalMesh": "StaticMesh'/Game/Character/Clothes/Jewelry/Earrings/Earrings_Flower_Studs.Earrings_Flower_Studs'",
+			"CoveringMaterials":
+			[],
+			"Category": 3,
+			"ExtraOptions":
+			[],
+			"ShowInShop": true
+		},
+		{
+			"RowName": "Earrings_Large_Round_Gold",
+			"PrimarySlot": 3,
+			"Mesh": "None",
+			"NonSkeletalMesh": "StaticMesh'/Game/Character/Clothes/Jewelry/Earrings/Earrings_Large_Rounds.Earrings_Large_Rounds'",
+			"CoveringMaterials":
+			[],
+			"Category": 3,
+			"ExtraOptions":
+			[],
+			"ShowInShop": true
+		},
+		{
+			"RowName": "Earrings_Large_Round_Silver",
+			"PrimarySlot": 3,
+			"Mesh": "None",
+			"NonSkeletalMesh": "StaticMesh'/Game/Character/Clothes/Jewelry/Earrings/Earrings_Large_Rounds.Earrings_Large_Rounds'",
+			"CoveringMaterials":
+			[],
+			"Category": 3,
+			"ExtraOptions":
+			[],
+			"ShowInShop": true
+		},
+		{
+			"RowName": "Earrings_Simple_Studs_Black",
+			"PrimarySlot": 3,
+			"Mesh": "None",
+			"NonSkeletalMesh": "StaticMesh'/Game/Character/Clothes/Jewelry/Earrings/Earrings_Simple_Studs.Earrings_Simple_Studs'",
+			"CoveringMaterials":
+			[],
+			"Category": 3,
+			"ExtraOptions":
+			[],
+			"ShowInShop": true
+		},
+		{
+			"RowName": "Earrings_Simple_Studs_Red",
+			"PrimarySlot": 3,
+			"Mesh": "None",
+			"NonSkeletalMesh": "StaticMesh'/Game/Character/Clothes/Jewelry/Earrings/Earrings_Simple_Studs.Earrings_Simple_Studs'",
+			"CoveringMaterials":
+			[],
+			"Category": 3,
+			"ExtraOptions":
+			[],
+			"ShowInShop": true
+		},
+		{
+			"RowName": "Earrings_Simple_Studs_Blue",
+			"PrimarySlot": 3,
+			"Mesh": "None",
+			"NonSkeletalMesh": "StaticMesh'/Game/Character/Clothes/Jewelry/Earrings/Earrings_Simple_Studs.Earrings_Simple_Studs'",
+			"CoveringMaterials":
+			[],
+			"Category": 3,
+			"ExtraOptions":
+			[],
+			"ShowInShop": true
+		},
+		{
+			"RowName": "Earrings_Stud_Star_Black",
+			"PrimarySlot": 3,
+			"Mesh": "None",
+			"NonSkeletalMesh": "StaticMesh'/Game/Character/Clothes/Jewelry/Earrings/Earrings_Star_Studs.Earrings_Star_Studs'",
+			"CoveringMaterials":
+			[],
+			"Category": 3,
+			"ExtraOptions":
+			[],
+			"ShowInShop": true
+		},
+		{
+			"RowName": "Earrings_Stud_Star_Gold",
+			"PrimarySlot": 3,
+			"Mesh": "None",
+			"NonSkeletalMesh": "StaticMesh'/Game/Character/Clothes/Jewelry/Earrings/Earrings_Star_Studs.Earrings_Star_Studs'",
+			"CoveringMaterials":
+			[],
+			"Category": 3,
+			"ExtraOptions":
+			[],
+			"ShowInShop": true
+		},
+		{
+			"RowName": "Earrings_Stud_Star_Silver",
+			"PrimarySlot": 3,
+			"Mesh": "None",
+			"NonSkeletalMesh": "StaticMesh'/Game/Character/Clothes/Jewelry/Earrings/Earrings_Star_Studs.Earrings_Star_Studs'",
+			"CoveringMaterials":
+			[],
+			"Category": 3,
+			"ExtraOptions":
+			[],
+			"ShowInShop": true
+		},
+		{
+			"RowName": "Earring_TearDrops_Red",
+			"PrimarySlot": 3,
+			"Mesh": "None",
+			"NonSkeletalMesh": "StaticMesh'/Game/Character/Clothes/Jewelry/Earrings/Earrings_Teardrop.Earrings_Teardrop'",
+			"CoveringMaterials":
+			[],
+			"Category": 3,
+			"ExtraOptions":
+			[],
+			"ShowInShop": true
+		},
+		{
+			"RowName": "Earring_TearDrops_Blue",
+			"PrimarySlot": 3,
+			"Mesh": "None",
+			"NonSkeletalMesh": "StaticMesh'/Game/Character/Clothes/Jewelry/Earrings/Earrings_Teardrop.Earrings_Teardrop'",
+			"CoveringMaterials":
+			[],
+			"Category": 3,
+			"ExtraOptions":
+			[],
+			"ShowInShop": true
+		},
+		{
+			"RowName": "Earring_TearDrops_Black",
+			"PrimarySlot": 3,
+			"Mesh": "None",
+			"NonSkeletalMesh": "StaticMesh'/Game/Character/Clothes/Jewelry/Earrings/Earrings_Teardrop.Earrings_Teardrop'",
+			"CoveringMaterials":
+			[],
+			"Category": 3,
+			"ExtraOptions":
+			[],
+			"ShowInShop": true
+		},
+		{
+			"RowName": "Glasses_Aviator_Green",
+			"PrimarySlot": 2,
+			"Mesh": "None",
+			"NonSkeletalMesh": "StaticMesh'/Game/Character/Clothes/Jewelry/Glasses/Glasses_Aviators.Glasses_Aviators'",
+			"CoveringMaterials":
+			[],
+			"Category": 2,
+			"ExtraOptions":
+			[],
+			"ShowInShop": true
+		},
+		{
+			"RowName": "Glasses_Aviator_Pink",
+			"PrimarySlot": 2,
+			"Mesh": "None",
+			"NonSkeletalMesh": "StaticMesh'/Game/Character/Clothes/Jewelry/Glasses/Glasses_Aviators.Glasses_Aviators'",
+			"CoveringMaterials":
+			[],
+			"Category": 2,
+			"ExtraOptions":
+			[],
+			"ShowInShop": true
+		},
+		{
+			"RowName": "Glasses_Aviator_Purple",
+			"PrimarySlot": 2,
+			"Mesh": "None",
+			"NonSkeletalMesh": "StaticMesh'/Game/Character/Clothes/Jewelry/Glasses/Glasses_Aviators.Glasses_Aviators'",
+			"CoveringMaterials":
+			[],
+			"Category": 2,
+			"ExtraOptions":
+			[],
+			"ShowInShop": true
+		},
+		{
+			"RowName": "Glasses_Aviator_Ice",
+			"PrimarySlot": 2,
+			"Mesh": "None",
+			"NonSkeletalMesh": "StaticMesh'/Game/Character/Clothes/Jewelry/Glasses/Glasses_Aviators.Glasses_Aviators'",
+			"CoveringMaterials":
+			[],
+			"Category": 2,
+			"ExtraOptions":
+			[],
+			"ShowInShop": true
+		},
+		{
+			"RowName": "Glasses_Aviator_Red",
+			"PrimarySlot": 2,
+			"Mesh": "None",
+			"NonSkeletalMesh": "StaticMesh'/Game/Character/Clothes/Jewelry/Glasses/Glasses_Aviators.Glasses_Aviators'",
+			"CoveringMaterials":
+			[],
+			"Category": 2,
+			"ExtraOptions":
+			[],
+			"ShowInShop": true
+		},
+		{
+			"RowName": "Glasses_Aviator_Yellow",
+			"PrimarySlot": 2,
+			"Mesh": "None",
+			"NonSkeletalMesh": "StaticMesh'/Game/Character/Clothes/Jewelry/Glasses/Glasses_Aviators.Glasses_Aviators'",
+			"CoveringMaterials":
+			[],
+			"Category": 2,
+			"ExtraOptions":
+			[],
+			"ShowInShop": true
+		},
+		{
+			"RowName": "Glasses_Vacation_Pink",
+			"PrimarySlot": 2,
+			"Mesh": "None",
+			"NonSkeletalMesh": "StaticMesh'/Game/Character/Clothes/Jewelry/Glasses/Glasses_Thick_Frames.Glasses_Thick_Frames'",
+			"CoveringMaterials":
+			[],
+			"Category": 2,
+			"ExtraOptions":
+			[],
+			"ShowInShop": true
+		},
+		{
+			"RowName": "Glasses_Vacation_Yellow",
+			"PrimarySlot": 2,
+			"Mesh": "None",
+			"NonSkeletalMesh": "StaticMesh'/Game/Character/Clothes/Jewelry/Glasses/Glasses_Thick_Frames.Glasses_Thick_Frames'",
+			"CoveringMaterials":
+			[],
+			"Category": 2,
+			"ExtraOptions":
+			[],
+			"ShowInShop": true
+		},
+		{
+			"RowName": "Glasses_Vacation_Purple",
+			"PrimarySlot": 2,
+			"Mesh": "None",
+			"NonSkeletalMesh": "StaticMesh'/Game/Character/Clothes/Jewelry/Glasses/Glasses_Thick_Frames.Glasses_Thick_Frames'",
+			"CoveringMaterials":
+			[],
+			"Category": 2,
+			"ExtraOptions":
+			[],
+			"ShowInShop": true
+		},
+		{
+			"RowName": "Glasses_Vacation_Green",
+			"PrimarySlot": 2,
+			"Mesh": "None",
+			"NonSkeletalMesh": "StaticMesh'/Game/Character/Clothes/Jewelry/Glasses/Glasses_Thick_Frames.Glasses_Thick_Frames'",
+			"CoveringMaterials":
+			[],
+			"Category": 2,
+			"ExtraOptions":
+			[],
+			"ShowInShop": true
+		},
+		{
+			"RowName": "Glasses_Nerd",
+			"PrimarySlot": 2,
+			"Mesh": "None",
+			"NonSkeletalMesh": "StaticMesh'/Game/Character/Clothes/Jewelry/Glasses/Glasses_Thick_Frames.Glasses_Thick_Frames'",
+			"CoveringMaterials":
+			[],
+			"Category": 2,
+			"ExtraOptions":
+			[],
+			"ShowInShop": true
+		}
+	]
+}

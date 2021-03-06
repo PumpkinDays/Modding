@@ -1,0 +1,3 @@
+Toddler_Outfits Structure:
+
+Material: TAssetPtr<UMaterialInterface>

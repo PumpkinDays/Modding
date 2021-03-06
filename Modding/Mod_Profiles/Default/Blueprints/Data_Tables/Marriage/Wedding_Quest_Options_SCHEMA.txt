@@ -1,0 +1,3 @@
+Wedding_Quest_Options Structure:
+
+ArrayOfNameArrays: TArray-FGenericNameArrayField

@@ -1,0 +1,9 @@
+Character_Customization_Seasons_Data Structure:
+
+RowName: string
+Season: ONE of
+	Spring
+	Summer
+	Fall
+	Winter
+Thumbnail: UTexture2D*

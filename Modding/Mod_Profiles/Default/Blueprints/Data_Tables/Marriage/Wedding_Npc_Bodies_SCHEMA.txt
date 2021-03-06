@@ -1,0 +1,54 @@
+Wedding_Npc_Bodies Structure:
+
+CharData: 
+	PlayerName: string
+	Weight: float
+	Chest: float
+	Hips: float
+	Gut: float
+	Muscle: float
+	Hair: string
+	Eyes: string
+	Eyebrows: string
+	Mouth: string
+	Cheeks: string
+	Chin: string
+	SkinColor: string
+	Personality: string
+	LikedRecipeCategory: string
+	Birthday: 
+		Season: ONE of
+			Spring
+			Summer
+			Fall
+			Winter
+		Day: integer
+	Town: string
+	Hat: string
+	Eyewear: string
+	Earrings: string
+	Necklace: string
+	Shirt: string
+	Overshirt: string
+	Belt: string
+	Pants: string
+	Backpack: string
+	Gloves: string
+	Wrist: string
+	Ring: string
+	Socks: string
+	Shoes: string
+	OptionsHat: string
+	OptionsEyewear: string
+	OptionsEarrings: string
+	OptionsNecklace: string
+	OptionsShirt: string
+	OptionsOvershirt: string
+	OptionsBelt: string
+	OptionsPants: string
+	OptionsBackpack: string
+	OptionsGloves: string
+	OptionsWrist: string
+	OptionsRing: string
+	OptionsSocks: string
+	OptionsShoes: string

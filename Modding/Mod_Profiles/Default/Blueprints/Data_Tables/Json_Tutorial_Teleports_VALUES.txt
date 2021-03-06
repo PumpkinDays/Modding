@@ -1,0 +1,440 @@
+{
+	"Rows": 
+	[
+		{
+			"RowName": "P_Blacksmith",
+			"Dialogue": "Ok boss let me show you how to make tools.",
+			"Waypoint": "Blacksmith_Shopkeep",
+			"PlayerOffset": 
+			{
+				"X": -100,
+				"Y": 0,
+				"Z": 0
+			},
+			"Options":
+			[]
+		},
+		{
+			"RowName": "P_cafe",
+			"Dialogue": "I guess I should teach you how to cook.",
+			"Waypoint": "Cafe_Cooking_Kitchen",
+			"PlayerOffset": 
+			{
+				"X": 300,
+				"Y": 0,
+				"Z": 0
+			},
+			"Options":
+			[]
+		},
+		{
+			"RowName": "P_Home_Ext",
+			"Dialogue": "Oh right, let me show you how to upgrade your house.",
+			"Waypoint": "Home_Ext_Customer",
+			"PlayerOffset": 
+			{
+				"X": 0,
+				"Y": -100,
+				"Z": 0
+			},
+			"Options":
+			[]
+		},
+		{
+			"RowName": "P_Crafting",
+			"Dialogue": "Oh right, I gotta show you how to craft crazy furniture.",
+			"Waypoint": "Furniture_Store_Faiyaz_Tutorial",
+			"PlayerOffset": 
+			{
+				"X": -150,
+				"Y": 0,
+				"Z": 0
+			},
+			"Options":
+			[]
+		},
+		{
+			"RowName": "P_Fishing",
+			"Dialogue": "I guess I should teach you how to fish.",
+			"Waypoint": "Riverbend_1",
+			"PlayerOffset": 
+			{
+				"X": 0,
+				"Y": 50,
+				"Z": 0
+			},
+			"Options":
+			[]
+		},
+		{
+			"RowName": "P_furniture",
+			"Dialogue": "Let's head over to the store so I can show you how to place furniture.",
+			"Waypoint": "Furniture_Store_Vera",
+			"PlayerOffset": 
+			{
+				"X": 200,
+				"Y": 0,
+				"Z": 0
+			},
+			"Options":
+			[]
+		},
+		{
+			"RowName": "P_FarmingShop",
+			"Dialogue": "Let's head over to my shop and I'll teach you about farming.",
+			"Waypoint": "Farm_Shop_Shopkeep",
+			"PlayerOffset": 
+			{
+				"X": 0,
+				"Y": -100,
+				"Z": 0
+			},
+			"Options":
+			[]
+		},
+		{
+			"RowName": "P_PostOffice",
+			"Dialogue": "Let's head over to the post office so I can explain how mail works.",
+			"Waypoint": "PostOffice_Tutorial",
+			"PlayerOffset": 
+			{
+				"X": 0,
+				"Y": 50,
+				"Z": 0
+			},
+			"Options":
+			[]
+		},
+		{
+			"RowName": "P_Animal",
+			"Dialogue": "Oh I almost forgot I need to show ya how to take care of critters.",
+			"Waypoint": "Animal_Tut_Waypoint",
+			"PlayerOffset": 
+			{
+				"X": -100,
+				"Y": -50,
+				"Z": 0
+			},
+			"Options":
+			[]
+		},
+		{
+			"RowName": "P_Processor",
+			"Dialogue": "Let's head over to the shop, I need to show you how processors work.",
+			"Waypoint": "Shauna_Tut_Waypoint",
+			"PlayerOffset": 
+			{
+				"X": -90,
+				"Y": 0,
+				"Z": 0
+			},
+			"Options":
+			[]
+		},
+		{
+			"RowName": "P_Farming",
+			"Dialogue": "I will teleport you to the farm",
+			"Waypoint": "ThisIsNotUsed",
+			"PlayerOffset": 
+			{
+				"X": 150,
+				"Y": 0,
+				"Z": 0
+			},
+			"Options":
+			[
+				"FarmWaypoint"
+			]
+		},
+		{
+			"RowName": "W_Blacksmith",
+			"Dialogue": "Yo, let's head over to my shop so I can teach you about tools.",
+			"Waypoint": "W_Blacksmith",
+			"PlayerOffset": 
+			{
+				"X": 80,
+				"Y": 0,
+				"Z": 0
+			},
+			"Options":
+			[]
+		},
+		{
+			"RowName": "W_Cafe",
+			"Dialogue": "Let's head over to my restaurant and I'll teach you how to cook.",
+			"Waypoint": "W_Restaurant",
+			"PlayerOffset": 
+			{
+				"X": 80,
+				"Y": 0,
+				"Z": 0
+			},
+			"Options":
+			[]
+		},
+		{
+			"RowName": "W_Home_Ext",
+			"Dialogue": "Oh right, let me explain how to upgrade your house.",
+			"Waypoint": "W_Home_Ext",
+			"PlayerOffset": 
+			{
+				"X": 80,
+				"Y": 0,
+				"Z": 0
+			},
+			"Options":
+			[]
+		},
+		{
+			"RowName": "W_Crafting",
+			"Dialogue": "Oh right, I need explain how you can craft furniture.",
+			"Waypoint": "W_Crafting",
+			"PlayerOffset": 
+			{
+				"X": 80,
+				"Y": 0,
+				"Z": 0
+			},
+			"Options":
+			[]
+		},
+		{
+			"RowName": "W_Fishing",
+			"Dialogue": "Hey, I want to show you how to fish around here.",
+			"Waypoint": "W_Fishing",
+			"PlayerOffset": 
+			{
+				"X": 80,
+				"Y": 0,
+				"Z": 0
+			},
+			"Options":
+			[]
+		},
+		{
+			"RowName": "W_Furniture",
+			"Dialogue": "Yo, let me show you how to place furniture.",
+			"Waypoint": "W_Furniture",
+			"PlayerOffset": 
+			{
+				"X": 80,
+				"Y": 0,
+				"Z": 0
+			},
+			"Options":
+			[]
+		},
+		{
+			"RowName": "W_FarmingShop",
+			"Dialogue": "Let's head over to my shop and talk about farming.",
+			"Waypoint": "W_FarmingShop",
+			"PlayerOffset": 
+			{
+				"X": 80,
+				"Y": 0,
+				"Z": 0
+			},
+			"Options":
+			[]
+		},
+		{
+			"RowName": "W_PostOffice",
+			"Dialogue": "I guess I have to head back to work and explain to ya how the mail works.",
+			"Waypoint": "W_PostOffice",
+			"PlayerOffset": 
+			{
+				"X": 80,
+				"Y": 0,
+				"Z": 0
+			},
+			"Options":
+			[]
+		},
+		{
+			"RowName": "W_Animal",
+			"Dialogue": "Let me teach you about animals.",
+			"Waypoint": "w_animal",
+			"PlayerOffset": 
+			{
+				"X": 80,
+				"Y": 0,
+				"Z": 0
+			},
+			"Options":
+			[]
+		},
+		{
+			"RowName": "W_Processor",
+			"Dialogue": "Let me teach you about processors.",
+			"Waypoint": "W_Processor",
+			"PlayerOffset": 
+			{
+				"X": 80,
+				"Y": 0,
+				"Z": 0
+			},
+			"Options":
+			[]
+		},
+		{
+			"RowName": "W_Farming",
+			"Dialogue": "Let's go",
+			"Waypoint": "None",
+			"PlayerOffset": 
+			{
+				"X": 80,
+				"Y": 0,
+				"Z": 0
+			},
+			"Options":
+			[
+				"FarmWaypoint"
+			]
+		},
+		{
+			"RowName": "D_Blacksmith",
+			"Dialogue": "Let's head over to my studio so I can teach you about making tools.",
+			"Waypoint": "D_Blacksmith",
+			"PlayerOffset": 
+			{
+				"X": 80,
+				"Y": 0,
+				"Z": 0
+			},
+			"Options":
+			[]
+		},
+		{
+			"RowName": "D_Diner",
+			"Dialogue": "Alright, let's head over to the diner and I'll teach ya about cooking.",
+			"Waypoint": "D_Diner",
+			"PlayerOffset": 
+			{
+				"X": 80,
+				"Y": 0,
+				"Z": 0
+			},
+			"Options":
+			[]
+		},
+		{
+			"RowName": "D_Home_Ext",
+			"Dialogue": "Oh right, let me explain how to upgrade your house.",
+			"Waypoint": "D_Home_Ext",
+			"PlayerOffset": 
+			{
+				"X": 80,
+				"Y": 0,
+				"Z": 0
+			},
+			"Options":
+			[]
+		},
+		{
+			"RowName": "D_Crafting",
+			"Dialogue": "Oh right, I need explain how you can craft furniture.",
+			"Waypoint": "D_Crafting",
+			"PlayerOffset": 
+			{
+				"X": 80,
+				"Y": 0,
+				"Z": 0
+			},
+			"Options":
+			[]
+		},
+		{
+			"RowName": "D_Fishing",
+			"Dialogue": "Let me teach you how to fish.",
+			"Waypoint": "D_Fishing",
+			"PlayerOffset": 
+			{
+				"X": 80,
+				"Y": 0,
+				"Z": 0
+			},
+			"Options":
+			[]
+		},
+		{
+			"RowName": "D_Furniture",
+			"Dialogue": "I guess I have to show you how to place furniture.",
+			"Waypoint": "D_Furniture",
+			"PlayerOffset": 
+			{
+				"X": 80,
+				"Y": 0,
+				"Z": 0
+			},
+			"Options":
+			[]
+		},
+		{
+			"RowName": "D_FarmingShop",
+			"Dialogue": "Let's head over to my shop and talk about farming.",
+			"Waypoint": "D_FarmingShop",
+			"PlayerOffset": 
+			{
+				"X": 80,
+				"Y": 0,
+				"Z": 0
+			},
+			"Options":
+			[]
+		},
+		{
+			"RowName": "D_PostOffice",
+			"Dialogue": "Let's go to the post office and I'll explain to ya how the mail works.",
+			"Waypoint": "D_PostOffice",
+			"PlayerOffset": 
+			{
+				"X": 80,
+				"Y": 0,
+				"Z": 0
+			},
+			"Options":
+			[]
+		},
+		{
+			"RowName": "D_Animals",
+			"Dialogue": "Welp, time to teach ya about raising animals.",
+			"Waypoint": "d_animal",
+			"PlayerOffset": 
+			{
+				"X": -180,
+				"Y": 0,
+				"Z": 0
+			},
+			"Options":
+			[]
+		},
+		{
+			"RowName": "D_Processor",
+			"Dialogue": "Let me teach you about processors.",
+			"Waypoint": "D_Processor",
+			"PlayerOffset": 
+			{
+				"X": 80,
+				"Y": 0,
+				"Z": 0
+			},
+			"Options":
+			[]
+		},
+		{
+			"RowName": "D_Farming",
+			"Dialogue": "Let's go",
+			"Waypoint": "None",
+			"PlayerOffset": 
+			{
+				"X": 80,
+				"Y": 0,
+				"Z": 0
+			},
+			"Options":
+			[
+				"FarmWaypoint"
+			]
+		}
+	]
+}

@@ -1,0 +1,44 @@
+Festival_Minigames Structure:
+
+MinigameRow: string
+MinigameTitle: string
+MayorMinigameDescription: string
+MinigameInstructions: string
+MinigameInstructionsForFriendship: string
+MinigameOverDialogue: string
+NotEnoughInvSpaceDialogue: string
+InformPlayerStartHour: integer
+InformPlayerEndHour: integer
+JoinStartHour: integer
+JoinEndHour: integer
+EventStartHour: integer
+EventEndHour: integer
+HasDifficultyOptions: true/false
+NpcPlacementMode: ONE of
+	DoNotTeleport
+	UseWaypoints
+	UseBlueprintValues
+PlayerPlacementMode: ONE of
+	DoNotTeleport
+	UseWaypoints
+	UseBlueprintValues
+CompetitorWaypointsIfUsed: TArray-FName
+IntroductionAnimations: TArray-TAssetPtr<UAnimSequenceBase>
+AllowMovementDuringMinigame: true/false
+RequiredInventorySpace: integer
+NoDifficultyRewards: 
+	FirstPlaceRewards: TArray-FRecipeIngredient
+	SecondPlaceRewards: TArray-FRecipeIngredient
+	ThirdPlaceRewards: TArray-FRecipeIngredient
+EasyRewards: 
+	FirstPlaceRewards: TArray-FRecipeIngredient
+	SecondPlaceRewards: TArray-FRecipeIngredient
+	ThirdPlaceRewards: TArray-FRecipeIngredient
+MediumRewards: 
+	FirstPlaceRewards: TArray-FRecipeIngredient
+	SecondPlaceRewards: TArray-FRecipeIngredient
+	ThirdPlaceRewards: TArray-FRecipeIngredient
+HardRewards: 
+	FirstPlaceRewards: TArray-FRecipeIngredient
+	SecondPlaceRewards: TArray-FRecipeIngredient
+	ThirdPlaceRewards: TArray-FRecipeIngredient

@@ -1,0 +1,355 @@
+{
+	"Rows": 
+	[
+		{
+			"RowName": "Ship_Animal_Products",
+			"AchievementId": "Ship_Animal_Products",
+			"Values": 
+			{
+				"Action": "Ship",
+				"Item": "Ctg_Animal_Products",
+				"Amount": 0
+			}
+		},
+		{
+			"RowName": "Ship_Food",
+			"AchievementId": "Ship_Food",
+			"Values": 
+			{
+				"Action": "Ship",
+				"Item": "Ctg_Food",
+				"Amount": 0
+			}
+		},
+		{
+			"RowName": "Eat_Cabbage",
+			"AchievementId": "Eat_Cabbage",
+			"Values": 
+			{
+				"Action": "Eat",
+				"Item": "Cabbage",
+				"Amount": 0
+			}
+		},
+		{
+			"RowName": "Ship_Animal_Products_100",
+			"AchievementId": "SHIP_ANIMAL_PRODUCTS",
+			"Values": 
+			{
+				"Action": "Ship",
+				"Item": "Ctg_Animal_Products",
+				"Amount": 100
+			}
+		},
+		{
+			"RowName": "Ship_Crops_500",
+			"AchievementId": "SHIP_CROPS",
+			"Values": 
+			{
+				"Action": "Ship",
+				"Item": "Ctg_Crops",
+				"Amount": 500
+			}
+		},
+		{
+			"RowName": "Ship_Gems_100",
+			"AchievementId": "SHIP_GEMS",
+			"Values": 
+			{
+				"Action": "Ship",
+				"Item": "Ctg_Gems",
+				"Amount": 100
+			}
+		},
+		{
+			"RowName": "Ship_Recipes_100",
+			"AchievementId": "SHIP_RECIPES",
+			"Values": 
+			{
+				"Action": "Ship",
+				"Item": "Ctg_Recipe",
+				"Amount": 100
+			}
+		},
+		{
+			"RowName": "Ship_Lumber_100",
+			"AchievementId": "SHIP_LUMBER",
+			"Values": 
+			{
+				"Action": "Ship",
+				"Item": "Ctg_Planks",
+				"Amount": 100
+			}
+		},
+		{
+			"RowName": "Ship_Flowers_500",
+			"AchievementId": "SHIP_FLOWERS",
+			"Values": 
+			{
+				"Action": "Ship",
+				"Item": "Ctg_Flowers",
+				"Amount": 500
+			}
+		},
+		{
+			"RowName": "Eat_Cake",
+			"AchievementId": "EAT_CAKE",
+			"Values": 
+			{
+				"Action": "Eat",
+				"Item": "Ctg_Cake",
+				"Amount": 100
+			}
+		},
+		{
+			"RowName": "Eat_Juice",
+			"AchievementId": "EAT_JUICE",
+			"Values": 
+			{
+				"Action": "Eat",
+				"Item": "Ctg_Juice",
+				"Amount": 100
+			}
+		},
+		{
+			"RowName": "Eat_Vegetables",
+			"AchievementId": "EAT_VEGETABLES",
+			"Values": 
+			{
+				"Action": "Eat",
+				"Item": "Ctg_Vegetarian",
+				"Amount": 100
+			}
+		},
+		{
+			"RowName": "Eat_Meat",
+			"AchievementId": "EAT_MEAT",
+			"Values": 
+			{
+				"Action": "Eat",
+				"Item": "Ctg_Meat",
+				"Amount": 100
+			}
+		},
+		{
+			"RowName": "Eat_IceCream",
+			"AchievementId": "EAT_ICECREAM",
+			"Values": 
+			{
+				"Action": "Eat",
+				"Item": "Ctg_Icecream",
+				"Amount": 100
+			}
+		},
+		{
+			"RowName": "Eat_Soup",
+			"AchievementId": "EAT_SOUP",
+			"Values": 
+			{
+				"Action": "Eat",
+				"Item": "Ctg_Soup",
+				"Amount": 100
+			}
+		},
+		{
+			"RowName": "Eat_Pizza",
+			"AchievementId": "EAT_PIZZA",
+			"Values": 
+			{
+				"Action": "Eat",
+				"Item": "Ctg_Pizza",
+				"Amount": 100
+			}
+		},
+		{
+			"RowName": "Eat_Alcohol",
+			"AchievementId": "EAT ALCOHOL",
+			"Values": 
+			{
+				"Action": "Eat",
+				"Item": "Ctg_Alcohol",
+				"Amount": 100
+			}
+		},
+		{
+			"RowName": "Eat_Tea",
+			"AchievementId": "EAT_TEA",
+			"Values": 
+			{
+				"Action": "Eat",
+				"Item": "Ctg_Tea",
+				"Amount": 100
+			}
+		},
+		{
+			"RowName": "Eat_Cookie",
+			"AchievementId": "EAT_COOKIE",
+			"Values": 
+			{
+				"Action": "Eat",
+				"Item": "Ctg_Cookie",
+				"Amount": 100
+			}
+		},
+		{
+			"RowName": "Eat_Candy",
+			"AchievementId": "EAT_CANDY",
+			"Values": 
+			{
+				"Action": "Eat",
+				"Item": "Ctg_Candy",
+				"Amount": 100
+			}
+		},
+		{
+			"RowName": "Eat_Jam",
+			"AchievementId": "EAT_JAM",
+			"Values": 
+			{
+				"Action": "Eat",
+				"Item": "Ctg_Jam",
+				"Amount": 100
+			}
+		},
+		{
+			"RowName": "Eat_Pie",
+			"AchievementId": "EAT_PIE",
+			"Values": 
+			{
+				"Action": "Eat",
+				"Item": "Ctg_Pie",
+				"Amount": 100
+			}
+		},
+		{
+			"RowName": "Eat_Sushi",
+			"AchievementId": "EAT_SUSHI",
+			"Values": 
+			{
+				"Action": "Eat",
+				"Item": "Ctg_Sushi",
+				"Amount": 100
+			}
+		},
+		{
+			"RowName": "Eat_Curry",
+			"AchievementId": "EAT_CURRY",
+			"Values": 
+			{
+				"Action": "Eat",
+				"Item": "Ctg_Curry",
+				"Amount": 100
+			}
+		},
+		{
+			"RowName": "Eat_Hamburger",
+			"AchievementId": "EAT HAMBURGER",
+			"Values": 
+			{
+				"Action": "Eat",
+				"Item": "Ctg_Hamburger",
+				"Amount": 100
+			}
+		},
+		{
+			"RowName": "Eat_Sauce",
+			"AchievementId": "EAT_SAUCE",
+			"Values": 
+			{
+				"Action": "Eat",
+				"Item": "ctg_Sauce",
+				"Amount": 100
+			}
+		},
+		{
+			"RowName": "Eat_Sausages",
+			"AchievementId": "EAT_SAUSAGES",
+			"Values": 
+			{
+				"Action": "Eat",
+				"Item": "ctg_Sausage",
+				"Amount": 100
+			}
+		},
+		{
+			"RowName": "Eat_Coffee",
+			"AchievementId": "EAT_COFFEE",
+			"Values": 
+			{
+				"Action": "Eat",
+				"Item": "Ctg_Coffee",
+				"Amount": 100
+			}
+		},
+		{
+			"RowName": "Eat_DisasterDish",
+			"AchievementId": "EAT_DISASTERDISH",
+			"Values": 
+			{
+				"Action": "Eat",
+				"Item": "ctg_DisasterDish",
+				"Amount": 100
+			}
+		},
+		{
+			"RowName": "Ship_Fish_100",
+			"AchievementId": "SHIP_FISH",
+			"Values": 
+			{
+				"Action": "Ship",
+				"Item": "Ctg_Fish",
+				"Amount": 100
+			}
+		},
+		{
+			"RowName": "Ship_Fish_500",
+			"AchievementId": "SHIP_FISH",
+			"Values": 
+			{
+				"Action": "Ship",
+				"Item": "Ctg_Fish",
+				"Amount": 500
+			}
+		},
+		{
+			"RowName": "Ship_Fish_1000",
+			"AchievementId": "SHIP_FISH",
+			"Values": 
+			{
+				"Action": "Ship",
+				"Item": "Ctg_Fish",
+				"Amount": 1000
+			}
+		},
+		{
+			"RowName": "Ship_Fish_5000",
+			"AchievementId": "SHIP_FISH",
+			"Values": 
+			{
+				"Action": "Ship",
+				"Item": "Ctg_Fish",
+				"Amount": 5000
+			}
+		},
+		{
+			"RowName": "Pick_Up_Flowers",
+			"AchievementId": "PICK_UP_FLOWERS",
+			"Values": 
+			{
+				"Action": "PickUpItemSpawn",
+				"Item": "Ctg_Flowers",
+				"Amount": 0
+			}
+		},
+		{
+			"RowName": "Cut_Logs",
+			"AchievementId": "CHOP_LOGS",
+			"Values": 
+			{
+				"Action": "CutDownTree",
+				"Item": "Ctg_Logs",
+				"Amount": 0
+			}
+		}
+	]
+}

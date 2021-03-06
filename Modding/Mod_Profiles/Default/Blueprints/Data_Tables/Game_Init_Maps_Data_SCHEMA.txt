@@ -1,0 +1,3 @@
+Game_Init_Maps_Data Structure:
+
+NameProperty: string

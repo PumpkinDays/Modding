@@ -1,0 +1,3 @@
+Item_Materials_Data Structure:
+
+Materials: TArray-TAssetPtr<UMaterialInterface>

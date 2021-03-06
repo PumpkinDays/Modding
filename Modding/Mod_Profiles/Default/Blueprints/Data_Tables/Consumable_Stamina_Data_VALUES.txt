@@ -1,0 +1,3929 @@
+{
+	"Rows": 
+	[
+		{
+			"RowName": "Carrot",
+			"StaminaReward": 5
+		},
+		{
+			"RowName": "Almonds",
+			"StaminaReward": 2
+		},
+		{
+			"RowName": "Apple",
+			"StaminaReward": 5
+		},
+		{
+			"RowName": "Apricot",
+			"StaminaReward": 5
+		},
+		{
+			"RowName": "Artichoke",
+			"StaminaReward": 2
+		},
+		{
+			"RowName": "Asparagus",
+			"StaminaReward": 2
+		},
+		{
+			"RowName": "Avocado",
+			"StaminaReward": 2
+		},
+		{
+			"RowName": "Barley",
+			"StaminaReward": 1
+		},
+		{
+			"RowName": "Beet",
+			"StaminaReward": 2
+		},
+		{
+			"RowName": "Bell_Pepper",
+			"StaminaReward": 2
+		},
+		{
+			"RowName": "Blackberries",
+			"StaminaReward": 5
+		},
+		{
+			"RowName": "Broccoli",
+			"StaminaReward": 5
+		},
+		{
+			"RowName": "Brussel_Sprouts",
+			"StaminaReward": 2
+		},
+		{
+			"RowName": "Cabbage",
+			"StaminaReward": 5
+		},
+		{
+			"RowName": "Cantaloupe",
+			"StaminaReward": 5
+		},
+		{
+			"RowName": "Cauliflower",
+			"StaminaReward": 1
+		},
+		{
+			"RowName": "Celery",
+			"StaminaReward": 2
+		},
+		{
+			"RowName": "Cherries",
+			"StaminaReward": 5
+		},
+		{
+			"RowName": "Chestnut",
+			"StaminaReward": 2
+		},
+		{
+			"RowName": "Chickpeas",
+			"StaminaReward": 1
+		},
+		{
+			"RowName": "Cocoa",
+			"StaminaReward": 1
+		},
+		{
+			"RowName": "Collard_Greens",
+			"StaminaReward": 2
+		},
+		{
+			"RowName": "Corn",
+			"StaminaReward": 1
+		},
+		{
+			"RowName": "Cotton",
+			"StaminaReward": -5
+		},
+		{
+			"RowName": "Cranberries",
+			"StaminaReward": 5
+		},
+		{
+			"RowName": "Cucumber",
+			"StaminaReward": 5
+		},
+		{
+			"RowName": "Dates",
+			"StaminaReward": 2
+		},
+		{
+			"RowName": "Durian",
+			"StaminaReward": 2
+		},
+		{
+			"RowName": "Eggplant",
+			"StaminaReward": 2
+		},
+		{
+			"RowName": "Fig",
+			"StaminaReward": 2
+		},
+		{
+			"RowName": "Ginger",
+			"StaminaReward": 1
+		},
+		{
+			"RowName": "Grapefruit",
+			"StaminaReward": 5
+		},
+		{
+			"RowName": "Grapes",
+			"StaminaReward": 5
+		},
+		{
+			"RowName": "Green_Beans",
+			"StaminaReward": 1
+		},
+		{
+			"RowName": "Guava",
+			"StaminaReward": 5
+		},
+		{
+			"RowName": "Hazelnut",
+			"StaminaReward": 2
+		},
+		{
+			"RowName": "Honeydew",
+			"StaminaReward": 5
+		},
+		{
+			"RowName": "Jalapeno",
+			"StaminaReward": 1
+		},
+		{
+			"RowName": "Kale",
+			"StaminaReward": 2
+		},
+		{
+			"RowName": "Kidney_Beans",
+			"StaminaReward": 1
+		},
+		{
+			"RowName": "Kiwi",
+			"StaminaReward": 5
+		},
+		{
+			"RowName": "Kumguats",
+			"StaminaReward": 5
+		},
+		{
+			"RowName": "Leek",
+			"StaminaReward": 2
+		},
+		{
+			"RowName": "Lemon",
+			"StaminaReward": 2
+		},
+		{
+			"RowName": "Lentils",
+			"StaminaReward": 1
+		},
+		{
+			"RowName": "Lettuce",
+			"StaminaReward": 2
+		},
+		{
+			"RowName": "Lime",
+			"StaminaReward": 1
+		},
+		{
+			"RowName": "Lychees",
+			"StaminaReward": 2
+		},
+		{
+			"RowName": "Macadamia",
+			"StaminaReward": 2
+		},
+		{
+			"RowName": "Mandarin",
+			"StaminaReward": 5
+		},
+		{
+			"RowName": "Mango",
+			"StaminaReward": 5
+		},
+		{
+			"RowName": "Mushroom",
+			"StaminaReward": 5
+		},
+		{
+			"RowName": "Nutmeg",
+			"StaminaReward": 1
+		},
+		{
+			"RowName": "Olives",
+			"StaminaReward": 5
+		},
+		{
+			"RowName": "Orange",
+			"StaminaReward": 5
+		},
+		{
+			"RowName": "Papaya",
+			"StaminaReward": 5
+		},
+		{
+			"RowName": "Passion_Fruit",
+			"StaminaReward": 5
+		},
+		{
+			"RowName": "Peach",
+			"StaminaReward": 5
+		},
+		{
+			"RowName": "Peanuts",
+			"StaminaReward": 5
+		},
+		{
+			"RowName": "Pear",
+			"StaminaReward": 5
+		},
+		{
+			"RowName": "Peas",
+			"StaminaReward": 1
+		},
+		{
+			"RowName": "Pecans",
+			"StaminaReward": 2
+		},
+		{
+			"RowName": "Peppercorn",
+			"StaminaReward": 1
+		},
+		{
+			"RowName": "Pineapple",
+			"StaminaReward": 20
+		},
+		{
+			"RowName": "Pistachios",
+			"StaminaReward": 2
+		},
+		{
+			"RowName": "Plum",
+			"StaminaReward": 5
+		},
+		{
+			"RowName": "Pomegranate",
+			"StaminaReward": 5
+		},
+		{
+			"RowName": "Potato",
+			"StaminaReward": 1
+		},
+		{
+			"RowName": "Pumpkin",
+			"StaminaReward": 5
+		},
+		{
+			"RowName": "Raspberries",
+			"StaminaReward": 5
+		},
+		{
+			"RowName": "Rhubarb",
+			"StaminaReward": -50
+		},
+		{
+			"RowName": "Soybeans",
+			"StaminaReward": 2
+		},
+		{
+			"RowName": "Spinach",
+			"StaminaReward": 2
+		},
+		{
+			"RowName": "Starfruit",
+			"StaminaReward": 5
+		},
+		{
+			"RowName": "Strawberries",
+			"StaminaReward": 5
+		},
+		{
+			"RowName": "Sugarcane",
+			"StaminaReward": 5
+		},
+		{
+			"RowName": "Sugarfruit",
+			"StaminaReward": 5
+		},
+		{
+			"RowName": "Sweet_Potato",
+			"StaminaReward": 2
+		},
+		{
+			"RowName": "Tomato",
+			"StaminaReward": 5
+		},
+		{
+			"RowName": "Turnip",
+			"StaminaReward": 5
+		},
+		{
+			"RowName": "Walnuts",
+			"StaminaReward": 2
+		},
+		{
+			"RowName": "Watermelon",
+			"StaminaReward": 5
+		},
+		{
+			"RowName": "Wheat",
+			"StaminaReward": 2
+		},
+		{
+			"RowName": "Zucchini",
+			"StaminaReward": 2
+		},
+		{
+			"RowName": "Blueberries",
+			"StaminaReward": 5
+		},
+		{
+			"RowName": "Coffee",
+			"StaminaReward": 2
+		},
+		{
+			"RowName": "Black_Beans",
+			"StaminaReward": 2
+		},
+		{
+			"RowName": "Oats",
+			"StaminaReward": 1
+		},
+		{
+			"RowName": "Garlic",
+			"StaminaReward": 1
+		},
+		{
+			"RowName": "Hamburger",
+			"StaminaReward": 80
+		},
+		{
+			"RowName": "Onion",
+			"StaminaReward": 2
+		},
+		{
+			"RowName": "Rice",
+			"StaminaReward": 1
+		},
+		{
+			"RowName": "Duck_Meat",
+			"StaminaReward": -10
+		},
+		{
+			"RowName": "Duck_Egg",
+			"StaminaReward": 2
+		},
+		{
+			"RowName": "Duckanaise",
+			"StaminaReward": 1
+		},
+		{
+			"RowName": "Chicken_Meat",
+			"StaminaReward": -20
+		},
+		{
+			"RowName": "Chicken_Egg",
+			"StaminaReward": 2
+		},
+		{
+			"RowName": "Emu_Egg",
+			"StaminaReward": 2
+		},
+		{
+			"RowName": "Beef",
+			"StaminaReward": -5
+		},
+		{
+			"RowName": "Milk",
+			"StaminaReward": 5
+		},
+		{
+			"RowName": "Goat_Milk",
+			"StaminaReward": 5
+		},
+		{
+			"RowName": "Goat_Meat",
+			"StaminaReward": -10
+		},
+		{
+			"RowName": "Feta_Cheese",
+			"StaminaReward": 5
+		},
+		{
+			"RowName": "Mutton",
+			"StaminaReward": -10
+		},
+		{
+			"RowName": "Pork",
+			"StaminaReward": -40
+		},
+		{
+			"RowName": "Bison_Meat",
+			"StaminaReward": -10
+		},
+		{
+			"RowName": "Butter",
+			"StaminaReward": 1
+		},
+		{
+			"RowName": "Mayonaise",
+			"StaminaReward": 1
+		},
+		{
+			"RowName": "Cheese",
+			"StaminaReward": 5
+		},
+		{
+			"RowName": "Kelp_Bass",
+			"StaminaReward": 2
+		},
+		{
+			"RowName": "Needle_Fish",
+			"StaminaReward": 1
+		},
+		{
+			"RowName": "File_Fish",
+			"StaminaReward": 1
+		},
+		{
+			"RowName": "Rock_Trout",
+			"StaminaReward": 1
+		},
+		{
+			"RowName": "Fluke",
+			"StaminaReward": 1
+		},
+		{
+			"RowName": "Bonito",
+			"StaminaReward": 2
+		},
+		{
+			"RowName": "Sardine",
+			"StaminaReward": 1
+		},
+		{
+			"RowName": "Herring",
+			"StaminaReward": 1
+		},
+		{
+			"RowName": "Squid",
+			"StaminaReward": 1
+		},
+		{
+			"RowName": "Sea_Bass",
+			"StaminaReward": 0
+		},
+		{
+			"RowName": "Saltwater_Catfish",
+			"StaminaReward": 2
+		},
+		{
+			"RowName": "Pufferfish",
+			"StaminaReward": -100
+		},
+		{
+			"RowName": "Swordfish",
+			"StaminaReward": 3
+		},
+		{
+			"RowName": "Blue_Marlin",
+			"StaminaReward": 3
+		},
+		{
+			"RowName": "Tuna",
+			"StaminaReward": 3
+		},
+		{
+			"RowName": "Cod",
+			"StaminaReward": 2
+		},
+		{
+			"RowName": "Sable_Fish",
+			"StaminaReward": 2
+		},
+		{
+			"RowName": "Mackerel",
+			"StaminaReward": 3
+		},
+		{
+			"RowName": "Flounder",
+			"StaminaReward": 3
+		},
+		{
+			"RowName": "Snapper",
+			"StaminaReward": 3
+		},
+		{
+			"RowName": "Grouper",
+			"StaminaReward": 3
+		},
+		{
+			"RowName": "Saury_Pike",
+			"StaminaReward": 2
+		},
+		{
+			"RowName": "Red_Snapper",
+			"StaminaReward": 3
+		},
+		{
+			"RowName": "Scad",
+			"StaminaReward": 2
+		},
+		{
+			"RowName": "Sandfish",
+			"StaminaReward": 2
+		},
+		{
+			"RowName": "Yellow_Tail",
+			"StaminaReward": 3
+		},
+		{
+			"RowName": "Greenling",
+			"StaminaReward": 2
+		},
+		{
+			"RowName": "Lion_Fish",
+			"StaminaReward": -100
+		},
+		{
+			"RowName": "Octopus",
+			"StaminaReward": -10
+		},
+		{
+			"RowName": "Anchovies",
+			"StaminaReward": 2
+		},
+		{
+			"RowName": "Haddock",
+			"StaminaReward": 0
+		},
+		{
+			"RowName": "Halibut",
+			"StaminaReward": 0
+		},
+		{
+			"RowName": "John_Dory",
+			"StaminaReward": 2
+		},
+		{
+			"RowName": "Lamprey",
+			"StaminaReward": 1
+		},
+		{
+			"RowName": "Mahi_Mahi",
+			"StaminaReward": 4
+		},
+		{
+			"RowName": "Monkfish",
+			"StaminaReward": 1
+		},
+		{
+			"RowName": "Wahoo",
+			"StaminaReward": 2
+		},
+		{
+			"RowName": "Knife_Jaw",
+			"StaminaReward": 3
+		},
+		{
+			"RowName": "Giant_Trevally",
+			"StaminaReward": 10
+		},
+		{
+			"RowName": "Jellyfish",
+			"StaminaReward": -20
+		},
+		{
+			"RowName": "Milkfish",
+			"StaminaReward": 1
+		},
+		{
+			"RowName": "Bass",
+			"StaminaReward": 0
+		},
+		{
+			"RowName": "Blue_Gill",
+			"StaminaReward": 3
+		},
+		{
+			"RowName": "Mullet",
+			"StaminaReward": 2
+		},
+		{
+			"RowName": "Catfish",
+			"StaminaReward": 3
+		},
+		{
+			"RowName": "Lake_Eel",
+			"StaminaReward": 1
+		},
+		{
+			"RowName": "Cherry_Salmon",
+			"StaminaReward": 3
+		},
+		{
+			"RowName": "Whitefish",
+			"StaminaReward": 2
+		},
+		{
+			"RowName": "Carp_Gold",
+			"StaminaReward": 3
+		},
+		{
+			"RowName": "Carp_Silver",
+			"StaminaReward": 3
+		},
+		{
+			"RowName": "Black_Bass",
+			"StaminaReward": 3
+		},
+		{
+			"RowName": "Crucian_Carp",
+			"StaminaReward": 3
+		},
+		{
+			"RowName": "Snakehead",
+			"StaminaReward": -10
+		},
+		{
+			"RowName": "Lake_Smelt",
+			"StaminaReward": 3
+		},
+		{
+			"RowName": "Northern_Pike",
+			"StaminaReward": 3
+		},
+		{
+			"RowName": "Rock_Bass",
+			"StaminaReward": 0
+		},
+		{
+			"RowName": "Large_Mouth_Bass",
+			"StaminaReward": 3
+		},
+		{
+			"RowName": "Walleye",
+			"StaminaReward": 2
+		},
+		{
+			"RowName": "Piranha",
+			"StaminaReward": -5
+		},
+		{
+			"RowName": "Salmon",
+			"StaminaReward": 6
+		},
+		{
+			"RowName": "Tiger_Fish",
+			"StaminaReward": 3
+		},
+		{
+			"RowName": "Mountain_Trout",
+			"StaminaReward": 3
+		},
+		{
+			"RowName": "Bitterling",
+			"StaminaReward": 2
+		},
+		{
+			"RowName": "Eel_Saltwater",
+			"StaminaReward": 1
+		},
+		{
+			"RowName": "Big_Head_Carp",
+			"StaminaReward": 3
+		},
+		{
+			"RowName": "Bream",
+			"StaminaReward": 3
+		},
+		{
+			"RowName": "Arctic_Char",
+			"StaminaReward": 3
+		},
+		{
+			"RowName": "Rainbow_Trout",
+			"StaminaReward": 3
+		},
+		{
+			"RowName": "Dace",
+			"StaminaReward": 2
+		},
+		{
+			"RowName": "Sturgeon",
+			"StaminaReward": 1
+		},
+		{
+			"RowName": "Arapaima",
+			"StaminaReward": 6
+		},
+		{
+			"RowName": "Chub",
+			"StaminaReward": 2
+		},
+		{
+			"RowName": "Tench",
+			"StaminaReward": 2
+		},
+		{
+			"RowName": "Barbed_Steed",
+			"StaminaReward": 2
+		},
+		{
+			"RowName": "River_Bass",
+			"StaminaReward": 3
+		},
+		{
+			"RowName": "Loach",
+			"StaminaReward": 1
+		},
+		{
+			"RowName": "Frog",
+			"StaminaReward": -10
+		},
+		{
+			"RowName": "Crawdad",
+			"StaminaReward": 1
+		},
+		{
+			"RowName": "Zebra_Mussel",
+			"StaminaReward": 1
+		},
+		{
+			"RowName": "Mudcrab",
+			"StaminaReward": 2
+		},
+		{
+			"RowName": "Rock_Lobster",
+			"StaminaReward": 2
+		},
+		{
+			"RowName": "Coconut_Crab",
+			"StaminaReward": 2
+		},
+		{
+			"RowName": "Dungeoness_Crab",
+			"StaminaReward": 2
+		},
+		{
+			"RowName": "Ghost_Crab",
+			"StaminaReward": 2
+		},
+		{
+			"RowName": "Crab",
+			"StaminaReward": 2
+		},
+		{
+			"RowName": "Lobster",
+			"StaminaReward": 2
+		},
+		{
+			"RowName": "Shrimp",
+			"StaminaReward": 2
+		},
+		{
+			"RowName": "Mitten_Crab",
+			"StaminaReward": 2
+		},
+		{
+			"RowName": "Abalone",
+			"StaminaReward": 1
+		},
+		{
+			"RowName": "Chambered_Nautilus",
+			"StaminaReward": 1
+		},
+		{
+			"RowName": "Clam",
+			"StaminaReward": 1
+		},
+		{
+			"RowName": "Spider_Crab",
+			"StaminaReward": 1
+		},
+		{
+			"RowName": "Horse_Hair_Crab",
+			"StaminaReward": 2
+		},
+		{
+			"RowName": "Oyster",
+			"StaminaReward": 2
+		},
+		{
+			"RowName": "Red_King_Crab",
+			"StaminaReward": 3
+		},
+		{
+			"RowName": "Spiny_Lobster",
+			"StaminaReward": 3
+		},
+		{
+			"RowName": "Scallops",
+			"StaminaReward": 2
+		},
+		{
+			"RowName": "Sea_Cucumber",
+			"StaminaReward": -20
+		},
+		{
+			"RowName": "Sea_Urchin",
+			"StaminaReward": -50
+		},
+		{
+			"RowName": "Seaweed",
+			"StaminaReward": 1
+		},
+		{
+			"RowName": "Snow_Crab",
+			"StaminaReward": 3
+		},
+		{
+			"RowName": "Sweet_Shrimp",
+			"StaminaReward": 3
+		},
+		{
+			"RowName": "Tiger_Prawn",
+			"StaminaReward": 0
+		},
+		{
+			"RowName": "Turban_Shell",
+			"StaminaReward": 1
+		},
+		{
+			"RowName": "Conch_Shell",
+			"StaminaReward": 1
+		},
+		{
+			"RowName": "Starfish",
+			"StaminaReward": 1
+		},
+		{
+			"RowName": "Mantis_Shrimp",
+			"StaminaReward": 2
+		},
+		{
+			"RowName": "Saddled_Bichir",
+			"StaminaReward": 1
+		},
+		{
+			"RowName": "Hawaiin_Pizza",
+			"StaminaReward": 100
+		},
+		{
+			"RowName": "Cheese_Pizza",
+			"StaminaReward": 80
+		},
+		{
+			"RowName": "Ham_Pizza",
+			"StaminaReward": 100
+		},
+		{
+			"RowName": "Chicken_Pizza",
+			"StaminaReward": 100
+		},
+		{
+			"RowName": "Spicy_Pizza",
+			"StaminaReward": 100
+		},
+		{
+			"RowName": "Meaty_Pizza",
+			"StaminaReward": 100
+		},
+		{
+			"RowName": "Spinach_&_Mushroom_Pizza",
+			"StaminaReward": 80
+		},
+		{
+			"RowName": "Herb_Pizza",
+			"StaminaReward": 60
+		},
+		{
+			"RowName": "Turnip_Soup",
+			"StaminaReward": 20
+		},
+		{
+			"RowName": "Leeks_Soup",
+			"StaminaReward": 30
+		},
+		{
+			"RowName": "Onion_Soup",
+			"StaminaReward": 20
+		},
+		{
+			"RowName": "Pumpkin_Soup",
+			"StaminaReward": 60
+		},
+		{
+			"RowName": "Carrot_Soup",
+			"StaminaReward": 30
+		},
+		{
+			"RowName": "Mushroom_Soup",
+			"StaminaReward": 30
+		},
+		{
+			"RowName": "Potato_Soup",
+			"StaminaReward": 30
+		},
+		{
+			"RowName": "Tomato_Soup",
+			"StaminaReward": 30
+		},
+		{
+			"RowName": "Asparagus_Soup",
+			"StaminaReward": 30
+		},
+		{
+			"RowName": "Sweet_Potato_Soup",
+			"StaminaReward": 30
+		},
+		{
+			"RowName": "Veggie_Soup",
+			"StaminaReward": 50
+		},
+		{
+			"RowName": "Potato_&_Corn_Soup",
+			"StaminaReward": 20
+		},
+		{
+			"RowName": "Ham_&_Potato_Soup",
+			"StaminaReward": 40
+		},
+		{
+			"RowName": "Chicken_Taco_Soup",
+			"StaminaReward": 60
+		},
+		{
+			"RowName": "Broccoli_Soup",
+			"StaminaReward": 60
+		},
+		{
+			"RowName": "Spicy_Chicken_Soup",
+			"StaminaReward": 100
+		},
+		{
+			"RowName": "Chicken_Noodle_Soup",
+			"StaminaReward": 80
+		},
+		{
+			"RowName": "Fancy_Vegetable_Soup",
+			"StaminaReward": 100
+		},
+		{
+			"RowName": "Carrot_and_Ginger_Soup",
+			"StaminaReward": 30
+		},
+		{
+			"RowName": "Cabbage_Soup",
+			"StaminaReward": 50
+		},
+		{
+			"RowName": "Spinach_&_Leek_Soup",
+			"StaminaReward": 50
+		},
+		{
+			"RowName": "Pumpkin_Coconut_Soup",
+			"StaminaReward": 60
+		},
+		{
+			"RowName": "Lentil_Soup",
+			"StaminaReward": 40
+		},
+		{
+			"RowName": "Chickpea_Soup",
+			"StaminaReward": 30
+		},
+		{
+			"RowName": "Corn_Chowder_Soup",
+			"StaminaReward": 40
+		},
+		{
+			"RowName": "Creamy_Turnip_Soup",
+			"StaminaReward": 70
+		},
+		{
+			"RowName": "Potato_&_Leek_Soup",
+			"StaminaReward": 40
+		},
+		{
+			"RowName": "Beet_Soup",
+			"StaminaReward": 30
+		},
+		{
+			"RowName": "Chestnut_Soup",
+			"StaminaReward": 40
+		},
+		{
+			"RowName": "Red_Sauce_Pasta",
+			"StaminaReward": 50
+		},
+		{
+			"RowName": "Spagetti_&_Meatballs",
+			"StaminaReward": 80
+		},
+		{
+			"RowName": "Alfredo_Sauce_Pasta",
+			"StaminaReward": 50
+		},
+		{
+			"RowName": "Artichoke_and_Spinach_Pasta",
+			"StaminaReward": 40
+		},
+		{
+			"RowName": "Mushroom_Pasta",
+			"StaminaReward": 50
+		},
+		{
+			"RowName": "Veggie_Pasta",
+			"StaminaReward": 80
+		},
+		{
+			"RowName": "Chicken_Pasta",
+			"StaminaReward": 70
+		},
+		{
+			"RowName": "Mac_and_Cheese",
+			"StaminaReward": 80
+		},
+		{
+			"RowName": "Maguro_Nigiri",
+			"StaminaReward": 100
+		},
+		{
+			"RowName": "Kappa_Maki",
+			"StaminaReward": 50
+		},
+		{
+			"RowName": "Sake_Nigiri",
+			"StaminaReward": 40
+		},
+		{
+			"RowName": "Toro",
+			"StaminaReward": 100
+		},
+		{
+			"RowName": "Amabi",
+			"StaminaReward": 50
+		},
+		{
+			"RowName": "Ebi_Nigiri",
+			"StaminaReward": 60
+		},
+		{
+			"RowName": "Hamachi",
+			"StaminaReward": 100
+		},
+		{
+			"RowName": "Anago",
+			"StaminaReward": 80
+		},
+		{
+			"RowName": "Ika_Nigiri",
+			"StaminaReward": 60
+		},
+		{
+			"RowName": "Tamagoyaki",
+			"StaminaReward": 50
+		},
+		{
+			"RowName": "Hotate_Nigiri",
+			"StaminaReward": 60
+		},
+		{
+			"RowName": "Tai",
+			"StaminaReward": 100
+		},
+		{
+			"RowName": "Tako_Nigiri",
+			"StaminaReward": 100
+		},
+		{
+			"RowName": "Saba",
+			"StaminaReward": 100
+		},
+		{
+			"RowName": "Tekkamaki",
+			"StaminaReward": 100
+		},
+		{
+			"RowName": "Futomaki",
+			"StaminaReward": 80
+		},
+		{
+			"RowName": "Natto_Maki",
+			"StaminaReward": 60
+		},
+		{
+			"RowName": "Kani_Nigiri",
+			"StaminaReward": 60
+		},
+		{
+			"RowName": "Iseebi",
+			"StaminaReward": 90
+		},
+		{
+			"RowName": "Shirasu",
+			"StaminaReward": 60
+		},
+		{
+			"RowName": "Tsunamayo_maki",
+			"StaminaReward": 100
+		},
+		{
+			"RowName": "Engawa",
+			"StaminaReward": 60
+		},
+		{
+			"RowName": "Uramaki",
+			"StaminaReward": 60
+		},
+		{
+			"RowName": "Namera",
+			"StaminaReward": 90
+		},
+		{
+			"RowName": "Ohyou",
+			"StaminaReward": 100
+		},
+		{
+			"RowName": "Suzuki",
+			"StaminaReward": 60
+		},
+		{
+			"RowName": "Masu",
+			"StaminaReward": 60
+		},
+		{
+			"RowName": "Anakyu",
+			"StaminaReward": 80
+		},
+		{
+			"RowName": "Spicy_Tuna",
+			"StaminaReward": 100
+		},
+		{
+			"RowName": "Umekyu",
+			"StaminaReward": 60
+		},
+		{
+			"RowName": "Gyu_Nigiri",
+			"StaminaReward": 80
+		},
+		{
+			"RowName": "Strawberry_Icecream",
+			"StaminaReward": 50
+		},
+		{
+			"RowName": "Cranberry_Icecream",
+			"StaminaReward": 50
+		},
+		{
+			"RowName": "Pumpkin_Icecream",
+			"StaminaReward": 70
+		},
+		{
+			"RowName": "Rasberry_Icecream",
+			"StaminaReward": 60
+		},
+		{
+			"RowName": "Vanilla_Icecream",
+			"StaminaReward": 70
+		},
+		{
+			"RowName": "Chocolate_Icecream",
+			"StaminaReward": 70
+		},
+		{
+			"RowName": "Cherry_Icecream",
+			"StaminaReward": 80
+		},
+		{
+			"RowName": "Lemon_Icecream",
+			"StaminaReward": 60
+		},
+		{
+			"RowName": "Apple_Icecream",
+			"StaminaReward": 60
+		},
+		{
+			"RowName": "Coconut_Icecream",
+			"StaminaReward": 70
+		},
+		{
+			"RowName": "Banana_Icecream",
+			"StaminaReward": 80
+		},
+		{
+			"RowName": "Mango_Icecream",
+			"StaminaReward": 70
+		},
+		{
+			"RowName": "Hazelnut_Icecream",
+			"StaminaReward": 60
+		},
+		{
+			"RowName": "Mint_Icecream",
+			"StaminaReward": 50
+		},
+		{
+			"RowName": "Coffee_Icecream",
+			"StaminaReward": 70
+		},
+		{
+			"RowName": "Lavender_Icecream",
+			"StaminaReward": 70
+		},
+		{
+			"RowName": "Watermelon_Icecream",
+			"StaminaReward": 70
+		},
+		{
+			"RowName": "Cantaloupe_Icecream",
+			"StaminaReward": 70
+		},
+		{
+			"RowName": "Walnut_Icecream",
+			"StaminaReward": 70
+		},
+		{
+			"RowName": "Chestnut_Icecream",
+			"StaminaReward": 60
+		},
+		{
+			"RowName": "Almond_Icecream",
+			"StaminaReward": 60
+		},
+		{
+			"RowName": "Lychee_Icecream",
+			"StaminaReward": 60
+		},
+		{
+			"RowName": "Macadamia_Icecream",
+			"StaminaReward": 80
+		},
+		{
+			"RowName": "Chocolate_Chip_Sundae",
+			"StaminaReward": 80
+		},
+		{
+			"RowName": "Brownie_Sundae",
+			"StaminaReward": 100
+		},
+		{
+			"RowName": "Cookie_Icecream",
+			"StaminaReward": 100
+		},
+		{
+			"RowName": "Coconut_Curry",
+			"StaminaReward": 80
+		},
+		{
+			"RowName": "Coconut_Fish_Curry",
+			"StaminaReward": 100
+		},
+		{
+			"RowName": "Coconut_Pork_Curry",
+			"StaminaReward": 100
+		},
+		{
+			"RowName": "Coconut_Chicken_Curry",
+			"StaminaReward": 100
+		},
+		{
+			"RowName": "Coconut_Beef_Curry",
+			"StaminaReward": 100
+		},
+		{
+			"RowName": "Coconut_Goat_Curry",
+			"StaminaReward": 100
+		},
+		{
+			"RowName": "Coconut_Lamb_Curry",
+			"StaminaReward": 100
+		},
+		{
+			"RowName": "Potato_Curry",
+			"StaminaReward": 70
+		},
+		{
+			"RowName": "Potato_Fish_Curry",
+			"StaminaReward": 100
+		},
+		{
+			"RowName": "Potato_Pork_Curry",
+			"StaminaReward": 100
+		},
+		{
+			"RowName": "Potato_Chicken_Curry",
+			"StaminaReward": 100
+		},
+		{
+			"RowName": "Potato_Beef_Curry",
+			"StaminaReward": 100
+		},
+		{
+			"RowName": "Potato_Goat_Curry",
+			"StaminaReward": 100
+		},
+		{
+			"RowName": "Potato_Lamb_Curry",
+			"StaminaReward": 100
+		},
+		{
+			"RowName": "Pumpkin_Curry",
+			"StaminaReward": 100
+		},
+		{
+			"RowName": "Pumpkin_Fish_Curry",
+			"StaminaReward": 100
+		},
+		{
+			"RowName": "Pumpkin_Pork_Curry",
+			"StaminaReward": 100
+		},
+		{
+			"RowName": "Pumpkin_Chicken_Curry",
+			"StaminaReward": 100
+		},
+		{
+			"RowName": "Pumpkin_Beef_Curry",
+			"StaminaReward": 100
+		},
+		{
+			"RowName": "Pumpkin_Goat_Curry",
+			"StaminaReward": 100
+		},
+		{
+			"RowName": "Pumpkin_Lamb_Curry",
+			"StaminaReward": 100
+		},
+		{
+			"RowName": "Mango_Curry",
+			"StaminaReward": 90
+		},
+		{
+			"RowName": "Mango_Fish_Curry",
+			"StaminaReward": 100
+		},
+		{
+			"RowName": "Mango_Pork_Curry",
+			"StaminaReward": 100
+		},
+		{
+			"RowName": "Mango_Chicken_Curry",
+			"StaminaReward": 100
+		},
+		{
+			"RowName": "Mango_Beef_Curry",
+			"StaminaReward": 100
+		},
+		{
+			"RowName": "Mango_Goat_Curry",
+			"StaminaReward": 100
+		},
+		{
+			"RowName": "Mango_Lamb_Curry",
+			"StaminaReward": 100
+		},
+		{
+			"RowName": "Spicy_Curry",
+			"StaminaReward": 80
+		},
+		{
+			"RowName": "Fish_Curry",
+			"StaminaReward": 80
+		},
+		{
+			"RowName": "Pork_Curry",
+			"StaminaReward": 80
+		},
+		{
+			"RowName": "Chicken_Curry",
+			"StaminaReward": 80
+		},
+		{
+			"RowName": "Beef_Curry",
+			"StaminaReward": 100
+		},
+		{
+			"RowName": "Goat_Curry",
+			"StaminaReward": 100
+		},
+		{
+			"RowName": "Lamb_Curry",
+			"StaminaReward": 100
+		},
+		{
+			"RowName": "Vegetable_Salad",
+			"StaminaReward": 40
+		},
+		{
+			"RowName": "Italian_Salad",
+			"StaminaReward": 40
+		},
+		{
+			"RowName": "Spinach_Pomegranate_Salad",
+			"StaminaReward": 40
+		},
+		{
+			"RowName": "Spinach_&_Strawberry_Salad",
+			"StaminaReward": 50
+		},
+		{
+			"RowName": "Cesar_Salad",
+			"StaminaReward": 90
+		},
+		{
+			"RowName": "Coleslaw",
+			"StaminaReward": 60
+		},
+		{
+			"RowName": "Fancy_Cucumber_Salad",
+			"StaminaReward": 50
+		},
+		{
+			"RowName": "Apple_Slaw",
+			"StaminaReward": 60
+		},
+		{
+			"RowName": "Melon_Salad",
+			"StaminaReward": 50
+		},
+		{
+			"RowName": "Avacado_and_Feta_Salad",
+			"StaminaReward": 90
+		},
+		{
+			"RowName": "Chocolate_Chip_Cookies",
+			"StaminaReward": 80
+		},
+		{
+			"RowName": "Sugar_Cookies",
+			"StaminaReward": 50
+		},
+		{
+			"RowName": "Ginger_Cookies",
+			"StaminaReward": 50
+		},
+		{
+			"RowName": "Oatmeal_Cookies",
+			"StaminaReward": 50
+		},
+		{
+			"RowName": "Peanut_Butter_Cookies",
+			"StaminaReward": 60
+		},
+		{
+			"RowName": "Pumpkin_Cookies",
+			"StaminaReward": 70
+		},
+		{
+			"RowName": "Raspberry_Cookies",
+			"StaminaReward": 50
+		},
+		{
+			"RowName": "Cranberry_Cookies",
+			"StaminaReward": 60
+		},
+		{
+			"RowName": "Pistachio_Apricot_Square",
+			"StaminaReward": 60
+		},
+		{
+			"RowName": "Apple_Cookies",
+			"StaminaReward": 50
+		},
+		{
+			"RowName": "Coconut_Cookies",
+			"StaminaReward": 60
+		},
+		{
+			"RowName": "Russian_Teacakes",
+			"StaminaReward": 70
+		},
+		{
+			"RowName": "Lavender_Cookies",
+			"StaminaReward": 60
+		},
+		{
+			"RowName": "Chocolate_Mint_Cookies",
+			"StaminaReward": 70
+		},
+		{
+			"RowName": "Brownies",
+			"StaminaReward": 100
+		},
+		{
+			"RowName": "Vanilla_Cherry_Cookies",
+			"StaminaReward": 70
+		},
+		{
+			"RowName": "Lemon_Cookies",
+			"StaminaReward": 50
+		},
+		{
+			"RowName": "Orange_Cookies",
+			"StaminaReward": 50
+		},
+		{
+			"RowName": "Apple_Walnut_Squares",
+			"StaminaReward": 100
+		},
+		{
+			"RowName": "Rhubarb_Cookies",
+			"StaminaReward": 50
+		},
+		{
+			"RowName": "Walnut_Cookies",
+			"StaminaReward": 50
+		},
+		{
+			"RowName": "Kumguat_Cookies",
+			"StaminaReward": 50
+		},
+		{
+			"RowName": "Almond_Cookies",
+			"StaminaReward": 50
+		},
+		{
+			"RowName": "Macadamia_Cookies",
+			"StaminaReward": 60
+		},
+		{
+			"RowName": "Cranberry_Jam_Cookies",
+			"StaminaReward": 100
+		},
+		{
+			"RowName": "Chocolate_Mint_Filling_Cookies",
+			"StaminaReward": 100
+		},
+		{
+			"RowName": "Blueberry_Crumbs",
+			"StaminaReward": 100
+		},
+		{
+			"RowName": "Chocolate_Cherry_Jam_Cookies",
+			"StaminaReward": 100
+		},
+		{
+			"RowName": "Peach_Almond_Squares",
+			"StaminaReward": 100
+		},
+		{
+			"RowName": "Peach_Almond_Cookies",
+			"StaminaReward": 100
+		},
+		{
+			"RowName": "Raspberry_Almond_Cookies",
+			"StaminaReward": 100
+		},
+		{
+			"RowName": "Strawberry_Squares",
+			"StaminaReward": 100
+		},
+		{
+			"RowName": "Apple_Candy",
+			"StaminaReward": 30
+		},
+		{
+			"RowName": "Apricots_Candy",
+			"StaminaReward": 30
+		},
+		{
+			"RowName": "Blackberry_Candy",
+			"StaminaReward": 30
+		},
+		{
+			"RowName": "Cantaloupe_Candy",
+			"StaminaReward": 30
+		},
+		{
+			"RowName": "Cherry_Candy",
+			"StaminaReward": 30
+		},
+		{
+			"RowName": "Grape_Candy",
+			"StaminaReward": 30
+		},
+		{
+			"RowName": "Grapefruit_Candy",
+			"StaminaReward": 30
+		},
+		{
+			"RowName": "Guava_Candy",
+			"StaminaReward": 30
+		},
+		{
+			"RowName": "Kiwi_Candy",
+			"StaminaReward": 30
+		},
+		{
+			"RowName": "Kumguat_Candy",
+			"StaminaReward": 30
+		},
+		{
+			"RowName": "Lemon_Candy",
+			"StaminaReward": 30
+		},
+		{
+			"RowName": "Lime_Candy",
+			"StaminaReward": 30
+		},
+		{
+			"RowName": "Lychee_Candy",
+			"StaminaReward": 30
+		},
+		{
+			"RowName": "Mango_Candy",
+			"StaminaReward": 30
+		},
+		{
+			"RowName": "Orange_Candy",
+			"StaminaReward": 30
+		},
+		{
+			"RowName": "Passion_Fruit_Candy",
+			"StaminaReward": 30
+		},
+		{
+			"RowName": "Peach_Candy",
+			"StaminaReward": 30
+		},
+		{
+			"RowName": "Peppermint_Candy",
+			"StaminaReward": 30
+		},
+		{
+			"RowName": "Pineapple_Candy",
+			"StaminaReward": 30
+		},
+		{
+			"RowName": "Plum_Candy",
+			"StaminaReward": 30
+		},
+		{
+			"RowName": "Raspberry_Candy",
+			"StaminaReward": 30
+		},
+		{
+			"RowName": "Starfruit_Candy",
+			"StaminaReward": 30
+		},
+		{
+			"RowName": "Strawberry_Candy",
+			"StaminaReward": 30
+		},
+		{
+			"RowName": "Watermelon_Candy",
+			"StaminaReward": 30
+		},
+		{
+			"RowName": "Simple_Cake",
+			"StaminaReward": 60
+		},
+		{
+			"RowName": "Chocolate_Cake",
+			"StaminaReward": 70
+		},
+		{
+			"RowName": "Carrot_Cake",
+			"StaminaReward": 70
+		},
+		{
+			"RowName": "Cheese_Cake",
+			"StaminaReward": 80
+		},
+		{
+			"RowName": "Sweet_Potato_Cake",
+			"StaminaReward": 60
+		},
+		{
+			"RowName": "Pumpkin_Cake",
+			"StaminaReward": 90
+		},
+		{
+			"RowName": "Rasberry_Cake",
+			"StaminaReward": 70
+		},
+		{
+			"RowName": "Banana_Cake",
+			"StaminaReward": 60
+		},
+		{
+			"RowName": "Rum_Cake",
+			"StaminaReward": 80
+		},
+		{
+			"RowName": "Milk_Cake",
+			"StaminaReward": 60
+		},
+		{
+			"RowName": "Apple_Cake",
+			"StaminaReward": 60
+		},
+		{
+			"RowName": "Honey_Cake",
+			"StaminaReward": 60
+		},
+		{
+			"RowName": "Cinnamon_Cake",
+			"StaminaReward": 60
+		},
+		{
+			"RowName": "Blueberry_Cake",
+			"StaminaReward": 70
+		},
+		{
+			"RowName": "Orange_Cake",
+			"StaminaReward": 70
+		},
+		{
+			"RowName": "Coconut_Cake",
+			"StaminaReward": 70
+		},
+		{
+			"RowName": "Pineapple_Cake",
+			"StaminaReward": 100
+		},
+		{
+			"RowName": "Plum_Cake",
+			"StaminaReward": 70
+		},
+		{
+			"RowName": "Cherry_Cake",
+			"StaminaReward": 60
+		},
+		{
+			"RowName": "Pear_Cake",
+			"StaminaReward": 60
+		},
+		{
+			"RowName": "Green_Tea_Cake",
+			"StaminaReward": 70
+		},
+		{
+			"RowName": "Peanut_Butter_Cake",
+			"StaminaReward": 80
+		},
+		{
+			"RowName": "Cranberry_Cake",
+			"StaminaReward": 70
+		},
+		{
+			"RowName": "Rhubarb_Cake",
+			"StaminaReward": 70
+		},
+		{
+			"RowName": "Apple_Walnut_Cake",
+			"StaminaReward": 100
+		},
+		{
+			"RowName": "Chestnut_Cake",
+			"StaminaReward": 70
+		},
+		{
+			"RowName": "Kumguat_Cake",
+			"StaminaReward": 60
+		},
+		{
+			"RowName": "Almond_Cake",
+			"StaminaReward": 70
+		},
+		{
+			"RowName": "Macadamia_Cake",
+			"StaminaReward": 70
+		},
+		{
+			"RowName": "Apple_Jam",
+			"StaminaReward": 6
+		},
+		{
+			"RowName": "Apricot_Jam",
+			"StaminaReward": 6
+		},
+		{
+			"RowName": "Banana_Jam",
+			"StaminaReward": 6
+		},
+		{
+			"RowName": "Blackberry_Jam",
+			"StaminaReward": 6
+		},
+		{
+			"RowName": "Cherry_Jam",
+			"StaminaReward": 6
+		},
+		{
+			"RowName": "Coconut_Jam",
+			"StaminaReward": 6
+		},
+		{
+			"RowName": "Cranberry_Jam",
+			"StaminaReward": 6
+		},
+		{
+			"RowName": "Date_Jam",
+			"StaminaReward": 6
+		},
+		{
+			"RowName": "Dragonfruit_Jam",
+			"StaminaReward": 6
+		},
+		{
+			"RowName": "Fig_Jam",
+			"StaminaReward": 6
+		},
+		{
+			"RowName": "Grape_Jam",
+			"StaminaReward": 6
+		},
+		{
+			"RowName": "Guava_Jam",
+			"StaminaReward": 6
+		},
+		{
+			"RowName": "Kumguat_Jam",
+			"StaminaReward": 6
+		},
+		{
+			"RowName": "Lemon_Jam",
+			"StaminaReward": 6
+		},
+		{
+			"RowName": "Lime_Jam",
+			"StaminaReward": 0
+		},
+		{
+			"RowName": "Lychee_Jam",
+			"StaminaReward": 6
+		},
+		{
+			"RowName": "Mango_Jam",
+			"StaminaReward": 6
+		},
+		{
+			"RowName": "Mint_Jam",
+			"StaminaReward": 6
+		},
+		{
+			"RowName": "Nutmeg_Jam",
+			"StaminaReward": 6
+		},
+		{
+			"RowName": "Orange_Jam",
+			"StaminaReward": 6
+		},
+		{
+			"RowName": "Passionfruit_Jam",
+			"StaminaReward": 6
+		},
+		{
+			"RowName": "Peach_Jam",
+			"StaminaReward": 6
+		},
+		{
+			"RowName": "Pear_Jam",
+			"StaminaReward": 6
+		},
+		{
+			"RowName": "Pineapple_Jam",
+			"StaminaReward": 6
+		},
+		{
+			"RowName": "Plum_Jam",
+			"StaminaReward": 6
+		},
+		{
+			"RowName": "Pomegranate_Jam",
+			"StaminaReward": 6
+		},
+		{
+			"RowName": "Pumpkin_Jam",
+			"StaminaReward": 6
+		},
+		{
+			"RowName": "Raspberry_Jam",
+			"StaminaReward": 6
+		},
+		{
+			"RowName": "Rhubarb_Jam",
+			"StaminaReward": 6
+		},
+		{
+			"RowName": "Starfruit_Jam",
+			"StaminaReward": 6
+		},
+		{
+			"RowName": "Strawberry_Jam",
+			"StaminaReward": 6
+		},
+		{
+			"RowName": "Watermelon_Jam",
+			"StaminaReward": 6
+		},
+		{
+			"RowName": "Chocolate_Spread",
+			"StaminaReward": 6
+		},
+		{
+			"RowName": "Peanut_Butter",
+			"StaminaReward": 6
+		},
+		{
+			"RowName": "Apple_Pie",
+			"StaminaReward": 60
+		},
+		{
+			"RowName": "Grapefruit_Pie",
+			"StaminaReward": 70
+		},
+		{
+			"RowName": "Keylime_Pie",
+			"StaminaReward": 70
+		},
+		{
+			"RowName": "Lemon_Meringe_Pie",
+			"StaminaReward": 70
+		},
+		{
+			"RowName": "Cranberry_Pie",
+			"StaminaReward": 60
+		},
+		{
+			"RowName": "Chocolate_Pie",
+			"StaminaReward": 90
+		},
+		{
+			"RowName": "Pear_Pie",
+			"StaminaReward": 60
+		},
+		{
+			"RowName": "Cherry_Pie",
+			"StaminaReward": 70
+		},
+		{
+			"RowName": "Rhubarb_Pie",
+			"StaminaReward": 70
+		},
+		{
+			"RowName": "Rasberry_Pie",
+			"StaminaReward": 70
+		},
+		{
+			"RowName": "Peanut_Butter_Pie",
+			"StaminaReward": 100
+		},
+		{
+			"RowName": "Pumpkin_Pie",
+			"StaminaReward": 100
+		},
+		{
+			"RowName": "Coconut_Cream_Pie",
+			"StaminaReward": 100
+		},
+		{
+			"RowName": "Banana_Pie",
+			"StaminaReward": 100
+		},
+		{
+			"RowName": "Custard_Pie",
+			"StaminaReward": 100
+		},
+		{
+			"RowName": "Blueberry_Pie",
+			"StaminaReward": 100
+		},
+		{
+			"RowName": "Peaches_Pie",
+			"StaminaReward": 100
+		},
+		{
+			"RowName": "Blackberry_Pie",
+			"StaminaReward": 100
+		},
+		{
+			"RowName": "Sweet_Potato_Pie",
+			"StaminaReward": 100
+		},
+		{
+			"RowName": "Fruit_Pie",
+			"StaminaReward": 100
+		},
+		{
+			"RowName": "Cantaloupe_Pie",
+			"StaminaReward": 100
+		},
+		{
+			"RowName": "Kumguat_Pie",
+			"StaminaReward": 70
+		},
+		{
+			"RowName": "Grilled_Veggie_Sandwich",
+			"StaminaReward": 80
+		},
+		{
+			"RowName": "Grilled_Cheese_Sandwich",
+			"StaminaReward": 80
+		},
+		{
+			"RowName": "Peanut_Butter_and_Jelly_Sandwich",
+			"StaminaReward": 80
+		},
+		{
+			"RowName": "Tuna_Salad",
+			"StaminaReward": 100
+		},
+		{
+			"RowName": "Grilled_Apple_Sandwich",
+			"StaminaReward": 100
+		},
+		{
+			"RowName": "Ham_&_Cheese_Sandwich",
+			"StaminaReward": 100
+		},
+		{
+			"RowName": "Jalapeno_Sandwich",
+			"StaminaReward": 100
+		},
+		{
+			"RowName": "Sausage_Sandwich",
+			"StaminaReward": 80
+		},
+		{
+			"RowName": "BLT_Sandwich",
+			"StaminaReward": 100
+		},
+		{
+			"RowName": "Meatball_Sub",
+			"StaminaReward": 100
+		},
+		{
+			"RowName": "Bbq_Pork_Sandwich",
+			"StaminaReward": 100
+		},
+		{
+			"RowName": "Potato_Salad_Sandwich",
+			"StaminaReward": 60
+		},
+		{
+			"RowName": "Grilled_Tropical_Sandwich",
+			"StaminaReward": 100
+		},
+		{
+			"RowName": "Sloppy_Joe",
+			"StaminaReward": 100
+		},
+		{
+			"RowName": "Chick_pea_Sandwich",
+			"StaminaReward": 60
+		},
+		{
+			"RowName": "Cheesesteak_Sandwich",
+			"StaminaReward": 100
+		},
+		{
+			"RowName": "Corndogs",
+			"StaminaReward": 100
+		},
+		{
+			"RowName": "Zucchini_Sandwich",
+			"StaminaReward": 100
+		},
+		{
+			"RowName": "Cucumber_Sandwich",
+			"StaminaReward": 100
+		},
+		{
+			"RowName": "Eggplant_Sandwich",
+			"StaminaReward": 100
+		},
+		{
+			"RowName": "Eggplant_Burger",
+			"StaminaReward": 100
+		},
+		{
+			"RowName": "Blackbean_Burgers",
+			"StaminaReward": 100
+		},
+		{
+			"RowName": "Cranberry_Bread",
+			"StaminaReward": 50
+		},
+		{
+			"RowName": "Pumpkin_Bread",
+			"StaminaReward": 50
+		},
+		{
+			"RowName": "Apple_Bread",
+			"StaminaReward": 50
+		},
+		{
+			"RowName": "Orange_Bread",
+			"StaminaReward": 50
+		},
+		{
+			"RowName": "Raisin_Bread",
+			"StaminaReward": 50
+		},
+		{
+			"RowName": "Rhubarb_Bread",
+			"StaminaReward": 50
+		},
+		{
+			"RowName": "Cantaloupe_Bread",
+			"StaminaReward": 50
+		},
+		{
+			"RowName": "Olive_Bread",
+			"StaminaReward": 70
+		},
+		{
+			"RowName": "Cheese_Bread",
+			"StaminaReward": 70
+		},
+		{
+			"RowName": "Bread",
+			"StaminaReward": 40
+		},
+		{
+			"RowName": "Pancakes",
+			"StaminaReward": 40
+		},
+		{
+			"RowName": "Scrambled_Eggs",
+			"StaminaReward": 40
+		},
+		{
+			"RowName": "Boiled_Eggs",
+			"StaminaReward": 40
+		},
+		{
+			"RowName": "Bacon",
+			"StaminaReward": 50
+		},
+		{
+			"RowName": "Corn_Flakes",
+			"StaminaReward": 50
+		},
+		{
+			"RowName": "Bowl_Of_Oatmeal",
+			"StaminaReward": 50
+		},
+		{
+			"RowName": "Fancy_Oatmeal",
+			"StaminaReward": 70
+		},
+		{
+			"RowName": "Broccoli_Quiche",
+			"StaminaReward": 100
+		},
+		{
+			"RowName": "Rice_Pudding",
+			"StaminaReward": 50
+		},
+		{
+			"RowName": "Donuts",
+			"StaminaReward": 70
+		},
+		{
+			"RowName": "Chocolate_Pudding",
+			"StaminaReward": 60
+		},
+		{
+			"RowName": "Vanilla_Pudding",
+			"StaminaReward": 60
+		},
+		{
+			"RowName": "Lemon_Pudding",
+			"StaminaReward": 60
+		},
+		{
+			"RowName": "Banana_Pudding",
+			"StaminaReward": 60
+		},
+		{
+			"RowName": "Potato_Parsley",
+			"StaminaReward": 50
+		},
+		{
+			"RowName": "Brasied_Collards",
+			"StaminaReward": 60
+		},
+		{
+			"RowName": "Pickles",
+			"StaminaReward": 30
+		},
+		{
+			"RowName": "Popcorn",
+			"StaminaReward": 40
+		},
+		{
+			"RowName": "Corn_on_the_Cob",
+			"StaminaReward": 50
+		},
+		{
+			"RowName": "turnip_fries",
+			"StaminaReward": 50
+		},
+		{
+			"RowName": "Root_Gratin",
+			"StaminaReward": 60
+		},
+		{
+			"RowName": "Leek_Casserole",
+			"StaminaReward": 80
+		},
+		{
+			"RowName": "Rhubarb_Crisp",
+			"StaminaReward": 50
+		},
+		{
+			"RowName": "Peas_and_Rice",
+			"StaminaReward": 50
+		},
+		{
+			"RowName": "Greenbean_Crips",
+			"StaminaReward": 50
+		},
+		{
+			"RowName": "Greenbean_Casserole",
+			"StaminaReward": 90
+		},
+		{
+			"RowName": "Artichoke_Dip",
+			"StaminaReward": 40
+		},
+		{
+			"RowName": "Artichoke_Stuffed_Mushrooms",
+			"StaminaReward": 100
+		},
+		{
+			"RowName": "Sweet_Potato_Fries",
+			"StaminaReward": 60
+		},
+		{
+			"RowName": "Fried_Eggplant",
+			"StaminaReward": 50
+		},
+		{
+			"RowName": "Ratatouille",
+			"StaminaReward": 60
+		},
+		{
+			"RowName": "Eggplant_Paramesan",
+			"StaminaReward": 70
+		},
+		{
+			"RowName": "Cauliflower_and_Broccoli_Bake",
+			"StaminaReward": 100
+		},
+		{
+			"RowName": "Cauliflower_Potato",
+			"StaminaReward": 80
+		},
+		{
+			"RowName": "Cauliflower_Casserole",
+			"StaminaReward": 60
+		},
+		{
+			"RowName": "Bacon_Chestnut",
+			"StaminaReward": 60
+		},
+		{
+			"RowName": "French_Fries",
+			"StaminaReward": 60
+		},
+		{
+			"RowName": "Vegetable_Oil",
+			"StaminaReward": -20
+		},
+		{
+			"RowName": "Honey_Mustard",
+			"StaminaReward": 1
+		},
+		{
+			"RowName": "Mustard_Sauce",
+			"StaminaReward": 1
+		},
+		{
+			"RowName": "Ketchup",
+			"StaminaReward": 1
+		},
+		{
+			"RowName": "Hotsauce",
+			"StaminaReward": -10
+		},
+		{
+			"RowName": "Soysauce",
+			"StaminaReward": 1
+		},
+		{
+			"RowName": "Bbq_Sauce",
+			"StaminaReward": 1
+		},
+		{
+			"RowName": "Batter",
+			"StaminaReward": 1
+		},
+		{
+			"RowName": "Cookie_Batter",
+			"StaminaReward": 5
+		},
+		{
+			"RowName": "Dough",
+			"StaminaReward": 1
+		},
+		{
+			"RowName": "Chocolate_Bar",
+			"StaminaReward": 10
+		},
+		{
+			"RowName": "Cooked_Rice",
+			"StaminaReward": 5
+		},
+		{
+			"RowName": "Sausage",
+			"StaminaReward": 15
+		},
+		{
+			"RowName": "Noodles",
+			"StaminaReward": 5
+		},
+		{
+			"RowName": "Curry_Powder",
+			"StaminaReward": 1
+		},
+		{
+			"RowName": "Raisons",
+			"StaminaReward": 3
+		},
+		{
+			"RowName": "Almond_Milk",
+			"StaminaReward": 20
+		},
+		{
+			"RowName": "Spagetti",
+			"StaminaReward": 80
+		},
+		{
+			"RowName": "Roast_Meal",
+			"StaminaReward": 100
+		},
+		{
+			"RowName": "Crisp_Orange_Beef",
+			"StaminaReward": 100
+		},
+		{
+			"RowName": "Meatballs",
+			"StaminaReward": 100
+		},
+		{
+			"RowName": "Salisbury_Steak",
+			"StaminaReward": 100
+		},
+		{
+			"RowName": "Beef_Stew",
+			"StaminaReward": 100
+		},
+		{
+			"RowName": "Shepards_Pie",
+			"StaminaReward": 100
+		},
+		{
+			"RowName": "Stuffed_Pepper",
+			"StaminaReward": 100
+		},
+		{
+			"RowName": "Steamed_Cabbage",
+			"StaminaReward": 100
+		},
+		{
+			"RowName": "Sirloin_Kebab",
+			"StaminaReward": 100
+		},
+		{
+			"RowName": "Brisket_with_Bbq",
+			"StaminaReward": 100
+		},
+		{
+			"RowName": "Beef_Chili",
+			"StaminaReward": 100
+		},
+		{
+			"RowName": "Apple_Juice",
+			"StaminaReward": 20
+		},
+		{
+			"RowName": "Strawberry_Juice",
+			"StaminaReward": 20
+		},
+		{
+			"RowName": "Kiwi_Juice",
+			"StaminaReward": 20
+		},
+		{
+			"RowName": "Grape_Juice",
+			"StaminaReward": 20
+		},
+		{
+			"RowName": "Blackberry_Juice",
+			"StaminaReward": 20
+		},
+		{
+			"RowName": "Raspberry_Juice",
+			"StaminaReward": 20
+		},
+		{
+			"RowName": "Sugarcane_Juice",
+			"StaminaReward": 20
+		},
+		{
+			"RowName": "Pineapple_Juice",
+			"StaminaReward": 40
+		},
+		{
+			"RowName": "Watermelon_Juice",
+			"StaminaReward": 20
+		},
+		{
+			"RowName": "Honeydew_Juice",
+			"StaminaReward": 20
+		},
+		{
+			"RowName": "Plum_Juice",
+			"StaminaReward": 20
+		},
+		{
+			"RowName": "Pear_Juice",
+			"StaminaReward": 20
+		},
+		{
+			"RowName": "Coconut_Water",
+			"StaminaReward": 20
+		},
+		{
+			"RowName": "Beet_Juice",
+			"StaminaReward": 20
+		},
+		{
+			"RowName": "Veggie_Juice",
+			"StaminaReward": 20
+		},
+		{
+			"RowName": "Fruit_Juice",
+			"StaminaReward": 20
+		},
+		{
+			"RowName": "Lavender_Lemonade",
+			"StaminaReward": 20
+		},
+		{
+			"RowName": "Cantaloupe_Juice",
+			"StaminaReward": 20
+		},
+		{
+			"RowName": "Kumguat_Juice",
+			"StaminaReward": 20
+		},
+		{
+			"RowName": "Cranberry_Juice",
+			"StaminaReward": 20
+		},
+		{
+			"RowName": "Blueberry_Juice",
+			"StaminaReward": 20
+		},
+		{
+			"RowName": "Carrot_Juice",
+			"StaminaReward": 20
+		},
+		{
+			"RowName": "Mandarin_Juice",
+			"StaminaReward": 20
+		},
+		{
+			"RowName": "Lime_Juice",
+			"StaminaReward": 20
+		},
+		{
+			"RowName": "Mango_Juice",
+			"StaminaReward": 20
+		},
+		{
+			"RowName": "Papaya_Juice",
+			"StaminaReward": 20
+		},
+		{
+			"RowName": "Guava_Juice",
+			"StaminaReward": 20
+		},
+		{
+			"RowName": "Starfruit_Juice",
+			"StaminaReward": 20
+		},
+		{
+			"RowName": "Grapefruit_Juice",
+			"StaminaReward": 20
+		},
+		{
+			"RowName": "Passionfruit_Juice",
+			"StaminaReward": 20
+		},
+		{
+			"RowName": "Orange_Juice",
+			"StaminaReward": 20
+		},
+		{
+			"RowName": "Cherry_Juice",
+			"StaminaReward": 20
+		},
+		{
+			"RowName": "Lemonade",
+			"StaminaReward": 20
+		},
+		{
+			"RowName": "Lychee_Juice",
+			"StaminaReward": 20
+		},
+		{
+			"RowName": "Peach_Juice",
+			"StaminaReward": 20
+		},
+		{
+			"RowName": "Banana_Milk",
+			"StaminaReward": 30
+		},
+		{
+			"RowName": "Chocolate_Milk",
+			"StaminaReward": 30
+		},
+		{
+			"RowName": "Black_Tea",
+			"StaminaReward": 20
+		},
+		{
+			"RowName": "Green_Tea",
+			"StaminaReward": 20
+		},
+		{
+			"RowName": "Oolon_Tea",
+			"StaminaReward": 20
+		},
+		{
+			"RowName": "White_Tea",
+			"StaminaReward": 20
+		},
+		{
+			"RowName": "Lemon_Tea",
+			"StaminaReward": 20
+		},
+		{
+			"RowName": "Ginger_Tea",
+			"StaminaReward": 20
+		},
+		{
+			"RowName": "Mint_Tea",
+			"StaminaReward": 20
+		},
+		{
+			"RowName": "Chamomile_Tea",
+			"StaminaReward": 20
+		},
+		{
+			"RowName": "Peach_Tea",
+			"StaminaReward": 20
+		},
+		{
+			"RowName": "Orange_Tea",
+			"StaminaReward": 20
+		},
+		{
+			"RowName": "Berry_Tea",
+			"StaminaReward": 20
+		},
+		{
+			"RowName": "Chai",
+			"StaminaReward": 20
+		},
+		{
+			"RowName": "Lavender_Tea",
+			"StaminaReward": 20
+		},
+		{
+			"RowName": "Coffee_Drink",
+			"StaminaReward": 30
+		},
+		{
+			"RowName": "Espresso",
+			"StaminaReward": 40
+		},
+		{
+			"RowName": "Cappuchino",
+			"StaminaReward": 40
+		},
+		{
+			"RowName": "Pumpkin_Latte",
+			"StaminaReward": 40
+		},
+		{
+			"RowName": "Spiced_Latte",
+			"StaminaReward": 35
+		},
+		{
+			"RowName": "Cafe_Con_Leche",
+			"StaminaReward": 20
+		},
+		{
+			"RowName": "Black_Coffee",
+			"StaminaReward": 30
+		},
+		{
+			"RowName": "Hazel_Nut_Coffee",
+			"StaminaReward": 20
+		},
+		{
+			"RowName": "Hot_Chocolate",
+			"StaminaReward": 25
+		},
+		{
+			"RowName": "Latte",
+			"StaminaReward": 35
+		},
+		{
+			"RowName": "Beer",
+			"StaminaReward": 30
+		},
+		{
+			"RowName": "Mead",
+			"StaminaReward": 30
+		},
+		{
+			"RowName": "Ginger_Beer",
+			"StaminaReward": 30
+		},
+		{
+			"RowName": "Plum_Wine",
+			"StaminaReward": 30
+		},
+		{
+			"RowName": "Cider",
+			"StaminaReward": 30
+		},
+		{
+			"RowName": "Chicha",
+			"StaminaReward": 30
+		},
+		{
+			"RowName": "Wheat_Beer",
+			"StaminaReward": 30
+		},
+		{
+			"RowName": "Sake",
+			"StaminaReward": 30
+		},
+		{
+			"RowName": "Wine",
+			"StaminaReward": 30
+		},
+		{
+			"RowName": "Whiskey",
+			"StaminaReward": 30
+		},
+		{
+			"RowName": "Moonshine",
+			"StaminaReward": 30
+		},
+		{
+			"RowName": "Vodka",
+			"StaminaReward": 30
+		},
+		{
+			"RowName": "Brandy",
+			"StaminaReward": 30
+		},
+		{
+			"RowName": "Rum",
+			"StaminaReward": 30
+		},
+		{
+			"RowName": "Vermouth",
+			"StaminaReward": 30
+		},
+		{
+			"RowName": "Triple_Sec",
+			"StaminaReward": 30
+		},
+		{
+			"RowName": "Gin",
+			"StaminaReward": 30
+		},
+		{
+			"RowName": "Sangria",
+			"StaminaReward": 40
+		},
+		{
+			"RowName": "Brass_Monkey",
+			"StaminaReward": 40
+		},
+		{
+			"RowName": "Whiskey_Sour",
+			"StaminaReward": 40
+		},
+		{
+			"RowName": "Martini",
+			"StaminaReward": 40
+		},
+		{
+			"RowName": "Hurricane",
+			"StaminaReward": 40
+		},
+		{
+			"RowName": "Mojito",
+			"StaminaReward": 40
+		},
+		{
+			"RowName": "Pina_Colada",
+			"StaminaReward": 40
+		},
+		{
+			"RowName": "Stork_on_the_Beach",
+			"StaminaReward": 40
+		},
+		{
+			"RowName": "Bloody_Mary",
+			"StaminaReward": 40
+		},
+		{
+			"RowName": "Grog",
+			"StaminaReward": 40
+		},
+		{
+			"RowName": "Cosmopolitan",
+			"StaminaReward": 40
+		},
+		{
+			"RowName": "Greyhound",
+			"StaminaReward": 40
+		},
+		{
+			"RowName": "White_Diamond",
+			"StaminaReward": 40
+		},
+		{
+			"RowName": "Lemon_Drop",
+			"StaminaReward": 40
+		},
+		{
+			"RowName": "Coffee_Liquer",
+			"StaminaReward": 30
+		},
+		{
+			"RowName": "Baked_Chicken",
+			"StaminaReward": 100
+		},
+		{
+			"RowName": "Bbq_Chicken",
+			"StaminaReward": 100
+		},
+		{
+			"RowName": "Fried_Chicken",
+			"StaminaReward": 100
+		},
+		{
+			"RowName": "Lemon_Chicken",
+			"StaminaReward": 100
+		},
+		{
+			"RowName": "Chicken_Parmesan",
+			"StaminaReward": 100
+		},
+		{
+			"RowName": "Chicken_Pot_Pie",
+			"StaminaReward": 100
+		},
+		{
+			"RowName": "Chicken_Cordon_Blue",
+			"StaminaReward": 100
+		},
+		{
+			"RowName": "Buffalo_Chicken",
+			"StaminaReward": 100
+		},
+		{
+			"RowName": "Yummy_Chicken",
+			"StaminaReward": 100
+		},
+		{
+			"RowName": "Garlic_Spicy_Chicken",
+			"StaminaReward": 100
+		},
+		{
+			"RowName": "Artichoke_Chicken",
+			"StaminaReward": 100
+		},
+		{
+			"RowName": "Spinach_Stuffed_Chicken",
+			"StaminaReward": 100
+		},
+		{
+			"RowName": "Chicken_with_Mushroom",
+			"StaminaReward": 100
+		},
+		{
+			"RowName": "Shrimp_Salad",
+			"StaminaReward": 100
+		},
+		{
+			"RowName": "Shrimp_Creole",
+			"StaminaReward": 100
+		},
+		{
+			"RowName": "Honey_Shrimp",
+			"StaminaReward": 70
+		},
+		{
+			"RowName": "Shrimp_Pasta",
+			"StaminaReward": 100
+		},
+		{
+			"RowName": "Coconut_Shrimp",
+			"StaminaReward": 100
+		},
+		{
+			"RowName": "Honey_Ginger_Salmon",
+			"StaminaReward": 100
+		},
+		{
+			"RowName": "Grilled_Salmon",
+			"StaminaReward": 100
+		},
+		{
+			"RowName": "Salmon_Cakes",
+			"StaminaReward": 100
+		},
+		{
+			"RowName": "Salmon_Burger",
+			"StaminaReward": 100
+		},
+		{
+			"RowName": "Calamari",
+			"StaminaReward": 100
+		},
+		{
+			"RowName": "Takoyaki",
+			"StaminaReward": 100
+		},
+		{
+			"RowName": "Ginger_Mahi_Mahi",
+			"StaminaReward": 100
+		},
+		{
+			"RowName": "Mango_Mahi_Mahi",
+			"StaminaReward": 100
+		},
+		{
+			"RowName": "Tomato_Sardine",
+			"StaminaReward": 60
+		},
+		{
+			"RowName": "Lobster_Bisque",
+			"StaminaReward": 100
+		},
+		{
+			"RowName": "Crab_Stuffed_Lobster",
+			"StaminaReward": 100
+		},
+		{
+			"RowName": "Lobster_Fritters",
+			"StaminaReward": 100
+		},
+		{
+			"RowName": "Stuffed_Lobster_Tail",
+			"StaminaReward": 100
+		},
+		{
+			"RowName": "Italian_Clams",
+			"StaminaReward": 80
+		},
+		{
+			"RowName": "Butter_Clams",
+			"StaminaReward": 50
+		},
+		{
+			"RowName": "Clam_Chowder",
+			"StaminaReward": 60
+		},
+		{
+			"RowName": "Clam_Linguine",
+			"StaminaReward": 60
+		},
+		{
+			"RowName": "NewRow_0",
+			"StaminaReward": 100
+		},
+		{
+			"RowName": "Tuna_Casserole",
+			"StaminaReward": 100
+		},
+		{
+			"RowName": "Tuna_Burger",
+			"StaminaReward": 100
+		},
+		{
+			"RowName": "Grilled_Tuna",
+			"StaminaReward": 100
+		},
+		{
+			"RowName": "Tuna_Melt",
+			"StaminaReward": 100
+		},
+		{
+			"RowName": "Seaweed_Salad",
+			"StaminaReward": 30
+		},
+		{
+			"RowName": "Seaweed_Soup",
+			"StaminaReward": 25
+		},
+		{
+			"RowName": "Crab_Quiche",
+			"StaminaReward": 100
+		},
+		{
+			"RowName": "Crab_Cake",
+			"StaminaReward": 100
+		},
+		{
+			"RowName": "Crab_Leg",
+			"StaminaReward": 100
+		},
+		{
+			"RowName": "Crab_Dip",
+			"StaminaReward": 85
+		},
+		{
+			"RowName": "Crab_Salad",
+			"StaminaReward": 100
+		},
+		{
+			"RowName": "Crab_Stuffed_Mushrooms",
+			"StaminaReward": 100
+		},
+		{
+			"RowName": "Grilled_Crab",
+			"StaminaReward": 60
+		},
+		{
+			"RowName": "Scallop_Pasta",
+			"StaminaReward": 40
+		},
+		{
+			"RowName": "Baked_Scallop",
+			"StaminaReward": 70
+		},
+		{
+			"RowName": "Honey_Scallop",
+			"StaminaReward": 40
+		},
+		{
+			"RowName": "Fish_Burger",
+			"StaminaReward": 100
+		},
+		{
+			"RowName": "Fish_Steak",
+			"StaminaReward": 100
+		},
+		{
+			"RowName": "Glazed_Fish",
+			"StaminaReward": 100
+		},
+		{
+			"RowName": "Fish_Bake",
+			"StaminaReward": 100
+		},
+		{
+			"RowName": "Honey_Fish",
+			"StaminaReward": 100
+		},
+		{
+			"RowName": "Fish_Patties",
+			"StaminaReward": 100
+		},
+		{
+			"RowName": "Fish_and_Chips",
+			"StaminaReward": 100
+		},
+		{
+			"RowName": "Fish_Sandwich",
+			"StaminaReward": 100
+		},
+		{
+			"RowName": "Lemon_Fish",
+			"StaminaReward": 100
+		},
+		{
+			"RowName": "Fish_Pasta",
+			"StaminaReward": 100
+		},
+		{
+			"RowName": "Herb_Fish",
+			"StaminaReward": 60
+		},
+		{
+			"RowName": "Grilled_Fish",
+			"StaminaReward": 10
+		},
+		{
+			"RowName": "Dairy_Free_Milk",
+			"StaminaReward": 50
+		},
+		{
+			"RowName": "Disaster_Dish",
+			"StaminaReward": -50
+		},
+		{
+			"RowName": "Glowing_Mushrooms",
+			"StaminaReward": 100
+		},
+		{
+			"RowName": "Crab_Meat",
+			"StaminaReward": 3
+		},
+		{
+			"RowName": "Fish_Cuts",
+			"StaminaReward": 3
+		},
+		{
+			"RowName": "FIsh_Cuts_Mahi_Mahi",
+			"StaminaReward": 3
+		},
+		{
+			"RowName": "FIsh_Cuts_Salmon",
+			"StaminaReward": 3
+		},
+		{
+			"RowName": "Fish_Cuts_Tuna",
+			"StaminaReward": 3
+		},
+		{
+			"RowName": "Fish_Cuts_Yellow_Tail",
+			"StaminaReward": 3
+		},
+		{
+			"RowName": "Black_Bean_Corn_Salad",
+			"StaminaReward": 60
+		},
+		{
+			"RowName": "Lavender_Bread",
+			"StaminaReward": 50
+		},
+		{
+			"RowName": "Tomato_Juice",
+			"StaminaReward": 20
+		},
+		{
+			"RowName": "Jounce_Liquid",
+			"StaminaReward": 100
+		},
+		{
+			"RowName": "Bananas",
+			"StaminaReward": 5
+		},
+		{
+			"RowName": "Hazel_Nut",
+			"StaminaReward": 5
+		},
+		{
+			"RowName": "Honey_Dew",
+			"StaminaReward": 5
+		},
+		{
+			"RowName": "SugarApple",
+			"StaminaReward": 5
+		},
+		{
+			"RowName": "Coconut",
+			"StaminaReward": 5
+		},
+		{
+			"RowName": "Oregano",
+			"StaminaReward": 1
+		},
+		{
+			"RowName": "Bag_Rice",
+			"StaminaReward": 1
+		},
+		{
+			"RowName": "Bag_Sugar",
+			"StaminaReward": -10
+		},
+		{
+			"RowName": "Bag_Barley",
+			"StaminaReward": 1
+		},
+		{
+			"RowName": "Cocoa_Powder",
+			"StaminaReward": 1
+		},
+		{
+			"RowName": "Flour",
+			"StaminaReward": 1
+		},
+		{
+			"RowName": "Oatmeal",
+			"StaminaReward": 1
+		},
+		{
+			"RowName": "Pepper_Bottle",
+			"StaminaReward": 1
+		},
+		{
+			"RowName": "Pie_Crust",
+			"StaminaReward": 3
+		},
+		{
+			"RowName": "Meatloaf",
+			"StaminaReward": 100
+		},
+		{
+			"RowName": "Cornbread_Bread",
+			"StaminaReward": 50
+		},
+		{
+			"RowName": "Vanilla_Bread",
+			"StaminaReward": 50
+		},
+		{
+			"RowName": "Key_Lime_Cake",
+			"StaminaReward": 70
+		},
+		{
+			"RowName": "Peach_Cake",
+			"StaminaReward": 80
+		},
+		{
+			"RowName": "Pecan_Cake",
+			"StaminaReward": 80
+		},
+		{
+			"RowName": "Salsa_Chicken",
+			"StaminaReward": 100
+		},
+		{
+			"RowName": "Spicy_Chicken",
+			"StaminaReward": 100
+		},
+		{
+			"RowName": "Macaroons",
+			"StaminaReward": 80
+		},
+		{
+			"RowName": "Pistachio_Cookies",
+			"StaminaReward": 100
+		},
+		{
+			"RowName": "Grilled_Shrimp",
+			"StaminaReward": 30
+		},
+		{
+			"RowName": "Grape_Icecream",
+			"StaminaReward": 70
+		},
+		{
+			"RowName": "Chicken_Seasoning",
+			"StaminaReward": 0
+		},
+		{
+			"RowName": "Pecan_Pie",
+			"StaminaReward": 80
+		},
+		{
+			"RowName": "Vegetarian_Pizza",
+			"StaminaReward": 100
+		},
+		{
+			"RowName": "Cranberry_Salad",
+			"StaminaReward": 70
+		},
+		{
+			"RowName": "Tuna_Salad_Sandwich",
+			"StaminaReward": 100
+		},
+		{
+			"RowName": "Dragonfruit",
+			"StaminaReward": 5
+		},
+		{
+			"RowName": "Breadfruit",
+			"StaminaReward": 2
+		},
+		{
+			"RowName": "Cashews",
+			"StaminaReward": 5
+		},
+		{
+			"RowName": "Ground_Coffee",
+			"StaminaReward": 2
+		},
+		{
+			"RowName": "Italian_Seasoning",
+			"StaminaReward": 0
+		},
+		{
+			"RowName": "Beef_Seasoning",
+			"StaminaReward": 0
+		},
+		{
+			"RowName": "Sweet_Spices",
+			"StaminaReward": 0
+		},
+		{
+			"RowName": "Fish_Seasoning",
+			"StaminaReward": 0
+		},
+		{
+			"RowName": "Pork_Seasoning",
+			"StaminaReward": 0
+		},
+		{
+			"RowName": "Blueberry_Jam",
+			"StaminaReward": 6
+		},
+		{
+			"RowName": "Dino_Cake",
+			"StaminaReward": 100
+		},
+		{
+			"RowName": "Cat_Cake",
+			"StaminaReward": 100
+		},
+		{
+			"RowName": "Unicorn_Cake",
+			"StaminaReward": 100
+		},
+		{
+			"RowName": "Owl_Cake",
+			"StaminaReward": 100
+		},
+		{
+			"RowName": "Drip_Cake",
+			"StaminaReward": 100
+		},
+		{
+			"RowName": "Potarrots",
+			"StaminaReward": 10
+		},
+		{
+			"RowName": "Tomatelons",
+			"StaminaReward": 10
+		},
+		{
+			"RowName": "Jalaplant",
+			"StaminaReward": 10
+		},
+		{
+			"RowName": "Spinip",
+			"StaminaReward": 10
+		},
+		{
+			"RowName": "Brocados",
+			"StaminaReward": 10
+		},
+		{
+			"RowName": "Zuccorn",
+			"StaminaReward": 10
+		},
+		{
+			"RowName": "Grapple",
+			"StaminaReward": 10
+		},
+		{
+			"RowName": "Banapple",
+			"StaminaReward": 10
+		},
+		{
+			"RowName": "Bluerries",
+			"StaminaReward": 10
+		},
+		{
+			"RowName": "Pealum",
+			"StaminaReward": 10
+		},
+		{
+			"RowName": "Raspkins",
+			"StaminaReward": 10
+		},
+		{
+			"RowName": "Sugarnut",
+			"StaminaReward": 10
+		},
+		{
+			"RowName": "Ginger_Dragon",
+			"StaminaReward": 10
+		},
+		{
+			"RowName": "Black_Beet",
+			"StaminaReward": 10
+		},
+		{
+			"RowName": "Cocoberries",
+			"StaminaReward": 10
+		},
+		{
+			"RowName": "Bellchees",
+			"StaminaReward": 10
+		},
+		{
+			"RowName": "Blapple",
+			"StaminaReward": 10
+		},
+		{
+			"RowName": "Crattuce",
+			"StaminaReward": 10
+		},
+		{
+			"RowName": "Pumpkin_Gold",
+			"StaminaReward": 5
+		},
+		{
+			"RowName": "Pumpkin_Snow",
+			"StaminaReward": 5
+		},
+		{
+			"RowName": "Pumpkin_Green",
+			"StaminaReward": 5
+		},
+		{
+			"RowName": "Lemon_Cake",
+			"StaminaReward": 80
+		},
+		{
+			"RowName": "Honey",
+			"StaminaReward": 5
+		},
+		{
+			"RowName": "Seitan",
+			"StaminaReward": 5
+		},
+		{
+			"RowName": "Tofu",
+			"StaminaReward": 10
+		},
+		{
+			"RowName": "Seitan_Meal",
+			"StaminaReward": 100
+		},
+		{
+			"RowName": "Yummy_Tofu",
+			"StaminaReward": 100
+		},
+		{
+			"RowName": "Chips_Tofu",
+			"StaminaReward": 100
+		},
+		{
+			"RowName": "Seitan_Stew",
+			"StaminaReward": 100
+		},
+		{
+			"RowName": "Pasta_Tofu",
+			"StaminaReward": 70
+		},
+		{
+			"RowName": "Vegan_Pot_Pie",
+			"StaminaReward": 100
+		},
+		{
+			"RowName": "Tofu_Curry",
+			"StaminaReward": 100
+		},
+		{
+			"RowName": "Seitan_Curry",
+			"StaminaReward": 100
+		},
+		{
+			"RowName": "Vegan_Burger",
+			"StaminaReward": 80
+		},
+		{
+			"RowName": "Seitan_Spaghetti",
+			"StaminaReward": 100
+		},
+		{
+			"RowName": "Sugar_Beets",
+			"StaminaReward": 2
+		},
+		{
+			"RowName": "Blackbean_Soup",
+			"StaminaReward": 20
+		},
+		{
+			"RowName": "KidneyBean_Soup",
+			"StaminaReward": 20
+		},
+		{
+			"RowName": "Soybean_Soup",
+			"StaminaReward": 20
+		},
+		{
+			"RowName": "Sakura_Cookies",
+			"StaminaReward": 60
+		},
+		{
+			"RowName": "Rose_Salad",
+			"StaminaReward": 60
+		},
+		{
+			"RowName": "Honey_Lavender_Cheesecake",
+			"StaminaReward": 100
+		},
+		{
+			"RowName": "Funnel_Cake",
+			"StaminaReward": 100
+		},
+		{
+			"RowName": "BBQ_Ribs",
+			"StaminaReward": 100
+		},
+		{
+			"RowName": "Fizzy_Float",
+			"StaminaReward": 100
+		},
+		{
+			"RowName": "Chicken_Waffles",
+			"StaminaReward": 100
+		},
+		{
+			"RowName": "Pan_De_Muerto",
+			"StaminaReward": 60
+		},
+		{
+			"RowName": "Tamale",
+			"StaminaReward": 100
+		},
+		{
+			"RowName": "Sugar_Skulls",
+			"StaminaReward": 60
+		},
+		{
+			"RowName": "Pumpkin_Spiced_Rum",
+			"StaminaReward": 60
+		},
+		{
+			"RowName": "Eggnog",
+			"StaminaReward": 50
+		},
+		{
+			"RowName": "Candy_Canes",
+			"StaminaReward": 50
+		},
+		{
+			"RowName": "Gingerbread_Peeps",
+			"StaminaReward": 60
+		},
+		{
+			"RowName": "Fruitcake",
+			"StaminaReward": 60
+		},
+		{
+			"RowName": "Cobbler_Ice_Cream",
+			"StaminaReward": 60
+		},
+		{
+			"RowName": "Fruit_Roll_Cake",
+			"StaminaReward": 60
+		},
+		{
+			"RowName": "Fruit_Pizza",
+			"StaminaReward": 100
+		},
+		{
+			"RowName": "Melon_Hibiscus_Icecream",
+			"StaminaReward": 60
+		},
+		{
+			"RowName": "Roti",
+			"StaminaReward": 100
+		},
+		{
+			"RowName": "Salt_Fish_Bakes",
+			"StaminaReward": 100
+		},
+		{
+			"RowName": "Beef_Patties",
+			"StaminaReward": 100
+		},
+		{
+			"RowName": "Conch_Fritters",
+			"StaminaReward": 100
+		},
+		{
+			"RowName": "Samosa",
+			"StaminaReward": 100
+		},
+		{
+			"RowName": "Aloo_Tikki",
+			"StaminaReward": 100
+		},
+		{
+			"RowName": "Callaloo_Breadfruit",
+			"StaminaReward": 100
+		},
+		{
+			"RowName": "Rose_Coconut",
+			"StaminaReward": 50
+		},
+		{
+			"RowName": "Sorrel_Drink",
+			"StaminaReward": 50
+		},
+		{
+			"RowName": "Festive_Ham",
+			"StaminaReward": 100
+		},
+		{
+			"RowName": "Rose_Water",
+			"StaminaReward": 50
+		},
+		{
+			"RowName": "Tamales",
+			"StaminaReward": 100
+		},
+		{
+			"RowName": "Cheese_Enchiladas",
+			"StaminaReward": 100
+		},
+		{
+			"RowName": "Chicken_Fettucine",
+			"StaminaReward": 100
+		},
+		{
+			"RowName": "Roulade_Chicken",
+			"StaminaReward": 100
+		},
+		{
+			"RowName": "Bibimap",
+			"StaminaReward": 100
+		},
+		{
+			"RowName": "Birthday_Cake",
+			"StaminaReward": 100
+		},
+		{
+			"RowName": "Cake_Thank_You",
+			"StaminaReward": 100
+		},
+		{
+			"RowName": "Cake_Jounce",
+			"StaminaReward": 100
+		},
+		{
+			"RowName": "Truffles",
+			"StaminaReward": 5
+		},
+		{
+			"RowName": "Coco_Cow_Milk",
+			"StaminaReward": 20
+		},
+		{
+			"RowName": "Sugarapple_Icecream",
+			"StaminaReward": 70
+		},
+		{
+			"RowName": "Sugarapple_Smoothie",
+			"StaminaReward": 60
+		},
+		{
+			"RowName": "Horseradish_Beef",
+			"StaminaReward": 100
+		},
+		{
+			"RowName": "Horseradish_Dip",
+			"StaminaReward": 40
+		},
+		{
+			"RowName": "Durian_Cream_Puffs",
+			"StaminaReward": 60
+		},
+		{
+			"RowName": "Durian_Pancakes",
+			"StaminaReward": 50
+		},
+		{
+			"RowName": "Truffle_Fries",
+			"StaminaReward": 100
+		},
+		{
+			"RowName": "Truffle_Chocolates",
+			"StaminaReward": 100
+		},
+		{
+			"RowName": "Cheesy_Oysters",
+			"StaminaReward": 100
+		},
+		{
+			"RowName": "Grilled_Oysters",
+			"StaminaReward": 50
+		},
+		{
+			"RowName": "Oyster_Stew",
+			"StaminaReward": 60
+		},
+		{
+			"RowName": "Roasted_Brussel_Sprouts",
+			"StaminaReward": 45
+		},
+		{
+			"RowName": "Brussel_Sprout_Casserole",
+			"StaminaReward": 80
+		},
+		{
+			"RowName": "Brussel_Sprouts_And_Steak",
+			"StaminaReward": 100
+		},
+		{
+			"RowName": "Kale_Chips",
+			"StaminaReward": 50
+		},
+		{
+			"RowName": "Sauteed_Kale",
+			"StaminaReward": 50
+		},
+		{
+			"RowName": "Fried_Breadfruit",
+			"StaminaReward": 50
+		},
+		{
+			"RowName": "Breadfruit_Pie",
+			"StaminaReward": 80
+		},
+		{
+			"RowName": "Breadfruit_Curry",
+			"StaminaReward": 90
+		},
+		{
+			"RowName": "Cashew_Butter",
+			"StaminaReward": 20
+		},
+		{
+			"RowName": "Mixed_Nuts",
+			"StaminaReward": 30
+		},
+		{
+			"RowName": "Salted_Cashew_Bar",
+			"StaminaReward": 55
+		},
+		{
+			"RowName": "Rooibos_Tea",
+			"StaminaReward": 20
+		},
+		{
+			"RowName": "Rooibos_Icecream",
+			"StaminaReward": 60
+		},
+		{
+			"RowName": "Licorice_Candy",
+			"StaminaReward": 30
+		},
+		{
+			"RowName": "Black_Licoric_Ice_Cream",
+			"StaminaReward": 60
+		},
+		{
+			"RowName": "Licorice_Cake",
+			"StaminaReward": 60
+		},
+		{
+			"RowName": "Salmon_Honey_Mustard",
+			"StaminaReward": 100
+		},
+		{
+			"RowName": "Honey_Mustard_Chicken",
+			"StaminaReward": 100
+		},
+		{
+			"RowName": "Honey_Mustard_Chicken_Sandwich",
+			"StaminaReward": 100
+		},
+		{
+			"RowName": "Shrimp_And_Asparagus",
+			"StaminaReward": 100
+		},
+		{
+			"RowName": "Cheesy_Asparagus",
+			"StaminaReward": 80
+		},
+		{
+			"RowName": "Chicken_Asparagus",
+			"StaminaReward": 100
+		},
+		{
+			"RowName": "Collard_Greens_Ham_Hocks",
+			"StaminaReward": 100
+		},
+		{
+			"RowName": "Curried_Collard_Greens",
+			"StaminaReward": 70
+		},
+		{
+			"RowName": "Beet_Salad",
+			"StaminaReward": 50
+		},
+		{
+			"RowName": "Roasted_Beets",
+			"StaminaReward": 50
+		},
+		{
+			"RowName": "Honey_Dew_Icecream",
+			"StaminaReward": 60
+		},
+		{
+			"RowName": "Coconut_Lentil_Curry",
+			"StaminaReward": 90
+		},
+		{
+			"RowName": "Lentil_Burger",
+			"StaminaReward": 100
+		},
+		{
+			"RowName": "Madarin_Cake",
+			"StaminaReward": 60
+		},
+		{
+			"RowName": "Fig_Bars",
+			"StaminaReward": 70
+		},
+		{
+			"RowName": "Dragonfruit_IceCream",
+			"StaminaReward": 60
+		},
+		{
+			"RowName": "Dragonfruit_Crepe",
+			"StaminaReward": 100
+		},
+		{
+			"RowName": "Blueberry_Candy",
+			"StaminaReward": 30
+		},
+		{
+			"RowName": "Cake_Pride",
+			"StaminaReward": 100
+		},
+		{
+			"RowName": "Almond_Butter",
+			"StaminaReward": 1
+		},
+		{
+			"RowName": "Coconut_Butter",
+			"StaminaReward": 1
+		},
+		{
+			"RowName": "Macademia_Butter",
+			"StaminaReward": 1
+		},
+		{
+			"RowName": "Walnut_Butter",
+			"StaminaReward": 1
+		},
+		{
+			"RowName": "Tofu_Silken",
+			"StaminaReward": 10
+		},
+		{
+			"RowName": "Soy_Milk",
+			"StaminaReward": 5
+		},
+		{
+			"RowName": "Rice_Milk",
+			"StaminaReward": 5
+		},
+		{
+			"RowName": "Oat_Milk",
+			"StaminaReward": 5
+		},
+		{
+			"RowName": "Cashew_Milk",
+			"StaminaReward": 5
+		},
+		{
+			"RowName": "Coconut_Milk",
+			"StaminaReward": 5
+		},
+		{
+			"RowName": "Juniper_Berries",
+			"StaminaReward": 2
+		},
+		{
+			"RowName": "Apricot_Juice",
+			"StaminaReward": 20
+		},
+		{
+			"RowName": "Mushroom_Red",
+			"StaminaReward": -100
+		},
+		{
+			"RowName": "Sakura_Mochi",
+			"StaminaReward": 60
+		},
+		{
+			"RowName": "Sakura_Cake",
+			"StaminaReward": 100
+		},
+		{
+			"RowName": "Taiyaki",
+			"StaminaReward": 55
+		},
+		{
+			"RowName": "Sakura_Cocktail",
+			"StaminaReward": 50
+		},
+		{
+			"RowName": "Candy_Corn",
+			"StaminaReward": 50
+		},
+		{
+			"RowName": "Rock_Candy",
+			"StaminaReward": 50
+		},
+		{
+			"RowName": "Creepy_Punch",
+			"StaminaReward": 50
+		},
+		{
+			"RowName": "Festival_Chocolates",
+			"StaminaReward": 60
+		},
+		{
+			"RowName": "Rosemary_Pork",
+			"StaminaReward": 100
+		},
+		{
+			"RowName": "Summer_Festival_Salad",
+			"StaminaReward": 60
+		},
+		{
+			"RowName": "Green_Man_Cake",
+			"StaminaReward": 100
+		},
+		{
+			"RowName": "Goat_Cheese_Onion",
+			"StaminaReward": 50
+		},
+		{
+			"RowName": "Bug_Repellant",
+			"StaminaReward": 5
+		},
+		{
+			"RowName": "Jounce_Liquid_Apple",
+			"StaminaReward": 100
+		},
+		{
+			"RowName": "Jounce_Liquid_Lemon",
+			"StaminaReward": 100
+		},
+		{
+			"RowName": "Jounce_Liquid_Orange",
+			"StaminaReward": 100
+		},
+		{
+			"RowName": "Jounce_Liquid_Strawberry",
+			"StaminaReward": 100
+		},
+		{
+			"RowName": "Jounce_Liquid_Peach",
+			"StaminaReward": 100
+		},
+		{
+			"RowName": "Apple_Special",
+			"StaminaReward": -100
+		},
+		{
+			"RowName": "Lemon_Special",
+			"StaminaReward": -100
+		},
+		{
+			"RowName": "Grapes_Special",
+			"StaminaReward": -100
+		},
+		{
+			"RowName": "Peach_Special",
+			"StaminaReward": -100
+		},
+		{
+			"RowName": "Strawberries_Special",
+			"StaminaReward": -100
+		},
+		{
+			"RowName": "Orange_Special",
+			"StaminaReward": -100
+		},
+		{
+			"RowName": "Vegan_Cheese",
+			"StaminaReward": 5
+		}
+	]
+}

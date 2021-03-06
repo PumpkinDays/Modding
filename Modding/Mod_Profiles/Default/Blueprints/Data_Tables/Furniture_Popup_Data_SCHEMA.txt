@@ -1,0 +1,7 @@
+Furniture_Popup_Data Structure:
+
+PopupMessage: string
+PopupOptions: TArray-FString
+InteractIndex: integer
+PickupIndex: integer
+InteractionIcon: UTexture2D*

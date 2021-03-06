@@ -1,0 +1,88 @@
+{
+	"Rows": 
+	[
+		{
+			"RowName": "Demo",
+			"NameArray":
+			[
+				"RNB = Remove Needs Buy, meaning we are using a custom buy option, and shouldn't add the 'Buy and Sell' button"
+			]
+		},
+		{
+			"RowName": "Clothing_Shop_Master",
+			"NameArray":
+			[
+				"Buy Clothing"
+			]
+		},
+		{
+			"RowName": "Shop_Clinic_Master",
+			"NameArray":
+			[
+				"Change Appearance",
+				"RNB"
+			]
+		},
+		{
+			"RowName": "Animal_Shop_Master",
+			"NameArray":
+			[
+				"Buy Animals*AnimalShop",
+				"Sell Animals*AnimalShop",
+				"Meat*AnimalShop",
+				"RNB"
+			]
+		},
+		{
+			"RowName": "Furniture_Shop_Master",
+			"NameArray":
+			[
+				"Order Furniture"
+			]
+		},
+		{
+			"RowName": "Jewelry_Shop_Master",
+			"NameArray":
+			[
+				"Try on Jewelry",
+				"RNB"
+			]
+		},
+		{
+			"RowName": "Hair_Salon_Master",
+			"NameArray":
+			[
+				"Change Style",
+				"RNB"
+			]
+		},
+		{
+			"RowName": "Home_Extension_Shop_Master",
+			"NameArray":
+			[
+				"Build",
+				"Move Building",
+				"Destroy Building",
+				"Buy and Sell*HomeExtension"
+			]
+		},
+		{
+			"RowName": "Vet_Shop_Master",
+			"NameArray":
+			[
+				"Cure Animals",
+				"Breed Animals"
+			]
+		},
+		{
+			"RowName": "Museum_Shop_Master",
+			"NameArray":
+			[
+				"Donate*Museum",
+				"RNB",
+				"What's missing?*Museum",
+				"When is Jounce Corp moving in?"
+			]
+		}
+	]
+}

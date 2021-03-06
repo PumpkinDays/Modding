@@ -1,0 +1,2810 @@
+{
+	"Rows": 
+	[
+		{
+			"RowName": "Zoey",
+			"Subject": "Happy Birthday!",
+			"Body": "I heard it was your birthday so I got you a gift! Happy birthday *PlayerName*!",
+			"Sender": "Zoey",
+			"CycledGifts":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Sangria",
+						"AmountNeeded": 5
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Beer_Barrel",
+						"AmountNeeded": 1
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Still",
+						"AmountNeeded": 1
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Takeo",
+			"Subject": "Happy Birthday!",
+			"Body": "I heard it was your birthday so I got you a gift! Happy birthday *PlayerName*!",
+			"Sender": "Takeo",
+			"CycledGifts":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Fish_Grill",
+						"AmountNeeded": 1
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Dino_Cake",
+						"AmountNeeded": 1
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Honey_Lavender_Cheesecake",
+						"AmountNeeded": 1
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Abigail",
+			"Subject": "Happy Birthday!",
+			"Body": "I heard it was your birthday so I got you a gift! Happy birthday *PlayerName*!",
+			"Sender": "Abigail",
+			"CycledGifts":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Plum_Wine",
+						"AmountNeeded": 2
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Basket_Carnation",
+						"AmountNeeded": 2
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Drip_Cake",
+						"AmountNeeded": 1
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Emi",
+			"Subject": "Happy Birthday!",
+			"Body": "I heard it was your birthday so I got you a gift! Happy birthday *PlayerName*!",
+			"Sender": "Emi",
+			"CycledGifts":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Cinnamon_Cake",
+						"AmountNeeded": 1
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Chocolate_Chip_Sundae",
+						"AmountNeeded": 1
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Unicorn_Cake",
+						"AmountNeeded": 1
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Tierra",
+			"Subject": "Happy Birthday!",
+			"Body": "I heard it was your birthday so I got you a gift! Happy birthday *PlayerName*!",
+			"Sender": "Tierra",
+			"CycledGifts":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Lavender",
+						"AmountNeeded": 5
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Grilled_Fish",
+						"AmountNeeded": 5
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Grilled_Cheese_Sandwich",
+						"AmountNeeded": 5
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Vera",
+			"Subject": "Happy Birthday!",
+			"Body": "I heard it was your birthday so I got you a gift! Happy birthday *PlayerName*!",
+			"Sender": "Vera",
+			"CycledGifts":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Chocolate_Cake",
+						"AmountNeeded": 1
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Peach_Almond_Squares",
+						"AmountNeeded": 5
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Cat_Cake",
+						"AmountNeeded": 1
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Joan",
+			"Subject": "Happy Birthday!",
+			"Body": "I heard it was your birthday so I got you a gift! Happy birthday *PlayerName*!",
+			"Sender": "Joan",
+			"CycledGifts":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Cobbler_Ice_Cream",
+						"AmountNeeded": 1
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Cookie_Icecream",
+						"AmountNeeded": 2
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Cat_Cake",
+						"AmountNeeded": 1
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Alec",
+			"Subject": "Happy Birthday!",
+			"Body": "I heard it was your birthday so I got you a gift! Happy birthday *PlayerName*!",
+			"Sender": "Alec",
+			"CycledGifts":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Apple_Walnut_Cake",
+						"AmountNeeded": 1
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Dino_Cake",
+						"AmountNeeded": 1
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Feeding_Trough_Large",
+						"AmountNeeded": 1
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Alex",
+			"Subject": "Happy Birthday!",
+			"Body": "I heard it was your birthday so I got you a gift! Happy birthday *PlayerName*!",
+			"Sender": "Alex",
+			"CycledGifts":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Plushie_Chicken_White",
+						"AmountNeeded": 1
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Plushie_Horse_Brown",
+						"AmountNeeded": 1
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Plushie_Pig_Pink",
+						"AmountNeeded": 1
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Black_Mask",
+			"Subject": "Happy Birthday!",
+			"Body": "I heard it was your birthday so I got you a gift! Happy birthday *PlayerName*!",
+			"Sender": "Black_Mask",
+			"CycledGifts":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Plushie_Cow_Black",
+						"AmountNeeded": 1
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Plushie_Dog_Black",
+						"AmountNeeded": 1
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Plushie_Horse_Black",
+						"AmountNeeded": 1
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Claudio",
+			"Subject": "Happy Birthday!",
+			"Body": "I heard it was your birthday so I got you a gift! Happy birthday *PlayerName*!",
+			"Sender": "Claudio",
+			"CycledGifts":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "House_Plant_Peace_Lily",
+						"AmountNeeded": 1
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Meteorite_Polished",
+						"AmountNeeded": 2
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Comet_Polished",
+						"AmountNeeded": 2
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Dahlia",
+			"Subject": "Happy Birthday!",
+			"Body": "I heard it was your birthday so I got you a gift! Happy birthday *PlayerName*!",
+			"Sender": "Dahlia",
+			"CycledGifts":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Blueberry_Crumbs",
+						"AmountNeeded": 2
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Jar_Of_Sugar_Cookies",
+						"AmountNeeded": 2
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Jar_Of_Candy",
+						"AmountNeeded": 2
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Dee",
+			"Subject": "Happy Birthday!",
+			"Body": "I heard it was your birthday so I got you a gift! Happy birthday *PlayerName*!",
+			"Sender": "Dee",
+			"CycledGifts":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Donuts",
+						"AmountNeeded": 2
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Basket_Black_Dahlia",
+						"AmountNeeded": 2
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Plushie_Cat_Black",
+						"AmountNeeded": 1
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Eddie",
+			"Subject": "Happy Birthday!",
+			"Body": "I heard it was your birthday so I got you a gift! Happy birthday *PlayerName*!",
+			"Sender": "Eddie",
+			"CycledGifts":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Goat_Milk",
+						"AmountNeeded": 2
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Feta_Cheese",
+						"AmountNeeded": 2
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Blueberry_Cake",
+						"AmountNeeded": 1
+					}
+				}
+			]
+		},
+		{
+			"RowName": "El_Toro_Furio",
+			"Subject": "Happy Birthday!",
+			"Body": "I heard it was your birthday so I got you a gift! Happy birthday *PlayerName*!",
+			"Sender": "El_Toro_Furio",
+			"CycledGifts":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Beer",
+						"AmountNeeded": 2
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Grog",
+						"AmountNeeded": 2
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Dino_Cake",
+						"AmountNeeded": 1
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Evan",
+			"Subject": "Happy Birthday!",
+			"Body": "I heard it was your birthday so I got you a gift! Happy birthday *PlayerName*!",
+			"Sender": "Evan",
+			"CycledGifts":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Cat_Cake",
+						"AmountNeeded": 1
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Owl_Cake",
+						"AmountNeeded": 1
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Dino_Cake",
+						"AmountNeeded": 1
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Ezekiel",
+			"Subject": "Happy Birthday!",
+			"Body": "I heard it was your birthday so I got you a gift! Happy birthday *PlayerName*!",
+			"Sender": "Ezekiel",
+			"CycledGifts":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Pickaxe_Diamond",
+						"AmountNeeded": 1
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Carrot_Cake",
+						"AmountNeeded": 1
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Cat_Cake",
+						"AmountNeeded": 1
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Faiyaz",
+			"Subject": "Happy Birthday!",
+			"Body": "I heard it was your birthday so I got you a gift! Happy birthday *PlayerName*!",
+			"Sender": "Faiyaz",
+			"CycledGifts":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Dino_Cake",
+						"AmountNeeded": 1
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Brown_Wood_Planks",
+						"AmountNeeded": 50
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Truffle_Fries",
+						"AmountNeeded": 1
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Hyun_Jae_Oh",
+			"Subject": "Happy Birthday!",
+			"Body": "I heard it was your birthday so I got you a gift! Happy birthday *PlayerName*!",
+			"Sender": "Hyun_Jae_Oh",
+			"CycledGifts":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Cat_Cake",
+						"AmountNeeded": 1
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Owl_Cake",
+						"AmountNeeded": 1
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Drip_Cake",
+						"AmountNeeded": 1
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Iris",
+			"Subject": "Happy Birthday!",
+			"Body": "I heard it was your birthday so I got you a gift! Happy birthday *PlayerName*!",
+			"Sender": "Iris",
+			"CycledGifts":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Lapis_Lazuli_Polished",
+						"AmountNeeded": 1
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Sage",
+						"AmountNeeded": 20
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Fruit_Roll_Cake",
+						"AmountNeeded": 1
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Jaime",
+			"Subject": "Happy Birthday!",
+			"Body": "I heard it was your birthday so I got you a gift! Happy birthday *PlayerName*!",
+			"Sender": "Jaime",
+			"CycledGifts":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Owl_Cake",
+						"AmountNeeded": 1
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Dino_Cake",
+						"AmountNeeded": 1
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Unicorn_Cake",
+						"AmountNeeded": 1
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Jefe",
+			"Subject": "Happy Birthday!",
+			"Body": "I heard it was your birthday so I got you a gift! Happy birthday *PlayerName*!",
+			"Sender": "Jefe",
+			"CycledGifts":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Honey_Cake",
+						"AmountNeeded": 1
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Iron_Bar",
+						"AmountNeeded": 20
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Titanium_Bar",
+						"AmountNeeded": 10
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Jelmo",
+			"Subject": "Happy Birthday!",
+			"Body": "I heard it was your birthday so I got you a gift! Happy birthday *PlayerName*!",
+			"Sender": "Jelmo",
+			"CycledGifts":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Owl_Cake",
+						"AmountNeeded": 1
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Dino_Cake",
+						"AmountNeeded": 1
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Unicorn_Cake",
+						"AmountNeeded": 1
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Jim",
+			"Subject": "Happy Birthday!",
+			"Body": "I heard it was your birthday so I got you a gift! Happy birthday *PlayerName*!",
+			"Sender": "Jim",
+			"CycledGifts":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Plushie_Cat_Calico",
+						"AmountNeeded": 1
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Plushie_Rabbit_White",
+						"AmountNeeded": 1
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Drip_Cake",
+						"AmountNeeded": 1
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Julian",
+			"Subject": "Happy Birthday!",
+			"Body": "I heard it was your birthday so I got you a gift! Happy birthday *PlayerName*!",
+			"Sender": "Julian",
+			"CycledGifts":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Grapple_Seeds",
+						"AmountNeeded": 2
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Ginger_Dragon_Seeds",
+						"AmountNeeded": 2
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Cocoberries_Seeds",
+						"AmountNeeded": 2
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Kumoko",
+			"Subject": "Happy Birthday!",
+			"Body": "I heard it was your birthday so I got you a gift! Happy birthday *PlayerName*!",
+			"Sender": "Kumoko",
+			"CycledGifts":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Russian_Teacakes",
+						"AmountNeeded": 1
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Bug_Net_Gold",
+						"AmountNeeded": 1
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Sugar_Skulls",
+						"AmountNeeded": 1
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Lily_Bean",
+			"Subject": "Happy Birthday!",
+			"Body": "I heard it was your birthday so I got you a gift! Happy birthday *PlayerName*!",
+			"Sender": "Lily_Bean",
+			"CycledGifts":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Brownies",
+						"AmountNeeded": 2
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Pumpkin_Cookies",
+						"AmountNeeded": 2
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Jar_Of_Sugar_Cookies",
+						"AmountNeeded": 2
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Nicolas",
+			"Subject": "Happy Birthday!",
+			"Body": "I heard it was your birthday so I got you a gift! Happy birthday *PlayerName*!",
+			"Sender": "Nicolas",
+			"CycledGifts":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "House_Plant_Cactus",
+						"AmountNeeded": 2
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Drip_Cake",
+						"AmountNeeded": 2
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Truffles",
+						"AmountNeeded": 1
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Rose",
+			"Subject": "Happy Birthday!",
+			"Body": "I heard it was your birthday so I got you a gift! Happy birthday *PlayerName*!",
+			"Sender": "Rose",
+			"CycledGifts":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Plushie_Cat_Grey_Stripes",
+						"AmountNeeded": 1
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Unicorn_Plushie",
+						"AmountNeeded": 1
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Unicorn_Cake",
+						"AmountNeeded": 1
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Sebastian",
+			"Subject": "Happy Birthday!",
+			"Body": "I heard it was your birthday so I got you a gift! Happy birthday *PlayerName*!",
+			"Sender": "Sebastian",
+			"CycledGifts":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Simple_Cake",
+						"AmountNeeded": 1
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Chocolate_Mint_Cookies",
+						"AmountNeeded": 2
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Truffle_Chocolates",
+						"AmountNeeded": 1
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Shauna",
+			"Subject": "Happy Birthday!",
+			"Body": "I heard it was your birthday so I got you a gift! Happy birthday *PlayerName*!",
+			"Sender": "Shauna",
+			"CycledGifts":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Goat_Milk",
+						"AmountNeeded": 2
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Feta_Cheese",
+						"AmountNeeded": 2
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Blueberry_Cake",
+						"AmountNeeded": 1
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Tanis",
+			"Subject": "Happy Birthday!",
+			"Body": "I heard it was your birthday so I got you a gift! Happy birthday *PlayerName*!",
+			"Sender": "Tanis",
+			"CycledGifts":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Oatmeal_Cookies",
+						"AmountNeeded": 2
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Unicorn_Cake",
+						"AmountNeeded": 1
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Truffle_Fries",
+						"AmountNeeded": 1
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Tessa",
+			"Subject": "Happy Birthday!",
+			"Body": "I heard it was your birthday so I got you a gift! Happy birthday *PlayerName*!",
+			"Sender": "Tessa",
+			"CycledGifts":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Funnel_Cake",
+						"AmountNeeded": 1
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Unicorn_Cake",
+						"AmountNeeded": 1
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Drip_Cake",
+						"AmountNeeded": 1
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Tucker",
+			"Subject": "Happy Birthday!",
+			"Body": "I heard it was your birthday so I got you a gift! Happy birthday *PlayerName*!",
+			"Sender": "Tucker",
+			"CycledGifts":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Pumpkin_Cake",
+						"AmountNeeded": 1
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Pear_Cake",
+						"AmountNeeded": 1
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Coconut_Cake",
+						"AmountNeeded": 1
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Vibhat",
+			"Subject": "Happy Birthday!",
+			"Body": "I heard it was your birthday so I got you a gift! Happy birthday *PlayerName*!",
+			"Sender": "Vibhat",
+			"CycledGifts":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Almond_Cake",
+						"AmountNeeded": 1
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Fish_Tank_River",
+						"AmountNeeded": 1
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Coconut_Cake",
+						"AmountNeeded": 1
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Jackie",
+			"Subject": "Happy Birthday!",
+			"Body": "I heard it was your birthday so I got you a gift! Happy birthday *PlayerName*!",
+			"Sender": "Jackie",
+			"CycledGifts":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Owl_Cake",
+						"AmountNeeded": 1
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Funnel_Cake",
+						"AmountNeeded": 1
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Dino_Cake",
+						"AmountNeeded": 1
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Orpheus",
+			"Subject": "Happy Birthday!",
+			"Body": "I heard it was your birthday so I got you a gift! Happy birthday *PlayerName*!",
+			"Sender": "Orpheus",
+			"CycledGifts":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Fertilizer",
+						"AmountNeeded": 1
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Drip_Cake",
+						"AmountNeeded": 1
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Owl_Cake",
+						"AmountNeeded": 1
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Ash",
+			"Subject": "Happy Birthday!",
+			"Body": "I heard it was your birthday so I got you a gift! Happy birthday *PlayerName*!",
+			"Sender": "Ash",
+			"CycledGifts":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Macaroons",
+						"AmountNeeded": 2
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Cookie_Icecream",
+						"AmountNeeded": 1
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Sakura_Cookies",
+						"AmountNeeded": 1
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Casey",
+			"Subject": "Happy Birthday!",
+			"Body": "I heard it was your birthday so I got you a gift! Happy birthday *PlayerName*!",
+			"Sender": "Casey",
+			"CycledGifts":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Jar_Chocolate_Chip_Cookies",
+						"AmountNeeded": 1
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Jar_Of_Sugar_Cookies",
+						"AmountNeeded": 1
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Cat_Cake",
+						"AmountNeeded": 1
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Charlie",
+			"Subject": "Happy Birthday!",
+			"Body": "I heard it was your birthday so I got you a gift! Happy birthday *PlayerName*!",
+			"Sender": "Charlie",
+			"CycledGifts":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Pineapple_Cake",
+						"AmountNeeded": 1
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Peach_Almond_Squares",
+						"AmountNeeded": 1
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Truffle_Chocolates",
+						"AmountNeeded": 1
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Charu",
+			"Subject": "Happy Birthday!",
+			"Body": "I heard it was your birthday so I got you a gift! Happy birthday *PlayerName*!",
+			"Sender": "Charu",
+			"CycledGifts":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Hurricane",
+						"AmountNeeded": 1
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Truffle_Fries",
+						"AmountNeeded": 1
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Unicorn_Cake",
+						"AmountNeeded": 1
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Dewain",
+			"Subject": "Happy Birthday!",
+			"Body": "I heard it was your birthday so I got you a gift! Happy birthday *PlayerName*!",
+			"Sender": "Dewain",
+			"CycledGifts":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Simple_Cake",
+						"AmountNeeded": 1
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Rum_Cake",
+						"AmountNeeded": 1
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Dino_Cake",
+						"AmountNeeded": 1
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Dirt",
+			"Subject": "Happy Birthday!",
+			"Body": "I heard it was your birthday so I got you a gift! Happy birthday *PlayerName*!",
+			"Sender": "Dirt",
+			"CycledGifts":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Old_Boot",
+						"AmountNeeded": 1
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Old_Swim_Trunk",
+						"AmountNeeded": 1
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Old_Can",
+						"AmountNeeded": 1
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Clara",
+			"Subject": "Happy Birthday!",
+			"Body": "I heard it was your birthday so I got you a gift! Happy birthday *PlayerName*!",
+			"Sender": "Clara",
+			"CycledGifts":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Steel_Bar",
+						"AmountNeeded": 2
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Titanium_Bar",
+						"AmountNeeded": 2
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Cat_Cake",
+						"AmountNeeded": 1
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Duante",
+			"Subject": "Happy Birthday!",
+			"Body": "I heard it was your birthday so I got you a gift! Happy birthday *PlayerName*!",
+			"Sender": "Duante",
+			"CycledGifts":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Dino_Cake",
+						"AmountNeeded": 1
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Owl_Cake",
+						"AmountNeeded": 1
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Jam_Processor",
+						"AmountNeeded": 1
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Eugene",
+			"Subject": "Happy Birthday!",
+			"Body": "I heard it was your birthday so I got you a gift! Happy birthday *PlayerName*!",
+			"Sender": "Eugene",
+			"CycledGifts":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Fertilizer",
+						"AmountNeeded": 50
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Hoe_Meteor",
+						"AmountNeeded": 1
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Chocolate_Cake",
+						"AmountNeeded": 0
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Govind",
+			"Subject": "Happy Birthday!",
+			"Body": "I heard it was your birthday so I got you a gift! Happy birthday *PlayerName*!",
+			"Sender": "Govind",
+			"CycledGifts":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Chocolate_Chip_Sundae",
+						"AmountNeeded": 1
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Key_Lime_Cake",
+						"AmountNeeded": 1
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Cat_Cake",
+						"AmountNeeded": 1
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Haku",
+			"Subject": "Happy Birthday!",
+			"Body": "I heard it was your birthday so I got you a gift! Happy birthday *PlayerName*!",
+			"Sender": "Haku",
+			"CycledGifts":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Truffles",
+						"AmountNeeded": 1
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Truffle_Fries",
+						"AmountNeeded": 1
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Truffle_Chocolates",
+						"AmountNeeded": 1
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Ikaia",
+			"Subject": "Happy Birthday!",
+			"Body": "I heard it was your birthday so I got you a gift! Happy birthday *PlayerName*!",
+			"Sender": "Ikaia",
+			"CycledGifts":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Fish_Tank_Deep_Ocean",
+						"AmountNeeded": 1
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Tuna_Casserole",
+						"AmountNeeded": 2
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Fish_Chair",
+						"AmountNeeded": 1
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Jabalah",
+			"Subject": "Happy Birthday!",
+			"Body": "I heard it was your birthday so I got you a gift! Happy birthday *PlayerName*!",
+			"Sender": "Jabalah",
+			"CycledGifts":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "House_Plant_Dieffenbachia",
+						"AmountNeeded": 1
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Echinaacea_Pot",
+						"AmountNeeded": 2
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Owl_Cake",
+						"AmountNeeded": 1
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Jacqueline",
+			"Subject": "Happy Birthday!",
+			"Body": "I heard it was your birthday so I got you a gift! Happy birthday *PlayerName*!",
+			"Sender": "Jacqueline",
+			"CycledGifts":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Plushie_Cat_Cream",
+						"AmountNeeded": 1
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Plushie_Cat_Orange_Stripes",
+						"AmountNeeded": 1
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Plushie_Elephant_Grey",
+						"AmountNeeded": 1
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Jade",
+			"Subject": "Happy Birthday!",
+			"Body": "I heard it was your birthday so I got you a gift! Happy birthday *PlayerName*!",
+			"Sender": "Jade",
+			"CycledGifts":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Pina_Colada",
+						"AmountNeeded": 2
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Melon_Hibiscus_Icecream",
+						"AmountNeeded": 2
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Fruit_Roll_Cake",
+						"AmountNeeded": 2
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Jemma",
+			"Subject": "Happy Birthday!",
+			"Body": "I heard it was your birthday so I got you a gift! Happy birthday *PlayerName*!",
+			"Sender": "Jemma",
+			"CycledGifts":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Unicorn_Cake",
+						"AmountNeeded": 1
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Unicorn_Plushie",
+						"AmountNeeded": 1
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Drip_Cake",
+						"AmountNeeded": 1
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Joelle",
+			"Subject": "Happy Birthday!",
+			"Body": "I heard it was your birthday so I got you a gift! Happy birthday *PlayerName*!",
+			"Sender": "Joelle",
+			"CycledGifts":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Plushie_Cat_White",
+						"AmountNeeded": 1
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Truffle_Fries",
+						"AmountNeeded": 1
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Truffle_Chocolates",
+						"AmountNeeded": 1
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Kaine",
+			"Subject": "Happy Birthday!",
+			"Body": "I heard it was your birthday so I got you a gift! Happy birthday *PlayerName*!",
+			"Sender": "Kaine",
+			"CycledGifts":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Plushie_Horse_Brown",
+						"AmountNeeded": 1
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Plushie_Cow_Black",
+						"AmountNeeded": 1
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Truffle_Chocolates",
+						"AmountNeeded": 1
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Lamonte",
+			"Subject": "Happy Birthday!",
+			"Body": "I heard it was your birthday so I got you a gift! Happy birthday *PlayerName*!",
+			"Sender": "Lamonte",
+			"CycledGifts":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Sugarnut_Seeds",
+						"AmountNeeded": 2
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Black_Beet_Seeds",
+						"AmountNeeded": 2
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Raspkins_Seeds",
+						"AmountNeeded": 2
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Kishan",
+			"Subject": "Happy Birthday!",
+			"Body": "I heard it was your birthday so I got you a gift! Happy birthday *PlayerName*!",
+			"Sender": "Kishan",
+			"CycledGifts":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Honey_Cake",
+						"AmountNeeded": 1
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Owl_Cake",
+						"AmountNeeded": 1
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Cobbler_Ice_Cream",
+						"AmountNeeded": 1
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Lisa",
+			"Subject": "Happy Birthday!",
+			"Body": "I heard it was your birthday so I got you a gift! Happy birthday *PlayerName*!",
+			"Sender": "Lisa",
+			"CycledGifts":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Garden_Spider",
+						"AmountNeeded": 1
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Cat_Face_Spider",
+						"AmountNeeded": 1
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Tarantula",
+						"AmountNeeded": 1
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Manaka",
+			"Subject": "Happy Birthday!",
+			"Body": "I heard it was your birthday so I got you a gift! Happy birthday *PlayerName*!",
+			"Sender": "Manaka",
+			"CycledGifts":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Pistachio_Apricot_Square",
+						"AmountNeeded": 2
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Chocolate_Chip_Cookies",
+						"AmountNeeded": 2
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Cookie_Icecream",
+						"AmountNeeded": 2
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Masika",
+			"Subject": "Happy Birthday!",
+			"Body": "I heard it was your birthday so I got you a gift! Happy birthday *PlayerName*!",
+			"Sender": "Masika",
+			"CycledGifts":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Plushie_Rabbit_Brown",
+						"AmountNeeded": 1
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Cranberry_Cake",
+						"AmountNeeded": 1
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Drip_Cake",
+						"AmountNeeded": 1
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Melanie",
+			"Subject": "Happy Birthday!",
+			"Body": "I heard it was your birthday so I got you a gift! Happy birthday *PlayerName*!",
+			"Sender": "Melanie",
+			"CycledGifts":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Callaloo_Breadfruit",
+						"AmountNeeded": 2
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Roti",
+						"AmountNeeded": 2
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Truffle_Chocolates",
+						"AmountNeeded": 1
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Mike",
+			"Subject": "Happy Birthday!",
+			"Body": "I heard it was your birthday so I got you a gift! Happy birthday *PlayerName*!",
+			"Sender": "Mike",
+			"CycledGifts":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Whiskey_Sour",
+						"AmountNeeded": 1
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Beef_Patties",
+						"AmountNeeded": 2
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Milk_Cake",
+						"AmountNeeded": 1
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Nicki",
+			"Subject": "Happy Birthday!",
+			"Body": "I heard it was your birthday so I got you a gift! Happy birthday *PlayerName*!",
+			"Sender": "Nicki",
+			"CycledGifts":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Banana_Cake",
+						"AmountNeeded": 1
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Unicorn_Cake",
+						"AmountNeeded": 1
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Plum_Cake",
+						"AmountNeeded": 1
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Pete",
+			"Subject": "Happy Birthday!",
+			"Body": "I heard it was your birthday so I got you a gift! Happy birthday *PlayerName*!",
+			"Sender": "Pete",
+			"CycledGifts":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Owl_Cake",
+						"AmountNeeded": 1
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Dino_Cake",
+						"AmountNeeded": 1
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Unicorn_Cake",
+						"AmountNeeded": 1
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Queen",
+			"Subject": "Happy Birthday!",
+			"Body": "I heard it was your birthday so I got you a gift! Happy birthday *PlayerName*!",
+			"Sender": "Queen",
+			"CycledGifts":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Funnel_Cake",
+						"AmountNeeded": 1
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Rum_Cake",
+						"AmountNeeded": 1
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Plushie_Rabbit_Black",
+						"AmountNeeded": 1
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Rashida",
+			"Subject": "Happy Birthday!",
+			"Body": "I heard it was your birthday so I got you a gift! Happy birthday *PlayerName*!",
+			"Sender": "Rashida",
+			"CycledGifts":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Sugar_Cookies",
+						"AmountNeeded": 2
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Jar_Chocolate_Chip_Cookies",
+						"AmountNeeded": 2
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Jar_Of_Sugar_Cookies",
+						"AmountNeeded": 2
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Rosario",
+			"Subject": "Happy Birthday!",
+			"Body": "I heard it was your birthday so I got you a gift! Happy birthday *PlayerName*!",
+			"Sender": "Rosario",
+			"CycledGifts":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Brownies",
+						"AmountNeeded": 10
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Brownies",
+						"AmountNeeded": 10
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Brownies",
+						"AmountNeeded": 10
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Tuesday",
+			"Subject": "Happy Birthday!",
+			"Body": "I heard it was your birthday so I got you a gift! Happy birthday *PlayerName*!",
+			"Sender": "Tuesday",
+			"CycledGifts":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Blackberry_Candy",
+						"AmountNeeded": 5
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Black_Coffee",
+						"AmountNeeded": 1
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Blackberry_Pie",
+						"AmountNeeded": 1
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Valerie",
+			"Subject": "Happy Birthday!",
+			"Body": "I heard it was your birthday so I got you a gift! Happy birthday *PlayerName*!",
+			"Sender": "Valerie",
+			"CycledGifts":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Cherry_Cake",
+						"AmountNeeded": 1
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Kumguat_Cake",
+						"AmountNeeded": 1
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Unicorn_Cake",
+						"AmountNeeded": 1
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Zarita",
+			"Subject": "Happy Birthday!",
+			"Body": "I heard it was your birthday so I got you a gift! Happy birthday *PlayerName*!",
+			"Sender": "Zarita",
+			"CycledGifts":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Fruit_Roll_Cake",
+						"AmountNeeded": 1
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Cat_Cake",
+						"AmountNeeded": 1
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Drip_Cake",
+						"AmountNeeded": 1
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Meredith",
+			"Subject": "Happy Birthday!",
+			"Body": "I heard it was your birthday so I got you a gift! Happy birthday *PlayerName*!",
+			"Sender": "Meredith",
+			"CycledGifts":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Plushie_Cat_Grey",
+						"AmountNeeded": 1
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Plushie_Cat_Siamese",
+						"AmountNeeded": 1
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Plushie_Cat_White",
+						"AmountNeeded": 1
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Forrest",
+			"Subject": "Happy Birthday!",
+			"Body": "I heard it was your birthday so I got you a gift! Happy birthday *PlayerName*!",
+			"Sender": "Forrest",
+			"CycledGifts":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Unicorn_Cake",
+						"AmountNeeded": 1
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Dino_Cake",
+						"AmountNeeded": 1
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Owl_Cake",
+						"AmountNeeded": 1
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Olive",
+			"Subject": "Happy Birthday!",
+			"Body": "I heard it was your birthday so I got you a gift! Happy birthday *PlayerName*!",
+			"Sender": "Olive",
+			"CycledGifts":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Owl_Cake",
+						"AmountNeeded": 1
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Drip_Cake",
+						"AmountNeeded": 1
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Cat_Cake",
+						"AmountNeeded": 1
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Elo",
+			"Subject": "Happy Birthday!",
+			"Body": "I heard it was your birthday so I got you a gift! Happy birthday *PlayerName*!",
+			"Sender": "Elo",
+			"CycledGifts":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Plushie_Cat_Calico",
+						"AmountNeeded": 1
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Plushie_Cat_Cream",
+						"AmountNeeded": 1
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Plushie_Cat_Siamese",
+						"AmountNeeded": 1
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Toni",
+			"Subject": "Happy Birthday!",
+			"Body": "I heard it was your birthday so I got you a gift! Happy birthday *PlayerName*!",
+			"Sender": "Toni",
+			"CycledGifts":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Cranberry_Jam_Cookies",
+						"AmountNeeded": 5
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Lemon_Cookies",
+						"AmountNeeded": 5
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Jar_Chocolate_Chip_Cookies",
+						"AmountNeeded": 1
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Frogman",
+			"Subject": "Happy Birthday!",
+			"Body": "I heard it was your birthday so I got you a gift! Happy birthday *PlayerName*!",
+			"Sender": "Frogman",
+			"CycledGifts":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Russian_Teacakes",
+						"AmountNeeded": 5
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Truffle_Fries",
+						"AmountNeeded": 1
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Truffle_Chocolates",
+						"AmountNeeded": 1
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Alexis",
+			"Subject": "Happy Birthday!",
+			"Body": "I heard it was your birthday so I got you a gift! Happy birthday *PlayerName*!",
+			"Sender": "Alexis",
+			"CycledGifts":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Cat_Cake",
+						"AmountNeeded": 1
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Truffle_Fries",
+						"AmountNeeded": 1
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Truffle_Chocolates",
+						"AmountNeeded": 1
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Korin",
+			"Subject": "Happy Birthday!",
+			"Body": "I heard it was your birthday so I got you a gift! Happy birthday *PlayerName*!",
+			"Sender": "Korin",
+			"CycledGifts":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Unicorn_Cake",
+						"AmountNeeded": 1
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Owl_Cake",
+						"AmountNeeded": 1
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Drip_Cake",
+						"AmountNeeded": 1
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Poppy",
+			"Subject": "Happy Birthday!",
+			"Body": "I heard it was your birthday so I got you a gift! Happy birthday *PlayerName*!",
+			"Sender": "Poppy",
+			"CycledGifts":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Drip_Cake",
+						"AmountNeeded": 1
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Unicorn_Cake",
+						"AmountNeeded": 1
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Owl_Cake",
+						"AmountNeeded": 1
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Mickie",
+			"Subject": "Happy Birthday!",
+			"Body": "I heard it was your birthday so I got you a gift! Happy birthday *PlayerName*!",
+			"Sender": "Mickie",
+			"CycledGifts":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Drip_Cake",
+						"AmountNeeded": 1
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Unicorn_Cake",
+						"AmountNeeded": 1
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Owl_Cake",
+						"AmountNeeded": 1
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Lucas",
+			"Subject": "Happy Birthday!",
+			"Body": "I heard it was your birthday so I got you a gift! Happy birthday *PlayerName*!",
+			"Sender": "Lucas",
+			"CycledGifts":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Drip_Cake",
+						"AmountNeeded": 1
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Unicorn_Cake",
+						"AmountNeeded": 1
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Owl_Cake",
+						"AmountNeeded": 1
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Jen",
+			"Subject": "Happy Birthday!",
+			"Body": "I heard it was your birthday so I got you a gift! Happy birthday *PlayerName*!",
+			"Sender": "Jen",
+			"CycledGifts":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Drip_Cake",
+						"AmountNeeded": 1
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Unicorn_Cake",
+						"AmountNeeded": 1
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Owl_Cake",
+						"AmountNeeded": 1
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Harsha",
+			"Subject": "Happy Birthday!",
+			"Body": "I heard it was your birthday so I got you a gift! Happy birthday *PlayerName*!",
+			"Sender": "Harsha",
+			"CycledGifts":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Ginger_Cookies",
+						"AmountNeeded": 2
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Unicorn_Plushie",
+						"AmountNeeded": 1
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Macaroons",
+						"AmountNeeded": 2
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Lan",
+			"Subject": "Happy Birthday!",
+			"Body": "I heard it was your birthday so I got you a gift! Happy birthday *PlayerName*!",
+			"Sender": "Lan",
+			"CycledGifts":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Drip_Cake",
+						"AmountNeeded": 1
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Unicorn_Cake",
+						"AmountNeeded": 1
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Owl_Cake",
+						"AmountNeeded": 1
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Blake",
+			"Subject": "Happy Birthday!",
+			"Body": "I heard it was your birthday so I got you a gift! Happy birthday *PlayerName*!",
+			"Sender": "Blake",
+			"CycledGifts":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Plushie_Cat_Grey_Stripes",
+						"AmountNeeded": 1
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Cheese_Cake",
+						"AmountNeeded": 1
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Chocolate_Cake",
+						"AmountNeeded": 1
+					}
+				}
+			]
+		}
+	]
+}

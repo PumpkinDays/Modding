@@ -1,0 +1,3 @@
+Minigame_Introduction_Npc_Expressions Structure:
+
+NameProperty: string

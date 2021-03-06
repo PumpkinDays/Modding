@@ -1,0 +1,6 @@
+Wild_Animals_Properties Structure:
+
+AnimalClass: TSubclassOf<AWildAnimal> 
+ScareRadius: float
+SeePlayerDistance: float
+ZSpawnOffset: float

@@ -1,0 +1,35 @@
+{
+	"Rows": 
+	[
+		{
+			"RowName": "Default",
+			"CursorReplacement": 1,
+			"FileName": "Pumpkin_Cur12.cur",
+			"CursorHotSpot": 
+			{
+				"X": 0,
+				"Y": 0
+			}
+		},
+		{
+			"RowName": "TextHover",
+			"CursorReplacement": 2,
+			"FileName": "none",
+			"CursorHotSpot": 
+			{
+				"X": 0,
+				"Y": 0
+			}
+		},
+		{
+			"RowName": "Hover_RO",
+			"CursorReplacement": 7,
+			"FileName": "Pumpkin_Cur12_RO.cur",
+			"CursorHotSpot": 
+			{
+				"X": 0,
+				"Y": 0
+			}
+		}
+	]
+}

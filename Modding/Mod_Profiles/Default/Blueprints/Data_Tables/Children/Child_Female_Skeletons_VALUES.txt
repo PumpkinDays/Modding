@@ -1,0 +1,29 @@
+{
+	"Rows": 
+	[
+		{
+			"RowName": "Child_Pants",
+			"SkelMesh": "SkeletalMesh'/Game/Character/Child/Child_Bodies/Child_Long_Pants.Child_Long_Pants'"
+		},
+		{
+			"RowName": "Child_Long_Skirt",
+			"SkelMesh": "SkeletalMesh'/Game/Character/Child/Child_Bodies/Child_Long_Skirt.Child_Long_Skirt'"
+		},
+		{
+			"RowName": "Child_Short_Skirt",
+			"SkelMesh": "SkeletalMesh'/Game/Character/Child/Child_Bodies/Child_Short_Skirt.Child_Short_Skirt'"
+		},
+		{
+			"RowName": "Child_Short_Pants",
+			"SkelMesh": "SkeletalMesh'/Game/Character/Child/Child_Bodies/Child_Short_Pants.Child_Short_Pants'"
+		},
+		{
+			"RowName": "Child_Pants_Glasses",
+			"SkelMesh": "SkeletalMesh'/Game/Character/Child/Child_Bodies/Child_Long_Pants_Glasses.Child_Long_Pants_Glasses'"
+		},
+		{
+			"RowName": "Child_Long_Skirt_Glasses",
+			"SkelMesh": "SkeletalMesh'/Game/Character/Child/Child_Bodies/Child_Long_Skirt_Glasses.Child_Long_Skirt_Glasses'"
+		}
+	]
+}

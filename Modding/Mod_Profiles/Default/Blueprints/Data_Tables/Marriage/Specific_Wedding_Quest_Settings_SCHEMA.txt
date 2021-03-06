@@ -1,0 +1,10 @@
+Specific_Wedding_Quest_Settings Structure:
+
+Title: string
+Description: string
+Type: ONE of
+	None
+	Clothing
+	Flowers
+	Location
+	StartWedding

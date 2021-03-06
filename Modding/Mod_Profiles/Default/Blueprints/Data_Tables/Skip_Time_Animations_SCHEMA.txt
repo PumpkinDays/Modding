@@ -1,0 +1,3 @@
+Skip_Time_Animations Structure:
+
+MaterialProperty: UMaterialInterface*

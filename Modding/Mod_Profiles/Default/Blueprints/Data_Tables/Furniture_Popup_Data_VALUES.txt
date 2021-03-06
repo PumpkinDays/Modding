@@ -1,0 +1,547 @@
+{
+	"Rows": 
+	[
+		{
+			"RowName": "Bed",
+			"PopupMessage": "Should I go to bed now?",
+			"PopupOptions":
+			[
+				"Sleep",
+				"Pick it up",
+				"Nothing"
+			],
+			"InteractIndex": 0,
+			"PickupIndex": 1,
+			"InteractionIcon": "Texture2D'/Game/Textures/Icons/Misc/Sleep_Interact_Icon.Sleep_Interact_Icon'"
+		},
+		{
+			"RowName": "Mailbox",
+			"PopupMessage": "Did I get any mail today?",
+			"PopupOptions":
+			[
+				"Check Mailbox",
+				"Close Mailbox"
+			],
+			"InteractIndex": 0,
+			"PickupIndex": 1,
+			"InteractionIcon": "Texture2D'/Game/Textures/Icons/Misc/Misc_Interact_Icon.Misc_Interact_Icon'"
+		},
+		{
+			"RowName": "Feeding_Trough_Large",
+			"PopupMessage": "I should feed my animals?",
+			"PopupOptions":
+			[
+				"Place Feed",
+				"Pick it up",
+				"Nevermind"
+			],
+			"InteractIndex": 0,
+			"PickupIndex": 1,
+			"InteractionIcon": "Texture2D'/Game/Textures/Icons/Misc/Fodder_Interact_Icon.Fodder_Interact_Icon'"
+		},
+		{
+			"RowName": "Feeding_Trough_Bowl",
+			"PopupMessage": "I should feed my animals?",
+			"PopupOptions":
+			[
+				"Place Feed",
+				"Pick it up",
+				"Nevermind"
+			],
+			"InteractIndex": 0,
+			"PickupIndex": 1,
+			"InteractionIcon": "Texture2D'/Game/Textures/Icons/Misc/Storage_Interact_Icon.Storage_Interact_Icon'"
+		},
+		{
+			"RowName": "Feeding_Trough_Small",
+			"PopupMessage": "I should feed my animals?",
+			"PopupOptions":
+			[
+				"Place Feed",
+				"Pick it up",
+				"Nevermind"
+			],
+			"InteractIndex": 0,
+			"PickupIndex": 1,
+			"InteractionIcon": "Texture2D'/Game/Textures/Icons/Misc/Seeds_Interact_Icon.Seeds_Interact_Icon'"
+		},
+		{
+			"RowName": "Feeding_Trough",
+			"PopupMessage": "I should feed my animals?",
+			"PopupOptions":
+			[
+				"Place Feed",
+				"Pick it up",
+				"Nevermind"
+			],
+			"InteractIndex": 0,
+			"PickupIndex": 1,
+			"InteractionIcon": "Texture2D'/Game/Textures/Icons/Misc/Seeds_Interact_Icon.Seeds_Interact_Icon'"
+		},
+		{
+			"RowName": "Kitchenoid_Size_1",
+			"PopupMessage": "Should I cook something?",
+			"PopupOptions":
+			[
+				"Cook",
+				"Pick it up",
+				"Nevermind"
+			],
+			"InteractIndex": 0,
+			"PickupIndex": 1,
+			"InteractionIcon": "Texture2D'/Game/Textures/Icons/Misc/Cook_Interact_Icon.Cook_Interact_Icon'"
+		},
+		{
+			"RowName": "Well",
+			"PopupMessage": "What do I want to do?",
+			"PopupOptions":
+			[
+				"Pick Up",
+				"Nevermind"
+			],
+			"InteractIndex": -1,
+			"PickupIndex": 0,
+			"InteractionIcon": "Texture2D'/Game/Textures/Icons/Misc/Watering_Interact_Icon.Watering_Interact_Icon'"
+		},
+		{
+			"RowName": "Processing_Machines",
+			"PopupMessage": "What would I like to do?",
+			"PopupOptions":
+			[
+				"Process",
+				"Pick it up",
+				"Nevermind"
+			],
+			"InteractIndex": 0,
+			"PickupIndex": 1,
+			"InteractionIcon": "Texture2D'/Game/Textures/Icons/Misc/Dye_Craft_Process_Interact_Icon.Dye_Craft_Process_Interact_Icon'"
+		},
+		{
+			"RowName": "Storage_Container",
+			"PopupMessage": "What should I do?",
+			"PopupOptions":
+			[
+				"Open",
+				"Pick Up",
+				"Cancel"
+			],
+			"InteractIndex": 0,
+			"PickupIndex": 1,
+			"InteractionIcon": "Texture2D'/Game/Textures/Icons/Misc/Storage_Interact_Icon.Storage_Interact_Icon'"
+		},
+		{
+			"RowName": "Generic_Decor_Furniture",
+			"PopupMessage": "What should I do?",
+			"PopupOptions":
+			[
+				"Pick Up",
+				"Cancel"
+			],
+			"InteractIndex": -1,
+			"PickupIndex": 0,
+			"InteractionIcon": "Texture2D'/Game/Textures/Icons/Misc/Misc_Interact_Icon.Misc_Interact_Icon'"
+		},
+		{
+			"RowName": "House_Painter",
+			"PopupMessage": "What should I do?",
+			"PopupOptions":
+			[
+				"Paint",
+				"Pick Up",
+				"Cancel"
+			],
+			"InteractIndex": 0,
+			"PickupIndex": 1,
+			"InteractionIcon": "Texture2D'/Game/Textures/Icons/Misc/Paint_Interact_Icon.Paint_Interact_Icon'"
+		},
+		{
+			"RowName": "Anvil",
+			"PopupMessage": "What should I do?",
+			"PopupOptions":
+			[
+				"Craft",
+				"Pick Up",
+				"Cancel"
+			],
+			"InteractIndex": 0,
+			"PickupIndex": 1,
+			"InteractionIcon": "Texture2D'/Game/Textures/Icons/Misc/Dye_Craft_Process_Interact_Icon.Dye_Craft_Process_Interact_Icon'"
+		},
+		{
+			"RowName": "Dyeing_Pot",
+			"PopupMessage": "What should I do?",
+			"PopupOptions":
+			[
+				"Dye",
+				"Pick Up",
+				"Cancel"
+			],
+			"InteractIndex": 0,
+			"PickupIndex": 1,
+			"InteractionIcon": "Texture2D'/Game/Textures/Icons/Misc/Dye_Craft_Process_Interact_Icon.Dye_Craft_Process_Interact_Icon'"
+		},
+		{
+			"RowName": "Carpentry_Bench",
+			"PopupMessage": "What should I do?",
+			"PopupOptions":
+			[
+				"Craft",
+				"Pick Up",
+				"Cancel"
+			],
+			"InteractIndex": 0,
+			"PickupIndex": 1,
+			"InteractionIcon": "Texture2D'/Game/Textures/Icons/Misc/Carafting_Interact_Icon.Carafting_Interact_Icon'"
+		},
+		{
+			"RowName": "Kitchenoid_Size_3",
+			"PopupMessage": "What should I do?",
+			"PopupOptions":
+			[
+				"Cook",
+				"Pick Up",
+				"Cancel"
+			],
+			"InteractIndex": 0,
+			"PickupIndex": 1,
+			"InteractionIcon": "Texture2D'/Game/Textures/Icons/Misc/Cook_Interact_Icon.Cook_Interact_Icon'"
+		},
+		{
+			"RowName": "Bee_Box",
+			"PopupMessage": "What should I do?",
+			"PopupOptions":
+			[
+				"Collect",
+				"Pick Up",
+				"Cancel"
+			],
+			"InteractIndex": 0,
+			"PickupIndex": 1,
+			"InteractionIcon": "Texture2D'/Game/Textures/Icons/Misc/Bee_Interact_Icon.Bee_Interact_Icon'"
+		},
+		{
+			"RowName": "Television_Master",
+			"PopupMessage": "What should I do?",
+			"PopupOptions":
+			[
+				"Watch",
+				"Pick Up",
+				"Cancel"
+			],
+			"InteractIndex": 0,
+			"PickupIndex": 1,
+			"InteractionIcon": "Texture2D'/Game/Textures/Icons/Misc/TV_Interact_Icon.TV_Interact_Icon'"
+		},
+		{
+			"RowName": "Trash_Can",
+			"PopupMessage": "What should I do?",
+			"PopupOptions":
+			[
+				"Open",
+				"Pick Up",
+				"Cancel"
+			],
+			"InteractIndex": 0,
+			"PickupIndex": 1,
+			"InteractionIcon": "Texture2D'/Game/Textures/Icons/Misc/Storage_Interact_Icon.Storage_Interact_Icon'"
+		},
+		{
+			"RowName": "Generic_Point_Light_Furniture",
+			"PopupMessage": "What should I do?",
+			"PopupOptions":
+			[
+				"Pick Up",
+				"Cancel"
+			],
+			"InteractIndex": -1,
+			"PickupIndex": 0,
+			"InteractionIcon": "Texture2D'/Game/Textures/Icons/Misc/Bulb_Interact_Icon.Bulb_Interact_Icon'"
+		},
+		{
+			"RowName": "Farm_Bell",
+			"PopupMessage": "What would you like to do?",
+			"PopupOptions":
+			[
+				"Ring",
+				"Pick Up",
+				"Cancel"
+			],
+			"InteractIndex": 0,
+			"PickupIndex": 1,
+			"InteractionIcon": "Texture2D'/Game/Textures/Icons/Misc/Bell_Interact_Icon.Bell_Interact_Icon'"
+		},
+		{
+			"RowName": "Still",
+			"PopupMessage": "What would you like to do?",
+			"PopupOptions":
+			[
+				"Brew",
+				"Pick Up",
+				"Cancel"
+			],
+			"InteractIndex": 0,
+			"PickupIndex": 1,
+			"InteractionIcon": "Texture2D'/Game/Textures/Icons/Misc/Dye_Craft_Process_Interact_Icon.Dye_Craft_Process_Interact_Icon'"
+		},
+		{
+			"RowName": "Smelter",
+			"PopupMessage": "What would you like to do?",
+			"PopupOptions":
+			[
+				"Brew",
+				"Pick Up",
+				"Cancel"
+			],
+			"InteractIndex": 0,
+			"PickupIndex": 1,
+			"InteractionIcon": "Texture2D'/Game/Textures/Icons/Misc/Dye_Craft_Process_Interact_Icon.Dye_Craft_Process_Interact_Icon'"
+		},
+		{
+			"RowName": "Sawmill",
+			"PopupMessage": "What would you like to do?",
+			"PopupOptions":
+			[
+				"Brew",
+				"Pick Up",
+				"Cancel"
+			],
+			"InteractIndex": 0,
+			"PickupIndex": 1,
+			"InteractionIcon": "Texture2D'/Game/Textures/Icons/Misc/Dye_Craft_Process_Interact_Icon.Dye_Craft_Process_Interact_Icon'"
+		},
+		{
+			"RowName": "Cheese_Maker",
+			"PopupMessage": "What would you like to do?",
+			"PopupOptions":
+			[
+				"Brew",
+				"Pick Up",
+				"Cancel"
+			],
+			"InteractIndex": 0,
+			"PickupIndex": 1,
+			"InteractionIcon": "Texture2D'/Game/Textures/Icons/Misc/Dye_Craft_Process_Interact_Icon.Dye_Craft_Process_Interact_Icon'"
+		},
+		{
+			"RowName": "Oil_Press",
+			"PopupMessage": "What would you like to do?",
+			"PopupOptions":
+			[
+				"Brew",
+				"Pick Up",
+				"Cancel"
+			],
+			"InteractIndex": 0,
+			"PickupIndex": 1,
+			"InteractionIcon": "Texture2D'/Game/Textures/Icons/Misc/Dye_Craft_Process_Interact_Icon.Dye_Craft_Process_Interact_Icon'"
+		},
+		{
+			"RowName": "Windmill",
+			"PopupMessage": "What would you like to do?",
+			"PopupOptions":
+			[
+				"Brew",
+				"Pick Up",
+				"Cancel"
+			],
+			"InteractIndex": 0,
+			"PickupIndex": 1,
+			"InteractionIcon": "Texture2D'/Game/Textures/Icons/Misc/Dye_Craft_Process_Interact_Icon.Dye_Craft_Process_Interact_Icon'"
+		},
+		{
+			"RowName": "Milk_Processor",
+			"PopupMessage": "What would you like to do?",
+			"PopupOptions":
+			[
+				"Brew",
+				"Pick Up",
+				"Cancel"
+			],
+			"InteractIndex": 0,
+			"PickupIndex": 1,
+			"InteractionIcon": "Texture2D'/Game/Textures/Icons/Misc/Dye_Craft_Process_Interact_Icon.Dye_Craft_Process_Interact_Icon'"
+		},
+		{
+			"RowName": "Small_Bland_Kitchen",
+			"PopupMessage": "What would you like to do?",
+			"PopupOptions":
+			[
+				"Brew",
+				"Pick Up",
+				"Cancel"
+			],
+			"InteractIndex": 0,
+			"PickupIndex": 1,
+			"InteractionIcon": "Texture2D'/Game/Textures/Icons/Misc/Cook_Interact_Icon.Cook_Interact_Icon'"
+		},
+		{
+			"RowName": "Medium_Bland_Kitchen",
+			"PopupMessage": "What would you like to do?",
+			"PopupOptions":
+			[
+				"Brew",
+				"Pick Up",
+				"Cancel"
+			],
+			"InteractIndex": 0,
+			"PickupIndex": 1,
+			"InteractionIcon": "Texture2D'/Game/Textures/Icons/Misc/Cook_Interact_Icon.Cook_Interact_Icon'"
+		},
+		{
+			"RowName": "Large_Bland_Kitchen",
+			"PopupMessage": "What would you like to do?",
+			"PopupOptions":
+			[
+				"Brew",
+				"Pick Up",
+				"Cancel"
+			],
+			"InteractIndex": 0,
+			"PickupIndex": 1,
+			"InteractionIcon": "Texture2D'/Game/Textures/Icons/Misc/Cook_Interact_Icon.Cook_Interact_Icon'"
+		},
+		{
+			"RowName": "Fish_Prep_Station",
+			"PopupMessage": "What would you like to do?",
+			"PopupOptions":
+			[
+				"Brew",
+				"Pick Up",
+				"Cancel"
+			],
+			"InteractIndex": 0,
+			"PickupIndex": 1,
+			"InteractionIcon": "Texture2D'/Game/Textures/Icons/Misc/Dye_Craft_Process_Interact_Icon.Dye_Craft_Process_Interact_Icon'"
+		},
+		{
+			"RowName": "Gem_Polishing_Station",
+			"PopupMessage": "What would you like to do?",
+			"PopupOptions":
+			[
+				"Brew",
+				"Pick Up",
+				"Cancel"
+			],
+			"InteractIndex": 0,
+			"PickupIndex": 1,
+			"InteractionIcon": "Texture2D'/Game/Textures/Icons/Misc/Dye_Craft_Process_Interact_Icon.Dye_Craft_Process_Interact_Icon'"
+		},
+		{
+			"RowName": "Fertilizer_Barrel",
+			"PopupMessage": "What would you like to do?",
+			"PopupOptions":
+			[
+				"Brew",
+				"Pick Up",
+				"Cancel"
+			],
+			"InteractIndex": 0,
+			"PickupIndex": 1,
+			"InteractionIcon": "Texture2D'/Game/Textures/Icons/Misc/Dye_Craft_Process_Interact_Icon.Dye_Craft_Process_Interact_Icon'"
+		},
+		{
+			"RowName": "Butter_Maker",
+			"PopupMessage": "What would you like to do?",
+			"PopupOptions":
+			[
+				"Brew",
+				"Pick Up",
+				"Cancel"
+			],
+			"InteractIndex": 0,
+			"PickupIndex": 1,
+			"InteractionIcon": "Texture2D'/Game/Textures/Icons/Misc/Dye_Craft_Process_Interact_Icon.Dye_Craft_Process_Interact_Icon'"
+		},
+		{
+			"RowName": "Seed_Maker",
+			"PopupMessage": "What would you like to do?",
+			"PopupOptions":
+			[
+				"Brew",
+				"Pick Up",
+				"Cancel"
+			],
+			"InteractIndex": 0,
+			"PickupIndex": 1,
+			"InteractionIcon": "Texture2D'/Game/Textures/Icons/Misc/Dye_Craft_Process_Interact_Icon.Dye_Craft_Process_Interact_Icon'"
+		},
+		{
+			"RowName": "Animal_Bell",
+			"PopupMessage": "What would you like to do?",
+			"PopupOptions":
+			[
+				"Brew",
+				"Pick Up",
+				"Cancel"
+			],
+			"InteractIndex": 0,
+			"PickupIndex": 1,
+			"InteractionIcon": "Texture2D'/Game/Textures/Icons/Misc/Bell_Interact_Icon.Bell_Interact_Icon'"
+		},
+		{
+			"RowName": "Pestal_Mortar",
+			"PopupMessage": "What would you like to do?",
+			"PopupOptions":
+			[
+				"Brew",
+				"Pick Up",
+				"Cancel"
+			],
+			"InteractIndex": 0,
+			"PickupIndex": 1,
+			"InteractionIcon": "Texture2D'/Game/Textures/Icons/Misc/Dye_Craft_Process_Interact_Icon.Dye_Craft_Process_Interact_Icon'"
+		},
+		{
+			"RowName": "Sign_Furniture",
+			"PopupMessage": "What would you like to do?",
+			"PopupOptions":
+			[
+				"",
+				"",
+				""
+			],
+			"InteractIndex": 0,
+			"PickupIndex": 1,
+			"InteractionIcon": "Texture2D'/Game/Textures/Icons/Misc/Writing_Icon.Writing_Icon'"
+		},
+		{
+			"RowName": "Sewing_Machine",
+			"PopupMessage": "What would you like to do?",
+			"PopupOptions":
+			[
+				"",
+				"",
+				""
+			],
+			"InteractIndex": 0,
+			"PickupIndex": 1,
+			"InteractionIcon": "Texture2D'/Game/Textures/Icons/Misc/Sewing_Machine_Icon.Sewing_Machine_Icon'"
+		},
+		{
+			"RowName": "Feed_Dispenser",
+			"PopupMessage": "What would you like to do?",
+			"PopupOptions":
+			[
+				"Open",
+				"Pick Up",
+				"Cancel"
+			],
+			"InteractIndex": 0,
+			"PickupIndex": 1,
+			"InteractionIcon": "Texture2D'/Game/Textures/Icons/Misc/Storage_Interact_Icon.Storage_Interact_Icon'"
+		},
+		{
+			"RowName": "Crib",
+			"PopupMessage": "What would you like to do?",
+			"PopupOptions":
+			[
+				"",
+				"",
+				""
+			],
+			"InteractIndex": 0,
+			"PickupIndex": 1,
+			"InteractionIcon": "Texture2D'/Game/Textures/Icons/Misc/Storage_Interact_Icon.Storage_Interact_Icon'"
+		}
+	]
+}

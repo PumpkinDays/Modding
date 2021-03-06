@@ -1,0 +1,25 @@
+{
+	"Rows": 
+	[
+		{
+			"RowName": "Sunrise",
+			"Hour": 6,
+			"Minute": 0
+		},
+		{
+			"RowName": "Day",
+			"Hour": 12,
+			"Minute": 0
+		},
+		{
+			"RowName": "Sunset",
+			"Hour": 18,
+			"Minute": 0
+		},
+		{
+			"RowName": "Night",
+			"Hour": 21,
+			"Minute": 0
+		}
+	]
+}

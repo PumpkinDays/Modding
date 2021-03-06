@@ -1,0 +1,5 @@
+Dyeing_Colored_Cloth_Details Structure:
+
+Thumbnail: UTexture2D*
+FriendlyName: string
+Description: string

@@ -1,0 +1,65 @@
+{
+	"Rows": 
+	[
+		{
+			"RowName": "DemoRow",
+			"AchievementId": "Don't fill out the ID OR Item field. Amount is how many points are given",
+			"Values": 
+			{
+				"Action": "None",
+				"Item": "None",
+				"Amount": 0
+			}
+		},
+		{
+			"RowName": "ShipAnything",
+			"AchievementId": "None",
+			"Values": 
+			{
+				"Action": "Ship",
+				"Item": "None",
+				"Amount": 2
+			}
+		},
+		{
+			"RowName": "BreakAnything",
+			"AchievementId": "None",
+			"Values": 
+			{
+				"Action": "DestroyBreakableObject",
+				"Item": "None",
+				"Amount": 2
+			}
+		},
+		{
+			"RowName": "PickUpAnything",
+			"AchievementId": "None",
+			"Values": 
+			{
+				"Action": "PickUpItemSpawn",
+				"Item": "None",
+				"Amount": 1
+			}
+		},
+		{
+			"RowName": "CutdownTrees",
+			"AchievementId": "None",
+			"Values": 
+			{
+				"Action": "CutDownTree",
+				"Item": "None",
+				"Amount": 5
+			}
+		},
+		{
+			"RowName": "EatAnything",
+			"AchievementId": "None",
+			"Values": 
+			{
+				"Action": "Eat",
+				"Item": "None",
+				"Amount": 1
+			}
+		}
+	]
+}

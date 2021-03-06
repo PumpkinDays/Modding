@@ -1,0 +1,4 @@
+House_Painting_Items_Data Structure:
+
+RowName: string
+Material: TAssetPtr<UMaterialInterface>

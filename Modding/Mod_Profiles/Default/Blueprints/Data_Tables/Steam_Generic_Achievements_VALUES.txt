@@ -1,0 +1,25 @@
+{
+	"Rows": 
+	[
+		{
+			"RowName": "EAT_FOOD",
+			"AchievementId": "EAT_FOOD",
+			"Action": "Eat"
+		},
+		{
+			"RowName": "BREAK_THINGS",
+			"AchievementId": "BREAK_THINGS",
+			"Action": "DestroyBreakableObject"
+		},
+		{
+			"RowName": "FORAGER",
+			"AchievementId": "FORAGER",
+			"Action": "PickUpItemSpawn"
+		},
+		{
+			"RowName": "CUT_TREES",
+			"AchievementId": "CUT_TREES",
+			"Action": "CutDownTree"
+		}
+	]
+}

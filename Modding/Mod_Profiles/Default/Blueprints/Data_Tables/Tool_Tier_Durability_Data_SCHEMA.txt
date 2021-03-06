@@ -1,0 +1,14 @@
+Tool_Tier_Durability_Data Structure:
+
+Easy: 
+	ChanceOfDamage: float
+	AmountOfDamage: float
+Normal: 
+	ChanceOfDamage: float
+	AmountOfDamage: float
+Hard: 
+	ChanceOfDamage: float
+	AmountOfDamage: float
+Impossible: 
+	ChanceOfDamage: float
+	AmountOfDamage: float

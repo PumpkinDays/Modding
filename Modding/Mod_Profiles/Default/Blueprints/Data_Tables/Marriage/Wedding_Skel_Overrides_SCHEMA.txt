@@ -1,0 +1,3 @@
+Wedding_Skel_Overrides Structure:
+
+SkelMesh: USkeletalMesh*

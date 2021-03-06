@@ -1,0 +1,42 @@
+Jewelry_Items_Data Structure:
+
+PrimarySlot: ONE of
+	None
+	Hat
+	Eyewear
+	Earrings
+	Necklace
+	Shirt
+	Overshirt
+	Belt
+	Pants
+	Backpack
+	Gloves
+	Wrist
+	Ring
+	Socks
+	Shoes
+Mesh: USkeletalMesh*
+NonSkeletalMesh: UStaticMesh*
+CoveringMaterials: TArray-int32
+Category: ONE of
+	None
+	Hat
+	Eyewear
+	Earrings
+	Necklace
+	FullBody
+	Shirt
+	Overshirt
+	Belt
+	Pants
+	Skirts
+	Shorts
+	Backpack
+	Gloves
+	Wrist
+	Ring
+	Socks
+	Shoes
+ExtraOptions: TArray-TEnumAsByte<EMiscClothingOptions>
+ShowInShop: true/false

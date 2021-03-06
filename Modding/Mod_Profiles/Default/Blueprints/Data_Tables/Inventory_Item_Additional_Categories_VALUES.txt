@@ -1,0 +1,8062 @@
+{
+	"Rows": 
+	[
+		{
+			"RowName": "Chocolate_Milk",
+			"NameArray":
+			[
+				"Ctg_Food"
+			]
+		},
+		{
+			"RowName": "Cabbage",
+			"NameArray":
+			[
+				"Ctg_Crops"
+			]
+		},
+		{
+			"RowName": "Blue_Marlin",
+			"NameArray":
+			[
+				"Ctg_Fish"
+			]
+		},
+		{
+			"RowName": "Bass",
+			"NameArray":
+			[
+				"Ctg_Fish"
+			]
+		},
+		{
+			"RowName": "Piranha",
+			"NameArray":
+			[
+				"Ctg_Fish"
+			]
+		},
+		{
+			"RowName": "Sardine",
+			"NameArray":
+			[
+				"Ctg_Fish"
+			]
+		},
+		{
+			"RowName": "Seahorse",
+			"NameArray":
+			[
+				"Ctg_Fish"
+			]
+		},
+		{
+			"RowName": "Shark",
+			"NameArray":
+			[
+				"Ctg_Fish"
+			]
+		},
+		{
+			"RowName": "Rainbow_Trout",
+			"NameArray":
+			[
+				"Ctg_Fish"
+			]
+		},
+		{
+			"RowName": "Abalone",
+			"NameArray":
+			[
+				"Ctg_Fish"
+			]
+		},
+		{
+			"RowName": "Alligator_Gar",
+			"NameArray":
+			[
+				"Ctg_Fish"
+			]
+		},
+		{
+			"RowName": "Anchovies",
+			"NameArray":
+			[
+				"Ctg_Fish"
+			]
+		},
+		{
+			"RowName": "Angel_Fish",
+			"NameArray":
+			[
+				"Ctg_Fish"
+			]
+		},
+		{
+			"RowName": "Angler_Fish",
+			"NameArray":
+			[
+				"Ctg_Fish"
+			]
+		},
+		{
+			"RowName": "Arapaima",
+			"NameArray":
+			[
+				"Ctg_Fish"
+			]
+		},
+		{
+			"RowName": "Arctic_Char",
+			"NameArray":
+			[
+				"Ctg_Fish"
+			]
+		},
+		{
+			"RowName": "Arowana",
+			"NameArray":
+			[
+				"Ctg_Fish"
+			]
+		},
+		{
+			"RowName": "Barbed_Steed",
+			"NameArray":
+			[
+				"Ctg_Fish"
+			]
+		},
+		{
+			"RowName": "Betta_Fish",
+			"NameArray":
+			[
+				"Ctg_Fish"
+			]
+		},
+		{
+			"RowName": "Big_Head_Carp",
+			"NameArray":
+			[
+				"Ctg_Fish"
+			]
+		},
+		{
+			"RowName": "Bitterling",
+			"NameArray":
+			[
+				"Ctg_Fish"
+			]
+		},
+		{
+			"RowName": "Black_Bass",
+			"NameArray":
+			[
+				"Ctg_Fish"
+			]
+		},
+		{
+			"RowName": "Black_Sea_Nettle",
+			"NameArray":
+			[
+				"Ctg_Fish"
+			]
+		},
+		{
+			"RowName": "Blue_Gill",
+			"NameArray":
+			[
+				"Ctg_Fish"
+			]
+		},
+		{
+			"RowName": "Bonito",
+			"NameArray":
+			[
+				"Ctg_Fish"
+			]
+		},
+		{
+			"RowName": "Bream",
+			"NameArray":
+			[
+				"Ctg_Fish"
+			]
+		},
+		{
+			"RowName": "Butterfly_Fish",
+			"NameArray":
+			[
+				"Ctg_Fish"
+			]
+		},
+		{
+			"RowName": "Carp_Gold",
+			"NameArray":
+			[
+				"Ctg_Fish"
+			]
+		},
+		{
+			"RowName": "Carp_Silver",
+			"NameArray":
+			[
+				"Ctg_Fish"
+			]
+		},
+		{
+			"RowName": "Catfish",
+			"NameArray":
+			[
+				"Ctg_Fish"
+			]
+		},
+		{
+			"RowName": "Chambered_Nautilus",
+			"NameArray":
+			[
+				"Ctg_Fish"
+			]
+		},
+		{
+			"RowName": "Cherry_Salmon",
+			"NameArray":
+			[
+				"Ctg_Fish"
+			]
+		},
+		{
+			"RowName": "Chub",
+			"NameArray":
+			[
+				"Ctg_Fish"
+			]
+		},
+		{
+			"RowName": "Clam",
+			"NameArray":
+			[
+				"Ctg_Fish"
+			]
+		},
+		{
+			"RowName": "Clown_Fish",
+			"NameArray":
+			[
+				"Ctg_Fish"
+			]
+		},
+		{
+			"RowName": "Coconut_Crab",
+			"NameArray":
+			[
+				"Ctg_Fish"
+			]
+		},
+		{
+			"RowName": "Cod",
+			"NameArray":
+			[
+				"Ctg_Fish"
+			]
+		},
+		{
+			"RowName": "Coelacanth",
+			"NameArray":
+			[
+				"Ctg_Fish"
+			]
+		},
+		{
+			"RowName": "Conch_Shell",
+			"NameArray":
+			[
+				"Ctg_Fish"
+			]
+		},
+		{
+			"RowName": "Crab",
+			"NameArray":
+			[
+				"Ctg_Fish"
+			]
+		},
+		{
+			"RowName": "Crawdad",
+			"NameArray":
+			[
+				"Ctg_Fish"
+			]
+		},
+		{
+			"RowName": "Crucian_Carp",
+			"NameArray":
+			[
+				"Ctg_Fish"
+			]
+		},
+		{
+			"RowName": "Dace",
+			"NameArray":
+			[
+				"Ctg_Fish"
+			]
+		},
+		{
+			"RowName": "Dungeoness_Crab",
+			"NameArray":
+			[
+				"Ctg_Fish"
+			]
+		},
+		{
+			"RowName": "Eel_Saltwater",
+			"NameArray":
+			[
+				"Ctg_Fish"
+			]
+		},
+		{
+			"RowName": "Festive_Sea_Slug",
+			"NameArray":
+			[
+				"Ctg_Fish"
+			]
+		},
+		{
+			"RowName": "File_Fish",
+			"NameArray":
+			[
+				"Ctg_Fish"
+			]
+		},
+		{
+			"RowName": "Flounder",
+			"NameArray":
+			[
+				"Ctg_Fish"
+			]
+		},
+		{
+			"RowName": "Fluke",
+			"NameArray":
+			[
+				"Ctg_Fish"
+			]
+		},
+		{
+			"RowName": "Frog",
+			"NameArray":
+			[
+				"Ctg_Fish"
+			]
+		},
+		{
+			"RowName": "Ghost_Crab",
+			"NameArray":
+			[
+				"Ctg_Fish"
+			]
+		},
+		{
+			"RowName": "Giant_Isopod",
+			"NameArray":
+			[
+				"Ctg_Fish"
+			]
+		},
+		{
+			"RowName": "Giant_Trevally",
+			"NameArray":
+			[
+				"Ctg_Fish"
+			]
+		},
+		{
+			"RowName": "Goldfish",
+			"NameArray":
+			[
+				"Ctg_Fish"
+			]
+		},
+		{
+			"RowName": "Greenling",
+			"NameArray":
+			[
+				"Ctg_Fish"
+			]
+		},
+		{
+			"RowName": "Grouper",
+			"NameArray":
+			[
+				"Ctg_Fish"
+			]
+		},
+		{
+			"RowName": "Guppy",
+			"NameArray":
+			[
+				"Ctg_Fish"
+			]
+		},
+		{
+			"RowName": "Haddock",
+			"NameArray":
+			[
+				"Ctg_Fish"
+			]
+		},
+		{
+			"RowName": "Halibut",
+			"NameArray":
+			[
+				"Ctg_Fish"
+			]
+		},
+		{
+			"RowName": "Herring",
+			"NameArray":
+			[
+				"Ctg_Fish"
+			]
+		},
+		{
+			"RowName": "Horse_Hair_Crab",
+			"NameArray":
+			[
+				"Ctg_Fish"
+			]
+		},
+		{
+			"RowName": "Horse_Shoe_Crab",
+			"NameArray":
+			[
+				"Ctg_Fish"
+			]
+		},
+		{
+			"RowName": "Humphead_Wrasse",
+			"NameArray":
+			[
+				"Ctg_Fish"
+			]
+		},
+		{
+			"RowName": "Jellyfish",
+			"NameArray":
+			[
+				"Ctg_Fish"
+			]
+		},
+		{
+			"RowName": "John_Dory",
+			"NameArray":
+			[
+				"Ctg_Fish"
+			]
+		},
+		{
+			"RowName": "Kelp_Bass",
+			"NameArray":
+			[
+				"Ctg_Fish"
+			]
+		},
+		{
+			"RowName": "Killi_Fish",
+			"NameArray":
+			[
+				"Ctg_Fish"
+			]
+		},
+		{
+			"RowName": "Knife_Jaw",
+			"NameArray":
+			[
+				"Ctg_Fish"
+			]
+		},
+		{
+			"RowName": "Koi",
+			"NameArray":
+			[
+				"Ctg_Fish"
+			]
+		},
+		{
+			"RowName": "Lake_Eel",
+			"NameArray":
+			[
+				"Ctg_Fish"
+			]
+		},
+		{
+			"RowName": "Lake_Smelt",
+			"NameArray":
+			[
+				"Ctg_Fish"
+			]
+		},
+		{
+			"RowName": "Lamprey",
+			"NameArray":
+			[
+				"Ctg_Fish"
+			]
+		},
+		{
+			"RowName": "Large_Mouth_Bass",
+			"NameArray":
+			[
+				"Ctg_Fish"
+			]
+		},
+		{
+			"RowName": "Lion_Fish",
+			"NameArray":
+			[
+				"Ctg_Fish"
+			]
+		},
+		{
+			"RowName": "Loach",
+			"NameArray":
+			[
+				"Ctg_Fish"
+			]
+		},
+		{
+			"RowName": "Lobster",
+			"NameArray":
+			[
+				"Ctg_Fish"
+			]
+		},
+		{
+			"RowName": "Mackerel",
+			"NameArray":
+			[
+				"Ctg_Fish"
+			]
+		},
+		{
+			"RowName": "Mahi_Mahi",
+			"NameArray":
+			[
+				"Ctg_Fish"
+			]
+		},
+		{
+			"RowName": "Mantis_Shrimp",
+			"NameArray":
+			[
+				"Ctg_Fish"
+			]
+		},
+		{
+			"RowName": "Milkfish",
+			"NameArray":
+			[
+				"Ctg_Fish"
+			]
+		},
+		{
+			"RowName": "Mitten_Crab",
+			"NameArray":
+			[
+				"Ctg_Fish"
+			]
+		},
+		{
+			"RowName": "Monkfish",
+			"NameArray":
+			[
+				"Ctg_Fish"
+			]
+		},
+		{
+			"RowName": "Mountain_Trout",
+			"NameArray":
+			[
+				"Ctg_Fish"
+			]
+		},
+		{
+			"RowName": "Mudcrab",
+			"NameArray":
+			[
+				"Ctg_Fish"
+			]
+		},
+		{
+			"RowName": "Mullet",
+			"NameArray":
+			[
+				"Ctg_Fish"
+			]
+		},
+		{
+			"RowName": "Needle_Fish",
+			"NameArray":
+			[
+				"Ctg_Fish"
+			]
+		},
+		{
+			"RowName": "Northern_Pike",
+			"NameArray":
+			[
+				"Ctg_Fish"
+			]
+		},
+		{
+			"RowName": "Oar_Fish",
+			"NameArray":
+			[
+				"Ctg_Fish"
+			]
+		},
+		{
+			"RowName": "Ocean_Sunfish",
+			"NameArray":
+			[
+				"Ctg_Fish"
+			]
+		},
+		{
+			"RowName": "Octopus",
+			"NameArray":
+			[
+				"Ctg_Fish"
+			]
+		},
+		{
+			"RowName": "Oyster",
+			"NameArray":
+			[
+				"Ctg_Fish"
+			]
+		},
+		{
+			"RowName": "Pufferfish",
+			"NameArray":
+			[
+				"Ctg_Fish"
+			]
+		},
+		{
+			"RowName": "Red_King_Crab",
+			"NameArray":
+			[
+				"Ctg_Fish"
+			]
+		},
+		{
+			"RowName": "Red_Snapper",
+			"NameArray":
+			[
+				"Ctg_Fish"
+			]
+		},
+		{
+			"RowName": "River_Bass",
+			"NameArray":
+			[
+				"Ctg_Fish"
+			]
+		},
+		{
+			"RowName": "Rock_Bass",
+			"NameArray":
+			[
+				"Ctg_Fish"
+			]
+		},
+		{
+			"RowName": "Rock_Lobster",
+			"NameArray":
+			[
+				"Ctg_Fish"
+			]
+		},
+		{
+			"RowName": "Rock_Trout",
+			"NameArray":
+			[
+				"Ctg_Fish"
+			]
+		},
+		{
+			"RowName": "Sable_Fish",
+			"NameArray":
+			[
+				"Ctg_Fish"
+			]
+		},
+		{
+			"RowName": "Saddled_Bichir",
+			"NameArray":
+			[
+				"Ctg_Fish"
+			]
+		},
+		{
+			"RowName": "Salmon",
+			"NameArray":
+			[
+				"Ctg_Fish"
+			]
+		},
+		{
+			"RowName": "Saltwater_Catfish",
+			"NameArray":
+			[
+				"Ctg_Fish"
+			]
+		},
+		{
+			"RowName": "Saury_Pike",
+			"NameArray":
+			[
+				"Ctg_Fish"
+			]
+		},
+		{
+			"RowName": "Scad",
+			"NameArray":
+			[
+				"Ctg_Fish"
+			]
+		},
+		{
+			"RowName": "Scallops",
+			"NameArray":
+			[
+				"Ctg_Fish"
+			]
+		},
+		{
+			"RowName": "Sea_Bass",
+			"NameArray":
+			[
+				"Ctg_Fish"
+			]
+		},
+		{
+			"RowName": "Sea_Butterfly",
+			"NameArray":
+			[
+				"Ctg_Fish"
+			]
+		},
+		{
+			"RowName": "Sea_Cucumber",
+			"NameArray":
+			[
+				"Ctg_Fish"
+			]
+		},
+		{
+			"RowName": "Sea_Urchin",
+			"NameArray":
+			[
+				"Ctg_Fish"
+			]
+		},
+		{
+			"RowName": "Shrimp",
+			"NameArray":
+			[
+				"Ctg_Fish"
+			]
+		},
+		{
+			"RowName": "Snakehead",
+			"NameArray":
+			[
+				"Ctg_Fish"
+			]
+		},
+		{
+			"RowName": "Snapper",
+			"NameArray":
+			[
+				"Ctg_Fish"
+			]
+		},
+		{
+			"RowName": "Snow_Crab",
+			"NameArray":
+			[
+				"Ctg_Fish"
+			]
+		},
+		{
+			"RowName": "Spider_Crab",
+			"NameArray":
+			[
+				"Ctg_Fish"
+			]
+		},
+		{
+			"RowName": "Spiny_Lobster",
+			"NameArray":
+			[
+				"Ctg_Fish"
+			]
+		},
+		{
+			"RowName": "Squid",
+			"NameArray":
+			[
+				"Ctg_Fish"
+			]
+		},
+		{
+			"RowName": "Starfish",
+			"NameArray":
+			[
+				"Ctg_Fish"
+			]
+		},
+		{
+			"RowName": "Stingray",
+			"NameArray":
+			[
+				"Ctg_Fish"
+			]
+		},
+		{
+			"RowName": "Sturgeon",
+			"NameArray":
+			[
+				"Ctg_Fish"
+			]
+		},
+		{
+			"RowName": "Sweet_Shrimp",
+			"NameArray":
+			[
+				"Ctg_Fish"
+			]
+		},
+		{
+			"RowName": "Swordfish",
+			"NameArray":
+			[
+				"Ctg_Fish"
+			]
+		},
+		{
+			"RowName": "Tench",
+			"NameArray":
+			[
+				"Ctg_Fish"
+			]
+		},
+		{
+			"RowName": "Tetra",
+			"NameArray":
+			[
+				"Ctg_Fish"
+			]
+		},
+		{
+			"RowName": "Tiger_Fish",
+			"NameArray":
+			[
+				"Ctg_Fish"
+			]
+		},
+		{
+			"RowName": "Tiger_Prawn",
+			"NameArray":
+			[
+				"Ctg_Fish"
+			]
+		},
+		{
+			"RowName": "Tilapia",
+			"NameArray":
+			[
+				"Ctg_Fish"
+			]
+		},
+		{
+			"RowName": "Tuna",
+			"NameArray":
+			[
+				"Ctg_Fish"
+			]
+		},
+		{
+			"RowName": "Turban_Shell",
+			"NameArray":
+			[
+				"Ctg_Fish"
+			]
+		},
+		{
+			"RowName": "Wahoo",
+			"NameArray":
+			[
+				"Ctg_Fish"
+			]
+		},
+		{
+			"RowName": "Walleye",
+			"NameArray":
+			[
+				"Ctg_Fish"
+			]
+		},
+		{
+			"RowName": "Whitefish",
+			"NameArray":
+			[
+				"Ctg_Fish"
+			]
+		},
+		{
+			"RowName": "Yellow_tail",
+			"NameArray":
+			[
+				"Ctg_Fish"
+			]
+		},
+		{
+			"RowName": "Zebra_Mussel",
+			"NameArray":
+			[
+				"Ctg_Fish"
+			]
+		},
+		{
+			"RowName": "Chicken_Egg",
+			"NameArray":
+			[
+				"Ctg_Animal_Products",
+				"Ctg_Cheese_Maker_Unlock"
+			]
+		},
+		{
+			"RowName": "Duck_Egg",
+			"NameArray":
+			[
+				"Ctg_Animal_Products",
+				"Ctg_Cheese_Maker_Unlock"
+			]
+		},
+		{
+			"RowName": "Emu_Egg",
+			"NameArray":
+			[
+				"Ctg_Animal_Products",
+				"Ctg_Cheese_Maker_Unlock"
+			]
+		},
+		{
+			"RowName": "Milk",
+			"NameArray":
+			[
+				"Ctg_Animal_Products",
+				"Ctg_Milk",
+				"Ctg_Nut",
+				"Ctg_Cheese_Maker_Unlock"
+			]
+		},
+		{
+			"RowName": "Goat_Milk",
+			"NameArray":
+			[
+				"Ctg_Animal_Products",
+				"Ctg_Milk",
+				"Ctg_Nut",
+				"Ctg_Cheese_Maker_Unlock"
+			]
+		},
+		{
+			"RowName": "Cheese",
+			"NameArray":
+			[
+				"Ctg_Animal_Products"
+			]
+		},
+		{
+			"RowName": "Feta_Cheese",
+			"NameArray":
+			[
+				"Ctg_Animal_Products"
+			]
+		},
+		{
+			"RowName": "Beer",
+			"NameArray":
+			[
+				"Ctg_Alcohol"
+			]
+		},
+		{
+			"RowName": "Brandy",
+			"NameArray":
+			[
+				"Ctg_Alcohol"
+			]
+		},
+		{
+			"RowName": "Chicha",
+			"NameArray":
+			[
+				"Ctg_Alcohol"
+			]
+		},
+		{
+			"RowName": "Cider",
+			"NameArray":
+			[
+				"Ctg_Alcohol"
+			]
+		},
+		{
+			"RowName": "Ginger_Beer",
+			"NameArray":
+			[
+				"Ctg_Alcohol"
+			]
+		},
+		{
+			"RowName": "Mead",
+			"NameArray":
+			[
+				"Ctg_Alcohol"
+			]
+		},
+		{
+			"RowName": "Moonshine",
+			"NameArray":
+			[
+				"Ctg_Alcohol"
+			]
+		},
+		{
+			"RowName": "Plum_Wine",
+			"NameArray":
+			[
+				"Ctg_Alcohol"
+			]
+		},
+		{
+			"RowName": "Rum",
+			"NameArray":
+			[
+				"Ctg_Alcohol"
+			]
+		},
+		{
+			"RowName": "Sake",
+			"NameArray":
+			[
+				"Ctg_Alcohol"
+			]
+		},
+		{
+			"RowName": "Triple_Sec",
+			"NameArray":
+			[
+				"Ctg_Alcohol"
+			]
+		},
+		{
+			"RowName": "Vermouth",
+			"NameArray":
+			[
+				"Ctg_Alcohol"
+			]
+		},
+		{
+			"RowName": "Vodka",
+			"NameArray":
+			[
+				"Ctg_Alcohol"
+			]
+		},
+		{
+			"RowName": "Wheat_Beer",
+			"NameArray":
+			[
+				"Ctg_Alcohol"
+			]
+		},
+		{
+			"RowName": "Whiskey",
+			"NameArray":
+			[
+				"Ctg_Alcohol"
+			]
+		},
+		{
+			"RowName": "Wine",
+			"NameArray":
+			[
+				"Ctg_Alcohol"
+			]
+		},
+		{
+			"RowName": "Bag_Rice",
+			"NameArray":
+			[
+				"Ctg_Non_Dairy"
+			]
+		},
+		{
+			"RowName": "Bag_Sugar",
+			"NameArray":
+			[]
+		},
+		{
+			"RowName": "Bag_Barley",
+			"NameArray":
+			[
+				"Ctg_Barley"
+			]
+		},
+		{
+			"RowName": "Cocoa_Powder",
+			"NameArray":
+			[]
+		},
+		{
+			"RowName": "Flour",
+			"NameArray":
+			[]
+		},
+		{
+			"RowName": "Oatmeal",
+			"NameArray":
+			[
+				"Ctg_Non_Dairy"
+			]
+		},
+		{
+			"RowName": "Pepper_Bottle",
+			"NameArray":
+			[]
+		},
+		{
+			"RowName": "Vegetable_Oil",
+			"NameArray":
+			[]
+		},
+		{
+			"RowName": "Batter",
+			"NameArray":
+			[]
+		},
+		{
+			"RowName": "Cookie_Batter",
+			"NameArray":
+			[]
+		},
+		{
+			"RowName": "Dough",
+			"NameArray":
+			[]
+		},
+		{
+			"RowName": "Pie_Crust",
+			"NameArray":
+			[]
+		},
+		{
+			"RowName": "Beef_Chili",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Meat"
+			]
+		},
+		{
+			"RowName": "Beef_Stew",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Meat"
+			]
+		},
+		{
+			"RowName": "Brisket_with_Bbq",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Meat"
+			]
+		},
+		{
+			"RowName": "Steamed_Cabbage",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Meat"
+			]
+		},
+		{
+			"RowName": "Crisp_Orange_Beef",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Meat"
+			]
+		},
+		{
+			"RowName": "Hamburger",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Hamburger"
+			]
+		},
+		{
+			"RowName": "Meatballs",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Meat"
+			]
+		},
+		{
+			"RowName": "Meatloaf",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Meat"
+			]
+		},
+		{
+			"RowName": "Roast_Meal",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Meat"
+			]
+		},
+		{
+			"RowName": "Salisbury_Steak",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Meat"
+			]
+		},
+		{
+			"RowName": "Shepards_Pie",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Meat"
+			]
+		},
+		{
+			"RowName": "Sirloin_Kebab",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Meat"
+			]
+		},
+		{
+			"RowName": "Spagetti",
+			"NameArray":
+			[
+				"Ctg_Recipe"
+			]
+		},
+		{
+			"RowName": "Stuffed_Pepper",
+			"NameArray":
+			[
+				"Ctg_Recipe"
+			]
+		},
+		{
+			"RowName": "Apple_Bread",
+			"NameArray":
+			[
+				"Ctg_Recipe"
+			]
+		},
+		{
+			"RowName": "Bread",
+			"NameArray":
+			[
+				"Ctg_Recipe"
+			]
+		},
+		{
+			"RowName": "Cantaloupe_Bread",
+			"NameArray":
+			[
+				"Ctg_Recipe"
+			]
+		},
+		{
+			"RowName": "Cheese_Bread",
+			"NameArray":
+			[
+				"Ctg_Recipe"
+			]
+		},
+		{
+			"RowName": "Cornbread_Bread",
+			"NameArray":
+			[
+				"Ctg_Recipe"
+			]
+		},
+		{
+			"RowName": "Cranberry_Bread",
+			"NameArray":
+			[
+				"Ctg_Recipe"
+			]
+		},
+		{
+			"RowName": "Lavender_Bread",
+			"NameArray":
+			[
+				"Ctg_Recipe"
+			]
+		},
+		{
+			"RowName": "Olive_Bread",
+			"NameArray":
+			[
+				"Ctg_Recipe"
+			]
+		},
+		{
+			"RowName": "Orange_Bread",
+			"NameArray":
+			[
+				"Ctg_Recipe"
+			]
+		},
+		{
+			"RowName": "Pumpkin_Bread",
+			"NameArray":
+			[
+				"Ctg_Recipe"
+			]
+		},
+		{
+			"RowName": "Raisin_Bread",
+			"NameArray":
+			[
+				"Ctg_Recipe"
+			]
+		},
+		{
+			"RowName": "Rhubarb_Bread",
+			"NameArray":
+			[
+				"Ctg_Recipe"
+			]
+		},
+		{
+			"RowName": "Vanilla_Bread",
+			"NameArray":
+			[
+				"Ctg_Recipe"
+			]
+		},
+		{
+			"RowName": "Bacon",
+			"NameArray":
+			[
+				"Ctg_Recipe"
+			]
+		},
+		{
+			"RowName": "Boiled_Eggs",
+			"NameArray":
+			[
+				"Ctg_Recipe"
+			]
+		},
+		{
+			"RowName": "Broccoli_Quiche",
+			"NameArray":
+			[
+				"Ctg_Recipe"
+			]
+		},
+		{
+			"RowName": "Corn_Flakes",
+			"NameArray":
+			[
+				"Ctg_Recipe"
+			]
+		},
+		{
+			"RowName": "Donuts",
+			"NameArray":
+			[
+				"Ctg_Recipe"
+			]
+		},
+		{
+			"RowName": "Fancy_Oatmeal",
+			"NameArray":
+			[
+				"Ctg_Recipe"
+			]
+		},
+		{
+			"RowName": "Bowl_Of_Oatmeal",
+			"NameArray":
+			[
+				"Ctg_Recipe"
+			]
+		},
+		{
+			"RowName": "Pancakes",
+			"NameArray":
+			[
+				"Ctg_Recipe"
+			]
+		},
+		{
+			"RowName": "Rice_Pudding",
+			"NameArray":
+			[
+				"Ctg_Recipe"
+			]
+		},
+		{
+			"RowName": "Scrambled_Eggs",
+			"NameArray":
+			[
+				"Ctg_Recipe"
+			]
+		},
+		{
+			"RowName": "Almond_Cake",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Cake"
+			]
+		},
+		{
+			"RowName": "Apple_Cake",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Cake"
+			]
+		},
+		{
+			"RowName": "Apple_Walnut_Cake",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Cake"
+			]
+		},
+		{
+			"RowName": "Banana_Cake",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Cake"
+			]
+		},
+		{
+			"RowName": "Blueberry_Cake",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Cake"
+			]
+		},
+		{
+			"RowName": "Carrot_Cake",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Cake"
+			]
+		},
+		{
+			"RowName": "Cheese_Cake",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Cake"
+			]
+		},
+		{
+			"RowName": "Cherry_Cake",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Cake"
+			]
+		},
+		{
+			"RowName": "Chestnut_Cake",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Cake"
+			]
+		},
+		{
+			"RowName": "Chocolate_Cake",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Cake"
+			]
+		},
+		{
+			"RowName": "Cinnamon_Cake",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Cake"
+			]
+		},
+		{
+			"RowName": "Coconut_Cake",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Cake"
+			]
+		},
+		{
+			"RowName": "Cranberry_Cake",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Cake"
+			]
+		},
+		{
+			"RowName": "Green_Tea_Cake",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Cake"
+			]
+		},
+		{
+			"RowName": "Honey_Cake",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Cake"
+			]
+		},
+		{
+			"RowName": "Key_Lime_Cake",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Cake"
+			]
+		},
+		{
+			"RowName": "Kumguat_Cake",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Cake"
+			]
+		},
+		{
+			"RowName": "Lemon_Cake",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Cake"
+			]
+		},
+		{
+			"RowName": "Macadamia_Cake",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Cake"
+			]
+		},
+		{
+			"RowName": "Milk_Cake",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Cake"
+			]
+		},
+		{
+			"RowName": "Orange_Cake",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Cake"
+			]
+		},
+		{
+			"RowName": "Peach_Cake",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Cake"
+			]
+		},
+		{
+			"RowName": "Peanut_Butter_Cake",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Cake"
+			]
+		},
+		{
+			"RowName": "Pear_Cake",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Cake"
+			]
+		},
+		{
+			"RowName": "Pecan_Cake",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Cake"
+			]
+		},
+		{
+			"RowName": "Pineapple_Cake",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Cake"
+			]
+		},
+		{
+			"RowName": "Plum_Cake",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Cake"
+			]
+		},
+		{
+			"RowName": "Pumpkin_Cake",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Cake"
+			]
+		},
+		{
+			"RowName": "Rasberry_Cake",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Cake"
+			]
+		},
+		{
+			"RowName": "Rhubarb_Cake",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Cake"
+			]
+		},
+		{
+			"RowName": "Rum_Cake",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Cake"
+			]
+		},
+		{
+			"RowName": "Simple_Cake",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Cake"
+			]
+		},
+		{
+			"RowName": "Sweet_Potato_Cake",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Cake"
+			]
+		},
+		{
+			"RowName": "Apple_Candy",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Candy"
+			]
+		},
+		{
+			"RowName": "Apricots_Candy",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Candy"
+			]
+		},
+		{
+			"RowName": "Blackberry_Candy",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Candy"
+			]
+		},
+		{
+			"RowName": "Cantaloupe_Candy",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Candy"
+			]
+		},
+		{
+			"RowName": "Cherry_Candy",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Candy"
+			]
+		},
+		{
+			"RowName": "Chocolate_Bar",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Candy"
+			]
+		},
+		{
+			"RowName": "Grape_Candy",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Candy"
+			]
+		},
+		{
+			"RowName": "Grapefruit_Candy",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Candy"
+			]
+		},
+		{
+			"RowName": "Guava_Candy",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Candy"
+			]
+		},
+		{
+			"RowName": "Kiwi_Candy",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Candy"
+			]
+		},
+		{
+			"RowName": "Kumguat_Candy",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Candy"
+			]
+		},
+		{
+			"RowName": "Lemon_Candy",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Candy"
+			]
+		},
+		{
+			"RowName": "Lime_Candy",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Candy"
+			]
+		},
+		{
+			"RowName": "Lychee_Candy",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Candy"
+			]
+		},
+		{
+			"RowName": "Mango_Candy",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Candy"
+			]
+		},
+		{
+			"RowName": "Orange_Candy",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Candy"
+			]
+		},
+		{
+			"RowName": "Passion_Fruit_Candy",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Candy"
+			]
+		},
+		{
+			"RowName": "Peach_Candy",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Candy"
+			]
+		},
+		{
+			"RowName": "Peppermint_Candy",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Candy"
+			]
+		},
+		{
+			"RowName": "Pineapple_Candy",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Candy"
+			]
+		},
+		{
+			"RowName": "Plum_Candy",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Candy"
+			]
+		},
+		{
+			"RowName": "Raspberry_Candy",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Candy"
+			]
+		},
+		{
+			"RowName": "Starfruit_Candy",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Candy"
+			]
+		},
+		{
+			"RowName": "Strawberry_Candy",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Candy"
+			]
+		},
+		{
+			"RowName": "Watermelon_Candy",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Candy"
+			]
+		},
+		{
+			"RowName": "Artichoke_Chicken",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Meat"
+			]
+		},
+		{
+			"RowName": "Baked_Chicken",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Meat"
+			]
+		},
+		{
+			"RowName": "Bbq_Chicken",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Meat"
+			]
+		},
+		{
+			"RowName": "Buffalo_Chicken",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Meat"
+			]
+		},
+		{
+			"RowName": "Chicken_Cordon_Blue",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Meat"
+			]
+		},
+		{
+			"RowName": "Chicken_Parmesan",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Meat"
+			]
+		},
+		{
+			"RowName": "Chicken_Pasta",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Meat",
+				"Ctg_Noodles"
+			]
+		},
+		{
+			"RowName": "Chicken_Pot_Pie",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Meat"
+			]
+		},
+		{
+			"RowName": "Chicken_with_Mushroom",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Meat"
+			]
+		},
+		{
+			"RowName": "Fried_Chicken",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Meat"
+			]
+		},
+		{
+			"RowName": "Garlic_Spicy_Chicken",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Meat"
+			]
+		},
+		{
+			"RowName": "Honey_Mustard",
+			"NameArray":
+			[]
+		},
+		{
+			"RowName": "Lemon_Chicken",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Meat"
+			]
+		},
+		{
+			"RowName": "Salsa_Chicken",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Meat"
+			]
+		},
+		{
+			"RowName": "Spicy_Chicken",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Meat"
+			]
+		},
+		{
+			"RowName": "Spinach_Stuffed_Chicken",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Meat"
+			]
+		},
+		{
+			"RowName": "Yummy_Chicken",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Meat"
+			]
+		},
+		{
+			"RowName": "Almond_Cookies",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Cookie"
+			]
+		},
+		{
+			"RowName": "Apple_Cookies",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Cookie"
+			]
+		},
+		{
+			"RowName": "Apple_Walnut_Squares",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Cookie"
+			]
+		},
+		{
+			"RowName": "Blueberry_Crumbs",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Cookie"
+			]
+		},
+		{
+			"RowName": "Brownies",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Cookie"
+			]
+		},
+		{
+			"RowName": "Chocolate_Cherry_Jam_Cookies",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Cookie"
+			]
+		},
+		{
+			"RowName": "Chocolate_Chip_Cookies",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Cookie"
+			]
+		},
+		{
+			"RowName": "Chocolate_Mint_Cookies",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Cookie"
+			]
+		},
+		{
+			"RowName": "Chocolate_Mint_Filling_Cookies",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Cookie"
+			]
+		},
+		{
+			"RowName": "Coconut_Cookies",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Cookie"
+			]
+		},
+		{
+			"RowName": "Cranberry_Cookies",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Cookie"
+			]
+		},
+		{
+			"RowName": "Cranberry_Jam_Cookies",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Cookie"
+			]
+		},
+		{
+			"RowName": "Ginger_Cookies",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Cookie"
+			]
+		},
+		{
+			"RowName": "Kumguat_Cookies",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Cookie"
+			]
+		},
+		{
+			"RowName": "Lavender_Cookies",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Cookie"
+			]
+		},
+		{
+			"RowName": "Lemon_Cookies",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Cookie"
+			]
+		},
+		{
+			"RowName": "Macadamia_Cookies",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Cookie"
+			]
+		},
+		{
+			"RowName": "Macaroons",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Cookie"
+			]
+		},
+		{
+			"RowName": "Oatmeal_Cookies",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Cookie"
+			]
+		},
+		{
+			"RowName": "Orange_Cookies",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Cookie"
+			]
+		},
+		{
+			"RowName": "Peach_Almond_Cookies",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Cookie"
+			]
+		},
+		{
+			"RowName": "Peach_Almond_Squares",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Cookie"
+			]
+		},
+		{
+			"RowName": "Peanut_Butter_Cookies",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Cookie"
+			]
+		},
+		{
+			"RowName": "Pistachio_Apricot_Square",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Cookie"
+			]
+		},
+		{
+			"RowName": "Pistachio_Cookies",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Cookie"
+			]
+		},
+		{
+			"RowName": "Pumpkin_Cookies",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Cookie"
+			]
+		},
+		{
+			"RowName": "Raspberry_Almond_Cookies",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Cookie"
+			]
+		},
+		{
+			"RowName": "Raspberry_Cookies",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Cookie"
+			]
+		},
+		{
+			"RowName": "Rhubarb_Cookies",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Cookie"
+			]
+		},
+		{
+			"RowName": "Russian_Teacakes",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Cookie"
+			]
+		},
+		{
+			"RowName": "Strawberry_Squares",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Cookie"
+			]
+		},
+		{
+			"RowName": "Sugar_Cookies",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Cookie"
+			]
+		},
+		{
+			"RowName": "Vanilla_Cherry_Cookies",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Cookie"
+			]
+		},
+		{
+			"RowName": "Walnut_Cookies",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Cookie"
+			]
+		},
+		{
+			"RowName": "Disaster_Dish",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_DisasterDish"
+			]
+		},
+		{
+			"RowName": "Coconut_Curry",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Curry",
+				"Ctg_Vegetarian"
+			]
+		},
+		{
+			"RowName": "Coconut_Fish_Curry",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Curry"
+			]
+		},
+		{
+			"RowName": "Coconut_Pork_Curry",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Curry"
+			]
+		},
+		{
+			"RowName": "Coconut_Chicken_Curry",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Curry"
+			]
+		},
+		{
+			"RowName": "Coconut_Beef_Curry",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Curry"
+			]
+		},
+		{
+			"RowName": "Coconut_Goat_Curry",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Curry"
+			]
+		},
+		{
+			"RowName": "Coconut_Lamb_Curry",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Curry"
+			]
+		},
+		{
+			"RowName": "Potato_Curry",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Curry",
+				"Ctg_Vegetarian"
+			]
+		},
+		{
+			"RowName": "Potato_Fish_Curry",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Curry"
+			]
+		},
+		{
+			"RowName": "Potato_Pork_Curry",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Curry"
+			]
+		},
+		{
+			"RowName": "Potato_Chicken_Curry",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Curry"
+			]
+		},
+		{
+			"RowName": "Potato_Beef_Curry",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Curry"
+			]
+		},
+		{
+			"RowName": "Potato_Goat_Curry",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Curry"
+			]
+		},
+		{
+			"RowName": "Pumpkin_Curry",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Curry",
+				"Ctg_Vegetarian"
+			]
+		},
+		{
+			"RowName": "Pumpkin_Fish_Curry",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Curry"
+			]
+		},
+		{
+			"RowName": "Pumpkin_Pork_Curry",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Curry"
+			]
+		},
+		{
+			"RowName": "Pumpkin_Chicken_Curry",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Curry"
+			]
+		},
+		{
+			"RowName": "Pumpkin_Beef_Curry",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Curry"
+			]
+		},
+		{
+			"RowName": "Pumpkin_Goat_Curry",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Curry"
+			]
+		},
+		{
+			"RowName": "Pumpkin_Lamb_Curry",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Curry"
+			]
+		},
+		{
+			"RowName": "Mango_Curry",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Curry",
+				"Ctg_Vegetarian"
+			]
+		},
+		{
+			"RowName": "Mango_Fish_Curry",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Curry"
+			]
+		},
+		{
+			"RowName": "Mango_Pork_Curry",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Curry"
+			]
+		},
+		{
+			"RowName": "Mango_Chicken_Curry",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Curry"
+			]
+		},
+		{
+			"RowName": "Mango_Beef_Curry",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Curry"
+			]
+		},
+		{
+			"RowName": "Mango_Goat_Curry",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Curry"
+			]
+		},
+		{
+			"RowName": "Mango_Lamb_Curry",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Curry"
+			]
+		},
+		{
+			"RowName": "Spicy_Curry",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Curry",
+				"Ctg_Vegetarian"
+			]
+		},
+		{
+			"RowName": "Fish_Curry",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Curry"
+			]
+		},
+		{
+			"RowName": "Pork_Curry",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Curry"
+			]
+		},
+		{
+			"RowName": "Chicken_Curry",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Curry"
+			]
+		},
+		{
+			"RowName": "Beef_Curry",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Curry"
+			]
+		},
+		{
+			"RowName": "Lamb_Curry",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Curry"
+			]
+		},
+		{
+			"RowName": "Baked_Scallop",
+			"NameArray":
+			[
+				"Ctg_Recipe"
+			]
+		},
+		{
+			"RowName": "Butter_Clams",
+			"NameArray":
+			[
+				"Ctg_Recipe"
+			]
+		},
+		{
+			"RowName": "Calamari",
+			"NameArray":
+			[
+				"Ctg_Recipe"
+			]
+		},
+		{
+			"RowName": "Clam_Chowder",
+			"NameArray":
+			[
+				"Ctg_Recipe"
+			]
+		},
+		{
+			"RowName": "Clam_Linguine",
+			"NameArray":
+			[
+				"Ctg_Recipe"
+			]
+		},
+		{
+			"RowName": "Coconut_Shrimp",
+			"NameArray":
+			[
+				"Ctg_Recipe"
+			]
+		},
+		{
+			"RowName": "Crab_Cake",
+			"NameArray":
+			[
+				"Ctg_Recipe"
+			]
+		},
+		{
+			"RowName": "Crab_Dip",
+			"NameArray":
+			[
+				"Ctg_Recipe"
+			]
+		},
+		{
+			"RowName": "Crab_Leg",
+			"NameArray":
+			[
+				"Ctg_Recipe"
+			]
+		},
+		{
+			"RowName": "Crab_Quiche",
+			"NameArray":
+			[
+				"Ctg_Recipe"
+			]
+		},
+		{
+			"RowName": "Crab_Salad",
+			"NameArray":
+			[
+				"Ctg_Recipe"
+			]
+		},
+		{
+			"RowName": "Crab_Stuffed_Lobster",
+			"NameArray":
+			[
+				"Ctg_Recipe"
+			]
+		},
+		{
+			"RowName": "Crab_Stuffed_Mushrooms",
+			"NameArray":
+			[
+				"Ctg_Recipe"
+			]
+		},
+		{
+			"RowName": "Fish_and_Chips",
+			"NameArray":
+			[
+				"Ctg_Recipe"
+			]
+		},
+		{
+			"RowName": "Fish_Bake",
+			"NameArray":
+			[
+				"Ctg_Recipe"
+			]
+		},
+		{
+			"RowName": "Fish_Burger",
+			"NameArray":
+			[
+				"Ctg_Recipe"
+			]
+		},
+		{
+			"RowName": "Fish_Pasta",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Noodles"
+			]
+		},
+		{
+			"RowName": "Fish_Patties",
+			"NameArray":
+			[
+				"Ctg_Recipe"
+			]
+		},
+		{
+			"RowName": "Fish_Sandwich",
+			"NameArray":
+			[
+				"Ctg_Recipe"
+			]
+		},
+		{
+			"RowName": "Fish_Steak",
+			"NameArray":
+			[
+				"Ctg_Recipe"
+			]
+		},
+		{
+			"RowName": "Ginger_Mahi_Mahi",
+			"NameArray":
+			[
+				"Ctg_Recipe"
+			]
+		},
+		{
+			"RowName": "Glazed_Fish",
+			"NameArray":
+			[
+				"Ctg_Recipe"
+			]
+		},
+		{
+			"RowName": "Grilled_Salmon",
+			"NameArray":
+			[
+				"Ctg_Recipe"
+			]
+		},
+		{
+			"RowName": "Grilled_Shrimp",
+			"NameArray":
+			[
+				"Ctg_Recipe"
+			]
+		},
+		{
+			"RowName": "Grilled_Tuna",
+			"NameArray":
+			[
+				"Ctg_Recipe"
+			]
+		},
+		{
+			"RowName": "Herb_Fish",
+			"NameArray":
+			[
+				"Ctg_Recipe"
+			]
+		},
+		{
+			"RowName": "Honey_Ginger_Salmon",
+			"NameArray":
+			[
+				"Ctg_Recipe"
+			]
+		},
+		{
+			"RowName": "Honey_Scallop",
+			"NameArray":
+			[
+				"Ctg_Recipe"
+			]
+		},
+		{
+			"RowName": "Honey_Shrimp",
+			"NameArray":
+			[
+				"Ctg_Recipe"
+			]
+		},
+		{
+			"RowName": "Italian_Clams",
+			"NameArray":
+			[
+				"Ctg_Recipe"
+			]
+		},
+		{
+			"RowName": "Lemon_Fish",
+			"NameArray":
+			[
+				"Ctg_Recipe"
+			]
+		},
+		{
+			"RowName": "Lobster_Bisque",
+			"NameArray":
+			[
+				"Ctg_Recipe"
+			]
+		},
+		{
+			"RowName": "Lobster_Fritters",
+			"NameArray":
+			[
+				"Ctg_Recipe"
+			]
+		},
+		{
+			"RowName": "Mango_Mahi_Mahi",
+			"NameArray":
+			[
+				"Ctg_Recipe"
+			]
+		},
+		{
+			"RowName": "Honey_Fish",
+			"NameArray":
+			[
+				"Ctg_Recipe"
+			]
+		},
+		{
+			"RowName": "Salmon_Burger",
+			"NameArray":
+			[
+				"Ctg_Recipe"
+			]
+		},
+		{
+			"RowName": "Salmon_Cakes",
+			"NameArray":
+			[
+				"Ctg_Recipe"
+			]
+		},
+		{
+			"RowName": "Scallop_Pasta",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Noodles"
+			]
+		},
+		{
+			"RowName": "Seaweed_Salad",
+			"NameArray":
+			[
+				"Ctg_Recipe"
+			]
+		},
+		{
+			"RowName": "Seaweed_Soup",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Soup"
+			]
+		},
+		{
+			"RowName": "Shrimp_Creole",
+			"NameArray":
+			[
+				"Ctg_Recipe"
+			]
+		},
+		{
+			"RowName": "Shrimp_Pasta",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Noodles"
+			]
+		},
+		{
+			"RowName": "Shrimp_Salad",
+			"NameArray":
+			[
+				"Ctg_Recipe"
+			]
+		},
+		{
+			"RowName": "Stuffed_Lobster_Tail",
+			"NameArray":
+			[
+				"Ctg_Recipe"
+			]
+		},
+		{
+			"RowName": "Takoyaki",
+			"NameArray":
+			[
+				"Ctg_Recipe"
+			]
+		},
+		{
+			"RowName": "Tomato_Sardine",
+			"NameArray":
+			[
+				"Ctg_Recipe"
+			]
+		},
+		{
+			"RowName": "Tuna_Burger",
+			"NameArray":
+			[
+				"Ctg_Recipe"
+			]
+		},
+		{
+			"RowName": "Tuna_Casserole",
+			"NameArray":
+			[
+				"Ctg_Recipe"
+			]
+		},
+		{
+			"RowName": "Tuna_Melt",
+			"NameArray":
+			[
+				"Ctg_Recipe"
+			]
+		},
+		{
+			"RowName": "Tuna_Salad",
+			"NameArray":
+			[
+				"Ctg_Recipe"
+			]
+		},
+		{
+			"RowName": "Almond_Icecream",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Icecream"
+			]
+		},
+		{
+			"RowName": "Apple_Icecream",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Icecream"
+			]
+		},
+		{
+			"RowName": "Banana_Icecream",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Icecream"
+			]
+		},
+		{
+			"RowName": "Brownie_Sundae",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Icecream"
+			]
+		},
+		{
+			"RowName": "Cantaloupe_Icecream",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Icecream"
+			]
+		},
+		{
+			"RowName": "Cherry_Icecream",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Icecream"
+			]
+		},
+		{
+			"RowName": "Chestnut_Icecream",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Icecream"
+			]
+		},
+		{
+			"RowName": "Chocolate_Chip_Sundae",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Icecream"
+			]
+		},
+		{
+			"RowName": "Chocolate_Icecream",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Icecream"
+			]
+		},
+		{
+			"RowName": "Coconut_Icecream",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Icecream"
+			]
+		},
+		{
+			"RowName": "Coffee_Icecream",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Icecream"
+			]
+		},
+		{
+			"RowName": "Cookie_Icecream",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Icecream"
+			]
+		},
+		{
+			"RowName": "Cranberry_Icecream",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Icecream"
+			]
+		},
+		{
+			"RowName": "Grape_Icecream",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Icecream"
+			]
+		},
+		{
+			"RowName": "Hazelnut_Icecream",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Icecream"
+			]
+		},
+		{
+			"RowName": "Lavender_Icecream",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Icecream"
+			]
+		},
+		{
+			"RowName": "Lemon_Icecream",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Icecream"
+			]
+		},
+		{
+			"RowName": "Lychee_Icecream",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Icecream"
+			]
+		},
+		{
+			"RowName": "Macadamia_Icecream",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Icecream"
+			]
+		},
+		{
+			"RowName": "Mango_Icecream",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Icecream"
+			]
+		},
+		{
+			"RowName": "Mint_Icecream",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Icecream"
+			]
+		},
+		{
+			"RowName": "Pumpkin_Icecream",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Icecream"
+			]
+		},
+		{
+			"RowName": "Rasberry_Icecream",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Icecream"
+			]
+		},
+		{
+			"RowName": "Strawberry_Icecream",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Icecream"
+			]
+		},
+		{
+			"RowName": "Vanilla_Icecream",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Icecream"
+			]
+		},
+		{
+			"RowName": "Walnut_Icecream",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Icecream"
+			]
+		},
+		{
+			"RowName": "Watermelon_Icecream",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Icecream"
+			]
+		},
+		{
+			"RowName": "Apple_Jam",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Jam"
+			]
+		},
+		{
+			"RowName": "Apricot_Jam",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Jam"
+			]
+		},
+		{
+			"RowName": "Banana_Jam",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Jam"
+			]
+		},
+		{
+			"RowName": "Blackberry_Jam",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Jam"
+			]
+		},
+		{
+			"RowName": "Cherry_Jam",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Jam"
+			]
+		},
+		{
+			"RowName": "Chocolate_Spread",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Jam"
+			]
+		},
+		{
+			"RowName": "Coconut_Jam",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Jam"
+			]
+		},
+		{
+			"RowName": "Cranberry_Jam",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Jam"
+			]
+		},
+		{
+			"RowName": "Date_Jam",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Jam"
+			]
+		},
+		{
+			"RowName": "Dragonfruit_Jam",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Jam"
+			]
+		},
+		{
+			"RowName": "Fig_Jam",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Jam"
+			]
+		},
+		{
+			"RowName": "Grape_Jam",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Jam"
+			]
+		},
+		{
+			"RowName": "Guava_Jam",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Jam"
+			]
+		},
+		{
+			"RowName": "Kumguat_Jam",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Jam"
+			]
+		},
+		{
+			"RowName": "Lemon_Jam",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Jam"
+			]
+		},
+		{
+			"RowName": "Lime_Jam",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Jam"
+			]
+		},
+		{
+			"RowName": "Lychee_Jam",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Jam"
+			]
+		},
+		{
+			"RowName": "Mango_Jam",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Jam"
+			]
+		},
+		{
+			"RowName": "Mint_Jam",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Jam"
+			]
+		},
+		{
+			"RowName": "Nutmeg_Jam",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Jam"
+			]
+		},
+		{
+			"RowName": "Orange_Jam",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Jam"
+			]
+		},
+		{
+			"RowName": "Passionfruit_Jam",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Jam"
+			]
+		},
+		{
+			"RowName": "Peach_Jam",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Jam"
+			]
+		},
+		{
+			"RowName": "Peanut_Butter",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Jam"
+			]
+		},
+		{
+			"RowName": "Pear_Jam",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Jam"
+			]
+		},
+		{
+			"RowName": "Pineapple_Jam",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Jam"
+			]
+		},
+		{
+			"RowName": "Plum_Jam",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Jam"
+			]
+		},
+		{
+			"RowName": "Pomegranate_Jam",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Jam"
+			]
+		},
+		{
+			"RowName": "Pumpkin_Jam",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Jam"
+			]
+		},
+		{
+			"RowName": "Raspberry_Jam",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Jam"
+			]
+		},
+		{
+			"RowName": "Rhubarb_Jam",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Jam"
+			]
+		},
+		{
+			"RowName": "Starfruit_Jam",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Jam"
+			]
+		},
+		{
+			"RowName": "Strawberry_Jam",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Jam"
+			]
+		},
+		{
+			"RowName": "Watermelon_Jam",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Jam"
+			]
+		},
+		{
+			"RowName": "Bloody_Mary",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Alcohol"
+			]
+		},
+		{
+			"RowName": "Brass_Monkey",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Alcohol"
+			]
+		},
+		{
+			"RowName": "Coffee_Liquer",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Alcohol"
+			]
+		},
+		{
+			"RowName": "Cosmopolitan",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Alcohol"
+			]
+		},
+		{
+			"RowName": "Greyhound",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Alcohol"
+			]
+		},
+		{
+			"RowName": "Grog",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Alcohol"
+			]
+		},
+		{
+			"RowName": "Hurricane",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Alcohol"
+			]
+		},
+		{
+			"RowName": "Lemon_Drop",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Alcohol"
+			]
+		},
+		{
+			"RowName": "Martini",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Alcohol"
+			]
+		},
+		{
+			"RowName": "Mojito",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Alcohol"
+			]
+		},
+		{
+			"RowName": "Pina_Colada",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Alcohol"
+			]
+		},
+		{
+			"RowName": "Sangria",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Alcohol"
+			]
+		},
+		{
+			"RowName": "Stork_on_the_Beach",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Alcohol"
+			]
+		},
+		{
+			"RowName": "Whiskey_Sour",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Alcohol"
+			]
+		},
+		{
+			"RowName": "White_Diamond",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Alcohol"
+			]
+		},
+		{
+			"RowName": "Alfredo_Sauce_Pasta",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Noodles"
+			]
+		},
+		{
+			"RowName": "Artichoke_and_Spinach_Pasta",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Vegetarian",
+				"Ctg_Noodles"
+			]
+		},
+		{
+			"RowName": "Mac_and_Cheese",
+			"NameArray":
+			[
+				"Ctg_Recipe"
+			]
+		},
+		{
+			"RowName": "Mushroom_Pasta",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Vegetarian",
+				"Ctg_Noodles"
+			]
+		},
+		{
+			"RowName": "Red_Sauce_Pasta",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Noodles"
+			]
+		},
+		{
+			"RowName": "Spagetti_&_Meatballs",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Noodles"
+			]
+		},
+		{
+			"RowName": "Veggie_Pasta",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Vegetarian",
+				"Ctg_Noodles"
+			]
+		},
+		{
+			"RowName": "Apple_Pie",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Pie"
+			]
+		},
+		{
+			"RowName": "Banana_Pie",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Pie"
+			]
+		},
+		{
+			"RowName": "Blackberry_Pie",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Pie"
+			]
+		},
+		{
+			"RowName": "Cantaloupe_Pie",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Pie"
+			]
+		},
+		{
+			"RowName": "Cherry_Pie",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Pie"
+			]
+		},
+		{
+			"RowName": "Chocolate_Pie",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Pie"
+			]
+		},
+		{
+			"RowName": "Coconut_Cream_Pie",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Pie"
+			]
+		},
+		{
+			"RowName": "Cranberry_Pie",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Pie"
+			]
+		},
+		{
+			"RowName": "Custard_Pie",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Pie"
+			]
+		},
+		{
+			"RowName": "Fruit_Pie",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Pie"
+			]
+		},
+		{
+			"RowName": "Grapefruit_Pie",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Pie"
+			]
+		},
+		{
+			"RowName": "Keylime_Pie",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Pie"
+			]
+		},
+		{
+			"RowName": "Kumguat_Pie",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Pie"
+			]
+		},
+		{
+			"RowName": "Lemon_Meringe_Pie",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Pie"
+			]
+		},
+		{
+			"RowName": "Peaches_Pie",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Pie"
+			]
+		},
+		{
+			"RowName": "Peanut_Butter_Pie",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Pie"
+			]
+		},
+		{
+			"RowName": "Pear_Pie",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Pie"
+			]
+		},
+		{
+			"RowName": "Pecan_Pie",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Pie"
+			]
+		},
+		{
+			"RowName": "Pumpkin_Pie",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Pie"
+			]
+		},
+		{
+			"RowName": "Rasberry_Pie",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Pie"
+			]
+		},
+		{
+			"RowName": "Rhubarb_Pie",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Pie"
+			]
+		},
+		{
+			"RowName": "Sweet_Potato_Pie",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Pie"
+			]
+		},
+		{
+			"RowName": "Cheese_Pizza",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Pizza"
+			]
+		},
+		{
+			"RowName": "Chicken_Pizza",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Pizza"
+			]
+		},
+		{
+			"RowName": "Ham_Pizza",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Pizza"
+			]
+		},
+		{
+			"RowName": "Hawaiin_Pizza",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Pizza"
+			]
+		},
+		{
+			"RowName": "Herb_Pizza",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Pizza",
+				"Ctg_Vegetarian"
+			]
+		},
+		{
+			"RowName": "Meaty_Pizza",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Pizza"
+			]
+		},
+		{
+			"RowName": "Spicy_Pizza",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Pizza"
+			]
+		},
+		{
+			"RowName": "Spinach_&_Mushroom_Pizza",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Pizza",
+				"Ctg_Vegetarian"
+			]
+		},
+		{
+			"RowName": "Vegetarian_Pizza",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Pizza",
+				"Ctg_Vegetarian"
+			]
+		},
+		{
+			"RowName": "Apple_Slaw",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Vegetarian"
+			]
+		},
+		{
+			"RowName": "Avacado_and_Feta_Salad",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Vegetarian"
+			]
+		},
+		{
+			"RowName": "Black_Bean_Corn_Salad",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Vegetarian"
+			]
+		},
+		{
+			"RowName": "Cesar_Salad",
+			"NameArray":
+			[
+				"Ctg_Recipe"
+			]
+		},
+		{
+			"RowName": "Coleslaw",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Vegetarian"
+			]
+		},
+		{
+			"RowName": "Cranberry_Salad",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Vegetarian"
+			]
+		},
+		{
+			"RowName": "Fancy_Cucumber_Salad",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Vegetarian"
+			]
+		},
+		{
+			"RowName": "Italian_Salad",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Vegetarian"
+			]
+		},
+		{
+			"RowName": "Spinach_&_Strawberry_Salad",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Vegetarian"
+			]
+		},
+		{
+			"RowName": "Melon_Salad",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Vegetarian"
+			]
+		},
+		{
+			"RowName": "Spinach_Pomegranate_Salad",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Vegetarian"
+			]
+		},
+		{
+			"RowName": "Vegetable_Salad",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Vegetarian"
+			]
+		},
+		{
+			"RowName": "Bbq_Pork_Sandwich",
+			"NameArray":
+			[
+				"Ctg_Recipe"
+			]
+		},
+		{
+			"RowName": "Blackbean_Burgers",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Hamburger"
+			]
+		},
+		{
+			"RowName": "BLT_Sandwich",
+			"NameArray":
+			[
+				"Ctg_Recipe"
+			]
+		},
+		{
+			"RowName": "Cheesesteak_Sandwich",
+			"NameArray":
+			[
+				"Ctg_Recipe"
+			]
+		},
+		{
+			"RowName": "Chick_pea_Sandwich",
+			"NameArray":
+			[
+				"Ctg_Recipe"
+			]
+		},
+		{
+			"RowName": "Corndogs",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"ctg_Sausage"
+			]
+		},
+		{
+			"RowName": "Cucumber_Sandwich",
+			"NameArray":
+			[
+				"Ctg_Recipe"
+			]
+		},
+		{
+			"RowName": "Eggplant_Burger",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Hamburger"
+			]
+		},
+		{
+			"RowName": "Eggplant_Sandwich",
+			"NameArray":
+			[
+				"Ctg_Recipe"
+			]
+		},
+		{
+			"RowName": "Grilled_Apple_Sandwich",
+			"NameArray":
+			[
+				"Ctg_Recipe"
+			]
+		},
+		{
+			"RowName": "Grilled_Cheese_Sandwich",
+			"NameArray":
+			[
+				"Ctg_Recipe"
+			]
+		},
+		{
+			"RowName": "Grilled_Tropical_Sandwich",
+			"NameArray":
+			[
+				"Ctg_Recipe"
+			]
+		},
+		{
+			"RowName": "Grilled_Veggie_Sandwich",
+			"NameArray":
+			[
+				"Ctg_Recipe"
+			]
+		},
+		{
+			"RowName": "Ham_&_Cheese_Sandwich",
+			"NameArray":
+			[
+				"Ctg_Recipe"
+			]
+		},
+		{
+			"RowName": "Jalapeno_Sandwich",
+			"NameArray":
+			[
+				"Ctg_Recipe"
+			]
+		},
+		{
+			"RowName": "Meatball_Sub",
+			"NameArray":
+			[
+				"Ctg_Recipe"
+			]
+		},
+		{
+			"RowName": "Peanut_Butter_and_Jelly_Sandwich",
+			"NameArray":
+			[
+				"Ctg_Recipe"
+			]
+		},
+		{
+			"RowName": "Potato_Salad_Sandwich",
+			"NameArray":
+			[
+				"Ctg_Recipe"
+			]
+		},
+		{
+			"RowName": "Sausage_Sandwich",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"ctg_Sausage"
+			]
+		},
+		{
+			"RowName": "Sloppy_Joe",
+			"NameArray":
+			[
+				"Ctg_Recipe"
+			]
+		},
+		{
+			"RowName": "Tuna_Salad_Sandwich",
+			"NameArray":
+			[
+				"Ctg_Recipe"
+			]
+		},
+		{
+			"RowName": "Zucchini_Sandwich",
+			"NameArray":
+			[
+				"Ctg_Recipe"
+			]
+		},
+		{
+			"RowName": "Bbq_Sauce",
+			"NameArray":
+			[
+				"ctg_Sauce"
+			]
+		},
+		{
+			"RowName": "Hotsauce",
+			"NameArray":
+			[
+				"ctg_Sauce"
+			]
+		},
+		{
+			"RowName": "Ketchup",
+			"NameArray":
+			[
+				"ctg_Sauce"
+			]
+		},
+		{
+			"RowName": "Mustard_Sauce",
+			"NameArray":
+			[
+				"ctg_Sauce"
+			]
+		},
+		{
+			"RowName": "Soysauce",
+			"NameArray":
+			[
+				"ctg_Sauce"
+			]
+		},
+		{
+			"RowName": "Asparagus_Soup",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Soup",
+				"Ctg_Vegetarian"
+			]
+		},
+		{
+			"RowName": "Beet_Soup",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Soup",
+				"Ctg_Vegetarian"
+			]
+		},
+		{
+			"RowName": "Broccoli_Soup",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Soup",
+				"Ctg_Vegetarian"
+			]
+		},
+		{
+			"RowName": "Cabbage_Soup",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Soup",
+				"Ctg_Vegetarian"
+			]
+		},
+		{
+			"RowName": "Carrot_and_Ginger_Soup",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Soup",
+				"Ctg_Vegetarian"
+			]
+		},
+		{
+			"RowName": "Chestnut_Soup",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Soup",
+				"Ctg_Vegetarian"
+			]
+		},
+		{
+			"RowName": "Chicken_Noodle_Soup",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Soup"
+			]
+		},
+		{
+			"RowName": "Chicken_Taco_Soup",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Soup"
+			]
+		},
+		{
+			"RowName": "Chickpea_Soup",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Soup",
+				"Ctg_Vegetarian"
+			]
+		},
+		{
+			"RowName": "Corn_Chowder_Soup",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Soup",
+				"Ctg_Vegetarian"
+			]
+		},
+		{
+			"RowName": "Creamy_Turnip_Soup",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Soup",
+				"Ctg_Vegetarian"
+			]
+		},
+		{
+			"RowName": "Fancy_Vegetable_Soup",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Soup",
+				"Ctg_Vegetarian"
+			]
+		},
+		{
+			"RowName": "Ham_&_Potato_Soup",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Soup"
+			]
+		},
+		{
+			"RowName": "Leeks_Soup",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Soup",
+				"Ctg_Vegetarian"
+			]
+		},
+		{
+			"RowName": "Mushroom_Soup",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Soup",
+				"Ctg_Vegetarian"
+			]
+		},
+		{
+			"RowName": "Onion_Soup",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Soup",
+				"Ctg_Vegetarian"
+			]
+		},
+		{
+			"RowName": "Potato_&_Corn_Soup",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Soup",
+				"Ctg_Vegetarian"
+			]
+		},
+		{
+			"RowName": "Potato_&_Leek_Soup",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Soup",
+				"Ctg_Vegetarian"
+			]
+		},
+		{
+			"RowName": "Potato_Soup",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Soup",
+				"Ctg_Vegetarian"
+			]
+		},
+		{
+			"RowName": "Pumpkin_Coconut_Soup",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Soup",
+				"Ctg_Vegetarian"
+			]
+		},
+		{
+			"RowName": "Pumpkin_Soup",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Soup",
+				"Ctg_Vegetarian"
+			]
+		},
+		{
+			"RowName": "Spicy_Chicken_Soup",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Soup"
+			]
+		},
+		{
+			"RowName": "Spinach_&_Leek_Soup",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Soup",
+				"Ctg_Vegetarian"
+			]
+		},
+		{
+			"RowName": "Sweet_Potato_Soup",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Soup",
+				"Ctg_Vegetarian"
+			]
+		},
+		{
+			"RowName": "Tomato_Soup",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Soup",
+				"Ctg_Vegetarian"
+			]
+		},
+		{
+			"RowName": "Turnip_Soup",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Soup",
+				"Ctg_Vegetarian"
+			]
+		},
+		{
+			"RowName": "Veggie_Soup",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Soup",
+				"Ctg_Vegetarian"
+			]
+		},
+		{
+			"RowName": "Carrot_Soup",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Soup",
+				"Ctg_Vegetarian"
+			]
+		},
+		{
+			"RowName": "Amabi",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Sushi"
+			]
+		},
+		{
+			"RowName": "Anago",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Sushi"
+			]
+		},
+		{
+			"RowName": "Anakyu",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Sushi"
+			]
+		},
+		{
+			"RowName": "Ebi_Nigiri",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Sushi"
+			]
+		},
+		{
+			"RowName": "Engawa",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Sushi"
+			]
+		},
+		{
+			"RowName": "Futomaki",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Sushi"
+			]
+		},
+		{
+			"RowName": "Gyu_Nigiri",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Sushi"
+			]
+		},
+		{
+			"RowName": "Hamachi",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Sushi"
+			]
+		},
+		{
+			"RowName": "Hotate_Nigiri",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Sushi"
+			]
+		},
+		{
+			"RowName": "Ika_Nigiri",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Sushi"
+			]
+		},
+		{
+			"RowName": "Iseebi",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Sushi"
+			]
+		},
+		{
+			"RowName": "Kani_Nigiri",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Sushi"
+			]
+		},
+		{
+			"RowName": "Kappa_Maki",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Sushi"
+			]
+		},
+		{
+			"RowName": "Maguro_Nigiri",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Sushi"
+			]
+		},
+		{
+			"RowName": "Masu",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Sushi"
+			]
+		},
+		{
+			"RowName": "Namera",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Sushi"
+			]
+		},
+		{
+			"RowName": "Natto_Maki",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Sushi"
+			]
+		},
+		{
+			"RowName": "Ohyou",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Sushi"
+			]
+		},
+		{
+			"RowName": "Saba",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Sushi"
+			]
+		},
+		{
+			"RowName": "Sake_Nigiri",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Sushi"
+			]
+		},
+		{
+			"RowName": "Shirasu",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Sushi"
+			]
+		},
+		{
+			"RowName": "Spicy_Tuna",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Sushi"
+			]
+		},
+		{
+			"RowName": "Suzuki",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Sushi"
+			]
+		},
+		{
+			"RowName": "Tai",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Sushi"
+			]
+		},
+		{
+			"RowName": "Tako_Nigiri",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Sushi"
+			]
+		},
+		{
+			"RowName": "Tamagoyaki",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Sushi"
+			]
+		},
+		{
+			"RowName": "Tekkamaki",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Sushi"
+			]
+		},
+		{
+			"RowName": "Toro",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Sushi"
+			]
+		},
+		{
+			"RowName": "Tsunamayo_maki",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Sushi"
+			]
+		},
+		{
+			"RowName": "Umekyu",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Sushi"
+			]
+		},
+		{
+			"RowName": "Uramaki",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Sushi"
+			]
+		},
+		{
+			"RowName": "Berry_Tea",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Tea"
+			]
+		},
+		{
+			"RowName": "Black_Tea",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Tea"
+			]
+		},
+		{
+			"RowName": "Chai",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Tea"
+			]
+		},
+		{
+			"RowName": "Chamomile_Tea",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Tea"
+			]
+		},
+		{
+			"RowName": "Ginger_Tea",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Tea"
+			]
+		},
+		{
+			"RowName": "Green_Tea",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Tea"
+			]
+		},
+		{
+			"RowName": "Lavender_Tea",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Tea"
+			]
+		},
+		{
+			"RowName": "Lemon_Tea",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Tea"
+			]
+		},
+		{
+			"RowName": "Mint_Tea",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Tea"
+			]
+		},
+		{
+			"RowName": "Oolon_Tea",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Tea"
+			]
+		},
+		{
+			"RowName": "Orange_Tea",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Tea"
+			]
+		},
+		{
+			"RowName": "Peach_Tea",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Tea"
+			]
+		},
+		{
+			"RowName": "White_Tea",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Tea"
+			]
+		},
+		{
+			"RowName": "Artichoke_Dip",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Vegetarian"
+			]
+		},
+		{
+			"RowName": "Artichoke_Stuffed_Mushrooms",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Vegetarian"
+			]
+		},
+		{
+			"RowName": "Bacon_Chestnut",
+			"NameArray":
+			[
+				"Ctg_Recipe"
+			]
+		},
+		{
+			"RowName": "Brasied_Collards",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Vegetable Dishes"
+			]
+		},
+		{
+			"RowName": "Cauliflower_and_Broccoli_Bake",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Vegetarian"
+			]
+		},
+		{
+			"RowName": "Cauliflower_Casserole",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Vegetarian"
+			]
+		},
+		{
+			"RowName": "Cauliflower_Potato",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Vegetarian"
+			]
+		},
+		{
+			"RowName": "Corn_on_the_Cob",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Vegetarian"
+			]
+		},
+		{
+			"RowName": "Eggplant_Paramesan",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Vegetarian"
+			]
+		},
+		{
+			"RowName": "Fried_Eggplant",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Vegetarian"
+			]
+		},
+		{
+			"RowName": "Greenbean_Casserole",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Vegetarian"
+			]
+		},
+		{
+			"RowName": "Greenbean_Crips",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Vegetarian"
+			]
+		},
+		{
+			"RowName": "Leek_Casserole",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Vegetarian"
+			]
+		},
+		{
+			"RowName": "Peas_and_Rice",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Vegetarian"
+			]
+		},
+		{
+			"RowName": "Pickles",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Vegetarian"
+			]
+		},
+		{
+			"RowName": "Popcorn",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Vegetarian"
+			]
+		},
+		{
+			"RowName": "Potato_Parsley",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Vegetarian"
+			]
+		},
+		{
+			"RowName": "Ratatouille",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Vegetarian"
+			]
+		},
+		{
+			"RowName": "Rhubarb_Crisp",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Vegetarian"
+			]
+		},
+		{
+			"RowName": "Root_Gratin",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Vegetarian"
+			]
+		},
+		{
+			"RowName": "Sweet_Potato_Fries",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Vegetarian"
+			]
+		},
+		{
+			"RowName": "turnip_fries",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Vegetarian"
+			]
+		},
+		{
+			"RowName": "French_Fries",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Vegetarian"
+			]
+		},
+		{
+			"RowName": "Black_Coffee",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Coffee"
+			]
+		},
+		{
+			"RowName": "Cafe_Con_Leche",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Coffee"
+			]
+		},
+		{
+			"RowName": "Cappuchino",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Coffee"
+			]
+		},
+		{
+			"RowName": "Coffee_Drink",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Coffee"
+			]
+		},
+		{
+			"RowName": "Espresso",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Coffee"
+			]
+		},
+		{
+			"RowName": "Hazel_Nut_Coffee",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Coffee"
+			]
+		},
+		{
+			"RowName": "Hot_Chocolate",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Coffee"
+			]
+		},
+		{
+			"RowName": "Latte",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Coffee"
+			]
+		},
+		{
+			"RowName": "Pumpkin_Latte",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Coffee"
+			]
+		},
+		{
+			"RowName": "Spiced_Latte",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Coffee"
+			]
+		},
+		{
+			"RowName": "Lentil_Soup",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Soup"
+			]
+		},
+		{
+			"RowName": "Apple_Juice",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Juice"
+			]
+		},
+		{
+			"RowName": "Strawberry_Juice",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Juice"
+			]
+		},
+		{
+			"RowName": "Kiwi_Juice",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Juice"
+			]
+		},
+		{
+			"RowName": "Grape_Juice",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Juice"
+			]
+		},
+		{
+			"RowName": "Blackberry_Juice",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Juice"
+			]
+		},
+		{
+			"RowName": "Raspberry_Juice",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Juice"
+			]
+		},
+		{
+			"RowName": "Sugarcane_Juice",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Juice"
+			]
+		},
+		{
+			"RowName": "Pineapple_Juice",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Juice"
+			]
+		},
+		{
+			"RowName": "Watermelon_Juice",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Juice"
+			]
+		},
+		{
+			"RowName": "Honeydew_Juice",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Juice"
+			]
+		},
+		{
+			"RowName": "Plum_Juice",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Juice"
+			]
+		},
+		{
+			"RowName": "Pear_Juice",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Juice"
+			]
+		},
+		{
+			"RowName": "Coconut_Water",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Juice"
+			]
+		},
+		{
+			"RowName": "Beet_Juice",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Juice"
+			]
+		},
+		{
+			"RowName": "Veggie_Juice",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Juice"
+			]
+		},
+		{
+			"RowName": "Fruit_Juice",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Juice"
+			]
+		},
+		{
+			"RowName": "Lavender_Lemonade",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Juice"
+			]
+		},
+		{
+			"RowName": "Cantaloupe_Juice",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Juice"
+			]
+		},
+		{
+			"RowName": "Kumguat_Juice",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Juice"
+			]
+		},
+		{
+			"RowName": "Cranberry_Juice",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Juice"
+			]
+		},
+		{
+			"RowName": "Blueberry_Juice",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Juice"
+			]
+		},
+		{
+			"RowName": "Carrot_Juice",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Juice"
+			]
+		},
+		{
+			"RowName": "Mandarin_Juice",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Juice"
+			]
+		},
+		{
+			"RowName": "Lime_Juice",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Juice"
+			]
+		},
+		{
+			"RowName": "Mango_Juice",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Juice"
+			]
+		},
+		{
+			"RowName": "Papaya_Juice",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Juice"
+			]
+		},
+		{
+			"RowName": "Guava_Juice",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Juice"
+			]
+		},
+		{
+			"RowName": "Starfruit_Juice",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Juice"
+			]
+		},
+		{
+			"RowName": "Grapefruit_Juice",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Juice"
+			]
+		},
+		{
+			"RowName": "Passionfruit_Juice",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Juice"
+			]
+		},
+		{
+			"RowName": "Orange_Juice",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Juice"
+			]
+		},
+		{
+			"RowName": "Tomato_Juice",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Juice"
+			]
+		},
+		{
+			"RowName": "Cherry_Juice",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Juice"
+			]
+		},
+		{
+			"RowName": "Lemonade",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Juice"
+			]
+		},
+		{
+			"RowName": "Blueberry_Pie",
+			"NameArray":
+			[
+				"Ctg_Recipe"
+			]
+		},
+		{
+			"RowName": "Chocolate_Pudding",
+			"NameArray":
+			[
+				"Ctg_Recipe"
+			]
+		},
+		{
+			"RowName": "Vanilla_Pudding",
+			"NameArray":
+			[
+				"Ctg_Recipe"
+			]
+		},
+		{
+			"RowName": "Lemon_Pudding",
+			"NameArray":
+			[
+				"Ctg_Recipe"
+			]
+		},
+		{
+			"RowName": "Banana_Pudding",
+			"NameArray":
+			[
+				"Ctg_Recipe"
+			]
+		},
+		{
+			"RowName": "Cooked_Rice",
+			"NameArray":
+			[
+				"Ctg_Recipe"
+			]
+		},
+		{
+			"RowName": "Sausage",
+			"NameArray":
+			[
+				"ctg_Sausage"
+			]
+		},
+		{
+			"RowName": "Noodles",
+			"NameArray":
+			[
+				"Ctg_Noodles"
+			]
+		},
+		{
+			"RowName": "Curry_Powder",
+			"NameArray":
+			[]
+		},
+		{
+			"RowName": "Raisons",
+			"NameArray":
+			[
+				"Ctg_Recipe"
+			]
+		},
+		{
+			"RowName": "Almond_Milk",
+			"NameArray":
+			[
+				"Ctg_Milk",
+				"Ctg_Cheese_Maker_Unlock"
+			]
+		},
+		{
+			"RowName": "Coconut_Milk",
+			"NameArray":
+			[
+				"Ctg_Milk",
+				"Ctg_Cheese_Maker_Unlock"
+			]
+		},
+		{
+			"RowName": "Cashew_Milk",
+			"NameArray":
+			[
+				"Ctg_Milk",
+				"Ctg_Cheese_Maker_Unlock"
+			]
+		},
+		{
+			"RowName": "Rice_Milk",
+			"NameArray":
+			[
+				"Ctg_Milk",
+				"Ctg_Cheese_Maker_Unlock"
+			]
+		},
+		{
+			"RowName": "Oat_Milk",
+			"NameArray":
+			[
+				"Ctg_Milk",
+				"Ctg_Cheese_Maker_Unlock"
+			]
+		},
+		{
+			"RowName": "Lychee_Juice",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Juice"
+			]
+		},
+		{
+			"RowName": "Peach_Juice",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Juice"
+			]
+		},
+		{
+			"RowName": "Banana_Milk",
+			"NameArray":
+			[
+				"Ctg_Recipe"
+			]
+		},
+		{
+			"RowName": "Gin",
+			"NameArray":
+			[
+				"Ctg_Recipe"
+			]
+		},
+		{
+			"RowName": "Grilled_Fish",
+			"NameArray":
+			[
+				"Ctg_Recipe"
+			]
+		},
+		{
+			"RowName": "Ground_Coffee",
+			"NameArray":
+			[]
+		},
+		{
+			"RowName": "Dairy_Free_Milk",
+			"NameArray":
+			[]
+		},
+		{
+			"RowName": "Blueberry_Jam",
+			"NameArray":
+			[
+				"Ctg_Recipe",
+				"Ctg_Jam"
+			]
+		},
+		{
+			"RowName": "Dino_Cake",
+			"NameArray":
+			[
+				"Ctg_Recipe"
+			]
+		},
+		{
+			"RowName": "Cat_Cake",
+			"NameArray":
+			[
+				"Ctg_Recipe"
+			]
+		},
+		{
+			"RowName": "Unicorn_Cake",
+			"NameArray":
+			[
+				"Ctg_Recipe"
+			]
+		},
+		{
+			"RowName": "Owl_Cake",
+			"NameArray":
+			[
+				"Ctg_Recipe"
+			]
+		},
+		{
+			"RowName": "Drip_Cake",
+			"NameArray":
+			[
+				"Ctg_Recipe"
+			]
+		},
+		{
+			"RowName": "Jounce_Liquid",
+			"NameArray":
+			[
+				"Ctg_Recipe"
+			]
+		},
+		{
+			"RowName": "Barley",
+			"NameArray":
+			[
+				"Ctg_Grains"
+			]
+		},
+		{
+			"RowName": "Acanthus",
+			"NameArray":
+			[
+				"Ctg_Flowers"
+			]
+		},
+		{
+			"RowName": "Adonis",
+			"NameArray":
+			[
+				"Ctg_Flowers"
+			]
+		},
+		{
+			"RowName": "alstroemeria",
+			"NameArray":
+			[
+				"Ctg_Flowers"
+			]
+		},
+		{
+			"RowName": "Angelonia",
+			"NameArray":
+			[
+				"Ctg_Flowers"
+			]
+		},
+		{
+			"RowName": "Babys_Breath",
+			"NameArray":
+			[
+				"Ctg_Flowers"
+			]
+		},
+		{
+			"RowName": "Bee_Balm",
+			"NameArray":
+			[
+				"Ctg_Flowers"
+			]
+		},
+		{
+			"RowName": "Bird_Of_Paradise",
+			"NameArray":
+			[
+				"Ctg_Flowers"
+			]
+		},
+		{
+			"RowName": "BlackDahlia",
+			"NameArray":
+			[
+				"Ctg_Flowers"
+			]
+		},
+		{
+			"RowName": "Black_Iris",
+			"NameArray":
+			[
+				"Ctg_Flowers"
+			]
+		},
+		{
+			"RowName": "Blue_Hydrangea",
+			"NameArray":
+			[
+				"Ctg_Flowers"
+			]
+		},
+		{
+			"RowName": "Cactus",
+			"NameArray":
+			[
+				"Ctg_Flowers"
+			]
+		},
+		{
+			"RowName": "Canna",
+			"NameArray":
+			[
+				"Ctg_Flowers"
+			]
+		},
+		{
+			"RowName": "Carnation",
+			"NameArray":
+			[
+				"Ctg_Flowers"
+			]
+		},
+		{
+			"RowName": "Chrysanthemum",
+			"NameArray":
+			[
+				"Ctg_Flowers"
+			]
+		},
+		{
+			"RowName": "Coelogyne_Pandurata",
+			"NameArray":
+			[
+				"Ctg_Flowers"
+			]
+		},
+		{
+			"RowName": "Colombine",
+			"NameArray":
+			[
+				"Ctg_Flowers"
+			]
+		},
+		{
+			"RowName": "Cosmos",
+			"NameArray":
+			[
+				"Ctg_Flowers"
+			]
+		},
+		{
+			"RowName": "cotyledon_blossoms",
+			"NameArray":
+			[
+				"Ctg_Flowers"
+			]
+		},
+		{
+			"RowName": "Cymbidium_Orchid",
+			"NameArray":
+			[
+				"Ctg_Flowers"
+			]
+		},
+		{
+			"RowName": "Daffodil",
+			"NameArray":
+			[
+				"Ctg_Flowers"
+			]
+		},
+		{
+			"RowName": "Daisy",
+			"NameArray":
+			[
+				"Ctg_Flowers"
+			]
+		},
+		{
+			"RowName": "Day_Lily_Hemerocallis",
+			"NameArray":
+			[
+				"Ctg_Flowers"
+			]
+		},
+		{
+			"RowName": "Delphinium",
+			"NameArray":
+			[
+				"Ctg_Flowers"
+			]
+		},
+		{
+			"RowName": "Echeveria",
+			"NameArray":
+			[
+				"Ctg_Flowers"
+			]
+		},
+		{
+			"RowName": "Echinacea_Aster",
+			"NameArray":
+			[
+				"Ctg_Flowers"
+			]
+		},
+		{
+			"RowName": "Fiddle_Fern",
+			"NameArray":
+			[
+				"Ctg_Flowers"
+			]
+		},
+		{
+			"RowName": "Forget_Me_Not",
+			"NameArray":
+			[
+				"Ctg_Flowers"
+			]
+		},
+		{
+			"RowName": "Gardenia",
+			"NameArray":
+			[
+				"Ctg_Flowers"
+			]
+		},
+		{
+			"RowName": "Gentian",
+			"NameArray":
+			[
+				"Ctg_Flowers"
+			]
+		},
+		{
+			"RowName": "Gladiolus",
+			"NameArray":
+			[
+				"Ctg_Flowers"
+			]
+		},
+		{
+			"RowName": "Greenovia_Dodrentalis",
+			"NameArray":
+			[
+				"Ctg_Flowers"
+			]
+		},
+		{
+			"RowName": "Hellebore",
+			"NameArray":
+			[
+				"Ctg_Flowers"
+			]
+		},
+		{
+			"RowName": "Hollyhock_Alcea",
+			"NameArray":
+			[
+				"Ctg_Flowers"
+			]
+		},
+		{
+			"RowName": "Hyacinth",
+			"NameArray":
+			[
+				"Ctg_Flowers"
+			]
+		},
+		{
+			"RowName": "Iris_Cristata",
+			"NameArray":
+			[
+				"Ctg_Flowers"
+			]
+		},
+		{
+			"RowName": "Iris",
+			"NameArray":
+			[
+				"Ctg_Flowers"
+			]
+		},
+		{
+			"RowName": "Jade_Vine_Flower",
+			"NameArray":
+			[
+				"Ctg_Flowers"
+			]
+		},
+		{
+			"RowName": "Lambs_Ear",
+			"NameArray":
+			[
+				"Ctg_Flowers"
+			]
+		},
+		{
+			"RowName": "Mariposas_De_Cuba",
+			"NameArray":
+			[
+				"Ctg_Flowers"
+			]
+		},
+		{
+			"RowName": "Morning_Glory",
+			"NameArray":
+			[
+				"Ctg_Flowers"
+			]
+		},
+		{
+			"RowName": "Nigella",
+			"NameArray":
+			[
+				"Ctg_Flowers"
+			]
+		},
+		{
+			"RowName": "Orchid",
+			"NameArray":
+			[
+				"Ctg_Flowers"
+			]
+		},
+		{
+			"RowName": "Passion_Flower",
+			"NameArray":
+			[
+				"Ctg_Flowers"
+			]
+		},
+		{
+			"RowName": "Petunia",
+			"NameArray":
+			[
+				"Ctg_Flowers"
+			]
+		},
+		{
+			"RowName": "Poinsettia",
+			"NameArray":
+			[
+				"Ctg_Flowers"
+			]
+		},
+		{
+			"RowName": "Poppy",
+			"NameArray":
+			[
+				"Ctg_Flowers"
+			]
+		},
+		{
+			"RowName": "Pride_Of_Madeira",
+			"NameArray":
+			[
+				"Ctg_Flowers"
+			]
+		},
+		{
+			"RowName": "Purple_Hydrangea",
+			"NameArray":
+			[
+				"Ctg_Flowers"
+			]
+		},
+		{
+			"RowName": "Rose",
+			"NameArray":
+			[
+				"Ctg_Flowers"
+			]
+		},
+		{
+			"RowName": "Sandersonia",
+			"NameArray":
+			[
+				"Ctg_Flowers"
+			]
+		},
+		{
+			"RowName": "Scilla",
+			"NameArray":
+			[
+				"Ctg_Flowers"
+			]
+		},
+		{
+			"RowName": "Sneezeweed",
+			"NameArray":
+			[
+				"Ctg_Flowers"
+			]
+		},
+		{
+			"RowName": "Spirea",
+			"NameArray":
+			[
+				"Ctg_Flowers"
+			]
+		},
+		{
+			"RowName": "Star_Scabiosa",
+			"NameArray":
+			[
+				"Ctg_Flowers"
+			]
+		},
+		{
+			"RowName": "Stokesia",
+			"NameArray":
+			[
+				"Ctg_Flowers"
+			]
+		},
+		{
+			"RowName": "Trillium",
+			"NameArray":
+			[
+				"Ctg_Flowers"
+			]
+		},
+		{
+			"RowName": "Venus_Flytrap",
+			"NameArray":
+			[
+				"Ctg_Flowers"
+			]
+		},
+		{
+			"RowName": "Verbana",
+			"NameArray":
+			[
+				"Ctg_Flowers"
+			]
+		},
+		{
+			"RowName": "Violet",
+			"NameArray":
+			[
+				"Ctg_Flowers"
+			]
+		},
+		{
+			"RowName": "Zinnia",
+			"NameArray":
+			[
+				"Ctg_Flowers"
+			]
+		},
+		{
+			"RowName": "Sunflower",
+			"NameArray":
+			[
+				"Ctg_Flowers",
+				"Ctg_Oil_Ingredients"
+			]
+		},
+		{
+			"RowName": "Kangaroo_Paw",
+			"NameArray":
+			[
+				"Ctg_Flowers"
+			]
+		},
+		{
+			"RowName": "White_Wool",
+			"NameArray":
+			[
+				"Ctg_Wool",
+				"Ctg_Animal_Products"
+			]
+		},
+		{
+			"RowName": "Brown_Wool",
+			"NameArray":
+			[
+				"Ctg_Wool",
+				"Ctg_Animal_Products"
+			]
+		},
+		{
+			"RowName": "Black_Wool",
+			"NameArray":
+			[
+				"Ctg_Wool",
+				"Ctg_Animal_Products"
+			]
+		},
+		{
+			"RowName": "Rice",
+			"NameArray":
+			[
+				"Ctg_Grains"
+			]
+		},
+		{
+			"RowName": "Sugarcane",
+			"NameArray":
+			[
+				"Ctg_Grains",
+				"Ctg_Crops"
+			]
+		},
+		{
+			"RowName": "Cocoa",
+			"NameArray":
+			[
+				"Ctg_Grains",
+				"Ctg_Crops"
+			]
+		},
+		{
+			"RowName": "Wheat",
+			"NameArray":
+			[
+				"Ctg_Grains",
+				"Ctg_Crops"
+			]
+		},
+		{
+			"RowName": "Coffee",
+			"NameArray":
+			[
+				"Ctg_Grains",
+				"Ctg_Crops"
+			]
+		},
+		{
+			"RowName": "Oats",
+			"NameArray":
+			[
+				"Ctg_Grains",
+				"Ctg_Crops"
+			]
+		},
+		{
+			"RowName": "Peppercorn",
+			"NameArray":
+			[
+				"Ctg_Grains",
+				"Ctg_Crops"
+			]
+		},
+		{
+			"RowName": "Iron",
+			"NameArray":
+			[
+				"Ctg_Ores"
+			]
+		},
+		{
+			"RowName": "Copper",
+			"NameArray":
+			[
+				"Ctg_Ores"
+			]
+		},
+		{
+			"RowName": "Silver",
+			"NameArray":
+			[
+				"Ctg_Ores"
+			]
+		},
+		{
+			"RowName": "Gold",
+			"NameArray":
+			[
+				"Ctg_Ores"
+			]
+		},
+		{
+			"RowName": "Steel",
+			"NameArray":
+			[
+				"Ctg_Ores"
+			]
+		},
+		{
+			"RowName": "Titanium",
+			"NameArray":
+			[
+				"Ctg_Ores"
+			]
+		},
+		{
+			"RowName": "Uranium",
+			"NameArray":
+			[
+				"Ctg_Ores"
+			]
+		},
+		{
+			"RowName": "Brown_Wood",
+			"NameArray":
+			[
+				"Ctg_Logs"
+			]
+		},
+		{
+			"RowName": "Dark_Wood",
+			"NameArray":
+			[
+				"Ctg_Logs"
+			]
+		},
+		{
+			"RowName": "Orange_Wood",
+			"NameArray":
+			[
+				"Ctg_Logs"
+			]
+		},
+		{
+			"RowName": "Peach_Wood",
+			"NameArray":
+			[
+				"Ctg_Logs"
+			]
+		},
+		{
+			"RowName": "Rose_Wood",
+			"NameArray":
+			[
+				"Ctg_Logs"
+			]
+		},
+		{
+			"RowName": "Smoky_Wood",
+			"NameArray":
+			[
+				"Ctg_Logs"
+			]
+		},
+		{
+			"RowName": "Peanuts",
+			"NameArray":
+			[
+				"Ctg_Oil_Ingredients",
+				"Ctg_Crops"
+			]
+		},
+		{
+			"RowName": "Corn",
+			"NameArray":
+			[
+				"Ctg_Oil_Ingredients",
+				"Ctg_Crops",
+				"Ctg_Grains"
+			]
+		},
+		{
+			"RowName": "Olives",
+			"NameArray":
+			[
+				"Ctg_Oil_Ingredients",
+				"Ctg_Crops"
+			]
+		},
+		{
+			"RowName": "Coconut",
+			"NameArray":
+			[
+				"Ctg_Oil_Ingredients",
+				"Ctg_Crops",
+				"Ctg_Non_Dairy",
+				"Ctg_Nut"
+			]
+		},
+		{
+			"RowName": "Avocado",
+			"NameArray":
+			[
+				"Ctg_Oil_Ingredients",
+				"Ctg_Crops"
+			]
+		},
+		{
+			"RowName": "Brown_Wood_Planks",
+			"NameArray":
+			[
+				"Ctg_Planks"
+			]
+		},
+		{
+			"RowName": "Dark_Wood_Planks",
+			"NameArray":
+			[
+				"Ctg_Planks"
+			]
+		},
+		{
+			"RowName": "Orange_Wood_Planks",
+			"NameArray":
+			[
+				"Ctg_Planks"
+			]
+		},
+		{
+			"RowName": "Peach_Wood_Planks",
+			"NameArray":
+			[
+				"Ctg_Planks"
+			]
+		},
+		{
+			"RowName": "Rose_Wood_Planks",
+			"NameArray":
+			[
+				"Ctg_Planks"
+			]
+		},
+		{
+			"RowName": "Smoky_Wood_Planks",
+			"NameArray":
+			[
+				"Ctg_Planks"
+			]
+		},
+		{
+			"RowName": "Beef",
+			"NameArray":
+			[
+				"Ctg_Animal_Products"
+			]
+		},
+		{
+			"RowName": "Bison_Meat",
+			"NameArray":
+			[
+				"Ctg_Animal_Products"
+			]
+		},
+		{
+			"RowName": "Chicken_Meat",
+			"NameArray":
+			[
+				"Ctg_Animal_Products"
+			]
+		},
+		{
+			"RowName": "Duck_Meat",
+			"NameArray":
+			[
+				"Ctg_Animal_Products"
+			]
+		},
+		{
+			"RowName": "Goat_Meat",
+			"NameArray":
+			[
+				"Ctg_Animal_Products"
+			]
+		},
+		{
+			"RowName": "Mutton",
+			"NameArray":
+			[
+				"Ctg_Animal_Products"
+			]
+		},
+		{
+			"RowName": "Pork",
+			"NameArray":
+			[
+				"Ctg_Animal_Products"
+			]
+		},
+		{
+			"RowName": "Butter",
+			"NameArray":
+			[
+				"Ctg_Animal_Products"
+			]
+		},
+		{
+			"RowName": "Mayonaise",
+			"NameArray":
+			[
+				"Ctg_Animal_Products"
+			]
+		},
+		{
+			"RowName": "Cherries",
+			"NameArray":
+			[
+				"Ctg_Crops"
+			]
+		},
+		{
+			"RowName": "Potato",
+			"NameArray":
+			[
+				"Ctg_Crops"
+			]
+		},
+		{
+			"RowName": "Strawberries",
+			"NameArray":
+			[
+				"Ctg_Crops"
+			]
+		},
+		{
+			"RowName": "Leek",
+			"NameArray":
+			[
+				"Ctg_Crops"
+			]
+		},
+		{
+			"RowName": "Onion",
+			"NameArray":
+			[
+				"Ctg_Crops"
+			]
+		},
+		{
+			"RowName": "Turnip",
+			"NameArray":
+			[
+				"Ctg_Crops"
+			]
+		},
+		{
+			"RowName": "Almonds",
+			"NameArray":
+			[
+				"Ctg_Crops",
+				"Ctg_Non_Dairy",
+				"Ctg_Nut"
+			]
+		},
+		{
+			"RowName": "Apple",
+			"NameArray":
+			[
+				"Ctg_Crops"
+			]
+		},
+		{
+			"RowName": "Apricot",
+			"NameArray":
+			[
+				"Ctg_Crops"
+			]
+		},
+		{
+			"RowName": "Bananas",
+			"NameArray":
+			[
+				"Ctg_Crops"
+			]
+		},
+		{
+			"RowName": "Artichoke",
+			"NameArray":
+			[
+				"Ctg_Crops"
+			]
+		},
+		{
+			"RowName": "Asparagus",
+			"NameArray":
+			[
+				"Ctg_Crops"
+			]
+		},
+		{
+			"RowName": "Beet",
+			"NameArray":
+			[
+				"Ctg_Crops"
+			]
+		},
+		{
+			"RowName": "Bell_Pepper",
+			"NameArray":
+			[
+				"Ctg_Crops"
+			]
+		},
+		{
+			"RowName": "Blackberries",
+			"NameArray":
+			[
+				"Ctg_Crops"
+			]
+		},
+		{
+			"RowName": "Broccoli",
+			"NameArray":
+			[
+				"Ctg_Crops"
+			]
+		},
+		{
+			"RowName": "Brussel_Sprouts",
+			"NameArray":
+			[
+				"Ctg_Crops"
+			]
+		},
+		{
+			"RowName": "Cantaloupe",
+			"NameArray":
+			[
+				"Ctg_Crops"
+			]
+		},
+		{
+			"RowName": "Carrot",
+			"NameArray":
+			[
+				"Ctg_Crops"
+			]
+		},
+		{
+			"RowName": "Cauliflower",
+			"NameArray":
+			[
+				"Ctg_Crops"
+			]
+		},
+		{
+			"RowName": "Celery",
+			"NameArray":
+			[
+				"Ctg_Crops"
+			]
+		},
+		{
+			"RowName": "Chestnut",
+			"NameArray":
+			[
+				"Ctg_Crops"
+			]
+		},
+		{
+			"RowName": "Chickpeas",
+			"NameArray":
+			[
+				"Ctg_Crops"
+			]
+		},
+		{
+			"RowName": "Collard_Greens",
+			"NameArray":
+			[
+				"Ctg_Crops"
+			]
+		},
+		{
+			"RowName": "Cotton",
+			"NameArray":
+			[
+				"Ctg_Crops",
+				"Ctg_Wool"
+			]
+		},
+		{
+			"RowName": "Cranberries",
+			"NameArray":
+			[
+				"Ctg_Crops"
+			]
+		},
+		{
+			"RowName": "Cucumber",
+			"NameArray":
+			[
+				"Ctg_Crops"
+			]
+		},
+		{
+			"RowName": "Dates",
+			"NameArray":
+			[
+				"Ctg_Crops"
+			]
+		},
+		{
+			"RowName": "Durian",
+			"NameArray":
+			[
+				"Ctg_Crops"
+			]
+		},
+		{
+			"RowName": "Eggplant",
+			"NameArray":
+			[
+				"Ctg_Crops"
+			]
+		},
+		{
+			"RowName": "Fig",
+			"NameArray":
+			[
+				"Ctg_Crops"
+			]
+		},
+		{
+			"RowName": "Grapefruit",
+			"NameArray":
+			[
+				"Ctg_Crops"
+			]
+		},
+		{
+			"RowName": "Grapes",
+			"NameArray":
+			[
+				"Ctg_Crops"
+			]
+		},
+		{
+			"RowName": "Green_Beans",
+			"NameArray":
+			[
+				"Ctg_Crops",
+				"Ctg_Beans"
+			]
+		},
+		{
+			"RowName": "Guava",
+			"NameArray":
+			[
+				"Ctg_Crops"
+			]
+		},
+		{
+			"RowName": "Hazel_Nut",
+			"NameArray":
+			[
+				"Ctg_Crops"
+			]
+		},
+		{
+			"RowName": "Honey_Dew",
+			"NameArray":
+			[
+				"Ctg_Crops"
+			]
+		},
+		{
+			"RowName": "Jalapeno",
+			"NameArray":
+			[
+				"Ctg_Crops"
+			]
+		},
+		{
+			"RowName": "Kale",
+			"NameArray":
+			[
+				"Ctg_Crops"
+			]
+		},
+		{
+			"RowName": "Kidney_Beans",
+			"NameArray":
+			[
+				"Ctg_Crops",
+				"Ctg_Beans"
+			]
+		},
+		{
+			"RowName": "Kiwi",
+			"NameArray":
+			[
+				"Ctg_Crops"
+			]
+		},
+		{
+			"RowName": "Kumguats",
+			"NameArray":
+			[
+				"Ctg_Crops"
+			]
+		},
+		{
+			"RowName": "Lemon",
+			"NameArray":
+			[
+				"Ctg_Crops"
+			]
+		},
+		{
+			"RowName": "Lentils",
+			"NameArray":
+			[
+				"Ctg_Crops"
+			]
+		},
+		{
+			"RowName": "Lettuce",
+			"NameArray":
+			[
+				"Ctg_Crops"
+			]
+		},
+		{
+			"RowName": "Lime",
+			"NameArray":
+			[
+				"Ctg_Crops"
+			]
+		},
+		{
+			"RowName": "Lychees",
+			"NameArray":
+			[
+				"Ctg_Crops"
+			]
+		},
+		{
+			"RowName": "Macadamia",
+			"NameArray":
+			[
+				"Ctg_Crops",
+				"Ctg_Nut"
+			]
+		},
+		{
+			"RowName": "Mandarin",
+			"NameArray":
+			[
+				"Ctg_Crops"
+			]
+		},
+		{
+			"RowName": "Mango",
+			"NameArray":
+			[
+				"Ctg_Crops"
+			]
+		},
+		{
+			"RowName": "Mushroom",
+			"NameArray":
+			[
+				"Ctg_Crops"
+			]
+		},
+		{
+			"RowName": "Nutmeg",
+			"NameArray":
+			[
+				"Ctg_Crops"
+			]
+		},
+		{
+			"RowName": "Orange",
+			"NameArray":
+			[
+				"Ctg_Crops"
+			]
+		},
+		{
+			"RowName": "Papaya",
+			"NameArray":
+			[
+				"Ctg_Crops"
+			]
+		},
+		{
+			"RowName": "Passion_Fruit",
+			"NameArray":
+			[
+				"Ctg_Crops"
+			]
+		},
+		{
+			"RowName": "Peach",
+			"NameArray":
+			[
+				"Ctg_Crops"
+			]
+		},
+		{
+			"RowName": "Pear",
+			"NameArray":
+			[
+				"Ctg_Crops"
+			]
+		},
+		{
+			"RowName": "Peas",
+			"NameArray":
+			[
+				"Ctg_Crops"
+			]
+		},
+		{
+			"RowName": "Pecans",
+			"NameArray":
+			[
+				"Ctg_Crops"
+			]
+		},
+		{
+			"RowName": "Pineapple",
+			"NameArray":
+			[
+				"Ctg_Crops"
+			]
+		},
+		{
+			"RowName": "Pistachios",
+			"NameArray":
+			[
+				"Ctg_Crops"
+			]
+		},
+		{
+			"RowName": "Plum",
+			"NameArray":
+			[
+				"Ctg_Crops"
+			]
+		},
+		{
+			"RowName": "Pomegranate",
+			"NameArray":
+			[
+				"Ctg_Crops"
+			]
+		},
+		{
+			"RowName": "Pumpkin",
+			"NameArray":
+			[
+				"Ctg_Crops"
+			]
+		},
+		{
+			"RowName": "Raspberries",
+			"NameArray":
+			[
+				"Ctg_Crops"
+			]
+		},
+		{
+			"RowName": "Rhubarb",
+			"NameArray":
+			[
+				"Ctg_Crops"
+			]
+		},
+		{
+			"RowName": "Soybeans",
+			"NameArray":
+			[
+				"Ctg_Crops",
+				"Ctg_Non_Dairy",
+				"Ctg_Beans"
+			]
+		},
+		{
+			"RowName": "Spinach",
+			"NameArray":
+			[
+				"Ctg_Crops"
+			]
+		},
+		{
+			"RowName": "Starfruit",
+			"NameArray":
+			[
+				"Ctg_Crops"
+			]
+		},
+		{
+			"RowName": "Sweet_Potato",
+			"NameArray":
+			[
+				"Ctg_Crops"
+			]
+		},
+		{
+			"RowName": "Tomato",
+			"NameArray":
+			[
+				"Ctg_Crops"
+			]
+		},
+		{
+			"RowName": "Walnuts",
+			"NameArray":
+			[
+				"Ctg_Crops",
+				"Ctg_Nut"
+			]
+		},
+		{
+			"RowName": "Watermelon",
+			"NameArray":
+			[
+				"Ctg_Crops"
+			]
+		},
+		{
+			"RowName": "Zucchini",
+			"NameArray":
+			[
+				"Ctg_Crops"
+			]
+		},
+		{
+			"RowName": "Black_Beans",
+			"NameArray":
+			[
+				"Ctg_Crops",
+				"Ctg_Beans"
+			]
+		},
+		{
+			"RowName": "Blueberries",
+			"NameArray":
+			[
+				"Ctg_Crops"
+			]
+		},
+		{
+			"RowName": "SugarApple",
+			"NameArray":
+			[
+				"Ctg_Crops"
+			]
+		},
+		{
+			"RowName": "Dragonfruit",
+			"NameArray":
+			[
+				"Ctg_Crops"
+			]
+		},
+		{
+			"RowName": "Breadfruit",
+			"NameArray":
+			[
+				"Ctg_Crops"
+			]
+		},
+		{
+			"RowName": "Cashews",
+			"NameArray":
+			[
+				"Ctg_Crops",
+				"Ctg_Non_Dairy"
+			]
+		},
+		{
+			"RowName": "Potarrots",
+			"NameArray":
+			[
+				"Ctg_Crops"
+			]
+		},
+		{
+			"RowName": "Tomatelons",
+			"NameArray":
+			[
+				"Ctg_Crops"
+			]
+		},
+		{
+			"RowName": "Jalaplant",
+			"NameArray":
+			[
+				"Ctg_Crops"
+			]
+		},
+		{
+			"RowName": "Spinip",
+			"NameArray":
+			[
+				"Ctg_Crops"
+			]
+		},
+		{
+			"RowName": "Brocados",
+			"NameArray":
+			[
+				"Ctg_Crops"
+			]
+		},
+		{
+			"RowName": "Zuccorn",
+			"NameArray":
+			[
+				"Ctg_Crops"
+			]
+		},
+		{
+			"RowName": "Grapple",
+			"NameArray":
+			[
+				"Ctg_Crops"
+			]
+		},
+		{
+			"RowName": "Banapple",
+			"NameArray":
+			[
+				"Ctg_Crops"
+			]
+		},
+		{
+			"RowName": "Aether_Polished",
+			"NameArray":
+			[
+				"Ctg_Gems"
+			]
+		},
+		{
+			"RowName": "Agate_Polished",
+			"NameArray":
+			[
+				"Ctg_Gems"
+			]
+		},
+		{
+			"RowName": "Alabaster_Polished",
+			"NameArray":
+			[
+				"Ctg_Gems"
+			]
+		},
+		{
+			"RowName": "Alexandrite_Polished",
+			"NameArray":
+			[
+				"Ctg_Gems"
+			]
+		},
+		{
+			"RowName": "Amazonite_Polished",
+			"NameArray":
+			[
+				"Ctg_Gems"
+			]
+		},
+		{
+			"RowName": "Amber_Polished",
+			"NameArray":
+			[
+				"Ctg_Gems"
+			]
+		},
+		{
+			"RowName": "Amethyst_Polished",
+			"NameArray":
+			[
+				"Ctg_Gems"
+			]
+		},
+		{
+			"RowName": "Ammolite_Polished",
+			"NameArray":
+			[
+				"Ctg_Gems"
+			]
+		},
+		{
+			"RowName": "Auqamarine_Polished",
+			"NameArray":
+			[
+				"Ctg_Gems"
+			]
+		},
+		{
+			"RowName": "Beryl_Polished",
+			"NameArray":
+			[
+				"Ctg_Gems"
+			]
+		},
+		{
+			"RowName": "Bloodstone_Polished",
+			"NameArray":
+			[
+				"Ctg_Gems"
+			]
+		},
+		{
+			"RowName": "Bone_Polished",
+			"NameArray":
+			[
+				"Ctg_Gems"
+			]
+		},
+		{
+			"RowName": "Carnilian_Polished",
+			"NameArray":
+			[
+				"Ctg_Gems"
+			]
+		},
+		{
+			"RowName": "Chrysocolla_Polished",
+			"NameArray":
+			[
+				"Ctg_Gems"
+			]
+		},
+		{
+			"RowName": "Chrysoprase_Polished",
+			"NameArray":
+			[
+				"Ctg_Gems"
+			]
+		},
+		{
+			"RowName": "Citrine_Polished",
+			"NameArray":
+			[
+				"Ctg_Gems"
+			]
+		},
+		{
+			"RowName": "Clinohumite_Polished",
+			"NameArray":
+			[
+				"Ctg_Gems"
+			]
+		},
+		{
+			"RowName": "Comet_Polished",
+			"NameArray":
+			[
+				"Ctg_Gems"
+			]
+		},
+		{
+			"RowName": "Conundrum_Polished",
+			"NameArray":
+			[
+				"Ctg_Gems"
+			]
+		},
+		{
+			"RowName": "Diamond_Polished",
+			"NameArray":
+			[
+				"Ctg_Gems"
+			]
+		},
+		{
+			"RowName": "Dioptase_Polished",
+			"NameArray":
+			[
+				"Ctg_Gems"
+			]
+		},
+		{
+			"RowName": "Emerald_Polished",
+			"NameArray":
+			[
+				"Ctg_Gems"
+			]
+		},
+		{
+			"RowName": "Glass_Polished",
+			"NameArray":
+			[
+				"Ctg_Gems"
+			]
+		},
+		{
+			"RowName": "Hematite_Polished",
+			"NameArray":
+			[
+				"Ctg_Gems"
+			]
+		},
+		{
+			"RowName": "Jade_Polished",
+			"NameArray":
+			[
+				"Ctg_Gems"
+			]
+		},
+		{
+			"RowName": "Jasper_Polished",
+			"NameArray":
+			[
+				"Ctg_Gems"
+			]
+		},
+		{
+			"RowName": "Jet_Polished",
+			"NameArray":
+			[
+				"Ctg_Gems"
+			]
+		},
+		{
+			"RowName": "Lapis_Lazuli_Polished",
+			"NameArray":
+			[
+				"Ctg_Gems"
+			]
+		},
+		{
+			"RowName": "Larimar_Polished",
+			"NameArray":
+			[
+				"Ctg_Gems"
+			]
+		},
+		{
+			"RowName": "Malachite_Polished",
+			"NameArray":
+			[
+				"Ctg_Gems"
+			]
+		},
+		{
+			"RowName": "Meteorite_Polished",
+			"NameArray":
+			[
+				"Ctg_Gems"
+			]
+		},
+		{
+			"RowName": "Moonstone_Polished",
+			"NameArray":
+			[
+				"Ctg_Gems"
+			]
+		},
+		{
+			"RowName": "Obsidian_Polished",
+			"NameArray":
+			[
+				"Ctg_Gems"
+			]
+		},
+		{
+			"RowName": "Onyx_Polished",
+			"NameArray":
+			[
+				"Ctg_Gems"
+			]
+		},
+		{
+			"RowName": "Opal_Polished",
+			"NameArray":
+			[
+				"Ctg_Gems"
+			]
+		},
+		{
+			"RowName": "Peridot_Polished",
+			"NameArray":
+			[
+				"Ctg_Gems"
+			]
+		},
+		{
+			"RowName": "Petrified_Wood_Polished",
+			"NameArray":
+			[
+				"Ctg_Gems"
+			]
+		},
+		{
+			"RowName": "Philosopher_Stone_Polished",
+			"NameArray":
+			[
+				"Ctg_Gems"
+			]
+		},
+		{
+			"RowName": "Porphyry_Polished",
+			"NameArray":
+			[
+				"Ctg_Gems"
+			]
+		},
+		{
+			"RowName": "Prehnite_Polished",
+			"NameArray":
+			[
+				"Ctg_Gems"
+			]
+		},
+		{
+			"RowName": "Quartz_Polished",
+			"NameArray":
+			[
+				"Ctg_Gems"
+			]
+		},
+		{
+			"RowName": "Rhodochrosite_Polished",
+			"NameArray":
+			[
+				"Ctg_Gems"
+			]
+		},
+		{
+			"RowName": "Rose_Quartz_Polished",
+			"NameArray":
+			[
+				"Ctg_Gems"
+			]
+		},
+		{
+			"RowName": "Ruby_Polished",
+			"NameArray":
+			[
+				"Ctg_Gems"
+			]
+		},
+		{
+			"RowName": "Sapphire_Polished",
+			"NameArray":
+			[
+				"Ctg_Gems"
+			]
+		},
+		{
+			"RowName": "Sardonyx_Polished",
+			"NameArray":
+			[
+				"Ctg_Gems"
+			]
+		},
+		{
+			"RowName": "Sodalite_Polished",
+			"NameArray":
+			[
+				"Ctg_Gems"
+			]
+		},
+		{
+			"RowName": "Spinel_Polished",
+			"NameArray":
+			[
+				"Ctg_Gems"
+			]
+		},
+		{
+			"RowName": "Sugulite_Polished",
+			"NameArray":
+			[
+				"Ctg_Gems"
+			]
+		},
+		{
+			"RowName": "Sunstone_Polished",
+			"NameArray":
+			[
+				"Ctg_Gems"
+			]
+		},
+		{
+			"RowName": "Tanzanite_Polished",
+			"NameArray":
+			[
+				"Ctg_Gems"
+			]
+		},
+		{
+			"RowName": "TigersEye_Polished",
+			"NameArray":
+			[
+				"Ctg_Gems"
+			]
+		},
+		{
+			"RowName": "Topaz_Polished",
+			"NameArray":
+			[
+				"Ctg_Gems"
+			]
+		},
+		{
+			"RowName": "Tourmaline_Polished",
+			"NameArray":
+			[
+				"Ctg_Gems"
+			]
+		},
+		{
+			"RowName": "Unakite_Polished",
+			"NameArray":
+			[
+				"Ctg_Gems"
+			]
+		},
+		{
+			"RowName": "Variscite_Polished",
+			"NameArray":
+			[
+				"Ctg_Gems"
+			]
+		},
+		{
+			"RowName": "Zoisite_Polished",
+			"NameArray":
+			[
+				"Ctg_Gems"
+			]
+		},
+		{
+			"RowName": "Garnet_Polished",
+			"NameArray":
+			[
+				"Ctg_Gems"
+			]
+		},
+		{
+			"RowName": "Coral_Polished",
+			"NameArray":
+			[
+				"Ctg_Gems"
+			]
+		},
+		{
+			"RowName": "Nelsonite_Polished",
+			"NameArray":
+			[
+				"Ctg_Gems"
+			]
+		},
+		{
+			"RowName": "Granite",
+			"NameArray":
+			[
+				"Ctg_Gems_Uncut"
+			]
+		},
+		{
+			"RowName": "Marble",
+			"NameArray":
+			[
+				"Ctg_Gems_Uncut"
+			]
+		},
+		{
+			"RowName": "Slate",
+			"NameArray":
+			[
+				"Ctg_Gems_Uncut"
+			]
+		},
+		{
+			"RowName": "Aether",
+			"NameArray":
+			[
+				"Ctg_Gems_Uncut"
+			]
+		},
+		{
+			"RowName": "Agate",
+			"NameArray":
+			[
+				"Ctg_Gems_Uncut"
+			]
+		},
+		{
+			"RowName": "Alabaster",
+			"NameArray":
+			[
+				"Ctg_Gems_Uncut"
+			]
+		},
+		{
+			"RowName": "Alexandrite",
+			"NameArray":
+			[
+				"Ctg_Gems_Uncut"
+			]
+		},
+		{
+			"RowName": "Amazonite",
+			"NameArray":
+			[
+				"Ctg_Gems_Uncut"
+			]
+		},
+		{
+			"RowName": "Amber",
+			"NameArray":
+			[
+				"Ctg_Gems_Uncut"
+			]
+		},
+		{
+			"RowName": "Amethyst",
+			"NameArray":
+			[
+				"Ctg_Gems_Uncut"
+			]
+		},
+		{
+			"RowName": "Ammolite",
+			"NameArray":
+			[
+				"Ctg_Gems_Uncut"
+			]
+		},
+		{
+			"RowName": "Auqamarine",
+			"NameArray":
+			[
+				"Ctg_Gems_Uncut"
+			]
+		},
+		{
+			"RowName": "Beryl",
+			"NameArray":
+			[
+				"Ctg_Gems_Uncut"
+			]
+		},
+		{
+			"RowName": "Bismuth",
+			"NameArray":
+			[
+				"Ctg_Gems_Uncut"
+			]
+		},
+		{
+			"RowName": "Bloodstone",
+			"NameArray":
+			[
+				"Ctg_Gems_Uncut"
+			]
+		},
+		{
+			"RowName": "Bone",
+			"NameArray":
+			[
+				"Ctg_Gems_Uncut"
+			]
+		},
+		{
+			"RowName": "Carnilian",
+			"NameArray":
+			[
+				"Ctg_Gems_Uncut"
+			]
+		},
+		{
+			"RowName": "Chrysocolla",
+			"NameArray":
+			[
+				"Ctg_Gems_Uncut"
+			]
+		},
+		{
+			"RowName": "Chrysoprase",
+			"NameArray":
+			[
+				"Ctg_Gems_Uncut"
+			]
+		},
+		{
+			"RowName": "Citrine",
+			"NameArray":
+			[
+				"Ctg_Gems_Uncut"
+			]
+		},
+		{
+			"RowName": "Clinohumite",
+			"NameArray":
+			[
+				"Ctg_Gems_Uncut"
+			]
+		},
+		{
+			"RowName": "Comet",
+			"NameArray":
+			[
+				"Ctg_Gems_Uncut"
+			]
+		},
+		{
+			"RowName": "Conundrum",
+			"NameArray":
+			[
+				"Ctg_Gems_Uncut"
+			]
+		},
+		{
+			"RowName": "Diamond",
+			"NameArray":
+			[
+				"Ctg_Gems_Uncut"
+			]
+		},
+		{
+			"RowName": "Dioptase",
+			"NameArray":
+			[
+				"Ctg_Gems_Uncut"
+			]
+		},
+		{
+			"RowName": "Emerald",
+			"NameArray":
+			[
+				"Ctg_Gems_Uncut"
+			]
+		},
+		{
+			"RowName": "Feldspar",
+			"NameArray":
+			[
+				"Ctg_Gems_Uncut"
+			]
+		},
+		{
+			"RowName": "Glass",
+			"NameArray":
+			[
+				"Ctg_Gems_Uncut"
+			]
+		},
+		{
+			"RowName": "Hematite",
+			"NameArray":
+			[
+				"Ctg_Gems_Uncut"
+			]
+		},
+		{
+			"RowName": "Jade",
+			"NameArray":
+			[
+				"Ctg_Gems_Uncut"
+			]
+		},
+		{
+			"RowName": "Jasper",
+			"NameArray":
+			[
+				"Ctg_Gems_Uncut"
+			]
+		},
+		{
+			"RowName": "Jet",
+			"NameArray":
+			[
+				"Ctg_Gems_Uncut"
+			]
+		},
+		{
+			"RowName": "Lapis_Lazuli",
+			"NameArray":
+			[
+				"Ctg_Gems_Uncut"
+			]
+		},
+		{
+			"RowName": "Larimar",
+			"NameArray":
+			[
+				"Ctg_Gems_Uncut"
+			]
+		},
+		{
+			"RowName": "Malachite",
+			"NameArray":
+			[
+				"Ctg_Gems_Uncut"
+			]
+		},
+		{
+			"RowName": "Meteorite",
+			"NameArray":
+			[
+				"Ctg_Gems_Uncut"
+			]
+		},
+		{
+			"RowName": "Moonstone",
+			"NameArray":
+			[
+				"Ctg_Gems_Uncut"
+			]
+		},
+		{
+			"RowName": "Obsidian",
+			"NameArray":
+			[
+				"Ctg_Gems_Uncut"
+			]
+		},
+		{
+			"RowName": "Onyx",
+			"NameArray":
+			[
+				"Ctg_Gems_Uncut"
+			]
+		},
+		{
+			"RowName": "Opal",
+			"NameArray":
+			[
+				"Ctg_Gems_Uncut"
+			]
+		},
+		{
+			"RowName": "Peridot",
+			"NameArray":
+			[
+				"Ctg_Gems_Uncut"
+			]
+		},
+		{
+			"RowName": "Petrified_Wood",
+			"NameArray":
+			[
+				"Ctg_Gems_Uncut"
+			]
+		},
+		{
+			"RowName": "Philosopher_Stone",
+			"NameArray":
+			[
+				"Ctg_Gems_Uncut"
+			]
+		},
+		{
+			"RowName": "Porphyry",
+			"NameArray":
+			[
+				"Ctg_Gems_Uncut"
+			]
+		},
+		{
+			"RowName": "Prehnite",
+			"NameArray":
+			[
+				"Ctg_Gems_Uncut"
+			]
+		},
+		{
+			"RowName": "Quartz",
+			"NameArray":
+			[
+				"Ctg_Gems_Uncut"
+			]
+		},
+		{
+			"RowName": "Rhodochrosite",
+			"NameArray":
+			[
+				"Ctg_Gems_Uncut"
+			]
+		},
+		{
+			"RowName": "Rose_Quartz",
+			"NameArray":
+			[
+				"Ctg_Gems_Uncut"
+			]
+		},
+		{
+			"RowName": "Ruby",
+			"NameArray":
+			[
+				"Ctg_Gems_Uncut"
+			]
+		},
+		{
+			"RowName": "Sapphire",
+			"NameArray":
+			[
+				"Ctg_Gems_Uncut"
+			]
+		},
+		{
+			"RowName": "Sardonyx",
+			"NameArray":
+			[
+				"Ctg_Gems_Uncut"
+			]
+		},
+		{
+			"RowName": "Sodalite",
+			"NameArray":
+			[
+				"Ctg_Gems_Uncut"
+			]
+		},
+		{
+			"RowName": "Spinel",
+			"NameArray":
+			[
+				"Ctg_Gems_Uncut"
+			]
+		},
+		{
+			"RowName": "Sugulite",
+			"NameArray":
+			[
+				"Ctg_Gems_Uncut"
+			]
+		},
+		{
+			"RowName": "Sunstone",
+			"NameArray":
+			[
+				"Ctg_Gems_Uncut"
+			]
+		},
+		{
+			"RowName": "Tanzanite",
+			"NameArray":
+			[
+				"Ctg_Gems_Uncut"
+			]
+		},
+		{
+			"RowName": "TigersEye",
+			"NameArray":
+			[
+				"Ctg_Gems_Uncut"
+			]
+		},
+		{
+			"RowName": "Topaz",
+			"NameArray":
+			[
+				"Ctg_Gems_Uncut"
+			]
+		},
+		{
+			"RowName": "Tourmaline",
+			"NameArray":
+			[
+				"Ctg_Gems_Uncut"
+			]
+		},
+		{
+			"RowName": "Unakite",
+			"NameArray":
+			[
+				"Ctg_Gems_Uncut"
+			]
+		},
+		{
+			"RowName": "Variscite",
+			"NameArray":
+			[
+				"Ctg_Gems_Uncut"
+			]
+		},
+		{
+			"RowName": "Zoisite",
+			"NameArray":
+			[
+				"Ctg_Gems_Uncut"
+			]
+		},
+		{
+			"RowName": "Garnet",
+			"NameArray":
+			[
+				"Ctg_Gems_Uncut"
+			]
+		},
+		{
+			"RowName": "Nelsonite",
+			"NameArray":
+			[
+				"Ctg_Gems_Uncut"
+			]
+		},
+		{
+			"RowName": "Animal_Poop",
+			"NameArray":
+			[
+				"Ctg_Poop"
+			]
+		},
+		{
+			"RowName": "Sugar_Beets",
+			"NameArray":
+			[
+				"Ctg_Crops",
+				"Ctg_Grains"
+			]
+		},
+		{
+			"RowName": "Red_Paper",
+			"NameArray":
+			[
+				"Ctg_Red_Paper"
+			]
+		},
+		{
+			"RowName": "Axe_Diamond",
+			"NameArray":
+			[
+				"Ctg_Axe"
+			]
+		},
+		{
+			"RowName": "Axe_Gold",
+			"NameArray":
+			[
+				"Ctg_Axe"
+			]
+		},
+		{
+			"RowName": "Axe_Iron",
+			"NameArray":
+			[
+				"Ctg_Axe"
+			]
+		},
+		{
+			"RowName": "Axe_Copper",
+			"NameArray":
+			[
+				"Ctg_Axe"
+			]
+		},
+		{
+			"RowName": "Axe_Meteor",
+			"NameArray":
+			[
+				"Ctg_Axe"
+			]
+		},
+		{
+			"RowName": "Axe_Silver",
+			"NameArray":
+			[
+				"Ctg_Axe"
+			]
+		},
+		{
+			"RowName": "Axe_Steel",
+			"NameArray":
+			[
+				"Ctg_Axe"
+			]
+		},
+		{
+			"RowName": "Axe_Titanium",
+			"NameArray":
+			[
+				"Ctg_Axe"
+			]
+		},
+		{
+			"RowName": "Axe_Uranium",
+			"NameArray":
+			[
+				"Ctg_Axe"
+			]
+		},
+		{
+			"RowName": "Axe_Wooden",
+			"NameArray":
+			[
+				"Ctg_Axe"
+			]
+		},
+		{
+			"RowName": "Pickaxe_Copper",
+			"NameArray":
+			[
+				"Ctg_Pickaxe"
+			]
+		},
+		{
+			"RowName": "Pickaxe_Diamond",
+			"NameArray":
+			[
+				"Ctg_Pickaxe"
+			]
+		},
+		{
+			"RowName": "Pickaxe_Gold",
+			"NameArray":
+			[
+				"Ctg_Pickaxe"
+			]
+		},
+		{
+			"RowName": "Pickaxe_Iron",
+			"NameArray":
+			[
+				"Ctg_Pickaxe"
+			]
+		},
+		{
+			"RowName": "Pickaxe_Meteor",
+			"NameArray":
+			[
+				"Ctg_Pickaxe"
+			]
+		},
+		{
+			"RowName": "Pickaxe_Silver",
+			"NameArray":
+			[
+				"Ctg_Pickaxe"
+			]
+		},
+		{
+			"RowName": "Pickaxe_Steel",
+			"NameArray":
+			[
+				"Ctg_Pickaxe"
+			]
+		},
+		{
+			"RowName": "Pickaxe_Titanium",
+			"NameArray":
+			[
+				"Ctg_Pickaxe"
+			]
+		},
+		{
+			"RowName": "Pickaxe_Uranium",
+			"NameArray":
+			[
+				"Ctg_Pickaxe"
+			]
+		},
+		{
+			"RowName": "Pickaxe_Wooden",
+			"NameArray":
+			[
+				"Ctg_Pickaxe"
+			]
+		},
+		{
+			"RowName": "Apple_Special",
+			"NameArray":
+			[
+				"Ctg_Jounce_Fruit"
+			]
+		},
+		{
+			"RowName": "Lemon_Special",
+			"NameArray":
+			[
+				"Ctg_Jounce_Fruit"
+			]
+		},
+		{
+			"RowName": "Grapes_Special",
+			"NameArray":
+			[
+				"Ctg_Jounce_Fruit"
+			]
+		},
+		{
+			"RowName": "Peach_Special",
+			"NameArray":
+			[
+				"Ctg_Jounce_Fruit"
+			]
+		},
+		{
+			"RowName": "Strawberries_Special",
+			"NameArray":
+			[
+				"Ctg_Jounce_Fruit"
+			]
+		},
+		{
+			"RowName": "Orange_Special",
+			"NameArray":
+			[
+				"Ctg_Jounce_Fruit"
+			]
+		},
+		{
+			"RowName": "Soy_Milk",
+			"NameArray":
+			[
+				"Ctg_Milk",
+				"Ctg_Cheese_Maker_Unlock"
+			]
+		},
+		{
+			"RowName": "Aluminium_Bar",
+			"NameArray":
+			[
+				"Ctg_Metals"
+			]
+		},
+		{
+			"RowName": "Cassiterite_Bar",
+			"NameArray":
+			[
+				"Ctg_Metals"
+			]
+		},
+		{
+			"RowName": "Cobalt_Bar",
+			"NameArray":
+			[
+				"Ctg_Metals"
+			]
+		},
+		{
+			"RowName": "Copper_Bar",
+			"NameArray":
+			[
+				"Ctg_Metals"
+			]
+		},
+		{
+			"RowName": "Gold_Bar",
+			"NameArray":
+			[
+				"Ctg_Metals"
+			]
+		},
+		{
+			"RowName": "Iron_Bar",
+			"NameArray":
+			[
+				"Ctg_Metals"
+			]
+		},
+		{
+			"RowName": "Nickel_Bar",
+			"NameArray":
+			[
+				"Ctg_Metals"
+			]
+		},
+		{
+			"RowName": "Pyrite_Bar",
+			"NameArray":
+			[
+				"Ctg_Metals"
+			]
+		},
+		{
+			"RowName": "Silver_Bar",
+			"NameArray":
+			[
+				"Ctg_Metals"
+			]
+		},
+		{
+			"RowName": "Steel_Bar",
+			"NameArray":
+			[
+				"Ctg_Metals"
+			]
+		},
+		{
+			"RowName": "Titanium_Bar",
+			"NameArray":
+			[
+				"Ctg_Metals"
+			]
+		},
+		{
+			"RowName": "Tungsten_Bar",
+			"NameArray":
+			[
+				"Ctg_Metals"
+			]
+		},
+		{
+			"RowName": "Uranium_Bar",
+			"NameArray":
+			[
+				"Ctg_Metals"
+			]
+		},
+		{
+			"RowName": "Zinc_Bar",
+			"NameArray":
+			[
+				"Ctg_Metals"
+			]
+		}
+	]
+}

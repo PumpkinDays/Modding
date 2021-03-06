@@ -1,0 +1,5 @@
+Processor_Unlocks Structure:
+
+Action: string
+Item: string
+Amount: float

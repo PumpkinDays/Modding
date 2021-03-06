@@ -1,0 +1,10 @@
+Npc_Schedules_Data Structure:
+
+Tasks: TArray-FNpcScheduleItem
+DayOffTasks: TArray-FNpcScheduleItem
+MarriedTasks: TArray-FNpcScheduleItem
+FestivalSchedules: 
+	SpringFestival: TArray-FNpcScheduleItem
+	SummerFestival: TArray-FNpcScheduleItem
+	FallFestival: TArray-FNpcScheduleItem
+	WinterFestival: TArray-FNpcScheduleItem

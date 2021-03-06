@@ -1,0 +1,3792 @@
+{
+	"Rows": 
+	[
+		{
+			"RowName": "Mountain_Trout",
+			"Difficulty": 1,
+			"FishAreas":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Season": 0,
+						"BodyOfWater": 2
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Season": 1,
+						"BodyOfWater": 2
+					}
+				}
+			],
+			"Occurences":
+			[ 10, 18 ],
+			"IsTrash": false,
+			"HoursToNaturallyBreed": 72,
+			"FishSkeletalMesh": "None",
+			"SkelAnimation": "None"
+		},
+		{
+			"RowName": "Bass",
+			"Difficulty": 0,
+			"FishAreas":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Season": 0,
+						"BodyOfWater": 0
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Season": 1,
+						"BodyOfWater": 0
+					}
+				}
+			],
+			"Occurences":
+			[ 19, 5 ],
+			"IsTrash": false,
+			"HoursToNaturallyBreed": 120,
+			"FishSkeletalMesh": "/Game/Meshes/Fish/Fish_Animations/White_Bass_rig.White_Bass_rig",
+			"SkelAnimation": "AnimSequence'/Game/Meshes/Fish/Fish_Animations/Fish_2_Animation.Fish_2_Animation'"
+		},
+		{
+			"RowName": "Piranha",
+			"Difficulty": 2,
+			"FishAreas":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Season": 0,
+						"BodyOfWater": 2
+					}
+				}
+			],
+			"Occurences":
+			[ 4 ],
+			"IsTrash": false,
+			"HoursToNaturallyBreed": 168,
+			"FishSkeletalMesh": "/Game/Meshes/Fish/Fish_Animations/Piranha_rig.Piranha_rig",
+			"SkelAnimation": "AnimSequence'/Game/Meshes/Fish/Fish_Animations/Fish_1_Animation_Anim.Fish_1_Animation_Anim'"
+		},
+		{
+			"RowName": "Sardine",
+			"Difficulty": 0,
+			"FishAreas":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Season": 0,
+						"BodyOfWater": 3
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Season": 0,
+						"BodyOfWater": 1
+					}
+				}
+			],
+			"Occurences":
+			[ 5, 11 ],
+			"IsTrash": false,
+			"HoursToNaturallyBreed": 72,
+			"FishSkeletalMesh": "None",
+			"SkelAnimation": "None"
+		},
+		{
+			"RowName": "Seahorse",
+			"Difficulty": 1,
+			"FishAreas":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Season": 1,
+						"BodyOfWater": 3
+					}
+				}
+			],
+			"Occurences":
+			[ 2 ],
+			"IsTrash": false,
+			"HoursToNaturallyBreed": 168,
+			"FishSkeletalMesh": "None",
+			"SkelAnimation": "None"
+		},
+		{
+			"RowName": "Shark",
+			"Difficulty": 4,
+			"FishAreas":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Season": 3,
+						"BodyOfWater": 3
+					}
+				}
+			],
+			"Occurences":
+			[ 1 ],
+			"IsTrash": false,
+			"HoursToNaturallyBreed": 600,
+			"FishSkeletalMesh": "/Game/Meshes/Fish/Fish_Animations/Shark_rig.Shark_rig",
+			"SkelAnimation": "AnimSequence'/Game/Meshes/Fish/Fish_Animations/Fish_3_Animation.Fish_3_Animation'"
+		},
+		{
+			"RowName": "Rainbow_Trout",
+			"Difficulty": 1,
+			"FishAreas":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Season": 0,
+						"BodyOfWater": 2
+					}
+				}
+			],
+			"Occurences":
+			[ 10 ],
+			"IsTrash": false,
+			"HoursToNaturallyBreed": 72,
+			"FishSkeletalMesh": "/Game/Meshes/Fish/Fish_Animations/Rainbow_Trout_rig.Rainbow_Trout_rig",
+			"SkelAnimation": "AnimSequence'/Game/Meshes/Fish/Fish_Animations/Fish_2_Animation.Fish_2_Animation'"
+		},
+		{
+			"RowName": "Bonito",
+			"Difficulty": 1,
+			"FishAreas":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Season": 0,
+						"BodyOfWater": 3
+					}
+				}
+			],
+			"Occurences":
+			[ 6 ],
+			"IsTrash": false,
+			"HoursToNaturallyBreed": 168,
+			"FishSkeletalMesh": "/Game/Meshes/Fish/Fish_Animations/Bonito_rig.Bonito_rig",
+			"SkelAnimation": "AnimSequence'/Game/Meshes/Fish/Fish_Animations/Fish_2_Animation.Fish_2_Animation'"
+		},
+		{
+			"RowName": "Mackerel",
+			"Difficulty": 1,
+			"FishAreas":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Season": 0,
+						"BodyOfWater": 3
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Season": 0,
+						"BodyOfWater": 1
+					}
+				}
+			],
+			"Occurences":
+			[ 7, 7 ],
+			"IsTrash": false,
+			"HoursToNaturallyBreed": 168,
+			"FishSkeletalMesh": "/Game/Meshes/Fish/Fish_Animations/Mackerel_rig.Mackerel_rig",
+			"SkelAnimation": "None"
+		},
+		{
+			"RowName": "Octopus",
+			"Difficulty": 2,
+			"FishAreas":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Season": 0,
+						"BodyOfWater": 1
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Season": 0,
+						"BodyOfWater": 3
+					}
+				}
+			],
+			"Occurences":
+			[ 2, 5 ],
+			"IsTrash": false,
+			"HoursToNaturallyBreed": 336,
+			"FishSkeletalMesh": "None",
+			"SkelAnimation": "None"
+		},
+		{
+			"RowName": "Oyster",
+			"Difficulty": 0,
+			"FishAreas":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Season": 0,
+						"BodyOfWater": 1
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Season": 1,
+						"BodyOfWater": 1
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Season": 2,
+						"BodyOfWater": 1
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Season": 1,
+						"BodyOfWater": 3
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Season": 2,
+						"BodyOfWater": 3
+					}
+				}
+			],
+			"Occurences":
+			[ 10, 2, 4, 5, 4 ],
+			"IsTrash": false,
+			"HoursToNaturallyBreed": 336,
+			"FishSkeletalMesh": "None",
+			"SkelAnimation": "None"
+		},
+		{
+			"RowName": "Sea_Cucumber",
+			"Difficulty": 0,
+			"FishAreas":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Season": 0,
+						"BodyOfWater": 3
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Season": 1,
+						"BodyOfWater": 3
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Season": 2,
+						"BodyOfWater": 3
+					}
+				}
+			],
+			"Occurences":
+			[ 6, 2, 6 ],
+			"IsTrash": false,
+			"HoursToNaturallyBreed": 120,
+			"FishSkeletalMesh": "None",
+			"SkelAnimation": "None"
+		},
+		{
+			"RowName": "Sable_Fish",
+			"Difficulty": 0,
+			"FishAreas":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Season": 0,
+						"BodyOfWater": 3
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Season": 0,
+						"BodyOfWater": 1
+					}
+				}
+			],
+			"Occurences":
+			[ 5, 5 ],
+			"IsTrash": false,
+			"HoursToNaturallyBreed": 120,
+			"FishSkeletalMesh": "None",
+			"SkelAnimation": "None"
+		},
+		{
+			"RowName": "Flounder",
+			"Difficulty": 1,
+			"FishAreas":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Season": 0,
+						"BodyOfWater": 3
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Season": 0,
+						"BodyOfWater": 1
+					}
+				}
+			],
+			"Occurences":
+			[ 8, 12 ],
+			"IsTrash": false,
+			"HoursToNaturallyBreed": 72,
+			"FishSkeletalMesh": "/Game/Meshes/Fish/Fish_Animations/Flounder_rig.Flounder_rig",
+			"SkelAnimation": "AnimSequence'/Game/Meshes/Fish/Fish_Animations/Fish_1_Animation_Anim.Fish_1_Animation_Anim'"
+		},
+		{
+			"RowName": "Lamprey",
+			"Difficulty": 1,
+			"FishAreas":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Season": 0,
+						"BodyOfWater": 3
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Season": 0,
+						"BodyOfWater": 1
+					}
+				}
+			],
+			"Occurences":
+			[ 5, 4 ],
+			"IsTrash": false,
+			"HoursToNaturallyBreed": 120,
+			"FishSkeletalMesh": "None",
+			"SkelAnimation": "None"
+		},
+		{
+			"RowName": "Monkfish",
+			"Difficulty": 1,
+			"FishAreas":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Season": 0,
+						"BodyOfWater": 3
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Season": 0,
+						"BodyOfWater": 1
+					}
+				}
+			],
+			"Occurences":
+			[ 4, 3 ],
+			"IsTrash": false,
+			"HoursToNaturallyBreed": 168,
+			"FishSkeletalMesh": "/Game/Meshes/Fish/Fish_Animations/Monkfish_rig.Monkfish_rig",
+			"SkelAnimation": "AnimSequence'/Game/Meshes/Fish/Fish_Animations/Fish_1_Animation_Anim.Fish_1_Animation_Anim'"
+		},
+		{
+			"RowName": "Milkfish",
+			"Difficulty": 1,
+			"FishAreas":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Season": 0,
+						"BodyOfWater": 3
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Season": 0,
+						"BodyOfWater": 1
+					}
+				}
+			],
+			"Occurences":
+			[ 6, 5 ],
+			"IsTrash": false,
+			"HoursToNaturallyBreed": 168,
+			"FishSkeletalMesh": "/Game/Meshes/Fish/Fish_Animations/Milkfish_rig.Milkfish_rig",
+			"SkelAnimation": "AnimSequence'/Game/Meshes/Fish/Fish_Animations/Fish_1_Animation_Anim.Fish_1_Animation_Anim'"
+		},
+		{
+			"RowName": "Tetra",
+			"Difficulty": 0,
+			"FishAreas":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Season": 0,
+						"BodyOfWater": 1
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Season": 0,
+						"BodyOfWater": 0
+					}
+				}
+			],
+			"Occurences":
+			[ 5, 4 ],
+			"IsTrash": false,
+			"HoursToNaturallyBreed": 168,
+			"FishSkeletalMesh": "/Game/Meshes/Fish/Fish_Animations/Tetra_rig.Tetra_rig",
+			"SkelAnimation": "AnimSequence'/Game/Meshes/Fish/Fish_Animations/Fish_1_Animation_Anim.Fish_1_Animation_Anim'"
+		},
+		{
+			"RowName": "Scallops",
+			"Difficulty": 0,
+			"FishAreas":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Season": 0,
+						"BodyOfWater": 3
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Season": 0,
+						"BodyOfWater": 1
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Season": 1,
+						"BodyOfWater": 3
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Season": 2,
+						"BodyOfWater": 3
+					}
+				}
+			],
+			"Occurences":
+			[ 5, 6, 2, 4 ],
+			"IsTrash": false,
+			"HoursToNaturallyBreed": 72,
+			"FishSkeletalMesh": "None",
+			"SkelAnimation": "None"
+		},
+		{
+			"RowName": "Sea_Urchin",
+			"Difficulty": 0,
+			"FishAreas":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Season": 0,
+						"BodyOfWater": 3
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Season": 0,
+						"BodyOfWater": 1
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Season": 1,
+						"BodyOfWater": 3
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Season": 2,
+						"BodyOfWater": 3
+					}
+				}
+			],
+			"Occurences":
+			[ 5, 5, 4, 4 ],
+			"IsTrash": false,
+			"HoursToNaturallyBreed": 72,
+			"FishSkeletalMesh": "None",
+			"SkelAnimation": "None"
+		},
+		{
+			"RowName": "Clam",
+			"Difficulty": 0,
+			"FishAreas":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Season": 0,
+						"BodyOfWater": 3
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Season": 0,
+						"BodyOfWater": 1
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Season": 1,
+						"BodyOfWater": 3
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Season": 2,
+						"BodyOfWater": 3
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Season": 3,
+						"BodyOfWater": 3
+					}
+				}
+			],
+			"Occurences":
+			[ 7, 5, 7, 6, 5 ],
+			"IsTrash": false,
+			"HoursToNaturallyBreed": 72,
+			"FishSkeletalMesh": "None",
+			"SkelAnimation": "None"
+		},
+		{
+			"RowName": "Seaweed",
+			"Difficulty": 0,
+			"FishAreas":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Season": 0,
+						"BodyOfWater": 3
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Season": 0,
+						"BodyOfWater": 1
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Season": 1,
+						"BodyOfWater": 3
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Season": 2,
+						"BodyOfWater": 3
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Season": 3,
+						"BodyOfWater": 3
+					}
+				}
+			],
+			"Occurences":
+			[ 5, 5, 12, 10, 6 ],
+			"IsTrash": true,
+			"HoursToNaturallyBreed": 72,
+			"FishSkeletalMesh": "None",
+			"SkelAnimation": "None"
+		},
+		{
+			"RowName": "Blue_Gill",
+			"Difficulty": 0,
+			"FishAreas":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Season": 0,
+						"BodyOfWater": 0
+					}
+				}
+			],
+			"Occurences":
+			[ 9 ],
+			"IsTrash": false,
+			"HoursToNaturallyBreed": 72,
+			"FishSkeletalMesh": "/Game/Meshes/Fish/Fish_Animations/Blue_Gill_rig.Blue_Gill_rig",
+			"SkelAnimation": "AnimSequence'/Game/Meshes/Fish/Fish_Animations/Fish_1_Animation_Anim.Fish_1_Animation_Anim'"
+		},
+		{
+			"RowName": "Mullet",
+			"Difficulty": 1,
+			"FishAreas":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Season": 0,
+						"BodyOfWater": 0
+					}
+				}
+			],
+			"Occurences":
+			[ 8 ],
+			"IsTrash": false,
+			"HoursToNaturallyBreed": 72,
+			"FishSkeletalMesh": "/Game/Meshes/Fish/Fish_Animations/Mullet_rig.Mullet_rig",
+			"SkelAnimation": "AnimSequence'/Game/Meshes/Fish/Fish_Animations/Fish_1_Animation_Anim.Fish_1_Animation_Anim'"
+		},
+		{
+			"RowName": "Catfish",
+			"Difficulty": 1,
+			"FishAreas":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Season": 0,
+						"BodyOfWater": 0
+					}
+				}
+			],
+			"Occurences":
+			[ 6 ],
+			"IsTrash": false,
+			"HoursToNaturallyBreed": 168,
+			"FishSkeletalMesh": "/Game/Meshes/Fish/Fish_Animations/Catfish_rig.Catfish_rig",
+			"SkelAnimation": "AnimSequence'/Game/Meshes/Fish/Fish_Animations/Fish_2_Animation.Fish_2_Animation'"
+		},
+		{
+			"RowName": "Black_Bass",
+			"Difficulty": 1,
+			"FishAreas":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Season": 0,
+						"BodyOfWater": 0
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Season": 1,
+						"BodyOfWater": 0
+					}
+				}
+			],
+			"Occurences":
+			[ 9, 15 ],
+			"IsTrash": false,
+			"HoursToNaturallyBreed": 120,
+			"FishSkeletalMesh": "/Game/Meshes/Fish/Fish_Animations/Black_Bass_rig.Black_Bass_rig",
+			"SkelAnimation": "AnimSequence'/Game/Meshes/Fish/Fish_Animations/Fish_1_Animation_Anim.Fish_1_Animation_Anim'"
+		},
+		{
+			"RowName": "Snakehead",
+			"Difficulty": 2,
+			"FishAreas":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Season": 0,
+						"BodyOfWater": 0
+					}
+				}
+			],
+			"Occurences":
+			[ 5 ],
+			"IsTrash": false,
+			"HoursToNaturallyBreed": 168,
+			"FishSkeletalMesh": "/Game/Meshes/Fish/Fish_Animations/Snakehead_rig.Snakehead_rig",
+			"SkelAnimation": "None"
+		},
+		{
+			"RowName": "Lake_Smelt",
+			"Difficulty": 0,
+			"FishAreas":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Season": 0,
+						"BodyOfWater": 0
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Season": 1,
+						"BodyOfWater": 0
+					}
+				}
+			],
+			"Occurences":
+			[ 9, 15 ],
+			"IsTrash": false,
+			"HoursToNaturallyBreed": 120,
+			"FishSkeletalMesh": "/Game/Meshes/Fish/Fish_Animations/Lake_Smelt_rig.Lake_Smelt_rig",
+			"SkelAnimation": "AnimSequence'/Game/Meshes/Fish/Fish_Animations/Fish_1_Animation_Anim.Fish_1_Animation_Anim'"
+		},
+		{
+			"RowName": "Northern_Pike",
+			"Difficulty": 1,
+			"FishAreas":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Season": 0,
+						"BodyOfWater": 0
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Season": 1,
+						"BodyOfWater": 0
+					}
+				}
+			],
+			"Occurences":
+			[ 8, 15 ],
+			"IsTrash": false,
+			"HoursToNaturallyBreed": 72,
+			"FishSkeletalMesh": "/Game/Meshes/Fish/Fish_Animations/Northern_Pike_rig.Northern_Pike_rig",
+			"SkelAnimation": "AnimSequence'/Game/Meshes/Fish/Fish_Animations/Fish_2_Animation.Fish_2_Animation'"
+		},
+		{
+			"RowName": "Rock_Bass",
+			"Difficulty": 0,
+			"FishAreas":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Season": 0,
+						"BodyOfWater": 0
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Season": 1,
+						"BodyOfWater": 0
+					}
+				}
+			],
+			"Occurences":
+			[ 8, 10 ],
+			"IsTrash": false,
+			"HoursToNaturallyBreed": 120,
+			"FishSkeletalMesh": "/Game/Meshes/Fish/Fish_Animations/Rock_Bass_rig.Rock_Bass_rig",
+			"SkelAnimation": "AnimSequence'/Game/Meshes/Fish/Fish_Animations/Fish_1_Animation_Anim.Fish_1_Animation_Anim'"
+		},
+		{
+			"RowName": "Largemouth_Bass",
+			"Difficulty": 3,
+			"FishAreas":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Season": 0,
+						"BodyOfWater": 0
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Season": 1,
+						"BodyOfWater": 0
+					}
+				}
+			],
+			"Occurences":
+			[ 4, 10 ],
+			"IsTrash": false,
+			"HoursToNaturallyBreed": 336,
+			"FishSkeletalMesh": "/Game/Meshes/Fish/Fish_Animations/Largemouth_Bass_rig.Largemouth_Bass_rig",
+			"SkelAnimation": "AnimSequence'/Game/Meshes/Fish/Fish_Animations/Fish_2_Animation.Fish_2_Animation'"
+		},
+		{
+			"RowName": "Eel_Saltwater",
+			"Difficulty": 0,
+			"FishAreas":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Season": 0,
+						"BodyOfWater": 1
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Season": 1,
+						"BodyOfWater": 1
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Season": 2,
+						"BodyOfWater": 1
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Season": 3,
+						"BodyOfWater": 1
+					}
+				}
+			],
+			"Occurences":
+			[ 10, 10, 10, 10 ],
+			"IsTrash": false,
+			"HoursToNaturallyBreed": 72,
+			"FishSkeletalMesh": "None",
+			"SkelAnimation": "None"
+		},
+		{
+			"RowName": "Bream",
+			"Difficulty": 0,
+			"FishAreas":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Season": 0,
+						"BodyOfWater": 2
+					}
+				}
+			],
+			"Occurences":
+			[ 25 ],
+			"IsTrash": false,
+			"HoursToNaturallyBreed": 72,
+			"FishSkeletalMesh": "/Game/Meshes/Fish/Fish_Animations/Bream_rig.Bream_rig",
+			"SkelAnimation": "AnimSequence'/Game/Meshes/Fish/Fish_Animations/Fish_1_Animation_Anim.Fish_1_Animation_Anim'"
+		},
+		{
+			"RowName": "Tuna",
+			"Difficulty": 3,
+			"FishAreas":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Season": 1,
+						"BodyOfWater": 3
+					}
+				}
+			],
+			"Occurences":
+			[ 3 ],
+			"IsTrash": false,
+			"HoursToNaturallyBreed": 336,
+			"FishSkeletalMesh": "None",
+			"SkelAnimation": "None"
+		},
+		{
+			"RowName": "Haddock",
+			"Difficulty": 2,
+			"FishAreas":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Season": 1,
+						"BodyOfWater": 3
+					}
+				}
+			],
+			"Occurences":
+			[ 4 ],
+			"IsTrash": false,
+			"HoursToNaturallyBreed": 168,
+			"FishSkeletalMesh": "/Game/Meshes/Fish/Fish_Animations/Haddock_rig.Haddock_rig",
+			"SkelAnimation": "AnimSequence'/Game/Meshes/Fish/Fish_Animations/Fish_1_Animation_Anim.Fish_1_Animation_Anim'"
+		},
+		{
+			"RowName": "Mahi_Mahi",
+			"Difficulty": 3,
+			"FishAreas":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Season": 1,
+						"BodyOfWater": 3
+					}
+				}
+			],
+			"Occurences":
+			[ 3 ],
+			"IsTrash": false,
+			"HoursToNaturallyBreed": 168,
+			"FishSkeletalMesh": "/Game/Meshes/Fish/Fish_Animations/Mahi_Mahi_rig.Mahi_Mahi_rig",
+			"SkelAnimation": "AnimSequence'/Game/Meshes/Fish/Fish_Animations/Fish_2_Animation.Fish_2_Animation'"
+		},
+		{
+			"RowName": "Giant_Trevally",
+			"Difficulty": 4,
+			"FishAreas":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Season": 1,
+						"BodyOfWater": 3
+					}
+				}
+			],
+			"Occurences":
+			[ 3 ],
+			"IsTrash": false,
+			"HoursToNaturallyBreed": 600,
+			"FishSkeletalMesh": "/Game/Meshes/Fish/Fish_Animations/Giant_Trevally_rig.Giant_Trevally_rig",
+			"SkelAnimation": "AnimSequence'/Game/Meshes/Fish/Fish_Animations/Fish_2_Animation.Fish_2_Animation'"
+		},
+		{
+			"RowName": "Clown_Fish",
+			"Difficulty": 1,
+			"FishAreas":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Season": 1,
+						"BodyOfWater": 3
+					}
+				}
+			],
+			"Occurences":
+			[ 2 ],
+			"IsTrash": false,
+			"HoursToNaturallyBreed": 168,
+			"FishSkeletalMesh": "/Game/Meshes/Fish/Fish_Animations/Clown_Fish_rig.Clown_Fish_rig",
+			"SkelAnimation": "AnimSequence'/Game/Meshes/Fish/Fish_Animations/Fish_1_Animation_Anim.Fish_1_Animation_Anim'"
+		},
+		{
+			"RowName": "Humphead_Wrasse",
+			"Difficulty": 2,
+			"FishAreas":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Season": 1,
+						"BodyOfWater": 3
+					}
+				}
+			],
+			"Occurences":
+			[ 2 ],
+			"IsTrash": false,
+			"HoursToNaturallyBreed": 168,
+			"FishSkeletalMesh": "/Game/Meshes/Fish/Fish_Animations/Humphead_Wrasse_rig.Humphead_Wrasse_rig",
+			"SkelAnimation": "AnimSequence'/Game/Meshes/Fish/Fish_Animations/Fish_2_Animation.Fish_2_Animation'"
+		},
+		{
+			"RowName": "Wahoo",
+			"Difficulty": 2,
+			"FishAreas":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Season": 1,
+						"BodyOfWater": 3
+					}
+				}
+			],
+			"Occurences":
+			[ 2 ],
+			"IsTrash": false,
+			"HoursToNaturallyBreed": 168,
+			"FishSkeletalMesh": "/Game/Meshes/Fish/Fish_Animations/Wahoo_rig.Wahoo_rig",
+			"SkelAnimation": "AnimSequence'/Game/Meshes/Fish/Fish_Animations/Fish_2_Animation.Fish_2_Animation'"
+		},
+		{
+			"RowName": "Ocean_Sunfish",
+			"Difficulty": 0,
+			"FishAreas":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Season": 1,
+						"BodyOfWater": 3
+					}
+				}
+			],
+			"Occurences":
+			[ 3 ],
+			"IsTrash": false,
+			"HoursToNaturallyBreed": 600,
+			"FishSkeletalMesh": "/Game/Meshes/Fish/Fish_Animations/Ocean_Sunfish_rig.Ocean_Sunfish_rig",
+			"SkelAnimation": "AnimSequence'/Game/Meshes/Fish/Fish_Animations/Fish_3_Animation.Fish_3_Animation'"
+		},
+		{
+			"RowName": "Lobster",
+			"Difficulty": 1,
+			"FishAreas":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Season": 1,
+						"BodyOfWater": 3
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Season": 1,
+						"BodyOfWater": 1
+					}
+				}
+			],
+			"Occurences":
+			[ 3, 5 ],
+			"IsTrash": false,
+			"HoursToNaturallyBreed": 168,
+			"FishSkeletalMesh": "None",
+			"SkelAnimation": "None"
+		},
+		{
+			"RowName": "Lion_Fish",
+			"Difficulty": 2,
+			"FishAreas":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Season": 1,
+						"BodyOfWater": 3
+					}
+				}
+			],
+			"Occurences":
+			[ 2 ],
+			"IsTrash": false,
+			"HoursToNaturallyBreed": 168,
+			"FishSkeletalMesh": "/Game/Meshes/Fish/Fish_Animations/Lionfish_rig.Lionfish_rig",
+			"SkelAnimation": "AnimSequence'/Game/Meshes/Fish/Fish_Animations/Fish_1_Animation_Anim.Fish_1_Animation_Anim'"
+		},
+		{
+			"RowName": "Dungeoness_Crab",
+			"Difficulty": 2,
+			"FishAreas":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Season": 1,
+						"BodyOfWater": 3
+					}
+				}
+			],
+			"Occurences":
+			[ 2 ],
+			"IsTrash": false,
+			"HoursToNaturallyBreed": 168,
+			"FishSkeletalMesh": "None",
+			"SkelAnimation": "None"
+		},
+		{
+			"RowName": "Sting_Ray",
+			"Difficulty": 2,
+			"FishAreas":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Season": 1,
+						"BodyOfWater": 3
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Season": 2,
+						"BodyOfWater": 3
+					}
+				}
+			],
+			"Occurences":
+			[ 2, 3 ],
+			"IsTrash": false,
+			"HoursToNaturallyBreed": 168,
+			"FishSkeletalMesh": "None",
+			"SkelAnimation": "None"
+		},
+		{
+			"RowName": "Kelp_Bass",
+			"Difficulty": 0,
+			"FishAreas":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Season": 1,
+						"BodyOfWater": 3
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Season": 1,
+						"BodyOfWater": 1
+					}
+				}
+			],
+			"Occurences":
+			[ 4, 7 ],
+			"IsTrash": false,
+			"HoursToNaturallyBreed": 168,
+			"FishSkeletalMesh": "/Game/Meshes/Fish/Fish_Animations/Kelp_Bass_rig.Kelp_Bass_rig",
+			"SkelAnimation": "AnimSequence'/Game/Meshes/Fish/Fish_Animations/Fish_1_Animation_Anim.Fish_1_Animation_Anim'"
+		},
+		{
+			"RowName": "File_Fish",
+			"Difficulty": 1,
+			"FishAreas":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Season": 1,
+						"BodyOfWater": 3
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Season": 1,
+						"BodyOfWater": 1
+					}
+				}
+			],
+			"Occurences":
+			[ 2, 6 ],
+			"IsTrash": false,
+			"HoursToNaturallyBreed": 168,
+			"FishSkeletalMesh": "/Game/Meshes/Fish/Fish_Animations/Filefish_rig.Filefish_rig",
+			"SkelAnimation": "AnimSequence'/Game/Meshes/Fish/Fish_Animations/Fish_1_Animation_Anim.Fish_1_Animation_Anim'"
+		},
+		{
+			"RowName": "Fluke",
+			"Difficulty": 0,
+			"FishAreas":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Season": 1,
+						"BodyOfWater": 3
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Season": 1,
+						"BodyOfWater": 1
+					}
+				}
+			],
+			"Occurences":
+			[ 4, 7 ],
+			"IsTrash": false,
+			"HoursToNaturallyBreed": 120,
+			"FishSkeletalMesh": "/Game/Meshes/Fish/Fish_Animations/Fluke_rig.Fluke_rig",
+			"SkelAnimation": "AnimSequence'/Game/Meshes/Fish/Fish_Animations/Fish_1_Animation_Anim.Fish_1_Animation_Anim'"
+		},
+		{
+			"RowName": "Scad",
+			"Difficulty": 0,
+			"FishAreas":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Season": 1,
+						"BodyOfWater": 3
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Season": 1,
+						"BodyOfWater": 1
+					}
+				}
+			],
+			"Occurences":
+			[ 2, 8 ],
+			"IsTrash": false,
+			"HoursToNaturallyBreed": 168,
+			"FishSkeletalMesh": "/Game/Meshes/Fish/Fish_Animations/Scad_rig.Scad_rig",
+			"SkelAnimation": "AnimSequence'/Game/Meshes/Fish/Fish_Animations/Fish_1_Animation_Anim.Fish_1_Animation_Anim'"
+		},
+		{
+			"RowName": "Squid",
+			"Difficulty": 0,
+			"FishAreas":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Season": 1,
+						"BodyOfWater": 3
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Season": 1,
+						"BodyOfWater": 1
+					}
+				}
+			],
+			"Occurences":
+			[ 2, 5 ],
+			"IsTrash": false,
+			"HoursToNaturallyBreed": 120,
+			"FishSkeletalMesh": "None",
+			"SkelAnimation": "None"
+		},
+		{
+			"RowName": "Saltwater_Catfish",
+			"Difficulty": 2,
+			"FishAreas":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Season": 1,
+						"BodyOfWater": 3
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Season": 1,
+						"BodyOfWater": 1
+					}
+				}
+			],
+			"Occurences":
+			[ 2, 6 ],
+			"IsTrash": false,
+			"HoursToNaturallyBreed": 168,
+			"FishSkeletalMesh": "/Game/Meshes/Fish/Fish_Animations/Catfish_rig.Catfish_rig",
+			"SkelAnimation": "AnimSequence'/Game/Meshes/Fish/Fish_Animations/Fish_2_Animation.Fish_2_Animation'"
+		},
+		{
+			"RowName": "Pufferfish",
+			"Difficulty": 0,
+			"FishAreas":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Season": 1,
+						"BodyOfWater": 3
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Season": 1,
+						"BodyOfWater": 1
+					}
+				}
+			],
+			"Occurences":
+			[ 4, 5 ],
+			"IsTrash": false,
+			"HoursToNaturallyBreed": 168,
+			"FishSkeletalMesh": "None",
+			"SkelAnimation": "None"
+		},
+		{
+			"RowName": "Snapper",
+			"Difficulty": 2,
+			"FishAreas":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Season": 1,
+						"BodyOfWater": 3
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Season": 1,
+						"BodyOfWater": 1
+					}
+				}
+			],
+			"Occurences":
+			[ 2, 5 ],
+			"IsTrash": false,
+			"HoursToNaturallyBreed": 168,
+			"FishSkeletalMesh": "/Game/Meshes/Fish/Fish_Animations/Snapper2_rig.Snapper2_rig",
+			"SkelAnimation": "AnimSequence'/Game/Meshes/Fish/Fish_Animations/Fish_2_Animation.Fish_2_Animation'"
+		},
+		{
+			"RowName": "Herring",
+			"Difficulty": 1,
+			"FishAreas":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Season": 1,
+						"BodyOfWater": 3
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Season": 1,
+						"BodyOfWater": 1
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Season": 2,
+						"BodyOfWater": 3
+					}
+				}
+			],
+			"Occurences":
+			[ 2, 5, 5 ],
+			"IsTrash": false,
+			"HoursToNaturallyBreed": 120,
+			"FishSkeletalMesh": "/Game/Meshes/Fish/Fish_Animations/Herring_rig.Herring_rig",
+			"SkelAnimation": "AnimSequence'/Game/Meshes/Fish/Fish_Animations/Fish_1_Animation_Anim.Fish_1_Animation_Anim'"
+		},
+		{
+			"RowName": "Jellyfish",
+			"Difficulty": 0,
+			"FishAreas":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Season": 1,
+						"BodyOfWater": 3
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Season": 1,
+						"BodyOfWater": 1
+					}
+				}
+			],
+			"Occurences":
+			[ 2, 8 ],
+			"IsTrash": false,
+			"HoursToNaturallyBreed": 120,
+			"FishSkeletalMesh": "None",
+			"SkelAnimation": "None"
+		},
+		{
+			"RowName": "Crab",
+			"Difficulty": 1,
+			"FishAreas":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Season": 1,
+						"BodyOfWater": 3
+					}
+				}
+			],
+			"Occurences":
+			[ 4 ],
+			"IsTrash": false,
+			"HoursToNaturallyBreed": 120,
+			"FishSkeletalMesh": "None",
+			"SkelAnimation": "None"
+		},
+		{
+			"RowName": "Shrimp",
+			"Difficulty": 0,
+			"FishAreas":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Season": 1,
+						"BodyOfWater": 3
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Season": 1,
+						"BodyOfWater": 1
+					}
+				}
+			],
+			"Occurences":
+			[ 2, 6 ],
+			"IsTrash": false,
+			"HoursToNaturallyBreed": 72,
+			"FishSkeletalMesh": "None",
+			"SkelAnimation": "None"
+		},
+		{
+			"RowName": "Spiny_Lobster",
+			"Difficulty": 2,
+			"FishAreas":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Season": 1,
+						"BodyOfWater": 3
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Season": 1,
+						"BodyOfWater": 1
+					}
+				}
+			],
+			"Occurences":
+			[ 4 ],
+			"IsTrash": false,
+			"HoursToNaturallyBreed": 168,
+			"FishSkeletalMesh": "None",
+			"SkelAnimation": "None"
+		},
+		{
+			"RowName": "Arowana",
+			"Difficulty": 4,
+			"FishAreas":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Season": 1,
+						"BodyOfWater": 3
+					}
+				}
+			],
+			"Occurences":
+			[ 2 ],
+			"IsTrash": false,
+			"HoursToNaturallyBreed": 600,
+			"FishSkeletalMesh": "/Game/Meshes/Fish/Fish_Animations/Arowana_rig.Arowana_rig",
+			"SkelAnimation": "AnimSequence'/Game/Meshes/Fish/Fish_Animations/Fish_2_Animation.Fish_2_Animation'"
+		},
+		{
+			"RowName": "Butterfly_Fish",
+			"Difficulty": 2,
+			"FishAreas":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Season": 1,
+						"BodyOfWater": 3
+					}
+				}
+			],
+			"Occurences":
+			[ 2 ],
+			"IsTrash": false,
+			"HoursToNaturallyBreed": 168,
+			"FishSkeletalMesh": "None",
+			"SkelAnimation": "None"
+		},
+		{
+			"RowName": "Coelacanth",
+			"Difficulty": 4,
+			"FishAreas":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Season": 1,
+						"BodyOfWater": 3
+					}
+				}
+			],
+			"Occurences":
+			[ 3 ],
+			"IsTrash": false,
+			"HoursToNaturallyBreed": 600,
+			"FishSkeletalMesh": "/Game/Meshes/Fish/Fish_Animations/Coelacanth_rig.Coelacanth_rig",
+			"SkelAnimation": "AnimSequence'/Game/Meshes/Fish/Fish_Animations/Fish_2_Animation.Fish_2_Animation'"
+		},
+		{
+			"RowName": "Rock_Lobster",
+			"Difficulty": 1,
+			"FishAreas":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Season": 1,
+						"BodyOfWater": 1
+					}
+				}
+			],
+			"Occurences":
+			[ 6 ],
+			"IsTrash": false,
+			"HoursToNaturallyBreed": 168,
+			"FishSkeletalMesh": "None",
+			"SkelAnimation": "None"
+		},
+		{
+			"RowName": "Tilapia",
+			"Difficulty": 1,
+			"FishAreas":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Season": 1,
+						"BodyOfWater": 1
+					}
+				}
+			],
+			"Occurences":
+			[ 6 ],
+			"IsTrash": false,
+			"HoursToNaturallyBreed": 120,
+			"FishSkeletalMesh": "/Game/Meshes/Fish/Fish_Animations/Tilapia_rig.Tilapia_rig",
+			"SkelAnimation": "AnimSequence'/Game/Meshes/Fish/Fish_Animations/Fish_1_Animation_Anim.Fish_1_Animation_Anim'"
+		},
+		{
+			"RowName": "Arapaima",
+			"Difficulty": 4,
+			"FishAreas":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Season": 1,
+						"BodyOfWater": 2
+					}
+				}
+			],
+			"Occurences":
+			[ 4 ],
+			"IsTrash": false,
+			"HoursToNaturallyBreed": 600,
+			"FishSkeletalMesh": "/Game/Meshes/Fish/Fish_Animations/Arapaima_rig.Arapaima_rig",
+			"SkelAnimation": "AnimSequence'/Game/Meshes/Fish/Fish_Animations/Fish_2_Animation.Fish_2_Animation'"
+		},
+		{
+			"RowName": "Tiger_Fish",
+			"Difficulty": 1,
+			"FishAreas":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Season": 1,
+						"BodyOfWater": 2
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Season": 0,
+						"BodyOfWater": 2
+					}
+				}
+			],
+			"Occurences":
+			[ 11, 4 ],
+			"IsTrash": false,
+			"HoursToNaturallyBreed": 72,
+			"FishSkeletalMesh": "/Game/Meshes/Fish/Fish_Animations/Tigerfish_rig.Tigerfish_rig",
+			"SkelAnimation": "AnimSequence'/Game/Meshes/Fish/Fish_Animations/Fish_2_Animation.Fish_2_Animation'"
+		},
+		{
+			"RowName": "Dace",
+			"Difficulty": 0,
+			"FishAreas":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Season": 1,
+						"BodyOfWater": 2
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Season": 0,
+						"BodyOfWater": 2
+					}
+				}
+			],
+			"Occurences":
+			[ 21, 5 ],
+			"IsTrash": false,
+			"HoursToNaturallyBreed": 120,
+			"FishSkeletalMesh": "/Game/Meshes/Fish/Fish_Animations/Dace_rig.Dace_rig",
+			"SkelAnimation": "AnimSequence'/Game/Meshes/Fish/Fish_Animations/Fish_1_Animation_Anim.Fish_1_Animation_Anim'"
+		},
+		{
+			"RowName": "Black_Sea_Nettle",
+			"Difficulty": 4,
+			"FishAreas":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Season": 2,
+						"BodyOfWater": 3
+					}
+				}
+			],
+			"Occurences":
+			[ 1 ],
+			"IsTrash": false,
+			"HoursToNaturallyBreed": 600,
+			"FishSkeletalMesh": "None",
+			"SkelAnimation": "None"
+		},
+		{
+			"RowName": "Cod",
+			"Difficulty": 2,
+			"FishAreas":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Season": 2,
+						"BodyOfWater": 3
+					}
+				}
+			],
+			"Occurences":
+			[ 5 ],
+			"IsTrash": false,
+			"HoursToNaturallyBreed": 120,
+			"FishSkeletalMesh": "/Game/Meshes/Fish/Fish_Animations/Cod_rig.Cod_rig",
+			"SkelAnimation": "AnimSequence'/Game/Meshes/Fish/Fish_Animations/Fish_2_Animation.Fish_2_Animation'"
+		},
+		{
+			"RowName": "Crawdad",
+			"Difficulty": 1,
+			"FishAreas":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Season": 2,
+						"BodyOfWater": 3
+					}
+				}
+			],
+			"Occurences":
+			[ 5 ],
+			"IsTrash": false,
+			"HoursToNaturallyBreed": 168,
+			"FishSkeletalMesh": "None",
+			"SkelAnimation": "None"
+		},
+		{
+			"RowName": "Sea_Bass",
+			"Difficulty": 1,
+			"FishAreas":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Season": 2,
+						"BodyOfWater": 3
+					}
+				}
+			],
+			"Occurences":
+			[ 5 ],
+			"IsTrash": false,
+			"HoursToNaturallyBreed": 120,
+			"FishSkeletalMesh": "/Game/Meshes/Fish/Fish_Animations/Sea_Bass_rig.Sea_Bass_rig",
+			"SkelAnimation": "AnimSequence'/Game/Meshes/Fish/Fish_Animations/Fish_1_Animation_Anim.Fish_1_Animation_Anim'"
+		},
+		{
+			"RowName": "Grouper",
+			"Difficulty": 3,
+			"FishAreas":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Season": 2,
+						"BodyOfWater": 3
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Season": 2,
+						"BodyOfWater": 1
+					}
+				}
+			],
+			"Occurences":
+			[ 3, 12 ],
+			"IsTrash": false,
+			"HoursToNaturallyBreed": 168,
+			"FishSkeletalMesh": "/Game/Meshes/Fish/Fish_Animations/Grouper_rig.Grouper_rig",
+			"SkelAnimation": "AnimSequence'/Game/Meshes/Fish/Fish_Animations/Fish_2_Animation.Fish_2_Animation'"
+		},
+		{
+			"RowName": "Saury_Pike",
+			"Difficulty": 0,
+			"FishAreas":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Season": 2,
+						"BodyOfWater": 3
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Season": 2,
+						"BodyOfWater": 1
+					}
+				}
+			],
+			"Occurences":
+			[ 6, 20 ],
+			"IsTrash": false,
+			"HoursToNaturallyBreed": 120,
+			"FishSkeletalMesh": "/Game/Meshes/Fish/Fish_Animations/Saury_Pike_rig.Saury_Pike_rig",
+			"SkelAnimation": "AnimSequence'/Game/Meshes/Fish/Fish_Animations/Fish_1_Animation_Anim.Fish_1_Animation_Anim'"
+		},
+		{
+			"RowName": "Greenling",
+			"Difficulty": 1,
+			"FishAreas":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Season": 2,
+						"BodyOfWater": 3
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Season": 2,
+						"BodyOfWater": 1
+					}
+				}
+			],
+			"Occurences":
+			[ 5, 22 ],
+			"IsTrash": false,
+			"HoursToNaturallyBreed": 168,
+			"FishSkeletalMesh": "/Game/Meshes/Fish/Fish_Animations/Greenling_rig.Greenling_rig",
+			"SkelAnimation": "AnimSequence'/Game/Meshes/Fish/Fish_Animations/Fish_1_Animation_Anim.Fish_1_Animation_Anim'"
+		},
+		{
+			"RowName": "Spider_Crab",
+			"Difficulty": 0,
+			"FishAreas":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Season": 2,
+						"BodyOfWater": 3
+					}
+				}
+			],
+			"Occurences":
+			[ 5 ],
+			"IsTrash": false,
+			"HoursToNaturallyBreed": 168,
+			"FishSkeletalMesh": "None",
+			"SkelAnimation": "None"
+		},
+		{
+			"RowName": "Zebra_Mussel",
+			"Difficulty": 1,
+			"FishAreas":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Season": 2,
+						"BodyOfWater": 3
+					}
+				}
+			],
+			"Occurences":
+			[ 5 ],
+			"IsTrash": false,
+			"HoursToNaturallyBreed": 120,
+			"FishSkeletalMesh": "None",
+			"SkelAnimation": "None"
+		},
+		{
+			"RowName": "Oar_Fish",
+			"Difficulty": 4,
+			"FishAreas":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Season": 2,
+						"BodyOfWater": 3
+					}
+				}
+			],
+			"Occurences":
+			[ 1 ],
+			"IsTrash": false,
+			"HoursToNaturallyBreed": 600,
+			"FishSkeletalMesh": "None",
+			"SkelAnimation": "None"
+		},
+		{
+			"RowName": "Anchovies",
+			"Difficulty": 0,
+			"FishAreas":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Season": 2,
+						"BodyOfWater": 3
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Season": 2,
+						"BodyOfWater": 1
+					}
+				}
+			],
+			"Occurences":
+			[ 4, 19 ],
+			"IsTrash": false,
+			"HoursToNaturallyBreed": 72,
+			"FishSkeletalMesh": "/Game/Meshes/Fish/Fish_Animations/Anchovies_rig.Anchovies_rig",
+			"SkelAnimation": "AnimSequence'/Game/Meshes/Fish/Fish_Animations/Fish_1_Animation_Anim.Fish_1_Animation_Anim'"
+		},
+		{
+			"RowName": "Lake_Eel",
+			"Difficulty": 1,
+			"FishAreas":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Season": 2,
+						"BodyOfWater": 0
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Season": 3,
+						"BodyOfWater": 0
+					}
+				}
+			],
+			"Occurences":
+			[ 13, 10 ],
+			"IsTrash": false,
+			"HoursToNaturallyBreed": 120,
+			"FishSkeletalMesh": "None",
+			"SkelAnimation": "None"
+		},
+		{
+			"RowName": "Carp_Gold",
+			"Difficulty": 0,
+			"FishAreas":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Season": 2,
+						"BodyOfWater": 0
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Season": 3,
+						"BodyOfWater": 0
+					}
+				}
+			],
+			"Occurences":
+			[ 12, 10 ],
+			"IsTrash": false,
+			"HoursToNaturallyBreed": 120,
+			"FishSkeletalMesh": "/Game/Meshes/Fish/Fish_Animations/Gold_Carp_rig.Gold_Carp_rig",
+			"SkelAnimation": "AnimSequence'/Game/Meshes/Fish/Fish_Animations/Fish_1_Animation_Anim.Fish_1_Animation_Anim'"
+		},
+		{
+			"RowName": "Walleye",
+			"Difficulty": 0,
+			"FishAreas":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Season": 2,
+						"BodyOfWater": 0
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Season": 3,
+						"BodyOfWater": 0
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Season": 1,
+						"BodyOfWater": 0
+					}
+				}
+			],
+			"Occurences":
+			[ 12, 10, 10 ],
+			"IsTrash": false,
+			"HoursToNaturallyBreed": 120,
+			"FishSkeletalMesh": "/Game/Meshes/Fish/Fish_Animations/Walleye_rig.Walleye_rig",
+			"SkelAnimation": "AnimSequence'/Game/Meshes/Fish/Fish_Animations/Fish_1_Animation_Anim.Fish_1_Animation_Anim'"
+		},
+		{
+			"RowName": "Goldfish",
+			"Difficulty": 0,
+			"FishAreas":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Season": 2,
+						"BodyOfWater": 0
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Season": 3,
+						"BodyOfWater": 0
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Season": 1,
+						"BodyOfWater": 0
+					}
+				}
+			],
+			"Occurences":
+			[ 16, 19, 5 ],
+			"IsTrash": false,
+			"HoursToNaturallyBreed": 120,
+			"FishSkeletalMesh": "/Game/Meshes/Fish/Fish_Animations/Goldfish_rig.Goldfish_rig",
+			"SkelAnimation": "AnimSequence'/Game/Meshes/Fish/Fish_Animations/Fish_1_Animation_Anim.Fish_1_Animation_Anim'"
+		},
+		{
+			"RowName": "Koi",
+			"Difficulty": 2,
+			"FishAreas":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Season": 2,
+						"BodyOfWater": 0
+					}
+				}
+			],
+			"Occurences":
+			[ 8 ],
+			"IsTrash": false,
+			"HoursToNaturallyBreed": 168,
+			"FishSkeletalMesh": "None",
+			"SkelAnimation": "None"
+		},
+		{
+			"RowName": "Betta_Fish",
+			"Difficulty": 1,
+			"FishAreas":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Season": 2,
+						"BodyOfWater": 0
+					}
+				}
+			],
+			"Occurences":
+			[ 3 ],
+			"IsTrash": false,
+			"HoursToNaturallyBreed": 168,
+			"FishSkeletalMesh": "/Game/Meshes/Fish/Fish_Animations/Beta_Fish_rig.Beta_Fish_rig",
+			"SkelAnimation": "AnimSequence'/Game/Meshes/Fish/Fish_Animations/Fish_1_Animation_Anim.Fish_1_Animation_Anim'"
+		},
+		{
+			"RowName": "Cherry_Salmon",
+			"Difficulty": 1,
+			"FishAreas":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Season": 2,
+						"BodyOfWater": 2
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Season": 1,
+						"BodyOfWater": 2
+					}
+				}
+			],
+			"Occurences":
+			[ 15, 10 ],
+			"IsTrash": false,
+			"HoursToNaturallyBreed": 120,
+			"FishSkeletalMesh": "/Game/Meshes/Fish/Fish_Animations/Cherry_Salmon_rig.Cherry_Salmon_rig",
+			"SkelAnimation": "AnimSequence'/Game/Meshes/Fish/Fish_Animations/Fish_1_Animation_Anim.Fish_1_Animation_Anim'"
+		},
+		{
+			"RowName": "Bitterling",
+			"Difficulty": 0,
+			"FishAreas":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Season": 2,
+						"BodyOfWater": 2
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Season": 0,
+						"BodyOfWater": 2
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Season": 1,
+						"BodyOfWater": 2
+					}
+				}
+			],
+			"Occurences":
+			[ 15, 6, 10 ],
+			"IsTrash": false,
+			"HoursToNaturallyBreed": 72,
+			"FishSkeletalMesh": "/Game/Meshes/Fish/Fish_Animations/Bitterling_rig.Bitterling_rig",
+			"SkelAnimation": "AnimSequence'/Game/Meshes/Fish/Fish_Animations/Fish_3_Animation.Fish_3_Animation'"
+		},
+		{
+			"RowName": "Big_Head_Carp",
+			"Difficulty": 2,
+			"FishAreas":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Season": 2,
+						"BodyOfWater": 2
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Season": 0,
+						"BodyOfWater": 2
+					}
+				}
+			],
+			"Occurences":
+			[ 15, 5 ],
+			"IsTrash": false,
+			"HoursToNaturallyBreed": 120,
+			"FishSkeletalMesh": "/Game/Meshes/Fish/Fish_Animations/Big_Head_Carp_rig.Big_Head_Carp_rig",
+			"SkelAnimation": "AnimSequence'/Game/Meshes/Fish/Fish_Animations/Fish_3_Animation.Fish_3_Animation'"
+		},
+		{
+			"RowName": "Sturgeon",
+			"Difficulty": 3,
+			"FishAreas":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Season": 2,
+						"BodyOfWater": 2
+					}
+				}
+			],
+			"Occurences":
+			[ 5 ],
+			"IsTrash": false,
+			"HoursToNaturallyBreed": 168,
+			"FishSkeletalMesh": "/Game/Meshes/Fish/Fish_Animations/Sturgeon_rig.Sturgeon_rig",
+			"SkelAnimation": "None"
+		},
+		{
+			"RowName": "Mitten_Crab",
+			"Difficulty": 1,
+			"FishAreas":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Season": 2,
+						"BodyOfWater": 2
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Season": 1,
+						"BodyOfWater": 2
+					}
+				}
+			],
+			"Occurences":
+			[ 20, 10 ],
+			"IsTrash": false,
+			"HoursToNaturallyBreed": 72,
+			"FishSkeletalMesh": "None",
+			"SkelAnimation": "None"
+		},
+		{
+			"RowName": "Needle_Fish",
+			"Difficulty": 0,
+			"FishAreas":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Season": 3,
+						"BodyOfWater": 3
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Season": 3,
+						"BodyOfWater": 1
+					}
+				}
+			],
+			"Occurences":
+			[ 3, 7 ],
+			"IsTrash": false,
+			"HoursToNaturallyBreed": 168,
+			"FishSkeletalMesh": "/Game/Meshes/Fish/Fish_Animations/Needlefish_rig.Needlefish_rig",
+			"SkelAnimation": "AnimSequence'/Game/Meshes/Fish/Fish_Animations/Fish_2_Animation.Fish_2_Animation'"
+		},
+		{
+			"RowName": "Rock_Trout",
+			"Difficulty": 1,
+			"FishAreas":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Season": 3,
+						"BodyOfWater": 3
+					}
+				}
+			],
+			"Occurences":
+			[ 3 ],
+			"IsTrash": false,
+			"HoursToNaturallyBreed": 168,
+			"FishSkeletalMesh": "/Game/Meshes/Fish/Fish_Animations/Rock_Trout_rig.Rock_Trout_rig",
+			"SkelAnimation": "AnimSequence'/Game/Meshes/Fish/Fish_Animations/Fish_2_Animation.Fish_2_Animation'"
+		},
+		{
+			"RowName": "Swordfish",
+			"Difficulty": 4,
+			"FishAreas":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Season": 3,
+						"BodyOfWater": 3
+					}
+				}
+			],
+			"Occurences":
+			[ 1 ],
+			"IsTrash": false,
+			"HoursToNaturallyBreed": 600,
+			"FishSkeletalMesh": "None",
+			"SkelAnimation": "None"
+		},
+		{
+			"RowName": "Yellow_Tail",
+			"Difficulty": 2,
+			"FishAreas":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Season": 3,
+						"BodyOfWater": 3
+					}
+				}
+			],
+			"Occurences":
+			[ 3 ],
+			"IsTrash": false,
+			"HoursToNaturallyBreed": 336,
+			"FishSkeletalMesh": "/Game/Meshes/Fish/Fish_Animations/Yellow_Tail_rig.Yellow_Tail_rig",
+			"SkelAnimation": "AnimSequence'/Game/Meshes/Fish/Fish_Animations/Fish_2_Animation.Fish_2_Animation'"
+		},
+		{
+			"RowName": "Halibut",
+			"Difficulty": 1,
+			"FishAreas":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Season": 3,
+						"BodyOfWater": 3
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Season": 3,
+						"BodyOfWater": 1
+					}
+				}
+			],
+			"Occurences":
+			[ 3, 10 ],
+			"IsTrash": false,
+			"HoursToNaturallyBreed": 336,
+			"FishSkeletalMesh": "/Game/Meshes/Fish/Fish_Animations/Halibut_rig.Halibut_rig",
+			"SkelAnimation": "None"
+		},
+		{
+			"RowName": "John_Dory",
+			"Difficulty": 0,
+			"FishAreas":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Season": 3,
+						"BodyOfWater": 3
+					}
+				}
+			],
+			"Occurences":
+			[ 3 ],
+			"IsTrash": false,
+			"HoursToNaturallyBreed": 168,
+			"FishSkeletalMesh": "/Game/Meshes/Fish/Fish_Animations/John_Dory_rig.John_Dory_rig",
+			"SkelAnimation": "AnimSequence'/Game/Meshes/Fish/Fish_Animations/Fish_1_Animation_Anim.Fish_1_Animation_Anim'"
+		},
+		{
+			"RowName": "Abalone",
+			"Difficulty": 0,
+			"FishAreas":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Season": 3,
+						"BodyOfWater": 3
+					}
+				}
+			],
+			"Occurences":
+			[ 3 ],
+			"IsTrash": false,
+			"HoursToNaturallyBreed": 120,
+			"FishSkeletalMesh": "None",
+			"SkelAnimation": "None"
+		},
+		{
+			"RowName": "Chambered_Nautilus",
+			"Difficulty": 4,
+			"FishAreas":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Season": 3,
+						"BodyOfWater": 3
+					}
+				}
+			],
+			"Occurences":
+			[ 3 ],
+			"IsTrash": false,
+			"HoursToNaturallyBreed": 600,
+			"FishSkeletalMesh": "None",
+			"SkelAnimation": "None"
+		},
+		{
+			"RowName": "Horse_Hair_Crab",
+			"Difficulty": 0,
+			"FishAreas":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Season": 3,
+						"BodyOfWater": 3
+					}
+				}
+			],
+			"Occurences":
+			[ 3 ],
+			"IsTrash": false,
+			"HoursToNaturallyBreed": 120,
+			"FishSkeletalMesh": "None",
+			"SkelAnimation": "None"
+		},
+		{
+			"RowName": "Snow_Crab",
+			"Difficulty": 3,
+			"FishAreas":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Season": 3,
+						"BodyOfWater": 3
+					}
+				}
+			],
+			"Occurences":
+			[ 3 ],
+			"IsTrash": false,
+			"HoursToNaturallyBreed": 336,
+			"FishSkeletalMesh": "None",
+			"SkelAnimation": "None"
+		},
+		{
+			"RowName": "Sweet_Shrimp",
+			"Difficulty": 0,
+			"FishAreas":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Season": 3,
+						"BodyOfWater": 3
+					}
+				}
+			],
+			"Occurences":
+			[ 3 ],
+			"IsTrash": false,
+			"HoursToNaturallyBreed": 72,
+			"FishSkeletalMesh": "None",
+			"SkelAnimation": "None"
+		},
+		{
+			"RowName": "Tiger_Prawn",
+			"Difficulty": 2,
+			"FishAreas":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Season": 3,
+						"BodyOfWater": 3
+					}
+				}
+			],
+			"Occurences":
+			[ 3 ],
+			"IsTrash": false,
+			"HoursToNaturallyBreed": 72,
+			"FishSkeletalMesh": "None",
+			"SkelAnimation": "None"
+		},
+		{
+			"RowName": "Conch_Shell",
+			"Difficulty": 0,
+			"FishAreas":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Season": 3,
+						"BodyOfWater": 3
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Season": 2,
+						"BodyOfWater": 1
+					}
+				}
+			],
+			"Occurences":
+			[ 4, 27 ],
+			"IsTrash": false,
+			"HoursToNaturallyBreed": 120,
+			"FishSkeletalMesh": "None",
+			"SkelAnimation": "None"
+		},
+		{
+			"RowName": "Star_fish",
+			"Difficulty": 1,
+			"FishAreas":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Season": 3,
+						"BodyOfWater": 3
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Season": 3,
+						"BodyOfWater": 1
+					}
+				}
+			],
+			"Occurences":
+			[ 4, 20 ],
+			"IsTrash": false,
+			"HoursToNaturallyBreed": 120,
+			"FishSkeletalMesh": "None",
+			"SkelAnimation": "None"
+		},
+		{
+			"RowName": "Festive_Sea_Slug",
+			"Difficulty": 2,
+			"FishAreas":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Season": 3,
+						"BodyOfWater": 3
+					}
+				}
+			],
+			"Occurences":
+			[ 4 ],
+			"IsTrash": false,
+			"HoursToNaturallyBreed": 168,
+			"FishSkeletalMesh": "None",
+			"SkelAnimation": "None"
+		},
+		{
+			"RowName": "Angler_Fish",
+			"Difficulty": 3,
+			"FishAreas":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Season": 3,
+						"BodyOfWater": 3
+					}
+				}
+			],
+			"Occurences":
+			[ 3 ],
+			"IsTrash": false,
+			"HoursToNaturallyBreed": 168,
+			"FishSkeletalMesh": "None",
+			"SkelAnimation": "None"
+		},
+		{
+			"RowName": "Killi_Fish",
+			"Difficulty": 0,
+			"FishAreas":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Season": 3,
+						"BodyOfWater": 3
+					}
+				}
+			],
+			"Occurences":
+			[ 12 ],
+			"IsTrash": false,
+			"HoursToNaturallyBreed": 72,
+			"FishSkeletalMesh": "/Game/Meshes/Fish/Fish_Animations/Killifish_rig.Killifish_rig",
+			"SkelAnimation": "AnimSequence'/Game/Meshes/Fish/Fish_Animations/Fish_1_Animation_Anim.Fish_1_Animation_Anim'"
+		},
+		{
+			"RowName": "Saddled_Bichir",
+			"Difficulty": 1,
+			"FishAreas":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Season": 3,
+						"BodyOfWater": 3
+					}
+				}
+			],
+			"Occurences":
+			[ 4 ],
+			"IsTrash": false,
+			"HoursToNaturallyBreed": 120,
+			"FishSkeletalMesh": "None",
+			"SkelAnimation": "None"
+		},
+		{
+			"RowName": "Horse_Shoe_Crab",
+			"Difficulty": 1,
+			"FishAreas":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Season": 3,
+						"BodyOfWater": 3
+					}
+				}
+			],
+			"Occurences":
+			[ 4 ],
+			"IsTrash": false,
+			"HoursToNaturallyBreed": 168,
+			"FishSkeletalMesh": "None",
+			"SkelAnimation": "None"
+		},
+		{
+			"RowName": "Giant_Isopod",
+			"Difficulty": 4,
+			"FishAreas":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Season": 3,
+						"BodyOfWater": 3
+					}
+				}
+			],
+			"Occurences":
+			[ 3 ],
+			"IsTrash": false,
+			"HoursToNaturallyBreed": 600,
+			"FishSkeletalMesh": "None",
+			"SkelAnimation": "None"
+		},
+		{
+			"RowName": "Mantis_Shrimp",
+			"Difficulty": 2,
+			"FishAreas":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Season": 3,
+						"BodyOfWater": 3
+					}
+				}
+			],
+			"Occurences":
+			[ 4 ],
+			"IsTrash": false,
+			"HoursToNaturallyBreed": 400,
+			"FishSkeletalMesh": "None",
+			"SkelAnimation": "None"
+		},
+		{
+			"RowName": "Crucian_Carp",
+			"Difficulty": 1,
+			"FishAreas":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Season": 3,
+						"BodyOfWater": 0
+					}
+				}
+			],
+			"Occurences":
+			[ 6 ],
+			"IsTrash": false,
+			"HoursToNaturallyBreed": 168,
+			"FishSkeletalMesh": "/Game/Meshes/Fish/Fish_Animations/Crucian_Carp_rig.Crucian_Carp_rig",
+			"SkelAnimation": "AnimSequence'/Game/Meshes/Fish/Fish_Animations/Fish_1_Animation_Anim.Fish_1_Animation_Anim'"
+		},
+		{
+			"RowName": "Guppy",
+			"Difficulty": 0,
+			"FishAreas":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Season": 3,
+						"BodyOfWater": 2
+					}
+				}
+			],
+			"Occurences":
+			[ 10 ],
+			"IsTrash": false,
+			"HoursToNaturallyBreed": 72,
+			"FishSkeletalMesh": "/Game/Meshes/Fish/Fish_Animations/Guppy_rig.Guppy_rig",
+			"SkelAnimation": "AnimSequence'/Game/Meshes/Fish/Fish_Animations/Fish_1_Animation_Anim.Fish_1_Animation_Anim'"
+		},
+		{
+			"RowName": "Arctic_Char",
+			"Difficulty": 1,
+			"FishAreas":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Season": 3,
+						"BodyOfWater": 2
+					}
+				}
+			],
+			"Occurences":
+			[ 12 ],
+			"IsTrash": false,
+			"HoursToNaturallyBreed": 120,
+			"FishSkeletalMesh": "/Game/Meshes/Fish/Fish_Animations/Artic_Char_rig.Artic_Char_rig",
+			"SkelAnimation": "AnimSequence'/Game/Meshes/Fish/Fish_Animations/Fish_2_Animation.Fish_2_Animation'"
+		},
+		{
+			"RowName": "Chub",
+			"Difficulty": 0,
+			"FishAreas":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Season": 3,
+						"BodyOfWater": 2
+					}
+				}
+			],
+			"Occurences":
+			[ 16 ],
+			"IsTrash": false,
+			"HoursToNaturallyBreed": 72,
+			"FishSkeletalMesh": "/Game/Meshes/Fish/Fish_Animations/Chub_rig.Chub_rig",
+			"SkelAnimation": "AnimSequence'/Game/Meshes/Fish/Fish_Animations/Fish_1_Animation_Anim.Fish_1_Animation_Anim'"
+		},
+		{
+			"RowName": "Barbed_Steed",
+			"Difficulty": 0,
+			"FishAreas":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Season": 3,
+						"BodyOfWater": 2
+					}
+				}
+			],
+			"Occurences":
+			[ 10 ],
+			"IsTrash": false,
+			"HoursToNaturallyBreed": 120,
+			"FishSkeletalMesh": "None",
+			"SkelAnimation": "None"
+		},
+		{
+			"RowName": "River_Bass",
+			"Difficulty": 1,
+			"FishAreas":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Season": 3,
+						"BodyOfWater": 2
+					}
+				}
+			],
+			"Occurences":
+			[ 10 ],
+			"IsTrash": false,
+			"HoursToNaturallyBreed": 120,
+			"FishSkeletalMesh": "/Game/Meshes/Fish/Fish_Animations/River_Bass_rig.River_Bass_rig",
+			"SkelAnimation": "AnimSequence'/Game/Meshes/Fish/Fish_Animations/Fish_2_Animation.Fish_2_Animation'"
+		},
+		{
+			"RowName": "Loach",
+			"Difficulty": 0,
+			"FishAreas":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Season": 3,
+						"BodyOfWater": 2
+					}
+				}
+			],
+			"Occurences":
+			[ 10 ],
+			"IsTrash": false,
+			"HoursToNaturallyBreed": 72,
+			"FishSkeletalMesh": "/Game/Meshes/Fish/Fish_Animations/Loach_rig.Loach_rig",
+			"SkelAnimation": "AnimSequence'/Game/Meshes/Fish/Fish_Animations/Fish_1_Animation_Anim.Fish_1_Animation_Anim'"
+		},
+		{
+			"RowName": "Old_Can",
+			"Difficulty": 0,
+			"FishAreas":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Season": 0,
+						"BodyOfWater": 1
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Season": 0,
+						"BodyOfWater": 0
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Season": 1,
+						"BodyOfWater": 1
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Season": 1,
+						"BodyOfWater": 2
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Season": 1,
+						"BodyOfWater": 0
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Season": 2,
+						"BodyOfWater": 1
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Season": 2,
+						"BodyOfWater": 2
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Season": 3,
+						"BodyOfWater": 0
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Season": 3,
+						"BodyOfWater": 2
+					}
+				}
+			],
+			"Occurences":
+			[ 2, 2, 2, 2, 2, 2, 2, 2, 2 ],
+			"IsTrash": true,
+			"HoursToNaturallyBreed": 0,
+			"FishSkeletalMesh": "None",
+			"SkelAnimation": "None"
+		},
+		{
+			"RowName": "Old_Glass_Bottle",
+			"Difficulty": 0,
+			"FishAreas":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Season": 0,
+						"BodyOfWater": 3
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Season": 0,
+						"BodyOfWater": 1
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Season": 0,
+						"BodyOfWater": 2
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Season": 1,
+						"BodyOfWater": 1
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Season": 3,
+						"BodyOfWater": 1
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Season": 3,
+						"BodyOfWater": 2
+					}
+				}
+			],
+			"Occurences":
+			[ 2, 2, 2, 2, 2, 2 ],
+			"IsTrash": true,
+			"HoursToNaturallyBreed": 0,
+			"FishSkeletalMesh": "None",
+			"SkelAnimation": "None"
+		},
+		{
+			"RowName": "Old_Tire",
+			"Difficulty": 1,
+			"FishAreas":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Season": 0,
+						"BodyOfWater": 0
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Season": 1,
+						"BodyOfWater": 1
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Season": 1,
+						"BodyOfWater": 0
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Season": 2,
+						"BodyOfWater": 1
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Season": 3,
+						"BodyOfWater": 0
+					}
+				}
+			],
+			"Occurences":
+			[ 1, 1, 1, 1, 1 ],
+			"IsTrash": true,
+			"HoursToNaturallyBreed": 0,
+			"FishSkeletalMesh": "None",
+			"SkelAnimation": "None"
+		},
+		{
+			"RowName": "Old_Plastic_Bottle",
+			"Difficulty": 0,
+			"FishAreas":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Season": 0,
+						"BodyOfWater": 1
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Season": 1,
+						"BodyOfWater": 3
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Season": 1,
+						"BodyOfWater": 1
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Season": 1,
+						"BodyOfWater": 2
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Season": 2,
+						"BodyOfWater": 3
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Season": 2,
+						"BodyOfWater": 0
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Season": 3,
+						"BodyOfWater": 1
+					}
+				}
+			],
+			"Occurences":
+			[ 2, 2, 2, 2, 2, 2, 2 ],
+			"IsTrash": true,
+			"HoursToNaturallyBreed": 0,
+			"FishSkeletalMesh": "None",
+			"SkelAnimation": "None"
+		},
+		{
+			"RowName": "Old_Boot",
+			"Difficulty": 1,
+			"FishAreas":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Season": 0,
+						"BodyOfWater": 1
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Season": 1,
+						"BodyOfWater": 1
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Season": 1,
+						"BodyOfWater": 3
+					}
+				}
+			],
+			"Occurences":
+			[ 2, 2, 2 ],
+			"IsTrash": true,
+			"HoursToNaturallyBreed": 0,
+			"FishSkeletalMesh": "None",
+			"SkelAnimation": "None"
+		},
+		{
+			"RowName": "Old_Swim_Trunk",
+			"Difficulty": 1,
+			"FishAreas":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Season": 0,
+						"BodyOfWater": 0
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Season": 1,
+						"BodyOfWater": 1
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Season": 1,
+						"BodyOfWater": 0
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Season": 3,
+						"BodyOfWater": 3
+					}
+				}
+			],
+			"Occurences":
+			[ 2, 2, 2, 2 ],
+			"IsTrash": true,
+			"HoursToNaturallyBreed": 0,
+			"FishSkeletalMesh": "None",
+			"SkelAnimation": "None"
+		},
+		{
+			"RowName": "Old_Plastic_Bag",
+			"Difficulty": 1,
+			"FishAreas":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Season": 0,
+						"BodyOfWater": 1
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Season": 0,
+						"BodyOfWater": 2
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Season": 1,
+						"BodyOfWater": 3
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Season": 1,
+						"BodyOfWater": 1
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Season": 1,
+						"BodyOfWater": 3
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Season": 3,
+						"BodyOfWater": 1
+					}
+				}
+			],
+			"Occurences":
+			[ 3, 3, 3, 3, 3, 3 ],
+			"IsTrash": true,
+			"HoursToNaturallyBreed": 0,
+			"FishSkeletalMesh": "None",
+			"SkelAnimation": "None"
+		},
+		{
+			"RowName": "Old_Netting",
+			"Difficulty": 1,
+			"FishAreas":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Season": 0,
+						"BodyOfWater": 3
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Season": 0,
+						"BodyOfWater": 1
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Season": 1,
+						"BodyOfWater": 1
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Season": 2,
+						"BodyOfWater": 0
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Season": 3,
+						"BodyOfWater": 1
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Season": 0,
+						"BodyOfWater": 2
+					}
+				}
+			],
+			"Occurences":
+			[ 2, 2, 2, 2, 2, 2 ],
+			"IsTrash": true,
+			"HoursToNaturallyBreed": 0,
+			"FishSkeletalMesh": "None",
+			"SkelAnimation": "None"
+		},
+		{
+			"RowName": "Blue_Marlin",
+			"Difficulty": 3,
+			"FishAreas":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Season": 0,
+						"BodyOfWater": 3
+					}
+				}
+			],
+			"Occurences":
+			[ 2 ],
+			"IsTrash": false,
+			"HoursToNaturallyBreed": 336,
+			"FishSkeletalMesh": "/Game/Meshes/Fish/Fish_Animations/Blue_Marlin_rig.Blue_Marlin_rig",
+			"SkelAnimation": "AnimSequence'/Game/Meshes/Fish/Fish_Animations/Fish_2_Animation.Fish_2_Animation'"
+		},
+		{
+			"RowName": "Angel_Fish",
+			"Difficulty": 0,
+			"FishAreas":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Season": 1,
+						"BodyOfWater": 3
+					}
+				}
+			],
+			"Occurences":
+			[ 5 ],
+			"IsTrash": false,
+			"HoursToNaturallyBreed": 60,
+			"FishSkeletalMesh": "/Game/Meshes/Fish/Fish_Animations/Angel_Fish_rig.Angel_Fish_rig",
+			"SkelAnimation": "AnimSequence'/Game/Meshes/Fish/Fish_Animations/Fish_1_Animation_Anim.Fish_1_Animation_Anim'"
+		},
+		{
+			"RowName": "Alligator_Gar",
+			"Difficulty": 3,
+			"FishAreas":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Season": 2,
+						"BodyOfWater": 0
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Season": 3,
+						"BodyOfWater": 0
+					}
+				}
+			],
+			"Occurences":
+			[ 10, 6 ],
+			"IsTrash": false,
+			"HoursToNaturallyBreed": 120,
+			"FishSkeletalMesh": "/Game/Meshes/Fish/Fish_Animations/Alligator_Gar_rig.Alligator_Gar_rig",
+			"SkelAnimation": "None"
+		},
+		{
+			"RowName": "Carp_Silver",
+			"Difficulty": 0,
+			"FishAreas":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Season": 2,
+						"BodyOfWater": 0
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Season": 3,
+						"BodyOfWater": 0
+					}
+				}
+			],
+			"Occurences":
+			[ 18, 10 ],
+			"IsTrash": false,
+			"HoursToNaturallyBreed": 120,
+			"FishSkeletalMesh": "/Game/Meshes/Fish/Fish_Animations/Silver_Carp_rig.Silver_Carp_rig",
+			"SkelAnimation": "None"
+		},
+		{
+			"RowName": "Turban_Shell",
+			"Difficulty": 0,
+			"FishAreas":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Season": 3,
+						"BodyOfWater": 3
+					}
+				}
+			],
+			"Occurences":
+			[ 4 ],
+			"IsTrash": false,
+			"HoursToNaturallyBreed": 120,
+			"FishSkeletalMesh": "None",
+			"SkelAnimation": "None"
+		},
+		{
+			"RowName": "Sea_Butterfly",
+			"Difficulty": 0,
+			"FishAreas":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Season": 3,
+						"BodyOfWater": 3
+					}
+				}
+			],
+			"Occurences":
+			[ 4 ],
+			"IsTrash": false,
+			"HoursToNaturallyBreed": 168,
+			"FishSkeletalMesh": "None",
+			"SkelAnimation": "None"
+		},
+		{
+			"RowName": "Whitefish",
+			"Difficulty": 0,
+			"FishAreas":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Season": 3,
+						"BodyOfWater": 0
+					}
+				}
+			],
+			"Occurences":
+			[ 10 ],
+			"IsTrash": false,
+			"HoursToNaturallyBreed": 72,
+			"FishSkeletalMesh": "/Game/Meshes/Fish/Fish_Animations/Whitefish_rig.Whitefish_rig",
+			"SkelAnimation": "AnimSequence'/Game/Meshes/Fish/Fish_Animations/Fish_2_Animation.Fish_2_Animation'"
+		},
+		{
+			"RowName": "Salmon",
+			"Difficulty": 2,
+			"FishAreas":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Season": 0,
+						"BodyOfWater": 2
+					}
+				}
+			],
+			"Occurences":
+			[ 10 ],
+			"IsTrash": false,
+			"HoursToNaturallyBreed": 168,
+			"FishSkeletalMesh": "/Game/Meshes/Fish/Fish_Animations/Salmon_rig.Salmon_rig",
+			"SkelAnimation": "AnimSequence'/Game/Meshes/Fish/Fish_Animations/Fish_2_Animation.Fish_2_Animation'"
+		},
+		{
+			"RowName": "Tench",
+			"Difficulty": 0,
+			"FishAreas":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Season": 0,
+						"BodyOfWater": 2
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Season": 1,
+						"BodyOfWater": 2
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Season": 2,
+						"BodyOfWater": 2
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Season": 3,
+						"BodyOfWater": 2
+					}
+				}
+			],
+			"Occurences":
+			[ 10, 10, 10, 10 ],
+			"IsTrash": false,
+			"HoursToNaturallyBreed": 120,
+			"FishSkeletalMesh": "/Game/Meshes/Fish/Fish_Animations/Tench_rig.Tench_rig",
+			"SkelAnimation": "AnimSequence'/Game/Meshes/Fish/Fish_Animations/Fish_2_Animation.Fish_2_Animation'"
+		},
+		{
+			"RowName": "Red_King_Crab",
+			"Difficulty": 3,
+			"FishAreas":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Season": 3,
+						"BodyOfWater": 3
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Season": 2,
+						"BodyOfWater": 3
+					}
+				}
+			],
+			"Occurences":
+			[ 4, 4 ],
+			"IsTrash": false,
+			"HoursToNaturallyBreed": 168,
+			"FishSkeletalMesh": "None",
+			"SkelAnimation": "None"
+		},
+		{
+			"RowName": "Pride_Fish",
+			"Difficulty": 4,
+			"FishAreas":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Season": 1,
+						"BodyOfWater": 0
+					}
+				}
+			],
+			"Occurences":
+			[ 1 ],
+			"IsTrash": false,
+			"HoursToNaturallyBreed": 600,
+			"FishSkeletalMesh": "None",
+			"SkelAnimation": "None"
+		}
+	]
+}

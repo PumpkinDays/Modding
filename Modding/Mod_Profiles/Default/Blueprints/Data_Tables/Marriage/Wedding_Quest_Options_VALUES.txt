@@ -1,0 +1,100 @@
+{
+	"Rows": 
+	[
+		{
+			"RowName": "Clothing",
+			"ArrayOfNameArrays":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"NameArray":
+						[
+							"CuteDress",
+							"SpicyDress",
+							"ModestDress",
+							"Suit",
+							"SkipAll"
+						]
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"NameArray":
+						[
+							"White",
+							"Black",
+							"Pink",
+							"Grey",
+							"Red",
+							"SkyBlue",
+							"Yellow",
+							"Purple",
+							"Green"
+						]
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Flowers",
+			"ArrayOfNameArrays":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"NameArray":
+						[
+							"White",
+							"Black",
+							"Blue",
+							"Pink",
+							"Purple",
+							"Yellow",
+							"Red"
+						]
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Location",
+			"ArrayOfNameArrays":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"NameArray":
+						[
+							"FlowerField",
+							"Beach",
+							"Mountaintop",
+							"WindTemple",
+							"WaterTemple",
+							"FireTemple",
+							"Swamp"
+						]
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"NameArray":
+						[
+							"Sunset",
+							"Sunrise",
+							"Day",
+							"Night"
+						]
+					}
+				}
+			]
+		}
+	]
+}

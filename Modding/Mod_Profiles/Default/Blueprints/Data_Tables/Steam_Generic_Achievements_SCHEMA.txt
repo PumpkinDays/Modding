@@ -1,0 +1,4 @@
+Steam_Generic_Achievements Structure:
+
+AchievementId: string
+Action: string

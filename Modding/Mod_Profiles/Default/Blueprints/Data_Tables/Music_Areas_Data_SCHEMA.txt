@@ -1,0 +1,23 @@
+Music_Areas_Data Structure:
+
+PlayPriority: integer
+Spring: 
+	MorningTheme: string
+	DaytimeTheme: string
+	NightTheme: string
+	FestivalDaytimeTheme: string
+Summer: 
+	MorningTheme: string
+	DaytimeTheme: string
+	NightTheme: string
+	FestivalDaytimeTheme: string
+Fall: 
+	MorningTheme: string
+	DaytimeTheme: string
+	NightTheme: string
+	FestivalDaytimeTheme: string
+Winter: 
+	MorningTheme: string
+	DaytimeTheme: string
+	NightTheme: string
+	FestivalDaytimeTheme: string

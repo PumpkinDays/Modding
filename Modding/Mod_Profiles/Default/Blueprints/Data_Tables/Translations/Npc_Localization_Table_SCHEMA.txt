@@ -1,0 +1,15 @@
+Npc_Localization_Table Structure:
+
+NeedsFormatConversion: true/false
+Description: string
+TranslationWebsiteCategories: string
+InEnglishForWebsite: string
+Languages: 
+	German: string
+	Spanish: string
+	SimplifiedChinese: string
+	Russian: string
+	PortugeseBrazil: string
+	French: string
+IsUnused: string
+Notes: string

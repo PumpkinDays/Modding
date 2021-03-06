@@ -1,0 +1,14 @@
+Fish_Data Structure:
+
+Difficulty: ONE of
+	Easy
+	Medium
+	Hard
+	VeryHard
+	NearlyImpossible
+FishAreas: TArray-FFishArea
+Occurences: TArray-int32
+IsTrash: true/false
+HoursToNaturallyBreed: integer
+FishSkeletalMesh: TAssetPtr<USkeletalMesh>
+SkelAnimation: UAnimSequenceBase*

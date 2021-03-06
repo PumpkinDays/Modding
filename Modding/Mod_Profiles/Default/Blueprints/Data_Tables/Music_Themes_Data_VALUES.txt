@@ -1,0 +1,779 @@
+{
+	"Rows": 
+	[
+		{
+			"RowName": "NorthernForestSpringDay",
+			"Sounds":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Sound": "/Game/Sounds/Ambience/Forest_1.Forest_1",
+						"SoundLoaded": "None",
+						"FadesInAndOut": false,
+						"FadeDuration": 3
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Sound": "/Game/Sounds/Ambience/klankbeeld_Forest2.klankbeeld_Forest2",
+						"SoundLoaded": "None",
+						"FadesInAndOut": false,
+						"FadeDuration": 3
+					}
+				}
+			]
+		},
+		{
+			"RowName": "EasternCaveSpringDay",
+			"Sounds":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Sound": "/Game/Sounds/Sound_Effects/Cave_Ambience.Cave_Ambience",
+						"SoundLoaded": "None",
+						"FadesInAndOut": false,
+						"FadeDuration": 3
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Forest_DayTime",
+			"Sounds":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Sound": "/Game/Sounds/Ambience/Forest_Woodland_Ambience_2.Forest_Woodland_Ambience_2",
+						"SoundLoaded": "None",
+						"FadesInAndOut": true,
+						"FadeDuration": 3
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Sound": "/Game/Sounds/Music/Pumpkinvale/CentralRegion_Winter__6am-9am_.CentralRegion_Winter__6am-9am_",
+						"SoundLoaded": "None",
+						"FadesInAndOut": true,
+						"FadeDuration": 3
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Forest_NightTime",
+			"Sounds":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Sound": "/Game/Sounds/Ambience/Night_Ambience.Night_Ambience",
+						"SoundLoaded": "None",
+						"FadesInAndOut": true,
+						"FadeDuration": 3
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Pumpkinvale_Daytime_Spring",
+			"Sounds":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Sound": "/Game/Sounds/Music/Pumpkinvale/CentralRegion_Spring__12pm-3pm_.CentralRegion_Spring__12pm-3pm_",
+						"SoundLoaded": "None",
+						"FadesInAndOut": true,
+						"FadeDuration": 3
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Sound": "/Game/Sounds/Music/Pumpkinvale/CentralRegion_Spring__3pm-6pm_.CentralRegion_Spring__3pm-6pm_",
+						"SoundLoaded": "None",
+						"FadesInAndOut": true,
+						"FadeDuration": 3
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Sound": "/Game/Sounds/Music/Pumpkinvale/CentralRegion_Spring__6am-9am_.CentralRegion_Spring__6am-9am_",
+						"SoundLoaded": "None",
+						"FadesInAndOut": true,
+						"FadeDuration": 3
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Sound": "/Game/Sounds/CentralRegion_Spring__9am-12pm_.CentralRegion_Spring__9am-12pm_",
+						"SoundLoaded": "None",
+						"FadesInAndOut": true,
+						"FadeDuration": 3
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Pumpkinvale_Daytime_Summer",
+			"Sounds":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Sound": "/Game/Sounds/Music/Pumpkinvale/CentralRegion_Summer__12pm-3pm_.CentralRegion_Summer__12pm-3pm_",
+						"SoundLoaded": "None",
+						"FadesInAndOut": true,
+						"FadeDuration": 3
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Sound": "/Game/Sounds/Music/Pumpkinvale/CentralRegion_Summer__12pm-3pm_.CentralRegion_Summer__12pm-3pm_",
+						"SoundLoaded": "None",
+						"FadesInAndOut": true,
+						"FadeDuration": 3
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Sound": "/Game/Sounds/Music/Pumpkinvale/CentralRegion_Summer__6am-9am_.CentralRegion_Summer__6am-9am_",
+						"SoundLoaded": "None",
+						"FadesInAndOut": true,
+						"FadeDuration": 3
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Sound": "/Game/Sounds/Music/Pumpkinvale/CentralRegion_Summer__6pm-9pm_.CentralRegion_Summer__6pm-9pm_",
+						"SoundLoaded": "None",
+						"FadesInAndOut": true,
+						"FadeDuration": 3
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Pumpkinvale_Daytime_Fall",
+			"Sounds":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Sound": "/Game/Sounds/Music/Pumpkinvale/CentralRegion_Fall__12pm-3pm_.CentralRegion_Fall__12pm-3pm_",
+						"SoundLoaded": "None",
+						"FadesInAndOut": true,
+						"FadeDuration": 3
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Sound": "/Game/Sounds/Music/Pumpkinvale/CentralRegion_Fall__3pm-6pm_.CentralRegion_Fall__3pm-6pm_",
+						"SoundLoaded": "None",
+						"FadesInAndOut": true,
+						"FadeDuration": 3
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Sound": "/Game/Sounds/Music/Pumpkinvale/CentralRegion_Fall__6am-9am_.CentralRegion_Fall__6am-9am_",
+						"SoundLoaded": "None",
+						"FadesInAndOut": true,
+						"FadeDuration": 3
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Sound": "/Game/Sounds/Music/Pumpkinvale/CentralRegion_Fall__9am-12pm_.CentralRegion_Fall__9am-12pm_",
+						"SoundLoaded": "None",
+						"FadesInAndOut": true,
+						"FadeDuration": 3
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Pumpkinvale_Daytime_Winter",
+			"Sounds":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Sound": "/Game/Sounds/Music/Pumpkinvale/CentralRegion_Winter__12pm-3pm_.CentralRegion_Winter__12pm-3pm_",
+						"SoundLoaded": "None",
+						"FadesInAndOut": true,
+						"FadeDuration": 3
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Sound": "/Game/Sounds/Music/Pumpkinvale/CentralRegion_Winter__3pm-6pm_.CentralRegion_Winter__3pm-6pm_",
+						"SoundLoaded": "None",
+						"FadesInAndOut": true,
+						"FadeDuration": 3
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Sound": "/Game/Sounds/Music/Pumpkinvale/CentralRegion_Winter__6pm-9pm_.CentralRegion_Winter__6pm-9pm_",
+						"SoundLoaded": "None",
+						"FadesInAndOut": true,
+						"FadeDuration": 3
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Sound": "/Game/Sounds/Music/Pumpkinvale/CentralRegion_Winter__9am-12pm_.CentralRegion_Winter__9am-12pm_",
+						"SoundLoaded": "None",
+						"FadesInAndOut": true,
+						"FadeDuration": 3
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Pumpkinvale_Nightime_Spring",
+			"Sounds":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Sound": "/Game/Sounds/Music/Pumpkinvale/CentralRegion_Summer__9pm-12am_.CentralRegion_Summer__9pm-12am_",
+						"SoundLoaded": "None",
+						"FadesInAndOut": true,
+						"FadeDuration": 3
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Pumpkinvale_Nightime_Summer",
+			"Sounds":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Sound": "/Game/Sounds/Music/Pumpkinvale/CentralRegion_Summer__9pm-12am_.CentralRegion_Summer__9pm-12am_",
+						"SoundLoaded": "None",
+						"FadesInAndOut": true,
+						"FadeDuration": 3
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Pumpkinvale_Nightime_Fall",
+			"Sounds":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Sound": "/Game/Sounds/Music/Pumpkinvale/CentralRegion_Fall__9pm-12am_.CentralRegion_Fall__9pm-12am_",
+						"SoundLoaded": "None",
+						"FadesInAndOut": true,
+						"FadeDuration": 3
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Pumpkinvale_Nightime_Winter",
+			"Sounds":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Sound": "/Game/Sounds/Music/Pumpkinvale/CentralRegion_Winter__9pm-12am_.CentralRegion_Winter__9pm-12am_",
+						"SoundLoaded": "None",
+						"FadesInAndOut": true,
+						"FadeDuration": 3
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Night_Ambience",
+			"Sounds":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Sound": "/Game/Sounds/Ambience/Night_Ambience.Night_Ambience",
+						"SoundLoaded": "None",
+						"FadesInAndOut": true,
+						"FadeDuration": 3
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Streams",
+			"Sounds":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Sound": "/Game/Sounds/Ambience/Stream_Noise-SoundBible_com-866411702.Stream_Noise-SoundBible_com-866411702",
+						"SoundLoaded": "None",
+						"FadesInAndOut": false,
+						"FadeDuration": 3
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Wahoo_Night_Spring",
+			"Sounds":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Sound": "/Game/Sounds/Music/Wahoo_Beach/Evening_Seaside_Stroll_Spring_NIGHT.Evening_Seaside_Stroll_Spring_NIGHT",
+						"SoundLoaded": "None",
+						"FadesInAndOut": true,
+						"FadeDuration": 3
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Wahoo_Night_Summer",
+			"Sounds":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Sound": "/Game/Sounds/Music/Wahoo_Beach/MoonlighBreeze_Summer_NIGHT.MoonlighBreeze_Summer_NIGHT",
+						"SoundLoaded": "None",
+						"FadesInAndOut": true,
+						"FadeDuration": 3
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Wahoo_Night_Fall",
+			"Sounds":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Sound": "/Game/Sounds/Music/Wahoo_Beach/Sunset_Moonrise_Fall_NIGHT.Sunset_Moonrise_Fall_NIGHT",
+						"SoundLoaded": "None",
+						"FadesInAndOut": true,
+						"FadeDuration": 3
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Wahoo_Night_Winter",
+			"Sounds":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Sound": "/Game/Sounds/Music/Wahoo_Beach/Midnight_Chill_Winter_NIGHT.Midnight_Chill_Winter_NIGHT",
+						"SoundLoaded": "None",
+						"FadesInAndOut": true,
+						"FadeDuration": 3
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Wahoo_Day_Spring",
+			"Sounds":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Sound": "/Game/Sounds/Music/Wahoo_Beach/Coral_Is_In_Season_Spring_DAY.Coral_Is_In_Season_Spring_DAY",
+						"SoundLoaded": "None",
+						"FadesInAndOut": true,
+						"FadeDuration": 3
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Wahoo_Day_Summer",
+			"Sounds":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Sound": "/Game/Sounds/Music/Wahoo_Beach/Wheres_My_Mango_Colada_Summer_DAY.Wheres_My_Mango_Colada_Summer_DAY",
+						"SoundLoaded": "None",
+						"FadesInAndOut": true,
+						"FadeDuration": 3
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Wahoo_Day_Fall",
+			"Sounds":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Sound": "/Game/Sounds/Music/Wahoo_Beach/Its_Not_So_Cold_Here_Fall_DAY.Its_Not_So_Cold_Here_Fall_DAY",
+						"SoundLoaded": "None",
+						"FadesInAndOut": true,
+						"FadeDuration": 3
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Wahoo_Day_Winter",
+			"Sounds":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Sound": "/Game/Sounds/Music/Wahoo_Beach/Sandflakes_Winter_DAY.Sandflakes_Winter_DAY",
+						"SoundLoaded": "None",
+						"FadesInAndOut": true,
+						"FadeDuration": 3
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Pumpkinvale_Bar",
+			"Sounds":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Sound": "/Game/Sounds/Music/Misc/Pumpkinvale_Bar.Pumpkinvale_Bar",
+						"SoundLoaded": "None",
+						"FadesInAndOut": true,
+						"FadeDuration": 3
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Pumpkinvale_Cafe",
+			"Sounds":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Sound": "/Game/Sounds/Music/Misc/Central_Cafe.Central_Cafe",
+						"SoundLoaded": "None",
+						"FadesInAndOut": true,
+						"FadeDuration": 3
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Pumpkin_Mines",
+			"Sounds":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Sound": "/Game/Sounds/Music/Misc/Pumpkin_Mines.Pumpkin_Mines",
+						"SoundLoaded": "None",
+						"FadesInAndOut": true,
+						"FadeDuration": 1
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Wahoo_Festival2",
+			"Sounds":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Sound": "/Game/Sounds/Music/Festival/Wahoo_Festival2.Wahoo_Festival2",
+						"SoundLoaded": "None",
+						"FadesInAndOut": true,
+						"FadeDuration": 1
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Pumpkin_Festival2",
+			"Sounds":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Sound": "/Game/Sounds/Music/Festival/Pumpkin_Festival2.Pumpkin_Festival2",
+						"SoundLoaded": "None",
+						"FadesInAndOut": true,
+						"FadeDuration": 1
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Diamond_Festival2",
+			"Sounds":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Sound": "/Game/Sounds/Music/Festival/Diamond_Falls_Festival.Diamond_Falls_Festival",
+						"SoundLoaded": "None",
+						"FadesInAndOut": true,
+						"FadeDuration": 1
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Wahoo_Bar",
+			"Sounds":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Sound": "/Game/Sounds/Music/Wahoo_Beach/Soco_DJ_2.Soco_DJ_2",
+						"SoundLoaded": "None",
+						"FadesInAndOut": true,
+						"FadeDuration": 3
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Spoonie_Island",
+			"Sounds":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Sound": "/Game/Sounds/Music/Spoonie_Island/Spoonie_Island_2.Spoonie_Island_2",
+						"SoundLoaded": "None",
+						"FadesInAndOut": true,
+						"FadeDuration": 1
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Sound": "/Game/Sounds/Music/Spoonie_Island/Spoonie_Island_Jazz_Vocal_2.Spoonie_Island_Jazz_Vocal_2",
+						"SoundLoaded": "None",
+						"FadesInAndOut": true,
+						"FadeDuration": 1
+					}
+				}
+			]
+		},
+		{
+			"RowName": "No_Music",
+			"Sounds":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Sound": "/Game/Sounds/Music/Pumpkinvale/CentralRegion_Fall__6pm-9pm_.CentralRegion_Fall__6pm-9pm_",
+						"SoundLoaded": "None",
+						"FadesInAndOut": true,
+						"FadeDuration": 1
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Diamond_Daytime_Spring",
+			"Sounds":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Sound": "/Game/Sounds/Music/Diamond_Falls/Diamond_Falls_Spring_Day.Diamond_Falls_Spring_Day",
+						"SoundLoaded": "None",
+						"FadesInAndOut": true,
+						"FadeDuration": 3
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Diamond_Nighttime_Spring",
+			"Sounds":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Sound": "/Game/Sounds/Music/Diamond_Falls/Diamond_Falls_Spring_Night.Diamond_Falls_Spring_Night",
+						"SoundLoaded": "None",
+						"FadesInAndOut": true,
+						"FadeDuration": 3
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Diamond_Daytime_Summer",
+			"Sounds":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Sound": "/Game/Sounds/Music/Diamond_Falls/Diamond_Falls_Summer_Day.Diamond_Falls_Summer_Day",
+						"SoundLoaded": "None",
+						"FadesInAndOut": true,
+						"FadeDuration": 3
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Diamond_Nighttime_Summer",
+			"Sounds":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Sound": "/Game/Sounds/Music/Diamond_Falls/Diamond_Falls_Summer_Night.Diamond_Falls_Summer_Night",
+						"SoundLoaded": "None",
+						"FadesInAndOut": true,
+						"FadeDuration": 3
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Diamond_Daytime_Fall",
+			"Sounds":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Sound": "/Game/Sounds/Music/Diamond_Falls/Diamond_Falls_Fall_Day.Diamond_Falls_Fall_Day",
+						"SoundLoaded": "None",
+						"FadesInAndOut": true,
+						"FadeDuration": 3
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Diamond_NightTime_Fall",
+			"Sounds":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Sound": "/Game/Sounds/Music/Diamond_Falls/Diamond_Falls_Fall_Night.Diamond_Falls_Fall_Night",
+						"SoundLoaded": "None",
+						"FadesInAndOut": true,
+						"FadeDuration": 3
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Diamond_DayTime_Winter",
+			"Sounds":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Sound": "/Game/Sounds/Music/Diamond_Falls/Diamond_Falls_Winter_Day.Diamond_Falls_Winter_Day",
+						"SoundLoaded": "None",
+						"FadesInAndOut": true,
+						"FadeDuration": 3
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Diamond_NightTime_Winter",
+			"Sounds":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Sound": "/Game/Sounds/Music/Diamond_Falls/Diamond_Falls_Winter_Night.Diamond_Falls_Winter_Night",
+						"SoundLoaded": "None",
+						"FadesInAndOut": true,
+						"FadeDuration": 3
+					}
+				}
+			]
+		}
+	]
+}

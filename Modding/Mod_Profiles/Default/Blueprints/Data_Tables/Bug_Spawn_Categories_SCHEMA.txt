@@ -1,0 +1,3 @@
+Bug_Spawn_Categories Structure:
+
+NameArray: TArray-FName

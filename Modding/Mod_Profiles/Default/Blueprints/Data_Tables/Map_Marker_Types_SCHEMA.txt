@@ -1,0 +1,4 @@
+Map_Marker_Types Structure:
+
+RowName: string
+MarkerImage: UTexture2D*

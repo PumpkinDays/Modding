@@ -1,0 +1,3659 @@
+{
+	"Rows": 
+	[
+		{
+			"RowName": "Default",
+			"FriendlyName": "Default Npc Model",
+			"Town": "PumpkinVale",
+			"Skeleton": "/Game/Character/Demo_Character_MeshxSkeleton.Demo_Character_MeshxSkeleton",
+			"IdleAnimation": "None",
+			"ShopBuyAnimation": "None",
+			"Birthday": 
+			{
+				"Season": 0,
+				"Day": 0
+			},
+			"DaysOff":
+			[],
+			"QuestVoiceClip": "None",
+			"HelloVoiceClip": "None",
+			"LikedGiftParticle": "None",
+			"LovedGiftParticle": "None",
+			"BulletinBoardBackground": "None",
+			"CanPlayerDate": false,
+			"NameTagHeight": 110,
+			"HideInJournal": true,
+			"DefaultDialogueExpression": "",
+			"AskStartDatingCutscene": "Lan_Dating",
+			"MarriageProposalCutscene": "Lan_Proposal",
+			"RoommateCutscene": "Lan_Roomate",
+			"CribCutscene": "Lan_Crib",
+			"NicknameUsedByChild": "Moddy"
+		},
+		{
+			"RowName": "Zoey",
+			"FriendlyName": "Zoey",
+			"Town": "PumpkinVale",
+			"Skeleton": "/Game/Character/NPCs/Zoey_Cruz.Zoey_Cruz",
+			"IdleAnimation": "AnimSequence'/Game/Character/Animations/Cool.Cool'",
+			"ShopBuyAnimation": "AnimSequence'/Game/Character/Animations/Wave.Wave'",
+			"Birthday": 
+			{
+				"Season": 2,
+				"Day": 25
+			},
+			"DaysOff":
+			[],
+			"QuestVoiceClip": "SoundWave'/Game/Sounds/NPC_Voices/Zoey_Thanks.Zoey_Thanks'",
+			"HelloVoiceClip": "SoundWave'/Game/Sounds/NPC_Voices/Zoey_Hey.Zoey_Hey'",
+			"LikedGiftParticle": "ParticleSystem'/Game/Particles/Effects/Flowers/Flowers.Flowers'",
+			"LovedGiftParticle": "ParticleSystem'/Game/Particles/Effects/Heart/Love.Love'",
+			"BulletinBoardBackground": "Texture2D'/Game/Textures/Bulletin_Postings/Bulletin_Paper_Yellow_Neat_Paper.Bulletin_Paper_Yellow_Neat_Paper'",
+			"CanPlayerDate": true,
+			"NameTagHeight": 110,
+			"HideInJournal": false,
+			"DefaultDialogueExpression": "$SmileTalkingZoey$",
+			"AskStartDatingCutscene": "Zoey_Dating",
+			"MarriageProposalCutscene": "Zoey_Proposal",
+			"RoommateCutscene": "Zoey_Roomate",
+			"CribCutscene": "Zoey_Crib",
+			"NicknameUsedByChild": "Mom"
+		},
+		{
+			"RowName": "Takeo",
+			"FriendlyName": "Takeo",
+			"Town": "PumpkinVale",
+			"Skeleton": "/Game/Character/NPCs/Takeo_Takanaka.Takeo_Takanaka",
+			"IdleAnimation": "None",
+			"ShopBuyAnimation": "None",
+			"Birthday": 
+			{
+				"Season": 1,
+				"Day": 28
+			},
+			"DaysOff":
+			[],
+			"QuestVoiceClip": "SoundWave'/Game/Sounds/NPC_Voices/Takeo_Thanks.Takeo_Thanks'",
+			"HelloVoiceClip": "SoundWave'/Game/Sounds/NPC_Voices/Takeo_Hey.Takeo_Hey'",
+			"LikedGiftParticle": "ParticleSystem'/Game/Particles/Effects/Flowers/Flowers.Flowers'",
+			"LovedGiftParticle": "ParticleSystem'/Game/Particles/Effects/Heart/Love.Love'",
+			"BulletinBoardBackground": "Texture2D'/Game/Textures/Bulletin_Postings/Bulletin_Paper_White_Neat_Paper.Bulletin_Paper_White_Neat_Paper'",
+			"CanPlayerDate": true,
+			"NameTagHeight": 110,
+			"HideInJournal": false,
+			"DefaultDialogueExpression": "$SmileTalkingTakeo$",
+			"AskStartDatingCutscene": "Takeo_Dating",
+			"MarriageProposalCutscene": "Takeo_Proposal",
+			"RoommateCutscene": "Takeo_Roomate",
+			"CribCutscene": "Takeo_Crib",
+			"NicknameUsedByChild": "Dad"
+		},
+		{
+			"RowName": "Abigail",
+			"FriendlyName": "Sister Abigail",
+			"Town": "PumpkinVale",
+			"Skeleton": "/Game/Character/NPCs/Sister_Abigail.Sister_Abigail",
+			"IdleAnimation": "None",
+			"ShopBuyAnimation": "None",
+			"Birthday": 
+			{
+				"Season": 2,
+				"Day": 21
+			},
+			"DaysOff":
+			[],
+			"QuestVoiceClip": "SoundWave'/Game/Sounds/NPC_Voices/Abigail_Thanks.Abigail_Thanks'",
+			"HelloVoiceClip": "SoundWave'/Game/Sounds/NPC_Voices/Abigail_Hey.Abigail_Hey'",
+			"LikedGiftParticle": "ParticleSystem'/Game/Particles/Effects/Flowers/Flowers.Flowers'",
+			"LovedGiftParticle": "ParticleSystem'/Game/Particles/Effects/Heart/Love.Love'",
+			"BulletinBoardBackground": "Texture2D'/Game/Textures/Bulletin_Postings/Bulletin_Paper_Pink_Neat_Paper.Bulletin_Paper_Pink_Neat_Paper'",
+			"CanPlayerDate": true,
+			"NameTagHeight": 110,
+			"HideInJournal": false,
+			"DefaultDialogueExpression": "$SmileTalkingAbigail$",
+			"AskStartDatingCutscene": "Abigail_Dating",
+			"MarriageProposalCutscene": "Abigail_Proposal",
+			"RoommateCutscene": "Abigail_Roomate",
+			"CribCutscene": "Abigail_Crib",
+			"NicknameUsedByChild": "Mommy"
+		},
+		{
+			"RowName": "Emi",
+			"FriendlyName": "Sister Emi",
+			"Town": "PumpkinVale",
+			"Skeleton": "/Game/Character/NPCs/Sister_Emi.Sister_Emi",
+			"IdleAnimation": "AnimSequence'/Game/Character/Animations/Bored.Bored'",
+			"ShopBuyAnimation": "None",
+			"Birthday": 
+			{
+				"Season": 2,
+				"Day": 18
+			},
+			"DaysOff":
+			[],
+			"QuestVoiceClip": "SoundWave'/Game/Sounds/NPC_Voices/Emi_Thanks.Emi_Thanks'",
+			"HelloVoiceClip": "SoundWave'/Game/Sounds/NPC_Voices/Emi_Hey.Emi_Hey'",
+			"LikedGiftParticle": "ParticleSystem'/Game/Particles/Effects/Flowers/Flowers.Flowers'",
+			"LovedGiftParticle": "ParticleSystem'/Game/Particles/Effects/Heart/Love.Love'",
+			"BulletinBoardBackground": "Texture2D'/Game/Textures/Bulletin_Postings/Bulletin_Paper_Yellow_Neat_Paper.Bulletin_Paper_Yellow_Neat_Paper'",
+			"CanPlayerDate": true,
+			"NameTagHeight": 110,
+			"HideInJournal": false,
+			"DefaultDialogueExpression": "$SmileTalking$",
+			"AskStartDatingCutscene": "Emi_Dating",
+			"MarriageProposalCutscene": "Emi_Proposal",
+			"RoommateCutscene": "Emi_Roomate",
+			"CribCutscene": "Emi_Crib",
+			"NicknameUsedByChild": "Mom"
+		},
+		{
+			"RowName": "Tierra",
+			"FriendlyName": "Tierra",
+			"Town": "PumpkinVale",
+			"Skeleton": "/Game/Character/NPCs/Tierra_Barros.Tierra_Barros",
+			"IdleAnimation": "AnimSequence'/Game/Character/Animations/Depressed.Depressed'",
+			"ShopBuyAnimation": "None",
+			"Birthday": 
+			{
+				"Season": 1,
+				"Day": 2
+			},
+			"DaysOff":
+			[],
+			"QuestVoiceClip": "SoundWave'/Game/Sounds/NPC_Voices/Tierra_Thanks.Tierra_Thanks'",
+			"HelloVoiceClip": "SoundWave'/Game/Sounds/NPC_Voices/Tierra_Hey.Tierra_Hey'",
+			"LikedGiftParticle": "ParticleSystem'/Game/Particles/Effects/Flowers/Flowers.Flowers'",
+			"LovedGiftParticle": "ParticleSystem'/Game/Particles/Effects/Heart/Love.Love'",
+			"BulletinBoardBackground": "Texture2D'/Game/Textures/Bulletin_Postings/Bulletin_Paper_Crumbled.Bulletin_Paper_Crumbled'",
+			"CanPlayerDate": true,
+			"NameTagHeight": 110,
+			"HideInJournal": false,
+			"DefaultDialogueExpression": "$FrownTierra$",
+			"AskStartDatingCutscene": "Tierra_Dating",
+			"MarriageProposalCutscene": "Tierra_Proposal",
+			"RoommateCutscene": "Tierra_Roomate",
+			"CribCutscene": "Tierra_Crib",
+			"NicknameUsedByChild": "Mama"
+		},
+		{
+			"RowName": "Vera",
+			"FriendlyName": "Vera",
+			"Town": "PumpkinVale",
+			"Skeleton": "/Game/Character/NPCs/Vera_Jiminez.Vera_Jiminez",
+			"IdleAnimation": "None",
+			"ShopBuyAnimation": "AnimSequence'/Game/Character/Animations/Wave.Wave'",
+			"Birthday": 
+			{
+				"Season": 2,
+				"Day": 19
+			},
+			"DaysOff":
+			[],
+			"QuestVoiceClip": "SoundWave'/Game/Sounds/NPC_Voices/Vera_Thanks.Vera_Thanks'",
+			"HelloVoiceClip": "SoundWave'/Game/Sounds/NPC_Voices/Vera_Hey.Vera_Hey'",
+			"LikedGiftParticle": "ParticleSystem'/Game/Particles/Effects/Flowers/Flowers.Flowers'",
+			"LovedGiftParticle": "ParticleSystem'/Game/Particles/Effects/Heart/Love.Love'",
+			"BulletinBoardBackground": "Texture2D'/Game/Textures/Bulletin_Postings/Bulletin_Paper_White_Neat_Paper.Bulletin_Paper_White_Neat_Paper'",
+			"CanPlayerDate": true,
+			"NameTagHeight": 110,
+			"HideInJournal": false,
+			"DefaultDialogueExpression": "$SmileTalking$",
+			"AskStartDatingCutscene": "Vera_Dating",
+			"MarriageProposalCutscene": "Vera_Proposal",
+			"RoommateCutscene": "Vera_Roomate",
+			"CribCutscene": "Vera_Crib",
+			"NicknameUsedByChild": "Mom"
+		},
+		{
+			"RowName": "Joan",
+			"FriendlyName": "Sister Joan",
+			"Town": "PumpkinVale",
+			"Skeleton": "/Game/Character/NPCs/Sister_Joan.Sister_Joan",
+			"IdleAnimation": "None",
+			"ShopBuyAnimation": "None",
+			"Birthday": 
+			{
+				"Season": 0,
+				"Day": 2
+			},
+			"DaysOff":
+			[],
+			"QuestVoiceClip": "SoundWave'/Game/Sounds/NPC_Voices/Joan_Thanks.Joan_Thanks'",
+			"HelloVoiceClip": "SoundWave'/Game/Sounds/NPC_Voices/Joan_Hey.Joan_Hey'",
+			"LikedGiftParticle": "ParticleSystem'/Game/Particles/Effects/Flowers/Flowers.Flowers'",
+			"LovedGiftParticle": "ParticleSystem'/Game/Particles/Effects/Heart/Love.Love'",
+			"BulletinBoardBackground": "Texture2D'/Game/Textures/Bulletin_Postings/Bulletin_Paper_White_Neat_Paper.Bulletin_Paper_White_Neat_Paper'",
+			"CanPlayerDate": true,
+			"NameTagHeight": 110,
+			"HideInJournal": false,
+			"DefaultDialogueExpression": "$FrownJoan$",
+			"AskStartDatingCutscene": "Joan_Dating",
+			"MarriageProposalCutscene": "Joan_Proposal",
+			"RoommateCutscene": "Joan_Roomate",
+			"CribCutscene": "Joan_Crib",
+			"NicknameUsedByChild": "Mother"
+		},
+		{
+			"RowName": "MayorAssistant",
+			"FriendlyName": "",
+			"Town": "PumpkinVale",
+			"Skeleton": "/Game/Character/NPCs/Sister_Abigail.Sister_Abigail",
+			"IdleAnimation": "AnimSequence'/Game/Character/Animations/Idle.Idle'",
+			"ShopBuyAnimation": "None",
+			"Birthday": 
+			{
+				"Season": 0,
+				"Day": 0
+			},
+			"DaysOff":
+			[],
+			"QuestVoiceClip": "None",
+			"HelloVoiceClip": "None",
+			"LikedGiftParticle": "ParticleSystem'/Game/Particles/Effects/Flowers/Flowers.Flowers'",
+			"LovedGiftParticle": "None",
+			"BulletinBoardBackground": "None",
+			"CanPlayerDate": false,
+			"NameTagHeight": 110,
+			"HideInJournal": true,
+			"DefaultDialogueExpression": "",
+			"AskStartDatingCutscene": "None",
+			"MarriageProposalCutscene": "None",
+			"RoommateCutscene": "None",
+			"CribCutscene": "None",
+			"NicknameUsedByChild": ""
+		},
+		{
+			"RowName": "Mayor",
+			"FriendlyName": "",
+			"Town": "PumpkinVale",
+			"Skeleton": "/Game/Character/Demo_Character_MeshxSkeleton.Demo_Character_MeshxSkeleton",
+			"IdleAnimation": "AnimSequence'/Game/Character/Animations/Idle.Idle'",
+			"ShopBuyAnimation": "None",
+			"Birthday": 
+			{
+				"Season": 0,
+				"Day": 0
+			},
+			"DaysOff":
+			[],
+			"QuestVoiceClip": "None",
+			"HelloVoiceClip": "None",
+			"LikedGiftParticle": "None",
+			"LovedGiftParticle": "None",
+			"BulletinBoardBackground": "None",
+			"CanPlayerDate": false,
+			"NameTagHeight": 110,
+			"HideInJournal": true,
+			"DefaultDialogueExpression": "",
+			"AskStartDatingCutscene": "None",
+			"MarriageProposalCutscene": "None",
+			"RoommateCutscene": "None",
+			"CribCutscene": "None",
+			"NicknameUsedByChild": ""
+		},
+		{
+			"RowName": "UpgradeNpc",
+			"FriendlyName": "",
+			"Town": "PumpkinVale",
+			"Skeleton": "/Game/Character/NPCs/Sister_Joan.Sister_Joan",
+			"IdleAnimation": "AnimSequence'/Game/Character/Animations/Idle.Idle'",
+			"ShopBuyAnimation": "None",
+			"Birthday": 
+			{
+				"Season": 0,
+				"Day": 0
+			},
+			"DaysOff":
+			[],
+			"QuestVoiceClip": "None",
+			"HelloVoiceClip": "None",
+			"LikedGiftParticle": "None",
+			"LovedGiftParticle": "None",
+			"BulletinBoardBackground": "None",
+			"CanPlayerDate": false,
+			"NameTagHeight": 110,
+			"HideInJournal": true,
+			"DefaultDialogueExpression": "",
+			"AskStartDatingCutscene": "None",
+			"MarriageProposalCutscene": "None",
+			"RoommateCutscene": "None",
+			"CribCutscene": "None",
+			"NicknameUsedByChild": ""
+		},
+		{
+			"RowName": "Alec",
+			"FriendlyName": "Alec",
+			"Town": "PumpkinVale",
+			"Skeleton": "/Game/Character/NPCs/Alec_Gordon2.Alec_Gordon2",
+			"IdleAnimation": "None",
+			"ShopBuyAnimation": "None",
+			"Birthday": 
+			{
+				"Season": 2,
+				"Day": 22
+			},
+			"DaysOff":
+			[],
+			"QuestVoiceClip": "SoundWave'/Game/Sounds/NPC_Voices/Alec_Thanks.Alec_Thanks'",
+			"HelloVoiceClip": "SoundWave'/Game/Sounds/NPC_Voices/Alec_Hey.Alec_Hey'",
+			"LikedGiftParticle": "ParticleSystem'/Game/Particles/Effects/Flowers/Flowers.Flowers'",
+			"LovedGiftParticle": "ParticleSystem'/Game/Particles/Effects/Heart/Love.Love'",
+			"BulletinBoardBackground": "Texture2D'/Game/Textures/Bulletin_Postings/Bulletin_Paper_White_Neat_Paper.Bulletin_Paper_White_Neat_Paper'",
+			"CanPlayerDate": true,
+			"NameTagHeight": 110,
+			"HideInJournal": false,
+			"DefaultDialogueExpression": "$SmileTalkingAlec$",
+			"AskStartDatingCutscene": "Alec_Dating",
+			"MarriageProposalCutscene": "Alec_Proposal",
+			"RoommateCutscene": "Alec_Roomate",
+			"CribCutscene": "Alec_Crib",
+			"NicknameUsedByChild": "Dad"
+		},
+		{
+			"RowName": "Alex",
+			"FriendlyName": "Alex",
+			"Town": "PumpkinVale",
+			"Skeleton": "/Game/Character/NPCs/Alex_Cooper.Alex_Cooper",
+			"IdleAnimation": "None",
+			"ShopBuyAnimation": "AnimSequence'/Game/Character/Animations/Thumbs_Up.Thumbs_Up'",
+			"Birthday": 
+			{
+				"Season": 2,
+				"Day": 5
+			},
+			"DaysOff":
+			[],
+			"QuestVoiceClip": "SoundWave'/Game/Sounds/NPC_Voices/Alex_Thanks.Alex_Thanks'",
+			"HelloVoiceClip": "SoundWave'/Game/Sounds/NPC_Voices/Alex_Hey.Alex_Hey'",
+			"LikedGiftParticle": "ParticleSystem'/Game/Particles/Effects/Flowers/Flowers.Flowers'",
+			"LovedGiftParticle": "ParticleSystem'/Game/Particles/Effects/Heart/Love.Love'",
+			"BulletinBoardBackground": "Texture2D'/Game/Textures/Bulletin_Postings/Bulletin_Paper_Yellow_Neat_Paper.Bulletin_Paper_Yellow_Neat_Paper'",
+			"CanPlayerDate": true,
+			"NameTagHeight": 110,
+			"HideInJournal": false,
+			"DefaultDialogueExpression": "$SmileTalkingAlex$",
+			"AskStartDatingCutscene": "Alex_Dating",
+			"MarriageProposalCutscene": "Alex_Proposal",
+			"RoommateCutscene": "Alex_Roomate",
+			"CribCutscene": "Alex_Crib",
+			"NicknameUsedByChild": "Mom"
+		},
+		{
+			"RowName": "Black_Mask",
+			"FriendlyName": "Black Mask",
+			"Town": "PumpkinVale",
+			"Skeleton": "/Game/Character/NPCs/Black_Mask.Black_Mask",
+			"IdleAnimation": "None",
+			"ShopBuyAnimation": "None",
+			"Birthday": 
+			{
+				"Season": 2,
+				"Day": 8
+			},
+			"DaysOff":
+			[],
+			"QuestVoiceClip": "SoundWave'/Game/Sounds/NPC_Voices/Black_Mask_Thanks.Black_Mask_Thanks'",
+			"HelloVoiceClip": "SoundWave'/Game/Sounds/NPC_Voices/Black_Mask_Thanks.Black_Mask_Thanks'",
+			"LikedGiftParticle": "ParticleSystem'/Game/Particles/Effects/Flowers/Flowers.Flowers'",
+			"LovedGiftParticle": "ParticleSystem'/Game/Particles/Effects/Heart/Love.Love'",
+			"BulletinBoardBackground": "Texture2D'/Game/Textures/Bulletin_Postings/Bulletin_Paper_Crumbled_White.Bulletin_Paper_Crumbled_White'",
+			"CanPlayerDate": true,
+			"NameTagHeight": 110,
+			"HideInJournal": false,
+			"DefaultDialogueExpression": "",
+			"AskStartDatingCutscene": "Black_Mask_Dating",
+			"MarriageProposalCutscene": "Black_Mask_Proposal",
+			"RoommateCutscene": "Black_Mask_Roomate",
+			"CribCutscene": "Black_Mask_Crib",
+			"NicknameUsedByChild": "Dad"
+		},
+		{
+			"RowName": "Claudio",
+			"FriendlyName": "Claudio",
+			"Town": "PumpkinVale",
+			"Skeleton": "/Game/Character/NPCs/Claudio_Steele.Claudio_Steele",
+			"IdleAnimation": "None",
+			"ShopBuyAnimation": "None",
+			"Birthday": 
+			{
+				"Season": 1,
+				"Day": 14
+			},
+			"DaysOff":
+			[],
+			"QuestVoiceClip": "SoundWave'/Game/Sounds/NPC_Voices/Claudio_Thanks.Claudio_Thanks'",
+			"HelloVoiceClip": "SoundWave'/Game/Sounds/NPC_Voices/Claudio_Hey.Claudio_Hey'",
+			"LikedGiftParticle": "ParticleSystem'/Game/Particles/Effects/Flowers/Flowers.Flowers'",
+			"LovedGiftParticle": "ParticleSystem'/Game/Particles/Effects/Heart/Love.Love'",
+			"BulletinBoardBackground": "Texture2D'/Game/Textures/Bulletin_Postings/Bulletin_Paper_Purple_Neat_Paper.Bulletin_Paper_Purple_Neat_Paper'",
+			"CanPlayerDate": true,
+			"NameTagHeight": 110,
+			"HideInJournal": false,
+			"DefaultDialogueExpression": "$SmileTalkingClaudio$",
+			"AskStartDatingCutscene": "Claudio_Dating",
+			"MarriageProposalCutscene": "Claudio_Proposal",
+			"RoommateCutscene": "Claudio_Roomate",
+			"CribCutscene": "Claudio_Crib",
+			"NicknameUsedByChild": "Claudy"
+		},
+		{
+			"RowName": "Dahlia",
+			"FriendlyName": "Dahlia",
+			"Town": "PumpkinVale",
+			"Skeleton": "/Game/Character/NPCs/Dahlia_Gardner.Dahlia_Gardner",
+			"IdleAnimation": "AnimSequence'/Game/Character/Animations/Innocent.Innocent'",
+			"ShopBuyAnimation": "AnimSequence'/Game/Character/Animations/Wave.Wave'",
+			"Birthday": 
+			{
+				"Season": 0,
+				"Day": 6
+			},
+			"DaysOff":
+			[],
+			"QuestVoiceClip": "SoundWave'/Game/Sounds/NPC_Voices/Dahlia_Thanks.Dahlia_Thanks'",
+			"HelloVoiceClip": "SoundWave'/Game/Sounds/NPC_Voices/Dahlia_Hey.Dahlia_Hey'",
+			"LikedGiftParticle": "ParticleSystem'/Game/Particles/Effects/Flowers/Flowers.Flowers'",
+			"LovedGiftParticle": "ParticleSystem'/Game/Particles/Effects/Heart/Love.Love'",
+			"BulletinBoardBackground": "Texture2D'/Game/Textures/Bulletin_Postings/Bulletin_Paper_Purple_Neat_Paper.Bulletin_Paper_Purple_Neat_Paper'",
+			"CanPlayerDate": true,
+			"NameTagHeight": 110,
+			"HideInJournal": false,
+			"DefaultDialogueExpression": "$SmileTalkingDahlia$",
+			"AskStartDatingCutscene": "Dahlia_Dating",
+			"MarriageProposalCutscene": "Dahlia_Proposal",
+			"RoommateCutscene": "Dahlia_Roomate",
+			"CribCutscene": "Dahlia_Crib",
+			"NicknameUsedByChild": "Mama"
+		},
+		{
+			"RowName": "Dee",
+			"FriendlyName": "Dee",
+			"Town": "PumpkinVale",
+			"Skeleton": "/Game/Character/NPCs/Dee_Evans.Dee_Evans",
+			"IdleAnimation": "AnimSequence'/Game/Character/Animations/Cool.Cool'",
+			"ShopBuyAnimation": "None",
+			"Birthday": 
+			{
+				"Season": 1,
+				"Day": 25
+			},
+			"DaysOff":
+			[],
+			"QuestVoiceClip": "SoundWave'/Game/Sounds/NPC_Voices/Dee_Thanks.Dee_Thanks'",
+			"HelloVoiceClip": "SoundWave'/Game/Sounds/NPC_Voices/Dee_Hey.Dee_Hey'",
+			"LikedGiftParticle": "ParticleSystem'/Game/Particles/Effects/Flowers/Flowers.Flowers'",
+			"LovedGiftParticle": "ParticleSystem'/Game/Particles/Effects/Heart/Love.Love'",
+			"BulletinBoardBackground": "Texture2D'/Game/Textures/Bulletin_Postings/Bulletin_Paper_Purple_Neat_Paper.Bulletin_Paper_Purple_Neat_Paper'",
+			"CanPlayerDate": true,
+			"NameTagHeight": 110,
+			"HideInJournal": false,
+			"DefaultDialogueExpression": "$FrownTalkingDee$",
+			"AskStartDatingCutscene": "Dee_Dating",
+			"MarriageProposalCutscene": "Dee_Proposal",
+			"RoommateCutscene": "Dee_Roomate",
+			"CribCutscene": "Dee_Crib",
+			"NicknameUsedByChild": "Mom"
+		},
+		{
+			"RowName": "Eddie",
+			"FriendlyName": "Eddie",
+			"Town": "PumpkinVale",
+			"Skeleton": "/Game/Character/NPCs/Eddie_Woodrue.Eddie_Woodrue",
+			"IdleAnimation": "AnimSequence'/Game/Character/Animations/Bored.Bored'",
+			"ShopBuyAnimation": "None",
+			"Birthday": 
+			{
+				"Season": 3,
+				"Day": 9
+			},
+			"DaysOff":
+			[],
+			"QuestVoiceClip": "SoundWave'/Game/Sounds/NPC_Voices/Eddie_Thanks.Eddie_Thanks'",
+			"HelloVoiceClip": "SoundWave'/Game/Sounds/NPC_Voices/Eddie_Hey.Eddie_Hey'",
+			"LikedGiftParticle": "ParticleSystem'/Game/Particles/Effects/Flowers/Flowers.Flowers'",
+			"LovedGiftParticle": "ParticleSystem'/Game/Particles/Effects/Heart/Love.Love'",
+			"BulletinBoardBackground": "Texture2D'/Game/Textures/Bulletin_Postings/Bulletin_Paper_White_Neat_Paper.Bulletin_Paper_White_Neat_Paper'",
+			"CanPlayerDate": false,
+			"NameTagHeight": 110,
+			"HideInJournal": false,
+			"DefaultDialogueExpression": "$FrownTalkingEddie$",
+			"AskStartDatingCutscene": "None",
+			"MarriageProposalCutscene": "None",
+			"RoommateCutscene": "None",
+			"CribCutscene": "None",
+			"NicknameUsedByChild": ""
+		},
+		{
+			"RowName": "El_Toro_Furio",
+			"FriendlyName": "El Toro Furioso",
+			"Town": "PumpkinVale",
+			"Skeleton": "/Game/Character/NPCs/El_Toro.El_Toro",
+			"IdleAnimation": "None",
+			"ShopBuyAnimation": "None",
+			"Birthday": 
+			{
+				"Season": 0,
+				"Day": 3
+			},
+			"DaysOff":
+			[],
+			"QuestVoiceClip": "SoundWave'/Game/Sounds/NPC_Voices/El_Toro_Furio_Thanks.El_Toro_Furio_Thanks'",
+			"HelloVoiceClip": "SoundWave'/Game/Sounds/NPC_Voices/El_Toro_Furio_Hey.El_Toro_Furio_Hey'",
+			"LikedGiftParticle": "ParticleSystem'/Game/Particles/Effects/Flowers/Flowers.Flowers'",
+			"LovedGiftParticle": "ParticleSystem'/Game/Particles/Effects/Heart/Love.Love'",
+			"BulletinBoardBackground": "Texture2D'/Game/Textures/Bulletin_Postings/Bulletin_Paper_White_Neat_Paper.Bulletin_Paper_White_Neat_Paper'",
+			"CanPlayerDate": true,
+			"NameTagHeight": 110,
+			"HideInJournal": false,
+			"DefaultDialogueExpression": "",
+			"AskStartDatingCutscene": "None",
+			"MarriageProposalCutscene": "None",
+			"RoommateCutscene": "None",
+			"CribCutscene": "None",
+			"NicknameUsedByChild": ""
+		},
+		{
+			"RowName": "Evan",
+			"FriendlyName": "Evan",
+			"Town": "PumpkinVale",
+			"Skeleton": "/Game/Character/NPCs/Evan.Evan",
+			"IdleAnimation": "AnimSequence'/Game/Character/Animations/Idle_Strong.Idle_Strong'",
+			"ShopBuyAnimation": "None",
+			"Birthday": 
+			{
+				"Season": 3,
+				"Day": 5
+			},
+			"DaysOff":
+			[],
+			"QuestVoiceClip": "SoundWave'/Game/Sounds/NPC_Voices/Evan_Thanks.Evan_Thanks'",
+			"HelloVoiceClip": "SoundWave'/Game/Sounds/NPC_Voices/Evan_Hey.Evan_Hey'",
+			"LikedGiftParticle": "ParticleSystem'/Game/Particles/Effects/Flowers/Flowers.Flowers'",
+			"LovedGiftParticle": "ParticleSystem'/Game/Particles/Effects/Heart/Love.Love'",
+			"BulletinBoardBackground": "Texture2D'/Game/Textures/Bulletin_Postings/Bulletin_Paper_Yellow_Neat_Paper.Bulletin_Paper_Yellow_Neat_Paper'",
+			"CanPlayerDate": true,
+			"NameTagHeight": 110,
+			"HideInJournal": false,
+			"DefaultDialogueExpression": "$SmileEvan$",
+			"AskStartDatingCutscene": "Evan_Dating",
+			"MarriageProposalCutscene": "Evan_Proposal",
+			"RoommateCutscene": "Evan_Roomate",
+			"CribCutscene": "Evan_Crib",
+			"NicknameUsedByChild": "Dad"
+		},
+		{
+			"RowName": "Ezekiel",
+			"FriendlyName": "Ezekiel",
+			"Town": "PumpkinVale",
+			"Skeleton": "/Game/Character/NPCs/Ezekiel_Crane.Ezekiel_Crane",
+			"IdleAnimation": "None",
+			"ShopBuyAnimation": "None",
+			"Birthday": 
+			{
+				"Season": 1,
+				"Day": 15
+			},
+			"DaysOff":
+			[],
+			"QuestVoiceClip": "SoundWave'/Game/Sounds/NPC_Voices/Ezekiel_Thanks.Ezekiel_Thanks'",
+			"HelloVoiceClip": "SoundWave'/Game/Sounds/NPC_Voices/Ezekiel_Hey.Ezekiel_Hey'",
+			"LikedGiftParticle": "ParticleSystem'/Game/Particles/Effects/Flowers/Flowers.Flowers'",
+			"LovedGiftParticle": "ParticleSystem'/Game/Particles/Effects/Heart/Love.Love'",
+			"BulletinBoardBackground": "Texture2D'/Game/Textures/Bulletin_Postings/Bulletin_Paper_Crumbled.Bulletin_Paper_Crumbled'",
+			"CanPlayerDate": true,
+			"NameTagHeight": 110,
+			"HideInJournal": false,
+			"DefaultDialogueExpression": "$SmileTalking_NL$",
+			"AskStartDatingCutscene": "Ezekiel_Dating",
+			"MarriageProposalCutscene": "Ezekiel_Proposal",
+			"RoommateCutscene": "Ezekiel_Roomate",
+			"CribCutscene": "Ezekiel_Crib",
+			"NicknameUsedByChild": "Papa"
+		},
+		{
+			"RowName": "Faiyaz",
+			"FriendlyName": "Faiyaz",
+			"Town": "PumpkinVale",
+			"Skeleton": "/Game/Character/NPCs/Faiyaz_Shah.Faiyaz_Shah",
+			"IdleAnimation": "None",
+			"ShopBuyAnimation": "None",
+			"Birthday": 
+			{
+				"Season": 0,
+				"Day": 15
+			},
+			"DaysOff":
+			[],
+			"QuestVoiceClip": "SoundWave'/Game/Sounds/NPC_Voices/Faiyaz_Hey.Faiyaz_Hey'",
+			"HelloVoiceClip": "SoundWave'/Game/Sounds/NPC_Voices/Faiyaz_Hey.Faiyaz_Hey'",
+			"LikedGiftParticle": "ParticleSystem'/Game/Particles/Effects/Flowers/Flowers.Flowers'",
+			"LovedGiftParticle": "ParticleSystem'/Game/Particles/Effects/Heart/Love.Love'",
+			"BulletinBoardBackground": "Texture2D'/Game/Textures/Bulletin_Postings/Bulletin_Paper_Grid.Bulletin_Paper_Grid'",
+			"CanPlayerDate": true,
+			"NameTagHeight": 110,
+			"HideInJournal": false,
+			"DefaultDialogueExpression": "$SmileTalkingFaiyaz$",
+			"AskStartDatingCutscene": "Faiyaz_Dating",
+			"MarriageProposalCutscene": "Faiyaz_Proposal",
+			"RoommateCutscene": "Faiyaz_Roomate",
+			"CribCutscene": "Faiyaz_Crib",
+			"NicknameUsedByChild": "Dad"
+		},
+		{
+			"RowName": "Gelfie",
+			"FriendlyName": "Gelfie",
+			"Town": "PumpkinVale",
+			"Skeleton": "/Game/Character/NPCs/Gelfie_Morgan.Gelfie_Morgan",
+			"IdleAnimation": "None",
+			"ShopBuyAnimation": "None",
+			"Birthday": 
+			{
+				"Season": 1,
+				"Day": 13
+			},
+			"DaysOff":
+			[],
+			"QuestVoiceClip": "SoundWave'/Game/Sounds/NPC_Voices/Gelfie_Thanks.Gelfie_Thanks'",
+			"HelloVoiceClip": "SoundWave'/Game/Sounds/NPC_Voices/Gelfie_Hey.Gelfie_Hey'",
+			"LikedGiftParticle": "ParticleSystem'/Game/Particles/Effects/Flowers/Flowers.Flowers'",
+			"LovedGiftParticle": "ParticleSystem'/Game/Particles/Effects/Heart/Love.Love'",
+			"BulletinBoardBackground": "Texture2D'/Game/Textures/Bulletin_Postings/Bulletin_Paper_Coffee_Stain.Bulletin_Paper_Coffee_Stain'",
+			"CanPlayerDate": true,
+			"NameTagHeight": 140,
+			"HideInJournal": false,
+			"DefaultDialogueExpression": "$FrownTalkingGelfie$",
+			"AskStartDatingCutscene": "Gelfie_Dating",
+			"MarriageProposalCutscene": "None",
+			"RoommateCutscene": "None",
+			"CribCutscene": "None",
+			"NicknameUsedByChild": "Mother"
+		},
+		{
+			"RowName": "Hyun_Jae_Oh",
+			"FriendlyName": "Hyun Jae",
+			"Town": "PumpkinVale",
+			"Skeleton": "/Game/Character/NPCs/Hyun_Jae_Oh.Hyun_Jae_Oh",
+			"IdleAnimation": "None",
+			"ShopBuyAnimation": "None",
+			"Birthday": 
+			{
+				"Season": 3,
+				"Day": 10
+			},
+			"DaysOff":
+			[],
+			"QuestVoiceClip": "SoundWave'/Game/Sounds/NPC_Voices/Hyun_Jae_Thanks.Hyun_Jae_Thanks'",
+			"HelloVoiceClip": "SoundWave'/Game/Sounds/NPC_Voices/Hyun_Jae_Hey.Hyun_Jae_Hey'",
+			"LikedGiftParticle": "ParticleSystem'/Game/Particles/Effects/Flowers/Flowers.Flowers'",
+			"LovedGiftParticle": "ParticleSystem'/Game/Particles/Effects/Heart/Love.Love'",
+			"BulletinBoardBackground": "Texture2D'/Game/Textures/Bulletin_Postings/Bulletin_Paper_Coffee_Stain.Bulletin_Paper_Coffee_Stain'",
+			"CanPlayerDate": true,
+			"NameTagHeight": 110,
+			"HideInJournal": false,
+			"DefaultDialogueExpression": "$FrownTalkingHyunJaeOh$",
+			"AskStartDatingCutscene": "Hyun_Jae_Dating",
+			"MarriageProposalCutscene": "Hyun_Jae_Oh_Proposal",
+			"RoommateCutscene": "Hyun_Jae_Roomate",
+			"CribCutscene": "Hyun_Jae_Crib",
+			"NicknameUsedByChild": "Mom"
+		},
+		{
+			"RowName": "Iris",
+			"FriendlyName": "Iris",
+			"Town": "PumpkinVale",
+			"Skeleton": "/Game/Character/NPCs/Iris_Gardner.Iris_Gardner",
+			"IdleAnimation": "None",
+			"ShopBuyAnimation": "None",
+			"Birthday": 
+			{
+				"Season": 0,
+				"Day": 26
+			},
+			"DaysOff":
+			[],
+			"QuestVoiceClip": "SoundWave'/Game/Sounds/NPC_Voices/Iris_Thanks.Iris_Thanks'",
+			"HelloVoiceClip": "SoundWave'/Game/Sounds/NPC_Voices/Iris_Hey.Iris_Hey'",
+			"LikedGiftParticle": "ParticleSystem'/Game/Particles/Effects/Flowers/Flowers.Flowers'",
+			"LovedGiftParticle": "ParticleSystem'/Game/Particles/Effects/Heart/Love.Love'",
+			"BulletinBoardBackground": "Texture2D'/Game/Textures/Bulletin_Postings/Bulletin_Paper_Sewing.Bulletin_Paper_Sewing'",
+			"CanPlayerDate": true,
+			"NameTagHeight": 110,
+			"HideInJournal": false,
+			"DefaultDialogueExpression": "$SmileTalkingIris$",
+			"AskStartDatingCutscene": "Iris_Dating",
+			"MarriageProposalCutscene": "Iris_Proposal",
+			"RoommateCutscene": "Iris_Roomate",
+			"CribCutscene": "Iris_Crib",
+			"NicknameUsedByChild": "Mom"
+		},
+		{
+			"RowName": "Jaime",
+			"FriendlyName": "Jaime",
+			"Town": "PumpkinVale",
+			"Skeleton": "/Game/Character/NPCs/Jaime_Vasquez.Jaime_Vasquez",
+			"IdleAnimation": "None",
+			"ShopBuyAnimation": "None",
+			"Birthday": 
+			{
+				"Season": 3,
+				"Day": 25
+			},
+			"DaysOff":
+			[],
+			"QuestVoiceClip": "SoundWave'/Game/Sounds/NPC_Voices/Jaime_Thanks.Jaime_Thanks'",
+			"HelloVoiceClip": "SoundWave'/Game/Sounds/NPC_Voices/Jaime_Hey.Jaime_Hey'",
+			"LikedGiftParticle": "ParticleSystem'/Game/Particles/Effects/Flowers/Flowers.Flowers'",
+			"LovedGiftParticle": "ParticleSystem'/Game/Particles/Effects/Heart/Love.Love'",
+			"BulletinBoardBackground": "Texture2D'/Game/Textures/Bulletin_Postings/Bulletin_Paper_White_Neat_Paper.Bulletin_Paper_White_Neat_Paper'",
+			"CanPlayerDate": true,
+			"NameTagHeight": 110,
+			"HideInJournal": false,
+			"DefaultDialogueExpression": "$SmileTalkingJaime$",
+			"AskStartDatingCutscene": "Jaime_Dating",
+			"MarriageProposalCutscene": "Jaime_Proposal",
+			"RoommateCutscene": "Jaime_Roomate",
+			"CribCutscene": "Jaime_Crib",
+			"NicknameUsedByChild": "Dad"
+		},
+		{
+			"RowName": "Jefe",
+			"FriendlyName": "Jefe",
+			"Town": "PumpkinVale",
+			"Skeleton": "/Game/Character/NPCs/Jefe.Jefe",
+			"IdleAnimation": "AnimSequence'/Game/Character/Animations/Idle_Strong.Idle_Strong'",
+			"ShopBuyAnimation": "None",
+			"Birthday": 
+			{
+				"Season": 1,
+				"Day": 5
+			},
+			"DaysOff":
+			[],
+			"QuestVoiceClip": "SoundWave'/Game/Sounds/NPC_Voices/Jefe_Thanks.Jefe_Thanks'",
+			"HelloVoiceClip": "SoundWave'/Game/Sounds/NPC_Voices/Jefe_Hey.Jefe_Hey'",
+			"LikedGiftParticle": "ParticleSystem'/Game/Particles/Effects/Flowers/Flowers.Flowers'",
+			"LovedGiftParticle": "ParticleSystem'/Game/Particles/Effects/Heart/Love.Love'",
+			"BulletinBoardBackground": "Texture2D'/Game/Textures/Bulletin_Postings/Bulletin_Paper_Grid.Bulletin_Paper_Grid'",
+			"CanPlayerDate": false,
+			"NameTagHeight": 110,
+			"HideInJournal": false,
+			"DefaultDialogueExpression": "",
+			"AskStartDatingCutscene": "None",
+			"MarriageProposalCutscene": "None",
+			"RoommateCutscene": "None",
+			"CribCutscene": "None",
+			"NicknameUsedByChild": ""
+		},
+		{
+			"RowName": "Jelmo",
+			"FriendlyName": "Jelmo",
+			"Town": "PumpkinVale",
+			"Skeleton": "/Game/Character/NPCs/Jelmo_Tequil.Jelmo_Tequil",
+			"IdleAnimation": "AnimSequence'/Game/Character/Animations/Authority.Authority'",
+			"ShopBuyAnimation": "None",
+			"Birthday": 
+			{
+				"Season": 0,
+				"Day": 9
+			},
+			"DaysOff":
+			[],
+			"QuestVoiceClip": "SoundWave'/Game/Sounds/NPC_Voices/Jelmo_Thanks.Jelmo_Thanks'",
+			"HelloVoiceClip": "SoundWave'/Game/Sounds/NPC_Voices/Jelmo_Hey.Jelmo_Hey'",
+			"LikedGiftParticle": "ParticleSystem'/Game/Particles/Effects/Flowers/Flowers.Flowers'",
+			"LovedGiftParticle": "ParticleSystem'/Game/Particles/Effects/Heart/Love.Love'",
+			"BulletinBoardBackground": "Texture2D'/Game/Textures/Bulletin_Postings/Bulletin_Paper_Crumbled_White.Bulletin_Paper_Crumbled_White'",
+			"CanPlayerDate": true,
+			"NameTagHeight": 110,
+			"HideInJournal": false,
+			"DefaultDialogueExpression": "$SmileTalkingJelmo$",
+			"AskStartDatingCutscene": "Jelmo_Dating",
+			"MarriageProposalCutscene": "Jelmo_Proposal",
+			"RoommateCutscene": "Jelmo_Roomate",
+			"CribCutscene": "Jelmo_Crib",
+			"NicknameUsedByChild": "Dad"
+		},
+		{
+			"RowName": "Jim",
+			"FriendlyName": "Jim",
+			"Town": "PumpkinVale",
+			"Skeleton": "/Game/Character/NPCs/Jim.Jim",
+			"IdleAnimation": "None",
+			"ShopBuyAnimation": "None",
+			"Birthday": 
+			{
+				"Season": 1,
+				"Day": 3
+			},
+			"DaysOff":
+			[],
+			"QuestVoiceClip": "SoundWave'/Game/Sounds/NPC_Voices/Jim_Thanks.Jim_Thanks'",
+			"HelloVoiceClip": "SoundWave'/Game/Sounds/NPC_Voices/Jim_Hey.Jim_Hey'",
+			"LikedGiftParticle": "ParticleSystem'/Game/Particles/Effects/Flowers/Flowers.Flowers'",
+			"LovedGiftParticle": "ParticleSystem'/Game/Particles/Effects/Heart/Love.Love'",
+			"BulletinBoardBackground": "Texture2D'/Game/Textures/Bulletin_Postings/Bulletin_Paper_Crumbled_White.Bulletin_Paper_Crumbled_White'",
+			"CanPlayerDate": true,
+			"NameTagHeight": 110,
+			"HideInJournal": false,
+			"DefaultDialogueExpression": "$DrunkJim$",
+			"AskStartDatingCutscene": "Jim_Dating",
+			"MarriageProposalCutscene": "Jim_Proposal",
+			"RoommateCutscene": "Jim_Roomate",
+			"CribCutscene": "Jim_Crib",
+			"NicknameUsedByChild": "Dad"
+		},
+		{
+			"RowName": "Julian",
+			"FriendlyName": "Julian",
+			"Town": "PumpkinVale",
+			"Skeleton": "/Game/Character/NPCs/Julian.Julian",
+			"IdleAnimation": "None",
+			"ShopBuyAnimation": "None",
+			"Birthday": 
+			{
+				"Season": 2,
+				"Day": 14
+			},
+			"DaysOff":
+			[],
+			"QuestVoiceClip": "SoundWave'/Game/Sounds/NPC_Voices/Julian_Thanks.Julian_Thanks'",
+			"HelloVoiceClip": "SoundWave'/Game/Sounds/NPC_Voices/Julian_Hey.Julian_Hey'",
+			"LikedGiftParticle": "ParticleSystem'/Game/Particles/Effects/Flowers/Flowers.Flowers'",
+			"LovedGiftParticle": "ParticleSystem'/Game/Particles/Effects/Heart/Love.Love'",
+			"BulletinBoardBackground": "Texture2D'/Game/Textures/Bulletin_Postings/Bulletin_Paper_White_Neat_Paper.Bulletin_Paper_White_Neat_Paper'",
+			"CanPlayerDate": false,
+			"NameTagHeight": 110,
+			"HideInJournal": false,
+			"DefaultDialogueExpression": "$JulianTalking$",
+			"AskStartDatingCutscene": "None",
+			"MarriageProposalCutscene": "None",
+			"RoommateCutscene": "None",
+			"CribCutscene": "None",
+			"NicknameUsedByChild": ""
+		},
+		{
+			"RowName": "Kumoko",
+			"FriendlyName": "Kumoko",
+			"Town": "PumpkinVale",
+			"Skeleton": "/Game/Character/NPCs/Kumoko_Hime.Kumoko_Hime",
+			"IdleAnimation": "None",
+			"ShopBuyAnimation": "None",
+			"Birthday": 
+			{
+				"Season": 2,
+				"Day": 13
+			},
+			"DaysOff":
+			[],
+			"QuestVoiceClip": "SoundWave'/Game/Sounds/NPC_Voices/Kumuko_Thanks.Kumuko_Thanks'",
+			"HelloVoiceClip": "SoundWave'/Game/Sounds/NPC_Voices/Kumuko_Hey.Kumuko_Hey'",
+			"LikedGiftParticle": "ParticleSystem'/Game/Particles/Effects/Flowers/Flowers.Flowers'",
+			"LovedGiftParticle": "ParticleSystem'/Game/Particles/Effects/Heart/Love.Love'",
+			"BulletinBoardBackground": "Texture2D'/Game/Textures/Bulletin_Postings/Bulletin_Paper_White_Neat_Paper.Bulletin_Paper_White_Neat_Paper'",
+			"CanPlayerDate": true,
+			"NameTagHeight": 110,
+			"HideInJournal": false,
+			"DefaultDialogueExpression": "$SmileTalkingKumuko$",
+			"AskStartDatingCutscene": "Kumoko_Dating",
+			"MarriageProposalCutscene": "Kumoko_Proposal",
+			"RoommateCutscene": "Kumoko_Roomate",
+			"CribCutscene": "Kumoko_Crib",
+			"NicknameUsedByChild": ""
+		},
+		{
+			"RowName": "Lily_Bean",
+			"FriendlyName": "Lily",
+			"Town": "PumpkinVale",
+			"Skeleton": "/Game/Character/NPCs/Lily_Bean.Lily_Bean",
+			"IdleAnimation": "None",
+			"ShopBuyAnimation": "None",
+			"Birthday": 
+			{
+				"Season": 1,
+				"Day": 21
+			},
+			"DaysOff":
+			[],
+			"QuestVoiceClip": "SoundWave'/Game/Sounds/NPC_Voices/Lily_Bean_Thanks.Lily_Bean_Thanks'",
+			"HelloVoiceClip": "SoundWave'/Game/Sounds/NPC_Voices/Lili_Bean_Hey.Lili_Bean_Hey'",
+			"LikedGiftParticle": "ParticleSystem'/Game/Particles/Effects/Flowers/Flowers.Flowers'",
+			"LovedGiftParticle": "ParticleSystem'/Game/Particles/Effects/Heart/Love.Love'",
+			"BulletinBoardBackground": "Texture2D'/Game/Textures/Bulletin_Postings/Bulletin_Paper_Coffee_Stain.Bulletin_Paper_Coffee_Stain'",
+			"CanPlayerDate": true,
+			"NameTagHeight": 110,
+			"HideInJournal": false,
+			"DefaultDialogueExpression": "$SmileTalkingLily$",
+			"AskStartDatingCutscene": "Lily_Dating",
+			"MarriageProposalCutscene": "Lily_Bean_Proposal",
+			"RoommateCutscene": "Lily_Roomate",
+			"CribCutscene": "Lily_Crib",
+			"NicknameUsedByChild": "Mama"
+		},
+		{
+			"RowName": "Nicolas",
+			"FriendlyName": "Nicolas",
+			"Town": "PumpkinVale",
+			"Skeleton": "/Game/Character/NPCs/Nicolas_Cortijo.Nicolas_Cortijo",
+			"IdleAnimation": "None",
+			"ShopBuyAnimation": "AnimSequence'/Game/Character/Animations/Wave.Wave'",
+			"Birthday": 
+			{
+				"Season": 2,
+				"Day": 15
+			},
+			"DaysOff":
+			[],
+			"QuestVoiceClip": "SoundWave'/Game/Sounds/NPC_Voices/Nicholas_Thanks.Nicholas_Thanks'",
+			"HelloVoiceClip": "SoundWave'/Game/Sounds/NPC_Voices/Nicholas_Hey.Nicholas_Hey'",
+			"LikedGiftParticle": "ParticleSystem'/Game/Particles/Effects/Flowers/Flowers.Flowers'",
+			"LovedGiftParticle": "ParticleSystem'/Game/Particles/Effects/Heart/Love.Love'",
+			"BulletinBoardBackground": "Texture2D'/Game/Textures/Bulletin_Postings/Bulletin_Paper_Purple_Neat_Paper.Bulletin_Paper_Purple_Neat_Paper'",
+			"CanPlayerDate": true,
+			"NameTagHeight": 110,
+			"HideInJournal": false,
+			"DefaultDialogueExpression": "$SmileTalkingNicolas$",
+			"AskStartDatingCutscene": "Nicolas_Dating",
+			"MarriageProposalCutscene": "Nicolas_Proposal",
+			"RoommateCutscene": "Nicolas_Roomate",
+			"CribCutscene": "Nicolas_Crib",
+			"NicknameUsedByChild": "Papa"
+		},
+		{
+			"RowName": "Pumpkin_Jack",
+			"FriendlyName": "Pumpkin Jack",
+			"Town": "PumpkinVale",
+			"Skeleton": "/Game/Character/NPCs/Pumpkin_Jack.Pumpkin_Jack",
+			"IdleAnimation": "None",
+			"ShopBuyAnimation": "None",
+			"Birthday": 
+			{
+				"Season": 0,
+				"Day": 0
+			},
+			"DaysOff":
+			[],
+			"QuestVoiceClip": "SoundWave'/Game/Sounds/NPC_Voices/Pumpkin_Jack_Thanks.Pumpkin_Jack_Thanks'",
+			"HelloVoiceClip": "SoundWave'/Game/Sounds/NPC_Voices/Pumpkin_Jack_Hey.Pumpkin_Jack_Hey'",
+			"LikedGiftParticle": "ParticleSystem'/Game/Particles/Effects/Flowers/Flowers.Flowers'",
+			"LovedGiftParticle": "ParticleSystem'/Game/Particles/Effects/Heart/Love.Love'",
+			"BulletinBoardBackground": "Texture2D'/Game/Textures/Bulletin_Postings/Bulletin_Paper_White_Neat_Paper.Bulletin_Paper_White_Neat_Paper'",
+			"CanPlayerDate": false,
+			"NameTagHeight": 110,
+			"HideInJournal": false,
+			"DefaultDialogueExpression": "$FrownTalkingPumpkinJack$",
+			"AskStartDatingCutscene": "None",
+			"MarriageProposalCutscene": "None",
+			"RoommateCutscene": "None",
+			"CribCutscene": "None",
+			"NicknameUsedByChild": ""
+		},
+		{
+			"RowName": "Rose",
+			"FriendlyName": "Rose",
+			"Town": "PumpkinVale",
+			"Skeleton": "/Game/Character/NPCs/Rose_Gardner.Rose_Gardner",
+			"IdleAnimation": "AnimSequence'/Game/Character/Animations/Bored.Bored'",
+			"ShopBuyAnimation": "None",
+			"Birthday": 
+			{
+				"Season": 1,
+				"Day": 19
+			},
+			"DaysOff":
+			[],
+			"QuestVoiceClip": "SoundWave'/Game/Sounds/NPC_Voices/Rose_Thanks.Rose_Thanks'",
+			"HelloVoiceClip": "SoundWave'/Game/Sounds/NPC_Voices/Rose_Hey.Rose_Hey'",
+			"LikedGiftParticle": "ParticleSystem'/Game/Particles/Effects/Flowers/Flowers.Flowers'",
+			"LovedGiftParticle": "ParticleSystem'/Game/Particles/Effects/Heart/Love.Love'",
+			"BulletinBoardBackground": "Texture2D'/Game/Textures/Bulletin_Postings/Bulletin_Paper_Sewing.Bulletin_Paper_Sewing'",
+			"CanPlayerDate": true,
+			"NameTagHeight": 110,
+			"HideInJournal": false,
+			"DefaultDialogueExpression": "$FrownTalkingRose$",
+			"AskStartDatingCutscene": "Rose_Dating",
+			"MarriageProposalCutscene": "Rose_Proposal",
+			"RoommateCutscene": "Rose_Roomate",
+			"CribCutscene": "Rose_Crib",
+			"NicknameUsedByChild": "Mom"
+		},
+		{
+			"RowName": "Sebastian",
+			"FriendlyName": "Sebastian",
+			"Town": "PumpkinVale",
+			"Skeleton": "/Game/Character/NPCs/Sebastian_Cortijo.Sebastian_Cortijo",
+			"IdleAnimation": "None",
+			"ShopBuyAnimation": "AnimSequence'/Game/Character/Animations/Wave.Wave'",
+			"Birthday": 
+			{
+				"Season": 2,
+				"Day": 10
+			},
+			"DaysOff":
+			[],
+			"QuestVoiceClip": "SoundWave'/Game/Sounds/NPC_Voices/Sebastian_Thanks.Sebastian_Thanks'",
+			"HelloVoiceClip": "SoundWave'/Game/Sounds/NPC_Voices/Sebastian_Hey.Sebastian_Hey'",
+			"LikedGiftParticle": "ParticleSystem'/Game/Particles/Effects/Flowers/Flowers.Flowers'",
+			"LovedGiftParticle": "ParticleSystem'/Game/Particles/Effects/Heart/Love.Love'",
+			"BulletinBoardBackground": "Texture2D'/Game/Textures/Bulletin_Postings/Bulletin_Paper_Yellow_Neat_Paper.Bulletin_Paper_Yellow_Neat_Paper'",
+			"CanPlayerDate": true,
+			"NameTagHeight": 110,
+			"HideInJournal": false,
+			"DefaultDialogueExpression": "$SmileTalkingSebastian$",
+			"AskStartDatingCutscene": "Sebastian_Dating",
+			"MarriageProposalCutscene": "Sebastian_Proposal",
+			"RoommateCutscene": "Sebastian_Roomate",
+			"CribCutscene": "Sebastian_Crib",
+			"NicknameUsedByChild": "Papa"
+		},
+		{
+			"RowName": "Shauna",
+			"FriendlyName": "Shauna",
+			"Town": "PumpkinVale",
+			"Skeleton": "/Game/Character/NPCs/Shauna_Woodrue.Shauna_Woodrue",
+			"IdleAnimation": "None",
+			"ShopBuyAnimation": "None",
+			"Birthday": 
+			{
+				"Season": 0,
+				"Day": 7
+			},
+			"DaysOff":
+			[],
+			"QuestVoiceClip": "SoundWave'/Game/Sounds/NPC_Voices/Shauna_Thanks.Shauna_Thanks'",
+			"HelloVoiceClip": "SoundWave'/Game/Sounds/NPC_Voices/Shauna_Hey.Shauna_Hey'",
+			"LikedGiftParticle": "ParticleSystem'/Game/Particles/Effects/Flowers/Flowers.Flowers'",
+			"LovedGiftParticle": "ParticleSystem'/Game/Particles/Effects/Heart/Love.Love'",
+			"BulletinBoardBackground": "Texture2D'/Game/Textures/Bulletin_Postings/Bulletin_Paper_White_Neat_Paper.Bulletin_Paper_White_Neat_Paper'",
+			"CanPlayerDate": false,
+			"NameTagHeight": 110,
+			"HideInJournal": false,
+			"DefaultDialogueExpression": "$SmileTalkingShauna$",
+			"AskStartDatingCutscene": "None",
+			"MarriageProposalCutscene": "None",
+			"RoommateCutscene": "None",
+			"CribCutscene": "None",
+			"NicknameUsedByChild": ""
+		},
+		{
+			"RowName": "Tanis",
+			"FriendlyName": "Tanis",
+			"Town": "PumpkinVale",
+			"Skeleton": "/Game/Character/NPCs/Tanis_Black.Tanis_Black",
+			"IdleAnimation": "None",
+			"ShopBuyAnimation": "None",
+			"Birthday": 
+			{
+				"Season": 2,
+				"Day": 2
+			},
+			"DaysOff":
+			[],
+			"QuestVoiceClip": "SoundWave'/Game/Sounds/NPC_Voices/Tanis_Thanks.Tanis_Thanks'",
+			"HelloVoiceClip": "SoundWave'/Game/Sounds/NPC_Voices/Tanis_Hey.Tanis_Hey'",
+			"LikedGiftParticle": "ParticleSystem'/Game/Particles/Effects/Flowers/Flowers.Flowers'",
+			"LovedGiftParticle": "ParticleSystem'/Game/Particles/Effects/Heart/Love.Love'",
+			"BulletinBoardBackground": "Texture2D'/Game/Textures/Bulletin_Postings/Bulletin_Paper_Crumbled_White.Bulletin_Paper_Crumbled_White'",
+			"CanPlayerDate": true,
+			"NameTagHeight": 110,
+			"HideInJournal": false,
+			"DefaultDialogueExpression": "$SmileTalkingTanis$",
+			"AskStartDatingCutscene": "Tanis_Dating",
+			"MarriageProposalCutscene": "Tanis_Proposal",
+			"RoommateCutscene": "Tanis_Roomate",
+			"CribCutscene": "Tanis_Crib",
+			"NicknameUsedByChild": "Mom"
+		},
+		{
+			"RowName": "Tessa",
+			"FriendlyName": "Tessa",
+			"Town": "PumpkinVale",
+			"Skeleton": "/Game/Character/NPCs/Tessa_Delacroix.Tessa_Delacroix",
+			"IdleAnimation": "AnimSequence'/Game/Character/Animations/Shy.Shy'",
+			"ShopBuyAnimation": "None",
+			"Birthday": 
+			{
+				"Season": 2,
+				"Day": 1
+			},
+			"DaysOff":
+			[],
+			"QuestVoiceClip": "SoundWave'/Game/Sounds/NPC_Voices/Tessa_Thanks.Tessa_Thanks'",
+			"HelloVoiceClip": "SoundWave'/Game/Sounds/NPC_Voices/Tessa_Hey.Tessa_Hey'",
+			"LikedGiftParticle": "ParticleSystem'/Game/Particles/Effects/Flowers/Flowers.Flowers'",
+			"LovedGiftParticle": "ParticleSystem'/Game/Particles/Effects/Heart/Love.Love'",
+			"BulletinBoardBackground": "Texture2D'/Game/Textures/Bulletin_Postings/Bulletin_Paper_White_Neat_Paper.Bulletin_Paper_White_Neat_Paper'",
+			"CanPlayerDate": true,
+			"NameTagHeight": 110,
+			"HideInJournal": false,
+			"DefaultDialogueExpression": "$SmileTalkingTessa$",
+			"AskStartDatingCutscene": "Tessa_Dating",
+			"MarriageProposalCutscene": "Tessa_Proposal",
+			"RoommateCutscene": "Tessa_Roomate",
+			"CribCutscene": "Tessa_Crib",
+			"NicknameUsedByChild": "Mom"
+		},
+		{
+			"RowName": "Tucker",
+			"FriendlyName": "Tucker",
+			"Town": "PumpkinVale",
+			"Skeleton": "/Game/Character/NPCs/Tucker.Tucker",
+			"IdleAnimation": "None",
+			"ShopBuyAnimation": "None",
+			"Birthday": 
+			{
+				"Season": 0,
+				"Day": 16
+			},
+			"DaysOff":
+			[],
+			"QuestVoiceClip": "SoundWave'/Game/Sounds/NPC_Voices/Tucker_Thanks.Tucker_Thanks'",
+			"HelloVoiceClip": "SoundWave'/Game/Sounds/NPC_Voices/Tucker_Hey.Tucker_Hey'",
+			"LikedGiftParticle": "ParticleSystem'/Game/Particles/Effects/Flowers/Flowers.Flowers'",
+			"LovedGiftParticle": "ParticleSystem'/Game/Particles/Effects/Heart/Love.Love'",
+			"BulletinBoardBackground": "Texture2D'/Game/Textures/Bulletin_Postings/Bulletin_Paper_Coffee_Stain.Bulletin_Paper_Coffee_Stain'",
+			"CanPlayerDate": true,
+			"NameTagHeight": 110,
+			"HideInJournal": false,
+			"DefaultDialogueExpression": "$SmileTalkingTucker$",
+			"AskStartDatingCutscene": "Tucker_Dating",
+			"MarriageProposalCutscene": "Tucker_Proposal",
+			"RoommateCutscene": "Tucker_Roomate",
+			"CribCutscene": "Tucker_Crib",
+			"NicknameUsedByChild": "Dad"
+		},
+		{
+			"RowName": "Vibhat",
+			"FriendlyName": "Vibhat",
+			"Town": "PumpkinVale",
+			"Skeleton": "/Game/Character/NPCs/Vibhat_Mannan.Vibhat_Mannan",
+			"IdleAnimation": "AnimSequence'/Game/Character/Animations/Bored.Bored'",
+			"ShopBuyAnimation": "None",
+			"Birthday": 
+			{
+				"Season": 0,
+				"Day": 13
+			},
+			"DaysOff":
+			[],
+			"QuestVoiceClip": "SoundWave'/Game/Sounds/NPC_Voices/Vibhat_Thanks.Vibhat_Thanks'",
+			"HelloVoiceClip": "SoundWave'/Game/Sounds/NPC_Voices/Vibhat_Hey.Vibhat_Hey'",
+			"LikedGiftParticle": "ParticleSystem'/Game/Particles/Effects/Flowers/Flowers.Flowers'",
+			"LovedGiftParticle": "ParticleSystem'/Game/Particles/Effects/Heart/Love.Love'",
+			"BulletinBoardBackground": "Texture2D'/Game/Textures/Bulletin_Postings/Bulletin_Paper_Crumbled_White.Bulletin_Paper_Crumbled_White'",
+			"CanPlayerDate": true,
+			"NameTagHeight": 110,
+			"HideInJournal": false,
+			"DefaultDialogueExpression": "$FrownTalkingEddie$",
+			"AskStartDatingCutscene": "Vibhat_Dating",
+			"MarriageProposalCutscene": "Vibhat_Proposal",
+			"RoommateCutscene": "Vibhat_Roomate",
+			"CribCutscene": "Vibhat_Crib",
+			"NicknameUsedByChild": "Dad"
+		},
+		{
+			"RowName": "Jackie",
+			"FriendlyName": "Jackie",
+			"Town": "PumpkinVale",
+			"Skeleton": "/Game/Character/NPCs/Jackie_Rocket.Jackie_Rocket",
+			"IdleAnimation": "AnimSequence'/Game/Character/Animations/Cool.Cool'",
+			"ShopBuyAnimation": "None",
+			"Birthday": 
+			{
+				"Season": 0,
+				"Day": 12
+			},
+			"DaysOff":
+			[],
+			"QuestVoiceClip": "SoundWave'/Game/Sounds/NPC_Voices/Jackie_Thanks.Jackie_Thanks'",
+			"HelloVoiceClip": "SoundWave'/Game/Sounds/NPC_Voices/Jackie_Hey.Jackie_Hey'",
+			"LikedGiftParticle": "ParticleSystem'/Game/Particles/Effects/Flowers/Flowers.Flowers'",
+			"LovedGiftParticle": "ParticleSystem'/Game/Particles/Effects/Heart/Love.Love'",
+			"BulletinBoardBackground": "Texture2D'/Game/Textures/Bulletin_Postings/Bulletin_Paper_Crumbled_White.Bulletin_Paper_Crumbled_White'",
+			"CanPlayerDate": true,
+			"NameTagHeight": 125,
+			"HideInJournal": false,
+			"DefaultDialogueExpression": "$SmileTalkingJackie$",
+			"AskStartDatingCutscene": "Jackie_Dating",
+			"MarriageProposalCutscene": "Jackie_Proposal",
+			"RoommateCutscene": "Jackie_Roomate",
+			"CribCutscene": "Jackie_Crib",
+			"NicknameUsedByChild": "Mom"
+		},
+		{
+			"RowName": "Orpheus",
+			"FriendlyName": "Orpheus",
+			"Town": "PumpkinVale",
+			"Skeleton": "/Game/Character/NPCs/Orpheus.Orpheus_polySurface19",
+			"IdleAnimation": "AnimSequence'/Game/Character/Animations/Authority.Authority'",
+			"ShopBuyAnimation": "None",
+			"Birthday": 
+			{
+				"Season": 2,
+				"Day": 26
+			},
+			"DaysOff":
+			[],
+			"QuestVoiceClip": "SoundWave'/Game/Sounds/NPC_Voices/Orpheus_Thanks.Orpheus_Thanks'",
+			"HelloVoiceClip": "SoundWave'/Game/Sounds/NPC_Voices/Orpheus_Hey.Orpheus_Hey'",
+			"LikedGiftParticle": "ParticleSystem'/Game/Particles/Effects/Flowers/Flowers.Flowers'",
+			"LovedGiftParticle": "ParticleSystem'/Game/Particles/Effects/Heart/Love.Love'",
+			"BulletinBoardBackground": "Texture2D'/Game/Textures/Bulletin_Postings/Bulletin_Paper_White_Neat_Paper.Bulletin_Paper_White_Neat_Paper'",
+			"CanPlayerDate": true,
+			"NameTagHeight": 110,
+			"HideInJournal": false,
+			"DefaultDialogueExpression": "$SmileTalkingOrpheus$",
+			"AskStartDatingCutscene": "Orpheus_Dating",
+			"MarriageProposalCutscene": "Orpheus_Proposal",
+			"RoommateCutscene": "Orpheus_Roomate",
+			"CribCutscene": "Orpheus_Crib",
+			"NicknameUsedByChild": "Dad"
+		},
+		{
+			"RowName": "Ash",
+			"FriendlyName": "Ash",
+			"Town": "Wahoo_Beach",
+			"Skeleton": "/Game/Character/NPCs/Ash.Ash",
+			"IdleAnimation": "None",
+			"ShopBuyAnimation": "None",
+			"Birthday": 
+			{
+				"Season": 2,
+				"Day": 28
+			},
+			"DaysOff":
+			[],
+			"QuestVoiceClip": "SoundWave'/Game/Sounds/NPC_Voices/Ash_Thanks.Ash_Thanks'",
+			"HelloVoiceClip": "SoundWave'/Game/Sounds/NPC_Voices/Ash_Hey.Ash_Hey'",
+			"LikedGiftParticle": "ParticleSystem'/Game/Particles/Effects/Flowers/Flowers.Flowers'",
+			"LovedGiftParticle": "ParticleSystem'/Game/Particles/Effects/Heart/Love.Love'",
+			"BulletinBoardBackground": "Texture2D'/Game/Textures/Bulletin_Postings/Bulletin_Paper_White_Neat_Paper.Bulletin_Paper_White_Neat_Paper'",
+			"CanPlayerDate": true,
+			"NameTagHeight": 110,
+			"HideInJournal": false,
+			"DefaultDialogueExpression": "$FrownTalkingAsh$",
+			"AskStartDatingCutscene": "Ash_Dating",
+			"MarriageProposalCutscene": "Ash_Proposal",
+			"RoommateCutscene": "Ash_Roomate",
+			"CribCutscene": "Ash_Crib",
+			"NicknameUsedByChild": "Dad"
+		},
+		{
+			"RowName": "Casey",
+			"FriendlyName": "Casey",
+			"Town": "Wahoo_Beach",
+			"Skeleton": "/Game/Character/NPCs/Casey.Casey",
+			"IdleAnimation": "None",
+			"ShopBuyAnimation": "None",
+			"Birthday": 
+			{
+				"Season": 2,
+				"Day": 3
+			},
+			"DaysOff":
+			[],
+			"QuestVoiceClip": "SoundWave'/Game/Sounds/NPC_Voices/Casey_Thanks.Casey_Thanks'",
+			"HelloVoiceClip": "SoundWave'/Game/Sounds/NPC_Voices/Casey_Hey.Casey_Hey'",
+			"LikedGiftParticle": "ParticleSystem'/Game/Particles/Effects/Flowers/Flowers.Flowers'",
+			"LovedGiftParticle": "ParticleSystem'/Game/Particles/Effects/Heart/Love.Love'",
+			"BulletinBoardBackground": "Texture2D'/Game/Textures/Bulletin_Postings/Bulletin_Paper_White_Neat_Paper.Bulletin_Paper_White_Neat_Paper'",
+			"CanPlayerDate": true,
+			"NameTagHeight": 110,
+			"HideInJournal": false,
+			"DefaultDialogueExpression": "$SmileTalkingCasey$",
+			"AskStartDatingCutscene": "Casey_Dating",
+			"MarriageProposalCutscene": "Casey_Proposal",
+			"RoommateCutscene": "Casey_Roomate",
+			"CribCutscene": "Casey_Crib",
+			"NicknameUsedByChild": "Dad"
+		},
+		{
+			"RowName": "Charlie",
+			"FriendlyName": "Charlie",
+			"Town": "Wahoo_Beach",
+			"Skeleton": "/Game/Character/NPCs/Charlie.Charlie",
+			"IdleAnimation": "None",
+			"ShopBuyAnimation": "None",
+			"Birthday": 
+			{
+				"Season": 3,
+				"Day": 28
+			},
+			"DaysOff":
+			[],
+			"QuestVoiceClip": "SoundWave'/Game/Sounds/NPC_Voices/Charlie_Thanks.Charlie_Thanks'",
+			"HelloVoiceClip": "SoundWave'/Game/Sounds/NPC_Voices/Charlie_Hey.Charlie_Hey'",
+			"LikedGiftParticle": "ParticleSystem'/Game/Particles/Effects/Flowers/Flowers.Flowers'",
+			"LovedGiftParticle": "ParticleSystem'/Game/Particles/Effects/Heart/Love.Love'",
+			"BulletinBoardBackground": "Texture2D'/Game/Textures/Bulletin_Postings/Bulletin_Paper_White_Neat_Paper.Bulletin_Paper_White_Neat_Paper'",
+			"CanPlayerDate": true,
+			"NameTagHeight": 110,
+			"HideInJournal": false,
+			"DefaultDialogueExpression": "$TalkingCharlie$",
+			"AskStartDatingCutscene": "Charlie_Dating",
+			"MarriageProposalCutscene": "Charlie_Proposal",
+			"RoommateCutscene": "Charlie_Roomate",
+			"CribCutscene": "Charlie_Crib",
+			"NicknameUsedByChild": "Dad"
+		},
+		{
+			"RowName": "Charu",
+			"FriendlyName": "Charu",
+			"Town": "Wahoo_Beach",
+			"Skeleton": "/Game/Character/NPCs/Charu.Charu",
+			"IdleAnimation": "None",
+			"ShopBuyAnimation": "None",
+			"Birthday": 
+			{
+				"Season": 1,
+				"Day": 1
+			},
+			"DaysOff":
+			[],
+			"QuestVoiceClip": "SoundWave'/Game/Sounds/NPC_Voices/Charu_Thanks.Charu_Thanks'",
+			"HelloVoiceClip": "SoundWave'/Game/Sounds/NPC_Voices/Charu_Hey.Charu_Hey'",
+			"LikedGiftParticle": "ParticleSystem'/Game/Particles/Effects/Flowers/Flowers.Flowers'",
+			"LovedGiftParticle": "ParticleSystem'/Game/Particles/Effects/Heart/Love.Love'",
+			"BulletinBoardBackground": "Texture2D'/Game/Textures/Bulletin_Postings/Bulletin_Paper_White_Neat_Paper.Bulletin_Paper_White_Neat_Paper'",
+			"CanPlayerDate": true,
+			"NameTagHeight": 110,
+			"HideInJournal": false,
+			"DefaultDialogueExpression": "$CharuSmileTalking$",
+			"AskStartDatingCutscene": "Charu_Dating",
+			"MarriageProposalCutscene": "Charu_Proposal",
+			"RoommateCutscene": "Charu_Roomate",
+			"CribCutscene": "Charu_Crib",
+			"NicknameUsedByChild": "Moddy"
+		},
+		{
+			"RowName": "Clara",
+			"FriendlyName": "Clara",
+			"Town": "Wahoo_Beach",
+			"Skeleton": "/Game/Character/NPCs/Clara.Clara",
+			"IdleAnimation": "None",
+			"ShopBuyAnimation": "None",
+			"Birthday": 
+			{
+				"Season": 3,
+				"Day": 3
+			},
+			"DaysOff":
+			[],
+			"QuestVoiceClip": "SoundWave'/Game/Sounds/NPC_Voices/Clara_Thanks.Clara_Thanks'",
+			"HelloVoiceClip": "SoundWave'/Game/Sounds/NPC_Voices/Clara_Hey.Clara_Hey'",
+			"LikedGiftParticle": "ParticleSystem'/Game/Particles/Effects/Flowers/Flowers.Flowers'",
+			"LovedGiftParticle": "ParticleSystem'/Game/Particles/Effects/Heart/Love.Love'",
+			"BulletinBoardBackground": "Texture2D'/Game/Textures/Bulletin_Postings/Bulletin_Paper_White_Neat_Paper.Bulletin_Paper_White_Neat_Paper'",
+			"CanPlayerDate": true,
+			"NameTagHeight": 110,
+			"HideInJournal": false,
+			"DefaultDialogueExpression": "$ClaraTalking$",
+			"AskStartDatingCutscene": "Clara_Dating",
+			"MarriageProposalCutscene": "Clara_Proposal",
+			"RoommateCutscene": "Clara_Roomate",
+			"CribCutscene": "Clara_Crib",
+			"NicknameUsedByChild": "Mama"
+		},
+		{
+			"RowName": "Dewain",
+			"FriendlyName": "Dewain",
+			"Town": "Wahoo_Beach",
+			"Skeleton": "/Game/Character/NPCs/Dewain.Dewain",
+			"IdleAnimation": "None",
+			"ShopBuyAnimation": "None",
+			"Birthday": 
+			{
+				"Season": 0,
+				"Day": 11
+			},
+			"DaysOff":
+			[],
+			"QuestVoiceClip": "SoundWave'/Game/Sounds/NPC_Voices/Dewain_Thanks.Dewain_Thanks'",
+			"HelloVoiceClip": "SoundWave'/Game/Sounds/NPC_Voices/Dewain_Hey.Dewain_Hey'",
+			"LikedGiftParticle": "ParticleSystem'/Game/Particles/Effects/Flowers/Flowers.Flowers'",
+			"LovedGiftParticle": "ParticleSystem'/Game/Particles/Effects/Heart/Love.Love'",
+			"BulletinBoardBackground": "Texture2D'/Game/Textures/Bulletin_Postings/Bulletin_Paper_White_Neat_Paper.Bulletin_Paper_White_Neat_Paper'",
+			"CanPlayerDate": true,
+			"NameTagHeight": 110,
+			"HideInJournal": false,
+			"DefaultDialogueExpression": "$SmileTalkingDewain$",
+			"AskStartDatingCutscene": "Dewain_Dating",
+			"MarriageProposalCutscene": "Dewain_Proposal",
+			"RoommateCutscene": "Dewain_Roomate",
+			"CribCutscene": "Dewain_Crib",
+			"NicknameUsedByChild": "Dad"
+		},
+		{
+			"RowName": "Dirt",
+			"FriendlyName": "Dirt ",
+			"Town": "Wahoo_Beach",
+			"Skeleton": "/Game/Character/NPCs/Dirt.Dirt",
+			"IdleAnimation": "AnimSequence'/Game/Character/Animations/Idle.Idle'",
+			"ShopBuyAnimation": "None",
+			"Birthday": 
+			{
+				"Season": 3,
+				"Day": 2
+			},
+			"DaysOff":
+			[],
+			"QuestVoiceClip": "SoundWave'/Game/Sounds/NPC_Voices/Dirt_Thanks.Dirt_Thanks'",
+			"HelloVoiceClip": "SoundWave'/Game/Sounds/NPC_Voices/Dirt_Hey.Dirt_Hey'",
+			"LikedGiftParticle": "ParticleSystem'/Game/Particles/Effects/Flowers/Flowers.Flowers'",
+			"LovedGiftParticle": "ParticleSystem'/Game/Particles/Effects/Heart/Love.Love'",
+			"BulletinBoardBackground": "Texture2D'/Game/Textures/Bulletin_Postings/Bulletin_Paper_White_Neat_Paper.Bulletin_Paper_White_Neat_Paper'",
+			"CanPlayerDate": true,
+			"NameTagHeight": 110,
+			"HideInJournal": false,
+			"DefaultDialogueExpression": "$FrownTalkingDirt$",
+			"AskStartDatingCutscene": "Dirt_Dating",
+			"MarriageProposalCutscene": "Dirt_Proposal",
+			"RoommateCutscene": "Dirt_Roomate",
+			"CribCutscene": "Dirt_Crib",
+			"NicknameUsedByChild": "Papa"
+		},
+		{
+			"RowName": "Duante",
+			"FriendlyName": "Duante",
+			"Town": "Wahoo_Beach",
+			"Skeleton": "/Game/Character/NPCs/Duante.Duante",
+			"IdleAnimation": "None",
+			"ShopBuyAnimation": "None",
+			"Birthday": 
+			{
+				"Season": 3,
+				"Day": 12
+			},
+			"DaysOff":
+			[],
+			"QuestVoiceClip": "SoundWave'/Game/Sounds/NPC_Voices/Duante_Thanks.Duante_Thanks'",
+			"HelloVoiceClip": "SoundWave'/Game/Sounds/NPC_Voices/Duante_Hey.Duante_Hey'",
+			"LikedGiftParticle": "ParticleSystem'/Game/Particles/Effects/Flowers/Flowers.Flowers'",
+			"LovedGiftParticle": "ParticleSystem'/Game/Particles/Effects/Heart/Love.Love'",
+			"BulletinBoardBackground": "Texture2D'/Game/Textures/Bulletin_Postings/Bulletin_Paper_White_Neat_Paper.Bulletin_Paper_White_Neat_Paper'",
+			"CanPlayerDate": true,
+			"NameTagHeight": 110,
+			"HideInJournal": false,
+			"DefaultDialogueExpression": "$SmileTalkingDuante$",
+			"AskStartDatingCutscene": "Duante_Dating",
+			"MarriageProposalCutscene": "Duante_Proposal",
+			"RoommateCutscene": "Duante_Roomate",
+			"CribCutscene": "Duante_Crib",
+			"NicknameUsedByChild": "Dad"
+		},
+		{
+			"RowName": "Eugene",
+			"FriendlyName": "Eugene",
+			"Town": "Wahoo_Beach",
+			"Skeleton": "/Game/Character/NPCs/Eugene.Eugene",
+			"IdleAnimation": "None",
+			"ShopBuyAnimation": "None",
+			"Birthday": 
+			{
+				"Season": 1,
+				"Day": 9
+			},
+			"DaysOff":
+			[],
+			"QuestVoiceClip": "SoundWave'/Game/Sounds/NPC_Voices/Eugene_Thanks.Eugene_Thanks'",
+			"HelloVoiceClip": "SoundWave'/Game/Sounds/NPC_Voices/Eugene_Hey.Eugene_Hey'",
+			"LikedGiftParticle": "ParticleSystem'/Game/Particles/Effects/Flowers/Flowers.Flowers'",
+			"LovedGiftParticle": "ParticleSystem'/Game/Particles/Effects/Heart/Love.Love'",
+			"BulletinBoardBackground": "Texture2D'/Game/Textures/Bulletin_Postings/Bulletin_Paper_White_Neat_Paper.Bulletin_Paper_White_Neat_Paper'",
+			"CanPlayerDate": true,
+			"NameTagHeight": 110,
+			"HideInJournal": false,
+			"DefaultDialogueExpression": "$FrownTalkingEugene$",
+			"AskStartDatingCutscene": "Eugene_Dating",
+			"MarriageProposalCutscene": "Eugene_Proposal",
+			"RoommateCutscene": "Eugene_Roomate",
+			"CribCutscene": "Eugene_Crib",
+			"NicknameUsedByChild": "Dad"
+		},
+		{
+			"RowName": "Govind",
+			"FriendlyName": "Govind",
+			"Town": "Wahoo_Beach",
+			"Skeleton": "/Game/Character/NPCs/Govind.Govind",
+			"IdleAnimation": "None",
+			"ShopBuyAnimation": "None",
+			"Birthday": 
+			{
+				"Season": 2,
+				"Day": 24
+			},
+			"DaysOff":
+			[],
+			"QuestVoiceClip": "SoundWave'/Game/Sounds/NPC_Voices/Govind_Thanks.Govind_Thanks'",
+			"HelloVoiceClip": "SoundWave'/Game/Sounds/NPC_Voices/Govind_Hey.Govind_Hey'",
+			"LikedGiftParticle": "ParticleSystem'/Game/Particles/Effects/Flowers/Flowers.Flowers'",
+			"LovedGiftParticle": "ParticleSystem'/Game/Particles/Effects/Heart/Love.Love'",
+			"BulletinBoardBackground": "Texture2D'/Game/Textures/Bulletin_Postings/Bulletin_Paper_White_Neat_Paper.Bulletin_Paper_White_Neat_Paper'",
+			"CanPlayerDate": true,
+			"NameTagHeight": 110,
+			"HideInJournal": false,
+			"DefaultDialogueExpression": "$SmileTalking_NL$",
+			"AskStartDatingCutscene": "Govind_Dating",
+			"MarriageProposalCutscene": "Govind_Proposal",
+			"RoommateCutscene": "Govind_Roomate",
+			"CribCutscene": "Govind_Crib",
+			"NicknameUsedByChild": "Dad"
+		},
+		{
+			"RowName": "Haku",
+			"FriendlyName": "Haku",
+			"Town": "Wahoo_Beach",
+			"Skeleton": "/Game/Character/NPCs/Haku.Haku",
+			"IdleAnimation": "None",
+			"ShopBuyAnimation": "None",
+			"Birthday": 
+			{
+				"Season": 0,
+				"Day": 4
+			},
+			"DaysOff":
+			[],
+			"QuestVoiceClip": "SoundWave'/Game/Sounds/NPC_Voices/Haku_Thanks.Haku_Thanks'",
+			"HelloVoiceClip": "SoundWave'/Game/Sounds/NPC_Voices/Haku_Hey.Haku_Hey'",
+			"LikedGiftParticle": "ParticleSystem'/Game/Particles/Effects/Flowers/Flowers.Flowers'",
+			"LovedGiftParticle": "ParticleSystem'/Game/Particles/Effects/Heart/Love.Love'",
+			"BulletinBoardBackground": "Texture2D'/Game/Textures/Bulletin_Postings/Bulletin_Paper_White_Neat_Paper.Bulletin_Paper_White_Neat_Paper'",
+			"CanPlayerDate": true,
+			"NameTagHeight": 110,
+			"HideInJournal": false,
+			"DefaultDialogueExpression": "$SmileTalking_NL$",
+			"AskStartDatingCutscene": "Haku_Dating",
+			"MarriageProposalCutscene": "Haku_Proposal",
+			"RoommateCutscene": "Haku_Roomate",
+			"CribCutscene": "Haku_Crib",
+			"NicknameUsedByChild": "Dad"
+		},
+		{
+			"RowName": "Ikaia",
+			"FriendlyName": "Ikaia",
+			"Town": "Wahoo_Beach",
+			"Skeleton": "/Game/Character/NPCs/Ikaia.Ikaia",
+			"IdleAnimation": "None",
+			"ShopBuyAnimation": "None",
+			"Birthday": 
+			{
+				"Season": 0,
+				"Day": 18
+			},
+			"DaysOff":
+			[],
+			"QuestVoiceClip": "SoundWave'/Game/Sounds/NPC_Voices/Ikaia_Thanks.Ikaia_Thanks'",
+			"HelloVoiceClip": "SoundWave'/Game/Sounds/NPC_Voices/Ikaia_Hey.Ikaia_Hey'",
+			"LikedGiftParticle": "ParticleSystem'/Game/Particles/Effects/Flowers/Flowers.Flowers'",
+			"LovedGiftParticle": "ParticleSystem'/Game/Particles/Effects/Heart/Love.Love'",
+			"BulletinBoardBackground": "Texture2D'/Game/Textures/Bulletin_Postings/Bulletin_Paper_White_Neat_Paper.Bulletin_Paper_White_Neat_Paper'",
+			"CanPlayerDate": true,
+			"NameTagHeight": 110,
+			"HideInJournal": false,
+			"DefaultDialogueExpression": "$IkaiaSmileTalking$",
+			"AskStartDatingCutscene": "Ikaia_Dating",
+			"MarriageProposalCutscene": "Ikaia_Proposal",
+			"RoommateCutscene": "Ikaia_Roomate",
+			"CribCutscene": "Ikaia_Crib",
+			"NicknameUsedByChild": "Dad"
+		},
+		{
+			"RowName": "Jabalah",
+			"FriendlyName": "Jabalah",
+			"Town": "Wahoo_Beach",
+			"Skeleton": "/Game/Character/NPCs/Jabalah.Jabalah",
+			"IdleAnimation": "AnimSequence'/Game/Character/Animations/Idle_Strong.Idle_Strong'",
+			"ShopBuyAnimation": "None",
+			"Birthday": 
+			{
+				"Season": 2,
+				"Day": 4
+			},
+			"DaysOff":
+			[],
+			"QuestVoiceClip": "SoundWave'/Game/Sounds/NPC_Voices/Jabalah_Thanks.Jabalah_Thanks'",
+			"HelloVoiceClip": "SoundWave'/Game/Sounds/NPC_Voices/Jabalah_Hey.Jabalah_Hey'",
+			"LikedGiftParticle": "ParticleSystem'/Game/Particles/Effects/Flowers/Flowers.Flowers'",
+			"LovedGiftParticle": "ParticleSystem'/Game/Particles/Effects/Heart/Love.Love'",
+			"BulletinBoardBackground": "Texture2D'/Game/Textures/Bulletin_Postings/Bulletin_Paper_White_Neat_Paper.Bulletin_Paper_White_Neat_Paper'",
+			"CanPlayerDate": true,
+			"NameTagHeight": 110,
+			"HideInJournal": false,
+			"DefaultDialogueExpression": "$SmileTalkingJabalah$",
+			"AskStartDatingCutscene": "Jabalah_Dating",
+			"MarriageProposalCutscene": "Jabalah_Proposal",
+			"RoommateCutscene": "Jabalah_Roomate",
+			"CribCutscene": "Jabalah_Crib",
+			"NicknameUsedByChild": "Abba"
+		},
+		{
+			"RowName": "Jacqueline",
+			"FriendlyName": "Jacqueline",
+			"Town": "Wahoo_Beach",
+			"Skeleton": "/Game/Character/NPCs/Jacqueline.Jacqueline",
+			"IdleAnimation": "None",
+			"ShopBuyAnimation": "None",
+			"Birthday": 
+			{
+				"Season": 0,
+				"Day": 17
+			},
+			"DaysOff":
+			[],
+			"QuestVoiceClip": "SoundWave'/Game/Sounds/NPC_Voices/Jaqueline_Hey.Jaqueline_Hey'",
+			"HelloVoiceClip": "SoundWave'/Game/Sounds/NPC_Voices/Jaqueline_Hey.Jaqueline_Hey'",
+			"LikedGiftParticle": "ParticleSystem'/Game/Particles/Effects/Flowers/Flowers.Flowers'",
+			"LovedGiftParticle": "ParticleSystem'/Game/Particles/Effects/Heart/Love.Love'",
+			"BulletinBoardBackground": "Texture2D'/Game/Textures/Bulletin_Postings/Bulletin_Paper_White_Neat_Paper.Bulletin_Paper_White_Neat_Paper'",
+			"CanPlayerDate": true,
+			"NameTagHeight": 110,
+			"HideInJournal": false,
+			"DefaultDialogueExpression": "$JacquelineSmileTalking$",
+			"AskStartDatingCutscene": "Jacqueline_Dating",
+			"MarriageProposalCutscene": "Jacqueline_Proposal",
+			"RoommateCutscene": "Jacqueline_Roomate",
+			"CribCutscene": "Jacqueline_Crib",
+			"NicknameUsedByChild": "Mommy"
+		},
+		{
+			"RowName": "Jade",
+			"FriendlyName": "Jade",
+			"Town": "Wahoo_Beach",
+			"Skeleton": "/Game/Character/NPCs/Jade.Jade",
+			"IdleAnimation": "None",
+			"ShopBuyAnimation": "None",
+			"Birthday": 
+			{
+				"Season": 0,
+				"Day": 20
+			},
+			"DaysOff":
+			[],
+			"QuestVoiceClip": "SoundWave'/Game/Sounds/NPC_Voices/Jade_Thanks.Jade_Thanks'",
+			"HelloVoiceClip": "SoundWave'/Game/Sounds/NPC_Voices/Jade_Hey.Jade_Hey'",
+			"LikedGiftParticle": "ParticleSystem'/Game/Particles/Effects/Flowers/Flowers.Flowers'",
+			"LovedGiftParticle": "ParticleSystem'/Game/Particles/Effects/Heart/Love.Love'",
+			"BulletinBoardBackground": "Texture2D'/Game/Textures/Bulletin_Postings/Bulletin_Paper_White_Neat_Paper.Bulletin_Paper_White_Neat_Paper'",
+			"CanPlayerDate": true,
+			"NameTagHeight": 110,
+			"HideInJournal": false,
+			"DefaultDialogueExpression": "$JadeTalking$",
+			"AskStartDatingCutscene": "Jade_Dating",
+			"MarriageProposalCutscene": "Jade_Proposal",
+			"RoommateCutscene": "Jade_Roomate",
+			"CribCutscene": "Jade_Crib",
+			"NicknameUsedByChild": "Mama"
+		},
+		{
+			"RowName": "Jemma",
+			"FriendlyName": "Jemma",
+			"Town": "Wahoo_Beach",
+			"Skeleton": "/Game/Character/NPCs/Jemma_Chichle.Jemma_Chichle",
+			"IdleAnimation": "None",
+			"ShopBuyAnimation": "None",
+			"Birthday": 
+			{
+				"Season": 1,
+				"Day": 18
+			},
+			"DaysOff":
+			[],
+			"QuestVoiceClip": "SoundWave'/Game/Sounds/NPC_Voices/Jemma_Thanks.Jemma_Thanks'",
+			"HelloVoiceClip": "SoundWave'/Game/Sounds/NPC_Voices/Jemma_Hey.Jemma_Hey'",
+			"LikedGiftParticle": "ParticleSystem'/Game/Particles/Effects/Flowers/Flowers.Flowers'",
+			"LovedGiftParticle": "ParticleSystem'/Game/Particles/Effects/Heart/Love.Love'",
+			"BulletinBoardBackground": "Texture2D'/Game/Textures/Bulletin_Postings/Bulletin_Paper_White_Neat_Paper.Bulletin_Paper_White_Neat_Paper'",
+			"CanPlayerDate": true,
+			"NameTagHeight": 110,
+			"HideInJournal": false,
+			"DefaultDialogueExpression": "$SmileTalkingJemma$",
+			"AskStartDatingCutscene": "Jemma_Dating",
+			"MarriageProposalCutscene": "Jemma_Proposal",
+			"RoommateCutscene": "Jemma_Roomate",
+			"CribCutscene": "Jemma_Crib",
+			"NicknameUsedByChild": "Mom"
+		},
+		{
+			"RowName": "Joelle",
+			"FriendlyName": "Joelle",
+			"Town": "Wahoo_Beach",
+			"Skeleton": "/Game/Character/NPCs/Joelle.Joelle",
+			"IdleAnimation": "None",
+			"ShopBuyAnimation": "None",
+			"Birthday": 
+			{
+				"Season": 1,
+				"Day": 16
+			},
+			"DaysOff":
+			[],
+			"QuestVoiceClip": "SoundWave'/Game/Sounds/NPC_Voices/Joelle_Thanks.Joelle_Thanks'",
+			"HelloVoiceClip": "SoundWave'/Game/Sounds/NPC_Voices/Joelle_Hey.Joelle_Hey'",
+			"LikedGiftParticle": "ParticleSystem'/Game/Particles/Effects/Flowers/Flowers.Flowers'",
+			"LovedGiftParticle": "ParticleSystem'/Game/Particles/Effects/Heart/Love.Love'",
+			"BulletinBoardBackground": "Texture2D'/Game/Textures/Bulletin_Postings/Bulletin_Paper_White_Neat_Paper.Bulletin_Paper_White_Neat_Paper'",
+			"CanPlayerDate": true,
+			"NameTagHeight": 110,
+			"HideInJournal": false,
+			"DefaultDialogueExpression": "$SmileTalkingJoelle$",
+			"AskStartDatingCutscene": "Joelle_Dating",
+			"MarriageProposalCutscene": "Joelle_Proposal",
+			"RoommateCutscene": "Joelle_Roomate",
+			"CribCutscene": "Joelle_Crib",
+			"NicknameUsedByChild": "Mom"
+		},
+		{
+			"RowName": "Kaine",
+			"FriendlyName": "Kaine",
+			"Town": "Wahoo_Beach",
+			"Skeleton": "/Game/Character/NPCs/Kaine.Kaine",
+			"IdleAnimation": "None",
+			"ShopBuyAnimation": "None",
+			"Birthday": 
+			{
+				"Season": 2,
+				"Day": 9
+			},
+			"DaysOff":
+			[],
+			"QuestVoiceClip": "SoundWave'/Game/Sounds/NPC_Voices/Kaine_Thanks.Kaine_Thanks'",
+			"HelloVoiceClip": "SoundWave'/Game/Sounds/NPC_Voices/Kaine_Hey.Kaine_Hey'",
+			"LikedGiftParticle": "ParticleSystem'/Game/Particles/Effects/Flowers/Flowers.Flowers'",
+			"LovedGiftParticle": "ParticleSystem'/Game/Particles/Effects/Heart/Love.Love'",
+			"BulletinBoardBackground": "Texture2D'/Game/Textures/Bulletin_Postings/Bulletin_Paper_White_Neat_Paper.Bulletin_Paper_White_Neat_Paper'",
+			"CanPlayerDate": true,
+			"NameTagHeight": 110,
+			"HideInJournal": false,
+			"DefaultDialogueExpression": "$FrownTalkingKaine$",
+			"AskStartDatingCutscene": "Kaine_Dating",
+			"MarriageProposalCutscene": "Kaine_Proposal",
+			"RoommateCutscene": "Kaine_Roomate",
+			"CribCutscene": "Kaine_Crib",
+			"NicknameUsedByChild": "Dad"
+		},
+		{
+			"RowName": "Kishan",
+			"FriendlyName": "Kishan",
+			"Town": "Wahoo_Beach",
+			"Skeleton": "/Game/Character/NPCs/Kishan.Kishan",
+			"IdleAnimation": "None",
+			"ShopBuyAnimation": "None",
+			"Birthday": 
+			{
+				"Season": 3,
+				"Day": 17
+			},
+			"DaysOff":
+			[],
+			"QuestVoiceClip": "SoundWave'/Game/Sounds/NPC_Voices/Kishan_Thanks.Kishan_Thanks'",
+			"HelloVoiceClip": "SoundWave'/Game/Sounds/NPC_Voices/Kishan_Hey.Kishan_Hey'",
+			"LikedGiftParticle": "ParticleSystem'/Game/Particles/Effects/Flowers/Flowers.Flowers'",
+			"LovedGiftParticle": "ParticleSystem'/Game/Particles/Effects/Heart/Love.Love'",
+			"BulletinBoardBackground": "Texture2D'/Game/Textures/Bulletin_Postings/Bulletin_Paper_White_Neat_Paper.Bulletin_Paper_White_Neat_Paper'",
+			"CanPlayerDate": true,
+			"NameTagHeight": 110,
+			"HideInJournal": false,
+			"DefaultDialogueExpression": "$SmileTalkingKishan$",
+			"AskStartDatingCutscene": "Kishan_Dating",
+			"MarriageProposalCutscene": "Kishan_Proposal",
+			"RoommateCutscene": "Kishan_Roomate",
+			"CribCutscene": "Kishan_Crib",
+			"NicknameUsedByChild": "Baba"
+		},
+		{
+			"RowName": "Lamonte",
+			"FriendlyName": "Lamonte",
+			"Town": "Wahoo_Beach",
+			"Skeleton": "/Game/Character/NPCs/Lamonte.Lamonte",
+			"IdleAnimation": "None",
+			"ShopBuyAnimation": "None",
+			"Birthday": 
+			{
+				"Season": 2,
+				"Day": 7
+			},
+			"DaysOff":
+			[],
+			"QuestVoiceClip": "SoundWave'/Game/Sounds/NPC_Voices/Lamonte_Thanks.Lamonte_Thanks'",
+			"HelloVoiceClip": "SoundWave'/Game/Sounds/NPC_Voices/Lamonte_Hey.Lamonte_Hey'",
+			"LikedGiftParticle": "ParticleSystem'/Game/Particles/Effects/Flowers/Flowers.Flowers'",
+			"LovedGiftParticle": "ParticleSystem'/Game/Particles/Effects/Heart/Love.Love'",
+			"BulletinBoardBackground": "Texture2D'/Game/Textures/Bulletin_Postings/Bulletin_Paper_White_Neat_Paper.Bulletin_Paper_White_Neat_Paper'",
+			"CanPlayerDate": false,
+			"NameTagHeight": 110,
+			"HideInJournal": false,
+			"DefaultDialogueExpression": "$FrownTalkingLamonte$",
+			"AskStartDatingCutscene": "None",
+			"MarriageProposalCutscene": "None",
+			"RoommateCutscene": "None",
+			"CribCutscene": "None",
+			"NicknameUsedByChild": ""
+		},
+		{
+			"RowName": "Lisa",
+			"FriendlyName": "Lisa",
+			"Town": "Wahoo_Beach",
+			"Skeleton": "/Game/Character/NPCs/Lisa.Lisa",
+			"IdleAnimation": "None",
+			"ShopBuyAnimation": "None",
+			"Birthday": 
+			{
+				"Season": 0,
+				"Day": 24
+			},
+			"DaysOff":
+			[],
+			"QuestVoiceClip": "SoundWave'/Game/Sounds/NPC_Voices/Lisa_Thanks.Lisa_Thanks'",
+			"HelloVoiceClip": "SoundWave'/Game/Sounds/NPC_Voices/Lisa_Hey.Lisa_Hey'",
+			"LikedGiftParticle": "ParticleSystem'/Game/Particles/Effects/Flowers/Flowers.Flowers'",
+			"LovedGiftParticle": "ParticleSystem'/Game/Particles/Effects/Heart/Love.Love'",
+			"BulletinBoardBackground": "Texture2D'/Game/Textures/Bulletin_Postings/Bulletin_Paper_White_Neat_Paper.Bulletin_Paper_White_Neat_Paper'",
+			"CanPlayerDate": true,
+			"NameTagHeight": 110,
+			"HideInJournal": false,
+			"DefaultDialogueExpression": "$SmileTalkingLisa$",
+			"AskStartDatingCutscene": "Lisa_Dating",
+			"MarriageProposalCutscene": "Lisa_Proposal",
+			"RoommateCutscene": "Lisa_Roomate",
+			"CribCutscene": "Lisa_Crib",
+			"NicknameUsedByChild": "Mama"
+		},
+		{
+			"RowName": "Manaka",
+			"FriendlyName": "Manaka",
+			"Town": "Wahoo_Beach",
+			"Skeleton": "/Game/Character/NPCs/Manaka.Manaka",
+			"IdleAnimation": "None",
+			"ShopBuyAnimation": "None",
+			"Birthday": 
+			{
+				"Season": 0,
+				"Day": 21
+			},
+			"DaysOff":
+			[],
+			"QuestVoiceClip": "SoundWave'/Game/Sounds/NPC_Voices/Manaka_Thanks.Manaka_Thanks'",
+			"HelloVoiceClip": "SoundWave'/Game/Sounds/NPC_Voices/Manaka_Hey.Manaka_Hey'",
+			"LikedGiftParticle": "ParticleSystem'/Game/Particles/Effects/Flowers/Flowers.Flowers'",
+			"LovedGiftParticle": "ParticleSystem'/Game/Particles/Effects/Heart/Love.Love'",
+			"BulletinBoardBackground": "Texture2D'/Game/Textures/Bulletin_Postings/Bulletin_Paper_White_Neat_Paper.Bulletin_Paper_White_Neat_Paper'",
+			"CanPlayerDate": true,
+			"NameTagHeight": 110,
+			"HideInJournal": false,
+			"DefaultDialogueExpression": "$SmileTalkingManaka$",
+			"AskStartDatingCutscene": "Manaka_Dating",
+			"MarriageProposalCutscene": "Manaka_Proposal",
+			"RoommateCutscene": "Manaka_Roomate",
+			"CribCutscene": "Manaka_Crib",
+			"NicknameUsedByChild": "Ma"
+		},
+		{
+			"RowName": "Masika",
+			"FriendlyName": "Masika",
+			"Town": "Wahoo_Beach",
+			"Skeleton": "/Game/Character/NPCs/Masika.Masika",
+			"IdleAnimation": "None",
+			"ShopBuyAnimation": "None",
+			"Birthday": 
+			{
+				"Season": 0,
+				"Day": 28
+			},
+			"DaysOff":
+			[],
+			"QuestVoiceClip": "SoundWave'/Game/Sounds/NPC_Voices/Masika_Thanks.Masika_Thanks'",
+			"HelloVoiceClip": "SoundWave'/Game/Sounds/NPC_Voices/Masika_Hey.Masika_Hey'",
+			"LikedGiftParticle": "ParticleSystem'/Game/Particles/Effects/Flowers/Flowers.Flowers'",
+			"LovedGiftParticle": "ParticleSystem'/Game/Particles/Effects/Heart/Love.Love'",
+			"BulletinBoardBackground": "Texture2D'/Game/Textures/Bulletin_Postings/Bulletin_Paper_White_Neat_Paper.Bulletin_Paper_White_Neat_Paper'",
+			"CanPlayerDate": true,
+			"NameTagHeight": 110,
+			"HideInJournal": false,
+			"DefaultDialogueExpression": "$SmileTalkingMasika$",
+			"AskStartDatingCutscene": "Masika_Dating",
+			"MarriageProposalCutscene": "Masika_Proposal",
+			"RoommateCutscene": "Masika_Roomate",
+			"CribCutscene": "Masika_Crib",
+			"NicknameUsedByChild": "Mom"
+		},
+		{
+			"RowName": "Melanie",
+			"FriendlyName": "Melanie",
+			"Town": "Wahoo_Beach",
+			"Skeleton": "/Game/Character/NPCs/Melanie.Melanie",
+			"IdleAnimation": "None",
+			"ShopBuyAnimation": "None",
+			"Birthday": 
+			{
+				"Season": 3,
+				"Day": 23
+			},
+			"DaysOff":
+			[],
+			"QuestVoiceClip": "SoundWave'/Game/Sounds/NPC_Voices/Melanie_Thanks.Melanie_Thanks'",
+			"HelloVoiceClip": "SoundWave'/Game/Sounds/NPC_Voices/Melanie_Hey.Melanie_Hey'",
+			"LikedGiftParticle": "ParticleSystem'/Game/Particles/Effects/Flowers/Flowers.Flowers'",
+			"LovedGiftParticle": "ParticleSystem'/Game/Particles/Effects/Heart/Love.Love'",
+			"BulletinBoardBackground": "Texture2D'/Game/Textures/Bulletin_Postings/Bulletin_Paper_White_Neat_Paper.Bulletin_Paper_White_Neat_Paper'",
+			"CanPlayerDate": true,
+			"NameTagHeight": 110,
+			"HideInJournal": false,
+			"DefaultDialogueExpression": "$SeriousTalkingMelanie$",
+			"AskStartDatingCutscene": "Melanie_Dating",
+			"MarriageProposalCutscene": "Melanie_Proposal",
+			"RoommateCutscene": "Melanie_Roomate",
+			"CribCutscene": "Melanie_Crib",
+			"NicknameUsedByChild": "Mother"
+		},
+		{
+			"RowName": "Mike",
+			"FriendlyName": "Mike",
+			"Town": "Wahoo_Beach",
+			"Skeleton": "/Game/Character/NPCs/Mike.Mike",
+			"IdleAnimation": "None",
+			"ShopBuyAnimation": "None",
+			"Birthday": 
+			{
+				"Season": 0,
+				"Day": 19
+			},
+			"DaysOff":
+			[],
+			"QuestVoiceClip": "SoundWave'/Game/Sounds/NPC_Voices/Mike_Thanks.Mike_Thanks'",
+			"HelloVoiceClip": "SoundWave'/Game/Sounds/NPC_Voices/Mike_Hey.Mike_Hey'",
+			"LikedGiftParticle": "ParticleSystem'/Game/Particles/Effects/Flowers/Flowers.Flowers'",
+			"LovedGiftParticle": "ParticleSystem'/Game/Particles/Effects/Heart/Love.Love'",
+			"BulletinBoardBackground": "Texture2D'/Game/Textures/Bulletin_Postings/Bulletin_Paper_White_Neat_Paper.Bulletin_Paper_White_Neat_Paper'",
+			"CanPlayerDate": true,
+			"NameTagHeight": 110,
+			"HideInJournal": false,
+			"DefaultDialogueExpression": "$MikeTalking$",
+			"AskStartDatingCutscene": "Mike_Dating",
+			"MarriageProposalCutscene": "Mike_Proposal",
+			"RoommateCutscene": "Mike_Roomate",
+			"CribCutscene": "Mike_Crib",
+			"NicknameUsedByChild": "Dad"
+		},
+		{
+			"RowName": "Nicki",
+			"FriendlyName": "Nicki",
+			"Town": "Wahoo_Beach",
+			"Skeleton": "/Game/Character/NPCs/Nicki.Nicki",
+			"IdleAnimation": "None",
+			"ShopBuyAnimation": "None",
+			"Birthday": 
+			{
+				"Season": 2,
+				"Day": 20
+			},
+			"DaysOff":
+			[],
+			"QuestVoiceClip": "SoundWave'/Game/Sounds/NPC_Voices/Nicki_Thanks.Nicki_Thanks'",
+			"HelloVoiceClip": "SoundWave'/Game/Sounds/NPC_Voices/Nicki_Hey.Nicki_Hey'",
+			"LikedGiftParticle": "ParticleSystem'/Game/Particles/Effects/Flowers/Flowers.Flowers'",
+			"LovedGiftParticle": "ParticleSystem'/Game/Particles/Effects/Heart/Love.Love'",
+			"BulletinBoardBackground": "Texture2D'/Game/Textures/Bulletin_Postings/Bulletin_Paper_White_Neat_Paper.Bulletin_Paper_White_Neat_Paper'",
+			"CanPlayerDate": true,
+			"NameTagHeight": 110,
+			"HideInJournal": false,
+			"DefaultDialogueExpression": "$SmileTalkingNicki$",
+			"AskStartDatingCutscene": "Nicki_Dating",
+			"MarriageProposalCutscene": "Nicki_Proposal",
+			"RoommateCutscene": "Nicki_Roomate",
+			"CribCutscene": "Nicki_Crib",
+			"NicknameUsedByChild": "Mama"
+		},
+		{
+			"RowName": "Pete",
+			"FriendlyName": "Pete",
+			"Town": "Wahoo_Beach",
+			"Skeleton": "/Game/Character/NPCs/Pete.Pete",
+			"IdleAnimation": "None",
+			"ShopBuyAnimation": "None",
+			"Birthday": 
+			{
+				"Season": 2,
+				"Day": 11
+			},
+			"DaysOff":
+			[],
+			"QuestVoiceClip": "SoundWave'/Game/Sounds/NPC_Voices/Pete_Thanks.Pete_Thanks'",
+			"HelloVoiceClip": "SoundWave'/Game/Sounds/NPC_Voices/Pete_Hey.Pete_Hey'",
+			"LikedGiftParticle": "ParticleSystem'/Game/Particles/Effects/Flowers/Flowers.Flowers'",
+			"LovedGiftParticle": "ParticleSystem'/Game/Particles/Effects/Heart/Love.Love'",
+			"BulletinBoardBackground": "Texture2D'/Game/Textures/Bulletin_Postings/Bulletin_Paper_White_Neat_Paper.Bulletin_Paper_White_Neat_Paper'",
+			"CanPlayerDate": true,
+			"NameTagHeight": 110,
+			"HideInJournal": false,
+			"DefaultDialogueExpression": "$SmileTalking_NL$",
+			"AskStartDatingCutscene": "Pete_Dating",
+			"MarriageProposalCutscene": "Pete_Proposal",
+			"RoommateCutscene": "Pete_Roomate",
+			"CribCutscene": "Pete_Crib",
+			"NicknameUsedByChild": "Dad"
+		},
+		{
+			"RowName": "Queen",
+			"FriendlyName": "Queen",
+			"Town": "Wahoo_Beach",
+			"Skeleton": "/Game/Character/NPCs/Queen.Queen",
+			"IdleAnimation": "None",
+			"ShopBuyAnimation": "None",
+			"Birthday": 
+			{
+				"Season": 0,
+				"Day": 22
+			},
+			"DaysOff":
+			[],
+			"QuestVoiceClip": "SoundWave'/Game/Sounds/NPC_Voices/Queen_Thanks.Queen_Thanks'",
+			"HelloVoiceClip": "SoundWave'/Game/Sounds/NPC_Voices/Queen_Hey.Queen_Hey'",
+			"LikedGiftParticle": "ParticleSystem'/Game/Particles/Effects/Flowers/Flowers.Flowers'",
+			"LovedGiftParticle": "ParticleSystem'/Game/Particles/Effects/Heart/Love.Love'",
+			"BulletinBoardBackground": "Texture2D'/Game/Textures/Bulletin_Postings/Bulletin_Paper_White_Neat_Paper.Bulletin_Paper_White_Neat_Paper'",
+			"CanPlayerDate": true,
+			"NameTagHeight": 130,
+			"HideInJournal": false,
+			"DefaultDialogueExpression": "$SmileTalkingQueen$",
+			"AskStartDatingCutscene": "Queen_Dating",
+			"MarriageProposalCutscene": "Queen_Proposal",
+			"RoommateCutscene": "Queen_Roomate",
+			"CribCutscene": "Queen_Crib",
+			"NicknameUsedByChild": "Mama"
+		},
+		{
+			"RowName": "Rashida",
+			"FriendlyName": "Rashida",
+			"Town": "Wahoo_Beach",
+			"Skeleton": "/Game/Character/NPCs/Rashida.Rashida",
+			"IdleAnimation": "None",
+			"ShopBuyAnimation": "None",
+			"Birthday": 
+			{
+				"Season": 0,
+				"Day": 14
+			},
+			"DaysOff":
+			[],
+			"QuestVoiceClip": "SoundWave'/Game/Sounds/NPC_Voices/Rashida_Thanks.Rashida_Thanks'",
+			"HelloVoiceClip": "SoundWave'/Game/Sounds/NPC_Voices/Rashida_Hey.Rashida_Hey'",
+			"LikedGiftParticle": "ParticleSystem'/Game/Particles/Effects/Flowers/Flowers.Flowers'",
+			"LovedGiftParticle": "ParticleSystem'/Game/Particles/Effects/Heart/Love.Love'",
+			"BulletinBoardBackground": "Texture2D'/Game/Textures/Bulletin_Postings/Bulletin_Paper_White_Neat_Paper.Bulletin_Paper_White_Neat_Paper'",
+			"CanPlayerDate": true,
+			"NameTagHeight": 110,
+			"HideInJournal": false,
+			"DefaultDialogueExpression": "$FrownTalkingRashida$",
+			"AskStartDatingCutscene": "Rashida_Dating",
+			"MarriageProposalCutscene": "Rashida_Proposal",
+			"RoommateCutscene": "Rashida_Roomate",
+			"CribCutscene": "Rashida_Crib",
+			"NicknameUsedByChild": "Mom"
+		},
+		{
+			"RowName": "Rosario",
+			"FriendlyName": "Rosario",
+			"Town": "Wahoo_Beach",
+			"Skeleton": "/Game/Character/NPCs/Rosario.Rosario",
+			"IdleAnimation": "None",
+			"ShopBuyAnimation": "None",
+			"Birthday": 
+			{
+				"Season": 2,
+				"Day": 27
+			},
+			"DaysOff":
+			[],
+			"QuestVoiceClip": "SoundWave'/Game/Sounds/NPC_Voices/Rosario_Thanks.Rosario_Thanks'",
+			"HelloVoiceClip": "SoundWave'/Game/Sounds/NPC_Voices/Rosario_Hey.Rosario_Hey'",
+			"LikedGiftParticle": "ParticleSystem'/Game/Particles/Effects/Flowers/Flowers.Flowers'",
+			"LovedGiftParticle": "ParticleSystem'/Game/Particles/Effects/Heart/Love.Love'",
+			"BulletinBoardBackground": "Texture2D'/Game/Textures/Bulletin_Postings/Bulletin_Paper_White_Neat_Paper.Bulletin_Paper_White_Neat_Paper'",
+			"CanPlayerDate": true,
+			"NameTagHeight": 110,
+			"HideInJournal": false,
+			"DefaultDialogueExpression": "$SmileTalkingRosario$",
+			"AskStartDatingCutscene": "Rosario_Dating",
+			"MarriageProposalCutscene": "Rosario_Proposal",
+			"RoommateCutscene": "Rosario_Roomate",
+			"CribCutscene": "Rosario_Crib",
+			"NicknameUsedByChild": "Mom"
+		},
+		{
+			"RowName": "Tuesday",
+			"FriendlyName": "Tuesday",
+			"Town": "Wahoo_Beach",
+			"Skeleton": "/Game/Character/NPCs/Tuesday.Tuesday",
+			"IdleAnimation": "None",
+			"ShopBuyAnimation": "None",
+			"Birthday": 
+			{
+				"Season": 1,
+				"Day": 17
+			},
+			"DaysOff":
+			[],
+			"QuestVoiceClip": "SoundWave'/Game/Sounds/NPC_Voices/Tuesday_Thanks.Tuesday_Thanks'",
+			"HelloVoiceClip": "SoundWave'/Game/Sounds/NPC_Voices/Tuesday_Hey.Tuesday_Hey'",
+			"LikedGiftParticle": "ParticleSystem'/Game/Particles/Effects/Flowers/Flowers.Flowers'",
+			"LovedGiftParticle": "ParticleSystem'/Game/Particles/Effects/Heart/Love.Love'",
+			"BulletinBoardBackground": "Texture2D'/Game/Textures/Bulletin_Postings/Bulletin_Paper_White_Neat_Paper.Bulletin_Paper_White_Neat_Paper'",
+			"CanPlayerDate": true,
+			"NameTagHeight": 110,
+			"HideInJournal": false,
+			"DefaultDialogueExpression": "$TuesdaySmileTalking$",
+			"AskStartDatingCutscene": "Tuesday_Dating",
+			"MarriageProposalCutscene": "Tuesday_Proposal",
+			"RoommateCutscene": "Tuesday_Roomate",
+			"CribCutscene": "Tuesday_Crib",
+			"NicknameUsedByChild": "Mom"
+		},
+		{
+			"RowName": "Valerie",
+			"FriendlyName": "Valerie",
+			"Town": "Wahoo_Beach",
+			"Skeleton": "/Game/Character/NPCs/Valerie.Valerie",
+			"IdleAnimation": "None",
+			"ShopBuyAnimation": "None",
+			"Birthday": 
+			{
+				"Season": 2,
+				"Day": 28
+			},
+			"DaysOff":
+			[],
+			"QuestVoiceClip": "SoundWave'/Game/Sounds/NPC_Voices/Valerie_Thanks.Valerie_Thanks'",
+			"HelloVoiceClip": "SoundWave'/Game/Sounds/NPC_Voices/Valerie_Hey.Valerie_Hey'",
+			"LikedGiftParticle": "ParticleSystem'/Game/Particles/Effects/Flowers/Flowers.Flowers'",
+			"LovedGiftParticle": "ParticleSystem'/Game/Particles/Effects/Heart/Love.Love'",
+			"BulletinBoardBackground": "Texture2D'/Game/Textures/Bulletin_Postings/Bulletin_Paper_White_Neat_Paper.Bulletin_Paper_White_Neat_Paper'",
+			"CanPlayerDate": true,
+			"NameTagHeight": 110,
+			"HideInJournal": false,
+			"DefaultDialogueExpression": "$ValerieSmileTalking$",
+			"AskStartDatingCutscene": "Valerie_Dating",
+			"MarriageProposalCutscene": "Valerie_Proposal",
+			"RoommateCutscene": "Valerie_Roomate",
+			"CribCutscene": "Valerie_Crib",
+			"NicknameUsedByChild": "Mom"
+		},
+		{
+			"RowName": "Zarita",
+			"FriendlyName": "Zarita",
+			"Town": "Wahoo_Beach",
+			"Skeleton": "/Game/Character/NPCs/Zarita.Zarita",
+			"IdleAnimation": "None",
+			"ShopBuyAnimation": "None",
+			"Birthday": 
+			{
+				"Season": 1,
+				"Day": 20
+			},
+			"DaysOff":
+			[],
+			"QuestVoiceClip": "SoundWave'/Game/Sounds/NPC_Voices/Zarita_Thanks.Zarita_Thanks'",
+			"HelloVoiceClip": "SoundWave'/Game/Sounds/NPC_Voices/Zarita_Hey.Zarita_Hey'",
+			"LikedGiftParticle": "ParticleSystem'/Game/Particles/Effects/Flowers/Flowers.Flowers'",
+			"LovedGiftParticle": "ParticleSystem'/Game/Particles/Effects/Heart/Love.Love'",
+			"BulletinBoardBackground": "Texture2D'/Game/Textures/Bulletin_Postings/Bulletin_Paper_White_Neat_Paper.Bulletin_Paper_White_Neat_Paper'",
+			"CanPlayerDate": true,
+			"NameTagHeight": 110,
+			"HideInJournal": false,
+			"DefaultDialogueExpression": "$ZaritaTalking$",
+			"AskStartDatingCutscene": "Zarita_Dating",
+			"MarriageProposalCutscene": "Zarita_Proposal",
+			"RoommateCutscene": "Zarita_Roomate",
+			"CribCutscene": "Zarita_Baby",
+			"NicknameUsedByChild": "Mom"
+		},
+		{
+			"RowName": "Meredith",
+			"FriendlyName": "Meredith",
+			"Town": "Spoony_Island",
+			"Skeleton": "/Game/Character/NPCs/Meredith.Meredith",
+			"IdleAnimation": "None",
+			"ShopBuyAnimation": "None",
+			"Birthday": 
+			{
+				"Season": 3,
+				"Day": 22
+			},
+			"DaysOff":
+			[],
+			"QuestVoiceClip": "SoundWave'/Game/Sounds/NPC_Voices/Meredith_Thanks.Meredith_Thanks'",
+			"HelloVoiceClip": "SoundWave'/Game/Sounds/NPC_Voices/Meredith_Hey.Meredith_Hey'",
+			"LikedGiftParticle": "ParticleSystem'/Game/Particles/Effects/Flowers/Flowers.Flowers'",
+			"LovedGiftParticle": "ParticleSystem'/Game/Particles/Effects/Heart/Love.Love'",
+			"BulletinBoardBackground": "Texture2D'/Game/Textures/Bulletin_Postings/Bulletin_Paper_White_Neat_Paper.Bulletin_Paper_White_Neat_Paper'",
+			"CanPlayerDate": true,
+			"NameTagHeight": 110,
+			"HideInJournal": false,
+			"DefaultDialogueExpression": "$FrownTalkingMeredith$",
+			"AskStartDatingCutscene": "Meredith_Dating",
+			"MarriageProposalCutscene": "Meredith_Proposal",
+			"RoommateCutscene": "Meredith_Roomate",
+			"CribCutscene": "Meredith_Crib",
+			"NicknameUsedByChild": "Mom"
+		},
+		{
+			"RowName": "Forrest",
+			"FriendlyName": "Forrest",
+			"Town": "Spoony_Island",
+			"Skeleton": "/Game/Character/NPCs/Forrest.Forrest_polySurface39",
+			"IdleAnimation": "None",
+			"ShopBuyAnimation": "None",
+			"Birthday": 
+			{
+				"Season": 3,
+				"Day": 19
+			},
+			"DaysOff":
+			[],
+			"QuestVoiceClip": "SoundWave'/Game/Sounds/NPC_Voices/Forrest_Thanks.Forrest_Thanks'",
+			"HelloVoiceClip": "SoundWave'/Game/Sounds/NPC_Voices/Forrest_Hey.Forrest_Hey'",
+			"LikedGiftParticle": "ParticleSystem'/Game/Particles/Effects/Flowers/Flowers.Flowers'",
+			"LovedGiftParticle": "ParticleSystem'/Game/Particles/Effects/Heart/Love.Love'",
+			"BulletinBoardBackground": "Texture2D'/Game/Textures/Bulletin_Postings/Bulletin_Paper_White_Neat_Paper.Bulletin_Paper_White_Neat_Paper'",
+			"CanPlayerDate": true,
+			"NameTagHeight": 110,
+			"HideInJournal": false,
+			"DefaultDialogueExpression": "$SmileTalkingForrest$",
+			"AskStartDatingCutscene": "Forrest_Dating",
+			"MarriageProposalCutscene": "Forrest_Proposal",
+			"RoommateCutscene": "Forrest_Roomate",
+			"CribCutscene": "Forrest_Crib",
+			"NicknameUsedByChild": "Dad"
+		},
+		{
+			"RowName": "Olive",
+			"FriendlyName": "Olive",
+			"Town": "Spoony_Island",
+			"Skeleton": "/Game/Character/NPCs/Olive.Olive",
+			"IdleAnimation": "None",
+			"ShopBuyAnimation": "None",
+			"Birthday": 
+			{
+				"Season": 3,
+				"Day": 7
+			},
+			"DaysOff":
+			[],
+			"QuestVoiceClip": "SoundWave'/Game/Sounds/NPC_Voices/Olive_Thanks.Olive_Thanks'",
+			"HelloVoiceClip": "SoundWave'/Game/Sounds/NPC_Voices/Olive_Hey.Olive_Hey'",
+			"LikedGiftParticle": "ParticleSystem'/Game/Particles/Effects/Flowers/Flowers.Flowers'",
+			"LovedGiftParticle": "ParticleSystem'/Game/Particles/Effects/Heart/Love.Love'",
+			"BulletinBoardBackground": "Texture2D'/Game/Textures/Bulletin_Postings/Bulletin_Paper_White_Neat_Paper.Bulletin_Paper_White_Neat_Paper'",
+			"CanPlayerDate": true,
+			"NameTagHeight": 110,
+			"HideInJournal": false,
+			"DefaultDialogueExpression": "$SmileTalkingOlive$",
+			"AskStartDatingCutscene": "Olive_Dating",
+			"MarriageProposalCutscene": "Olive_Proposal",
+			"RoommateCutscene": "Olive_Roomate",
+			"CribCutscene": "Olive_Crib",
+			"NicknameUsedByChild": "Mom"
+		},
+		{
+			"RowName": "Elo",
+			"FriendlyName": "Elo",
+			"Town": "Spoony_Island",
+			"Skeleton": "/Game/Character/NPCs/Elo.Elo_polySurface26",
+			"IdleAnimation": "None",
+			"ShopBuyAnimation": "None",
+			"Birthday": 
+			{
+				"Season": 2,
+				"Day": 23
+			},
+			"DaysOff":
+			[],
+			"QuestVoiceClip": "SoundWave'/Game/Sounds/NPC_Voices/Elo_Thanks.Elo_Thanks'",
+			"HelloVoiceClip": "SoundWave'/Game/Sounds/NPC_Voices/Elo_Hey.Elo_Hey'",
+			"LikedGiftParticle": "ParticleSystem'/Game/Particles/Effects/Flowers/Flowers.Flowers'",
+			"LovedGiftParticle": "ParticleSystem'/Game/Particles/Effects/Heart/Love.Love'",
+			"BulletinBoardBackground": "Texture2D'/Game/Textures/Bulletin_Postings/Bulletin_Paper_White_Neat_Paper.Bulletin_Paper_White_Neat_Paper'",
+			"CanPlayerDate": true,
+			"NameTagHeight": 110,
+			"HideInJournal": false,
+			"DefaultDialogueExpression": "$SmileTalkingElo$",
+			"AskStartDatingCutscene": "Elo_Dating",
+			"MarriageProposalCutscene": "Elo_Proposal",
+			"RoommateCutscene": "Elo_Roomate",
+			"CribCutscene": "Elo_Crib",
+			"NicknameUsedByChild": "Mom"
+		},
+		{
+			"RowName": "Toni",
+			"FriendlyName": "Toni",
+			"Town": "Spoony_Island",
+			"Skeleton": "/Game/Character/NPCs/Toni.Toni_base_ctrl1",
+			"IdleAnimation": "None",
+			"ShopBuyAnimation": "None",
+			"Birthday": 
+			{
+				"Season": 2,
+				"Day": 16
+			},
+			"DaysOff":
+			[],
+			"QuestVoiceClip": "SoundWave'/Game/Sounds/NPC_Voices/Toni_Thanks.Toni_Thanks'",
+			"HelloVoiceClip": "SoundWave'/Game/Sounds/NPC_Voices/Toni_Hey.Toni_Hey'",
+			"LikedGiftParticle": "ParticleSystem'/Game/Particles/Effects/Flowers/Flowers.Flowers'",
+			"LovedGiftParticle": "ParticleSystem'/Game/Particles/Effects/Heart/Love.Love'",
+			"BulletinBoardBackground": "Texture2D'/Game/Textures/Bulletin_Postings/Bulletin_Paper_White_Neat_Paper.Bulletin_Paper_White_Neat_Paper'",
+			"CanPlayerDate": true,
+			"NameTagHeight": 110,
+			"HideInJournal": false,
+			"DefaultDialogueExpression": "$SmileTalkingToni$",
+			"AskStartDatingCutscene": "Toni_Dating",
+			"MarriageProposalCutscene": "Toni_Proposal",
+			"RoommateCutscene": "Toni_Roomate",
+			"CribCutscene": "Toni_Crib",
+			"NicknameUsedByChild": "Moddy"
+		},
+		{
+			"RowName": "Frogman",
+			"FriendlyName": "Frogman",
+			"Town": "Spoony_Island",
+			"Skeleton": "/Game/Character/NPCs/Frogman.Frogman",
+			"IdleAnimation": "None",
+			"ShopBuyAnimation": "None",
+			"Birthday": 
+			{
+				"Season": 1,
+				"Day": 24
+			},
+			"DaysOff":
+			[],
+			"QuestVoiceClip": "SoundWave'/Game/Sounds/NPC_Voices/Frogman_thanks.Frogman_thanks'",
+			"HelloVoiceClip": "SoundWave'/Game/Sounds/NPC_Voices/Frogman_hey.Frogman_hey'",
+			"LikedGiftParticle": "ParticleSystem'/Game/Particles/Effects/Flowers/Flowers.Flowers'",
+			"LovedGiftParticle": "ParticleSystem'/Game/Particles/Effects/Heart/Love.Love'",
+			"BulletinBoardBackground": "Texture2D'/Game/Textures/Bulletin_Postings/Bulletin_Paper_White_Neat_Paper.Bulletin_Paper_White_Neat_Paper'",
+			"CanPlayerDate": true,
+			"NameTagHeight": 110,
+			"HideInJournal": false,
+			"DefaultDialogueExpression": "$SmileTalkingFrogman$",
+			"AskStartDatingCutscene": "Frogman_Dating",
+			"MarriageProposalCutscene": "Frogman_Proposal",
+			"RoommateCutscene": "Frogman_Roomate",
+			"CribCutscene": "Frogman_Crib",
+			"NicknameUsedByChild": "Dad"
+		},
+		{
+			"RowName": "Alexis",
+			"FriendlyName": "Alexis",
+			"Town": "Spoony_Island",
+			"Skeleton": "/Game/Character/NPCs/Alexis.Alexis",
+			"IdleAnimation": "None",
+			"ShopBuyAnimation": "None",
+			"Birthday": 
+			{
+				"Season": 0,
+				"Day": 5
+			},
+			"DaysOff":
+			[],
+			"QuestVoiceClip": "SoundWave'/Game/Sounds/NPC_Voices/Alexis_Thanks.Alexis_Thanks'",
+			"HelloVoiceClip": "SoundWave'/Game/Sounds/NPC_Voices/Alexis_Hey.Alexis_Hey'",
+			"LikedGiftParticle": "ParticleSystem'/Game/Particles/Effects/Flowers/Flowers.Flowers'",
+			"LovedGiftParticle": "ParticleSystem'/Game/Particles/Effects/Heart/Love.Love'",
+			"BulletinBoardBackground": "Texture2D'/Game/Textures/Bulletin_Postings/Bulletin_Paper_White_Neat_Paper.Bulletin_Paper_White_Neat_Paper'",
+			"CanPlayerDate": true,
+			"NameTagHeight": 110,
+			"HideInJournal": false,
+			"DefaultDialogueExpression": "$FrownTalkingAlexis$",
+			"AskStartDatingCutscene": "Alexis_Dating",
+			"MarriageProposalCutscene": "Alexis_Proposal",
+			"RoommateCutscene": "Alexis_Roomate",
+			"CribCutscene": "Alexis_Crib",
+			"NicknameUsedByChild": "Mama"
+		},
+		{
+			"RowName": "Korin",
+			"FriendlyName": "Korin",
+			"Town": "Spoony_Island",
+			"Skeleton": "/Game/Character/NPCs/Korin.Korin",
+			"IdleAnimation": "None",
+			"ShopBuyAnimation": "None",
+			"Birthday": 
+			{
+				"Season": 3,
+				"Day": 15
+			},
+			"DaysOff":
+			[],
+			"QuestVoiceClip": "SoundWave'/Game/Sounds/NPC_Voices/Korin_Thanks.Korin_Thanks'",
+			"HelloVoiceClip": "SoundWave'/Game/Sounds/NPC_Voices/Korin_Hey.Korin_Hey'",
+			"LikedGiftParticle": "ParticleSystem'/Game/Particles/Effects/Flowers/Flowers.Flowers'",
+			"LovedGiftParticle": "ParticleSystem'/Game/Particles/Effects/Heart/Love.Love'",
+			"BulletinBoardBackground": "Texture2D'/Game/Textures/Bulletin_Postings/Bulletin_Paper_White_Neat_Paper.Bulletin_Paper_White_Neat_Paper'",
+			"CanPlayerDate": true,
+			"NameTagHeight": 110,
+			"HideInJournal": false,
+			"DefaultDialogueExpression": "$FrownTalkingKorin$",
+			"AskStartDatingCutscene": "Korin_Dating",
+			"MarriageProposalCutscene": "Korin_Proposal",
+			"RoommateCutscene": "Korin_Roomate",
+			"CribCutscene": "Korin_Crib",
+			"NicknameUsedByChild": "Dad"
+		},
+		{
+			"RowName": "Poppy",
+			"FriendlyName": "Poppy",
+			"Town": "Spoony_Island",
+			"Skeleton": "/Game/Character/NPCs/Poppy.Poppy",
+			"IdleAnimation": "None",
+			"ShopBuyAnimation": "None",
+			"Birthday": 
+			{
+				"Season": 1,
+				"Day": 10
+			},
+			"DaysOff":
+			[],
+			"QuestVoiceClip": "SoundWave'/Game/Sounds/NPC_Voices/Poppy_Thanks.Poppy_Thanks'",
+			"HelloVoiceClip": "SoundWave'/Game/Sounds/NPC_Voices/Poppy_Hey.Poppy_Hey'",
+			"LikedGiftParticle": "ParticleSystem'/Game/Particles/Effects/Flowers/Flowers.Flowers'",
+			"LovedGiftParticle": "ParticleSystem'/Game/Particles/Effects/Heart/Love.Love'",
+			"BulletinBoardBackground": "Texture2D'/Game/Textures/Bulletin_Postings/Bulletin_Paper_White_Neat_Paper.Bulletin_Paper_White_Neat_Paper'",
+			"CanPlayerDate": false,
+			"NameTagHeight": 110,
+			"HideInJournal": false,
+			"DefaultDialogueExpression": "$SmileTalkingPoppy$",
+			"AskStartDatingCutscene": "None",
+			"MarriageProposalCutscene": "None",
+			"RoommateCutscene": "None",
+			"CribCutscene": "None",
+			"NicknameUsedByChild": ""
+		},
+		{
+			"RowName": "Mickie",
+			"FriendlyName": "Mickie",
+			"Town": "Spoony_Island",
+			"Skeleton": "/Game/Character/NPCs/Mickie.Mickie",
+			"IdleAnimation": "None",
+			"ShopBuyAnimation": "None",
+			"Birthday": 
+			{
+				"Season": 3,
+				"Day": 11
+			},
+			"DaysOff":
+			[],
+			"QuestVoiceClip": "SoundWave'/Game/Sounds/NPC_Voices/Mickie_Thanks.Mickie_Thanks'",
+			"HelloVoiceClip": "SoundWave'/Game/Sounds/NPC_Voices/Mickie_Hey.Mickie_Hey'",
+			"LikedGiftParticle": "ParticleSystem'/Game/Particles/Effects/Flowers/Flowers.Flowers'",
+			"LovedGiftParticle": "ParticleSystem'/Game/Particles/Effects/Heart/Love.Love'",
+			"BulletinBoardBackground": "Texture2D'/Game/Textures/Bulletin_Postings/Bulletin_Paper_White_Neat_Paper.Bulletin_Paper_White_Neat_Paper'",
+			"CanPlayerDate": true,
+			"NameTagHeight": 110,
+			"HideInJournal": false,
+			"DefaultDialogueExpression": "$FrownTalkingMickie$",
+			"AskStartDatingCutscene": "None",
+			"MarriageProposalCutscene": "None",
+			"RoommateCutscene": "None",
+			"CribCutscene": "None",
+			"NicknameUsedByChild": ""
+		},
+		{
+			"RowName": "Lucas",
+			"FriendlyName": "Lucas",
+			"Town": "Spoony_Island",
+			"Skeleton": "/Game/Character/NPCs/Lucas.Lucas",
+			"IdleAnimation": "None",
+			"ShopBuyAnimation": "None",
+			"Birthday": 
+			{
+				"Season": 3,
+				"Day": 16
+			},
+			"DaysOff":
+			[],
+			"QuestVoiceClip": "SoundWave'/Game/Sounds/NPC_Voices/Lucas_Thanks.Lucas_Thanks'",
+			"HelloVoiceClip": "SoundWave'/Game/Sounds/NPC_Voices/Lucas_Hey.Lucas_Hey'",
+			"LikedGiftParticle": "ParticleSystem'/Game/Particles/Effects/Flowers/Flowers.Flowers'",
+			"LovedGiftParticle": "ParticleSystem'/Game/Particles/Effects/Heart/Love.Love'",
+			"BulletinBoardBackground": "Texture2D'/Game/Textures/Bulletin_Postings/Bulletin_Paper_White_Neat_Paper.Bulletin_Paper_White_Neat_Paper'",
+			"CanPlayerDate": false,
+			"NameTagHeight": 110,
+			"HideInJournal": false,
+			"DefaultDialogueExpression": "$SmileTalkingLucas$",
+			"AskStartDatingCutscene": "None",
+			"MarriageProposalCutscene": "None",
+			"RoommateCutscene": "None",
+			"CribCutscene": "None",
+			"NicknameUsedByChild": ""
+		},
+		{
+			"RowName": "Jen",
+			"FriendlyName": "Mayor Fern",
+			"Town": "Spoony_Island",
+			"Skeleton": "/Game/Character/NPCs/Jen.Jen",
+			"IdleAnimation": "None",
+			"ShopBuyAnimation": "None",
+			"Birthday": 
+			{
+				"Season": 1,
+				"Day": 4
+			},
+			"DaysOff":
+			[],
+			"QuestVoiceClip": "SoundWave'/Game/Sounds/NPC_Voices/Mayor_Fern_Thanks.Mayor_Fern_Thanks'",
+			"HelloVoiceClip": "SoundWave'/Game/Sounds/NPC_Voices/Mayor_Fern_Hey.Mayor_Fern_Hey'",
+			"LikedGiftParticle": "ParticleSystem'/Game/Particles/Effects/Flowers/Flowers.Flowers'",
+			"LovedGiftParticle": "ParticleSystem'/Game/Particles/Effects/Heart/Love.Love'",
+			"BulletinBoardBackground": "Texture2D'/Game/Textures/Bulletin_Postings/Bulletin_Paper_White_Neat_Paper.Bulletin_Paper_White_Neat_Paper'",
+			"CanPlayerDate": true,
+			"NameTagHeight": 110,
+			"HideInJournal": false,
+			"DefaultDialogueExpression": "$SmileTalkingJen$",
+			"AskStartDatingCutscene": "Jen_Dating",
+			"MarriageProposalCutscene": "Jen_Proposal",
+			"RoommateCutscene": "Mayor_Fern_Roomate",
+			"CribCutscene": "Jen_Crib",
+			"NicknameUsedByChild": "Mom"
+		},
+		{
+			"RowName": "Harsha",
+			"FriendlyName": "Harsha",
+			"Town": "PumpkinVale",
+			"Skeleton": "/Game/Character/NPCs/Harsha.Harsha",
+			"IdleAnimation": "AnimSequence'/Game/Character/Animations/Anxious.Anxious'",
+			"ShopBuyAnimation": "None",
+			"Birthday": 
+			{
+				"Season": 0,
+				"Day": 27
+			},
+			"DaysOff":
+			[],
+			"QuestVoiceClip": "SoundWave'/Game/Sounds/NPC_Voices/Harsha_Thanks.Harsha_Thanks'",
+			"HelloVoiceClip": "SoundWave'/Game/Sounds/NPC_Voices/Harsha_Hey.Harsha_Hey'",
+			"LikedGiftParticle": "ParticleSystem'/Game/Particles/Effects/Flowers/Flowers.Flowers'",
+			"LovedGiftParticle": "ParticleSystem'/Game/Particles/Effects/Heart/Love.Love'",
+			"BulletinBoardBackground": "Texture2D'/Game/Textures/Bulletin_Postings/Bulletin_Paper_Blue_Neat_Paper.Bulletin_Paper_Blue_Neat_Paper'",
+			"CanPlayerDate": true,
+			"NameTagHeight": 110,
+			"HideInJournal": false,
+			"DefaultDialogueExpression": "$HarshaSadTalking$",
+			"AskStartDatingCutscene": "Harsha_Dating",
+			"MarriageProposalCutscene": "Harsha_Proposal",
+			"RoommateCutscene": "Harsha_Roomate",
+			"CribCutscene": "Harsha_Baby",
+			"NicknameUsedByChild": "Moddy"
+		},
+		{
+			"RowName": "Lan",
+			"FriendlyName": "Lan",
+			"Town": "Spoony_Island",
+			"Skeleton": "/Game/Character/NPCs/LAN.LAN",
+			"IdleAnimation": "None",
+			"ShopBuyAnimation": "None",
+			"Birthday": 
+			{
+				"Season": 0,
+				"Day": 1
+			},
+			"DaysOff":
+			[],
+			"QuestVoiceClip": "SoundWave'/Game/Sounds/NPC_Voices/Lan_Thanks.Lan_Thanks'",
+			"HelloVoiceClip": "SoundWave'/Game/Sounds/NPC_Voices/Lan_Hey.Lan_Hey'",
+			"LikedGiftParticle": "ParticleSystem'/Game/Particles/Effects/Flowers/Flowers.Flowers'",
+			"LovedGiftParticle": "ParticleSystem'/Game/Particles/Effects/Heart/Love.Love'",
+			"BulletinBoardBackground": "Texture2D'/Game/Textures/Bulletin_Postings/Bulletin_Paper_Blue_Neat_Paper.Bulletin_Paper_Blue_Neat_Paper'",
+			"CanPlayerDate": true,
+			"NameTagHeight": 110,
+			"HideInJournal": false,
+			"DefaultDialogueExpression": "$SmileLan$",
+			"AskStartDatingCutscene": "Lan_Dating",
+			"MarriageProposalCutscene": "None",
+			"RoommateCutscene": "None",
+			"CribCutscene": "None",
+			"NicknameUsedByChild": "Moddy"
+		},
+		{
+			"RowName": "Blake",
+			"FriendlyName": "Blake",
+			"Town": "PumpkinVale",
+			"Skeleton": "/Game/Character/NPCs/Blake.Blake",
+			"IdleAnimation": "AnimSequence'/Game/Character/Animations/Idle.Idle'",
+			"ShopBuyAnimation": "None",
+			"Birthday": 
+			{
+				"Season": 0,
+				"Day": 25
+			},
+			"DaysOff":
+			[],
+			"QuestVoiceClip": "SoundWave'/Game/Sounds/NPC_Voices/Blake_Thanks.Blake_Thanks'",
+			"HelloVoiceClip": "SoundWave'/Game/Sounds/NPC_Voices/Blake_Hey.Blake_Hey'",
+			"LikedGiftParticle": "ParticleSystem'/Game/Particles/Effects/Flowers/Flowers.Flowers'",
+			"LovedGiftParticle": "ParticleSystem'/Game/Particles/Effects/Heart/Love.Love'",
+			"BulletinBoardBackground": "Texture2D'/Game/Textures/Bulletin_Postings/Bulletin_Paper_Coffee_Stain.Bulletin_Paper_Coffee_Stain'",
+			"CanPlayerDate": true,
+			"NameTagHeight": 110,
+			"HideInJournal": false,
+			"DefaultDialogueExpression": "$FrownTalkingBlake$",
+			"AskStartDatingCutscene": "Blake_Dating",
+			"MarriageProposalCutscene": "Blake_Proposal",
+			"RoommateCutscene": "Blake_Roomate",
+			"CribCutscene": "Blake_Baby",
+			"NicknameUsedByChild": "Dad"
+		},
+		{
+			"RowName": "Jounce_Worker_1",
+			"FriendlyName": "Tim",
+			"Town": "Wahoo_Beach",
+			"Skeleton": "/Game/Character/NPCs/Jounce_Person.Jounce_Person",
+			"IdleAnimation": "AnimSequence'/Game/Character/Animations/Goofy.Goofy'",
+			"ShopBuyAnimation": "None",
+			"Birthday": 
+			{
+				"Season": 0,
+				"Day": 0
+			},
+			"DaysOff":
+			[],
+			"QuestVoiceClip": "None",
+			"HelloVoiceClip": "None",
+			"LikedGiftParticle": "ParticleSystem'/Game/Particles/Effects/Flowers/Flowers.Flowers'",
+			"LovedGiftParticle": "ParticleSystem'/Game/Particles/Effects/Heart/Love.Love'",
+			"BulletinBoardBackground": "None",
+			"CanPlayerDate": false,
+			"NameTagHeight": 110,
+			"HideInJournal": true,
+			"DefaultDialogueExpression": "$SmileTalkingJounce$",
+			"AskStartDatingCutscene": "None",
+			"MarriageProposalCutscene": "None",
+			"RoommateCutscene": "None",
+			"CribCutscene": "None",
+			"NicknameUsedByChild": ""
+		},
+		{
+			"RowName": "Jounce_Worker_2",
+			"FriendlyName": "Tam",
+			"Town": "PumpkinVale",
+			"Skeleton": "/Game/Character/NPCs/Jounce_Person2.Jounce_Person2",
+			"IdleAnimation": "AnimSequence'/Game/Character/Animations/Goofy.Goofy'",
+			"ShopBuyAnimation": "None",
+			"Birthday": 
+			{
+				"Season": 0,
+				"Day": 0
+			},
+			"DaysOff":
+			[],
+			"QuestVoiceClip": "None",
+			"HelloVoiceClip": "None",
+			"LikedGiftParticle": "ParticleSystem'/Game/Particles/Effects/Flowers/Flowers.Flowers'",
+			"LovedGiftParticle": "ParticleSystem'/Game/Particles/Effects/Heart/Love.Love'",
+			"BulletinBoardBackground": "None",
+			"CanPlayerDate": false,
+			"NameTagHeight": 110,
+			"HideInJournal": true,
+			"DefaultDialogueExpression": "$SmileTalkingJounce2$",
+			"AskStartDatingCutscene": "None",
+			"MarriageProposalCutscene": "None",
+			"RoommateCutscene": "None",
+			"CribCutscene": "None",
+			"NicknameUsedByChild": ""
+		},
+		{
+			"RowName": "Bishop",
+			"FriendlyName": "Bishop",
+			"Town": "Diamond_Falls",
+			"Skeleton": "/Game/Character/NPCs/Bishop.Bishop",
+			"IdleAnimation": "None",
+			"ShopBuyAnimation": "None",
+			"Birthday": 
+			{
+				"Season": 2,
+				"Day": 10
+			},
+			"DaysOff":
+			[],
+			"QuestVoiceClip": "SoundWave'/Game/Sounds/NPC_Voices/Bishop_Thanks.Bishop_Thanks'",
+			"HelloVoiceClip": "SoundWave'/Game/Sounds/NPC_Voices/Bishop_Hey.Bishop_Hey'",
+			"LikedGiftParticle": "ParticleSystem'/Game/Particles/Effects/Flowers/Flowers.Flowers'",
+			"LovedGiftParticle": "ParticleSystem'/Game/Particles/Effects/Heart/Love.Love'",
+			"BulletinBoardBackground": "Texture2D'/Game/Textures/Bulletin_Postings/Bulletin_Paper_Crumbled.Bulletin_Paper_Crumbled'",
+			"CanPlayerDate": true,
+			"NameTagHeight": 110,
+			"HideInJournal": false,
+			"DefaultDialogueExpression": "$BishopSmileTalking$",
+			"AskStartDatingCutscene": "Bishop_Dating",
+			"MarriageProposalCutscene": "Bishop_Proposal",
+			"RoommateCutscene": "Bishop_Roomate",
+			"CribCutscene": "Bishop_Crib",
+			"NicknameUsedByChild": "Dad"
+		},
+		{
+			"RowName": "Clem",
+			"FriendlyName": "Clem",
+			"Town": "Diamond_Falls",
+			"Skeleton": "/Game/Character/NPCs/Clem.Clem",
+			"IdleAnimation": "None",
+			"ShopBuyAnimation": "None",
+			"Birthday": 
+			{
+				"Season": 0,
+				"Day": 2
+			},
+			"DaysOff":
+			[],
+			"QuestVoiceClip": "SoundWave'/Game/Sounds/NPC_Voices/Clem_Thanks.Clem_Thanks'",
+			"HelloVoiceClip": "SoundWave'/Game/Sounds/NPC_Voices/Clem_Hey.Clem_Hey'",
+			"LikedGiftParticle": "ParticleSystem'/Game/Particles/Effects/Flowers/Flowers.Flowers'",
+			"LovedGiftParticle": "ParticleSystem'/Game/Particles/Effects/Heart/Love.Love'",
+			"BulletinBoardBackground": "Texture2D'/Game/Textures/Bulletin_Postings/Bulletin_Paper_Crumbled.Bulletin_Paper_Crumbled'",
+			"CanPlayerDate": true,
+			"NameTagHeight": 110,
+			"HideInJournal": false,
+			"DefaultDialogueExpression": "$ClemSmileTalking$",
+			"AskStartDatingCutscene": "Clem_Dating",
+			"MarriageProposalCutscene": "Clem_Proposal",
+			"RoommateCutscene": "Clem_Roomate",
+			"CribCutscene": "Clem_Crib",
+			"NicknameUsedByChild": "Dad"
+		},
+		{
+			"RowName": "Dr_Beardenheim",
+			"FriendlyName": "Dr. Beardenheim",
+			"Town": "Diamond_Falls",
+			"Skeleton": "/Game/Character/NPCs/Dr_Beardenheim.Dr_Beardenheim",
+			"IdleAnimation": "None",
+			"ShopBuyAnimation": "None",
+			"Birthday": 
+			{
+				"Season": 1,
+				"Day": 11
+			},
+			"DaysOff":
+			[],
+			"QuestVoiceClip": "SoundWave'/Game/Sounds/NPC_Voices/Dr__Beardenheim_Thanks.Dr__Beardenheim_Thanks'",
+			"HelloVoiceClip": "SoundWave'/Game/Sounds/NPC_Voices/Dr__Beardenheim_Hey.Dr__Beardenheim_Hey'",
+			"LikedGiftParticle": "ParticleSystem'/Game/Particles/Effects/Flowers/Flowers.Flowers'",
+			"LovedGiftParticle": "ParticleSystem'/Game/Particles/Effects/Heart/Love.Love'",
+			"BulletinBoardBackground": "Texture2D'/Game/Textures/Bulletin_Postings/Bulletin_Paper_Crumbled_White.Bulletin_Paper_Crumbled_White'",
+			"CanPlayerDate": false,
+			"NameTagHeight": 110,
+			"HideInJournal": false,
+			"DefaultDialogueExpression": "",
+			"AskStartDatingCutscene": "None",
+			"MarriageProposalCutscene": "None",
+			"RoommateCutscene": "None",
+			"CribCutscene": "None",
+			"NicknameUsedByChild": ""
+		},
+		{
+			"RowName": "Farah",
+			"FriendlyName": "Farah",
+			"Town": "Diamond_Falls",
+			"Skeleton": "/Game/Character/NPCs/Farha.Farha",
+			"IdleAnimation": "None",
+			"ShopBuyAnimation": "None",
+			"Birthday": 
+			{
+				"Season": 0,
+				"Day": 20
+			},
+			"DaysOff":
+			[],
+			"QuestVoiceClip": "SoundWave'/Game/Sounds/NPC_Voices/Farah_Thanks.Farah_Thanks'",
+			"HelloVoiceClip": "SoundWave'/Game/Sounds/NPC_Voices/Farah_Hey.Farah_Hey'",
+			"LikedGiftParticle": "ParticleSystem'/Game/Particles/Effects/Flowers/Flowers.Flowers'",
+			"LovedGiftParticle": "ParticleSystem'/Game/Particles/Effects/Heart/Love.Love'",
+			"BulletinBoardBackground": "Texture2D'/Game/Textures/Bulletin_Postings/Bulletin_Paper_Pink_Cute.Bulletin_Paper_Pink_Cute'",
+			"CanPlayerDate": true,
+			"NameTagHeight": 110,
+			"HideInJournal": false,
+			"DefaultDialogueExpression": "$FarahSmileTalking$",
+			"AskStartDatingCutscene": "Farah_Dating",
+			"MarriageProposalCutscene": "Farah_Proposal",
+			"RoommateCutscene": "Farah_Roomate",
+			"CribCutscene": "Farah_Crib",
+			"NicknameUsedByChild": "Mama"
+		},
+		{
+			"RowName": "Fasha",
+			"FriendlyName": "Fasha",
+			"Town": "Diamond_Falls",
+			"Skeleton": "/Game/Character/NPCs/Farsha.Farsha",
+			"IdleAnimation": "None",
+			"ShopBuyAnimation": "None",
+			"Birthday": 
+			{
+				"Season": 1,
+				"Day": 8
+			},
+			"DaysOff":
+			[],
+			"QuestVoiceClip": "SoundWave'/Game/Sounds/NPC_Voices/Fasha_Thanks.Fasha_Thanks'",
+			"HelloVoiceClip": "SoundWave'/Game/Sounds/NPC_Voices/Fasha_Hey.Fasha_Hey'",
+			"LikedGiftParticle": "ParticleSystem'/Game/Particles/Effects/Flowers/Flowers.Flowers'",
+			"LovedGiftParticle": "ParticleSystem'/Game/Particles/Effects/Heart/Love.Love'",
+			"BulletinBoardBackground": "Texture2D'/Game/Textures/Bulletin_Postings/Bulletin_Paper_Coffee_Stain.Bulletin_Paper_Coffee_Stain'",
+			"CanPlayerDate": true,
+			"NameTagHeight": 110,
+			"HideInJournal": false,
+			"DefaultDialogueExpression": "$FashaSmileTalking$",
+			"AskStartDatingCutscene": "Fasha_Dating",
+			"MarriageProposalCutscene": "Fasha_Proposal",
+			"RoommateCutscene": "Fasha_Roomate",
+			"CribCutscene": "Fasha_Crib",
+			"NicknameUsedByChild": "Mom"
+		},
+		{
+			"RowName": "Fukuyama",
+			"FriendlyName": "Fukuyama",
+			"Town": "Diamond_Falls",
+			"Skeleton": "/Game/Character/NPCs/Fukuyama.Fukuyama",
+			"IdleAnimation": "None",
+			"ShopBuyAnimation": "None",
+			"Birthday": 
+			{
+				"Season": 0,
+				"Day": 0
+			},
+			"DaysOff":
+			[],
+			"QuestVoiceClip": "SoundWave'/Game/Sounds/NPC_Voices/Fukuyama_Thanks.Fukuyama_Thanks'",
+			"HelloVoiceClip": "SoundWave'/Game/Sounds/NPC_Voices/Fukuyama_Hey.Fukuyama_Hey'",
+			"LikedGiftParticle": "ParticleSystem'/Game/Particles/Effects/Flowers/Flowers.Flowers'",
+			"LovedGiftParticle": "ParticleSystem'/Game/Particles/Effects/Heart/Love.Love'",
+			"BulletinBoardBackground": "Texture2D'/Game/Textures/Bulletin_Postings/Bulletin_Paper_White_Neat_Paper.Bulletin_Paper_White_Neat_Paper'",
+			"CanPlayerDate": false,
+			"NameTagHeight": 110,
+			"HideInJournal": false,
+			"DefaultDialogueExpression": "$FukuyamaSmileTalking$",
+			"AskStartDatingCutscene": "None",
+			"MarriageProposalCutscene": "None",
+			"RoommateCutscene": "None",
+			"CribCutscene": "None",
+			"NicknameUsedByChild": ""
+		},
+		{
+			"RowName": "Greg",
+			"FriendlyName": "Greg",
+			"Town": "Diamond_Falls",
+			"Skeleton": "/Game/Character/NPCs/Greg.Greg",
+			"IdleAnimation": "None",
+			"ShopBuyAnimation": "None",
+			"Birthday": 
+			{
+				"Season": 3,
+				"Day": 13
+			},
+			"DaysOff":
+			[],
+			"QuestVoiceClip": "SoundWave'/Game/Sounds/NPC_Voices/Greg_Thanks.Greg_Thanks'",
+			"HelloVoiceClip": "SoundWave'/Game/Sounds/NPC_Voices/Greg_Hey.Greg_Hey'",
+			"LikedGiftParticle": "ParticleSystem'/Game/Particles/Effects/Flowers/Flowers.Flowers'",
+			"LovedGiftParticle": "ParticleSystem'/Game/Particles/Effects/Heart/Love.Love'",
+			"BulletinBoardBackground": "Texture2D'/Game/Textures/Bulletin_Postings/Bulletin_Paper_Crumbled.Bulletin_Paper_Crumbled'",
+			"CanPlayerDate": false,
+			"NameTagHeight": 110,
+			"HideInJournal": false,
+			"DefaultDialogueExpression": "$GregTalking$",
+			"AskStartDatingCutscene": "None",
+			"MarriageProposalCutscene": "None",
+			"RoommateCutscene": "None",
+			"CribCutscene": "None",
+			"NicknameUsedByChild": ""
+		},
+		{
+			"RowName": "Hank",
+			"FriendlyName": "Hank",
+			"Town": "Diamond_Falls",
+			"Skeleton": "/Game/Character/NPCs/Hank.Hank",
+			"IdleAnimation": "None",
+			"ShopBuyAnimation": "None",
+			"Birthday": 
+			{
+				"Season": 3,
+				"Day": 7
+			},
+			"DaysOff":
+			[],
+			"QuestVoiceClip": "SoundWave'/Game/Sounds/NPC_Voices/Hank_Thanks.Hank_Thanks'",
+			"HelloVoiceClip": "SoundWave'/Game/Sounds/NPC_Voices/Hank_Hey.Hank_Hey'",
+			"LikedGiftParticle": "ParticleSystem'/Game/Particles/Effects/Flowers/Flowers.Flowers'",
+			"LovedGiftParticle": "ParticleSystem'/Game/Particles/Effects/Heart/Love.Love'",
+			"BulletinBoardBackground": "Texture2D'/Game/Textures/Bulletin_Postings/Bulletin_Paper_White_Neat_Paper.Bulletin_Paper_White_Neat_Paper'",
+			"CanPlayerDate": true,
+			"NameTagHeight": 110,
+			"HideInJournal": false,
+			"DefaultDialogueExpression": "$HankTalking$",
+			"AskStartDatingCutscene": "Hank_Dating",
+			"MarriageProposalCutscene": "Hank_Proposal",
+			"RoommateCutscene": "Hank_Roomate",
+			"CribCutscene": "Hank_Crib",
+			"NicknameUsedByChild": "Pops"
+		},
+		{
+			"RowName": "Hideo",
+			"FriendlyName": "Hideo",
+			"Town": "Diamond_Falls",
+			"Skeleton": "/Game/Character/NPCs/Hideo.Hideo",
+			"IdleAnimation": "None",
+			"ShopBuyAnimation": "None",
+			"Birthday": 
+			{
+				"Season": 1,
+				"Day": 18
+			},
+			"DaysOff":
+			[],
+			"QuestVoiceClip": "SoundWave'/Game/Sounds/NPC_Voices/Hideo_Thanks.Hideo_Thanks'",
+			"HelloVoiceClip": "SoundWave'/Game/Sounds/NPC_Voices/Hideo_Hey.Hideo_Hey'",
+			"LikedGiftParticle": "ParticleSystem'/Game/Particles/Effects/Flowers/Flowers.Flowers'",
+			"LovedGiftParticle": "ParticleSystem'/Game/Particles/Effects/Heart/Love.Love'",
+			"BulletinBoardBackground": "Texture2D'/Game/Textures/Bulletin_Postings/Bulletin_Paper_Sewing.Bulletin_Paper_Sewing'",
+			"CanPlayerDate": true,
+			"NameTagHeight": 110,
+			"HideInJournal": false,
+			"DefaultDialogueExpression": "$HideoSmileTalking$",
+			"AskStartDatingCutscene": "Hideo_Dating",
+			"MarriageProposalCutscene": "Hideo_Proposal",
+			"RoommateCutscene": "Hideo_Roomate",
+			"CribCutscene": "Hideo_Crib",
+			"NicknameUsedByChild": "Dad"
+		},
+		{
+			"RowName": "Hien",
+			"FriendlyName": "Hien",
+			"Town": "Diamond_Falls",
+			"Skeleton": "/Game/Character/NPCs/Hien.Hien",
+			"IdleAnimation": "None",
+			"ShopBuyAnimation": "None",
+			"Birthday": 
+			{
+				"Season": 3,
+				"Day": 1
+			},
+			"DaysOff":
+			[],
+			"QuestVoiceClip": "SoundWave'/Game/Sounds/NPC_Voices/Hien_Thanks.Hien_Thanks'",
+			"HelloVoiceClip": "SoundWave'/Game/Sounds/NPC_Voices/Hien_Hey2.Hien_Hey2'",
+			"LikedGiftParticle": "ParticleSystem'/Game/Particles/Effects/Flowers/Flowers.Flowers'",
+			"LovedGiftParticle": "ParticleSystem'/Game/Particles/Effects/Heart/Love.Love'",
+			"BulletinBoardBackground": "Texture2D'/Game/Textures/Bulletin_Postings/Bulletin_Paper_Coffee_Stain.Bulletin_Paper_Coffee_Stain'",
+			"CanPlayerDate": true,
+			"NameTagHeight": 110,
+			"HideInJournal": false,
+			"DefaultDialogueExpression": "$HienTalking$",
+			"AskStartDatingCutscene": "Hien_Dating",
+			"MarriageProposalCutscene": "Hien_Proposal",
+			"RoommateCutscene": "Hien_Roomate",
+			"CribCutscene": "Hien_Crib",
+			"NicknameUsedByChild": "Father"
+		},
+		{
+			"RowName": "Hikaru",
+			"FriendlyName": "Hikaru",
+			"Town": "Diamond_Falls",
+			"Skeleton": "/Game/Character/NPCs/Hikaru.Hikaru",
+			"IdleAnimation": "None",
+			"ShopBuyAnimation": "None",
+			"Birthday": 
+			{
+				"Season": 3,
+				"Day": 22
+			},
+			"DaysOff":
+			[],
+			"QuestVoiceClip": "SoundWave'/Game/Sounds/NPC_Voices/Hikaru_Thanks.Hikaru_Thanks'",
+			"HelloVoiceClip": "SoundWave'/Game/Sounds/NPC_Voices/Hikaru_Hey.Hikaru_Hey'",
+			"LikedGiftParticle": "ParticleSystem'/Game/Particles/Effects/Flowers/Flowers.Flowers'",
+			"LovedGiftParticle": "ParticleSystem'/Game/Particles/Effects/Heart/Love.Love'",
+			"BulletinBoardBackground": "Texture2D'/Game/Textures/Bulletin_Postings/Bulletin_Paper_Yellow_Neat_Paper.Bulletin_Paper_Yellow_Neat_Paper'",
+			"CanPlayerDate": true,
+			"NameTagHeight": 110,
+			"HideInJournal": false,
+			"DefaultDialogueExpression": "$HikaruSmileTalking$",
+			"AskStartDatingCutscene": "Hikaru_Dating",
+			"MarriageProposalCutscene": "Hikaru_Proposal",
+			"RoommateCutscene": "Hikaru_Roomate",
+			"CribCutscene": "Hikaru_Crib",
+			"NicknameUsedByChild": "Moddy"
+		},
+		{
+			"RowName": "James",
+			"FriendlyName": "James",
+			"Town": "Diamond_Falls",
+			"Skeleton": "/Game/Character/NPCs/James.James",
+			"IdleAnimation": "None",
+			"ShopBuyAnimation": "None",
+			"Birthday": 
+			{
+				"Season": 1,
+				"Day": 19
+			},
+			"DaysOff":
+			[],
+			"QuestVoiceClip": "SoundWave'/Game/Sounds/NPC_Voices/James_Thanks.James_Thanks'",
+			"HelloVoiceClip": "SoundWave'/Game/Sounds/NPC_Voices/James_Hellos.James_Hellos'",
+			"LikedGiftParticle": "ParticleSystem'/Game/Particles/Effects/Flowers/Flowers.Flowers'",
+			"LovedGiftParticle": "ParticleSystem'/Game/Particles/Effects/Heart/Love.Love'",
+			"BulletinBoardBackground": "Texture2D'/Game/Textures/Bulletin_Postings/Bulletin_Paper_Yellow_Neat_Paper.Bulletin_Paper_Yellow_Neat_Paper'",
+			"CanPlayerDate": true,
+			"NameTagHeight": 110,
+			"HideInJournal": false,
+			"DefaultDialogueExpression": "$JamesSmileTalking$",
+			"AskStartDatingCutscene": "James_Dating",
+			"MarriageProposalCutscene": "James_Proposal",
+			"RoommateCutscene": "James_Roomate",
+			"CribCutscene": "James_Crib",
+			"NicknameUsedByChild": "Dad"
+		},
+		{
+			"RowName": "Joshua",
+			"FriendlyName": "Joshua",
+			"Town": "Diamond_Falls",
+			"Skeleton": "/Game/Character/NPCs/Joshua.Joshua",
+			"IdleAnimation": "None",
+			"ShopBuyAnimation": "None",
+			"Birthday": 
+			{
+				"Season": 2,
+				"Day": 13
+			},
+			"DaysOff":
+			[],
+			"QuestVoiceClip": "SoundWave'/Game/Sounds/NPC_Voices/Joshua_Thanks2.Joshua_Thanks2'",
+			"HelloVoiceClip": "SoundWave'/Game/Sounds/NPC_Voices/Joshua_Hey.Joshua_Hey'",
+			"LikedGiftParticle": "ParticleSystem'/Game/Particles/Effects/Flowers/Flowers.Flowers'",
+			"LovedGiftParticle": "ParticleSystem'/Game/Particles/Effects/Heart/Love.Love'",
+			"BulletinBoardBackground": "Texture2D'/Game/Textures/Bulletin_Postings/Bulletin_Paper_Grid.Bulletin_Paper_Grid'",
+			"CanPlayerDate": true,
+			"NameTagHeight": 110,
+			"HideInJournal": false,
+			"DefaultDialogueExpression": "$JoshuaTalking$",
+			"AskStartDatingCutscene": "Joshua_Dating",
+			"MarriageProposalCutscene": "Joshua_Proposal",
+			"RoommateCutscene": "Joshua_Roomate",
+			"CribCutscene": "Joshua_Crib",
+			"NicknameUsedByChild": "Dad"
+		},
+		{
+			"RowName": "Katherine",
+			"FriendlyName": "Katherine",
+			"Town": "Diamond_Falls",
+			"Skeleton": "/Game/Character/NPCs/Katherine.Katherine",
+			"IdleAnimation": "None",
+			"ShopBuyAnimation": "None",
+			"Birthday": 
+			{
+				"Season": 0,
+				"Day": 10
+			},
+			"DaysOff":
+			[],
+			"QuestVoiceClip": "SoundWave'/Game/Sounds/NPC_Voices/Katherine_Thanks.Katherine_Thanks'",
+			"HelloVoiceClip": "SoundWave'/Game/Sounds/NPC_Voices/Katherine_Hey.Katherine_Hey'",
+			"LikedGiftParticle": "ParticleSystem'/Game/Particles/Effects/Flowers/Flowers.Flowers'",
+			"LovedGiftParticle": "ParticleSystem'/Game/Particles/Effects/Heart/Love.Love'",
+			"BulletinBoardBackground": "Texture2D'/Game/Textures/Bulletin_Postings/Bulletin_Paper_Pink_Cute.Bulletin_Paper_Pink_Cute'",
+			"CanPlayerDate": true,
+			"NameTagHeight": 110,
+			"HideInJournal": false,
+			"DefaultDialogueExpression": "$KatherineSmileTalking$",
+			"AskStartDatingCutscene": "Katherine_Dating",
+			"MarriageProposalCutscene": "Katherine_Proposal",
+			"RoommateCutscene": "Katherine_Roomate",
+			"CribCutscene": "Katherine_Crib",
+			"NicknameUsedByChild": "Mama"
+		},
+		{
+			"RowName": "Kim",
+			"FriendlyName": "Kim",
+			"Town": "Diamond_Falls",
+			"Skeleton": "/Game/Character/NPCs/Kim.Kim",
+			"IdleAnimation": "None",
+			"ShopBuyAnimation": "None",
+			"Birthday": 
+			{
+				"Season": 2,
+				"Day": 25
+			},
+			"DaysOff":
+			[],
+			"QuestVoiceClip": "SoundWave'/Game/Sounds/NPC_Voices/Kim_Thanks.Kim_Thanks'",
+			"HelloVoiceClip": "SoundWave'/Game/Sounds/NPC_Voices/Kim_Hey.Kim_Hey'",
+			"LikedGiftParticle": "ParticleSystem'/Game/Particles/Effects/Flowers/Flowers.Flowers'",
+			"LovedGiftParticle": "ParticleSystem'/Game/Particles/Effects/Heart/Love.Love'",
+			"BulletinBoardBackground": "Texture2D'/Game/Textures/Bulletin_Postings/Bulletin_Paper_Blue_Neat_Paper.Bulletin_Paper_Blue_Neat_Paper'",
+			"CanPlayerDate": true,
+			"NameTagHeight": 110,
+			"HideInJournal": false,
+			"DefaultDialogueExpression": "$KimSmileTalking$",
+			"AskStartDatingCutscene": "Kim_Dating",
+			"MarriageProposalCutscene": "Kim_Proposal",
+			"RoommateCutscene": "Kim_Roomate",
+			"CribCutscene": "Kim_Crib",
+			"NicknameUsedByChild": "Mom"
+		},
+		{
+			"RowName": "Liam",
+			"FriendlyName": "Liam",
+			"Town": "Diamond_Falls",
+			"Skeleton": "/Game/Character/NPCs/Liam.Liam",
+			"IdleAnimation": "None",
+			"ShopBuyAnimation": "None",
+			"Birthday": 
+			{
+				"Season": 0,
+				"Day": 27
+			},
+			"DaysOff":
+			[],
+			"QuestVoiceClip": "SoundWave'/Game/Sounds/NPC_Voices/Liam_Thanks.Liam_Thanks'",
+			"HelloVoiceClip": "SoundWave'/Game/Sounds/NPC_Voices/Liam_Hey.Liam_Hey'",
+			"LikedGiftParticle": "ParticleSystem'/Game/Particles/Effects/Flowers/Flowers.Flowers'",
+			"LovedGiftParticle": "ParticleSystem'/Game/Particles/Effects/Heart/Love.Love'",
+			"BulletinBoardBackground": "Texture2D'/Game/Textures/Bulletin_Postings/Bulletin_Paper_Crumbled.Bulletin_Paper_Crumbled'",
+			"CanPlayerDate": true,
+			"NameTagHeight": 110,
+			"HideInJournal": false,
+			"DefaultDialogueExpression": "$LiamTalking$",
+			"AskStartDatingCutscene": "Liam_Dating",
+			"MarriageProposalCutscene": "Liam_Proposal",
+			"RoommateCutscene": "Liam_Roomate",
+			"CribCutscene": "Liam_Crib",
+			"NicknameUsedByChild": "Dad"
+		},
+		{
+			"RowName": "Lonan",
+			"FriendlyName": "Lonan",
+			"Town": "Diamond_Falls",
+			"Skeleton": "/Game/Character/NPCs/Lonan.Lonan",
+			"IdleAnimation": "None",
+			"ShopBuyAnimation": "None",
+			"Birthday": 
+			{
+				"Season": 2,
+				"Day": 10
+			},
+			"DaysOff":
+			[],
+			"QuestVoiceClip": "SoundWave'/Game/Sounds/NPC_Voices/Lonan_Thanks.Lonan_Thanks'",
+			"HelloVoiceClip": "SoundWave'/Game/Sounds/NPC_Voices/Lonan_Hey.Lonan_Hey'",
+			"LikedGiftParticle": "ParticleSystem'/Game/Particles/Effects/Flowers/Flowers.Flowers'",
+			"LovedGiftParticle": "ParticleSystem'/Game/Particles/Effects/Heart/Love.Love'",
+			"BulletinBoardBackground": "Texture2D'/Game/Textures/Bulletin_Postings/Bulletin_Paper_White_Neat_Paper.Bulletin_Paper_White_Neat_Paper'",
+			"CanPlayerDate": true,
+			"NameTagHeight": 110,
+			"HideInJournal": false,
+			"DefaultDialogueExpression": "$LonanSmileTalking$",
+			"AskStartDatingCutscene": "Lonan_Dating",
+			"MarriageProposalCutscene": "Lonan_Proposal",
+			"RoommateCutscene": "Lonan_Roomate",
+			"CribCutscene": "Lonan_Crib",
+			"NicknameUsedByChild": "Dad"
+		},
+		{
+			"RowName": "Loxi",
+			"FriendlyName": "Loxi",
+			"Town": "Diamond_Falls",
+			"Skeleton": "/Game/Character/NPCs/Loxi.Loxi",
+			"IdleAnimation": "None",
+			"ShopBuyAnimation": "None",
+			"Birthday": 
+			{
+				"Season": 0,
+				"Day": 23
+			},
+			"DaysOff":
+			[],
+			"QuestVoiceClip": "SoundWave'/Game/Sounds/NPC_Voices/Loxi_Thanks2.Loxi_Thanks2'",
+			"HelloVoiceClip": "SoundWave'/Game/Sounds/NPC_Voices/Loxi_Hey2.Loxi_Hey2'",
+			"LikedGiftParticle": "ParticleSystem'/Game/Particles/Effects/Flowers/Flowers.Flowers'",
+			"LovedGiftParticle": "ParticleSystem'/Game/Particles/Effects/Heart/Love.Love'",
+			"BulletinBoardBackground": "Texture2D'/Game/Textures/Bulletin_Postings/Bulletin_Paper_Pink_Neat_Paper.Bulletin_Paper_Pink_Neat_Paper'",
+			"CanPlayerDate": true,
+			"NameTagHeight": 110,
+			"HideInJournal": false,
+			"DefaultDialogueExpression": "$LoxiSmileTalking$",
+			"AskStartDatingCutscene": "Loxi_Dating",
+			"MarriageProposalCutscene": "Loxi_Proposal",
+			"RoommateCutscene": "Loxi_Roomate",
+			"CribCutscene": "Loxi_Crib",
+			"NicknameUsedByChild": "Mom"
+		},
+		{
+			"RowName": "Luis",
+			"FriendlyName": "Luis",
+			"Town": "Diamond_Falls",
+			"Skeleton": "/Game/Character/NPCs/Luis.Luis",
+			"IdleAnimation": "None",
+			"ShopBuyAnimation": "None",
+			"Birthday": 
+			{
+				"Season": 1,
+				"Day": 6
+			},
+			"DaysOff":
+			[],
+			"QuestVoiceClip": "SoundWave'/Game/Sounds/NPC_Voices/Luis_Thanks.Luis_Thanks'",
+			"HelloVoiceClip": "SoundWave'/Game/Sounds/NPC_Voices/Luis_Hey.Luis_Hey'",
+			"LikedGiftParticle": "ParticleSystem'/Game/Particles/Effects/Flowers/Flowers.Flowers'",
+			"LovedGiftParticle": "ParticleSystem'/Game/Particles/Effects/Heart/Love.Love'",
+			"BulletinBoardBackground": "Texture2D'/Game/Textures/Bulletin_Postings/Bulletin_Paper_White_Neat_Paper.Bulletin_Paper_White_Neat_Paper'",
+			"CanPlayerDate": true,
+			"NameTagHeight": 110,
+			"HideInJournal": false,
+			"DefaultDialogueExpression": "$LuisSmileTalking$",
+			"AskStartDatingCutscene": "Luis_Dating",
+			"MarriageProposalCutscene": "Luis_Proposal",
+			"RoommateCutscene": "Luis_Roomate",
+			"CribCutscene": "Luis_Crib",
+			"NicknameUsedByChild": "Dad"
+		},
+		{
+			"RowName": "Min",
+			"FriendlyName": "Min",
+			"Town": "Diamond_Falls",
+			"Skeleton": "/Game/Character/NPCs/Min.Min",
+			"IdleAnimation": "None",
+			"ShopBuyAnimation": "None",
+			"Birthday": 
+			{
+				"Season": 3,
+				"Day": 4
+			},
+			"DaysOff":
+			[],
+			"QuestVoiceClip": "SoundWave'/Game/Sounds/NPC_Voices/Min_Thanks.Min_Thanks'",
+			"HelloVoiceClip": "SoundWave'/Game/Sounds/NPC_Voices/Min_Hey.Min_Hey'",
+			"LikedGiftParticle": "ParticleSystem'/Game/Particles/Effects/Flowers/Flowers.Flowers'",
+			"LovedGiftParticle": "ParticleSystem'/Game/Particles/Effects/Heart/Love.Love'",
+			"BulletinBoardBackground": "Texture2D'/Game/Textures/Bulletin_Postings/Bulletin_Paper_White_Neat_Paper.Bulletin_Paper_White_Neat_Paper'",
+			"CanPlayerDate": true,
+			"NameTagHeight": 110,
+			"HideInJournal": false,
+			"DefaultDialogueExpression": "$MinSmileTalking$",
+			"AskStartDatingCutscene": "Min_Dating",
+			"MarriageProposalCutscene": "Min_Proposal",
+			"RoommateCutscene": "Min_Roomate",
+			"CribCutscene": "Min_Crib",
+			"NicknameUsedByChild": "Mom"
+		},
+		{
+			"RowName": "Natsuo",
+			"FriendlyName": "Natsuo",
+			"Town": "Diamond_Falls",
+			"Skeleton": "/Game/Character/NPCs/Natsuo.Natsuo",
+			"IdleAnimation": "None",
+			"ShopBuyAnimation": "None",
+			"Birthday": 
+			{
+				"Season": 0,
+				"Day": 11
+			},
+			"DaysOff":
+			[],
+			"QuestVoiceClip": "SoundWave'/Game/Sounds/NPC_Voices/Natsuo_Thanks.Natsuo_Thanks'",
+			"HelloVoiceClip": "SoundWave'/Game/Sounds/NPC_Voices/Natsuo_Hey.Natsuo_Hey'",
+			"LikedGiftParticle": "ParticleSystem'/Game/Particles/Effects/Flowers/Flowers.Flowers'",
+			"LovedGiftParticle": "ParticleSystem'/Game/Particles/Effects/Heart/Love.Love'",
+			"BulletinBoardBackground": "Texture2D'/Game/Textures/Bulletin_Postings/Bulletin_Paper_Crumbled_White.Bulletin_Paper_Crumbled_White'",
+			"CanPlayerDate": true,
+			"NameTagHeight": 110,
+			"HideInJournal": false,
+			"DefaultDialogueExpression": "$NatsuoSmileTalking$",
+			"AskStartDatingCutscene": "Natsuo_Dating",
+			"MarriageProposalCutscene": "Natsuo_Proposal",
+			"RoommateCutscene": "Natsuo_Roomate",
+			"CribCutscene": "Natsuo_Crib",
+			"NicknameUsedByChild": "Dad"
+		},
+		{
+			"RowName": "Nora",
+			"FriendlyName": "Nora",
+			"Town": "Diamond_Falls",
+			"Skeleton": "/Game/Character/NPCs/Nora.Nora",
+			"IdleAnimation": "None",
+			"ShopBuyAnimation": "None",
+			"Birthday": 
+			{
+				"Season": 3,
+				"Day": 21
+			},
+			"DaysOff":
+			[],
+			"QuestVoiceClip": "SoundWave'/Game/Sounds/NPC_Voices/Nora_Thanks.Nora_Thanks'",
+			"HelloVoiceClip": "SoundWave'/Game/Sounds/NPC_Voices/Nora_Hey.Nora_Hey'",
+			"LikedGiftParticle": "ParticleSystem'/Game/Particles/Effects/Flowers/Flowers.Flowers'",
+			"LovedGiftParticle": "ParticleSystem'/Game/Particles/Effects/Heart/Love.Love'",
+			"BulletinBoardBackground": "Texture2D'/Game/Textures/Bulletin_Postings/Bulletin_Paper_Blue_Neat_Paper.Bulletin_Paper_Blue_Neat_Paper'",
+			"CanPlayerDate": true,
+			"NameTagHeight": 110,
+			"HideInJournal": false,
+			"DefaultDialogueExpression": "$NoraSmileTalking$",
+			"AskStartDatingCutscene": "Nora_Dating",
+			"MarriageProposalCutscene": "Nora_Proposal",
+			"RoommateCutscene": "Nora_Roomate",
+			"CribCutscene": "Nora_Crib",
+			"NicknameUsedByChild": "Mom"
+		},
+		{
+			"RowName": "Sid",
+			"FriendlyName": "Sid",
+			"Town": "Diamond_Falls",
+			"Skeleton": "/Game/Character/NPCs/Sid.Sid",
+			"IdleAnimation": "None",
+			"ShopBuyAnimation": "None",
+			"Birthday": 
+			{
+				"Season": 0,
+				"Day": 1
+			},
+			"DaysOff":
+			[],
+			"QuestVoiceClip": "SoundWave'/Game/Sounds/NPC_Voices/Sid_Thanks.Sid_Thanks'",
+			"HelloVoiceClip": "SoundWave'/Game/Sounds/NPC_Voices/Sid_Hey.Sid_Hey'",
+			"LikedGiftParticle": "ParticleSystem'/Game/Particles/Effects/Flowers/Flowers.Flowers'",
+			"LovedGiftParticle": "ParticleSystem'/Game/Particles/Effects/Heart/Love.Love'",
+			"BulletinBoardBackground": "Texture2D'/Game/Textures/Bulletin_Postings/Bulletin_Paper_White_Neat_Paper.Bulletin_Paper_White_Neat_Paper'",
+			"CanPlayerDate": false,
+			"NameTagHeight": 110,
+			"HideInJournal": false,
+			"DefaultDialogueExpression": "",
+			"AskStartDatingCutscene": "None",
+			"MarriageProposalCutscene": "None",
+			"RoommateCutscene": "None",
+			"CribCutscene": "None",
+			"NicknameUsedByChild": ""
+		},
+		{
+			"RowName": "Tai",
+			"FriendlyName": "Tai",
+			"Town": "Diamond_Falls",
+			"Skeleton": "/Game/Character/NPCs/Tai.Tai",
+			"IdleAnimation": "None",
+			"ShopBuyAnimation": "None",
+			"Birthday": 
+			{
+				"Season": 1,
+				"Day": 12
+			},
+			"DaysOff":
+			[],
+			"QuestVoiceClip": "SoundWave'/Game/Sounds/NPC_Voices/Tai_Thanks.Tai_Thanks'",
+			"HelloVoiceClip": "SoundWave'/Game/Sounds/NPC_Voices/Tai_Hey.Tai_Hey'",
+			"LikedGiftParticle": "ParticleSystem'/Game/Particles/Effects/Flowers/Flowers.Flowers'",
+			"LovedGiftParticle": "ParticleSystem'/Game/Particles/Effects/Heart/Love.Love'",
+			"BulletinBoardBackground": "Texture2D'/Game/Textures/Bulletin_Postings/Bulletin_Paper_Coffee_Stain.Bulletin_Paper_Coffee_Stain'",
+			"CanPlayerDate": true,
+			"NameTagHeight": 110,
+			"HideInJournal": false,
+			"DefaultDialogueExpression": "$TaiSmileTalking$",
+			"AskStartDatingCutscene": "Tai_Dating",
+			"MarriageProposalCutscene": "Tai_Proposal",
+			"RoommateCutscene": "Tai_Roomate",
+			"CribCutscene": "Tai_Crib",
+			"NicknameUsedByChild": "Dad"
+		},
+		{
+			"RowName": "Tanya",
+			"FriendlyName": "Tanya",
+			"Town": "Diamond_Falls",
+			"Skeleton": "/Game/Character/NPCs/Tanya.Tanya",
+			"IdleAnimation": "None",
+			"ShopBuyAnimation": "None",
+			"Birthday": 
+			{
+				"Season": 0,
+				"Day": 14
+			},
+			"DaysOff":
+			[],
+			"QuestVoiceClip": "SoundWave'/Game/Sounds/NPC_Voices/Tanya_Thanks.Tanya_Thanks'",
+			"HelloVoiceClip": "SoundWave'/Game/Sounds/NPC_Voices/Tanya_Hey.Tanya_Hey'",
+			"LikedGiftParticle": "ParticleSystem'/Game/Particles/Effects/Flowers/Flowers.Flowers'",
+			"LovedGiftParticle": "ParticleSystem'/Game/Particles/Effects/Heart/Love.Love'",
+			"BulletinBoardBackground": "Texture2D'/Game/Textures/Bulletin_Postings/Bulletin_Paper_Coffee_Stain.Bulletin_Paper_Coffee_Stain'",
+			"CanPlayerDate": true,
+			"NameTagHeight": 110,
+			"HideInJournal": false,
+			"DefaultDialogueExpression": "$TanyaSmileTalking$",
+			"AskStartDatingCutscene": "Tanya_Dating",
+			"MarriageProposalCutscene": "Tanya_Proposal",
+			"RoommateCutscene": "Tanya_Roomate",
+			"CribCutscene": "Tanya_Crib",
+			"NicknameUsedByChild": "Mom"
+		},
+		{
+			"RowName": "Stalagknight",
+			"FriendlyName": "Stalagknight",
+			"Town": "Diamond_Falls",
+			"Skeleton": "/Game/Character/NPCs/StalagKnight.StalagKnight",
+			"IdleAnimation": "None",
+			"ShopBuyAnimation": "None",
+			"Birthday": 
+			{
+				"Season": 0,
+				"Day": 0
+			},
+			"DaysOff":
+			[],
+			"QuestVoiceClip": "SoundWave'/Game/Sounds/NPC_Voices/StalagKnight_Thanks.StalagKnight_Thanks'",
+			"HelloVoiceClip": "SoundWave'/Game/Sounds/NPC_Voices/StalagKnight_Hey.StalagKnight_Hey'",
+			"LikedGiftParticle": "ParticleSystem'/Game/Particles/Effects/Flowers/Flowers.Flowers'",
+			"LovedGiftParticle": "ParticleSystem'/Game/Particles/Effects/Heart/Love.Love'",
+			"BulletinBoardBackground": "None",
+			"CanPlayerDate": false,
+			"NameTagHeight": 110,
+			"HideInJournal": false,
+			"DefaultDialogueExpression": "",
+			"AskStartDatingCutscene": "None",
+			"MarriageProposalCutscene": "None",
+			"RoommateCutscene": "None",
+			"CribCutscene": "None",
+			"NicknameUsedByChild": ""
+		},
+		{
+			"RowName": "Tiffani",
+			"FriendlyName": "Tiffani",
+			"Town": "Diamond_Falls",
+			"Skeleton": "/Game/Character/NPCs/Tiffani.Tiffani",
+			"IdleAnimation": "None",
+			"ShopBuyAnimation": "None",
+			"Birthday": 
+			{
+				"Season": 3,
+				"Day": 11
+			},
+			"DaysOff":
+			[],
+			"QuestVoiceClip": "SoundWave'/Game/Sounds/NPC_Voices/Tiffani_Thanks.Tiffani_Thanks'",
+			"HelloVoiceClip": "SoundWave'/Game/Sounds/NPC_Voices/Tiffani_Hey.Tiffani_Hey'",
+			"LikedGiftParticle": "ParticleSystem'/Game/Particles/Effects/Flowers/Flowers.Flowers'",
+			"LovedGiftParticle": "ParticleSystem'/Game/Particles/Effects/Heart/Love.Love'",
+			"BulletinBoardBackground": "Texture2D'/Game/Textures/Bulletin_Postings/Bulletin_Paper_Pink_Neat_Paper.Bulletin_Paper_Pink_Neat_Paper'",
+			"CanPlayerDate": true,
+			"NameTagHeight": 110,
+			"HideInJournal": false,
+			"DefaultDialogueExpression": "$TiffaniSmileTalking$",
+			"AskStartDatingCutscene": "Tiffani_Dating",
+			"MarriageProposalCutscene": "Tiffani_Proposal",
+			"RoommateCutscene": "Tiffani_Roomate",
+			"CribCutscene": "Tiffani_Crib",
+			"NicknameUsedByChild": "Mama"
+		},
+		{
+			"RowName": "Yuki",
+			"FriendlyName": "Yuki",
+			"Town": "Diamond_Falls",
+			"Skeleton": "/Game/Character/NPCs/Yuki.Yuki",
+			"IdleAnimation": "None",
+			"ShopBuyAnimation": "None",
+			"Birthday": 
+			{
+				"Season": 3,
+				"Day": 28
+			},
+			"DaysOff":
+			[],
+			"QuestVoiceClip": "SoundWave'/Game/Sounds/NPC_Voices/Yuki_Thanks.Yuki_Thanks'",
+			"HelloVoiceClip": "SoundWave'/Game/Sounds/NPC_Voices/Yuki_Hey.Yuki_Hey'",
+			"LikedGiftParticle": "ParticleSystem'/Game/Particles/Effects/Flowers/Flowers.Flowers'",
+			"LovedGiftParticle": "ParticleSystem'/Game/Particles/Effects/Heart/Love.Love'",
+			"BulletinBoardBackground": "None",
+			"CanPlayerDate": true,
+			"NameTagHeight": 110,
+			"HideInJournal": false,
+			"DefaultDialogueExpression": "$YukiSmileTalking$",
+			"AskStartDatingCutscene": "Yuki_Dating",
+			"MarriageProposalCutscene": "Yuki_Proposal",
+			"RoommateCutscene": "Yuki_Roomate",
+			"CribCutscene": "Yuki_Crib",
+			"NicknameUsedByChild": "Mom"
+		},
+		{
+			"RowName": "Ross",
+			"FriendlyName": "Ross",
+			"Town": "Diamond_Falls",
+			"Skeleton": "/Game/Character/NPCs/Ross.Ross",
+			"IdleAnimation": "None",
+			"ShopBuyAnimation": "None",
+			"Birthday": 
+			{
+				"Season": 2,
+				"Day": 28
+			},
+			"DaysOff":
+			[],
+			"QuestVoiceClip": "SoundWave'/Game/Sounds/NPC_Voices/Ross_Thanks.Ross_Thanks'",
+			"HelloVoiceClip": "SoundWave'/Game/Sounds/NPC_Voices/Ross_Hey.Ross_Hey'",
+			"LikedGiftParticle": "ParticleSystem'/Game/Particles/Effects/Flowers/Flowers.Flowers'",
+			"LovedGiftParticle": "ParticleSystem'/Game/Particles/Effects/Heart/Love.Love'",
+			"BulletinBoardBackground": "Texture2D'/Game/Textures/Bulletin_Postings/Bulletin_Paper_Grid.Bulletin_Paper_Grid'",
+			"CanPlayerDate": false,
+			"NameTagHeight": 110,
+			"HideInJournal": false,
+			"DefaultDialogueExpression": "$RossSmileTalking$",
+			"AskStartDatingCutscene": "Ross_Dating",
+			"MarriageProposalCutscene": "Ross_Proposal",
+			"RoommateCutscene": "Ross_Roomate",
+			"CribCutscene": "Ross_Crib",
+			"NicknameUsedByChild": "Dad"
+		},
+		{
+			"RowName": "Finn",
+			"FriendlyName": "Finn",
+			"Town": "Wahoo_Beach",
+			"Skeleton": "/Game/Character/NPCs/Finn.Finn",
+			"IdleAnimation": "None",
+			"ShopBuyAnimation": "None",
+			"Birthday": 
+			{
+				"Season": 1,
+				"Day": 28
+			},
+			"DaysOff":
+			[],
+			"QuestVoiceClip": "SoundWave'/Game/Sounds/NPC_Voices/Finn_Thanks.Finn_Thanks'",
+			"HelloVoiceClip": "SoundWave'/Game/Sounds/NPC_Voices/Finn_Hey.Finn_Hey'",
+			"LikedGiftParticle": "ParticleSystem'/Game/Particles/Effects/Flowers/Flowers.Flowers'",
+			"LovedGiftParticle": "ParticleSystem'/Game/Particles/Effects/Heart/Love.Love'",
+			"BulletinBoardBackground": "Texture2D'/Game/Textures/Bulletin_Postings/Bulletin_Paper_Grid.Bulletin_Paper_Grid'",
+			"CanPlayerDate": true,
+			"NameTagHeight": 110,
+			"HideInJournal": false,
+			"DefaultDialogueExpression": "$FinnSmileTalking$",
+			"AskStartDatingCutscene": "None",
+			"MarriageProposalCutscene": "None",
+			"RoommateCutscene": "None",
+			"CribCutscene": "None",
+			"NicknameUsedByChild": "Mama"
+		},
+		{
+			"RowName": "Robot_Daneel",
+			"FriendlyName": "Daneel",
+			"Town": "Diamond_Falls",
+			"Skeleton": "/Game/Character/NPCs/Robot_Daneel.Robot_Daneel",
+			"IdleAnimation": "AnimSequence'/Game/Character/Animations/Goofy.Goofy'",
+			"ShopBuyAnimation": "None",
+			"Birthday": 
+			{
+				"Season": 0,
+				"Day": 0
+			},
+			"DaysOff":
+			[],
+			"QuestVoiceClip": "SoundWave'/Game/Sounds/NPC_Voices/Robot_Beep.Robot_Beep'",
+			"HelloVoiceClip": "SoundWave'/Game/Sounds/NPC_Voices/Robot_Beep.Robot_Beep'",
+			"LikedGiftParticle": "None",
+			"LovedGiftParticle": "None",
+			"BulletinBoardBackground": "None",
+			"CanPlayerDate": false,
+			"NameTagHeight": 110,
+			"HideInJournal": false,
+			"DefaultDialogueExpression": "",
+			"AskStartDatingCutscene": "None",
+			"MarriageProposalCutscene": "None",
+			"RoommateCutscene": "None",
+			"CribCutscene": "None",
+			"NicknameUsedByChild": ""
+		},
+		{
+			"RowName": "Robot_Robbie",
+			"FriendlyName": "Robbie",
+			"Town": "Diamond_Falls",
+			"Skeleton": "/Game/Character/NPCs/Robot_Robbie.Robot_Robbie",
+			"IdleAnimation": "AnimSequence'/Game/Character/Animations/Goofy.Goofy'",
+			"ShopBuyAnimation": "None",
+			"Birthday": 
+			{
+				"Season": 0,
+				"Day": 0
+			},
+			"DaysOff":
+			[],
+			"QuestVoiceClip": "SoundWave'/Game/Sounds/NPC_Voices/Robot_Beep2.Robot_Beep2'",
+			"HelloVoiceClip": "SoundWave'/Game/Sounds/NPC_Voices/Robot_Beep2.Robot_Beep2'",
+			"LikedGiftParticle": "None",
+			"LovedGiftParticle": "None",
+			"BulletinBoardBackground": "None",
+			"CanPlayerDate": false,
+			"NameTagHeight": 110,
+			"HideInJournal": false,
+			"DefaultDialogueExpression": "",
+			"AskStartDatingCutscene": "None",
+			"MarriageProposalCutscene": "None",
+			"RoommateCutscene": "None",
+			"CribCutscene": "None",
+			"NicknameUsedByChild": ""
+		},
+		{
+			"RowName": "Robot_Andrew",
+			"FriendlyName": "Andrew",
+			"Town": "Diamond_Falls",
+			"Skeleton": "/Game/Character/NPCs/Robot_Andrew.Robot_Andrew",
+			"IdleAnimation": "AnimSequence'/Game/Character/Animations/Goofy.Goofy'",
+			"ShopBuyAnimation": "None",
+			"Birthday": 
+			{
+				"Season": 0,
+				"Day": 0
+			},
+			"DaysOff":
+			[],
+			"QuestVoiceClip": "SoundWave'/Game/Sounds/NPC_Voices/Robot_Beep3.Robot_Beep3'",
+			"HelloVoiceClip": "SoundWave'/Game/Sounds/NPC_Voices/Robot_Beep3.Robot_Beep3'",
+			"LikedGiftParticle": "None",
+			"LovedGiftParticle": "None",
+			"BulletinBoardBackground": "None",
+			"CanPlayerDate": false,
+			"NameTagHeight": 110,
+			"HideInJournal": false,
+			"DefaultDialogueExpression": "",
+			"AskStartDatingCutscene": "None",
+			"MarriageProposalCutscene": "None",
+			"RoommateCutscene": "None",
+			"CribCutscene": "None",
+			"NicknameUsedByChild": ""
+		}
+	]
+}

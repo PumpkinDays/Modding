@@ -1,0 +1,25 @@
+{
+	"Rows": 
+	[
+		{
+			"RowName": "White_Wool",
+			"NameProperty": "White_Cloth"
+		},
+		{
+			"RowName": "Brown_wool",
+			"NameProperty": "Brown_Cloth"
+		},
+		{
+			"RowName": "Black_Wool",
+			"NameProperty": "Black_Cloth"
+		},
+		{
+			"RowName": "Rainbow_Wool",
+			"NameProperty": "Rainbow_Cloth"
+		},
+		{
+			"RowName": "Cotton",
+			"NameProperty": "White_Cloth"
+		}
+	]
+}

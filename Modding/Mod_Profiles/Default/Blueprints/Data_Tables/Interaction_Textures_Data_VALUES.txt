@@ -1,0 +1,73 @@
+{
+	"Rows": 
+	[
+		{
+			"RowName": "HarvestPlot",
+			"TextureProperty": "Texture2D'/Game/Textures/Icons/Misc/Harvest_Pop_Up_Icon.Harvest_Pop_Up_Icon'"
+		},
+		{
+			"RowName": "FillWateringCan",
+			"TextureProperty": "Texture2D'/Game/Textures/Icons/Misc/Refill_Pop_Up_Icon.Refill_Pop_Up_Icon'"
+		},
+		{
+			"RowName": "EPlayerInteractionMode::RemovePlot",
+			"TextureProperty": "Texture2D'/Game/Textures/Icons/Misc/Dig_Pop_Up_Icon.Dig_Pop_Up_Icon'"
+		},
+		{
+			"RowName": "EPlayerInteractionMode::PlaceSeeds",
+			"TextureProperty": "Texture2D'/Game/Textures/Icons/Misc/Transparent_Icon.Transparent_Icon'"
+		},
+		{
+			"RowName": "EPlayerInteractionMode::PlaceTree",
+			"TextureProperty": "Texture2D'/Game/Textures/Icons/Misc/Transparent_Icon.Transparent_Icon'"
+		},
+		{
+			"RowName": "EPlayerInteractionMode::WaterPlot",
+			"TextureProperty": "Texture2D'/Game/Textures/Icons/Misc/Water_Pop_Up_Icon.Water_Pop_Up_Icon'"
+		},
+		{
+			"RowName": "EPlayerInteractionMode::FertilizePlot",
+			"TextureProperty": "Texture2D'/Game/Textures/Icons/Misc/Transparent_Icon.Transparent_Icon'"
+		},
+		{
+			"RowName": "Pet_Animal",
+			"TextureProperty": "Texture2D'/Game/Textures/Icons/Misc/Animal_Pet_Icon.Animal_Pet_Icon'"
+		},
+		{
+			"RowName": "Ride_Animal",
+			"TextureProperty": "Texture2D'/Game/Textures/Icons/Misc/Ride_Icon.Ride_Icon'"
+		},
+		{
+			"RowName": "Milk_Animal",
+			"TextureProperty": "Texture2D'/Game/Textures/Icons/Misc/Animal_Milk_Icon.Animal_Milk_Icon'"
+		},
+		{
+			"RowName": "Sick_Animal",
+			"TextureProperty": "Texture2D'/Game/Textures/Icons/Misc/Sick_Animal_Icon.Sick_Animal_Icon'"
+		},
+		{
+			"RowName": "MouseOver_A",
+			"TextureProperty": "Texture2D'/Game/Textures/Fishing/1.1'"
+		},
+		{
+			"RowName": "MouseOver_B",
+			"TextureProperty": "Texture2D'/Game/Textures/Fishing/2.2'"
+		},
+		{
+			"RowName": "DeadPlot",
+			"TextureProperty": "Texture2D'/Game/Textures/Icons/Misc/Dig_Pop_Up_Icon.Dig_Pop_Up_Icon'"
+		},
+		{
+			"RowName": "GamepadInteractionDefault",
+			"TextureProperty": "Texture2D'/Game/Textures/Icons/Misc/Controller_Interaction.Controller_Interaction'"
+		},
+		{
+			"RowName": "EToolType::Shovel",
+			"TextureProperty": "Texture2D'/Game/Textures/Icons/Tools/Shovel_Gold.Shovel_Gold'"
+		},
+		{
+			"RowName": "EToolType::Watering_Can",
+			"TextureProperty": "Texture2D'/Game/Textures/Icons/Tools/WateringCan_Gold.WateringCan_Gold'"
+		}
+	]
+}

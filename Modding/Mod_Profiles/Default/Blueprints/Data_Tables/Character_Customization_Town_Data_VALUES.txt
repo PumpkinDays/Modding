@@ -1,0 +1,17 @@
+{
+	"Rows": 
+	[
+		{
+			"RowName": "PumpkinVale",
+			"Town": "Pumpkin Vale",
+			"Description": "A busy town",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Flowers/Poppy.Poppy'"
+		},
+		{
+			"RowName": "Wahoo_Beach",
+			"Town": "Wahoo Beach",
+			"Description": "Beach Town",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Crops/Coconut.Coconut'"
+		}
+	]
+}

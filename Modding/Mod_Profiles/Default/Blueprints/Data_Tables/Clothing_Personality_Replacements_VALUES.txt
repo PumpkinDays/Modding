@@ -1,0 +1,48 @@
+{
+	"Rows": 
+	[
+		{
+			"RowName": "Group1",
+			"ClothingItems":
+			[
+				"Lolita_Dress_White",
+				"Gothic_Lolita_Dress",
+				"Cute_Lolita_Dress",
+				"Star_Lolita_Dress",
+				"Witch_Lolita_Dress",
+				"Lolita_Dress_Red",
+				"Lolita_Dress_Pink",
+				"Lolita_Dress_Light_Blue",
+				"Lolita_Dress_Black",
+				"Teddy_Lolita_Dress",
+				"Pastel_Goth_Lolita_Dress",
+				"Mint_Lolita_Dress",
+				"Fall_Lolita_Dress",
+				"Pumpkin_Lolita_Dress",
+				"Chocolate_Lolita_Dress",
+				"JackLatern_Lolita_Dress",
+				"Holiday_Lolita_Dress",
+				"Sakura_Lolita_Dress"
+			],
+			"Normal": "AnimSequence'/Game/Character/Animations/Idle_Dress.Idle_Dress'",
+			"Large": "AnimSequence'/Game/Character/Animations/Idle_Dress_Large.Idle_Dress_Large'"
+		},
+		{
+			"RowName": "Group2",
+			"ClothingItems":
+			[
+				"Wedding_Dress_Cute_White",
+				"Wedding_Dress_Cute_Black",
+				"Wedding_Dress_Cute_Pink",
+				"Wedding_Dress_Cute_Grey",
+				"Wedding_Dress_Cute_Red",
+				"Wedding_Dress_Cute_Sky_Blue",
+				"Wedding_Dress_Cute_Yellow",
+				"Wedding_Dress_Cute_Purple",
+				"Wedding_Dress_Cute_Green"
+			],
+			"Normal": "AnimSequence'/Game/Character/Animations/Idle_Dress2.Idle_Dress2'",
+			"Large": "AnimSequence'/Game/Character/Animations/Idle_Dress2.Idle_Dress2'"
+		}
+	]
+}

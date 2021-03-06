@@ -1,0 +1,21 @@
+Custom_Cursors_Data Structure:
+
+CursorReplacement: ONE of
+	None
+	Default
+	TextEditBeam
+	ResizeLeftRight
+	ResizeUpDown
+	ResizeSouthEast
+	ResizeSouthWest
+	CardinalCross
+	Crosshairs
+	Hand
+	GrabHand
+	GrabHandClosed
+	SlashedCircle
+	EyeDropper
+FileName: string
+CursorHotSpot: 
+	X: integer
+	Y: integer

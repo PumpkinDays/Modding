@@ -1,0 +1,718 @@
+{
+	"Rows": 
+	[
+		{
+			"RowName": "test",
+			"ScaleMin": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ScaleMax": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 5
+			},
+			"ScalesUniformly": true,
+			"UniformScaleMin": 1,
+			"UniformScaleMax": 1,
+			"PitchVariation": 5,
+			"RequiredSpace": 2000,
+			"StaticMesh": "StaticMesh'/Game/Foliage/Crop_Tree/Apricot/Apricot_Stage2/Apricot_Tree_NOT_USING.Apricot_Tree_NOT_USING'",
+			"StumpMesh": "None",
+			"FallingTreeMesh": "None",
+			"Animation": "AnimSequence'/Game/Character/Animations/AxeHorizontal.AxeHorizontal'",
+			"BaseHitsRequired": 10,
+			"MinimumToolTier": 0,
+			"ItemDropped": "None",
+			"InteractionDistance": 0,
+			"HoursToRespawn": 672,
+			"WoodAmount": 15,
+			"WoodAmountTrunk": 5
+		},
+		{
+			"RowName": "test2",
+			"ScaleMin": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ScaleMax": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ScalesUniformly": true,
+			"UniformScaleMin": 1.2000000476837158,
+			"UniformScaleMax": 0.80000001192092896,
+			"PitchVariation": 0,
+			"RequiredSpace": 500,
+			"StaticMesh": "StaticMesh'/Game/Foliage/Pumpkinvale/Hickory_Tree/Hickory_Tree_Old.Hickory_Tree_Old'",
+			"StumpMesh": "StaticMesh'/Game/Foliage/Pumpkinvale/Hickory_Tree/Tree_Trunk_1.Tree_Trunk_1'",
+			"FallingTreeMesh": "/Game/Foliage/Pumpkinvale/Hickory_Tree/Tree_top_1.Tree_top_1",
+			"Animation": "AnimSequence'/Game/Character/Animations/AxeHorizontal.AxeHorizontal'",
+			"BaseHitsRequired": 10,
+			"MinimumToolTier": 0,
+			"ItemDropped": "Apple",
+			"InteractionDistance": 300,
+			"HoursToRespawn": 672,
+			"WoodAmount": 15,
+			"WoodAmountTrunk": 5
+		},
+		{
+			"RowName": "Hickory_Tree",
+			"ScaleMin": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ScaleMax": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ScalesUniformly": true,
+			"UniformScaleMin": 1,
+			"UniformScaleMax": 2,
+			"PitchVariation": 0,
+			"RequiredSpace": 500,
+			"StaticMesh": "StaticMesh'/Game/Foliage/Trees/Hickory_Tree.Hickory_Tree'",
+			"StumpMesh": "StaticMesh'/Game/Foliage/Trees/Hickory_Tree_Bottom.Hickory_Tree_Bottom'",
+			"FallingTreeMesh": "/Game/Foliage/Trees/Hickory_Tree_Top.Hickory_Tree_Top",
+			"Animation": "AnimSequence'/Game/Character/Animations/AxeHorizontal.AxeHorizontal'",
+			"BaseHitsRequired": 100,
+			"MinimumToolTier": 2,
+			"ItemDropped": "Smoky_Wood",
+			"InteractionDistance": 300,
+			"HoursToRespawn": 672,
+			"WoodAmount": 15,
+			"WoodAmountTrunk": 5
+		},
+		{
+			"RowName": "Maple_Tree",
+			"ScaleMin": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ScaleMax": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ScalesUniformly": true,
+			"UniformScaleMin": 1,
+			"UniformScaleMax": 2,
+			"PitchVariation": 0,
+			"RequiredSpace": 500,
+			"StaticMesh": "StaticMesh'/Game/Foliage/Trees/Maple_Tree.Maple_Tree'",
+			"StumpMesh": "StaticMesh'/Game/Foliage/Trees/Maple_Tree_Bottom.Maple_Tree_Bottom'",
+			"FallingTreeMesh": "/Game/Foliage/Trees/Maple_Tree_Top.Maple_Tree_Top",
+			"Animation": "AnimSequence'/Game/Character/Animations/AxeHorizontal.AxeHorizontal'",
+			"BaseHitsRequired": 200,
+			"MinimumToolTier": 2,
+			"ItemDropped": "Brown_Wood",
+			"InteractionDistance": 300,
+			"HoursToRespawn": 672,
+			"WoodAmount": 25,
+			"WoodAmountTrunk": 10
+		},
+		{
+			"RowName": "Poplar_Tree",
+			"ScaleMin": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ScaleMax": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ScalesUniformly": true,
+			"UniformScaleMin": 1,
+			"UniformScaleMax": 2,
+			"PitchVariation": 0,
+			"RequiredSpace": 500,
+			"StaticMesh": "StaticMesh'/Game/Foliage/Trees/Poplar_Tree.Poplar_Tree'",
+			"StumpMesh": "StaticMesh'/Game/Foliage/Trees/Poplar_Tree_Bottom.Poplar_Tree_Bottom'",
+			"FallingTreeMesh": "/Game/Foliage/Trees/Poplar_Tree_Top.Poplar_Tree_Top",
+			"Animation": "AnimSequence'/Game/Character/Animations/AxeHorizontal.AxeHorizontal'",
+			"BaseHitsRequired": 100,
+			"MinimumToolTier": 2,
+			"ItemDropped": "Smoky_Wood",
+			"InteractionDistance": 300,
+			"HoursToRespawn": 672,
+			"WoodAmount": 15,
+			"WoodAmountTrunk": 5
+		},
+		{
+			"RowName": "Oak_Tree",
+			"ScaleMin": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ScaleMax": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ScalesUniformly": true,
+			"UniformScaleMin": 1,
+			"UniformScaleMax": 2,
+			"PitchVariation": 0,
+			"RequiredSpace": 500,
+			"StaticMesh": "StaticMesh'/Game/Foliage/Trees/Oak_Tree.Oak_Tree'",
+			"StumpMesh": "StaticMesh'/Game/Foliage/Trees/Oak_Tree_Bottom.Oak_Tree_Bottom'",
+			"FallingTreeMesh": "/Game/Foliage/Trees/Oak_Tree_Top.Oak_Tree_Top",
+			"Animation": "AnimSequence'/Game/Character/Animations/AxeHorizontal.AxeHorizontal'",
+			"BaseHitsRequired": 100,
+			"MinimumToolTier": 2,
+			"ItemDropped": "Orange_Wood",
+			"InteractionDistance": 300,
+			"HoursToRespawn": 672,
+			"WoodAmount": 15,
+			"WoodAmountTrunk": 5
+		},
+		{
+			"RowName": "Redwood_Tree",
+			"ScaleMin": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ScaleMax": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ScalesUniformly": true,
+			"UniformScaleMin": 1,
+			"UniformScaleMax": 2,
+			"PitchVariation": 0,
+			"RequiredSpace": 800,
+			"StaticMesh": "StaticMesh'/Game/Foliage/Trees/Redwood_Tree.Redwood_Tree'",
+			"StumpMesh": "StaticMesh'/Game/Foliage/Trees/Redwood_Tree_Bottom.Redwood_Tree_Bottom'",
+			"FallingTreeMesh": "/Game/Foliage/Trees/Redwood_Tree_Top.Redwood_Tree_Top",
+			"Animation": "AnimSequence'/Game/Character/Animations/AxeHorizontal.AxeHorizontal'",
+			"BaseHitsRequired": 500,
+			"MinimumToolTier": 7,
+			"ItemDropped": "Rose_Wood",
+			"InteractionDistance": 500,
+			"HoursToRespawn": 672,
+			"WoodAmount": 30,
+			"WoodAmountTrunk": 15
+		},
+		{
+			"RowName": "Fir_Pined",
+			"ScaleMin": 
+			{
+				"X": 0.5,
+				"Y": 0.5,
+				"Z": 0.5
+			},
+			"ScaleMax": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ScalesUniformly": true,
+			"UniformScaleMin": 0.5,
+			"UniformScaleMax": 1,
+			"PitchVariation": 0,
+			"RequiredSpace": 500,
+			"StaticMesh": "StaticMesh'/Game/Foliage/Trees/Hemlock_Pine.Hemlock_Pine'",
+			"StumpMesh": "StaticMesh'/Game/Foliage/Trees/Hemlock_Pine_Bottom.Hemlock_Pine_Bottom'",
+			"FallingTreeMesh": "/Game/Foliage/Trees/Hemlock_Pine_Top.Hemlock_Pine_Top",
+			"Animation": "AnimSequence'/Game/Character/Animations/AxeHorizontal.AxeHorizontal'",
+			"BaseHitsRequired": 100,
+			"MinimumToolTier": 2,
+			"ItemDropped": "Dark_Wood",
+			"InteractionDistance": 300,
+			"HoursToRespawn": 672,
+			"WoodAmount": 15,
+			"WoodAmountTrunk": 5
+		},
+		{
+			"RowName": "Hemlock_Pine",
+			"ScaleMin": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ScaleMax": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ScalesUniformly": true,
+			"UniformScaleMin": 1,
+			"UniformScaleMax": 1,
+			"PitchVariation": 0,
+			"RequiredSpace": 500,
+			"StaticMesh": "StaticMesh'/Game/Foliage/Trees/Hemlock_Pine.Hemlock_Pine'",
+			"StumpMesh": "StaticMesh'/Game/Foliage/Trees/Hemlock_Pine_Bottom.Hemlock_Pine_Bottom'",
+			"FallingTreeMesh": "/Game/Foliage/Trees/Hemlock_Pine_Top.Hemlock_Pine_Top",
+			"Animation": "AnimSequence'/Game/Character/Animations/AxeHorizontal.AxeHorizontal'",
+			"BaseHitsRequired": 100,
+			"MinimumToolTier": 2,
+			"ItemDropped": "Dark_Wood",
+			"InteractionDistance": 300,
+			"HoursToRespawn": 672,
+			"WoodAmount": 15,
+			"WoodAmountTrunk": 5
+		},
+		{
+			"RowName": "Hemlock_Pine_Snow",
+			"ScaleMin": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ScaleMax": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ScalesUniformly": true,
+			"UniformScaleMin": 1,
+			"UniformScaleMax": 1,
+			"PitchVariation": 0,
+			"RequiredSpace": 500,
+			"StaticMesh": "StaticMesh'/Game/Foliage/Trees/Hemlock_Pine_Snow.Hemlock_Pine_Snow'",
+			"StumpMesh": "StaticMesh'/Game/Foliage/Trees/Hemlock_Pine_Bottom.Hemlock_Pine_Bottom'",
+			"FallingTreeMesh": "/Game/Foliage/Trees/Hemlock_Pine_Top_Snow.Hemlock_Pine_Top_Snow",
+			"Animation": "AnimSequence'/Game/Character/Animations/AxeHorizontal.AxeHorizontal'",
+			"BaseHitsRequired": 100,
+			"MinimumToolTier": 2,
+			"ItemDropped": "Dark_Wood",
+			"InteractionDistance": 300,
+			"HoursToRespawn": 672,
+			"WoodAmount": 15,
+			"WoodAmountTrunk": 5
+		},
+		{
+			"RowName": "Scotts_Pine",
+			"ScaleMin": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ScaleMax": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ScalesUniformly": true,
+			"UniformScaleMin": 1,
+			"UniformScaleMax": 2,
+			"PitchVariation": 0,
+			"RequiredSpace": 300,
+			"StaticMesh": "StaticMesh'/Game/Foliage/Trees/Scotts_Pine.Scotts_Pine'",
+			"StumpMesh": "StaticMesh'/Game/Foliage/Trees/Scotts_Pine_Bottom.Scotts_Pine_Bottom'",
+			"FallingTreeMesh": "/Game/Foliage/Trees/Scotts_Pine_Top.Scotts_Pine_Top",
+			"Animation": "AnimSequence'/Game/Character/Animations/AxeHorizontal.AxeHorizontal'",
+			"BaseHitsRequired": 500,
+			"MinimumToolTier": 7,
+			"ItemDropped": "Brown_Wood",
+			"InteractionDistance": 300,
+			"HoursToRespawn": 672,
+			"WoodAmount": 30,
+			"WoodAmountTrunk": 15
+		},
+		{
+			"RowName": "Yew_Pine",
+			"ScaleMin": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ScaleMax": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ScalesUniformly": true,
+			"UniformScaleMin": 1,
+			"UniformScaleMax": 2,
+			"PitchVariation": 0,
+			"RequiredSpace": 500,
+			"StaticMesh": "StaticMesh'/Game/Foliage/Trees/Yew_Pine.Yew_Pine'",
+			"StumpMesh": "StaticMesh'/Game/Foliage/Trees/Yew_Pine_Bottom.Yew_Pine_Bottom'",
+			"FallingTreeMesh": "/Game/Foliage/Trees/Yew_Pine_Top.Yew_Pine_Top",
+			"Animation": "AnimSequence'/Game/Character/Animations/AxeHorizontal.AxeHorizontal'",
+			"BaseHitsRequired": 100,
+			"MinimumToolTier": 2,
+			"ItemDropped": "Dark_Wood",
+			"InteractionDistance": 300,
+			"HoursToRespawn": 672,
+			"WoodAmount": 15,
+			"WoodAmountTrunk": 5
+		},
+		{
+			"RowName": "Ash_Tree",
+			"ScaleMin": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ScaleMax": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ScalesUniformly": true,
+			"UniformScaleMin": 1,
+			"UniformScaleMax": 2,
+			"PitchVariation": 0,
+			"RequiredSpace": 500,
+			"StaticMesh": "StaticMesh'/Game/Foliage/Trees/Ash_Tree.Ash_Tree'",
+			"StumpMesh": "StaticMesh'/Game/Foliage/Trees/Ash_Tree_Bottom.Ash_Tree_Bottom'",
+			"FallingTreeMesh": "/Game/Foliage/Trees/Ash_Tree_Top.Ash_Tree_Top",
+			"Animation": "AnimSequence'/Game/Character/Animations/AxeHorizontal.AxeHorizontal'",
+			"BaseHitsRequired": 100,
+			"MinimumToolTier": 2,
+			"ItemDropped": "Smoky_Wood",
+			"InteractionDistance": 300,
+			"HoursToRespawn": 672,
+			"WoodAmount": 15,
+			"WoodAmountTrunk": 5
+		},
+		{
+			"RowName": "Birch_Tree",
+			"ScaleMin": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ScaleMax": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ScalesUniformly": true,
+			"UniformScaleMin": 1,
+			"UniformScaleMax": 2,
+			"PitchVariation": 0,
+			"RequiredSpace": 500,
+			"StaticMesh": "StaticMesh'/Game/Foliage/Trees/Birch_Tree.Birch_Tree'",
+			"StumpMesh": "StaticMesh'/Game/Foliage/Trees/Birch_Tree_Bottom.Birch_Tree_Bottom'",
+			"FallingTreeMesh": "/Game/Foliage/Trees/Birch_Tree_Top.Birch_Tree_Top",
+			"Animation": "AnimSequence'/Game/Character/Animations/AxeHorizontal.AxeHorizontal'",
+			"BaseHitsRequired": 100,
+			"MinimumToolTier": 2,
+			"ItemDropped": "Peach_Wood",
+			"InteractionDistance": 300,
+			"HoursToRespawn": 672,
+			"WoodAmount": 15,
+			"WoodAmountTrunk": 5
+		},
+		{
+			"RowName": "Crecropia_Tree",
+			"ScaleMin": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ScaleMax": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ScalesUniformly": true,
+			"UniformScaleMin": 1,
+			"UniformScaleMax": 3,
+			"PitchVariation": 0,
+			"RequiredSpace": 300,
+			"StaticMesh": "StaticMesh'/Game/Foliage/Wahoo_Beach/Crecropia/Crecropia.Crecropia'",
+			"StumpMesh": "None",
+			"FallingTreeMesh": "None",
+			"Animation": "None",
+			"BaseHitsRequired": 200,
+			"MinimumToolTier": 2,
+			"ItemDropped": "None",
+			"InteractionDistance": 300,
+			"HoursToRespawn": 672,
+			"WoodAmount": 15,
+			"WoodAmountTrunk": 5
+		},
+		{
+			"RowName": "Jungle_Tree",
+			"ScaleMin": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ScaleMax": 
+			{
+				"X": 3,
+				"Y": 3,
+				"Z": 3
+			},
+			"ScalesUniformly": true,
+			"UniformScaleMin": 1,
+			"UniformScaleMax": 3,
+			"PitchVariation": 0,
+			"RequiredSpace": 50,
+			"StaticMesh": "StaticMesh'/Game/Foliage/Trees/Rubber_Tree.Rubber_Tree'",
+			"StumpMesh": "StaticMesh'/Game/Foliage/Trees/Rubber_Tree_Bottom.Rubber_Tree_Bottom'",
+			"FallingTreeMesh": "/Game/Foliage/Trees/Rubber_Tree_Top.Rubber_Tree_Top",
+			"Animation": "AnimSequence'/Game/Character/Animations/AxeHorizontal.AxeHorizontal'",
+			"BaseHitsRequired": 200,
+			"MinimumToolTier": 2,
+			"ItemDropped": "Brown_Wood",
+			"InteractionDistance": 400,
+			"HoursToRespawn": 0,
+			"WoodAmount": 25,
+			"WoodAmountTrunk": 10
+		},
+		{
+			"RowName": "Kapok_Tree",
+			"ScaleMin": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ScaleMax": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ScalesUniformly": true,
+			"UniformScaleMin": 1,
+			"UniformScaleMax": 3,
+			"PitchVariation": 0,
+			"RequiredSpace": 100,
+			"StaticMesh": "StaticMesh'/Game/Foliage/Trees/Kapok_Tree.Kapok_Tree'",
+			"StumpMesh": "StaticMesh'/Game/Foliage/Trees/Kapok_Tree_Bottom.Kapok_Tree_Bottom'",
+			"FallingTreeMesh": "/Game/Foliage/Trees/Kapok_Tree_Top.Kapok_Tree_Top",
+			"Animation": "AnimSequence'/Game/Character/Animations/AxeHorizontal.AxeHorizontal'",
+			"BaseHitsRequired": 500,
+			"MinimumToolTier": 7,
+			"ItemDropped": "Brown_Wood",
+			"InteractionDistance": 800,
+			"HoursToRespawn": 672,
+			"WoodAmount": 40,
+			"WoodAmountTrunk": 18
+		},
+		{
+			"RowName": "Kapok_Tree2",
+			"ScaleMin": 
+			{
+				"X": 0.5,
+				"Y": 0.5,
+				"Z": 0.5
+			},
+			"ScaleMax": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ScalesUniformly": true,
+			"UniformScaleMin": 0.5,
+			"UniformScaleMax": 1,
+			"PitchVariation": 0,
+			"RequiredSpace": 50,
+			"StaticMesh": "StaticMesh'/Game/Foliage/Trees/Jungle_Tree.Jungle_Tree'",
+			"StumpMesh": "StaticMesh'/Game/Foliage/Trees/Jungle_Tree_Bottom.Jungle_Tree_Bottom'",
+			"FallingTreeMesh": "/Game/Foliage/Trees/Jungle_Tree_Top.Jungle_Tree_Top",
+			"Animation": "AnimSequence'/Game/Character/Animations/AxeHorizontal.AxeHorizontal'",
+			"BaseHitsRequired": 500,
+			"MinimumToolTier": 7,
+			"ItemDropped": "Brown_Wood",
+			"InteractionDistance": 300,
+			"HoursToRespawn": 672,
+			"WoodAmount": 15,
+			"WoodAmountTrunk": 5
+		},
+		{
+			"RowName": "Mangrove_1",
+			"ScaleMin": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ScaleMax": 
+			{
+				"X": 2,
+				"Y": 2,
+				"Z": 2
+			},
+			"ScalesUniformly": true,
+			"UniformScaleMin": 1,
+			"UniformScaleMax": 2,
+			"PitchVariation": 0,
+			"RequiredSpace": 500,
+			"StaticMesh": "StaticMesh'/Game/Foliage/Trees/Mangrove_Tree.Mangrove_Tree'",
+			"StumpMesh": "None",
+			"FallingTreeMesh": "/Game/Foliage/Trees/Mangrove_Tree.Mangrove_Tree",
+			"Animation": "AnimSequence'/Game/Character/Animations/AxeHorizontal.AxeHorizontal'",
+			"BaseHitsRequired": 100,
+			"MinimumToolTier": 3,
+			"ItemDropped": "Brown_Wood",
+			"InteractionDistance": 300,
+			"HoursToRespawn": 672,
+			"WoodAmount": 15,
+			"WoodAmountTrunk": 5
+		},
+		{
+			"RowName": "Cypress",
+			"ScaleMin": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ScaleMax": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ScalesUniformly": true,
+			"UniformScaleMin": 1,
+			"UniformScaleMax": 3,
+			"PitchVariation": 0,
+			"RequiredSpace": 400,
+			"StaticMesh": "StaticMesh'/Game/Foliage/Trees/Cypress_Tree.Cypress_Tree'",
+			"StumpMesh": "StaticMesh'/Game/Foliage/Trees/Cypress_Tree_Bottom.Cypress_Tree_Bottom'",
+			"FallingTreeMesh": "/Game/Foliage/Trees/Cypress_Tree_Top.Cypress_Tree_Top",
+			"Animation": "AnimSequence'/Game/Character/Animations/AxeHorizontal.AxeHorizontal'",
+			"BaseHitsRequired": 500,
+			"MinimumToolTier": 5,
+			"ItemDropped": "Smoky_Wood",
+			"InteractionDistance": 600,
+			"HoursToRespawn": 672,
+			"WoodAmount": 30,
+			"WoodAmountTrunk": 15
+		},
+		{
+			"RowName": "Hickory_Tree_No_Respawn",
+			"ScaleMin": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ScaleMax": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ScalesUniformly": true,
+			"UniformScaleMin": 1,
+			"UniformScaleMax": 2,
+			"PitchVariation": 0,
+			"RequiredSpace": 500,
+			"StaticMesh": "StaticMesh'/Game/Foliage/Trees/Hickory_Tree.Hickory_Tree'",
+			"StumpMesh": "StaticMesh'/Game/Foliage/Trees/Hickory_Tree_Bottom.Hickory_Tree_Bottom'",
+			"FallingTreeMesh": "/Game/Foliage/Trees/Hickory_Tree_Top.Hickory_Tree_Top",
+			"Animation": "AnimSequence'/Game/Character/Animations/AxeHorizontal.AxeHorizontal'",
+			"BaseHitsRequired": 100,
+			"MinimumToolTier": 2,
+			"ItemDropped": "Smoky_Wood",
+			"InteractionDistance": 300,
+			"HoursToRespawn": 0,
+			"WoodAmount": 15,
+			"WoodAmountTrunk": 5
+		},
+		{
+			"RowName": "Jungle_Tree_No_Respawn",
+			"ScaleMin": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ScaleMax": 
+			{
+				"X": 3,
+				"Y": 3,
+				"Z": 3
+			},
+			"ScalesUniformly": true,
+			"UniformScaleMin": 1,
+			"UniformScaleMax": 3,
+			"PitchVariation": 0,
+			"RequiredSpace": 0,
+			"StaticMesh": "StaticMesh'/Game/Foliage/Trees/Rubber_Tree.Rubber_Tree'",
+			"StumpMesh": "StaticMesh'/Game/Foliage/Trees/Rubber_Tree_Bottom.Rubber_Tree_Bottom'",
+			"FallingTreeMesh": "/Game/Foliage/Trees/Rubber_Tree_Top.Rubber_Tree_Top",
+			"Animation": "AnimSequence'/Game/Character/Animations/AxeHorizontal.AxeHorizontal'",
+			"BaseHitsRequired": 100,
+			"MinimumToolTier": 2,
+			"ItemDropped": "Brown_Wood",
+			"InteractionDistance": 400,
+			"HoursToRespawn": 0,
+			"WoodAmount": 15,
+			"WoodAmountTrunk": 5
+		},
+		{
+			"RowName": "Pine_Tree_No_Respawn",
+			"ScaleMin": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ScaleMax": 
+			{
+				"X": 1,
+				"Y": 1,
+				"Z": 1
+			},
+			"ScalesUniformly": true,
+			"UniformScaleMin": 1,
+			"UniformScaleMax": 1,
+			"PitchVariation": 0,
+			"RequiredSpace": 0,
+			"StaticMesh": "StaticMesh'/Game/Foliage/Trees/Hemlock_Pine.Hemlock_Pine'",
+			"StumpMesh": "StaticMesh'/Game/Foliage/Trees/Hemlock_Pine_Bottom.Hemlock_Pine_Bottom'",
+			"FallingTreeMesh": "/Game/Foliage/Trees/Hemlock_Pine_Top.Hemlock_Pine_Top",
+			"Animation": "AnimSequence'/Game/Character/Animations/AxeHorizontal.AxeHorizontal'",
+			"BaseHitsRequired": 100,
+			"MinimumToolTier": 2,
+			"ItemDropped": "Dark_Wood",
+			"InteractionDistance": 300,
+			"HoursToRespawn": 0,
+			"WoodAmount": 15,
+			"WoodAmountTrunk": 5
+		}
+	]
+}

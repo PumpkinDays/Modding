@@ -1,0 +1,45 @@
+{
+	"Rows": 
+	[
+		{
+			"RowName": "Wooden",
+			"IntProperty": 1
+		},
+		{
+			"RowName": "Copper",
+			"IntProperty": 2
+		},
+		{
+			"RowName": "Iron",
+			"IntProperty": 4
+		},
+		{
+			"RowName": "Silver",
+			"IntProperty": 6
+		},
+		{
+			"RowName": "Gold",
+			"IntProperty": 9
+		},
+		{
+			"RowName": "Steel",
+			"IntProperty": 9
+		},
+		{
+			"RowName": "Titanium",
+			"IntProperty": 16
+		},
+		{
+			"RowName": "Uranium",
+			"IntProperty": 16
+		},
+		{
+			"RowName": "Diamond",
+			"IntProperty": 25
+		},
+		{
+			"RowName": "Meteor",
+			"IntProperty": 36
+		}
+	]
+}

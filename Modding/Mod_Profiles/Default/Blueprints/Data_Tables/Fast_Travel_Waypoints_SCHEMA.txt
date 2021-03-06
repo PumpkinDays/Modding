@@ -1,0 +1,7 @@
+Fast_Travel_Waypoints Structure:
+
+RowName: string
+FriendlyName: string
+TravelCompatibility: integer
+DefaultCost: integer
+DefaultTravelDuration: integer

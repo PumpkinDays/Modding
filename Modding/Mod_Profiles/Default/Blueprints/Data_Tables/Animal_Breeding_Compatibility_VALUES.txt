@@ -1,0 +1,82 @@
+{
+	"Rows": 
+	[
+		{
+			"RowName": "Cows",
+			"MaleMate": "Bull",
+			"FemaleMate": "Cow",
+			"NormalChildrenWithoutCoat":
+			[
+				"Cow",
+				"Bull"
+			],
+			"RareChildrenWithoutCoat":
+			[
+				"Chocolate_Cow_Baby"
+			],
+			"BreedingCost": 300,
+			"PregnancyHours": 432
+		},
+		{
+			"RowName": "Sheep",
+			"MaleMate": "Sheep",
+			"FemaleMate": "Sheep",
+			"NormalChildrenWithoutCoat":
+			[
+				"Sheep"
+			],
+			"RareChildrenWithoutCoat":
+			[
+				"Rainbow_Sheep_Baby"
+			],
+			"BreedingCost": 300,
+			"PregnancyHours": 432
+		},
+		{
+			"RowName": "Pig",
+			"MaleMate": "Pig",
+			"FemaleMate": "Pig",
+			"NormalChildrenWithoutCoat":
+			[
+				"Pig"
+			],
+			"RareChildrenWithoutCoat":
+			[
+				"Flying_Pig_Baby"
+			],
+			"BreedingCost": 20,
+			"PregnancyHours": 432
+		},
+		{
+			"RowName": "Horse",
+			"MaleMate": "Horse",
+			"FemaleMate": "Horse",
+			"NormalChildrenWithoutCoat":
+			[
+				"Horse"
+			],
+			"RareChildrenWithoutCoat":
+			[
+				"Unicorn_Baby"
+			],
+			"BreedingCost": 2000,
+			"PregnancyHours": 432
+		},
+		{
+			"RowName": "Hen",
+			"MaleMate": "Rooster",
+			"FemaleMate": "Hen",
+			"NormalChildrenWithoutCoat":
+			[
+				"Hen",
+				"Rooster"
+			],
+			"RareChildrenWithoutCoat":
+			[
+				"Golden_Hen_Baby"
+			],
+			"BreedingCost": 50,
+			"PregnancyHours": 432
+		}
+	]
+}

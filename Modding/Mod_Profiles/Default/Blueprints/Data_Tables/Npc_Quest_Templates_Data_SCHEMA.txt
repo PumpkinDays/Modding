@@ -1,0 +1,65 @@
+Npc_Quest_Templates_Data Structure:
+
+RowName: string
+Npc: string
+QuestTitle: string
+QuestDescription: string
+QuestTrigger: float
+TriggerTimeRange: 
+	StartDate: 
+		Season: ONE of
+			Spring
+			Summer
+			Fall
+			Winter
+		DayOfSeason: integer
+		Year: integer
+	EndDate: 
+		Season: ONE of
+			Spring
+			Summer
+			Fall
+			Winter
+		DayOfSeason: integer
+		Year: integer
+	UseDate: true/false
+	StartTime: 
+		Hour: integer
+		Minute: integer
+	EndTime: 
+		Hour: integer
+		Minute: integer
+	UseTime: true/false
+RequiredPath: ONE of
+	NoPath
+	EitherPath
+	FriendPath
+	LoverPath
+QuestDeadline: integer
+QuestRepeats: true/false
+DaysTillAskedAgain: integer
+AcceptedQuestDialogue: string
+BeginningDialogue: string
+DeclineQuestDialogue: string
+EndingDialogue: string
+MarkedOnMap: true/false
+QuestLocs: TArray-FQuestTemplateLocation
+QuestRewardItem: string
+QuestRewardsAmount: integer
+FailedLetter: 
+	Subject: string
+	Body: string
+	Sender: string
+	Item: string
+	ItemAmount: integer
+	GoldAmount: integer
+HeartPointsLostFailed: float
+HeartPointsReward: float
+NumRecipesLearned: integer
+RecipeCategory: ONE of
+	Default
+	None
+	Cooking
+	Crafting
+	Carpentry
+	ClothingCrafting

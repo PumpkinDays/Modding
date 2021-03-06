@@ -1,0 +1,1157 @@
+{
+	"Rows": 
+	[
+		{
+			"RowName": "Alpha_Test_Patch_0.1.0",
+			"NameArray":
+			[
+				"*NEW* BETA LAUNCH! Patch notes coming after next patch"
+			]
+		},
+		{
+			"RowName": "Pumpkin_Patch_0.1.1",
+			"NameArray":
+			[
+				"*FIX* Fixed missing hair color and incorrect color icon in character customization hair.",
+				"*FIX* Removed floating fishing rod Vibhat has in tutorial",
+				"*FIX*  Edited maps to say farm plot",
+				"*FIX* Edited some misc typos",
+				"*FIX* The milk Shauna gives the player in her tutorial now cannot be drunk",
+				"*FIX* Adjusted chance of rain.",
+				"*NEW* 'Help I'm stuck' option added in Esc > Settings > Controls incase player is stuck."
+			]
+		},
+		{
+			"RowName": "Pumpkin_Patch_0.1.2",
+			"NameArray":
+			[
+				"*FIX* Edited some NPC's dialogue in tutorials so it's more clear.",
+				"*FIX* Mayor sends out the correct letter for completing the farm quota for the first time.",
+				"*FIX* Removed extra nonsense letter in mailbox.",
+				"*FIX* Camera rotation when on journal",
+				"*FIX* Fixed text that was cut off in crafting book.",
+				"*FIX* Clara at the blacksmith now sells things*",
+				"*FIX* Some food items that were not edible are now edible",
+				"*FIX* Some, but not all the clothes have icons now.",
+				"*FIX* Librarian glasses appear in jewelry shop.",
+				"*FIX* Added craft bench explaination in the library",
+				"*FIX* Added dialogue to Harsha so it's no longer blank with interacting.",
+				"*NEW* New achievements have been added to Steam",
+				"*FIX* Gave the animals on Kaine and Pete's ranch names (instead of namef)",
+				"*FIX* Beets will now grow properly",
+				"*FIX* Oats model is updated and can be watered now."
+			]
+		},
+		{
+			"RowName": "Pumpkin_Patch_0.1.3",
+			"NameArray":
+			[
+				"*FIX* Fertilizer is one use only.",
+				"*FIX* Added more icons for clothes like sweaters and hoodies",
+				"*FIX* Fixed more typos in the dialogue and removed reported $code$ errors in dialogue.",
+				"*FIX* Chicken Coop door fixed, as well as other akward doors.",
+				"*FIX* Some food items that couldn't be eaten, can be eaten now",
+				"*FIX* Ores such as Tungsten, Uranium, Nickel etc. can now be smelted",
+				"*FIX* Fixed npcs that stand in the same location at the same time",
+				"*FIX* Changed description for some seeds that were incorrect",
+				"*NEW* Herbs and Spices section added to the library.",
+				"*NEW* Different forests in the map now have names, denoted by new signs on the roads. ",
+				"*FIX* Fixed the giant beet",
+				"*FIX* Fixed cleaning up poop bug that made it so it couldn't be picked up sometimes.",
+				"*FIX* Fixed some items that were not stackable",
+				"*FIX* Added icons for quest items that didn't previously have icons.",
+				"*FIX* Fixed crashes related to quests.",
+				"*FIX* Wallpaper slots on houses are now named correctly.",
+				"*FIX* Animal Shop now sells fodder, and feeding troughs."
+			]
+		},
+		{
+			"RowName": "Pumpkin_Patch_0.1.4",
+			"NameArray":
+			[
+				"*FIX* Adjusted Cooking and Crafting Difficulty",
+				"*NEW* Museum partly implemented.",
+				"*NEW* Jounce Factory is coming.",
+				"*FIX* Trees should grow in all seasons except winter now.",
+				"*FIX* Stamina gauge does not reset when you log out.",
+				"*FIX* Fixed caldendar not progressing properly",
+				"*FIX* Players can no longer pick up chickens that do not belong to them.",
+				"*FIX* Fixed the settings, resetting every time the player logged out.",
+				"*FIX* Stamina and Sleepiness should save in the game.",
+				"*FIX* Crops that grow in multiple seasons should not wilt when the season turns over.",
+				"*FIX* Backpack slots now save when the player logs back in. ",
+				"*FIX* Shipping bin should save when the player logs out.",
+				"*FIX* Fixed some more items that did not stack.",
+				"*FIX* Fixed beer barrel not accepting barley.",
+				"*FIX* Large eating chicken",
+				"*FIX* Fixed some more typos",
+				"*FIX* Rebalanced the stamina usage of some of the tools.",
+				"*FIX* Reblanced the wood required to build things.",
+				"*FIX* Rebalanced the price of the kitchens.",
+				"*FIX* Fixed cows and ranch tutorial"
+			]
+		},
+		{
+			"RowName": "Pumpkin_Patch_0.1.5",
+			"NameArray":
+			[
+				"*NEW* Added some new furniture including crop signs, which can be found at the marketplace.",
+				"*FIX* Fixed floating plots in the sky",
+				"*FIX* Fixed foods that could not be eaten or do not give stamina",
+				"*FIX* Crops and flowers which could not be turned in to seeds.",
+				"*FIX* Player can now move camera around while talking to an NPC",
+				"*FIX* When the player sinks under the water when swimming they will be brought up to the surface.",
+				"*FIX* Rebalanced the chance of learning tools as opposed to funriture from the crafting channel.",
+				"*FIX* NPCs should no longer say blank dialogues",
+				"*FIX* Milk spawns from a cow in a way where it is least likely to get stuck.",
+				"*FIX* Fixed material glitch when giving gifts to an NPC",
+				"*FIX* NPC should send gift in mail if the player's inventory is full.",
+				"*FIX* Items in processors save upon logging out.",
+				"*FIX* Fixed experimenting for both the anvil and cooking",
+				"*FIX* Watering can icon should match up with water left in watering can.",
+				"*FIX* Fixed unsuable slot in inventory when using a big backpack",
+				"*FIX* Materials appearing incorrectly for the gems in the museum.",
+				"*FIX* Stacks disappearing when items are swapped around in inventory.",
+				"*NEW* Fertilizer barrel added.",
+				"*NEW* Cupboards and fridges an be used as storage",
+				"*FIX* Furniture stores now buy furniture",
+				"*FIX* Couchs can not be placed down.",
+				"*FIX* Fixed duplicating houses",
+				"*FIX* Fixed misalignment of the map around Spoonie Island"
+			]
+		},
+		{
+			"RowName": "Pumpkin_Patch_0.1.6",
+			"NameArray":
+			[
+				"*FIX* Fixed all the earrings in the jewelery stores",
+				"*FIX* Fixed the wrong seeds being sold in the Wahoo farm shop.",
+				"*FIX* Fixed clinic and vet opening early before Alec and Takeo arrived.",
+				"*NEW* Fish can now be donated to the musuem. Some fish unfortunately may have broken during this update, if you have specific ones in your inventory. However if you catch fresh ones they should work fine. ",
+				"*FIX* Chickens now only lay one egg per day instead of a bunch.",
+				"*FIX* Added Sebastian's liked gifts",
+				"*NEW* Updated Furniture placement. Rotation both ways and furniture can now snap to a grid if toggled on.",
+				"*NEW* Paintings have been added and can be hung up in houses.",
+				"*NEW* Mailbox UI has been updated. You can now look at the 20 oldest letters.",
+				"*FIX* Fixed clipping for large body characters during specific personality animations.",
+				"*NEW* You can now remove clothes currently being worn, from your journal. "
+			]
+		},
+		{
+			"RowName": "Pumpkin_Patch_0.1.7",
+			"NameArray":
+			[
+				"*FIX* Fixed broken fishing tutorial.",
+				"*FIX* Fixed missing wooden fishing rod.",
+				"*FIX* Fixed quests bugging out with deliveries",
+				"*FIX* Fixed feeding trough for the chickens. Now chickens need to be fed using their own small trough.",
+				"*FIX* Fixed the incorrect labels that have underscores when giving items to an NPC.",
+				"*FIX* Fixed being unable to pick up chickens.",
+				"*FIX* Fixed Animals not appearing on the farms.",
+				"*NEW* You can take the boat from Wahoo Beach to Piscari Isle.",
+				"*FIX* Most typos for item descriptions should be taken care of.",
+				"*FIX* Fixed white highlights with tools.",
+				"*FIX* Fixed NPCs saying the wrong phrase when giving a player a gift for completing a quest.",
+				"*NEW* Evan at the museum will say what item he would like donated when asked.",
+				"*FIX* Fixed bulletin board error where a character says ",
+				"*NEW* Ability to move buildings free of charge, if placed incorrectly.",
+				"*NEW* Icon over plants to dig them up when they are fully dead.",
+				"*FIX* Jungle Trees in Wahoo beach no longer need a high quality axe to cut.",
+				"*NEW* Stack sizes have increased for most items, except furniture and decor.",
+				"*NEW* Patreon supporters voted for more cute colored clothes which have now been added. Just textures, no new models.",
+				"*NEW* New areas of the map have been developed."
+			]
+		},
+		{
+			"RowName": "Pumpkin_Patch_0.1.8",
+			"NameArray":
+			[
+				"*FIX* Item drops are easier to pick up.",
+				"*FIX* Impossible fish are actually really impossible to catch.",
+				"*FIX* Large kitchen can be placed against the wall.",
+				"*FIX* Can now view the information of an item from storage.",
+				"*FIX* Fixed socks that can be seen at the bottom of shoes.",
+				"*FIX* Fixed bulletin board showing quests from NPCs in another town.",
+				"*FIX* Fixed bug where tree leaves prevent plots from being placed underneath them.",
+				"*FIX* Travelling no longer restores stamina",
+				"*FIX* Fixed sold out sign using weird textures.",
+				"*FIX* Fixed negative times for NPC quests.",
+				"*FIX* Fixed items disappearing if crafting with a full inventory.",
+				"*FIX* Fixed bug with moving buildings.",
+				"*FIX* Fixed earrings that cannot be worn.",
+				"*FIX* You can pet baby animals.",
+				"*FIX* Fixed animal buildings running out of sleeping slots when moved",
+				"*FIX* Fixed any reported typos",
+				"*FIX* Fixed any reported floating grass.",
+				"*FIX* Fixed glowing Pumpkin bar",
+				"*FIX* Adjusted text size for the bulletin board so the information does not get cut off.",
+				"*FIX* Windmill is no longer a present.",
+				"*FIX* Rebalanced, stamina and durability for some tools, and decreased poop sack needed for processing fertilizer",
+				"*FIX* Decreased poop sack needed for processing fertilizer",
+				"*FIX* Fixed NPCs reported to  stand in the same spot.",
+				"*NEW* New recipes added.",
+				"*NEW* Added prices of items to their info.",
+				"*FIX* Kitchens can not be placed against walls.",
+				"*NEW* Rice can now be grown.",
+				"*FIX* (Stealth patch) Rebalanced tool durability."
+			]
+		},
+		{
+			"RowName": "Pumpkin_Patch_0.1.9",
+			"NameArray":
+			[
+				"*FIX* Balanced drop rate in the caves.",
+				"*NEW* Large boulders and rocks will drop iron ore.",
+				"*FIX* Added animation and notification when a tool breaks.",
+				"*FIX* Polished item pickups.",
+				"*FIX* Crossed out town bug when first starting game.",
+				"*FIX* NPC takes back item from quest.",
+				"*FIX* Fixed wrong materials for dead crop and dead tree.",
+				"*FIX* Can now buy multiple feed and fodder in the shop",
+				"*FIX* Fixed fish being caught before the time runs out.",
+				"*FIX* Fixed inventory items disappearing after cancelling tutorial bug.",
+				"*FIX* Fixed certain fish not appearing when fished up.",
+				"*FIX* Fixed crooked farm fence in Wahoo Beach",
+				"*FIX* Fixed raining inside the museum",
+				"*FIX* Fixed wrong ingredients for sickle recipes",
+				"*FIX* Stamina usage for tools is per swing of the tool not per plot.",
+				"*FIX* Fixed dialogue being cut off in tutorials at specific angles.",
+				"*FIX* Fixed compass broken when riding on a horse.",
+				"*NEW* Added reset to defaults in Esc Menu",
+				"*NEW* Added ability to toggle autosave on or off.",
+				"*FIX* Fixed bug with experimenting with cooking crafting tools."
+			]
+		},
+		{
+			"RowName": "Pumpkin_Patch_0.2.0",
+			"NameArray":
+			[
+				"*FIX* Fixed bright light when placing buildings",
+				"*FIX* Fixed blank dialogue for Npcs",
+				"*FIX* Fixed trees and flowers in Pumpkinvale not adjusting to the winter season.",
+				"*FIX* Fixed animals and various functions in multiplayer."
+			]
+		},
+		{
+			"RowName": "Pumpkin_Patch_0.2.1",
+			"NameArray":
+			[
+				"*FIX* Balanced the fish grill exploit.",
+				"*FIX* Balanced some items to make things less harsh starting out in the game.",
+				"*FIX* Fixed baby animals becoming adults upon purchase.",
+				"*FIX* Changed player tracker from circle to an arrow",
+				"*FIX* Fixed typos"
+			]
+		},
+		{
+			"RowName": "Pumpkin_Patch_0.2.2",
+			"NameArray":
+			[
+				"*FIX* Fixed broken fishing dock at Wahoo Beach.",
+				"*FIX* Wrong close time on Haku's Grille door.",
+				"*FIX* Ordered furniture now saves if the player logs out.",
+				"*FIX* Rain and Snow appear regardless of graphic settings.",
+				"*FIX* Fixed compass marker issues",
+				"*FIX* Fixed hotbar slot staying green even if an item is not in use",
+				"*FIX* Fixed animals disappearing.",
+				"*FIX* Fixed bug where found location would appear if there was no quest active.",
+				"*FIX* 'Buy pop' up now says if your inventory is too full to buy anything.",
+				"*FIX* Fixed stamina draining when tools are used on nothing.",
+				"*FIX* Fixed typos",
+				"*FIX* Fixed blue box by fishing spots",
+				"*FIX* Fixed off centered sold out signs."
+			]
+		},
+		{
+			"RowName": "Pumpkin_Patch_0.2.3",
+			"NameArray":
+			[
+				"*FIX* Fixed music being muted on start up.",
+				"*FIX* Fixed crashing that occurs with a few recipes when cooking",
+				"*FIX* Fixed bug where clicking on an NPC would do nothing.",
+				"*FIX*Fixed falling through the world with horse when fast travelling.",
+				"*FIX* Updated Map to have mines marked.",
+				"*FIX* Polished up some clothing textures.",
+				"*FIX* Fixed (as best as possible) clipping which occurs with the overalls.",
+				"*NEW* Added ambient sounds for the river and ocean.",
+				"*FIX* Fixednpcs standing inside each other."
+			]
+		},
+		{
+			"RowName": "Pumpkin_Patch_0.2.4",
+			"NameArray":
+			[
+				"*NEW* Butter churn can be unlocked to make butter.",
+				"*NEW* Dye Pot can be unlocked to make cloth for crafting.",
+				"*NEW* New furniture available for the crafting bench.",
+				"*NEW* Food Status Effects",
+				"*FIX* Worked on Optimization",
+				"*FIX* Possibly fixed difficulty in picking up spawned items in the map ",
+				"*FIX* Rice can be broken into seeds.",
+				"*FIX* Price adjustments for the Cheese Maker and Milk processor",
+				"*FIX* Hotfix: Fixed disappearing palm trees and Museum",
+				"*FIX* Hotfix: Beebox can now be unlocked ",
+				"*FIX* Hotfix: Balanced the prices for oats and dought",
+				"*FIX* Hotfix: Pyrite can now be smelted"
+			]
+		},
+		{
+			"RowName": "Pumpkin_Patch_0.2.5",
+			"NameArray":
+			[
+				"*FIX* Worked on optimization.",
+				"*FIX* Fixed glitch with 'Help I'm Stuck' while riding on a horse. ",
+				"*FIX* Fixed the cook amounts so they can be set to other amounts other than 1 and the max. ",
+				"*FIX* Added scrolling to storage containers",
+				"*FIX* Player marker now appears while riding on a horse",
+				"*FIX* Fixed lighting being yellow on startup",
+				"*FIX* Fixed bug where wood would spawn underneath trees on slopes when cut.",
+				"*FIX* Fixed when buffs get stuck for multiple days instead of hours.",
+				"*FIX* Players can move their buildings from the main menu without clearing their debt first.",
+				"*FIX* Fixed blank NPC dialogue when on certain heart levels.",
+				"*FIX* Cannot pick up processors with items inside.",
+				"*FIX* Fixed raw materials disappearing inside dye pots",
+				"*FIX* Fixed Eddie robbing you of money when buying a processor with a full inventory.",
+				"*FIX* Fixed spawn items not respawning.",
+				"*FIX* Fixed missing icons for colored cloths.",
+				"*FIX* Fixed broken collared shirts.",
+				"*FIX* Wahoo Beach characters should not send players to Pumpkinvale characters for tutorials.",
+				"*FIX* Processors take a bit longer to process raw materials",
+				"*NEW* New larger storages added",
+				"*NEW* Increased in ore stack size",
+				"*NEW* Disaster dish now can make fertilizer."
+			]
+		},
+		{
+			"RowName": "Pumpkin_Patch_0.2.6",
+			"NameArray":
+			[
+				"*FIX* Snow, green and gold pumpkin seeds can now be planted.",
+				"*FIX* Antique cupboards now store items.",
+				"*FIX* Fixed missing wallpaper section in country house",
+				"*FIX* Fixed incorrect library information about trees",
+				"*FIX* Some gems and ores moved out of the Clementine mines, to a new location.",
+				"*FIX* Increased processor speed for balancing.",
+				"*FIX* Fixed animals not eating",
+				"*FIX* Fixed animals disappearing after growing up.",
+				"*FIX* FIxed animals sleeping when they shouldn't",
+				"*FIX* Fixed misc animal bugs",
+				"*FIX* Hotfix: Attempted fix for animals sunken into the ground"
+			]
+		},
+		{
+			"RowName": "Pumpkin_Patch_0.2.7",
+			"NameArray":
+			[
+				"*FIX* Changed fruit buy prices for balancing",
+				"*FIX* Fixed disappearing poop.",
+				"*FIX* Bug fix where animals can't be moved",
+				"*FIX* Fixed furniture duplicating in multiplayer",
+				"*NEW* New soup recipes",
+				"*NEW* NPC heart points share added. When a player gains a certain amount of heart points with an NPC a fraction of those heart points will be added to other NPCs.",
+				"*NEW* Herbs can be broken into seeds and grown. Please note some may have placeholder plant models.",
+				"*FIX* Fixed bug where TV says learnt all recipes despite not having learnt all the recipes.",
+				"*FIX* Fix item duplicate bug for processors"
+			]
+		},
+		{
+			"RowName": "Pumpkin_Patch_0.2.8",
+			"NameArray":
+			[
+				"*FIX* Error alert if a player has a different version of the game when trying to join multiplayer.",
+				"*FIX* Fixed bug where NPCs would not talk to player after hitting a certain heart level",
+				"*NEW* Added the herb seeds properly, and added ginger and garlic seeds.",
+				"*NEW* Because cloves and cinnamon were changed from plants to trees, if you have them planted on your farm they may be bugged. If this happens you need to remove them and replant.",
+				"*FIX* Players can now use cloth fabric on the pillow when crafting furniture."
+			]
+		},
+		{
+			"RowName": "Pumpkin_Patch_0.2.9",
+			"NameArray":
+			[
+				"*NEW* Added new library books. Some may unlocked over time.",
+				"*NEW* A new merchant shop has been added that sells wood and ores at the market on Saturdays.",
+				"*FIX* Jungle trees now drop brown wood instead of smoky wood for balancing",
+				"*FIX* Possibly fixed unmineable white rocks in the mine. ",
+				"*FIX* Fixed some more typos.",
+				"*FIX* Fixed some missing info on the map.",
+				"*FIX* Fixed incorrect recipes.",
+				"*FIX* Fixed issues with picking up certain quest items by expanding the collision box. "
+			]
+		},
+		{
+			"RowName": "Pumpkin_Patch_0.2.10",
+			"NameArray":
+			[
+				"*NEW* New lamps available in the furniture shops.",
+				"*FIX* Fixed blank dialogue if npc heart level is at max.",
+				"*FIX* Fixed that one song where the volume could not be changed by lowering the music volume setting.",
+				"*FIX* Fixed arm clipping with the jacket.",
+				"*FIX* Fixed weird square edges in the map.",
+				"*FIX* Fixed chocolate bar exploit.",
+				"*FIX* You can swim in Canna Lake now, instead of sinking.",
+				"*NEW* Seed maker processor added. The seed maker turns crops into seeds in bulk.",
+				"*FIX* Fixed arrow for the chicken coop which was pointing away from door and was confusing when being place.",
+				"*FIX* Lentils, Soybeans, and Kidney beans no longer regrow (for balancing purposes)",
+				"*FIX* Smelter now only requires 4 ore to make one bar instead of 5 (for balancing purposes)",
+				"*FIX* Fixed multiplayer games not saving properly",
+				"*NEW* Mushroom seeds added this time.",
+				"*FIX* Hotfix - Fixed broken blacksmith tutorial.",
+				"*FIX* Hotfix - Coffee seeds now added to the shops.",
+				"*FIX* Hotfix - Curry powder can now be crafted.",
+				"*FIX* Hotfix - Espresso can now be crafted",
+				"*FIX* Hotfix - Can grow aloe from seeds"
+			]
+		},
+		{
+			"RowName": "Pumpkin_Patch_0.2.11",
+			"NameArray":
+			[
+				"*FIX* All tools except the meteor tools well use up at least 1 stamina. (For balancing)",
+				"*NEW* New npc quests and dialogue added.",
+				"*FIX* Coffee seeds are now available in the farm shops.",
+				"*FIX* More wood and ores required for crafting furniture (Balancing)",
+				"*FIX* Beebox and honey prices and anything related to honey has changed. (balancing)",
+				"*NEW* Glowing mushrooms give a stamina boost now",
+				"*FIX* Mushrooms are edible again",
+				"*FIX* Fixed hair clipping when the character runs.",
+				"*NEW* Turn sensitivity added to Settings> Controls",
+				"*FIX* Fences are now stackable",
+				"*NEW* New fences added.",
+				"*NEW* New clothes added",
+				"*NEW* Shift+Click Instantly transfer items from inventory to storage.",
+				"*NEW* Processor shed (some processors cannot be placed inside yet)",
+				"*NEW* Animal Bell to bring animals inside or outside.",
+				"*NEW* Apply Wallpaper to barn, coop and processor shed",
+				"*FIX* Fixed Tv showing < 0% rain chance",
+				"*FIX* Fixed breakable objects not showing correctly on client",
+				"*FIX* Fixed client not being able to open donate menu in multiplayer",
+				"*FIX* Fixed season style not working on client",
+				"*FIX* Hotfix - Fixed mater volume snapping to 0",
+				"*FIX* Hotfix - Fixed processors that couldn't be put in buildings or place properly.",
+				"*FIX* Hotfix- Animal crap was bugged. Now they only poop once a day rather than whenever they feel like. You're welcome.",
+				"*FIX* Hotfix - Furniture recipes rebalanced",
+				"*FIX* Hotfix - Vsync can be toggled on in settings",
+				"*FIX* Hotfix - Fixed Wahoo Beach Crafting tutorial",
+				"*FIX* Hotfix - Fixed main menu on odd screen resolutions",
+				"*FIX* Hotfix - Fixed bug where storage container items would be replaced by items in another container.",
+				"*FIX* Hotter Hotfix - Evan should appear in the museum properly",
+				"*FIX* Hotter Hotfix - Fixed invisble neckline for the long sleeve shirts"
+			]
+		},
+		{
+			"RowName": "Pumpkin_Patch_0.2.12",
+			"NameArray":
+			[
+				"*FIX* Fixed some of the NPC Pathfinding. Evan should be at the museum when he is supposed to now. ",
+				"*FIX* Fixed Shift+Click duping items bug in multiplayer",
+				"*FIX* Can no longer buy clothes if inventory is full",
+				"*FIX* Fixed falling through the floor if jumping while lying in the clinic bed after passing out.",
+				"*FIX* Turn sensitivity settings saves.",
+				"*NEW* New NPC added",
+				"*NEW* Giftshop is now open. (There aren't many items available for sale, but more will be added later)",
+				"*FIX* Fixed some farm quota inaccuracies ",
+				"*FIX* Fixed random freezing of the game caused by npc path glitch",
+				"*FIX* Fixed Martha quest bug in multiplayer",
+				"*FIX* Consequences for not completing NPC bulletin board quests.",
+				"*FIX* Consequences for buying Jounce drinks",
+				"*NEW* New shirts and hoodies added.",
+				"*NEW* New tab in journal.",
+				"*FIX* Hotfix Disappeared animals should return home now",
+				"*FIX* Hotfix Journal has new tabs for assisting with collecting items for the museum",
+				"*FIX* Hotfix Optimization related to changes with the NPC navigation",
+				"*FIX* Hotfix Optimization related to particle effects",
+				"*FIX* Hotfix Fixed missing hair in hair salon",
+				"*FIX* Hotfix Misc fixes"
+			]
+		},
+		{
+			"RowName": "Pumpkin_Patch_0.2.13",
+			"NameArray":
+			[
+				"*NEW* Food items can be used as decor.",
+				"*NEW* New clothing designs added. Socks, shirts, skirts and pants.",
+				"*FIX* Fixed graphic settings not saving on log out.",
+				"*NEW* Flower baskets added as decor item",
+				"*FIX* Changing the square size of the tool will no longer auto use it.",
+				"*FIX* Fixed npc quests mix up with other quests.",
+				"*FIX* Fixed Rebind keys should not saving on log out. ",
+				"*FIX* Fixed some NPCs not getting friendship points. ",
+				"*FIX* Fixed it so boots can now be worn with long pants without clipping.",
+				"*FIX* Fixed bug with trees not growing.",
+				"*FIX* Fixed bug some bugs with multiplayer",
+				"*FIX* Horse only fall asleep on the farm or in barn",
+				"*FIX* Ability to stack items in the storage container",
+				"*FIX* Player should appear on map while on horse",
+				"*FIX* Eating while on horse should recover stamina",
+				"*FIX* When you fail multiple recipes, it now gives multiple fail dishes. ",
+				"*FIX* Fixed trees spawning inside barns",
+				"*FIX* Player can now brush horse",
+				"*FIX* In multiplayer clients can now plant on someon else's farm",
+				"*FIX* In multiplayer fixed bug with quest items respawning for client on log out.",
+				"*FIX* Fixed bug where npc would not allow player to complete quest",
+				"*NEW* There is grass that can be cut next to your farm, that regrows. It is near the fence and can used to gather fodder for animals.",
+				"*FIX* Fixed some of the NPC schedules",
+				"*FIX* Fixed lemon and cherry seeds which were not added to the Pumpkin farm shop.",
+				"*FIX* Hotfix for disappearing inventory drop down menu.",
+				"*FIX* Hotfix for lag during UI window fade out..",
+				"*FIX* Hotfix for Wahoo Beach Plot Shore for moved grid.",
+				"*FIX* Hotfix Anything involving the crop cherries has been fixed."
+			]
+		},
+		{
+			"RowName": "Pumpkin_Patch_0.2.14",
+			"NameArray":
+			[
+				"*NEW* New NPC dialogue system added where NPCs will say something unique depending on weather, time etc. Only a few NPCs have new dialogue using this system.",
+				"*NEW* Seasonings for cooking can now be made using a pestle and mortar. It can be found in the home improvement shop.",
+				"*FIX* Jounce Corp sends a letter letting the player know if they've been built or not.",
+				"*FIX* When fishing the stamina is deducted after the line is cast not before. ",
+				"*FIX* Fixed food status effects remaining when logging out.",
+				"*FIX* Fixed animals not being removed from the shop list after being bought.",
+				"*FIX* Fixed coffee status effect",
+				"*NEW* Controller support is implemented, but requires more testing and tutorials. ",
+				"*FIX* Rebalanced the bull and pig meat costs.",
+				"*FIX* Fixed pathfinding for some of the NPCs, but still needs more testing",
+				"*FIX* Fixed cinnamon tree to regrow",
+				"*FIX* Hotfix Thickness slider bug fixed",
+				"*FIX* Hotfix Fixed Museum saying Jounce Corp is built even though it's not."
+			]
+		},
+		{
+			"RowName": "Pumpkin_Patch_0.2.15",
+			"NameArray":
+			[
+				"*NEW* Autosort for the inventory and storage",
+				"*NEW* Move all items button for inventory and storage",
+				"*FIX* Fixed difficult in clicking on boat to get to Piscari Island",
+				"*FIX* Fixed some NPC AI issues",
+				"*FIX* Fixed body flickering during character customization",
+				"*NEW* Fossil hunting added along with new dinosaur bones to collect for the museum",
+				"*FIX* Rebalancing related to the addition of fossils. Jounce Corp production is pushed back one month every 20% completion , 80% needed to kick them out instead of 90%",
+				"*NEW* New path leading up to Diamond Falls. (Town is not present yet)",
+				"*NEW* New cave added in Diamond Falls ",
+				"*FIX* Fixed bug with disappearing items when storage containers are placed within other storage containers.",
+				"*FIX* Game pauses when a storage box is brought up.",
+				"*FIX* Fixed bugs when passing out while riding a horse.",
+				"*FIX* Fixed hand icon remaining on crops while riding on horse.",
+				"*NEW* Map updated with new areas",
+				"*FIX* HOTFIX - Added sell prices to the fossils.",
+				"*FIX* HOTFIX - Updated all recipes to be stackable to 20",
+				"*FIX* HOTFIX - Fixed broken achievements",
+				"*FIX* HOTFIX - Fixed errors in NPC dialogue",
+				"*FIX* HOTFIX - Fixed floating ores and dirt pancakes in Diamond Falls Cave.",
+				"*FIX* HOTFIX - Fixed shopkeepers not appearing in shops after waking up",
+				"*FIX* HOTFIX - Fixed bug where tree health bar would appear off screen",
+				"*FIX* HOTFIX - Optimized save game file to reduce brand new save file size by 50%",
+				"*FIX* HOTFIX - Fixed the crop plots that don't always disappear when you shovel "
+			]
+		},
+		{
+			"RowName": "Pumpkin_Patch_0.2.16",
+			"NameArray":
+			[
+				"*FIX* Player can talk to NPCs while on a horse",
+				"*FIX* UI positions save on exit.",
+				"*NEW* Option to have time display as military time.",
+				"*FIX* Fixed bug where player and time are frozen in place after removing everything from moving boxes",
+				"*FIX* Fixed a bug where the selected quest marker would randomly disappear when the game hour changes",
+				"*NEW* NPCs can sit",
+				"*NEW* Some NPCs have new quests and dialogue",
+				"*NEW* Fan Translations website launched.",
+				"*FIX* Misc bugs and typos fixed.",
+				"*FIX* HOTFIX - Fixed being unable to put down shipping bin after picking it up. Shipping bin was not meant to be picked up. Anyone who picked it up now has a free storage bin, and the original should return.",
+				"*FIX* HOTFIX - Fixed incorrect animations when the npcs sit sometimes.",
+				"*FIX* HOTFIX - Fixed being unable to click on some furniture such as storage containers.",
+				"*FIX* HOTFIX - Fixed NPCs that are stuck when sitting on log out.",
+				"*NEW* Pressing 'F' will now pause the game.",
+				"*FIX* HOTFIX - Fixed being unable to pick fruit from trees."
+			]
+		},
+		{
+			"RowName": "Pumpkin_Patch_0.2.17",
+			"NameArray":
+			[
+				"*FIX* Fixed crafting fridges and anything else that had required more material than was stackable",
+				"*NEW* Controller support added in. I will require more polish, but it is an option",
+				"*NEW* German now an option (Translations are not complete it will be part German and mostly English for awhile)",
+				"*FIX* Fixed sparkle disappearing with lower settings",
+				"*FIX* Fixed avocado tree bug",
+				"*FIX* Fixed player dismounting inside horse.",
+				"*FIX* Autosort won't sort items in hotbar.",
+				"*NEW* Added new NPC quests for Pumpkinvale characters",
+				"*FIX* Balancing- Cooking recipes will unlock based on what player has shipped.",
+				"*FIX* Fixed the 'return to cave entrance' at the Lapidot caves.",
+				"*FIX* Fixed bug with being unable to harvest fruit from trees*",
+				"*FIX* Fixed incorrect journal tabs for museum items."
+			]
+		},
+		{
+			"RowName": "Pumpkin_Patch_0.2.18",
+			"NameArray":
+			[
+				"*NEW* Festival days with new merchant shops (In progress)",
+				"*NEW* Cutscenes added for a 4 characters. (New cutscenes will be added moving forward)",
+				"*NEW* Wild animals in the forrests (They currently don't do anything at this time)",
+				"*FIX* Balanced learning cooking recipes which is based on ingredient shipped.",
+				"*FIX* Fixed Npc heads turning when they are asleep.",
+				"*FIX* Players can hold and run around with chickens again",
+				"*FIX* Fixed items disappearing in storage",
+				"*FIX* Fixed shop keepers not being at their shops sometimes (again)",
+				"*FIX* Fixed friendhsip points exploitation.",
+				"*FIX* Fixed bug where dirt farm plots were invisible in multiplayer games.",
+				"*NEW* Giving NPCs gifts on festival days gives bonus friendship points.",
+				"*FIX* Multiplayer- Fixed sitting.",
+				"*FIX* Multiplayer- Significantly improved performance for non-host players connected to a multiplayer server, when playing at night.",
+				"*NEW* Frogman's shop on Spoonie Island is open"
+			]
+		},
+		{
+			"RowName": "Pumpkin_Patch_0.2.19",
+			"NameArray":
+			[
+				"*NEW* New hats added",
+				"*NEW* Signs you can write on",
+				"*NEW* Craft custom clothes (See library for instructions)",
+				"*FIX* Fixed coffee bug",
+				"*FIX* Fixed potential crash in character customization",
+				"*NEW* Cutscenes added",
+				"*NEW* UI Polish",
+				"*NEW* NPC Quests Added",
+				"*FIX* Fixed Misc bugs",
+				"*NEW* More translations added from website.",
+				"*FIX* Misc Bugs",
+				"*FIX* HOTFIX - Rain plays again",
+				"*FIX* HOTFIX - Fixed some clothes that were uncraftable",
+				"*FIX* HOTFIX - Fixed sign that player can write on",
+				"*FIX* HOTFIX - Fixed Jefe tutorial",
+				"*FIX* HOTFIX - Fixed animal navigation on some farms"
+			]
+		},
+		{
+			"RowName": "Pumpkin_Patch_0.3.0",
+			"NameArray":
+			[
+				"*NEW* Added new German translations",
+				"*FIX* Fixed bug with cooking multiple disaster dishes. Can now cook multiple at once.",
+				"*NEW* To stop Jounce Corp it requires 50% completion, and every 10% pushes it back by 1 month.",
+				"*NEW* Two multiplayer modes available. Co-op to play together, and competitive to play separately.",
+				"*FIX* Fixed multiplayer bug with players owning the same chicken coop.",
+				"*FIX* Fixed bug where when an NPC gives a quest it gives the player a delivery bag. ",
+				"*FIX* Fixed some NPC quest errors",
+				"*FIX* Fixed bug where cherry tree has wide space",
+				"*FIX* Fixed clipping with the boots, as well as some other clothing items.",
+				"*FIX* Fixed glitch when riding a horse in multiplayer.",
+				"*FIX* Fixed bug related to placing and writing a sign.",
+				"*FIX* Fixed with NPCs confusing delivery quests with other quests.",
+				"*FIX* Worked on a variety of multiplayer bugs.",
+				"*NEW* Artifact section added to the museum",
+				"*FIX* Fixed some NPC clipping during festival with Pumpkinvale characters",
+				"*FIX* Fixed some typos and incorrect entries at the library",
+				"*NEW* Added points system to new rival multiplayer mode",
+				"*FIX* HOTFIX - Fixed crashing for quests in multiplayer",
+				"*FIX* HOTFIX - Fixed NPC heart duplication in journal and bugs related to that."
+			]
+		},
+		{
+			"RowName": "Pumpkin_Patch_0.3.1",
+			"NameArray":
+			[
+				"*FIX* Fixed Eugene fishing animation loop",
+				"*NEW* Difficulty modes added to the esc menu and character customization. (Determines how much of the museum needs to be completed)",
+				"*FIX* Fixed some bugs related to certain NPC quests",
+				"*NEW* Bug catching added to the game",
+				"*NEW* Bugs added as something to be donated to the museum",
+				"*FIX* Fixed not being able to put chickens down in multiplayer",
+				"*FIX* Fixed back pack bug in multiplayer",
+				"*NEW* Added key shortcut to toggle on and off locked cameras. [ U ]",
+				"*FIX* Fixed being unable to sell only 1 item in stores.",
+				"*FIX* Fixed misc animal bugs in multiplayer",
+				"*FIX* Fixed bug that caused status meter to always be dark.",
+				"*FIX* Fixed bugs related to the horse in multiplayer",
+				"*FIX* HOTFIX - Rebalnced Butterfly detection radius",
+				"*FIX* HOTFIX - Lowered flying bugs lower to the ground so they are easier to catch.",
+				"*FIX* HOTFIX - Fixed bug where the player is unable to place furniture on the farm."
+			]
+		},
+		{
+			"RowName": "Pumpkin_Patch_0.3.2",
+			"NameArray":
+			[
+				"*FiX* Fixed butterflies not appearing in museum",
+				"*FiX* Fixed the inability to craft with wallpaper with the crafting bench.",
+				"*FiX* Fixed chickens not moving when taken out in the rain.",
+				"*FiX* Fixed movement of fish in aquarium (The fish that are floating presents are missing models those will be replaced eventually)",
+				"*FiX* Fixed some typos and underscores for certain items.",
+				"*FiX* Pocketing an item now works while on a horse",
+				"*FiX* Fixed models that pop in too late.",
+				"*FiX* Fixed bug where characters would sometimes sit on the edge of the salon chair.",
+				"*NEW* Autorun has been finally added. Toggle on and off with z, or change the key in the esc menu",
+				"*NEW* Cookable tab added when cooking. Now if you have all the ingredients for a dish it will automatically appear in that tab.",
+				"*NEW* The kitchen will now pull ingredients from both your inventory and a fridge if food is stored in there. ",
+				"*NEW* Tiles, walls and curtains are craftable on a crafting bench (but not available to buy, they can only be learned via the TV). There is not an autosnap yet so placing the tiles and walls may be a pain until we implement that..",
+				"*NEW* You can now hold down the action key to repeat an action automatically.",
+				"*NEW* Players can now substitute milk in recipes with non-dairy milk, and beef and chicken with seitan.",
+				"*NEW* Craftable tab available when crafting that says which items players have enough materials to make. ",
+				"*NEW* New Jounce Corp. related cutscenes, along with Jounce Corp. NPCs",
+				"*FIX* Fixed bug when bringing up UI during a cutscene.",
+				"*NEW* Added an option for swapping the default font with a dyslexia-friendly font",
+				"*NEW Added an option to increase or decrease font size.",
+				"*FIX* Fixed clipping with a lot of hair types with the cowboy hat.",
+				"*FIX* Fixed bad collision on Papaya trees.",
+				"*FIX* HOTFIX - Fixed being unable to cook dishes with milk and meat.",
+				"*FIX* HOTFIX - Fixed storage containers disappearing when upgrading a house that contains a storage container."
+			]
+		},
+		{
+			"RowName": "Pumpkin_Patch_0.3.3",
+			"NameArray":
+			[
+				"*FIX* Fixed black screen of death when playing a multiplayer game for more than a year in game.",
+				"*FIX* Misc multiplayer fixes and optimizations",
+				"*NEW* Fish Breeding Added",
+				"*NEW* New developed areas of the map to travel and explore",
+				"*NEW* New NPC quests added",
+				"*NEW* New tables and chairs at shops and to craft",
+				"*FIX* Ability to craft using gemstones. (A few ores still not working)",
+				"*NEW* Can now use hybrid crops as substitutions in recipes",
+				"*NEW* When crafting tools, any type of wood plank can be used, not just brown wood planks.",
+				"*NEW* Bulletin board added to Spoonie Island",
+				"*FIX* Fixed bug where shift click could cause items to be lost if storage container is full",
+				"*FIX* Fixed bug where player could stack multiple wallpaper in a single wallpaper slot when painting their house",
+				"*FIX* FIxed Bug with moving a barn to a different town and animals trying to get to the old barn.",
+				"*FIX* FIxed Multiplayer if the host walks far away then the animals on that farm stop doing things",
+				"*FIX* Fixed UI being left behind when using smelter and other processors with gamepad",
+				"*NEW* In multiplayer for both co-op and competitive. Players start with a wooden fishing rod.",
+				"*FIX* Fixed bug with experimenting when cooking",
+				"*FIX* Fixed bug with horse teleporting away to sleep and leaving the player behind.",
+				"*NEW* Wallpaper that was bought before can now be ordered from Vera and Jacqueline.",
+				"*NEW* Weather report for Wahoo Beach and Pumpkinvale.",
+				"*FIX* HOTFIX - Fixed the amount of wood the blacksmith gives the player for the axe tutorial.",
+				"*FIX* HOTFIX - Horses should no longer teleport when the player sleeps",
+				"*FIX* HOTFIX - Fixed item duping with the storage containers",
+				"*FIX* HOTFIX - Fixed NPC birthdays not appearing in calendar",
+				"*FIX* HOTFIX - Fixed the amount of wood the blacksmith gives the player for the axe tutorial for Wahoo Beach.",
+				"*FIX* HOTFIX - Multiplayer bug which causes slow startup",
+				"*NEW* - New wallpapers added"
+			]
+		},
+		{
+			"RowName": "Pumpkin_Patch_0.3.4",
+			"NameArray":
+			[
+				"*NEW* Animal Breeding Added",
+				"*FIX* Misc animal related bug fixes",
+				"*FIX* Fixed bug where farm plots would not disappear when leaving farming tutorial early",
+				"*FIX* Fixed bug where shift+click would not work in storage container",
+				"*FIX* Fixed bug where player could lose all items by using the auto-deposit button",
+				"*FIX* Upgrading a house will now keep items in their respective storage containers, rather than removing everything",
+				"*FIX* Optimize AddItemToMuseum, takes way too long when loading game?",
+				"*FIX* Hotfix- Fixed crashing game which comes with owning a rooster",
+				"*NEW* Added- New furniture added",
+				"*FIX* Hotfix- Fixed unable to use a key shortcut to pocket items",
+				"*FIX* Hotfix- Fixed bug with cutting down trees on Wahoo Beach farms",
+				"*FIX* Hotfix- Fixed Weird bug with triggering cutscene while on horse."
+			]
+		},
+		{
+			"RowName": "Pumpkin_Patch_0.3.5",
+			"NameArray":
+			[
+				"*FIX* Can now craft pillows for the couches",
+				"*FIX* Fixed large inaccurate sections of the world map",
+				"*FIX* Fix some areas around the river where the player can fall through",
+				"*FIX* FIxed numerous bugs with the Harsha tablet quests (tablets are temporarily set to respawn after 7 days if one of these bugs caused you to lose one)",
+				"*NEW* Added new furniture, including a bunch of new lights",
+				"*NEW* New furniture to craft",
+				"*FIX* Fixed nice and premium bug net crafting mix up.",
+				"*FIX* Fixed coffee which gives fishing buff.",
+				"*NEW* Clicking on a barn or coop sign will allow players to change the name.",
+				"*FIX* Improved hitboxes on sheep.",
+				"*FIX* Fixed bell not playing ringing sound",
+				"*FIX* Fixed the inability to use wallpaper when crafting",
+				"*FIX* Fixed inability to shovel poop with a controller",
+				"*FIX* Fixed inability to skip cutscenes with a controller.",
+				"*FIX* Fixed double kitchen spawn for the Wahoo Beach cooking tutorial with Haku",
+				"*FIX* Fixed inability to read archive letters",
+				"*FIX* Fixed bug where dialogue options could get stuck on screen when using gamepad",
+				"*FIX* Fixed weird collision which allowed placing buildings on fences",
+				"*FIX* Fixed same plot can be bought multiple times on rival multiplayer?",
+				"*FIX* Fixed text being cut off in the character customizer when the size is increased.",
+				"*FIX* Fixed bug where player gets stuck in dressing room when they log out.",
+				"*FIX* Hotfix- Caves were too bright",
+				"*FIX* Hotfix - Fixed bug where stuck in clothing changing room on log out",
+				"*FIX* Hotfix - Fixed issues with moving barns and coops to different farms"
+			]
+		},
+		{
+			"RowName": "Pumpkin_Patch_0.3.6",
+			"NameArray":
+			[
+				"*FIX* Most quests in the journal should have a marker for the NPCs when clicked on.",
+				"*FIX* Fixed inability to hoe in multiplayer",
+				"*NEW* Player farm is marked with an icon on the map.",
+				"*FIX* Now cancelling a quest 24hrs before a quest expires results in no loss of friendship points.",
+				"*FIX* Removed the maximize button on window because it never worked.",
+				"*NEW* Players can now drag around move UI windows such as the cook book and crafting book.",
+				"*FIX* Fixed the doctor not appearing at the clinic when the player faints",
+				"*NEW* Weather for Spoonie Island is now added",
+				"*FIX* Fixed game music cutting off when clicking outside of the window",
+				"*FIX* Fixed some inconsistencies in the library with the fish.",
+				"*FIX* When crafting, only the amount of materials needed is taken from the stack, instead of the entire stack.",
+				"*FIX* Can now interact with sheep using a controller",
+				"*FIX* Can now interact with poop using a controller",
+				"*FIX* Fixed bug with planting trees and placing plots in multiplayer.",
+				"*FIX* Better collision on the jungle trees in the Palash Jungle",
+				"*FIX* Fixed music occasionally not playing at all.",
+				"*FIX* HOTFIX - Limestone caves being too dark at night.",
+				"*FIX* HOTFIX - Black widow spiders spawn in one specific area on the map, instead of everywhere.",
+				"*FIX* HOTFIX - Fixed stuck UI windows when dragged",
+				"*FIX* HOTFIX - Added missing ores and fossils that were previouly unattainable for the museum.",
+				"*FIX* HOTFIX - Fixed typos and errors in the library",
+				"*FIX* HOTFIX - Misc polish related to NPC dialogue and NPC schedules",
+				"*FIX* HOTFIX -Issue with secret cave",
+				"*FIX* HOTFIX - Inconsistencies with library info",
+				"*FIX* HOTFIX - Added Juniper berries so gin can be crafted",
+				"*FIX* HOTFIX - Fixed white rooster broken texture",
+				"*FIX* HOTFIX - Fixed being unable to use hybrid crops as ingredient substitutions in recipes"
+			]
+		},
+		{
+			"RowName": "Pumpkin_Patch_0.3.7",
+			"NameArray":
+			[
+				"*NEW* Cooking Festival Mini Game Added",
+				"*NEW* Bug Catching Festival Mini Game Added",
+				"*NEW* Fishing Contest Mini Game Added",
+				"*NEW* Mini games can be played at any time if you ask the mayor.",
+				"*FIX* Merchant shops during festivals all have items in them.",
+				"*FIX* Animals poop every other day, instead of every day",
+				"*FIX* Animals disappearing may be fixed ",
+				"*FIX* Fixed gamepad focus is lost when duplicating or deleting save game",
+				"*FIX* Fixed Controller support issues with selecting the difficulty in the game",
+				"*FIX* Fixed inability to shovel poop when using the gamepad.",
+				"*FIX* Fixed only being able to buy 10 seeds at a time.",
+				"*NEW* Clicking on the water will now auto equip your fishing rod when fishing.",
+				"*FIX* Fixed inaccuracies with buying animals of a specific gender.",
+				"*FIX* Fixed player getting stuck if talking to an NPC right before they go to sleep.",
+				"*FIX* The number of experimenting slots available is now based on what tier kitchen is being used.",
+				"*FIX* Fixed bug with cooking multiple dishes.",
+				"*NEW* Sort NPC list alphabetically or by highest heart level",
+				"*FIX* Fixed getting duplicates of certain items as a reward",
+				"*FIX* Fixed fishing season not being recognized on clients in multiplayer.",
+				"*NEW* Talk to Evan to find out how much time before Jounce Corp.moves in.",
+				"*FIX* Fixed eye color discrepancies and inaccuracies in character customization",
+				"*NEW* New hairstyles added",
+				"*NEW* Some hairstyles have been moved from the start of the game to be salon-only styles.",
+				"*NEW* Some new eye styles added",
+				"*FIX* Fixed some issues with inventory item descriptions",
+				"*FIX* Fixed misc issues with NPC quests",
+				"*FIX* Added and updated some information to the library",
+				"*FIX* Rebalanced some fish sell prices",
+				"*NEW* The body of water in Pumpkinvale that used to have lake fish has been changed to river fish. So, lake fish can only be found up in Diamond Falls or Canna Lake.",
+				"*FIX* HOTFIX- Fixed inability to experiment when crafting tools",
+				"*FIX* HOTFIX- Fixed inability to place fertilizer",
+				"*FIX* HOTFIX- Updated how mini games are unlocked. ",
+				"*FIX* HOTFIX- Fixed all Wahoo Beach characters always failing at cooking contest.",
+				"*FIX* HOTFIX- New hairstyles compatible with hats",
+				"*FIX* HOTFIX- Fixed the mayors lying about what time the contests started on festival days",
+				"*FIX* HOTFIX- Fixed endless chocolate bug with candy processor.",
+				"*FIX* HOTFIX - Most long hairstyles no longer clip into the body.",
+				"*FIX* HOTFIX - Fixed mini game crashing on festival days.",
+				"*FIX* HOTFIX - Fixed mayor teleporting away somewhere in the middle of the festivals",
+				"*FIX* HOTFIX - Fixed fishing contest camera for the winners",
+				"*FIX* HOTFIX - Fixed shopkeeper dialogue bug."
+			]
+		},
+		{
+			"RowName": "Pumpkin_Patch_0.3.8",
+			"NameArray":
+			[
+				"*NEW* Festival minigames in multiplayer added",
+				"*NEW* 'C' To Call horse from anywhere",
+				"*FIX* Fixed weird chicken collision",
+				"*FIX* Fixed floating animals (hopefully)",
+				"*FIX* Fixed bug with gaining hearts quickly with chickens and hens",
+				"*FIX* Fixed incorrect icon when buying baby animals",
+				"*NEW* Quests auto sorted in journal based on which is due first.",
+				"*FIX* Fixed bug where player could get stuck in the dressing room at the clothing shop",
+				"*FIX* Fixed bug where Evan still says Jounce Corp. is moving in despite stopping them",
+				"*FIX* NPCs should be marked on the map for all quests",
+				"*NEW* Help I'm stuck will not teleport player to town, but instead to a nearby point.",
+				"*NEW* Fish caught by the beach and deep ocean, can both be placed in the deep ocean tank.",
+				"*FIX* Fixed bug where music would sometimes no play after leaving certain bars.",
+				"*FIX* Fixed misc bug fixes with npc quests",
+				"*FIX* Fixed misc typos and inconsistencies with the library",
+				"*FiX* Rebalanced tool crafting check for new recipe requirements for axe, pickaxe, and brush.",
+				"*NEW* 10 more hairstyles have two-toned hair options added to them.",
+				"*FIX* Shed can now be crafted.",
+				"*FIX* Fences for Wahoo Beach have been resized (So some objects placed next to the fence before update may clip and have to be moved)",
+				"*FIX*Special pigs should drop truffles now.",
+				"*FIX* Ability to change appearance in multiplayer",
+				"*FIX*Rain Music and rain can be toggled on and off separately.",
+				"*NEW* Hybrid crops rebalanced. Most grow only in 1 season instead of 3 seasons.",
+				"*FIX* HOTFIX - Fixed inability to complete blacksmith quest tutorial.",
+				"*FIX* HOTFIX - Fixed chance of NPC spawning at the wrong waypoint.",
+				"*FIX* HOTFIX - Misc bug fixes",
+				"*FIX* HOTFIX - Warping inside of the ground if using ",
+				"*FIX* HOTFIX - Misc bug fixes and new furniture decor"
+			]
+		},
+		{
+			"RowName": "Pumpkin_Patch_0.3.9",
+			"NameArray":
+			[
+				"*NEW* Diamond Falls Town added",
+				"*NEW* New NPCs added in Diamond Falls.",
+				"*FIX* Fixed trees not respawning when cut.",
+				"*FiX* Wool can no longer be used to craft clothes (it can only be used to processed cloth).",
+				"*NEW* Players can now name their storage boxes.",
+				"*NEW* Players can plant multiple seeds at once (Right click and hold to change the number of seeds to plant)",
+				"*NEW* Option in the esc menu to view icons of crops that have been planted.",
+				"*NEW* Dating added for NPCs in Pumpkinvale (Dating not available in other towns yet)",
+				"*NEW* Map pins can be placed anywhere on the maps.",
+				"*FIX* Bug with breeding two grey horses fixed.",
+				"*FIX* Made it so trees spawn the correct amount of wood even when cut on a slope.",
+				"*FIX*  Fixed the amount of snow that falls so it's not as dense.",
+				"*NEW* Horses run faster as their heart level increases.",
+				"*NEW* Animals with higher heart levels with drop more animal products.",
+				"*NEW* Animals that drop more animal products when bred will pass on that trait to their offspring. ",
+				"*NEW* Cotton can be used instead of wool to make cloth.",
+				"*NEW* Bugs will not escape if the net touches them, regardless of if they are alerted or not. (This should make catching bugs easier)",
+				"*NEW* NPCs are organized by town, in a collapsible list in the journal. ",
+				"*FIX*  Fixed bug with resetting the controls to default.",
+				"*NEW* Option to make the caves brighter in the esc menu.",
+				"*FIX* Fixed wrong icon and weather in Wahoo Beach.",
+				"*FIX* Fixed bug where custom-crafted outfits will lose their patterns if swapped out while trying on clothes in the clothing shop.",
+				"*FIX* Fixed bug where crop would disappear when trying to turn it into seeds with a full inventory",
+				"*FIX* UI placement is saved on log out if moved.",
+				"*FIX* Fixed Multiplayer: For clients, cooked dishes still show in NPCs hands at sides while NPCs are on winner podium.",
+				"*NEW* Gifting items that are worth more than 100g will give extra friendship points.",
+				"*NEW* Relax mode: Tools don't break, Bugs don't attack",
+				"*NEW* Hard and Challenge mode: All tools break including meteor, and animals will die if left sick for too long.",
+				"*FIX* Time stops when checking the mailbox",
+				"*NEW* Visual reminder on the stamina bar if the player has mail.",
+				"*NEW* Coffee has been rebalanced. Normal coffee keeps the player awake for 5 hours, strong coffee keeps the player awake for 10 hours.",
+				"*FIX* Fixed infinite delivery quests in multiplayer. ",
+				"*FIX* Fixed some bugs with NPC quests.",
+				"*FIX* Fixed some items not having recipes (such as cafe con leche)",
+				"*FIX* Some herbs were unattainable and have been added to the map such as, mustard, rooisbos etc.",
+				"*NEW* Jam prices balanced",
+				"*NEW* New secret processors added.",
+				"*FIX* HOTFIX - Fixed animals always dying after 2 days in hard and challenge mode.",
+				"*FIX* HOTFIX - Fixed frequent crashes in multiplayer",
+				"*FIX* HOTFIX - Fixed bright bloom when placing buildings in Diamond Falls",
+				"*FIX* HOTFIX - Fixed Korin's quests",
+				"*FIX* HOTFIX - Fixed farm rival tutorial quests",
+				"*FIX* HOTFIX - Added Fast travel icons located to DIamond Falls in map",
+				"*FIX* HOTFIX - Fixed being unable to place auto feed/fodder dispensers.",
+				"*FIX* HOTFIX - Fixed animals crashing",
+				"*FIX* HOTFIX - Fixed bug with storage container names",
+				"*FIX* HOTFIX - Fixed crashing when going from game to main menu",
+				"*FIX* HOTFIX - Fixed empty museum tab and museum completion showing as 0%",
+				"*FIX* HOTFIX - Fixed bug where clients would consistently disconnect from multiplayer at midnight",
+				"*FIX* HOTFIX -Fixed bug with opening the inventory early in the tutorial.",
+				"*FIX* HOTFIX -Fixed bug with jar of stars being the wrong color in the cutscene.",
+				"*NEW* HOTFIX -NPCs will send gifts on the player's birthday.",
+				"*NEW* HOTFIX - Fixed multiplayer bug being unable to adjust diffiulty for all players",
+				"*NEW* HOTFIX - Fixed plot camera in Diamond Falls so the player can see the whoel farm better to place buildings",
+				"*NEW* HOTFIX - Replaced most placeholder models with proper models.",
+				"*FIX* HOTFIX - Fixed bug with placing multiple seeds at once.",
+				"*FIX* HOTFIX - Reblanced Pumpkinvale fishing contest.",
+				"*FIX* HOTFIX - Fixed the invisible wall being too close to the forrest plot and lake in Diamond Falls."
+			]
+		},
+		{
+			"RowName": "Pumpkin_Patch_0.4.0",
+			"NameArray":
+			[
+				"*NEW* (DEV NOTE: Not all of the NPCs are ready to be dated or married. Right now it's most of Wahoo Beach and Pumpkinvale. If you don't trigger a dating cutscene with an NPC they might not be available yet)",
+				"*NEW* Dating cutscenes added in the game.",
+				"*NEW* Marriage added in the game (Your spouse does not live with you, that will be patched in later)",
+				"*NEW* (DEV NOTE: The marriage cutscenes will be changed and polished in the future. Make a copy of your saved game if you want to trigger those cutscenes again without restarting your game from the beginning)",
+				"*FIX* Fixed a bug where trees would drop more would when more players were connected in multiplayer",
+				"*FIX* Fixed misaligned character faces when they turned or did certain animations.",
+				"*FIX* Fixed a freezing issue with buying multiple items",
+				"*FIX* Fixed Jounce Corp. continuously sending letters even after being closed.",
+				"*NEW* Different kinds of trees will drop different amounts of wood",
+				"*FIX* Fixed weird textures on the jar of stars.",
+				"*NEW* One spouse will do a random task every day for the player depending on how high their heart level is.",
+				"*NEW* Extra tab in the journal to write notes",
+				"*NEW* Fertilizer can be spread on multiple plots at once.",
+				"*NEW* Random items, (mostly trash) will spawn in the trash bins.",
+				"*NEW* Multiplayer quests added",
+				"*NEW* NPCS will send birthday letters to the player.",
+				"*FIX* Fixed some death traps in the swamp where the player got stuck",
+				"*FIX* Fixed warping the player to weird points when using the 'Help I'm stuck button'",
+				"*NEW* Added new recipes for crops that previously didn't have recipes.",
+				"*FIX* Fixed miscelleanous typos",
+				"*FIX* HOTFIX - Farm crops being mixed up (unfortunately any changes can't be reversed if the game was saved. Visit our website to know how to recover from a backup file)",
+				"*FIX* HOTFIX - Fixed missing shipping bins and being unable to ship",
+				"*FIX* HOTFIX - Fixed issues with multiplayer quests.",
+				"*FIX* HOTFIX - Fixed wheat being unable to grow in Diamond Falls.",
+				"*FIX* HOTFIX - Misc bug fixes, and added new dresses in the clothing shops."
+			]
+		},
+		{
+			"RowName": "Pumpkin_Patch_0.4.1",
+			"NameArray":
+			[
+				"*NEW* You can invite NPCs to move in as roommates. (Excluding Diamond Falls characters)",
+				"*FIX* Spouses won't harvest flowers only crops",
+				"*NEW* Changed how chores work when married. Spouses will do any of the chores from the start, but will do more chores per day as heart levels increase.",
+				"*FIX* Fixed music stopping in the changing rooms.",
+				"*FIX* Fixed inability to fill watering can with a controller.",
+				"*FIX* Updated the movement controls. Players can now turn using the mouse instead of using 'A' and 'D'",
+				"*FIX* Fixed smelter quest in multiplayer ",
+				"*FIX* Fixed missing clothing item if dress is worn and there is not an extra slot for both shirt and pants.",
+				"*FIX* Fixed pants and dress overlap in the changing room.",
+				"*NEW* Dialogue for most Diamond Falls characters added.",
+				"*FIX* Fixed seeds in the DIamond Falls farm shop.",
+				"*FIX* Fixed some mis-named clothes",
+				"*NEW* Spouses and housemates will sleep at the farm",
+				"*FIX*  HOTFIX - Reverted the controls, and made turning with the mouse an option in the menu (it needs some more work)",
+				"*FIX* HOTFIX - Emi doesn't hang out at the player's house.",
+				"*FIX* HOTFIX - Fixed bug that occurs when upgrading to a tier 4 house.",
+				"*FIX* HOTFIX - Fixed confusing information for Diamond Falls crops between the shop, quota, and library (it should be all fixed up)",
+				"*FIX* HOTFIX - Fixed inconsistency with Diamond Falls quota (again)",
+				"*FIX* HOTFIX - Misc polish and new dialogue added."
+			]
+		},
+		{
+			"RowName": "Pumpkin_Patch_0.4.2",
+			"NameArray":
+			[
+				"*NEW* Babies and kids implemented in single-player mode (multiplayer needs more work)",
+				"*NEW* Festivals set up in Diamond Falls",
+				"*NEW* Ability to assign partners and roommates to specific plots",
+				"*NEW* New festival items added as well as festival prizes",
+				"*FIX* Fixed Npcs being unable to marry after breaking up",
+				"*NEW* More polish and added extra things in the main map",
+				"*NEW* Bug repellent added",
+				"*FIX* Fixed more typos",
+				"*FIX* Fixed and polished some models in the game world",
+				"*NEW* Spoonie Island characters can be dated and married",
+				"*FIX* Fixed invisible wall in Haku's kitchen",
+				"*FIX* Fixed ghost red mushrooms when they ar epicked up",
+				"*FIX* Fixed Evan standing in his desk"
+			]
+		},
+		{
+			"RowName": "Pumpkin_Patch_0.4.3",
+			"NameArray":
+			[
+				"*NEW* Dating and Marriage added for Diamond Falls Characters (except Nora)",
+				"*FIX* Fixed issues with some Diamond Falls Quests",
+				"*FIX* Fixed Walls having no sell value",
+				"*FIX* Fixed Misc typos and enviornment bugs",
+				"*NEW* Mailbox at Spoonie Island",
+				"*FIX* HOTFIX - Fixed Red mushroom seeds producing regular mushrooms",
+				"*FIX* HOTFIX - Adjusted amount of stamina used when harvesting crops"
+			]
+		},
+		{
+			"RowName": "Pumpkin_Patch_0.4.4",
+			"NameArray":
+			[
+				"*NEW* New cutscenes and items related to siding with Jounce Corp.",
+				"*FIX* Misc visual fixes around the map (mostly floating grass)",
+				"*NEW* A few new cutscenes added",
+				"*NEW* Recycling machines added near the dumps.",
+				"*FIX*  Polished the 'turn with mouse' option",
+				"*FIX* On easy mode 50% of the museum will be need for Jounce Corp. to go away, but there is no time limit.",
+				"*HOTFIX* Fixed issues with fossil dig spots",
+				"*HOTFIX* Misc visual bug fixes and polish"
+			]
+		},
+		{
+			"RowName": "Pumpkin_Patch_0.4.5",
+			"NameArray":
+			[
+				"*NEW* Chicken Coop upgrades",
+				"*FIX* Fixed time loop with festival contests. ",
+				"*FIX* Fixed bug with guests not seeing animals in journal, in multiplayer.",
+				"*FIX* Fixed multiplayer bug where clients will fall through river when swimming.",
+				"*FIX* Fixed mail icon not disappearing in multiplayer.",
+				"*NEW* Added misc new cutscenes",
+				"*NEW* Added new bridge in Diamond Falls near the lake plot.",
+				"*FIX* Gave Diamond Falls characters their birthdays",
+				"*NEW* Added vegan cheese which can be made via the cheese maker.",
+				"*FIX* HOTFIX - Fixed Multiplayer servers not appearing",
+				"*FIX* HOTFIX - Fixed Clemetine caves",
+				"*FIX* HOTFIX - Misc visual fixes and typos",
+				"*FIX* HOTFIX - Fixed some visual bugs",
+				"*FIX* HOTFIX - Fixed some typos"
+			]
+		},
+		{
+			"RowName": "Pumpkin_Patch_0.4.6",
+			"NameArray":
+			[
+				"*FIX* Misc bug fixes",
+				"*NEW* Finished writing for; Charlie, Dewain and Gelfie so they could be marriage candidates.",
+				"*NEW* Dogs and Cats added",
+				"*FIX* Further Optimization"
+			]
+		},
+		{
+			"RowName": "Pumpkin_Patch_0.4.7",
+			"NameArray":
+			[
+				"*FIX* Fixed player appearing in the middle of cutscenes",
+				"*FIX* Fixed barns only having doors when purchased",
+				"*FIX* Fixed bug where a player gets stuck trying to catch a rare fish repeatedly.",
+				"*FIX* Fixed baby chicks getting stuck in the floor",
+				"*FIX* Fixed Evan saying that Jounce Corp. was moving in when they weren't.",
+				"*FIX* Fixed flower meshes in the museum",
+				"*FIX* Male goats don't give milk anymore. In fact there are no male goats.",
+				"*FIX* Fixed troughs no longer working after picking them up and placing them back down.",
+				"*FIX* Fixed auto feeders not working",
+				"*FIX* Fixed clients not being able to see windmills turn on multiplayer.",
+				"*FIX* Fixed host player being stuck on a black screen when sleeping.",
+				"*FIX* Fixed processor items disappearing for clients in multiplayer.",
+				"*FIX* Fixed in multiplayer, all storage furniture have 'some storage name' on them, rather than 'fridge' and stuff.",
+				"*FIX* Fixed being unable to place items on certain beds and cabinets",
+				"*FIX* Honey mustard is now added to the recipes and can be attainable in the game.",
+				"*FIX* Fixed some NPC quests have the wrong information or wrong item requirements",
+				"*FIX* Festival furniture shop in pumpkinvale during summer should have furniture now for sale.",
+				"*FIX* Pork can now be substituted in recipes with a vegan option",
+				"*FIX* Rebalanced how many cabbages are harvested.",
+				"*FIX* Fixed kids getting recycled if you tried to have a second kid. (Pretty much they would disappear)",
+				"*FIX* Fixed not being able to click on goats in the shop",
+				"*FIX* Fixed texture glitch when gifting or giving NPCS an item.",
+				"*FIX* HOTFIX - Fixed floating chicks",
+				"*FIX* HOTFIX - Fixed duplicated Clems"
+			]
+		},
+		{
+			"RowName": "Pumpkin_Patch_0.4.8",
+			"NameArray":
+			[
+				"*FIX* Seed machine has been rebalanced to be unlocked at 500 crops and the buy price increased, but it now gives 2 seeds per crop.",
+				"*NEW* Some of the fish now wiggle when swimming.",
+				"*FIX* FIxed character's arms clipping into certain dresses.",
+				"*FIX* Fixed animal bell not working after closing the game.",
+				"*FIX* Some UI elements updated when using a controller.",
+				"*FIX* Fixed unable to complete blacksmith tutorial with a controller.",
+				"*FIX* Fixed unable to tab to Diamond Falls map with a controller.",
+				"*FIX* Fixed inventory names staying on the screen when using a controller.",
+				"*FIX* Fixed misc bugs with the quests",
+				"*FIX* Fixed misc bugs with the shops",
+				"*FIX* Fixed unable to trigger Jounce cutscenes when doing a Jounce run of the game.",
+				"*FIX* HOTFIX - Misc bug fixes"
+			]
+		},
+		{
+			"RowName": "Pumpkin_Patch_1.0.0",
+			"NameArray":
+			[
+				"*FIX* Misc Bug fixes mostly typos.",
+				"*NEW* Out of early acess release :)",
+				"*FIX* Fixed chickens sinking into ground and not going into the coop.",
+				"*FIX* Fixed luxury wall being unable to be placed",
+				"*FIX* HOTFIX- Fixed bugs and hopefully crashing associated with festivals."
+			]
+		}
+	]
+}

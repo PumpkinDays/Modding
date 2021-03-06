@@ -1,0 +1,3 @@
+Horse_Heart_Bonuses Structure:
+
+SpeedBonus: float

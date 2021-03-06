@@ -1,0 +1,9 @@
+{
+	"Rows": 
+	[
+		{
+			"RowName": "Skin_Takeo",
+			"IntProperty": 2
+		}
+	]
+}

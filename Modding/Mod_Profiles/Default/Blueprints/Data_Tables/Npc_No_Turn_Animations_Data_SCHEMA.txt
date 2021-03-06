@@ -1,0 +1,3 @@
+Npc_No_Turn_Animations_Data Structure:
+
+NameProperty: string

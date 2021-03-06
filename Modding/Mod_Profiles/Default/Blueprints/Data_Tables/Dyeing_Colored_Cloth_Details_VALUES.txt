@@ -1,0 +1,431 @@
+{
+	"Rows": 
+	[
+		{
+			"RowName": "Violet",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Cloth_Colors/Cloth_Purple.Cloth_Purple'",
+			"FriendlyName": "Purple Cloth",
+			"Description": "Wool mixed with violet flowers"
+		},
+		{
+			"RowName": "Carnation",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Cloth_Colors/Cloth_Medium_Pink.Cloth_Medium_Pink'",
+			"FriendlyName": "Medium Pink Cloth",
+			"Description": "Wool mixed with carnation flowers"
+		},
+		{
+			"RowName": "Acanthus",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Cloth_Colors/Cloth_Purple.Cloth_Purple'",
+			"FriendlyName": "Purple Cloth",
+			"Description": "Wool mixed with acanthus flowers"
+		},
+		{
+			"RowName": "Adonis",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Cloth_Colors/Cloth_Light_Yellow.Cloth_Light_Yellow'",
+			"FriendlyName": "Light Yellow Cloth",
+			"Description": "Wool mixed with adonis flowers"
+		},
+		{
+			"RowName": "alstroemeria",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Cloth_Colors/Cloth_Pink.Cloth_Pink'",
+			"FriendlyName": "Pink Cloth",
+			"Description": "Wool mixed with alstroemeria flowers"
+		},
+		{
+			"RowName": "Apple_Blossoms",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Cloth_Colors/Cloth_Pink.Cloth_Pink'",
+			"FriendlyName": "Pink Cloth",
+			"Description": "Wool mixed with apple blossoms flowers"
+		},
+		{
+			"RowName": "Angelonia",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Cloth_Colors/Cloth_Purple.Cloth_Purple'",
+			"FriendlyName": "Purple Cloth",
+			"Description": "Wool mixed with angelonia flowers"
+		},
+		{
+			"RowName": "Babys_Breath",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Cloth_Colors/Cloth_White.Cloth_White'",
+			"FriendlyName": "White Cloth",
+			"Description": "Wool mixed with baby's breath flowers"
+		},
+		{
+			"RowName": "Bee_Balm",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Cloth_Colors/Cloth_Red.Cloth_Red'",
+			"FriendlyName": "Red Cloth",
+			"Description": "Wool mixed with bee balm flowers"
+		},
+		{
+			"RowName": "Bird_Of_Paradise",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Cloth_Colors/Cloth_Orange.Cloth_Orange'",
+			"FriendlyName": "Orange Cloth",
+			"Description": "Wool mixed with bird's of paradise flowers"
+		},
+		{
+			"RowName": "BlackDahlia",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Cloth_Colors/Cloth_Black.Cloth_Black'",
+			"FriendlyName": "Black Cloth",
+			"Description": "Wool mixed with black dahlia flowers"
+		},
+		{
+			"RowName": "Black_Iris",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Cloth_Colors/Cloth_Black.Cloth_Black'",
+			"FriendlyName": "Black Cloth",
+			"Description": "Wool mixed with black iris flowers"
+		},
+		{
+			"RowName": "Blue_Hydrangea",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Cloth_Colors/Cloth_Blue.Cloth_Blue'",
+			"FriendlyName": "Blue Cloth",
+			"Description": "Wool mixed with blue hydrangea flowers"
+		},
+		{
+			"RowName": "Cactus",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Cloth_Colors/Cloth_Lime_Green.Cloth_Lime_Green'",
+			"FriendlyName": "Lime Green Cloth",
+			"Description": "Wool mixed with cactus juice"
+		},
+		{
+			"RowName": "Canna",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Cloth_Colors/Cloth_Red.Cloth_Red'",
+			"FriendlyName": "Red Cloth",
+			"Description": "Wool mixed with canna flowers"
+		},
+		{
+			"RowName": "Chrysanthemum",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Cloth_Colors/Cloth_Yellow.Cloth_Yellow'",
+			"FriendlyName": "Yellow Cloth",
+			"Description": "Wool mixed with Chrysanthemum flowers"
+		},
+		{
+			"RowName": "Clover",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Cloth_Colors/Cloth_Green.Cloth_Green'",
+			"FriendlyName": "Green Cloth",
+			"Description": "Wool mixed with clovers"
+		},
+		{
+			"RowName": "Coelogyne_Pandurata",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Cloth_Colors/Cloth_Dark_Green.Cloth_Dark_Green'",
+			"FriendlyName": "Dark Green Cloth",
+			"Description": "Wool mixed with coelogyne panduratas"
+		},
+		{
+			"RowName": "Colombine",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Cloth_Colors/Cloth_Blue.Cloth_Blue'",
+			"FriendlyName": "Blue Cloth",
+			"Description": "Wool mixed with colombine flowers"
+		},
+		{
+			"RowName": "Cymbidium_Orchid",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Cloth_Colors/Cloth_Brown.Cloth_Brown'",
+			"FriendlyName": "Brown Cloth",
+			"Description": "Wool mixed with cymbidium orchid flowers"
+		},
+		{
+			"RowName": "Daffodil",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Cloth_Colors/Cloth_Bright_Yellow.Cloth_Bright_Yellow'",
+			"FriendlyName": "Bright Yellow Cloth",
+			"Description": "Wool mixed with daffodil flowers"
+		},
+		{
+			"RowName": "Daisy",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Cloth_Colors/Cloth_White.Cloth_White'",
+			"FriendlyName": "White Cloth",
+			"Description": "Wool mixed with daisy flowers"
+		},
+		{
+			"RowName": "Day_Lily_Hemerocallis",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Cloth_Colors/Cloth_Orange.Cloth_Orange'",
+			"FriendlyName": "Orange Cloth",
+			"Description": "Wool mixed with day lily hemerocallis flowers"
+		},
+		{
+			"RowName": "Delphinium",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Cloth_Colors/Cloth_Purple.Cloth_Purple'",
+			"FriendlyName": "Purple Cloth",
+			"Description": "Wool mixed with delphinium flowers"
+		},
+		{
+			"RowName": "Echeveria",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Cloth_Colors/Cloth_Green.Cloth_Green'",
+			"FriendlyName": "Green Cloth",
+			"Description": "Wool mixed with echeveria flowers"
+		},
+		{
+			"RowName": "Echinacea_Aster",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Cloth_Colors/Cloth_Pink.Cloth_Pink'",
+			"FriendlyName": "Pink Cloth",
+			"Description": "Wool mixed with echinacea flowers"
+		},
+		{
+			"RowName": "Fiddle_Fern",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Cloth_Colors/Cloth_Dark_Brown.Cloth_Dark_Brown'",
+			"FriendlyName": "Dark Brown Cloth",
+			"Description": "Wool mixed with fiddle fern flowers"
+		},
+		{
+			"RowName": "Forget_Me_Not",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Cloth_Colors/Cloth_Light_Blue.Cloth_Light_Blue'",
+			"FriendlyName": "Light Blue Cloth",
+			"Description": "Wool mixed with forget me not flowers"
+		},
+		{
+			"RowName": "Gardenia",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Cloth_Colors/Cloth_White.Cloth_White'",
+			"FriendlyName": "White Cloth",
+			"Description": "Wool mixed with gardenia flowers"
+		},
+		{
+			"RowName": "Gentian",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Cloth_Colors/Cloth_Dark_Blue.Cloth_Dark_Blue'",
+			"FriendlyName": "Dark Blue Cloth",
+			"Description": "Wool mixed with gentian flowers"
+		},
+		{
+			"RowName": "Gladiolus",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Cloth_Colors/Cloth_Pink.Cloth_Pink'",
+			"FriendlyName": "Pink Cloth",
+			"Description": "Wool mixed with gladiolus flowers"
+		},
+		{
+			"RowName": "Greenovia_Dodrentalis",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Cloth_Colors/Cloth_Green.Cloth_Green'",
+			"FriendlyName": "Green Cloth",
+			"Description": "Wool mixed with greenovia dodrentalis"
+		},
+		{
+			"RowName": "Hellebore",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Cloth_Colors/Cloth_White.Cloth_White'",
+			"FriendlyName": "White Cloth",
+			"Description": "Wool mixed with hellebore flowers"
+		},
+		{
+			"RowName": "Hollyhock_Alcea",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Cloth_Colors/Cloth_Dark_Red.Cloth_Dark_Red'",
+			"FriendlyName": "Dark Red Cloth",
+			"Description": "Wool mixed with hollyhock alcea flowers"
+		},
+		{
+			"RowName": "Hyacinth",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Cloth_Colors/Cloth_Purple.Cloth_Purple'",
+			"FriendlyName": "Purple Cloth",
+			"Description": "Wool mixed with hyacinth flowers"
+		},
+		{
+			"RowName": "Iris_Cristata",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Cloth_Colors/Cloth_Light_Blue.Cloth_Light_Blue'",
+			"FriendlyName": "Light Blue Cloth",
+			"Description": "Wool mixed with iris cristata flowers"
+		},
+		{
+			"RowName": "Iris",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Cloth_Colors/Cloth_Purple.Cloth_Purple'",
+			"FriendlyName": "Purple Cloth",
+			"Description": "Wool mixed with iris flowers"
+		},
+		{
+			"RowName": "Jade_Vine_Flower",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Cloth_Colors/Cloth_Light_Blue.Cloth_Light_Blue'",
+			"FriendlyName": "Light Blue Cloth",
+			"Description": "Wool mixed with jade vine flowers"
+		},
+		{
+			"RowName": "Lambs_Ear",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Cloth_Colors/Cloth_White.Cloth_White'",
+			"FriendlyName": "White Cloth",
+			"Description": "Wool mixed with lamb's ear (the flower of course)"
+		},
+		{
+			"RowName": "Magnolia",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Cloth_Colors/Cloth_White.Cloth_White'",
+			"FriendlyName": "White Cloth",
+			"Description": "Wool mixed with canna flowers"
+		},
+		{
+			"RowName": "Mariposas_De_Cuba",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Cloth_Colors/Cloth_Pink.Cloth_Pink'",
+			"FriendlyName": "Pink Cloth",
+			"Description": "Wool mixed with mariposas flowers"
+		},
+		{
+			"RowName": "Mimosa",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Cloth_Colors/Cloth_White.Cloth_White'",
+			"FriendlyName": "White Cloth",
+			"Description": "Wool mixed with mimosa flowers"
+		},
+		{
+			"RowName": "Morning_Glory",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Cloth_Colors/Cloth_Blue.Cloth_Blue'",
+			"FriendlyName": "Blue Cloth",
+			"Description": "Wool mixed with morning glory flowers"
+		},
+		{
+			"RowName": "Nigella",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Cloth_Colors/Cloth_Pink.Cloth_Pink'",
+			"FriendlyName": "Pink Cloth",
+			"Description": "Wool mixed with nigella flowers"
+		},
+		{
+			"RowName": "Orchid",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Cloth_Colors/Cloth_Dark_Red.Cloth_Dark_Red'",
+			"FriendlyName": "Dark Red Cloth",
+			"Description": "Wool mixed with orchid flowers"
+		},
+		{
+			"RowName": "Passion_Flower",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Cloth_Colors/Cloth_Pink.Cloth_Pink'",
+			"FriendlyName": "Pink Cloth",
+			"Description": "Wool mixed with passion flowers"
+		},
+		{
+			"RowName": "Peony",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Cloth_Colors/Cloth_Pink.Cloth_Pink'",
+			"FriendlyName": "Pink Cloth",
+			"Description": "Wool mixed with peony flowers"
+		},
+		{
+			"RowName": "Petunia",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Cloth_Colors/Cloth_Purple.Cloth_Purple'",
+			"FriendlyName": "Purple Cloth",
+			"Description": "Wool mixed with petunia flowers"
+		},
+		{
+			"RowName": "Poinsettia",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Cloth_Colors/Cloth_Red.Cloth_Red'",
+			"FriendlyName": "Red Cloth",
+			"Description": "Wool mixed with poinsettia flowers"
+		},
+		{
+			"RowName": "Poppy",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Cloth_Colors/Cloth_Red.Cloth_Red'",
+			"FriendlyName": "Red Cloth",
+			"Description": "Wool mixed with poppy flowers"
+		},
+		{
+			"RowName": "Pride_Of_Madeira",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Cloth_Colors/Cloth_Purple.Cloth_Purple'",
+			"FriendlyName": "Purple Cloth",
+			"Description": "Wool mixed with pride of madeira flowers"
+		},
+		{
+			"RowName": "Purple_Hydrangea",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Cloth_Colors/Cloth_Purple.Cloth_Purple'",
+			"FriendlyName": "Purple Cloth",
+			"Description": "Wool mixed with purple hydrangea flowers"
+		},
+		{
+			"RowName": "Rose",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Cloth_Colors/Cloth_Red.Cloth_Red'",
+			"FriendlyName": "Red Cloth",
+			"Description": "Wool mixed with rose flowers"
+		},
+		{
+			"RowName": "Sandersonia",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Cloth_Colors/Cloth_Orange.Cloth_Orange'",
+			"FriendlyName": "Orange Cloth",
+			"Description": "Wool mixed with sandersonia flowers"
+		},
+		{
+			"RowName": "Scilla",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Cloth_Colors/Cloth_Dark_Blue.Cloth_Dark_Blue'",
+			"FriendlyName": "Dark Blue Cloth",
+			"Description": "Wool mixed with scilla flowers"
+		},
+		{
+			"RowName": "Sneezeweed",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Cloth_Colors/Cloth_Dark_Red.Cloth_Dark_Red'",
+			"FriendlyName": "Dark Red Cloth",
+			"Description": "Wool mixed with sneezeweed flowers"
+		},
+		{
+			"RowName": "Spirea",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Cloth_Colors/Cloth_Pink.Cloth_Pink'",
+			"FriendlyName": "Pink Cloth",
+			"Description": "Wool mixed with spirea flowers"
+		},
+		{
+			"RowName": "Star_Scabiosa",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Cloth_Colors/Cloth_White.Cloth_White'",
+			"FriendlyName": "White Cloth",
+			"Description": "Wool mixed with star scabiosa flowers"
+		},
+		{
+			"RowName": "Stokesia",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Cloth_Colors/Cloth_Purple.Cloth_Purple'",
+			"FriendlyName": "Purple Cloth",
+			"Description": "Wool mixed with stokesia flowers"
+		},
+		{
+			"RowName": "Trillium",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Cloth_Colors/Cloth_Dark_Red.Cloth_Dark_Red'",
+			"FriendlyName": "Dark Red Cloth",
+			"Description": "Wool mixed with trillium flowers"
+		},
+		{
+			"RowName": "Venus_Flytrap",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Cloth_Colors/Cloth_Green.Cloth_Green'",
+			"FriendlyName": "Green Cloth",
+			"Description": "Wool mixed with venus fly traps "
+		},
+		{
+			"RowName": "Verbana",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Cloth_Colors/Cloth_Purple.Cloth_Purple'",
+			"FriendlyName": "Purple Cloth",
+			"Description": "Wool mixed with verbana flowers"
+		},
+		{
+			"RowName": "Zinnia",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Cloth_Colors/Cloth_Red.Cloth_Red'",
+			"FriendlyName": "Red Cloth",
+			"Description": "Wool mixed with zinnia flowers"
+		},
+		{
+			"RowName": "Sunflower",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Cloth_Colors/Cloth_Bright_Yellow.Cloth_Bright_Yellow'",
+			"FriendlyName": "Yellow Cloth",
+			"Description": "Wool mixed with sunflowers"
+		},
+		{
+			"RowName": "Kangaroo_Paw",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Cloth_Colors/Cloth_Brown.Cloth_Brown'",
+			"FriendlyName": "Brown Cloth",
+			"Description": "Wool mixed with kangaroo paw flowers"
+		},
+		{
+			"RowName": "Cosmos",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Cloth_Colors/Cloth_Dark_Red.Cloth_Dark_Red'",
+			"FriendlyName": "Dark Red Cloth",
+			"Description": "Wool mixed with cosmos flowers"
+		},
+		{
+			"RowName": "Colored_Cloth",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Cloth_Colors/Cloth_Pattern.Cloth_Pattern'",
+			"FriendlyName": "",
+			"Description": ""
+		},
+		{
+			"RowName": "cotyledon_blossoms",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Cloth_Colors/Cloth_Red.Cloth_Red'",
+			"FriendlyName": "Dark Red Cloth",
+			"Description": "Wool mixed with cotyledon blossoms flowers"
+		},
+		{
+			"RowName": "Camelia",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Cloth_Colors/Cloth_Pink.Cloth_Pink'",
+			"FriendlyName": "Medium Pink Cloth",
+			"Description": "Wool mixed with camelia flowers"
+		},
+		{
+			"RowName": "Lavender",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Cloth_Colors/Cloth_Purple.Cloth_Purple'",
+			"FriendlyName": "Purple Cloth",
+			"Description": "Wool mixed with lavender flowers"
+		},
+		{
+			"RowName": "Pride_Flower",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Cloth_Colors/Cloth_Rainbow.Cloth_Rainbow'",
+			"FriendlyName": "Pride Cloth",
+			"Description": "Wool mixed with pride flowers"
+		}
+	]
+}

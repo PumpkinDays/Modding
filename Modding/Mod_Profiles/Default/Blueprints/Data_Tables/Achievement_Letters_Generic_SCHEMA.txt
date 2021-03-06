@@ -1,0 +1,19 @@
+Achievement_Letters_Generic Structure:
+
+Action: string
+Amount: float
+Letter: 
+	Subject: string
+	Body: string
+	Sender: string
+	AttachedItem: 
+		RowName: string
+		StackAmount: integer
+		OptionsString: string
+		ExtraOptions: TArray-FExtraOption
+	AttachedGold: integer
+	Identifier: integer
+PumpkinvaleNpc: string
+WahooNpc: string
+DiamondFallsNpc: string
+HeartPoints: float

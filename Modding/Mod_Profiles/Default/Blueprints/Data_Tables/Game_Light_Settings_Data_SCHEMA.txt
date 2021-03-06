@@ -1,0 +1,31 @@
+Game_Light_Settings_Data Structure:
+
+Intensity: float
+Color: 
+	B: uint8
+	G: uint8
+	R: uint8
+	A: uint8
+AttenuationRadius: float
+SourceRadius: float
+SourceLength: float
+CastsShadows: true/false
+InnerConeAngle: float
+OuterConeAngle: float
+TurnOnTime: 
+	Hour: integer
+	Minute: integer
+OffTime: 
+	Hour: integer
+	Minute: integer
+FadeIntensityCurve: UCurveFloat*
+FadesIn: true/false
+FadesOut: true/false
+FurnitureLocation: 
+	X: float
+	Y: float
+	Z: float
+FurnitureRotation: 
+	Pitch: float
+	Yaw: float
+	Roll: float

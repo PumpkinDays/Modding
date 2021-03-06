@@ -1,0 +1,14 @@
+Animal_Tutorial_Spawn_Points Structure:
+
+CowLocation: 
+	X: float
+	Y: float
+	Z: float
+TroughLocation: 
+	X: float
+	Y: float
+	Z: float
+PoopLocation: 
+	X: float
+	Y: float
+	Z: float

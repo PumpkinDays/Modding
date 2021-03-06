@@ -1,0 +1,13 @@
+Available_Languages Structure:
+
+FlagImage: TAssetPtr<UTexture2D>
+Language: ONE of
+	None
+	English
+	German
+	Spanish
+	SimplifiedChinese
+	Russian
+	PortugeseBrazil
+	French
+Description: string

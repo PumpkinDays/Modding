@@ -1,0 +1,7 @@
+Steam_Specific_Achievements Structure:
+
+AchievementId: string
+Values: 
+	Action: string
+	Item: string
+	Amount: float

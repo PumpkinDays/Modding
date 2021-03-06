@@ -1,0 +1,149 @@
+{
+	"Rows": 
+	[
+		{
+			"RowName": "Mild_Coffee",
+			"Type": 5,
+			"Strength": 0,
+			"DurationMinutes": 300,
+			"StatusIcon": "Texture2D'/Game/Textures/Status_Icons/Status_Icon_Coffee.Status_Icon_Coffee'",
+			"TopOfIconPercentage": 100,
+			"BottomOfIconPercentage": 0
+		},
+		{
+			"RowName": "Strong_Coffee",
+			"Type": 5,
+			"Strength": 0,
+			"DurationMinutes": 600,
+			"StatusIcon": "Texture2D'/Game/Textures/Status_Icons/Status_Icon_Coffee2.Status_Icon_Coffee2'",
+			"TopOfIconPercentage": 100,
+			"BottomOfIconPercentage": 0
+		},
+		{
+			"RowName": "Jounce_Coffee",
+			"Type": 5,
+			"Strength": 0,
+			"DurationMinutes": 1440,
+			"StatusIcon": "Texture2D'/Game/Textures/Icons/General/Jounce_Can.Jounce_Can'",
+			"TopOfIconPercentage": 100,
+			"BottomOfIconPercentage": 0
+		},
+		{
+			"RowName": "Fast",
+			"Type": 1,
+			"Strength": 1.5,
+			"DurationMinutes": 180,
+			"StatusIcon": "Texture2D'/Game/Textures/Status_Icons/Status_Icon_Fast2.Status_Icon_Fast2'",
+			"TopOfIconPercentage": 100,
+			"BottomOfIconPercentage": 0
+		},
+		{
+			"RowName": "Faster",
+			"Type": 1,
+			"Strength": 2,
+			"DurationMinutes": 180,
+			"StatusIcon": "Texture2D'/Game/Textures/Status_Icons/Status_Icon_Fast.Status_Icon_Fast'",
+			"TopOfIconPercentage": 100,
+			"BottomOfIconPercentage": 0
+		},
+		{
+			"RowName": "Jounce_Faster",
+			"Type": 1,
+			"Strength": 4,
+			"DurationMinutes": 180,
+			"StatusIcon": "Texture2D'/Game/Textures/Icons/General/Jounce_Can.Jounce_Can'",
+			"TopOfIconPercentage": 100,
+			"BottomOfIconPercentage": 0
+		},
+		{
+			"RowName": "Fishing",
+			"Type": 3,
+			"Strength": 2,
+			"DurationMinutes": 300,
+			"StatusIcon": "Texture2D'/Game/Textures/Status_Icons/Status_Icon_FIsh.Status_Icon_FIsh'",
+			"TopOfIconPercentage": 100,
+			"BottomOfIconPercentage": 0
+		},
+		{
+			"RowName": "Fishing_Major",
+			"Type": 3,
+			"Strength": 5,
+			"DurationMinutes": 120,
+			"StatusIcon": "Texture2D'/Game/Textures/Status_Icons/Status_Icon_Fish2.Status_Icon_Fish2'",
+			"TopOfIconPercentage": 100,
+			"BottomOfIconPercentage": 0
+		},
+		{
+			"RowName": "Hearts",
+			"Type": 4,
+			"Strength": 2,
+			"DurationMinutes": 120,
+			"StatusIcon": "Texture2D'/Game/Textures/Status_Icons/Status_Icon_Hearts.Status_Icon_Hearts'",
+			"TopOfIconPercentage": 100,
+			"BottomOfIconPercentage": 0
+		},
+		{
+			"RowName": "Drunk",
+			"Type": 6,
+			"Strength": 0,
+			"DurationMinutes": 120,
+			"StatusIcon": "Texture2D'/Game/Textures/Status_Icons/Status_Icon_Drunk.Status_Icon_Drunk'",
+			"TopOfIconPercentage": 100,
+			"BottomOfIconPercentage": 0
+		},
+		{
+			"RowName": "Drunk_Major",
+			"Type": 6,
+			"Strength": 0,
+			"DurationMinutes": 300,
+			"StatusIcon": "Texture2D'/Game/Textures/Status_Icons/Status_Icon_Drunk.Status_Icon_Drunk'",
+			"TopOfIconPercentage": 100,
+			"BottomOfIconPercentage": 0
+		},
+		{
+			"RowName": "Drunk_Hearts",
+			"Type": 4,
+			"Strength": 5,
+			"DurationMinutes": 300,
+			"StatusIcon": "Texture2D'/Game/Textures/Status_Icons/Status_Icon_Hearts2.Status_Icon_Hearts2'",
+			"TopOfIconPercentage": 100,
+			"BottomOfIconPercentage": 0
+		},
+		{
+			"RowName": "Stamina",
+			"Type": 2,
+			"Strength": 2,
+			"DurationMinutes": 120,
+			"StatusIcon": "Texture2D'/Game/Textures/Status_Icons/Status_Icon_Stamina.Status_Icon_Stamina'",
+			"TopOfIconPercentage": 100,
+			"BottomOfIconPercentage": 0
+		},
+		{
+			"RowName": "Stamina_Hearty",
+			"Type": 2,
+			"Strength": 2,
+			"DurationMinutes": 300,
+			"StatusIcon": "Texture2D'/Game/Textures/Status_Icons/Status_Icon_Stamina2.Status_Icon_Stamina2'",
+			"TopOfIconPercentage": 100,
+			"BottomOfIconPercentage": 0
+		},
+		{
+			"RowName": "Jounce_Stamina_Hearty",
+			"Type": 2,
+			"Strength": 2,
+			"DurationMinutes": 1440,
+			"StatusIcon": "Texture2D'/Game/Textures/Icons/General/Jounce_Can.Jounce_Can'",
+			"TopOfIconPercentage": 100,
+			"BottomOfIconPercentage": 0
+		},
+		{
+			"RowName": "Bug_Repellant",
+			"Type": 7,
+			"Strength": 1,
+			"DurationMinutes": 180,
+			"StatusIcon": "Texture2D'/Game/Textures/Status_Icons/Bug_Repellant.Bug_Repellant'",
+			"TopOfIconPercentage": 100,
+			"BottomOfIconPercentage": 0
+		}
+	]
+}

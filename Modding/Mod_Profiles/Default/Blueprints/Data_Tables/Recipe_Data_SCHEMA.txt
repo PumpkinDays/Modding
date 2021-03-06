@@ -1,0 +1,15 @@
+Recipe_Data Structure:
+
+RowName: string
+FriendlyName: string
+ProducedItem: string
+Category: string
+RecipeDifficulty: ONE of
+	Easy
+	Medium
+	Hard
+	Master
+Ingredients: TArray-FRecipeIngredient
+RecipeSteps: TArray-TEnumAsByte<ECookingStep>
+Thumbnail: UTexture2D*
+IsUnknown: true/false

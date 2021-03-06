@@ -1,0 +1,4 @@
+Character_Customization_Socks Structure:
+
+MaterialSlots: TArray-TEnumAsByte<ESockMaterialElements>
+Material: UMaterialInterface*

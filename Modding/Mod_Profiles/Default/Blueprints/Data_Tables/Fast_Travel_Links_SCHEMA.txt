@@ -1,0 +1,4 @@
+Fast_Travel_Links Structure:
+
+Cost: integer
+TravelDurationHours: integer

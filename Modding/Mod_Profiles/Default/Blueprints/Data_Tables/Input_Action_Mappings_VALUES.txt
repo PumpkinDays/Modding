@@ -1,0 +1,230 @@
+{
+	"Rows": 
+	[
+		{
+			"RowName": "0",
+			"InputName": "Jump",
+			"InputDisplayName": "Jump[Jump]",
+			"DefaultValue": 
+			{
+				"KeyName": "SpaceBar"
+			},
+			"DefaultValueGamepad": 
+			{
+				"KeyName": "Gamepad_FaceButton_Bottom"
+			},
+			"IsKeyboardMouse": true,
+			"IsGamepad": true
+		},
+		{
+			"RowName": "EnableCameraRotation",
+			"InputName": "Enable Camera Rotation",
+			"InputDisplayName": "Camera Rotation[CamRot]",
+			"DefaultValue": 
+			{
+				"KeyName": "MiddleMouseButton"
+			},
+			"DefaultValueGamepad": 
+			{
+				"KeyName": "None"
+			},
+			"IsKeyboardMouse": true,
+			"IsGamepad": false
+		},
+		{
+			"RowName": "EnableMouseRotation",
+			"InputName": "Enable Mouse Rotation",
+			"InputDisplayName": "Mouse Rotation[MouseRot]",
+			"DefaultValue": 
+			{
+				"KeyName": "RightMouseButton"
+			},
+			"DefaultValueGamepad": 
+			{
+				"KeyName": "None"
+			},
+			"IsKeyboardMouse": true,
+			"IsGamepad": false
+		},
+		{
+			"RowName": "RotateFurnitureHouse",
+			"InputName": "Rotate Furniture/House",
+			"InputDisplayName": "Rotate Right[RotRight]",
+			"DefaultValue": 
+			{
+				"KeyName": "R"
+			},
+			"DefaultValueGamepad": 
+			{
+				"KeyName": "Gamepad_RightShoulder"
+			},
+			"IsKeyboardMouse": true,
+			"IsGamepad": true
+		},
+		{
+			"RowName": "RotateFurnitureHouseLeft",
+			"InputName": "RotateFurnitureHouseLeft",
+			"InputDisplayName": "Rotate Left[RotLeft]",
+			"DefaultValue": 
+			{
+				"KeyName": "L"
+			},
+			"DefaultValueGamepad": 
+			{
+				"KeyName": "Gamepad_LeftShoulder"
+			},
+			"IsKeyboardMouse": true,
+			"IsGamepad": true
+		},
+		{
+			"RowName": "SettingsMenu",
+			"InputName": "Settings Menu",
+			"InputDisplayName": "Settings[Settings]",
+			"DefaultValue": 
+			{
+				"KeyName": "Escape"
+			},
+			"DefaultValueGamepad": 
+			{
+				"KeyName": "Gamepad_Special_Right"
+			},
+			"IsKeyboardMouse": true,
+			"IsGamepad": true
+		},
+		{
+			"RowName": "ToggleInventory",
+			"InputName": "Toggle Inventory",
+			"InputDisplayName": "Inventory[Inventory]",
+			"DefaultValue": 
+			{
+				"KeyName": "I"
+			},
+			"DefaultValueGamepad": 
+			{
+				"KeyName": "None"
+			},
+			"IsKeyboardMouse": true,
+			"IsGamepad": false
+		},
+		{
+			"RowName": "ToggleMapsWindow",
+			"InputName": "Toggle Maps Window",
+			"InputDisplayName": "Map[Map]",
+			"DefaultValue": 
+			{
+				"KeyName": "M"
+			},
+			"DefaultValueGamepad": 
+			{
+				"KeyName": "None"
+			},
+			"IsKeyboardMouse": true,
+			"IsGamepad": false
+		},
+		{
+			"RowName": "ToggleQuestBook",
+			"InputName": "Toggle Quest Book",
+			"InputDisplayName": "Journal[Journal]",
+			"DefaultValue": 
+			{
+				"KeyName": "J"
+			},
+			"DefaultValueGamepad": 
+			{
+				"KeyName": "None"
+			},
+			"IsKeyboardMouse": true,
+			"IsGamepad": false
+		},
+		{
+			"RowName": "UnequipItem",
+			"InputName": "Unequip Item",
+			"InputDisplayName": "Pocket Item[Pocket]",
+			"DefaultValue": 
+			{
+				"KeyName": "P"
+			},
+			"DefaultValueGamepad": 
+			{
+				"KeyName": "Gamepad_FaceButton_Right"
+			},
+			"IsKeyboardMouse": true,
+			"IsGamepad": true
+		},
+		{
+			"RowName": "ToggleRotationSnapping",
+			"InputName": "ToggleRotationSnapping",
+			"InputDisplayName": "Snap To Grid[SnapToGrid]",
+			"DefaultValue": 
+			{
+				"KeyName": "G"
+			},
+			"DefaultValueGamepad": 
+			{
+				"KeyName": "None"
+			},
+			"IsKeyboardMouse": true,
+			"IsGamepad": false
+		},
+		{
+			"RowName": "PauseGame",
+			"InputName": "PauseGameKey",
+			"InputDisplayName": "Freeze[FreezeGame]",
+			"DefaultValue": 
+			{
+				"KeyName": "F"
+			},
+			"DefaultValueGamepad": 
+			{
+				"KeyName": "None"
+			},
+			"IsKeyboardMouse": true,
+			"IsGamepad": false
+		},
+		{
+			"RowName": "ToggleAutoRun",
+			"InputName": "ToggleAutoRun",
+			"InputDisplayName": "Toggle Auto-run",
+			"DefaultValue": 
+			{
+				"KeyName": "Z"
+			},
+			"DefaultValueGamepad": 
+			{
+				"KeyName": "Gamepad_LeftThumbstick"
+			},
+			"IsKeyboardMouse": true,
+			"IsGamepad": true
+		},
+		{
+			"RowName": "CallHorseMapping",
+			"InputName": "CallHorseMapping",
+			"InputDisplayName": "Call Horse",
+			"DefaultValue": 
+			{
+				"KeyName": "C"
+			},
+			"DefaultValueGamepad": 
+			{
+				"KeyName": "None"
+			},
+			"IsKeyboardMouse": true,
+			"IsGamepad": false
+		},
+		{
+			"RowName": "GamepadInteractionMouse",
+			"InputName": "GamepadInteraction",
+			"InputDisplayName": "Interact",
+			"DefaultValue": 
+			{
+				"KeyName": "E"
+			},
+			"DefaultValueGamepad": 
+			{
+				"KeyName": "None"
+			},
+			"IsKeyboardMouse": true,
+			"IsGamepad": false
+		}
+	]
+}

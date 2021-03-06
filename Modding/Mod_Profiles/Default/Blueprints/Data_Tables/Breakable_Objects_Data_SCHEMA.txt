@@ -1,0 +1,51 @@
+Breakable_Objects_Data Structure:
+
+RowName: string
+Scale: 
+	X: float
+	Y: float
+	Z: float
+StaticMesh: UStaticMesh*
+ToolRequired: ONE of
+	Hoe
+	Watering_Can
+	Seeds
+	Hammer
+	Sickle
+	Bucket
+	Shears
+	Axe
+	Fishing_Rod
+	Bug_Net
+	Pickaxe
+	Shovel
+	Brush
+	FruitPicker
+	Fertilizer
+	None
+ToolHitMultipliers: TArray-FToolHitAmount
+BaseHitsRequired: integer
+MinToolTier: ONE of
+	Wooden
+	Copper
+	Iron
+	Silver
+	Gold
+	Steel
+	Titanium
+	Uranium
+	Diamond
+	Meteor
+HitMaterialAmounts: TArray-int32
+HitMaterials: TArray-UMaterialInterface*
+MeshStages: TArray-UStaticMesh*
+MaterialIndexToSet: integer
+ItemDropped: string
+DropAmount: integer
+RespawnHours: integer
+Animation: UAnimSequenceBase*
+VisibilityDistance: float
+InteractionDistance: float
+BreakSoundEffect: USoundBase*
+CanBeWalkedThrough: true/false
+FactoryPreventsRespawn: true/false

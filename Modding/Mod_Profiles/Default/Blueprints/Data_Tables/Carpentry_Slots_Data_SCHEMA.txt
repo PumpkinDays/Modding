@@ -1,0 +1,6 @@
+Carpentry_Slots_Data Structure:
+
+Row: string
+FriendlyName: string
+Categories: TArray-TEnumAsByte<EInventoryItemCategory>
+RequiredAmount: integer

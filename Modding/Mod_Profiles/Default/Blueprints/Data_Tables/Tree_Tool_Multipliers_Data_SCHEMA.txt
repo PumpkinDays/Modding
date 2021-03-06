@@ -1,0 +1,14 @@
+Tree_Tool_Multipliers_Data Structure:
+
+ToolTier: ONE of
+	Wooden
+	Copper
+	Iron
+	Silver
+	Gold
+	Steel
+	Titanium
+	Uranium
+	Diamond
+	Meteor
+HitMultiplier: integer

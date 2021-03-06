@@ -1,0 +1,284 @@
+{
+	"Rows": 
+	[
+		{
+			"RowName": "None_",
+			"Mesh": "None",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Cheek_Icons/Blank.Blank'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Achne",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Cheeks/Cheeks_Achne.Cheeks_Achne'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Cheek_Icons/Cheeks_Achne_Icon.Cheeks_Achne_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Cheeks_Freckles_Simple",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Cheeks/Cheeks_Freckles_Simple.Cheeks_Freckles_Simple'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Cheek_Icons/Cheeks_Freckles_Simple_Icon.Cheeks_Freckles_Simple_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Cheeks_Freckles_Simple_Dark",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Cheeks/Cheeks_Freckles_Simple_Dark.Cheeks_Freckles_Simple_Dark'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Cheek_Icons/Cheeks_Freckles_Simple_Dark_Icon.Cheeks_Freckles_Simple_Dark_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Cheeks_Freckles_Complex",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Cheeks/Cheeks_Freckles_Complex.Cheeks_Freckles_Complex'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Cheek_Icons/Cheeks_Freckles_Complex_Icon.Cheeks_Freckles_Complex_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Cheeks_Freckles_Complex_Dark",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Cheeks/Cheeks_Freckles_Complex_Dark.Cheeks_Freckles_Complex_Dark'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Cheek_Icons/Cheeks_Freckles_Complex_Dark_Icon.Cheeks_Freckles_Complex_Dark_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Cheeks_Beauty_Mark",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Cheeks/Cheeks_Beauty_Mark.Cheeks_Beauty_Mark'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Cheek_Icons/Cheeks_Beauty_Mark_Icon.Cheeks_Beauty_Mark_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Cheeks_Oval_Blush",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Cheeks/Cheeks_Oval_Blush.Cheeks_Oval_Blush'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Cheek_Icons/Cheeks_Oval_Blush_Icon.Cheeks_Oval_Blush_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Cheek_Blush_Hatches",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Cheeks/Cheek_Blush_Hatches.Cheek_Blush_Hatches'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Cheek_Icons/Cheek_Blush_Hatches_Icon.Cheek_Blush_Hatches_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Cheeks_Blush_Super_Hatching",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Cheeks/Cheeks_Blush_Super_Hatching.Cheeks_Blush_Super_Hatching'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Cheek_Icons/Cheeks_Blush_Super_Hatching_Icon.Cheeks_Blush_Super_Hatching_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Cheeks_Circle_Blush",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Cheeks/Cheeks_Circle_Blush.Cheeks_Circle_Blush'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Cheek_Icons/Cheeks_Circle_Blush_Icon.Cheeks_Circle_Blush_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Cheeks_Zs_Dark",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Cheeks/Cheeks_Zs_Dark.Cheeks_Zs_Dark'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Cheek_Icons/Cheeks_Zs_Dark_Icon.Cheeks_Zs_Dark_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Swirls",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Cheeks/Cheeks_Swirls.Cheeks_Swirls'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Cheek_Icons/Cheeks_Swirls_Icon.Cheeks_Swirls_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Cheeks_Bandage_Cross",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Cheeks/Cheeks_Bandage_Cross.Cheeks_Bandage_Cross'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Cheek_Icons/Cheeks_Bandage_Cross_Icon.Cheeks_Bandage_Cross_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Cheeks_Bandage_Simple",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Cheeks/Cheeks_Bandage_Simple.Cheeks_Bandage_Simple'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Cheek_Icons/Cheeks_Bandage_Simple_Icon.Cheeks_Bandage_Simple_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Cheeks_Bandage_Single",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Cheeks/Cheeks_Bandage_Single.Cheeks_Bandage_Single'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Cheek_Icons/Cheeks_Bandage_Single_Icon.Cheeks_Bandage_Single_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Cheeks_Scar_Horizontal",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Cheeks/Cheeks_Scar_Horizontal.Cheeks_Scar_Horizontal'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Cheek_Icons/Cheeks_Scar_Horizontal_Icon.Cheeks_Scar_Horizontal_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Cheeks_Scar_Slash",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Cheeks/Cheeks_Scar_Slash.Cheeks_Scar_Slash'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Cheek_Icons/Cheeks_Scar_Slash_Icon.Cheeks_Scar_Slash_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Cheeks_Scar_Vertical",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Cheeks/Cheeks_Scar_Vertical.Cheeks_Scar_Vertical'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Cheek_Icons/Cheeks_Scar_Vertical_Icon.Cheeks_Scar_Vertical_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Cheeks_Stars",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Cheeks/Cheeks_Stars.Cheeks_Stars'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Cheek_Icons/Cheeks_Stars_Icon.Cheeks_Stars_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Cheeks_Tears",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Cheeks/Cheeks_Tears.Cheeks_Tears'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Cheek_Icons/Cheeks_Tears_Icon.Cheeks_Tears_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Smiley_Stickers",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Cheeks/Smiley_Stickers.Smiley_Stickers'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Cheek_Icons/Smiley_Stickers_Icon.Smiley_Stickers_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Cheeks_Spades_Blue",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Cheeks/Cheeks_Spades_Blue.Cheeks_Spades_Blue'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Cheek_Icons/Cheeks_Spades_Blue_Icon.Cheeks_Spades_Blue_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Cheeks_Heart_Pink",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Cheeks/Cheeks_Heart_Pink.Cheeks_Heart_Pink'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Cheek_Icons/Cheeks_Heart_Pink_Icon.Cheeks_Heart_Pink_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Cheeks_Diamonds_Green",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Cheeks/Cheeks_Diamonds_Green.Cheeks_Diamonds_Green'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Cheek_Icons/Cheeks_Diamonds_Green_Icon.Cheeks_Diamonds_Green_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Cheeks_Clubs_Purple",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Cheeks/Cheeks_Clubs_Purple.Cheeks_Clubs_Purple'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Cheek_Icons/Cheeks_Clubs_Purple_Icon.Cheeks_Clubs_Purple_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Cheeks_Clubs_Black_Single",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Cheeks/Cheeks_Clubs_Black_Single.Cheeks_Clubs_Black_Single'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Cheek_Icons/Cheeks_Clubs_Black_Single_Icon.Cheeks_Clubs_Black_Single_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Cheeks_Spades_Black_Single",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Cheeks/Cheeks_Spades_Black_Single.Cheeks_Spades_Black_Single'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Cheek_Icons/Cheeks_Spades_Black_Single_Icon.Cheeks_Spades_Black_Single_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Cheeks_Diamonds_Red_Single",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Cheeks/Cheeks_Diamonds_Red_Single.Cheeks_Diamonds_Red_Single'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Cheek_Icons/Cheeks_Diamonds_Red_Single_Icon.Cheeks_Diamonds_Red_Single_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Cheeks_Heart_Red_Single",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Cheeks/Cheeks_Heart_Red_Single.Cheeks_Heart_Red_Single'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Cheek_Icons/Cheeks_Heart_Red_Single_Icon.Cheeks_Heart_Red_Single_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Cheek_Blood_Slash",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Cheeks/Cheek_Blood_Slash.Cheek_Blood_Slash'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Cheek_Icons/Cheek_Blood_Slash_Icon.Cheek_Blood_Slash_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		}
+	]
+}

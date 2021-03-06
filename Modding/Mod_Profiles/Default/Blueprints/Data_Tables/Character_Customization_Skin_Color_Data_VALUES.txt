@@ -1,0 +1,281 @@
+{
+	"Rows": 
+	[
+		{
+			"RowName": "Skin1",
+			"Material": "MaterialInstanceConstant'/Game/Character/Body_Parts/Skin/Skin_1.Skin_1'",
+			"SwatchColor": 
+			{
+				"B": 232,
+				"G": 245,
+				"R": 255,
+				"A": 255
+			},
+			"HideFromPlayer": false
+		},
+		{
+			"RowName": "Skin2",
+			"Material": "MaterialInstanceConstant'/Game/Character/Body_Parts/Skin/Skin_2.Skin_2'",
+			"SwatchColor": 
+			{
+				"B": 229,
+				"G": 238,
+				"R": 248,
+				"A": 255
+			},
+			"HideFromPlayer": false
+		},
+		{
+			"RowName": "Skin3",
+			"Material": "MaterialInstanceConstant'/Game/Character/Body_Parts/Skin/Skin_3.Skin_3'",
+			"SwatchColor": 
+			{
+				"B": 203,
+				"G": 216,
+				"R": 242,
+				"A": 255
+			},
+			"HideFromPlayer": false
+		},
+		{
+			"RowName": "skin4",
+			"Material": "MaterialInstanceConstant'/Game/Character/Body_Parts/Skin/Skin_4.Skin_4'",
+			"SwatchColor": 
+			{
+				"B": 177,
+				"G": 187,
+				"R": 217,
+				"A": 255
+			},
+			"HideFromPlayer": false
+		},
+		{
+			"RowName": "skin5",
+			"Material": "MaterialInstanceConstant'/Game/Character/Body_Parts/Skin/Skin_5.Skin_5'",
+			"SwatchColor": 
+			{
+				"B": 134,
+				"G": 141,
+				"R": 198,
+				"A": 255
+			},
+			"HideFromPlayer": false
+		},
+		{
+			"RowName": "skin6",
+			"Material": "MaterialInstanceConstant'/Game/Character/Body_Parts/Skin/Skin_6.Skin_6'",
+			"SwatchColor": 
+			{
+				"B": 103,
+				"G": 125,
+				"R": 196,
+				"A": 255
+			},
+			"HideFromPlayer": false
+		},
+		{
+			"RowName": "Skin7",
+			"Material": "MaterialInstanceConstant'/Game/Character/Body_Parts/Skin/Skin_7.Skin_7'",
+			"SwatchColor": 
+			{
+				"B": 77,
+				"G": 94,
+				"R": 145,
+				"A": 255
+			},
+			"HideFromPlayer": false
+		},
+		{
+			"RowName": "Skin8",
+			"Material": "MaterialInstanceConstant'/Game/Character/Body_Parts/Skin/Skin_8.Skin_8'",
+			"SwatchColor": 
+			{
+				"B": 55,
+				"G": 66,
+				"R": 104,
+				"A": 255
+			},
+			"HideFromPlayer": false
+		},
+		{
+			"RowName": "Skin9",
+			"Material": "MaterialInstanceConstant'/Game/Character/Body_Parts/Skin/Skin_9.Skin_9'",
+			"SwatchColor": 
+			{
+				"B": 53,
+				"G": 56,
+				"R": 94,
+				"A": 255
+			},
+			"HideFromPlayer": false
+		},
+		{
+			"RowName": "Skin10",
+			"Material": "MaterialInstanceConstant'/Game/Character/Body_Parts/Skin/Skin_10.Skin_10'",
+			"SwatchColor": 
+			{
+				"B": 16,
+				"G": 19,
+				"R": 43,
+				"A": 255
+			},
+			"HideFromPlayer": false
+		},
+		{
+			"RowName": "Skin_Takeo",
+			"Material": "Material'/Game/Materials/Character_Body_Parts/Skin/Skin_Peach_Yakuza.Skin_Peach_Yakuza'",
+			"SwatchColor": 
+			{
+				"B": 16,
+				"G": 19,
+				"R": 43,
+				"A": 255
+			},
+			"HideFromPlayer": true
+		},
+		{
+			"RowName": "Skin_Jelmo",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Skin/Jelmo_Skin.Jelmo_Skin'",
+			"SwatchColor": 
+			{
+				"B": 16,
+				"G": 19,
+				"R": 43,
+				"A": 255
+			},
+			"HideFromPlayer": true
+		},
+		{
+			"RowName": "Skin_Alex",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Skin/Alex_Skin.Alex_Skin'",
+			"SwatchColor": 
+			{
+				"B": 16,
+				"G": 19,
+				"R": 43,
+				"A": 255
+			},
+			"HideFromPlayer": true
+		},
+		{
+			"RowName": "Skin_Ezekiel",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Skin/Ezekiel_Skin.Ezekiel_Skin'",
+			"SwatchColor": 
+			{
+				"B": 16,
+				"G": 19,
+				"R": 43,
+				"A": 255
+			},
+			"HideFromPlayer": true
+		},
+		{
+			"RowName": "Skin_Hyun",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Skin/Hyun_Jae_Skin.Hyun_Jae_Skin'",
+			"SwatchColor": 
+			{
+				"B": 16,
+				"G": 19,
+				"R": 43,
+				"A": 255
+			},
+			"HideFromPlayer": true
+		},
+		{
+			"RowName": "Skin_Kumoko",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Skin/Kumuko_Skin.Kumuko_Skin'",
+			"SwatchColor": 
+			{
+				"B": 16,
+				"G": 19,
+				"R": 43,
+				"A": 255
+			},
+			"HideFromPlayer": true
+		},
+		{
+			"RowName": "Skin_Jackie",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Skin/Jackie_Skin.Jackie_Skin'",
+			"SwatchColor": 
+			{
+				"B": 16,
+				"G": 19,
+				"R": 43,
+				"A": 255
+			},
+			"HideFromPlayer": true
+		},
+		{
+			"RowName": "Skin_Dirt",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Skin/Dirt_Skin.Dirt_Skin'",
+			"SwatchColor": 
+			{
+				"B": 16,
+				"G": 19,
+				"R": 43,
+				"A": 255
+			},
+			"HideFromPlayer": true
+		},
+		{
+			"RowName": "Skin_Lan",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Skin/LAN_Skin.LAN_Skin'",
+			"SwatchColor": 
+			{
+				"B": 16,
+				"G": 19,
+				"R": 43,
+				"A": 255
+			},
+			"HideFromPlayer": true
+		},
+		{
+			"RowName": "Skin_Blake",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Skin/Blake_Skin.Blake_Skin'",
+			"SwatchColor": 
+			{
+				"B": 16,
+				"G": 19,
+				"R": 43,
+				"A": 255
+			},
+			"HideFromPlayer": true
+		},
+		{
+			"RowName": "Skin_Melanie",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Skin/Melanie_Skin.Melanie_Skin'",
+			"SwatchColor": 
+			{
+				"B": 16,
+				"G": 19,
+				"R": 43,
+				"A": 255
+			},
+			"HideFromPlayer": true
+		},
+		{
+			"RowName": "Skin_Queen",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Skin/Queen_Skin.Queen_Skin'",
+			"SwatchColor": 
+			{
+				"B": 16,
+				"G": 19,
+				"R": 43,
+				"A": 255
+			},
+			"HideFromPlayer": true
+		},
+		{
+			"RowName": "Skin_Olive",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Skin/Olive_Skin.Olive_Skin'",
+			"SwatchColor": 
+			{
+				"B": 16,
+				"G": 19,
+				"R": 43,
+				"A": 255
+			},
+			"HideFromPlayer": true
+		}
+	]
+}

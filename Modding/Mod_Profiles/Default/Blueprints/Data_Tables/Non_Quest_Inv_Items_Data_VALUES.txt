@@ -1,0 +1,4289 @@
+{
+	"Rows": 
+	[
+		{
+			"RowName": "Item1CantBeGivenInQuest",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Item2",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Etc...Rownameisallthatmatters",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Fish_Grill",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Bug_Net_Diamond",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Bug_Net_Gold",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Bug_Net_Meteor",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Bug_Net_Silver",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Bug_Net_Steel",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Bug_Net_Titanium",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Bug_Net_Uranium",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Kitchenoid_Size_1",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Kitchenoid_Size_2",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Kitchenoid_Size_3",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Kitchenoid_Size_4",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Small_Bland_Kitchen",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Medium_Bland_Kitchen",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Medium_Dark_Kitchen",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Large_Bland_Kitchen",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Large_Dark_Kitchen",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Ultimate_Dark_Kitchen",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Ultimate_Bland_Kitchen",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Property_Voucher",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Quest_Ore",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Quest_Wood",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Quest_Bar",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Quest_Chair",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Quest_Pumpkin",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Quest_Flour",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Quest_Sugar",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Quest_Brush",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Quest_Shovel",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Quest_Planks",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Quest_Fodder",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Vibhats_Fishing_Rod",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Ezekiel_Pickaxe",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Fishtail_Skirt_Red",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Fishtail_Skirt_Black",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Fishtail_Skirt_Blue",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Fishtail_Skirt_Coffee",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Fishtail_Skirt_Dark_Blue",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Fishtail_Skirt_Dark_Brown",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Fishtail_Skirt_Dark_Green",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Fishtail_Skirt_Dark_Red",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Fishtail_Skirt_Green",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Fishtail_Skirt_Grey",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Fishtail_Skirt_Light_Blue",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Fishtail_Skirt_Magenta",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Fishtail_Skirt_Orange",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Fishtail_Skirt_Pink",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Fishtail_Skirt_Purple",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Fishtail_Skirt_White",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Fishtail_Skirt_Yellow",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Pencil_Skirt_Black",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Pencil_Skirt_Blue",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Pencil_Skirt_Coffee",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Pencil_Skirt_Dark_Blue",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Pencil_Skirt_Dark_Brown",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Pencil_Skirt_Dark_Green",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Pencil_Skirt_Dark_Red",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Pencil_Skirt_Green",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Pencil_Skirt_Grey",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Pencil_Skirt_Light_Blue",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Pencil_Skirt_Magenta",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Pencil_Skirt_Orange",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Pencil_Skirt_Pink",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Pencil_Skirt_Purple",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Pencil_Skirt_Red",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Pencil_Skirt_White",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Pencil_Skirt_Yellow",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Fishtail_Skirt_Red_Short",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Fishtail_Skirt_Short_Black",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Fishtail_Skirt_Short_Blue",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Fishtail_Skirt_Short_Coffee",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Fishtail_Skirt_Short_Dark_Blue",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Fishtail_Skirt_Short_Dark_Brown",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Fishtail_Skirt_Short_Dark_Green",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Fishtail_Skirt_Short_Dark_Red",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Fishtail_Skirt_Short_Green",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Fishtail_Skirt_Short_Grey",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Fishtail_Skirt_Short_Light_Blue",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Fishtail_Skirt_Short_Magenta",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Fishtail_Skirt_Short_Orange",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Fishtail_Skirt_Short_Pink",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Fishtail_Skirt_Short_Red",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Fishtail_Skirt_Short_White",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Fishtail_Skirt_Short_Yellow",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Long_Skirt_Black",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Long_Skirt_Blue",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Long_Skirt_Coffee",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Long_Skirt_Dark_Blue",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Long_Skirt_Dark_Red",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Long_Skirt_Dark_Green",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Long_Skirt_Dark_Brown",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Long_Skirt_Green",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Long_Skirt_Grey",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Long_Skirt_Light_Blue",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Long_Skirt_Magenta",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Long_Skirt_Orange",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Long_Skirt_Pink",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Long_Skirt_Purple",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Long_Skirt_Red",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Long_Skirt_White",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Long_Skirt_Yellow",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Smelter",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Sawmill",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Beer_Barrel",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Still",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Cheese_Maker",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Oil_Press",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Windmill",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Milk_Processor",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Dyeing_Pot",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Big_Backpack",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Small_Backpack",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Fish_Prep_Station",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Bee_Box",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Mailbox",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Paint_Bucket_Red",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Paint_Bucket_Green",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Paint_Bucket_Blue",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Wood_Stain_Dark",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Moving_Boxes",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Colored_Cloth",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Basket_Yarn",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Fabric_Bin",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Cafe_Outdoor_Tables",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Zoey_Earring_Quest",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Bar_Menu_Quest",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Bottle_Cap_Pin_Quest",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Key_Quest",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Book_Quest",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Basket_Fruit_Quest",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Takeo_Box",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Furniture_Delivery_Quest",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Abigail_Notebook_Quest",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Weed_Quest",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Medicine_Quest",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Paper_Quest",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Bead_Quest",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Magazine_Quest",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Shampoo_Quest",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Lunch_Bag_Quest",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Basket_Flowers_Quest",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Strawberries_Seeds",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Turnip_Seeds",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Wheat_Seeds",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Carrot_Seeds",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Corn_Seeds",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Leek_Seeds",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Onion_Seeds",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Potato_Seeds",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Almonds_Seeds",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Apple_Seeds",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Apricot_Seeds",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Artichoke_Seeds",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Asparagus_Seeds",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Avocado_Seeds",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Barley_Seeds",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Beet_Seeds",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Bell_Pepper_Seeds",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Blackberries_Seeds",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Broccoli_Seeds",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Brussel_Sprouts_Seeds",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Cabbage_Seeds",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Cantaloupe_Seeds",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Cauliflower_Seeds",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Celery_Seeds",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Cherries_Seeds",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Chestnut_Seeds",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Chickpeas_Seeds",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Collard_Green_Seeds",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Cotton_Seeds",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Cranberries_Seeds",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Cucumber_Seeds",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Dates_Seeds",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Durian_Seeds",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Eggplant_Seeds",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Fig_Seeds",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Grapes_Seeds",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Grapefruit_Seeds",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Green_Beans_Seeds",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Guava_Seeds",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Hazel_nut_Seeds",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Honey_Dew_Seeds",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Jalapeno_Seeds",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Kale_Seeds",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Lime_Seeds",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Lychees_Seeds",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Macadamia_Seeds",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Mandarin_Seeds",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Mango_Seeds",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Nutmeg_Seeds",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Olives_Seeds",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Orange_Seeds",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Papaya_Seeds",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Passion_Fruit_Seeds",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Peas_Seeds",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Peach_Seeds",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Peanuts_Seeds",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Pear_Seeds",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Peppercorn_Seeds",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Pineapple_Seeds",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Pistachios_Seeds",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Plum_Seeds",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Pomegranate_Seeds",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Pumpkin_Seeds",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Raspberries_Seeds",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Rhubarb_Seeds",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Soybeans_Seeds",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Spinach_Seeds",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Starfruit_Seeds",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Sugarcane_Seeds",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "SugarApple_Seeds",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Sweet_Potato_Seeds",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Tomato_Seeds",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Walnuts_Seeds",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Watermelon_Seeds",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Zucchini_Seeds",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Oats_Seeds",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Coconut_Seeds",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Black_Beans_Seeds",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Coffee_Seeds",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Blueberries_Seeds",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Bananas_Seeds",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Lettuce_Seeds",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Kidney_Beans_Seeds",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Lentils_Seeds",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Cocoa_Seeds",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Kumguats_Seeds",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Lemon_Seeds",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Cashews_Seeds",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Breadfruit_Seeds",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Dragonfruit_Seeds",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Sign_Kiwi",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Sign_Passion_Fruit",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Sign_Asparagus",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Sign_Potato",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Sign_Corn",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Sign_Turnip",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Sign_Leek",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Sign_Onion",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Sign_Wheat",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Sign_Carrot",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Sign_Soybeans",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Sign_Lettuce",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Sign_Rhubarb",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Sign_Peas",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Sign_Strawberries",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Sign_Green_Beans",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Sign_Artichoke",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Sign_Cranberries",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Sign_Pumpkin",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Sign_Sweet_Potato",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Sign_Cabbage",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Sign_Chickpeas",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Sign_Brussel_Sprouts",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Sign_Collard_Greens",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Sign_Barley",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Sign_Kidney_Beans",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Sign_Peppercorn",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Sign_Tomato",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Sign_Bell_Pepper",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Sign_Blackberries",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Sign_Raspberries",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Sign_Beet",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Sign_Grapes",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Sign_Oats",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Sign_Eggplant",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Sign_Broccoli",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Sign_Cauliflower",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Sign_Kale",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Sign_Sugarcane",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Sign_Lentils",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Sign_Spinach",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Sign_Cucumber",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Sign_Jalapeno",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Sign_Pineapple",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Sign_Watermelon",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Sign_Cotton",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Sign_Zucchini",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Sign_Cantaloupe",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Sign_Honey_Dew",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Sign_Celery",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Sign_Coffee",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Sign_Blueberries",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Sign_Black_Beans",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Sign_Peanuts",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Varsity_Jacket_Red",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Sprinkler",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Shipping_Bin",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Trash_Can",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Pecans_Seeds",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Book_Children",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Book_Classical",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Book_Crossword_Puzzles",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Book_Detective",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Book_Drama",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Book_Fables",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Book_Fairy_Tales",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Book_Fanfiction",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Book_Fantasy_Collection",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Book_Folklore",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Book_Ghost",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Book_Graphic_Novels",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Book_Harlequin_Romance",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Book_History_Collection",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Book_Horror_Stories",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Book_How_To",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Book_Humour",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Book_LGBT",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Book_Memoir",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Book_Mysteries",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Book_Philosophy",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Book_Poetry",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Book_Pulp_Fiction",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Book_Religious",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Book_Science",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Book_Sci_Fi",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Book_Short_Stories",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Book_Thriller",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Book_Wild_West",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Book_Witch",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Book_Young_Adult",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Owen_Seeds",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Pinball_Machine",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Red_King_Crab",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Fishing_Rod_Wooden",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Axe_Wooden",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Brush_Wooden",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Hoe_Wooden",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Pickaxe_Wooden",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Shears_Wooden",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Shovel_Wooden",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Sickle_Wooden",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Watering_Can_Wooden",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Aloe",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Raspberries",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Old_Boot",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Old_Can",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Old_Glass_Bottle",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Old_Netting",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Old_Plastic_Bag",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Old_Plastic_Bottle",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Old_Swim_Trunk",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Old_Tire",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Jar_Of_Stars_Red",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Jar_Of_Stars_Yellow",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Fishing_Rod_Meteor",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Axe_Meteor",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Brush_Meteor",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Hoe_Meteor",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Pickaxe_Meteor",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Shears_Meteor",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Shovel_Meteor",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Sickle_Meteor",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Watering_Can_Meteor",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Quest_Shipping_Boxes",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Cactus",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Mushroom_Seeds",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Modular_Picket_Fence_Peach",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Aloe_Seeds",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Garlic_Seeds",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Ginger_Seeds",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Vanilla_Seeds",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Wasabi_Seeds",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Thyme_Seeds",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Tarragon_Seeds",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Sorrel_Seeds",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Sage_Seeds",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Rosemary_Seeds",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Roosibos_Seeds",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Parsley_Seeds",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Oregano_Seeds",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Mustard_Seeds",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Mint_Seeds",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Lemon_Grass_Seeds",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Licorice_Seeds",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Horse_Radish_Seeds",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Dill_Weed_Seeds",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Curry_Seeds",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Cumin_Seeds",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Coriander_Seeds",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Cloves_Seeds",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Cinnamon_Seeds",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Chives_Seeds",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Chamomile_Seeds",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Capers_Seeds",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Cilantro_Seeds",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Camelia_Seeds",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Bay_Leaves_Seeds",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Basil_Seeds",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Sakura_Table",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Rose_Table",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Sakura_Chair",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Rose_Chair",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Rose_Water",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Sakura_Cookies",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Rose_Salad",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Honey_Lavender_Cheesecake",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "T_Shirt_Sakura",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "T_Shirt_Sunflower_Shirt",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Flower_Board_Shorts",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Rose_Dress",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "BBQ_Grill",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Balloons",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Picnic_table",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Outdoor_Pit",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Funnel_Cake",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "BBQ_Ribs",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Fizzy_Float",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Chicken_Waffles",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "T_Shirt_Fireworks",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Striped_Pants",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "T_Shirt_Sun",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Sleeveless_Shirt_Sun",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Sugar_Skull_Table",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Sugar_Skull_Chair",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Pumpkin_Table",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Pumpkin_Chair",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Pan_De_Muerto",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Tamale",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Sugar_Skulls",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Pumpkin_Spiced_Rum",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "T_Shirt_Sugar_Skull1",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "T_Shirt_Sugar_Skull2",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Skele_Pants",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Holiday_Tree_1",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Pile_O_Presents_1",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Stockings_1",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Snowman_1",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Wreath_1",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Eggnog",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Candy_Canes",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Gingerbread_Peeps",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Fruitcake",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Reindeer_Sweater",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Holiday_Sweater",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Snowman_Sweater",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Holiday_Skirt",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Orange_Table",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Orange_Chair",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Strawberry_Table",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Strawberry_Chair",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Cobbler_Ice_Cream",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Fruit_Roll_Cake",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Fruit_Pizza",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Melon_Hibiscus_Icecream",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Hawaiin_Shirt_1",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Hawaiin_Shirt_2",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Sarong_1",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Grass_Skirt",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Shark_Plushie",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Watermelon_Table",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Watermelon_Chair",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Fish_Table",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Fish_Chair",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Roti",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Salt_Fish_Bakes",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Beef_Patties",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Conch_Fritters",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Watermelon_Dress",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Watermelon_Shirt",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Carnival_Mask2",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Carnival_Mask1",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Skeleton_Scarecrow",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Pumpkin_Bean_Bag_Chair",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Coffin_Bed",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Spooky_Latern",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Samosa",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Aloo_Tikki",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Callaloo_Breadfruit",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Rose_Coconut",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Holiday_Tree_2",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Pile_O_Presents_2",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Stockings_2",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Snowman_2",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Wreath_2",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Sorrel_Drink",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Festive_Ham",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Kiwi_Seeds",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Maple_Chair",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Maple_Table",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Animal_Bell",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Modular_Metal_Fence_Black",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Modular_Beach_Fence_Brown",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Modular_Picket_Fence_White",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Modular_Picket_Fence_Rose",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Modular_Picket_Fence_Brown",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Short_Skirt_Blend_Pattern_Plaid_Red",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Short_Skirt_Blend_Pattern_Plaid_Blue",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Short_Skirt_Blend_Pattern_Plaid_Orange",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Short_Skirt_Blend_Pattern_Plaid_Green",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Long_Skirt_Blend_Pattern_Plaid_Red",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Long_Skirt_Blend_Pattern_Plaid_Blue",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Long_Skirt_Blend_Pattern_Plaid_Orange",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Long_Skirt_Blend_Pattern_Plaid_Green",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Long_Skirt_Blend_Pattern_Frilly_Crest_Teal",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Long_Skirt_Blend_Pattern_Flower_Power_Pink",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Long_Skirt_Blend_Pattern_Doily_Party_Aqua",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Long_Skirt_Blend_Pattern_Frilly_Crest_Red",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Socks_Knee_High_Yellow",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Socks_Knee_High_Red",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Socks_Knee_High_Purple",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Socks_Knee_High_Pink",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Socks_Knee_High_Orange",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Socks_Knee_High_Magenta",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Socks_Knee_High_Light_Blue",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Socks_Knee_High_White",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Socks_Knee_High_Grey",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Socks_Knee_High_Green",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Socks_Knee_High_Dark_Red",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Socks_Knee_High_Dark_Green",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Socks_Knee_High_Dark_Brown",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Socks_Knee_High_Dark_Blue",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Socks_Knee_High_Coffee",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Socks_Stripes_Yellow_Black",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Socks_Stripes_White_Black",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Socks_Stripes_Red_Black",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Socks_Stripes_Purple_Black",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Socks_Stripes_Orange_Black",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Socks_Stripes_Magenta_Black",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Socks_Stripes_Green_Black",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Socks_Stripes_Blue_Black",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Socks_Pattern_Checkered_Yellow",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Socks_Pattern_Checkered_Red",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Socks_Pattern_Checkered_Green",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Socks_Pattern_Checkered_Pink",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Socks_Pattern_Checkered_Blue",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Socks_Pattern_Streaky_Lines_Reds",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Socks_Pattern_Streaky_Lines_Purple",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Socks_Pattern_Streaky_Lines_Pink",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Socks_Pattern_Streaky_Lines_Grey",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Socks_Pattern_Streaky_Lines_Green",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Socks_Pattern_Streaky_Lines_Cream",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Socks_Pattern_Streaky_Lines_Blue",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Socks_Pattern_Streaky_Lines_Black",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Socks_Pattern_Missing_Dots_Purple",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Socks_Pattern_Missing_Dots_Pink",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Socks_Pattern_Missing_Dots_Grey",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Socks_Pattern_Missing_Dots_Green",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Socks_Pattern_Missing_Dots_Cream",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Socks_Pattern_Missing_Dots_Burgundy",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Socks_Pattern_Missing_Dots_Blue",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Socks_Pattern_Missing_Dots_Black",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Agrias",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Alpine_Black_Swallowtail",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "American_Lady",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Apollo_Butterfly",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Army_Ant",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Asian_Giant_Hornet",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Atlas",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Azure",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "bag_worm",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Bald_Faced_Hornet",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "banded",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Banded_Woolybear",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Bark_Scorpion",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "bell_cricket",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "bella_moth",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "big_headed",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "bird_wing",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Black_Ant",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "black_swallowtail",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Black_Widow",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "blue_eyed_darner",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "bordered_white",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "brown_cicada",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Brown_Recluse",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Bumble_Bee",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "burnet_moth",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "camel_cricket",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Carpenter_Ant",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Carpenter_Bee",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Carribbean_Crazy_Ant",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Cat_Face_Spider",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "centipede",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Cicada",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Coconut_Rhinocerus",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Comb_Claw_Spider",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "comet_moth",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "common_blue",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "common_green_darner",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "common_jezebel",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "cricket",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "crimson_rose",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "cyclommatus_stag",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Daddy_Long_Legs",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "damselfly",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "dead_leaf",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "death_s_head_hawkmoth",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "devil_mantis",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "diving_beetle",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Dogbane_Leaf",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "duke_of_burgundy",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Dung_Beetle",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "eastern_amberwing",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Eastern_Eyed_Click",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "eastern_pondhawk",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "elephant_hawk_moth",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Emerald_Ash_Borer",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Emperor",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "emperor_gum",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Emperor_Scorpion",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "evening_cicada",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Fire_Ant",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Firefly",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Flat_Rock_Scorpion",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Fly",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Four_Spot_Sap",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Fruit_Beetle",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Garden_Spider",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "ghost_mantis",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "ghost_moth",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "giant_cicada",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "giant_darner",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Giant_Hairy_Scorpion",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "giant_leopard",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "giant_malasian_shield_mantis",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "giant_petal_tail",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "giant_silkworm",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Giant_Stag",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "glass_jewel",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "glass_winged_butterfly",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Globemallow_Leaf",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "golden_birdwing",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Golden_Silk_Orbweaver",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Golden_Stag",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Golden_Tortoise",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Goliath_Beetle",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "goliath_birdwing",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "grasshopper",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "great_blue_skimmer",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Greater_Banded_Hornet",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Green_Crab_Spider",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Green_Lynx_Spider",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "halloween_pennant",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Honey_Bee",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Honey_Pot_Ant",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Horned_Atlas",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Horned_Dynastid",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Horned_Elephant",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Horned_Hercules",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "horse_lubber_grasshopper",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "house_centipede",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "hummingbird_hawk_moth",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Imperial_Tortoise",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Iron_Clad",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Jewel_Beetle",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "kaiser_i_hind",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "katydid",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Lady_Bug",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Lantern_Fly",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "large_red",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "latticed_heath",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Leaf_Cutter_Ant",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "leaf_mantis",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "lime_hawk_moth",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "locust",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Locust_Borer",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Longhorn_Beetle",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "luna_moth",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "madagascan_sunset",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Miyama_Stag",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "monarch",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "monarch_butterfly",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Mosquito",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Mud_Dauber",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Neon_Tortoise",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Oil_Beetle",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "orange_sulfur",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Orchid_Bee",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "orchid_mantis",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Oriental_Hornet",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Ox_Beetle",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "pale_beauty",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "peacock_butterfly",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "peppered_moth",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "pillbug",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "pink_flower_mantis",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Pleasing_Fungus",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "plume",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "praying_mantis",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "promethea_silkmoth",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Rainbow_Stag",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "raja_brooke",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Red_Ant_Mimic_Spider",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Red_Velvet_Ant",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Reddish_Potato",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "rhetenor_blue_morpho",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "saddleback",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Saw_Stag",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Scarab_Beetle",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "scarlet_darter",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "scorpion",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "small_white",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "southern_hawker",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "spotted_apatelodes",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "spotted_tussock",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "spun_glass",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "stick_mantis",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "stinging_rose",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "stink_bug",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "summer_azure",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Tarantula",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "tau_emerald",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "thailand_cicada",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "thistle_mantis",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Tiger_Beetle",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "tiger_butterfly",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Trilobite",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "tropical_rockmaster",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Venusta_Orchard_Spider",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Violin_Beetle",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "violin_mantis",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "walking_leaf",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "walking_stick",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Wasp",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "wattle_cup",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "wharf_roach",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Wolf_Spider",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Yellow_Hornet",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Yellow_Jacket",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Zebra_Jumping_Spider",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "zebra_lapwing",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "zebra_swallow_tail",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Quest_Crates",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Quest_Letter",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Quest_Faiyaz_Axe",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Anubis_Large",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Anubis_Small",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Egyptian_Arch_Decor",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Egyptian_Cat",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Egyptian_Chair",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Egyptian_Column1",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Egyptian_Column2",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Egyptian_Column3",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Egyptian_Column4",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Egyptian_Column5",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Egyptian_Head",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Egyptian_Pot",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Egyptian_Wall2_Decor",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Egyptian_Wall_Decor",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Female_Statue",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Greek_Bust",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Greek_Woman_Sculpture",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Happy_Cats",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Lucky_Cat",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Marble_Column_Short",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Old_Chinese_Statue",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Terracotta_Warrior_1",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Terracotta_Warrior_2",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Terracotta_Warrior_3",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Terracotta_Warrior_4",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Terracotta_Warrior_Horse",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Wooden_Dog",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Wooden_Elephant",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Wooden_Monkey",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Tile_Brick",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Tile_Brown",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Tile_Granite",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Tile_Marble",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Wall_Big",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Wall_Small",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Cake_Thank_You",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Cake_Jounce",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Thank_You_Trophy",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Thank_You_Sculpture",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Torch",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Truffles",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Coco_Cow_Milk",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Golden_Egg",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Rainbow_Wool",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Truffle_Fries",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Truffle_Chocolates",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Corner_Shelf",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Gold_Chimes",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Silver_Chimes",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Display_Case_Heptagon",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Display_Case_Jewlery",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Cards_Bed",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Cards_Bookshelf",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Clouds_Bed",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Rainbow_Bench",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Cloud_Chair",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Cloud_Couch",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Cloud_Lamp",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Cloud_TV",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Rainbow_Bookshelf",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Shell_Bed",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Shell_Couch",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Shell_Table",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Shell_Wardrobe",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Festival_Trophy",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Toaster_Oven",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Toolbox_Open",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Venus_Flytrap_Seeds",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Glowing_Mushrooms_Seeds",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Pumpkin_Snow_Seeds",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Pumpkin_Gold_Seeds",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Pumpkin_Green_Seeds",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Crattuce_Seeds",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Blapple_Seeds",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Bellchees_Seeds",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Cocoberries_Seeds",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Black_Beet_Seeds",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Ginger_Dragon_Seeds",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Sugarnut_Seeds",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Raspkins_Seeds",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Pealum_Seeds",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Bluerries_Seeds",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Banapple_Seeds",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Grapple_Seeds",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Zuccorn_Seeds",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Brocados_Seeds",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Spinip_Seeds",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Jalaplant_Seeds",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Tomatelons_Seeds",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Potarrots_Seeds",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Tomatelons",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Kangaroo_Paw_Seeds",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Columbine_Seeds",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Sunflower_Seeds",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Zinnia_Seeds",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Violet_Seeds",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Verbana_Seeds",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Trillium_Seeds",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Stokesia_Seeds",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Star_Scabiosa_Seeds",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Spirea_Seeds",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Sneezeweed_Seeds",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Scilla_Seeds",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Sandersonia_Seeds",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Rose_Seeds",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Purple_Hydrangea_Seeds",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Pride_Of_Madeira_Seeds",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Poppy_Seeds",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Poinsettia_Seeds",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Petunia_Seeds",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Passion_Flower_Seeds",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Orchid_Seeds",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Nigella_Seeds",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Morning_Glory_Seeds",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Mariposas_De_Cuba_Seeds",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Lavender_Seeds",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Lambs_Ear_Seeds",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Jade_Vine_Flower_Seeds",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Iris_Seeds",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Iris_Cristata_Seeds",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Hyacinth_Seeds",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Hollyhock_Alcea_Seeds",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Hellebore_Seeds",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Greenovia_Dodrentalis_Seeds",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Gladiolus_Seeds",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Gentian_Seeds",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Gardenia_Seeds",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Forget_Me_Not_Seeds",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Fiddle_Fern_Seeds",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Echinacea_Aster_Seeds",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Echeveria_Seeds",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Delphinium_Seeds",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Day_Lily_Hemerocallis_Seeds",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Daisy_Seeds",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Daffodil_Seeds",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Cymbidium_Orchid_Seeds",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Cotyledon_Blossoms_Seeds",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Cosmos_Seeds",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Colombine_Seeds",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Coelogyne_Pandurata_Seeds",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Chrysanthemum_Seeds",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Carnation_Seeds",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Canna_Seeds",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Blue_Hydrangea_Seeds",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Black_Iris_Seeds",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "BlackDahlia_Seeds",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Bird_Of_Paradise_Seeds",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Bee_Balm_Seeds",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Babys_Breath_Seeds",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Angelonia_Seeds",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Alstroemeria_Seeds",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Adonis_Seeds",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Acanthus_Seeds",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Juniper_Berries_Seeds",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Jam_Processor",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Juice_Processor",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Icecream_Processor",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Bread_Processor",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Candy_Processor",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Book_Romance",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Cool_Jacket_Blue",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Simple_Over_Shirt_Blue",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Punk_Dress_Black",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Shirt_Suspenders_Black",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Red_Paper",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Buddhe_Head_Clay",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Buddhe_Head_Stone",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Buddhe_Head_Gold",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Worried_Lady_Bust_Clay",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Worried_Lady_Bust_Stone",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Worried_Lady_Bust_Gold",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Greek_Helmet",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Medieval_Statue_2",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Medieval_Statue_1",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Star_Crafting_Kit",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Feeding_Dispenser_Large",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Feeding_Dispenser_Small",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Artifact_Tablet_1",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Artifact_Tablet_2",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Artifact_Tablet_3",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Artifact_Tablet_4",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Artifact_Tablet_5",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Artifact_Tablet_6",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Artifact_Tablet_7",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Artifact_Tablet_8",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Artifact_Tablet_9",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Artifact_Tablet_10",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Artifact_Tablet_11",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Artifact_Tablet_12",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Raisons",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Wedding_Dress_Cute_White",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Wedding_Dress_Cute_Black",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Wedding_Dress_Cute_Pink",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Wedding_Dress_Cute_Grey",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Wedding_Dress_Spicy_Grey",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Wedding_Dress_Spicy_White",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Wedding_Dress_Spicy_Pink",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Wedding_Dress_Spicy_Black",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Tuxedo_Black",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Tuxedo_White",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Tuxedo_Pink",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Tuxedo_Grey",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Teddy_Zoey",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Teddy_Takeo",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Teddy_Abigail",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Teddy_Emi",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Teddy_Tierra",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Teddy_Vera",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Teddy_Joan",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Teddy_Alec",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Teddy_Alex",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Teddy_Black_Mask",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Teddy_Claudio",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Teddy_Dahlia",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Teddy_Dee",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Teddy_Evan",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Teddy_Ezekiel",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Teddy_Faiyaz",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Teddy_Gelfie",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Teddy_Hyun_Jae",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Teddy_Iris",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Teddy_Jaime",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Teddy_Jelmo",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Teddy_Jim",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Teddy_Kumoko",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Teddy_Lily",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Teddy_Nicolas",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Teddy_Rose",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Teddy_Sebastian",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Teddy_Tanis",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Teddy_Tessa",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Teddy_Tucker",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Teddy_Vibhat",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Teddy_Jackie",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Teddy_Orpheus",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Teddy_Ash",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Teddy_Dirt",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Teddy_Duante",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Teddy_Eugene",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Teddy_Ikaia",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Teddy_Jabalah",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Teddy_Kaine",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Teddy_Pete",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Teddy_Tuesday",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Teddy_Zarita",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Teddy_Rosario",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Teddy_Queen",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Teddy_Nicki",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Teddy_Mike",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Teddy_Melanie",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Teddy_Masika",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Teddy_Manaka",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Teddy_Lisa",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Teddy_Kishan",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Teddy_Jade",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Teddy_Joelle",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Teddy_Jemma",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Teddy_Casey",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Teddy_Charu",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Teddy_Clara",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Teddy_Govind",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Teddy_Haku",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Teddy_Valerie",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Teddy_Jacqueline",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Teddy_Dewain",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Teddy_Charlie",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Teddy_Rashida",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Teddy_Harsha",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Teddy_Blake",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Proposal_Ring",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Spouse_Storage",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Emu_Egg",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Teddy_Meredith",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Teddy_Forrest",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Teddy_Olive",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Teddy_Elo",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Teddy_Toni",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Teddy_Frogman",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Teddy_Alexis",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Teddy_Korin",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Teddy_Jen",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Teddy_Lan",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Teddy_Bishop",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Teddy_Clem",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Teddy_Farah",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Teddy_Fasha",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Teddy_Hank",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Teddy_Hideo",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Teddy_Hien",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Teddy_Hikaru",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Teddy_James",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Teddy_Joshua",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Teddy_Katherine",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Teddy_Kim",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Teddy_Liam",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Teddy_Lonan",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Teddy_Loxi",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Teddy_Luis",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Teddy_Min",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Teddy_Natsuo",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Teddy_Nora",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Teddy_Tai",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Teddy_Tanya",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Teddy_Tiffani",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Teddy_Yuki",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Teddy_Ross",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Teddy_Finn",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Shopping_Cart",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Candle_Altar",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Jounce_Liquid_Apple",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Jounce_Liquid_Lemon",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Jounce_Liquid_Orange",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Jounce_Liquid_Strawberry",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Jounce_Liquid_Peach",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Jounce_Liquid",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Apple_Special",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Apple_Special_Seeds",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Lemon_Special",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Lemon_Special_Seeds",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Grapes_Special",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Grapes_Special_Seeds",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Peach_Special",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Peach_Special_Seeds",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Strawberries_Special",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Strawberries_Special_Seeds",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Orange_Special",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Orange_Special_Seeds",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Jounce_Machine",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "T_Shirt_Jounce_Green",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "T_Shirt_Jounce_Purple",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "T_Shirt_Cock",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "T_Shirt_Cool_Beans",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "T_Shirt_Dirty_Hoe",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "T_Shirt_Gold_Digger",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "T_Shirt_Heavy_Metal",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "T_Shirt_Mother_Clucker",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "T_Shirt_Net_Fish_Chill",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Recycler",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Recycling_Voucher",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Veggie_Soup",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Snail",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "devil_mantisw",
+			"IntProperty": 0
+		}
+	]
+}

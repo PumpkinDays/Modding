@@ -1,0 +1,93 @@
+{
+	"Rows": 
+	[
+		{
+			"RowName": "Takeo",
+			"Causes":
+			[
+				"Unknown",
+				"Tool",
+				"Food",
+				"Swimming",
+				"Bugs",
+				"Tired"
+			],
+			"CauseDialogue":
+			[
+				"I'm not sure what happened to you, yet here you are.",
+				"Why did you overwork yourself *Playername*?",
+				"I'm not sure what you ate, but just don't next time *Playername*.",
+				"I see you like swimming *Playername*... Don't push yourself next time...",
+				"That was a nasty bug sting, but you'll be fine now...",
+				"I know you just collasped from lack of sleep...But I'm still going to have to charge you because we had to make sure you were ok."
+			],
+			"Suffix": "I have to charge you {AmountCharged} gold, which is {PercentCost}% of your gold."
+		},
+		{
+			"RowName": "Manaka",
+			"Causes":
+			[
+				"Unknown",
+				"Tool",
+				"Food",
+				"Swimming",
+				"Bugs",
+				"Tired"
+			],
+			"CauseDialogue":
+			[
+				"I'm not sure what happened to you, yet here you are.",
+				"You worked yourself too hard... please be more careful next time!",
+				"Looks like you ate something awful... you'll be fine now my dear.",
+				"I know the ocean is very enticing, but you must know your limits *Playername*.",
+				"That was a nasty bug sting... you're all better now and free to go home.",
+				"Looks like you just stayed up too late. I still have to charge you because we had to make sure you were ok."
+			],
+			"Suffix": "That will be {AmountCharged} gold, which is {PercentCost}% of your gold."
+		},
+		{
+			"RowName": "Lan",
+			"Causes":
+			[
+				"Unknown",
+				"Tool",
+				"Food",
+				"Swimming",
+				"Bugs",
+				"Tired"
+			],
+			"CauseDialogue":
+			[
+				"I do not know what caused you to be incapacitated.",
+				"It appears as though you were suffering from being overworked.",
+				"Please do not consume dubious things *Playername*.",
+				"Swimming is fun, but please do not over do it *Playername*",
+				"I took care of that bug sting for you.",
+				"Humans need sleep to function. So please sleep before you faint."
+			],
+			"Suffix": "That will be {AmountCharged} gold, which is {PercentCost}% of your gold."
+		},
+		{
+			"RowName": "Hank",
+			"Causes":
+			[
+				"Unknown",
+				"Tool",
+				"Food",
+				"Swimming",
+				"Bugs",
+				"Tired"
+			],
+			"CauseDialogue":
+			[
+				"I have no idea what happened to you, but here you are. Just go home, and don't do anything weird again.",
+				"Can you just not. Eat something, or take a nap it's not that hard. You're fine, just go home.",
+				"What the hell did you even eat? Whatever, just don't again.",
+				"What the heck were you doing swimming in this area? Are you daft? Just go home.",
+				"Huh, that's interesting. We don't have bugs in this area, yet here you are. Go home and put an ice pack on it.",
+				"You passed out and knocked your head. Make sure you take a nap every 24 hours ok. It's not that hard I promise. Alright get outta here."
+			],
+			"Suffix": "That will be {AmountCharged} gold, which is {PercentCost}% of your gold."
+		}
+	]
+}

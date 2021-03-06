@@ -1,0 +1,13 @@
+{
+	"Rows": 
+	[
+		{
+			"RowName": "Laying_on_BedV2",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Sleep_C",
+			"IntProperty": 0
+		}
+	]
+}

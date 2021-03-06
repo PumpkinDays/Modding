@@ -1,0 +1,158 @@
+{
+	"Rows": 
+	[
+		{
+			"RowName": "Pumpkinvale",
+			"EventStartingDialogue": "The {EventTitle} is about to start, would you like to participate?",
+			"NoEventsLeftDialogue": "There aren't any events left today. Go enjoy the rest of the festival",
+			"SpringMinigames":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"MinigameRow": "P_Cooking"
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"MinigameRow": "P_Cooking2"
+					}
+				}
+			],
+			"SummerMinigames":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"MinigameRow": "P_Fishing"
+					}
+				}
+			],
+			"FallMinigames":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"MinigameRow": "P_Bug_Catching"
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"MinigameRow": "P_Bug_Catching2"
+					}
+				}
+			],
+			"WinterMinigames":
+			[]
+		},
+		{
+			"RowName": "Wahoo_Beach",
+			"EventStartingDialogue": "The {EventTitle} is about to start, would you like to participate?",
+			"NoEventsLeftDialogue": "There aren't any events left today. I hope you are having fun!",
+			"SpringMinigames":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"MinigameRow": "W_Cooking"
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"MinigameRow": "W_Cooking2"
+					}
+				}
+			],
+			"SummerMinigames":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"MinigameRow": "W_Fishing"
+					}
+				}
+			],
+			"FallMinigames":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"MinigameRow": "W_Bug_Catching"
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"MinigameRow": "W_Bug_Catching2"
+					}
+				}
+			],
+			"WinterMinigames":
+			[]
+		},
+		{
+			"RowName": "Diamond_Falls",
+			"EventStartingDialogue": "The {EventTitle} is about to start, would you like to participate?",
+			"NoEventsLeftDialogue": "There aren't any events left today. Just enjoy the rest of the festival!",
+			"SpringMinigames":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"MinigameRow": "D_Cooking"
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"MinigameRow": "D_Cooking2"
+					}
+				}
+			],
+			"SummerMinigames":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"MinigameRow": "D_Fishing"
+					}
+				}
+			],
+			"FallMinigames":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"MinigameRow": "D_Cooking"
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"MinigameRow": "D_Cooking2"
+					}
+				}
+			],
+			"WinterMinigames":
+			[]
+		}
+	]
+}

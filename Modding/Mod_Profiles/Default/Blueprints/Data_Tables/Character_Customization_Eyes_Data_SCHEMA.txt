@@ -1,0 +1,9 @@
+Character_Customization_Eyes_Data Structure:
+
+RowName: string
+Mesh: UStaticMesh*
+MeshAsSkeleton: USkeletalMesh*
+Material: UMaterialInterface*
+Thumbnail: UTexture2D*
+AvailableInCharCreation: true/false
+AvailableInOther: true/false

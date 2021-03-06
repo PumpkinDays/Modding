@@ -1,0 +1,3 @@
+Non_Quest_Inv_Items_Data Structure:
+
+IntProperty: integer

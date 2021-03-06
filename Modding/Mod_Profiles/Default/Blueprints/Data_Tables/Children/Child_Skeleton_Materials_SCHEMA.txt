@@ -1,0 +1,5 @@
+Child_Skeleton_Materials Structure:
+
+Eyebrows: integer
+Eyes: integer
+Mouth: integer

@@ -1,0 +1,49 @@
+{
+	"Rows": 
+	[
+		{
+			"RowName": "Kitchenoid_size_1",
+			"IntProperty": 2
+		},
+		{
+			"RowName": "Kitchenoid_size_2",
+			"IntProperty": 3
+		},
+		{
+			"RowName": "Kitchenoid_size_3",
+			"IntProperty": 4
+		},
+		{
+			"RowName": "Kitchenoid_size_4",
+			"IntProperty": 6
+		},
+		{
+			"RowName": "Small_Bland_Kitchen",
+			"IntProperty": 2
+		},
+		{
+			"RowName": "Medium_Bland_Kitchen",
+			"IntProperty": 3
+		},
+		{
+			"RowName": "Medium_Dark_Kitchen",
+			"IntProperty": 3
+		},
+		{
+			"RowName": "Large_Bland_Kitchen",
+			"IntProperty": 6
+		},
+		{
+			"RowName": "Large_Dark_Kitchen",
+			"IntProperty": 6
+		},
+		{
+			"RowName": "Ultimate_Dark_Kitchen",
+			"IntProperty": 6
+		},
+		{
+			"RowName": "Ultimate_Bland_Kitchen",
+			"IntProperty": 6
+		}
+	]
+}

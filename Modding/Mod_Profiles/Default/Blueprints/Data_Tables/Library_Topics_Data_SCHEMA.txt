@@ -1,0 +1,14 @@
+Library_Topics_Data Structure:
+
+Title: string
+Description: string
+Thumbnail: UTexture2D*
+Background: UTexture2D*
+UnlockDate: 
+	Season: ONE of
+		Spring
+		Summer
+		Fall
+		Winter
+	DayOfSeason: integer
+	Year: integer

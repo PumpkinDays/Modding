@@ -1,0 +1,25 @@
+{
+	"Rows": 
+	[
+		{
+			"RowName": "Spring",
+			"Season": 0,
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Misc/Spring.Spring'"
+		},
+		{
+			"RowName": "Summer",
+			"Season": 0,
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Misc/Summer.Summer'"
+		},
+		{
+			"RowName": "Fall",
+			"Season": 2,
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Misc/Fall.Fall'"
+		},
+		{
+			"RowName": "Winter",
+			"Season": 3,
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Misc/Winter.Winter'"
+		}
+	]
+}

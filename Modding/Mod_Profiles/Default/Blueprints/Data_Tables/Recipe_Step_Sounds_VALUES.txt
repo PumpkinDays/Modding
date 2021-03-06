@@ -1,0 +1,33 @@
+{
+	"Rows": 
+	[
+		{
+			"RowName": "Chop",
+			"SoundProperty": "SoundWave'/Game/Sounds/Sound_Effects/Chopping_Food.Chopping_Food'"
+		},
+		{
+			"RowName": "Mix",
+			"SoundProperty": "SoundWave'/Game/Sounds/Sound_Effects/Mixing.Mixing'"
+		},
+		{
+			"RowName": "Fry",
+			"SoundProperty": "SoundWave'/Game/Sounds/Sound_Effects/Frying.Frying'"
+		},
+		{
+			"RowName": "Bake",
+			"SoundProperty": "SoundWave'/Game/Sounds/Sound_Effects/Timer.Timer'"
+		},
+		{
+			"RowName": "Boil",
+			"SoundProperty": "SoundWave'/Game/Sounds/Sound_Effects/Boiling.Boiling'"
+		},
+		{
+			"RowName": "Assemble",
+			"SoundProperty": "SoundWave'/Game/Sounds/Sound_Effects/Hammering.Hammering'"
+		},
+		{
+			"RowName": "Saw",
+			"SoundProperty": "SoundWave'/Game/Sounds/Sound_Effects/Sawing.Sawing'"
+		}
+	]
+}

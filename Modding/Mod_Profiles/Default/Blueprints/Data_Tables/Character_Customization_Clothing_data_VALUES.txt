@@ -1,0 +1,89 @@
+{
+	"Rows": 
+	[
+		{
+			"RowName": "None_",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Cheek_Icons/Blank.Blank'",
+			"ClothingItems":
+			[
+				"None"
+			]
+		},
+		{
+			"RowName": "Blue_Overalls",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Clothes/Overalls_Icon_Blue.Overalls_Icon_Blue'",
+			"ClothingItems":
+			[
+				"T_Shirt_White",
+				"Overalls_Blue",
+				"Loafers_Black"
+			]
+		},
+		{
+			"RowName": "Red_Overalls",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Clothes/Overalls_Icon_Red.Overalls_Icon_Red'",
+			"ClothingItems":
+			[
+				"T_Shirt_White",
+				"Loafers_Black",
+				"Overalls_Red"
+			]
+		},
+		{
+			"RowName": "Pink_Overalls",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Clothes/Overalls_Icon_Pink.Overalls_Icon_Pink'",
+			"ClothingItems":
+			[
+				"T_Shirt_White",
+				"Overalls_Pink",
+				"Loafers_Black"
+			]
+		},
+		{
+			"RowName": "Brown_Overalls",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Clothes/Overalls_Icon_Brown.Overalls_Icon_Brown'",
+			"ClothingItems":
+			[
+				"T_Shirt_White",
+				"Overalls_Brown",
+				"Loafers_Black"
+			]
+		},
+		{
+			"RowName": "Peasant_Dress_Blue",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Clothes/Dress_Icon_Blue.Dress_Icon_Blue'",
+			"ClothingItems":
+			[
+				"Peasant_Dress_Blue",
+				"Loafers_Black"
+			]
+		},
+		{
+			"RowName": "Peasant_Dress_Red",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Clothes/Dress_Icon_Red.Dress_Icon_Red'",
+			"ClothingItems":
+			[
+				"Peasant_Dress_Red",
+				"Loafers_Black"
+			]
+		},
+		{
+			"RowName": "Peasant_Dress_Grey",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Clothes/Dress_Icon_Grey.Dress_Icon_Grey'",
+			"ClothingItems":
+			[
+				"Peasant_Dress_Grey",
+				"Loafers_Black"
+			]
+		},
+		{
+			"RowName": "Peasant_Dress_Orange",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Clothes/Dress_Icon_Orange.Dress_Icon_Orange'",
+			"ClothingItems":
+			[
+				"Peasant_Dress_Orange",
+				"Loafers_Black"
+			]
+		}
+	]
+}

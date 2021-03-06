@@ -1,0 +1,3 @@
+Gift_Shop_Unlocks Structure:
+
+IntProperty: integer

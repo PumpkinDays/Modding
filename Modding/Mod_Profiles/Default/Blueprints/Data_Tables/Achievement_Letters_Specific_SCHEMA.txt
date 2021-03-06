@@ -1,0 +1,21 @@
+Achievement_Letters_Specific Structure:
+
+Values: 
+	Action: string
+	Item: string
+	Amount: float
+Letter: 
+	Subject: string
+	Body: string
+	Sender: string
+	AttachedItem: 
+		RowName: string
+		StackAmount: integer
+		OptionsString: string
+		ExtraOptions: TArray-FExtraOption
+	AttachedGold: integer
+	Identifier: integer
+PumpkinvaleNpc: string
+WahooNpc: string
+DiamondFallsNpc: string
+HeartPoints: float

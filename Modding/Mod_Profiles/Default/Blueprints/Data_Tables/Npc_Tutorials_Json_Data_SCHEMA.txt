@@ -1,0 +1,10 @@
+Npc_Tutorials_Json_Data Structure:
+
+JsonData: string
+QuestTitle: string
+Npc: string
+ShortDescription: string
+LongDescription: string
+RequiredInvSlots: uint8
+DisableSchedule: true/false
+QuestTown: string

@@ -1,0 +1,47 @@
+{
+	"Rows": 
+	[
+		{
+			"RowName": "P_Fishing",
+			"Easy": 
+			{
+				"Value1st": 250,
+				"Value2nd": 200,
+				"Value3rd": 150
+			},
+			"Medium": 
+			{
+				"Value1st": 250,
+				"Value2nd": 290,
+				"Value3rd": 300
+			},
+			"Hard": 
+			{
+				"Value1st": 450,
+				"Value2nd": 350,
+				"Value3rd": 300
+			}
+		},
+		{
+			"RowName": "D_Fishing",
+			"Easy": 
+			{
+				"Value1st": 23,
+				"Value2nd": 22,
+				"Value3rd": 20
+			},
+			"Medium": 
+			{
+				"Value1st": 25,
+				"Value2nd": 23,
+				"Value3rd": 22
+			},
+			"Hard": 
+			{
+				"Value1st": 30,
+				"Value2nd": 28,
+				"Value3rd": 27
+			}
+		}
+	]
+}

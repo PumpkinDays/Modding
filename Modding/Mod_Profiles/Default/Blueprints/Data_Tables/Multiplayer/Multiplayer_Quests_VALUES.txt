@@ -1,0 +1,815 @@
+{
+	"Rows": 
+	[
+		{
+			"RowName": "Farming_Quest1",
+			"QuestTitle": "Ship {ItemAmount} crops",
+			"QuestDescription": "Ship 20 crops. If you need help on how to grow crops read the farm books at the local library for help.",
+			"BeginningOfQuestLine": true,
+			"QuestType": 2,
+			"Item": "Ctg_Crops",
+			"Amount": 10,
+			"NextQuestRow": "Farming_Quest2",
+			"Letters": 
+			{
+				"ActivatedLetter": 
+				{
+					"Subject": "",
+					"Body": "",
+					"Sender": "",
+					"AttachedItem": 
+					{
+						"RowName": "None",
+						"StackAmount": 0,
+						"OptionsString": "",
+						"ExtraOptions":
+						[]
+					},
+					"AttachedGold": 0,
+					"Identifier": 0
+				},
+				"CompletedLetter": 
+				{
+					"Subject": "Good Job!",
+					"Body": "Good job on shipping those crops! I've included some potato seeds that you can grow in any season. Why don't you try getting some fertilizer for them? Your journal should be updated with the new fertilizer goal.",
+					"Sender": "Unknown",
+					"AttachedItem": 
+					{
+						"RowName": "Potato_Seeds",
+						"StackAmount": 20,
+						"OptionsString": "",
+						"ExtraOptions":
+						[]
+					},
+					"AttachedGold": 0,
+					"Identifier": 0
+				}
+			}
+		},
+		{
+			"RowName": "Farming_Quest2",
+			"QuestTitle": "Get Some Fertilizer",
+			"QuestDescription": "You can buy some fertilizer at the local farm shop. Applying fertilizer to crops will increase their yield.",
+			"BeginningOfQuestLine": false,
+			"QuestType": 1,
+			"Item": "Fertilizer",
+			"Amount": 1,
+			"NextQuestRow": "Farming_Quest3",
+			"Letters": 
+			{
+				"ActivatedLetter": 
+				{
+					"Subject": "",
+					"Body": "",
+					"Sender": "",
+					"AttachedItem": 
+					{
+						"RowName": "None",
+						"StackAmount": 0,
+						"OptionsString": "",
+						"ExtraOptions":
+						[]
+					},
+					"AttachedGold": 0,
+					"Identifier": 0
+				},
+				"CompletedLetter": 
+				{
+					"Subject": "Fertilizer Obtained!",
+					"Body": "Fertilizer is really nice, huh? You can make your own fertilizer by gathering poop from animals and putting it in a fertlizer bin . Next how about you try to buy a better farm tool. I think a better watering can is in order. A better watering can will let you water more plots at a time. Your journal should be updated with this new goal.",
+					"Sender": "Unnkown",
+					"AttachedItem": 
+					{
+						"RowName": "Fertilizer",
+						"StackAmount": 20,
+						"OptionsString": "",
+						"ExtraOptions":
+						[]
+					},
+					"AttachedGold": 0,
+					"Identifier": 0
+				}
+			}
+		},
+		{
+			"RowName": "Farming_Quest3",
+			"QuestTitle": "Gold Watering Can",
+			"QuestDescription": "Obtain a gold watering can. You can buy one at the blacksmith if it's available. You can also craft one if you have the tools.",
+			"BeginningOfQuestLine": false,
+			"QuestType": 1,
+			"Item": "Watering_Can_Gold",
+			"Amount": 1,
+			"NextQuestRow": "Farming_Quest4",
+			"Letters": 
+			{
+				"ActivatedLetter": 
+				{
+					"Subject": "",
+					"Body": "",
+					"Sender": "",
+					"AttachedItem": 
+					{
+						"RowName": "None",
+						"StackAmount": 0,
+						"OptionsString": "",
+						"ExtraOptions":
+						[]
+					},
+					"AttachedGold": 0,
+					"Identifier": 0
+				},
+				"CompletedLetter": 
+				{
+					"Subject": "Congrats On Getting a Better Tool",
+					"Body": "Congrats on getting a better watering can! There are more tiers of watering cans that you can obtain. The highest tier tools are ones made using polished meteors. Hey, I know! How about you try and get a meteor hoe! This is the best hoe in the game allowing you to set down 36 plots at once! You'll need to find the ores and craft it yourself though. Good luck! Here's some extra gold to help you out.",
+					"Sender": "Unknown",
+					"AttachedItem": 
+					{
+						"RowName": "None",
+						"StackAmount": 0,
+						"OptionsString": "",
+						"ExtraOptions":
+						[]
+					},
+					"AttachedGold": 1000,
+					"Identifier": 0
+				}
+			}
+		},
+		{
+			"RowName": "Farming_Quest4",
+			"QuestTitle": "Get a Meteor Hoe",
+			"QuestDescription": "Craft a meteor hoe! Meteor tools are the best kinds of tools in the game. I will need a gem polishing station to polish the meteors, which can be found in the deepest areas of the mines.",
+			"BeginningOfQuestLine": false,
+			"QuestType": 1,
+			"Item": "Hoe_Meteor",
+			"Amount": 1,
+			"NextQuestRow": "None",
+			"Letters": 
+			{
+				"ActivatedLetter": 
+				{
+					"Subject": "",
+					"Body": "",
+					"Sender": "",
+					"AttachedItem": 
+					{
+						"RowName": "None",
+						"StackAmount": 0,
+						"OptionsString": "",
+						"ExtraOptions":
+						[]
+					},
+					"AttachedGold": 0,
+					"Identifier": 0
+				},
+				"CompletedLetter": 
+				{
+					"Subject": "Meteor Hoe Obtained!",
+					"Body": "Oh, wow you made a meteor hoe already! Nice! Well, I think you've got a good handle on how to farm. Good luck with the rest of your journey. I've included a special processor for you!",
+					"Sender": "Unknown",
+					"AttachedItem": 
+					{
+						"RowName": "Jam_Processor",
+						"StackAmount": 1,
+						"OptionsString": "",
+						"ExtraOptions":
+						[]
+					},
+					"AttachedGold": 0,
+					"Identifier": 0
+				}
+			}
+		},
+		{
+			"RowName": "Wood_Quest1",
+			"QuestTitle": "Get an Axe",
+			"QuestDescription": "Acquire any kind of axe. An axe can be used to chop down trees located outside of the town. I can buy one at the blacksmith.",
+			"BeginningOfQuestLine": true,
+			"QuestType": 1,
+			"Item": "Ctg_Axe",
+			"Amount": 1,
+			"NextQuestRow": "Wood_Quest2",
+			"Letters": 
+			{
+				"ActivatedLetter": 
+				{
+					"Subject": "",
+					"Body": "",
+					"Sender": "",
+					"AttachedItem": 
+					{
+						"RowName": "None",
+						"StackAmount": 0,
+						"OptionsString": "",
+						"ExtraOptions":
+						[]
+					},
+					"AttachedGold": 0,
+					"Identifier": 0
+				},
+				"CompletedLetter": 
+				{
+					"Subject": "Axe Acquired!",
+					"Body": "Nice work getting yourself an axe. Remember, you can only chop down trees away from town in the forests. Now that you have an axe, you'll need something to process the logs into wood planks. With the wood planks you can craft more things. Here's some gold to help you buy one if you don't already have one. Your journal has been updated with this new goal!",
+					"Sender": "Unknown",
+					"AttachedItem": 
+					{
+						"RowName": "None",
+						"StackAmount": 0,
+						"OptionsString": "",
+						"ExtraOptions":
+						[]
+					},
+					"AttachedGold": 100,
+					"Identifier": 0
+				}
+			}
+		},
+		{
+			"RowName": "Wood_Quest2",
+			"QuestTitle": "Get a Sawmill",
+			"QuestDescription": "Buy a sawmill from the local home improvement shop. Sawmills are used to convert logs into wood planks which can be used for crafting.",
+			"BeginningOfQuestLine": false,
+			"QuestType": 1,
+			"Item": "Sawmill",
+			"Amount": 1,
+			"NextQuestRow": "Wood_Quest3",
+			"Letters": 
+			{
+				"ActivatedLetter": 
+				{
+					"Subject": "",
+					"Body": "",
+					"Sender": "",
+					"AttachedItem": 
+					{
+						"RowName": "None",
+						"StackAmount": 0,
+						"OptionsString": "",
+						"ExtraOptions":
+						[]
+					},
+					"AttachedGold": 0,
+					"Identifier": 0
+				},
+				"CompletedLetter": 
+				{
+					"Subject": "Sawmill Acquired!",
+					"Body": "Now that you have a sawmill you'll need to get a crafting bench to put those wood planks to use. With a crafting bench, you can craft and customize your own furniture. I've included some gold if you need some extra funds to buy one.Your journal has been updated with this new goal!",
+					"Sender": "Unknown",
+					"AttachedItem": 
+					{
+						"RowName": "None",
+						"StackAmount": 0,
+						"OptionsString": "",
+						"ExtraOptions":
+						[]
+					},
+					"AttachedGold": 100,
+					"Identifier": 0
+				}
+			}
+		},
+		{
+			"RowName": "Wood_Quest3",
+			"QuestTitle": "Get a Crafting Bench",
+			"QuestDescription": "Buy a crafting bench from the local home improvement shop. With a crafting bench I can craft furniture",
+			"BeginningOfQuestLine": false,
+			"QuestType": 1,
+			"Item": "Carpentry_Bench",
+			"Amount": 1,
+			"NextQuestRow": "None",
+			"Letters": 
+			{
+				"ActivatedLetter": 
+				{
+					"Subject": "",
+					"Body": "",
+					"Sender": "",
+					"AttachedItem": 
+					{
+						"RowName": "None",
+						"StackAmount": 0,
+						"OptionsString": "",
+						"ExtraOptions":
+						[]
+					},
+					"AttachedGold": 0,
+					"Identifier": 0
+				},
+				"CompletedLetter": 
+				{
+					"Subject": "Crafting Bench Acquired",
+					"Body": "I see you've finally bought a crafting bench. You should have a TV too? You can learn new crafting blueprints by watching the TV, or perhaps from some NPCs who craft themselves if you befriend them. Good luck with everything! Have some more gold to help you on your journey!",
+					"Sender": "Unknown",
+					"AttachedItem": 
+					{
+						"RowName": "None",
+						"StackAmount": 0,
+						"OptionsString": "",
+						"ExtraOptions":
+						[]
+					},
+					"AttachedGold": 300,
+					"Identifier": 0
+				}
+			}
+		},
+		{
+			"RowName": "Mining_Quest1",
+			"QuestTitle": "Get a Pickaxe",
+			"QuestDescription": "Acquire any kind of pickaxe. A pickaxe can be used to mine ores and gem. I can buy one from the local blacksmith.",
+			"BeginningOfQuestLine": true,
+			"QuestType": 1,
+			"Item": "Ctg_Pickaxe",
+			"Amount": 1,
+			"NextQuestRow": "Mining_Quest2",
+			"Letters": 
+			{
+				"ActivatedLetter": 
+				{
+					"Subject": "",
+					"Body": "",
+					"Sender": "",
+					"AttachedItem": 
+					{
+						"RowName": "None",
+						"StackAmount": 0,
+						"OptionsString": "",
+						"ExtraOptions":
+						[]
+					},
+					"AttachedGold": 0,
+					"Identifier": 0
+				},
+				"CompletedLetter": 
+				{
+					"Subject": "Pickaxe Acquired!",
+					"Body": "Congrats on getting a pickaxe! Now that you have a pickaxe you can go mining in the caves. However, some large boulders may need to be cleared first before entering or advancing deeper in the caves. After you acquire some ore you'll want to get a smelter to turn the ores into metal bars. So you should get a smelter next. Mining uses up a lot of energy so I've included some hamburgers for you. Eat this before you go mining to get an energy boost and mining won't cost as much stamina. Your journal has been updated with the new goal.",
+					"Sender": "Unknown",
+					"AttachedItem": 
+					{
+						"RowName": "Hamburger",
+						"StackAmount": 5,
+						"OptionsString": "",
+						"ExtraOptions":
+						[]
+					},
+					"AttachedGold": 0,
+					"Identifier": 0
+				}
+			}
+		},
+		{
+			"RowName": "Mining_Quest2",
+			"QuestTitle": "Get a Smelter",
+			"QuestDescription": "Buy a smelter from the local home improvement shop. Smelters are used to convert ores into metal bars which can be used for crafting.",
+			"BeginningOfQuestLine": false,
+			"QuestType": 1,
+			"Item": "Smelter",
+			"Amount": 1,
+			"NextQuestRow": "Mining_Quest3",
+			"Letters": 
+			{
+				"ActivatedLetter": 
+				{
+					"Subject": "",
+					"Body": "",
+					"Sender": "",
+					"AttachedItem": 
+					{
+						"RowName": "None",
+						"StackAmount": 0,
+						"OptionsString": "",
+						"ExtraOptions":
+						[]
+					},
+					"AttachedGold": 0,
+					"Identifier": 0
+				},
+				"CompletedLetter": 
+				{
+					"Subject": "Smelter Acquired!",
+					"Body": "You finally got that smelter! Now that you can turn ores into metal bars, you'll probably want to make your own tools. To make your own tools, you'll need to get an anvil from the local home improvement shop. I've included some ores you can use in your new smelter as well. Good luck on getting the anvil and your journal has been updated with a new goal!",
+					"Sender": "Unknown",
+					"AttachedItem": 
+					{
+						"RowName": "Gold",
+						"StackAmount": 6,
+						"OptionsString": "",
+						"ExtraOptions":
+						[]
+					},
+					"AttachedGold": 0,
+					"Identifier": 0
+				}
+			}
+		},
+		{
+			"RowName": "Mining_Quest3",
+			"QuestTitle": "Get an Anvil",
+			"QuestDescription": "Buy an anvil from the local home improvement shop. Anvils are used to craft better quality tools, some of which can't be bought at the blacksmith's.",
+			"BeginningOfQuestLine": false,
+			"QuestType": 1,
+			"Item": "Anvil",
+			"Amount": 1,
+			"NextQuestRow": "None",
+			"Letters": 
+			{
+				"ActivatedLetter": 
+				{
+					"Subject": "",
+					"Body": "",
+					"Sender": "",
+					"AttachedItem": 
+					{
+						"RowName": "None",
+						"StackAmount": 0,
+						"OptionsString": "",
+						"ExtraOptions":
+						[]
+					},
+					"AttachedGold": 0,
+					"Identifier": 0
+				},
+				"CompletedLetter": 
+				{
+					"Subject": "Anvil Acquired!",
+					"Body": "Congrats on getting the anvil! Now you have everything you need to mine and turn the ores into something useful. If you find any gems make sure to ship those to unlock a gem polishing station at the home improvement shop. Good luck, and have some gold to help you on your journey!",
+					"Sender": "Unknown",
+					"AttachedItem": 
+					{
+						"RowName": "None",
+						"StackAmount": 0,
+						"OptionsString": "",
+						"ExtraOptions":
+						[]
+					},
+					"AttachedGold": 500,
+					"Identifier": 0
+				}
+			}
+		},
+		{
+			"RowName": "Fishing_Quest1",
+			"QuestTitle": "Catch {ItemAmount} Fish!",
+			"QuestDescription": "I should have a fishing rod in my inventory. Find a fishing pier and click on the water to catch some fish. Rapid click to keep the ticker in the green zone to catch the fish.",
+			"BeginningOfQuestLine": true,
+			"QuestType": 2,
+			"Item": "Ctg_Fish",
+			"Amount": 10,
+			"NextQuestRow": "Fishing_Quest2",
+			"Letters": 
+			{
+				"ActivatedLetter": 
+				{
+					"Subject": "Good Job With The Fishing!",
+					"Body": "Good job on catching all those fish. I hope by now you've gotten the hang of fishing. Have you tried grilling the fish you've caught? They make for a quick easy meal that can recover some stamina if you don't have a kitchen yet. Use the grill on the dock and ship 20 grill fish. Here is an extra fishing rod if you need it. Your journal has been updated with the new goal!",
+					"Sender": "Unknown",
+					"AttachedItem": 
+					{
+						"RowName": "Fishing_Rod_Silver",
+						"StackAmount": 1,
+						"OptionsString": "",
+						"ExtraOptions":
+						[]
+					},
+					"AttachedGold": 0,
+					"Identifier": 0
+				},
+				"CompletedLetter": 
+				{
+					"Subject": "",
+					"Body": "",
+					"Sender": "",
+					"AttachedItem": 
+					{
+						"RowName": "None",
+						"StackAmount": 0,
+						"OptionsString": "",
+						"ExtraOptions":
+						[]
+					},
+					"AttachedGold": 0,
+					"Identifier": 0
+				}
+			}
+		},
+		{
+			"RowName": "Fishing_Quest2",
+			"QuestTitle": "Cook {ItemAmount} Grilled Fish",
+			"QuestDescription": "Cook and ship 20 grilled fish. You can buy a fish grill at the home improvement shop, or you can use the grill at the dock. ",
+			"BeginningOfQuestLine": false,
+			"QuestType": 2,
+			"Item": "Grilled_Fish",
+			"Amount": 20,
+			"NextQuestRow": "Fishing_Quest3",
+			"Letters": 
+			{
+				"ActivatedLetter": 
+				{
+					"Subject": "",
+					"Body": "",
+					"Sender": "",
+					"AttachedItem": 
+					{
+						"RowName": "None",
+						"StackAmount": 0,
+						"OptionsString": "",
+						"ExtraOptions":
+						[]
+					},
+					"AttachedGold": 0,
+					"Identifier": 0
+				},
+				"CompletedLetter": 
+				{
+					"Subject": "All That Grilled Fish!",
+					"Body": "Good job on grilling and shipping all of those fish! Grilled fish doesn't recover much stamina though. You should try maybe cooking some fish recipes with a kitchen. Before you can cook with the fish you'll need to get a fish prep station to clean the fish and turn them in fish fillets. I've included some gold to help you with this if you need it. Your journal has been updated with this new goal! ",
+					"Sender": "Unknown",
+					"AttachedItem": 
+					{
+						"RowName": "None",
+						"StackAmount": 0,
+						"OptionsString": "",
+						"ExtraOptions":
+						[]
+					},
+					"AttachedGold": 100,
+					"Identifier": 0
+				}
+			}
+		},
+		{
+			"RowName": "Fishing_Quest3",
+			"QuestTitle": "Get a Fish Prep Station",
+			"QuestDescription": "Buy a fish prep station from the home improvement shop. A fish prep station is used to make fish fillets which can be used in cooking.",
+			"BeginningOfQuestLine": false,
+			"QuestType": 1,
+			"Item": "Fish_Prep_Station",
+			"Amount": 1,
+			"NextQuestRow": "Fishing_Quest4",
+			"Letters": 
+			{
+				"ActivatedLetter": 
+				{
+					"Subject": "",
+					"Body": "",
+					"Sender": "",
+					"AttachedItem": 
+					{
+						"RowName": "None",
+						"StackAmount": 0,
+						"OptionsString": "",
+						"ExtraOptions":
+						[]
+					},
+					"AttachedGold": 0,
+					"Identifier": 0
+				},
+				"CompletedLetter": 
+				{
+					"Subject": "Fish prep Station Acquired!",
+					"Body": "Congrats on getting that fish prep station! You should have everything you need to make the most out of fishing. Well, almost. You should try and get the highest tier fishing rod, the meteor fishing rod. A meteor fishing rod can catch any fish instantly, it's really powerful. You'll have to craft one with an anvil though. Have some gold to help you on your journey and the journal has been updated with this new goal!",
+					"Sender": "Unknown",
+					"AttachedItem": 
+					{
+						"RowName": "None",
+						"StackAmount": 0,
+						"OptionsString": "",
+						"ExtraOptions":
+						[]
+					},
+					"AttachedGold": 500,
+					"Identifier": 0
+				}
+			}
+		},
+		{
+			"RowName": "Fishing_Quest4",
+			"QuestTitle": "Get a Meteor Fishing Rod",
+			"QuestDescription": "Craft a meteor fishing rod! Meteor tools are the best kinds of tools in the game. I will need a gem polishing station to polish the meteors, which can be found in the deepest areas of the mines.",
+			"BeginningOfQuestLine": false,
+			"QuestType": 1,
+			"Item": "Fishing_Rod_Meteor",
+			"Amount": 1,
+			"NextQuestRow": "None",
+			"Letters": 
+			{
+				"ActivatedLetter": 
+				{
+					"Subject": "",
+					"Body": "",
+					"Sender": "",
+					"AttachedItem": 
+					{
+						"RowName": "None",
+						"StackAmount": 0,
+						"OptionsString": "",
+						"ExtraOptions":
+						[]
+					},
+					"AttachedGold": 0,
+					"Identifier": 0
+				},
+				"CompletedLetter": 
+				{
+					"Subject": "Meteor Fishing Rod Acquired!",
+					"Body": "Wow, you actually got a meteor fishing rod! Congrats! NOW you have everything you need to make the most out of fishing. Perhaps you'll catch every fish in the game! Here's some gold to help you on your journey. Happy fishing!",
+					"Sender": "Unknown",
+					"AttachedItem": 
+					{
+						"RowName": "None",
+						"StackAmount": 0,
+						"OptionsString": "",
+						"ExtraOptions":
+						[]
+					},
+					"AttachedGold": 1000,
+					"Identifier": 0
+				}
+			}
+		},
+		{
+			"RowName": "TVQuest",
+			"QuestTitle": "Get a TV!",
+			"QuestDescription": "I can buy a tv at the home improvement shop. A tv is how I can learn new cooking and crafting recipes. It is also useful for giving the weather forecast. ",
+			"BeginningOfQuestLine": true,
+			"QuestType": 1,
+			"Item": "basic_tv",
+			"Amount": 1,
+			"NextQuestRow": "None",
+			"Letters": 
+			{
+				"ActivatedLetter": 
+				{
+					"Subject": "",
+					"Body": "",
+					"Sender": "",
+					"AttachedItem": 
+					{
+						"RowName": "None",
+						"StackAmount": 0,
+						"OptionsString": "",
+						"ExtraOptions":
+						[]
+					},
+					"AttachedGold": 0,
+					"Identifier": 0
+				},
+				"CompletedLetter": 
+				{
+					"Subject": "TV Acquired!",
+					"Body": "Congrats on getting a TV! You can learn new crafting and cooking recipes twice a day; once in the morning and once in the evening. It's also handy to check the weather forecast, so you can plan your day! Speaking of recipes, have some food to help keep your energy up. ",
+					"Sender": "Unknown",
+					"AttachedItem": 
+					{
+						"RowName": "Fish_Sandwich",
+						"StackAmount": 2,
+						"OptionsString": "",
+						"ExtraOptions":
+						[]
+					},
+					"AttachedGold": 0,
+					"Identifier": 0
+				}
+			}
+		},
+		{
+			"RowName": "Cooking_Quest1",
+			"QuestTitle": "Get a Kitchen",
+			"QuestDescription": "A kitchen can be bought at the home improvement shop. It can be used to cook many recipes which can give energy and/or different kinds of buffs.",
+			"BeginningOfQuestLine": true,
+			"QuestType": 1,
+			"Item": "Small_Bland_Kitchen",
+			"Amount": 1,
+			"NextQuestRow": "Cooking_Quest2",
+			"Letters": 
+			{
+				"ActivatedLetter": 
+				{
+					"Subject": "",
+					"Body": "",
+					"Sender": "",
+					"AttachedItem": 
+					{
+						"RowName": "None",
+						"StackAmount": 0,
+						"OptionsString": "",
+						"ExtraOptions":
+						[]
+					},
+					"AttachedGold": 0,
+					"Identifier": 0
+				},
+				"CompletedLetter": 
+				{
+					"Subject": "New kitchen Acquired!",
+					"Body": "Congrats on getting a new kitchen! Make sure you also have a TV to learn new recipes daily. You can also cook by just experimenting with ingredients if you're feeling brave. Now that you have a kitchen, you should try cooking some recipes. Ship 20 recipes, it could be anything. I've included some Camelia leaves that you can turn into tea. Your journal has been updated with this new goal!",
+					"Sender": "Unknown",
+					"AttachedItem": 
+					{
+						"RowName": "Camelia",
+						"StackAmount": 2,
+						"OptionsString": "",
+						"ExtraOptions":
+						[]
+					},
+					"AttachedGold": 0,
+					"Identifier": 0
+				}
+			}
+		},
+		{
+			"RowName": "Cooking_Quest2",
+			"QuestTitle": "Ship 20 Cooked Recipes",
+			"QuestDescription": "Ship any 20 cooked recipes made with the kitchen.",
+			"BeginningOfQuestLine": false,
+			"QuestType": 2,
+			"Item": "Ctg_Food",
+			"Amount": 20,
+			"NextQuestRow": "Cooking_Quest3",
+			"Letters": 
+			{
+				"ActivatedLetter": 
+				{
+					"Subject": "",
+					"Body": "",
+					"Sender": "",
+					"AttachedItem": 
+					{
+						"RowName": "None",
+						"StackAmount": 0,
+						"OptionsString": "",
+						"ExtraOptions":
+						[]
+					},
+					"AttachedGold": 0,
+					"Identifier": 0
+				},
+				"CompletedLetter": 
+				{
+					"Subject": "20 Recipes Shipped",
+					"Body": "Look at you, a natural-born chef! To unlock more complex recipes you need to get larger kitchens. The largest kitchen available can only be crafted using a crafting bench. It is called the Ultimate kitchen. With this kitchen, you'll be able to cook all the recipes in the cookbook. I'll send some gold to help you on your journey. Your journal has been updated with the new goal!",
+					"Sender": "Unknown",
+					"AttachedItem": 
+					{
+						"RowName": "None",
+						"StackAmount": 0,
+						"OptionsString": "",
+						"ExtraOptions":
+						[]
+					},
+					"AttachedGold": 500,
+					"Identifier": 0
+				}
+			}
+		},
+		{
+			"RowName": "Cooking_Quest3",
+			"QuestTitle": "Get an Ultimate Kitchen",
+			"QuestDescription": "Get an ultimate kitchen to have the ability to cook all the recipes. An ultimate kitchen can only be crafted from the crafting bench. I need to get lucky and acquire the recipe from the TV.",
+			"BeginningOfQuestLine": false,
+			"QuestType": 1,
+			"Item": "Kitchenoid_Size_4",
+			"Amount": 1,
+			"NextQuestRow": "None",
+			"Letters": 
+			{
+				"ActivatedLetter": 
+				{
+					"Subject": "",
+					"Body": "",
+					"Sender": "",
+					"AttachedItem": 
+					{
+						"RowName": "None",
+						"StackAmount": 0,
+						"OptionsString": "",
+						"ExtraOptions":
+						[]
+					},
+					"AttachedGold": 0,
+					"Identifier": 0
+				},
+				"CompletedLetter": 
+				{
+					"Subject": "Congrats on The Ultimate Kitchen.",
+					"Body": "Yay, you got the ultimate kitchen! You're well on your way to being the best chef on the island! Have fun cooking, and have some gold for your journey!",
+					"Sender": "Unknown",
+					"AttachedItem": 
+					{
+						"RowName": "None",
+						"StackAmount": 0,
+						"OptionsString": "",
+						"ExtraOptions":
+						[]
+					},
+					"AttachedGold": 1000,
+					"Identifier": 0
+				}
+			}
+		}
+	]
+}

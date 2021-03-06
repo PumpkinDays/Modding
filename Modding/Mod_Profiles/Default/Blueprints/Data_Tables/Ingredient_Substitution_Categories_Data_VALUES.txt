@@ -1,0 +1,638 @@
+{
+	"Rows": 
+	[
+		{
+			"RowName": "Milk",
+			"NameArray":
+			[
+				"Dairy_Free_Milk",
+				"Milk",
+				"Goat_Milk",
+				"Soy_Milk",
+				"Oat_Milk",
+				"Rice_Milk",
+				"Cashew_Milk",
+				"Coconut_Milk"
+			]
+		},
+		{
+			"RowName": "Chicken_Meat",
+			"NameArray":
+			[
+				"Seitan",
+				"Chicken_Meat"
+			]
+		},
+		{
+			"RowName": "Beef",
+			"NameArray":
+			[
+				"Seitan",
+				"Beef",
+				"Bison_Meat"
+			]
+		},
+		{
+			"RowName": "Crattuce",
+			"NameArray":
+			[
+				"Crattuce",
+				"Cranberries",
+				"Lettuce"
+			]
+		},
+		{
+			"RowName": "Blapple",
+			"NameArray":
+			[
+				"Blapple",
+				"Pineapple",
+				"Blueberries"
+			]
+		},
+		{
+			"RowName": "Bellchees",
+			"NameArray":
+			[
+				"Bellchees",
+				"Bell_Pepper",
+				"None"
+			]
+		},
+		{
+			"RowName": "Cocoberries",
+			"NameArray":
+			[
+				"Strawberries",
+				"Cocoa_Powder",
+				"Cocoberries"
+			]
+		},
+		{
+			"RowName": "Black_Beet",
+			"NameArray":
+			[
+				"Black_Beet",
+				"Black_Beans",
+				"Beet"
+			]
+		},
+		{
+			"RowName": "Ginger_Dragon",
+			"NameArray":
+			[
+				"Ginger_Dragon",
+				"Ginger",
+				"Dragonfruit"
+			]
+		},
+		{
+			"RowName": "Sugarnut",
+			"NameArray":
+			[
+				"Sugarnut",
+				"SugarApple",
+				"Coconut"
+			]
+		},
+		{
+			"RowName": "Raspkins",
+			"NameArray":
+			[
+				"Raspkins",
+				"Raspberries",
+				"Pumpkin"
+			]
+		},
+		{
+			"RowName": "Pealum",
+			"NameArray":
+			[
+				"Pealum",
+				"Peach",
+				"Plum"
+			]
+		},
+		{
+			"RowName": "Bluerries",
+			"NameArray":
+			[
+				"Bluerries",
+				"Blueberries",
+				"Cherries"
+			]
+		},
+		{
+			"RowName": "Banapple",
+			"NameArray":
+			[
+				"Banapple",
+				"Banana",
+				"Apple"
+			]
+		},
+		{
+			"RowName": "Grapple",
+			"NameArray":
+			[
+				"Grapple",
+				"Grapes",
+				"Apple"
+			]
+		},
+		{
+			"RowName": "Zuccorn",
+			"NameArray":
+			[
+				"Zuccorn",
+				"Corn",
+				"Zucchini"
+			]
+		},
+		{
+			"RowName": "Brocados",
+			"NameArray":
+			[
+				"Brocados",
+				"Avocado",
+				"Broccoli"
+			]
+		},
+		{
+			"RowName": "Spinip",
+			"NameArray":
+			[
+				"Spinip",
+				"Spinach",
+				"Turnip"
+			]
+		},
+		{
+			"RowName": "Jalaplant",
+			"NameArray":
+			[
+				"Jalapeno",
+				"Jalaplant",
+				"Eggplant"
+			]
+		},
+		{
+			"RowName": "Tomatelons",
+			"NameArray":
+			[
+				"Tomatelons",
+				"Tomato",
+				"Watermelon"
+			]
+		},
+		{
+			"RowName": "Potarrots",
+			"NameArray":
+			[
+				"Potarrots",
+				"Potato",
+				"Carrot"
+			]
+		},
+		{
+			"RowName": "Pumpkin",
+			"NameArray":
+			[
+				"Pumpkin",
+				"Pumpkin_Gold",
+				"Pumpkin_Snow",
+				"Pumpkin_Green",
+				"Raspkins"
+			]
+		},
+		{
+			"RowName": "Salt",
+			"NameArray":
+			[
+				"Salt",
+				"Pink_Salt"
+			]
+		},
+		{
+			"RowName": "Brown_Wood_Planks",
+			"NameArray":
+			[
+				"Brown_Wood_Planks",
+				"Dark_Wood_Planks",
+				"Orange_Wood_Planks",
+				"Peach_Wood_Planks",
+				"Rose_Wood_Planks",
+				"Smoky_Wood_Planks"
+			]
+		},
+		{
+			"RowName": "Cocoa_Powder",
+			"NameArray":
+			[
+				"Cocoa_Powder",
+				"Coco_Cow_Milk",
+				"Cocoberries"
+			]
+		},
+		{
+			"RowName": "Cranberries",
+			"NameArray":
+			[
+				"Cranberries",
+				"Crattuce"
+			]
+		},
+		{
+			"RowName": "Lettuce",
+			"NameArray":
+			[
+				"Crattuce",
+				"Lettuce"
+			]
+		},
+		{
+			"RowName": "Pineapple",
+			"NameArray":
+			[
+				"Blapple",
+				"Pineapple"
+			]
+		},
+		{
+			"RowName": "Blueberries",
+			"NameArray":
+			[
+				"Blapple",
+				"Blueberries",
+				"Bluerries"
+			]
+		},
+		{
+			"RowName": "Bell_Pepper",
+			"NameArray":
+			[
+				"Bellchees",
+				"Cherries"
+			]
+		},
+		{
+			"RowName": "Cherries",
+			"NameArray":
+			[
+				"Bellchees",
+				"Cherries",
+				"Bluerries"
+			]
+		},
+		{
+			"RowName": "Strawberries",
+			"NameArray":
+			[
+				"Cocoberries",
+				"Strawberries"
+			]
+		},
+		{
+			"RowName": "Black_Beans",
+			"NameArray":
+			[
+				"Black_Beet",
+				"Black_Beans"
+			]
+		},
+		{
+			"RowName": "Ginger",
+			"NameArray":
+			[
+				"Ginger_Dragon",
+				"Ginger"
+			]
+		},
+		{
+			"RowName": "Dragonfruit",
+			"NameArray":
+			[
+				"Ginger_Dragon",
+				"Dragonfruit"
+			]
+		},
+		{
+			"RowName": "SugarApple",
+			"NameArray":
+			[
+				"Sugarnut",
+				"SugarApple"
+			]
+		},
+		{
+			"RowName": "Coconut",
+			"NameArray":
+			[
+				"Sugarnut",
+				"Coconut"
+			]
+		},
+		{
+			"RowName": "Raspberries",
+			"NameArray":
+			[
+				"Raspkins",
+				"Raspberries"
+			]
+		},
+		{
+			"RowName": "Peach",
+			"NameArray":
+			[
+				"Pealum",
+				"Peach"
+			]
+		},
+		{
+			"RowName": "Plum",
+			"NameArray":
+			[
+				"Pealum",
+				"Plum"
+			]
+		},
+		{
+			"RowName": "Bananas",
+			"NameArray":
+			[
+				"Banapple",
+				"Bananas"
+			]
+		},
+		{
+			"RowName": "Apple",
+			"NameArray":
+			[
+				"Banapple",
+				"Apple",
+				"Grapple"
+			]
+		},
+		{
+			"RowName": "Grapes",
+			"NameArray":
+			[
+				"Grapple",
+				"Grapes"
+			]
+		},
+		{
+			"RowName": "Corn",
+			"NameArray":
+			[
+				"Zuccorn",
+				"Corn"
+			]
+		},
+		{
+			"RowName": "Zucchini",
+			"NameArray":
+			[
+				"Zuccorn",
+				"Zucchini"
+			]
+		},
+		{
+			"RowName": "Avocado",
+			"NameArray":
+			[
+				"Brocados",
+				"Avocado"
+			]
+		},
+		{
+			"RowName": "Broccoli",
+			"NameArray":
+			[
+				"Brocados",
+				"Broccoli"
+			]
+		},
+		{
+			"RowName": "Spinach",
+			"NameArray":
+			[
+				"Spinip",
+				"Spinach"
+			]
+		},
+		{
+			"RowName": "Turnip",
+			"NameArray":
+			[
+				"Spinip",
+				"Turnip"
+			]
+		},
+		{
+			"RowName": "Eggplant",
+			"NameArray":
+			[
+				"Jalaplant",
+				"Eggplant"
+			]
+		},
+		{
+			"RowName": "Jalapeno",
+			"NameArray":
+			[
+				"Jalaplant",
+				"Jalapeno"
+			]
+		},
+		{
+			"RowName": "Tomato",
+			"NameArray":
+			[
+				"Tomatelons",
+				"Tomato"
+			]
+		},
+		{
+			"RowName": "Watermelon",
+			"NameArray":
+			[
+				"Tomatelons",
+				"Watermelon"
+			]
+		},
+		{
+			"RowName": "Potato",
+			"NameArray":
+			[
+				"Potarrots",
+				"Potato"
+			]
+		},
+		{
+			"RowName": "Carrot",
+			"NameArray":
+			[
+				"Potarrots",
+				"Carrot"
+			]
+		},
+		{
+			"RowName": "Beet",
+			"NameArray":
+			[
+				"Beet",
+				"Black_Beet"
+			]
+		},
+		{
+			"RowName": "Butter",
+			"NameArray":
+			[
+				"Butter",
+				"Almond_Butter",
+				"Coconut_Butter",
+				"Macademia_Butter",
+				"Walnut_Butter"
+			]
+		},
+		{
+			"RowName": "Chicken_Egg",
+			"NameArray":
+			[
+				"Chicken_Egg",
+				"Tofu_Silken"
+			]
+		},
+		{
+			"RowName": "Cheese",
+			"NameArray":
+			[
+				"Cheese",
+				"Vegan_Cheese"
+			]
+		},
+		{
+			"RowName": "Pork",
+			"NameArray":
+			[
+				"Seitan",
+				"Pork"
+			]
+		},
+		{
+			"RowName": "Fish_Cuts",
+			"NameArray":
+			[
+				"Fish_Cuts",
+				"Tofu"
+			]
+		},
+		{
+			"RowName": "Dairy_Free_Milk",
+			"NameArray":
+			[
+				"Dairy_Free_Milk",
+				"Milk",
+				"Goat_Milk",
+				"Soy_Milk",
+				"Oat_Milk",
+				"Rice_Milk",
+				"Cashew_Milk",
+				"Coconut_Milk"
+			]
+		},
+		{
+			"RowName": "Goat_Milk",
+			"NameArray":
+			[
+				"Dairy_Free_Milk",
+				"Milk",
+				"Goat_Milk",
+				"Soy_Milk",
+				"Oat_Milk",
+				"Rice_Milk",
+				"Cashew_Milk",
+				"Coconut_Milk"
+			]
+		},
+		{
+			"RowName": "Soy_Milk",
+			"NameArray":
+			[
+				"Dairy_Free_Milk",
+				"Milk",
+				"Goat_Milk",
+				"Soy_Milk",
+				"Oat_Milk",
+				"Rice_Milk",
+				"Cashew_Milk",
+				"Coconut_Milk"
+			]
+		},
+		{
+			"RowName": "Oat_Milk",
+			"NameArray":
+			[
+				"Dairy_Free_Milk",
+				"Milk",
+				"Goat_Milk",
+				"Soy_Milk",
+				"Oat_Milk",
+				"Rice_Milk",
+				"Cashew_Milk",
+				"Coconut_Milk"
+			]
+		},
+		{
+			"RowName": "Rice_Milk",
+			"NameArray":
+			[
+				"Dairy_Free_Milk",
+				"Milk",
+				"Goat_Milk",
+				"Soy_Milk",
+				"Oat_Milk",
+				"Rice_Milk",
+				"Cashew_Milk",
+				"Coconut_Milk"
+			]
+		},
+		{
+			"RowName": "Cashew_Milk",
+			"NameArray":
+			[
+				"Dairy_Free_Milk",
+				"Milk",
+				"Goat_Milk",
+				"Soy_Milk",
+				"Oat_Milk",
+				"Rice_Milk",
+				"Cashew_Milk",
+				"Coconut_Milk"
+			]
+		},
+		{
+			"RowName": "Coconut_Milk",
+			"NameArray":
+			[
+				"Dairy_Free_Milk",
+				"Milk",
+				"Goat_Milk",
+				"Soy_Milk",
+				"Oat_Milk",
+				"Rice_Milk",
+				"Cashew_Milk",
+				"Coconut_Milk"
+			]
+		},
+		{
+			"RowName": "Mutton",
+			"NameArray":
+			[
+				"Mutton",
+				"Seitan"
+			]
+		}
+	]
+}

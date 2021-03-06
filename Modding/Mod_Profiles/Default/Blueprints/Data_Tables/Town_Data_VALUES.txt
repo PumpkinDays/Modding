@@ -1,0 +1,207 @@
+{
+	"Rows": 
+	[
+		{
+			"RowName": "Wahoo_Beach",
+			"FriendlyName": "Wahoo Beach",
+			"Npcs":
+			[
+				"Ash",
+				"Casey",
+				"Charlie",
+				"Charu",
+				"Clara",
+				"Dewain",
+				"Dirt",
+				"Duante",
+				"Eugene",
+				"Govind",
+				"Haku",
+				"Ikaia",
+				"Jabalah",
+				"Jacqueline",
+				"Jade",
+				"Jemma",
+				"Joelle",
+				"Kaine",
+				"Kishan",
+				"Lamonte",
+				"Lisa",
+				"Manaka",
+				"Masika",
+				"Melanie",
+				"Mike",
+				"Nicki",
+				"Pete",
+				"Queen",
+				"Rashida",
+				"Rosario",
+				"Valerie",
+				"Tuesday",
+				"Zarita",
+				"Finn"
+			],
+			"LandProperties":
+			[
+				"Wahoo_Shore_Lot",
+				"Wahoo_Town_Lot",
+				"Wahoo_Field_Lot"
+			],
+			"SpawnLocation": 
+			{
+				"X": -35240,
+				"Y": 213020,
+				"Z": -14900
+			},
+			"SpawnRotation": 100,
+			"Mayor": "Lamonte",
+			"Secretary": "Melanie",
+			"RivalNpc": "Eugene"
+		},
+		{
+			"RowName": "PumpkinVale",
+			"FriendlyName": "Pumpkinvale",
+			"Npcs":
+			[
+				"Zoey",
+				"Takeo",
+				"Abigail",
+				"Emi",
+				"Tierra",
+				"Vera",
+				"Joan",
+				"Alec",
+				"Alex",
+				"Black_Mask",
+				"Claudio",
+				"Dahlia",
+				"Dee",
+				"Eddie",
+				"El_Toro_Furio",
+				"Evan",
+				"Ezekiel",
+				"Faiyaz",
+				"Hyun_Jae_Oh",
+				"Iris",
+				"Jaime",
+				"Jefe",
+				"Jelmo",
+				"Jim",
+				"Julian",
+				"Kumoko",
+				"Lily_Bean",
+				"Nicolas",
+				"Sebastian",
+				"Shauna",
+				"Tanis",
+				"Tessa",
+				"Tucker",
+				"Vibhat",
+				"Harsha",
+				"Blake",
+				"Rose",
+				"Jackie",
+				"Orpheus"
+			],
+			"LandProperties":
+			[
+				"PumpkinVale_River_Lot",
+				"PumpkinVale_Field_Lot",
+				"PumpkinVale_Town_Lot"
+			],
+			"SpawnLocation": 
+			{
+				"X": 48759,
+				"Y": 68054,
+				"Z": -12037
+			},
+			"SpawnRotation": 0,
+			"Mayor": "Julian",
+			"Secretary": "Tessa",
+			"RivalNpc": "Orpheus"
+		},
+		{
+			"RowName": "Spoony_Island",
+			"FriendlyName": "Spoonie Island",
+			"Npcs":
+			[
+				"Meredith",
+				"Forrest",
+				"Olive",
+				"Elo",
+				"Toni",
+				"Frogman",
+				"Alexis",
+				"Korin",
+				"Poppy",
+				"Lucas",
+				"Jen",
+				"Lan",
+				"Mickie"
+			],
+			"LandProperties":
+			[
+				"Spoonie_Lot"
+			],
+			"SpawnLocation": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			},
+			"SpawnRotation": 0,
+			"Mayor": "Jen",
+			"Secretary": "None",
+			"RivalNpc": "None"
+		},
+		{
+			"RowName": "Diamond_Falls",
+			"FriendlyName": "Diamond Falls",
+			"Npcs":
+			[
+				"Bishop",
+				"Clem",
+				"Dr_Beardenheim",
+				"Farah",
+				"Fasha",
+				"Fukuyama",
+				"Greg",
+				"Hank",
+				"Hideo",
+				"Hien",
+				"Hikaru",
+				"James",
+				"Joshua",
+				"Katherine",
+				"Kim",
+				"Liam",
+				"Lonan",
+				"Loxi",
+				"Luis",
+				"Min",
+				"Natsuo",
+				"Nora",
+				"Sid",
+				"Tai",
+				"Tanya",
+				"Ross"
+			],
+			"LandProperties":
+			[
+				"Diamond_Falls_Cave_Plot",
+				"Diamond_Falls_Town_Plot",
+				"Diamond_Falls_Wilderness"
+			],
+			"SpawnLocation": 
+			{
+				"X": -207.22773742675781,
+				"Y": -47629.95703125,
+				"Z": 12480.3125
+			},
+			"SpawnRotation": 0,
+			"Mayor": "Fukuyama",
+			"Secretary": "Tanya",
+			"RivalNpc": "Tiffani"
+		}
+	]
+}

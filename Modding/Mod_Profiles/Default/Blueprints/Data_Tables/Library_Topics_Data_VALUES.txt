@@ -1,0 +1,3606 @@
+{
+	"Rows": 
+	[
+		{
+			"RowName": "Howtoplantcrops",
+			"Title": "How to plant crops",
+			"Description": "To plant crops you need to equip a hoe and click on the ground to till the soil. Once the soil is tilled hold some seeds and click on the tilled plot to plant. You can buy hoes at the local Blacksmith's.",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Tools/Hoe_Iron.Hoe_Iron'",
+			"Background": "None",
+			"UnlockDate": 
+			{
+				"Season": 0,
+				"DayOfSeason": 0,
+				"Year": 0
+			}
+		},
+		{
+			"RowName": "Howtotakecareofcrops",
+			"Title": "How to take care of crops",
+			"Description": "Crops need to be watered every 24 hours. Equip a watering can and click on a well to fill it with water.\\n \\n Depending on what time you planted your crops the soil will dry at different times throughout the day. You can buy a watering can at the local Blacksmith.\\n \\n Plants will start wilting after two days of no water and die on the third day.",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Tools/WateringCan_Iron.WateringCan_Iron'",
+			"Background": "None",
+			"UnlockDate": 
+			{
+				"Season": 0,
+				"DayOfSeason": 0,
+				"Year": 0
+			}
+		},
+		{
+			"RowName": "Howtoharvestcrops",
+			"Title": "How to harvest crops",
+			"Description": "To harvest crops, you need to wait until they look ripe and then click on the crops to harvest. Some crops can only be harvested once but others can regrow fruit and be harvested multiple times.",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Crops/Corn.Corn'",
+			"Background": "None",
+			"UnlockDate": 
+			{
+				"Season": 0,
+				"DayOfSeason": 0,
+				"Year": 0
+			}
+		},
+		{
+			"RowName": "Whydidmycropsdie",
+			"Title": "Why did my crops die?",
+			"Description": "Crops can die if: \\n \\n   1. They have not been watered within 48 hours \\n\\n  2. They are planted in the wrong season. \\n \\n Check the info on your seedbag to see when they can be planted. \\n \\n   You can check a seed's information by left clicking on the seed bag in your inventory and checking out 'info'.",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Crops/Tomato.Tomato'",
+			"Background": "None",
+			"UnlockDate": 
+			{
+				"Season": 0,
+				"DayOfSeason": 0,
+				"Year": 0
+			}
+		},
+		{
+			"RowName": "SeasonalCrops",
+			"Title": "Seasonal Crops",
+			"Description": "If you check the info on the bag of seeds, it will tell you what season and how long the seeds will take to grow.\\n \\n  Make sure to plan accordingly because your crops will die instantly if they start to grow in the wrong season.",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Seeds/Tomato_Seeds.Tomato_Seeds'",
+			"Background": "None",
+			"UnlockDate": 
+			{
+				"Season": 0,
+				"DayOfSeason": 0,
+				"Year": 0
+			}
+		},
+		{
+			"RowName": "HowToRemoveCrops",
+			"Title": "How To Remove Crops",
+			"Description": "To remove unwanted crops you will need a shovel. Equip the shovel and click on the plot to dig it up. ",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Tools/Shovel_Iron.Shovel_Iron'",
+			"Background": "None",
+			"UnlockDate": 
+			{
+				"Season": 0,
+				"DayOfSeason": 0,
+				"Year": 0
+			}
+		},
+		{
+			"RowName": "AboutTrees",
+			"Title": "About Trees",
+			"Description": "Trees require more space than crops. Make sure you have adequate space for a tree before planning to buy saplings. A tree sapling needs 3 x3 space around it, in order to be planted. A tree also does not need to be watered once it is no longer a sapling.\\n\\n To remove unwanted trees simply chop them down with an axe.",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Crops/Coconut.Coconut'",
+			"Background": "None",
+			"UnlockDate": 
+			{
+				"Season": 0,
+				"DayOfSeason": 0,
+				"Year": 0
+			}
+		},
+		{
+			"RowName": "Howtopickfruitfromtrees",
+			"Title": "Harvesting from trees",
+			"Description": "In order to get fruit from the trees you will need a fruit picker.\\n \\n  Equip a fruit picker and use on a tree to knock the fruit to the ground. You can buy a fruit picker at the local farm shop.\\n \\n Fruit regrows on trees every 6 days after harvesting.",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Crops/Apple.Apple'",
+			"Background": "None",
+			"UnlockDate": 
+			{
+				"Season": 0,
+				"DayOfSeason": 0,
+				"Year": 0
+			}
+		},
+		{
+			"RowName": "Howtomine",
+			"Title": "How to mine for ore",
+			"Description": "To mine you need to equip a pickaxe to break rocks. Only rocks with cracks in them or exposed gems can be broken with the pickaxe. You can buy a pickaxe at the local blacksmith.",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Ores/Iron.Iron'",
+			"Background": "None",
+			"UnlockDate": 
+			{
+				"Season": 0,
+				"DayOfSeason": 0,
+				"Year": 0
+			}
+		},
+		{
+			"RowName": "Howtomineefficiently",
+			"Title": "How to mine efficiently",
+			"Description": "Mining is very tiresome, so make sure you upgrade your pickaxe when you can. The better the pickaxe, the less stamina it will take. Legend says that a pickaxe made from meteor uses no stamina.",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Tools/PickAxe_Iron.PickAxe_Iron'",
+			"Background": "None",
+			"UnlockDate": 
+			{
+				"Season": 0,
+				"DayOfSeason": 0,
+				"Year": 0
+			}
+		},
+		{
+			"RowName": "Howtomineforalongtime",
+			"Title": "Cave exploring preparations",
+			"Description": "Make sure you pack a lot of food when mining. Mining uses up a lot of energy so when you start getting tired chow down on some filling food.\\n \\n  Remember that your pickaxe may break while in the cave. Make sure to check your tool's strength and pack an extra one incase it breaks.",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Gems/Beryl.Beryl'",
+			"Background": "None",
+			"UnlockDate": 
+			{
+				"Season": 0,
+				"DayOfSeason": 0,
+				"Year": 0
+			}
+		},
+		{
+			"RowName": "Whattodowithores",
+			"Title": "Refining ores",
+			"Description": "Raw ores are not worth very much, so you will have to use a smelter to turn it into metal bars.\\n \\n You can buy a smelter at the home improvements shop. Simply click on the smelter and drag the ore to the slot to be processed.\\n \\n It takes five metal ores to be turned into a metal bar.",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Ores/Silver_Bar.Silver_Bar'",
+			"Background": "None",
+			"UnlockDate": 
+			{
+				"Season": 0,
+				"DayOfSeason": 0,
+				"Year": 0
+			}
+		},
+		{
+			"RowName": "Howtogetanimals",
+			"Title": "Buying Animals",
+			"Description": "Before you get any animals you will need somewhere to house them. Talk to the shop-keep at home improvements to buy a barn or coop. \\n \\n You need to pay off any debts at the ATM in the postoffice before you can build any new buildings.",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Animals/Chicken.Chicken'",
+			"Background": "None",
+			"UnlockDate": 
+			{
+				"Season": 0,
+				"DayOfSeason": 0,
+				"Year": 0
+			}
+		},
+		{
+			"RowName": "Howtotakecareofanimals",
+			"Title": "Animal Care",
+			"Description": "Animals need to be feed and given some love every day. Feed your animals every day and pet or brush them to raise their affections. \\n \\n Make sure to shovel the poop every day or else your animals may get sick. \\n \\n  If animals do get sick go see your local vet and they'll take care of them.",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/General/Fodder.Fodder'",
+			"Background": "None",
+			"UnlockDate": 
+			{
+				"Season": 0,
+				"DayOfSeason": 0,
+				"Year": 0
+			}
+		},
+		{
+			"RowName": "Howtogetanimalproducts",
+			"Title": "Animal products",
+			"Description": "You can get milk from cows by simply clicking on or near the utters, wool from sheep using the shears and chickens will lay eggs in their coop every day. Animals will not give any products if they are not being fed. Equip the required tool and click on the animal to gather their products.",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Animal_Products/Cow_Milk.Cow_Milk'",
+			"Background": "None",
+			"UnlockDate": 
+			{
+				"Season": 0,
+				"DayOfSeason": 0,
+				"Year": 0
+			}
+		},
+		{
+			"RowName": "TalkingtoPeople",
+			"Title": "Making new friends",
+			"Description": "Talking to the local residents every day is a good way to make friends. The more you talk to them the more they will like you and have new things to talk about.\\n \\n  Doing requests from the bulletin board and cooking their favorite foods is the best way to gain affection. \\n \\n Depending on how many friendship points you gain from a resident  their friends will also gain friendship points from you as well. \\n \\n The benefits of making friends are: \\n \\n-Being able to visit their homes whenever they are not sleeping. \\n \\n-New unique quests \\n \\n-Gifts on your birthday  \\n \\n-A gift of your favorite kind of food every 2 hearts \\n \\n-Necessary before dating.",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Cheek_Icons/Smiley_Stickers_Icon.Smiley_Stickers_Icon'",
+			"Background": "None",
+			"UnlockDate": 
+			{
+				"Season": 0,
+				"DayOfSeason": 0,
+				"Year": 0
+			}
+		},
+		{
+			"RowName": "Givinggifts",
+			"Title": "Giving gifts",
+			"Description": "Giving gifts to others is the best way to get them to like you. However, you can't give them any old gift it has to be something that they like or they may think you're being weird. \\n \\nCheck the journal for a list of what all the residents like. \\n \\n There is a specialty bakery on Spoonie Island where you can get special cakes that nearly all the residents love. The special cakes are: \\n\\n Dino Cake \\n Cat Cake \\n Unicorn Cake \\n Owl Cake \\n Drip Cake. \\n \\n Giving a resident an expensive gift will yield more friendship points. Two friendship points are added for every 100g an item is worth.",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/General/Giftbox.Giftbox'",
+			"Background": "None",
+			"UnlockDate": 
+			{
+				"Season": 0,
+				"DayOfSeason": 0,
+				"Year": 0
+			}
+		},
+		{
+			"RowName": "DoingErrands",
+			"Title": "Doing Errands",
+			"Description": "Residents will occasionally ask you to make a quick delivery for them. Doing these quick deliveries is another way to increase your friendship with them.",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/General/delivery_bag.delivery_bag'",
+			"Background": "None",
+			"UnlockDate": 
+			{
+				"Season": 0,
+				"DayOfSeason": 0,
+				"Year": 0
+			}
+		},
+		{
+			"RowName": "CatchingFish",
+			"Title": "Catching Fish",
+			"Description": "In order to catch fish you need to equip a fishing rod. Once equipped find a good spot fishing spot near a body of water. Once you find a good spot click on the water to cast your line and wait for a bite. You can buy a fishing rod at the local blacksmith or craft one yourself.",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Fish/Cherry_Salmon.Cherry_Salmon'",
+			"Background": "None",
+			"UnlockDate": 
+			{
+				"Season": 0,
+				"DayOfSeason": 0,
+				"Year": 0
+			}
+		},
+		{
+			"RowName": "Catchfisheasier",
+			"Title": "Catch fish easier",
+			"Description": "If you are having trouble catching fish, make sure you buy a better fishing rod if possible. The better the fishing rod, the faster it will be to reel in the fish making it easier to catch.\\n \\n  Legend has it a meteor fishing rod can catch reel in any fish in 1 second.",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Tools/FishingRod_Iron.FishingRod_Iron'",
+			"Background": "None",
+			"UnlockDate": 
+			{
+				"Season": 0,
+				"DayOfSeason": 0,
+				"Year": 0
+			}
+		},
+		{
+			"RowName": "Howtocook",
+			"Title": "How to cook",
+			"Description": "If you want to get cooking you need to buy a kitchen first. You can buy a basic kitchen from a home improvement shop.\\n \\n Place a kitchen anywhere on your property, then click on it to bring up the cooking menu.\\n \\n If you have the right ingredients your cookbook will let you know if you can make that recipe.\\n \\n If you buy a fridge and put food in it, then the kitchen will automatically draw food from both your inventory and the fridge when you cook.\\n \\n A fridge can be available at random in the furniture store, or it becomes available in the home improvement shop after shipping 50 recipes",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Food/Sandwiches/Meatball_Sub.Meatball_Sub'",
+			"Background": "None",
+			"UnlockDate": 
+			{
+				"Season": 0,
+				"DayOfSeason": 0,
+				"Year": 0
+			}
+		},
+		{
+			"RowName": "Wheretolearnnewrecipes",
+			"Title": "Learn New Recipes",
+			"Description": "You can learn new cooking recipes by watching the cooking show on the television. The show comes on twice a day; once in the morning and once in the evening. \\n \\n You can also try cooking new recipes by reading new recipes that get released at the library. For these recipes you need to cook them at least once for them to appear in the cookbook",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Food/Cake/Simple_Cake.Simple_Cake'",
+			"Background": "None",
+			"UnlockDate": 
+			{
+				"Season": 0,
+				"DayOfSeason": 0,
+				"Year": 0
+			}
+		},
+		{
+			"RowName": "Missingingredients",
+			"Title": "Missing ingredients?",
+			"Description": "Make sure you save up ingredients that may be out of season throughout the year for recipes. If you can't find a specific crop or fruit chances are it can only be grown in another town. \\n \\n You may need to travel to that town to buy the ingredients in their local farm shop or wait for market day every Saturday.",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Crops_Processed/Cocoa_Powder.Cocoa_Powder'",
+			"Background": "None",
+			"UnlockDate": 
+			{
+				"Season": 0,
+				"DayOfSeason": 0,
+				"Year": 0
+			}
+		},
+		{
+			"RowName": "Experimenting",
+			"Title": "Experimenting",
+			"Description": "You don't always need a recipe to make a new dish. If you want to try to experiment, click the experiment button and then drag and drop the items that you think will make a dish. \\n \\n Since this is an experimental recipe, it will be difficult to make. If you successfully make a recipe by experimenting it will be added to your cookbook. \\n \\n You cannot unlock new recipes with substitute ingredients. ",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/General/Disaster_Dish.Disaster_Dish'",
+			"Background": "None",
+			"UnlockDate": 
+			{
+				"Season": 0,
+				"DayOfSeason": 0,
+				"Year": 0
+			}
+		},
+		{
+			"RowName": "ToolsWooden",
+			"Title": "Wooden Tools",
+			"Description": "Wood is the weakest material you can make tools out of. They break really easy and use up a lot of energy. Try to ditch wooden tools as soon as you can.",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Tools/Hoe_Wooden.Hoe_Wooden'",
+			"Background": "None",
+			"UnlockDate": 
+			{
+				"Season": 0,
+				"DayOfSeason": 0,
+				"Year": 0
+			}
+		},
+		{
+			"RowName": "ToolsCopper",
+			"Title": "Copper Tools",
+			"Description": "Copper tools are a little bit better than wooden tools. They have less of a chance to break and take up less energy, but that's about it. Copper hoes and watering-cans can hoe and water 2 squares at a time.",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Tools/Sickle_Copper.Sickle_Copper'",
+			"Background": "None",
+			"UnlockDate": 
+			{
+				"Season": 0,
+				"DayOfSeason": 0,
+				"Year": 0
+			}
+		},
+		{
+			"RowName": "ToolsIron",
+			"Title": "Iron Tools",
+			"Description": "Iron tools are better than copper tools as they have less of a chance of breaking. Iron hoes and watering-cans can hoe and water 4 squares at a time.",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Tools/Axe_Iron.Axe_Iron'",
+			"Background": "None",
+			"UnlockDate": 
+			{
+				"Season": 0,
+				"DayOfSeason": 0,
+				"Year": 0
+			}
+		},
+		{
+			"RowName": "ToolsSilver",
+			"Title": "Silver Tools",
+			"Description": "Silver tools are better than iron tools. They are a pretty sturdy tool with a lower chance of breaking. Silver hoes and watering-cans can hoe and water 6 squares at a time.",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Tools/WateringCan_Silver.WateringCan_Silver'",
+			"Background": "None",
+			"UnlockDate": 
+			{
+				"Season": 0,
+				"DayOfSeason": 0,
+				"Year": 0
+			}
+		},
+		{
+			"RowName": "ToolsGold",
+			"Title": "Gold Tools",
+			"Description": "Gold tools are much better than silver tools as they have even lower chance of breaking. Gold hoes and watering-cans can hoe and water 9 squares at a time.",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Tools/WateringCan_Gold.WateringCan_Gold'",
+			"Background": "None",
+			"UnlockDate": 
+			{
+				"Season": 0,
+				"DayOfSeason": 0,
+				"Year": 0
+			}
+		},
+		{
+			"RowName": "ToolsSteel",
+			"Title": "Steel Tools",
+			"Description": "Steel tools are better than gold tools. Their damage chance is very low and they are sure to last quite a bit. Steel hoes and watering-cans can hoe and water 9 squares at a time.",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Tools/FishingRod_Steel.FishingRod_Steel'",
+			"Background": "None",
+			"UnlockDate": 
+			{
+				"Season": 0,
+				"DayOfSeason": 0,
+				"Year": 0
+			}
+		},
+		{
+			"RowName": "ToolsTitanium",
+			"Title": "Titanium Tools",
+			"Description": "Titanium tools are a bit better than steel tools. They use les energy than a steel one. Titanium hoes and watering-cans can hoe and water 16 squares at a time.",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Tools/Brush_Titanium.Brush_Titanium'",
+			"Background": "None",
+			"UnlockDate": 
+			{
+				"Season": 0,
+				"DayOfSeason": 0,
+				"Year": 0
+			}
+		},
+		{
+			"RowName": "ToolsUranium",
+			"Title": "Uranium Tools",
+			"Description": "Uranium tools are better than titanium tools. They almost never get damaged when used and they use less stamina. Uranium hoes and watering-cans can hoe and water 16 squares at a time.",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Tools/PickAxe_Uranium.PickAxe_Uranium'",
+			"Background": "None",
+			"UnlockDate": 
+			{
+				"Season": 0,
+				"DayOfSeason": 0,
+				"Year": 0
+			}
+		},
+		{
+			"RowName": "ToolsDIamond",
+			"Title": "Diamond Tools",
+			"Description": "Diamond tools are better than uranium tools. They use less stamina and also are very hard to damage. Diamond hoes and watering-cans can hoe and water 25 squares at a time.",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Tools/Shovel_Diamond.Shovel_Diamond'",
+			"Background": "None",
+			"UnlockDate": 
+			{
+				"Season": 0,
+				"DayOfSeason": 0,
+				"Year": 0
+			}
+		},
+		{
+			"RowName": "ToolsMeteor",
+			"Title": "Meteor Tools",
+			"Description": "Meteor tools are the strongest tools you can craft. They use no stamina and take no damage. Once you've crafted one, that's your tool for life. Meteor hoes and watering cans hoe and water 36 squares at a time.",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Tools/Axe_Meteor.Axe_Meteor'",
+			"Background": "None",
+			"UnlockDate": 
+			{
+				"Season": 0,
+				"DayOfSeason": 0,
+				"Year": 0
+			}
+		},
+		{
+			"RowName": "ToolsWhereToCraft",
+			"Title": "Where to get tools?",
+			"Description": "Wooden, copper, iron, silver, and gold tools can be bought at the local blacksmith. All other tools must be crafted by hand. See books about crafting to find out how to make them.",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Expansions/Anvil_Icon.Anvil_Icon'",
+			"Background": "None",
+			"UnlockDate": 
+			{
+				"Season": 0,
+				"DayOfSeason": 0,
+				"Year": 0
+			}
+		},
+		{
+			"RowName": "SpringPumpkinvale",
+			"Title": "Spring Crops in Pumpkinvale",
+			"Description": "List of crops that grow during spring in the town of Pumpkinvale. \\n \\n Potatoes (3 days) \\n\\n Turnips (3 days) \\n\\n Onions (4 days) \\n\\n Wheat (3 days)  \\n \\n Soybeans (10 days) \\n \\n Lettuce (4 days) \\n \\n Strawberries (8 days) \\n\\n Barley (10 days) \\n \\n Kidney Beans (7 days) \\n \\n Sugar Beets (5 days)",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Crops/Turnip.Turnip'",
+			"Background": "None",
+			"UnlockDate": 
+			{
+				"Season": 0,
+				"DayOfSeason": 0,
+				"Year": 0
+			}
+		},
+		{
+			"RowName": "SpringWahooBeach",
+			"Title": "Spring Crops in Wahoo Beach",
+			"Description": "List of crops that grow during spring in the town of Wahoo Beach. \\n \\n Potato (3 days)  \\n \\n  Sugarcane (5 days) \\n \\n  Lentils (6 days)  \\n \\n  Spinach (4 days) \\n \\n  Cucumber (6 days)  \\n \\n  Jalapeno (4 days) \\n\\n Wheat (3 days). ",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Crops/Cucumber.Cucumber'",
+			"Background": "None",
+			"UnlockDate": 
+			{
+				"Season": 0,
+				"DayOfSeason": 0,
+				"Year": 0
+			}
+		},
+		{
+			"RowName": "SpringTreesPumpkinvale",
+			"Title": "Spring Trees in Pumpkinvale",
+			"Description": "Trees that bear fruit during spring in Pumpkinvale. \\n \\n Cherries \\n \\n  Lemon \\n \\n Macadamia \\n \\n Fruit regrows on trees every 6 days after harvesting.",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Crops/Cherries.Cherries'",
+			"Background": "None",
+			"UnlockDate": 
+			{
+				"Season": 0,
+				"DayOfSeason": 0,
+				"Year": 0
+			}
+		},
+		{
+			"RowName": "SpringTreesWahooBeach",
+			"Title": "Spring Trees in Wahoo Beach ",
+			"Description": "Trees that bear fruit during spring in Wahoo Beach. \\n \\n Limes \\n \\n Mangos \\n \\n Peaches \\n \\n  Oranges \\n \\n  Papaya \\n \\n  Pecans  \\n \\n  Cashews \\n \\n Kumquats \\n \\n Almonds \\n \\n Lychees \\n \\n Olives \\n \\n Cocoa \\n \\n Coconuts \\n \\n Bananas \\n \\n Dragon fruit \\n \\n Breadfruit \\n \\n Fruit regrows on trees every 6 days after harvesting.",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Crops/Mango.Mango'",
+			"Background": "None",
+			"UnlockDate": 
+			{
+				"Season": 0,
+				"DayOfSeason": 0,
+				"Year": 0
+			}
+		},
+		{
+			"RowName": "SummerCropsPumpkinvale",
+			"Title": "Summer Crops in Pumpkinvale",
+			"Description": "List of crops that grow in the summer in the town of Pumpkinvale. \\n \\n Potatoes (3 days) \\n \\n  Corn (8 days) \\n \\n  Turnips (3 days) \\n \\n  Wheat (3 days) \\n \\n  Soybeans (10 days) \\n \\n  Barley (10 days) \\n \\n  Kidney Beans \\n (7 days) \\n \\n  Peppercorn (4 days) \\n \\n  Tomatoes (10 days) \\n \\n  Bell Peppers (4 days) \\n Blackberries (10 days) \\n Raspberries \\n \\n  (10 days)  \\n \\n  Beets (4 days) \\n \\n  Oats (6 days) \\n \\n  Black Beans (4 days) \\n \\n  Coffee (6 days) \\n \\n Sugar Beets (5 days)",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Crops/Corn.Corn'",
+			"Background": "None",
+			"UnlockDate": 
+			{
+				"Season": 1,
+				"DayOfSeason": 2,
+				"Year": 1
+			}
+		},
+		{
+			"RowName": "SummerCropsWahooBeach",
+			"Title": "Summer Crops in Wahoo Beach",
+			"Description": "List of crops that grow in the summer in the town of Wahoo Beach. \\n \\n Potatoes (3 days) \\n \\n  Peppercorn (4 days) \\n Tomatoes (10 days) \\n \\n  Sugarcane (5 days) \\n \\n  Lentils (6 days) \\n Pineapple (16 days) \\n \\n  Watermelon (5 days) \\n \\n  Cotton (6 days) \\n \\n  Coffee (6 days) \\n \\n Black Beans (4 days) \\n\\n Wheat (3 days) \\n \\n  Corn (8 days)",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Crops/Watermelon.Watermelon'",
+			"Background": "None",
+			"UnlockDate": 
+			{
+				"Season": 1,
+				"DayOfSeason": 2,
+				"Year": 1
+			}
+		},
+		{
+			"RowName": "SummerTreesPumpkinvale",
+			"Title": "Summer Trees in Pumpkinvale",
+			"Description": "Trees that bear fruit during summer in Pumpkinvale.  \\n \\n Macadamias \\n \\n Apples \\n \\n Pistachios \\n \\n Lemons \\n \\n Cherries \\n \\n Fruit regrows on trees every 6 days after harvesting.",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Crops/Peach.Peach'",
+			"Background": "None",
+			"UnlockDate": 
+			{
+				"Season": 1,
+				"DayOfSeason": 2,
+				"Year": 1
+			}
+		},
+		{
+			"RowName": "SummerTreesWahooBeach",
+			"Title": "Summer Trees in Wahoo Beach",
+			"Description": "Trees that bear fruit during summer in Wahoo Beach. \\n \\n Cocoa \\n \\n Coconut \\n \\n Bananas \\n \\n Dragon Fruit \\n \\n Breadfruit \\n \\n Kumquats \\n \\n Almonds \\n \\n Peaches \\n \\n Lychees \\n \\n  Olives \\n \\n  Figs \\n \\n  Pomegranate \\n \\n Dates \\n \\n Mandarins \\n \\n Limes \\n \\n Mango \\n \\n Oranges \\n \\n Papaya \\n \\n Pecans \\n \\n Cashews \\n \\n Grapefruit \\n \\n Fruit regrows on trees every 6 days after harvesting.",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Crops/dragon_fruit.dragon_fruit'",
+			"Background": "None",
+			"UnlockDate": 
+			{
+				"Season": 1,
+				"DayOfSeason": 2,
+				"Year": 1
+			}
+		},
+		{
+			"RowName": "FallCropsPumpkinvale",
+			"Title": "Fall Crops in Pumpkinvale",
+			"Description": "List of crops that grow during fall in the town of Pumpkinvale. \\n \\n  Blueberries (10 days) \\n \\n Potatoes (3 days) \\n \\n Turnips (3 days) \\n \\n Wheat (3 days) \\n \\n Carrots(4 days) \\n \\n Soybeans (10 days) \\n \\n Barley (10 days) \\n \\n Kidney Beans (7 days) \\n \\n Eggplant (6 days) \\n \\n Cauliflower (4 days) \\n \\n Sugar Beets(5 days) \\n \\n Pumpkins (6 days)",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Crops/Eggplant.Eggplant'",
+			"Background": "None",
+			"UnlockDate": 
+			{
+				"Season": 2,
+				"DayOfSeason": 2,
+				"Year": 1
+			}
+		},
+		{
+			"RowName": "FallCropsWahooBeach",
+			"Title": "Fall Crops in Wahoo Beach",
+			"Description": "List of crops that grow during fall in the town of Wahoo Beach. \\n \\n Potatoes (3 days) \\n \\n Sugarcane (5 days)  \\n \\n Lentils (6 days) \\n \\n Zucchini (4 days)  \\n \\n Cantaloupe (5 days) \\n \\n Honey Dew (5 days) \\n\\n Wheat (3 days)",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Crops/Honeydew.Honeydew'",
+			"Background": "None",
+			"UnlockDate": 
+			{
+				"Season": 2,
+				"DayOfSeason": 2,
+				"Year": 1
+			}
+		},
+		{
+			"RowName": "FallTreesPumpkinvale",
+			"Title": "Fall Trees in Pumpkinvale",
+			"Description": "Trees that bear fruit during fall in Pumpkinvale. \\n \\n  Apples \\n \\n Pistachios \\n \\n Fruit regrows on trees every 6 days after harvesting.",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Crops/Apple.Apple'",
+			"Background": "None",
+			"UnlockDate": 
+			{
+				"Season": 2,
+				"DayOfSeason": 2,
+				"Year": 1
+			}
+		},
+		{
+			"RowName": "FallTreesWahooBeach",
+			"Title": "Fall Trees in Wahoo Beach",
+			"Description": "Trees that bear fruit during fall in Wahoo Beach. \\n \\n Guava \\n \\n Avocado \\n \\n Starfruit \\n \\n Sugarapple \\n \\n Hazel Nut \\n \\n Peanuts \\n \\n  Figs \\n \\n Pomegranate \\n \\n Dates \\n \\n Mandarin \\n \\n Grapefruit \\n \\n Fruit regrows on trees every 6 days after harvesting.",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Crops/Starfruit.Starfruit'",
+			"Background": "None",
+			"UnlockDate": 
+			{
+				"Season": 2,
+				"DayOfSeason": 2,
+				"Year": 1
+			}
+		},
+		{
+			"RowName": "WinterCropsPumpkinvale",
+			"Title": "Winter Crops in Pumpkinvale",
+			"Description": "List of crops that grow during winter in the town of Pumpkinvale. \\n \\n Potatoes (3 days) \\n \\n Turnips (3 days) \\n \\n Soybeans (10 days) \\n \\n Kale (4 days) \\n \\n Sugar Beets (5 days)",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Crops/Kale.Kale'",
+			"Background": "None",
+			"UnlockDate": 
+			{
+				"Season": 3,
+				"DayOfSeason": 2,
+				"Year": 1
+			}
+		},
+		{
+			"RowName": "WintercropsWahooBeach",
+			"Title": "Winter Crops in Wahoo Beach",
+			"Description": "List of crops that grow during winter in the town of Wahoo Beach. \\n \\n Potatoes (3 days) \\n \\n Sugarcane (4 days) \\n \\nLentils (6 days)  \\n \\n Celery (4 days) \\n \\n Passion Fruit (5 days)",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Crops/Celery.Celery'",
+			"Background": "None",
+			"UnlockDate": 
+			{
+				"Season": 3,
+				"DayOfSeason": 2,
+				"Year": 1
+			}
+		},
+		{
+			"RowName": "WinterTreesPumpkinvale",
+			"Title": "Winter Trees in Pumpkinvale",
+			"Description": "No trees bear fruit in Pumpkinvale during winter.",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Cheek_Icons/Blank.Blank'",
+			"Background": "None",
+			"UnlockDate": 
+			{
+				"Season": 3,
+				"DayOfSeason": 2,
+				"Year": 1
+			}
+		},
+		{
+			"RowName": "WinterTreesWahooBeach",
+			"Title": "Winter Trees in Wahoo Beach",
+			"Description": "Trees that bear fruit during winter in Wahoo Beach. \\n \\n Grapefruit \\n \\n Nutmeg \\n \\n Durian \\n \\n Avocados \\n \\n Guavas \\n \\n Starfruit \\n \\n Sugar Apple \\n \\n Hazelnuts \\n \\n  \\n \\n Fruit regrows on trees every 6 days after harvesting.",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Crops/Nutmeg.Nutmeg'",
+			"Background": "None",
+			"UnlockDate": 
+			{
+				"Season": 3,
+				"DayOfSeason": 2,
+				"Year": 1
+			}
+		},
+		{
+			"RowName": "SpringRiverFishing",
+			"Title": "Spring River Fish",
+			"Description": "Mountain Trout (Medium) \\n \\n Rainbow Trout (Medium) \\n \\n  Bream (Easy) \\n \\n Tiger Fish (Easy) \\n \\n Dace (Easy) \\n \\n Bitterling (Easy) \\n \\n Big Head (Hard) \\n \\n Salmon (Hard) \\n \\n Tench (Easy) \\n \\n Piranha (Hard)",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Fish/Bream.Bream'",
+			"Background": "None",
+			"UnlockDate": 
+			{
+				"Season": 0,
+				"DayOfSeason": 0,
+				"Year": 0
+			}
+		},
+		{
+			"RowName": "SummerRiverFishing",
+			"Title": "Summer River Fish",
+			"Description": "Mountain Trout (Medium) \\n \\n Arapaima (Impossible) \\n \\n Tiger Fish (Easy) \\n \\n Dace (Easy) \\n \\n Cherry Salmon (Medium) \\n \\n Bitterling (Easy) \\n \\n Mitten Crabs (Medium) \\n \\n Tench (Easy)",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Fish/Mountain_Trout.Mountain_Trout'",
+			"Background": "None",
+			"UnlockDate": 
+			{
+				"Season": 1,
+				"DayOfSeason": 2,
+				"Year": 1
+			}
+		},
+		{
+			"RowName": "FallRiverFishing",
+			"Title": "Fall River Fish",
+			"Description": "Cherry Salmon (Medium) \\n \\n Bitterling (Easy) \\n \\n Big Head Carp (Hard) \\n \\n Sturgeon (Impossible) \\n \\n Mitten Crabs (Medium) \\n \\n Tench (Easy)",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Fish/Cherry_Salmon.Cherry_Salmon'",
+			"Background": "None",
+			"UnlockDate": 
+			{
+				"Season": 2,
+				"DayOfSeason": 2,
+				"Year": 1
+			}
+		},
+		{
+			"RowName": "WinterRiverFish",
+			"Title": "Winter River Fish",
+			"Description": "Guppy (Easy) \\n \\n Arctic Char (Easy) \\n \\n Chub (Easy) \\n \\n Barbel Steed (Easy) \\n \\n River Bass (Medium) \\n \\n Loach (Easy) \\n \\n Tench (Easy)",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Fish/Barbed_steed.Barbed_steed'",
+			"Background": "None",
+			"UnlockDate": 
+			{
+				"Season": 3,
+				"DayOfSeason": 2,
+				"Year": 1
+			}
+		},
+		{
+			"RowName": "SpringLakeFishing",
+			"Title": "Spring Lake Fish",
+			"Description": "White Bass (Easy) \\n \\n Tetra (Easy) \\n \\n Blue Gill (Easy) \\n \\n Mullet (Medium) \\n \\n Catfish (Medium) \\n \\n Black Bass (Medium) \\n \\n Snakehead (Hard) \\n \\n Lake Smelt (Easy) \\n \\n Northern Pike (Medium) \\n \\n Rock Bass (Easy) \\n \\n Largemouth Bass (Very Hard)",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Fish/Blue_Gill.Blue_Gill'",
+			"Background": "None",
+			"UnlockDate": 
+			{
+				"Season": 0,
+				"DayOfSeason": 0,
+				"Year": 0
+			}
+		},
+		{
+			"RowName": "SummerLakeFishing",
+			"Title": "Summer Lake Fish",
+			"Description": "White Bass (Easy) \\n \\n Black Bass (Medium) \\n \\n Lake Smelt (Easy) \\n \\n Northern Pike (Medium) \\n \\n Rock Bass (Easy) \\n \\n Largemouth Bass (Very Hard) \\n \\n Walleye (Easy) \\n \\n Goldfish (Easy) \\n \\n Pride Fish (impossible)",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Fish/Black_Bass.Black_Bass'",
+			"Background": "None",
+			"UnlockDate": 
+			{
+				"Season": 1,
+				"DayOfSeason": 2,
+				"Year": 1
+			}
+		},
+		{
+			"RowName": "FallLakeFishing",
+			"Title": "Fall Lake Fish",
+			"Description": "Lake Eel (Medium) \\n \\n Golden Carp (Easy) \\n \\n Walleye (Easy) \\n \\n Goldfish (Easy) \\n \\n Koi (Hard) \\n \\n Betta Fish (Medium) \\n \\n Alligator Gar (Very Hard) \\n \\n Silver Carp (Easy) ",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Fish/Walleye.Walleye'",
+			"Background": "None",
+			"UnlockDate": 
+			{
+				"Season": 2,
+				"DayOfSeason": 2,
+				"Year": 1
+			}
+		},
+		{
+			"RowName": "WinterLakeFishing",
+			"Title": "Winter Lake Fish",
+			"Description": "Lake Eel (Medium) \\n \\n Golden Carp (Easy) \\n \\n Silver Carp (Easy) \\n \\n Walleye (Easy) \\n \\n Goldfish (Easy) \\n \\n Crucian Carp (Medium) \\n \\n Whitefish (Easy) \\n \\n  Alligator Gar (Very Hard)",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Fish/Gold_Fish.Gold_Fish'",
+			"Background": "None",
+			"UnlockDate": 
+			{
+				"Season": 3,
+				"DayOfSeason": 2,
+				"Year": 1
+			}
+		},
+		{
+			"RowName": "SpringOceanFishing",
+			"Title": "Spring Beach Fish",
+			"Description": "Sardine (Easy) \\n \\n Mackerel (Medium) \\n \\n Octopus (Medium) \\n \\n Oyster (Easy) \\n \\n Sable Fish (Easy) \\n \\n Flounder (Medium) \\n \\n Lamprey (Medium) \\n \\n Monkfish (Medium) \\n \\n Milkfish (Medium) \\n \\n Tetra (Easy) \\n \\n Scallops (Easy) \\n \\n Sea Urchin (Easy) \\n \\nClam (Easy) \\n \\nSeaweed (Easy) \\n \\n Saltwater Eel (Easy)",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Fish/Lamprey.Lamprey'",
+			"Background": "None",
+			"UnlockDate": 
+			{
+				"Season": 0,
+				"DayOfSeason": 0,
+				"Year": 0
+			}
+		},
+		{
+			"RowName": "SummerOceanFishing",
+			"Title": "Summer Beach Fish",
+			"Description": "Oyster (Easy) \\n \\n Lobster (Medium) \\n \\n Kelp Bass (Easy) \\n \\n File Fish (Medium) \\n \\n Fluke (Easy) \\n \\n Scad (Easy) \\n \\n Squid (Easy) \\n \\n Saltwater Catfish (Hard) \\n \\n Pufferfish (Easy) \\n \\n Snapper (Hard) \\n \\n Herring (Medium) \\n \\n Jellyfish (Easy) \\n \\n Shrimp (Easy) \\n \\n Rock Lobster (Medium) \\n \\n Tilapia (Medium), \\n \\n Saltwater Eel (Easy), \\n \\n Spiny Lobster (Hard) ",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Fish/Lobster.Lobster'",
+			"Background": "None",
+			"UnlockDate": 
+			{
+				"Season": 1,
+				"DayOfSeason": 2,
+				"Year": 1
+			}
+		},
+		{
+			"RowName": "FallOceanFishing",
+			"Title": "Fall Beach Fish",
+			"Description": "Oyster (Easy) \\n \\n Grouper (Very Hard) \\n \\n Saury Pike (Easy) \\n \\n Greenling (Medium) \\n \\n Anchovies (Easy) \\n \\n Conch (Easy) \\n \\n Saltwater Eel (Easy)",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Fish/Grouper.Grouper'",
+			"Background": "None",
+			"UnlockDate": 
+			{
+				"Season": 2,
+				"DayOfSeason": 2,
+				"Year": 1
+			}
+		},
+		{
+			"RowName": "WinterOceanFishing",
+			"Title": "Winter Beach Fish",
+			"Description": "Needle Fish (Easy) \\n \\n Halibut (Medium) \\n \\n Starfish (Medium) \\n \\n Saltwater Eel (Easy)",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Fish/Halibut.Halibut'",
+			"Background": "None",
+			"UnlockDate": 
+			{
+				"Season": 3,
+				"DayOfSeason": 2,
+				"Year": 1
+			}
+		},
+		{
+			"RowName": "SpringDeepOceanFishing",
+			"Title": "Spring Ocean Fish",
+			"Description": "Sardine (Easy) \\n \\n Bonito (Medium) \\n \\n Mackerel (Medium) \\n \\n Octopus (Hard) \\n \\n Sea Cucumber (Easy) \\n \\n Sable Fish (Easy) \\n \\n Flounder (Medium) \\n \\n Lamprey (Medium) \\n \\n Monkfish (Medium) \\n \\n Milkfish (Medium) \\n \\n Scallops (Easy) \\n \\n Sea Urchin (Easy) \\n \\n Clam (Easy) \\n \\n Seaweed (Easy) \\n \\n Blue Marlin (Very Hard)",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Fish/Mackerel.Mackerel'",
+			"Background": "None",
+			"UnlockDate": 
+			{
+				"Season": 0,
+				"DayOfSeason": 0,
+				"Year": 0
+			}
+		},
+		{
+			"RowName": "SummerDeepOceanFishing",
+			"Title": "Summer Ocean Fish",
+			"Description": "Seahorse (Easy) \\n \\n Oyster (Easy) \\n \\n Sea Cucumber (Easy) \\n \\n Scallops (Easy) \\n \\n Sea Urchin (Easy) \\n \\n Clam (Easy) \\n \\n Seaweed (Easy) \\n \\n Tuna (Very Hard) \\n \\n Haddock (Hard) \\n \\n Mahi Mahi (Very Hard)\\n \\n Giant Trevally (Impossible) \\n \\n Clown Fish (Medium) \\n \\n Humphead Wrasse (Hard) \\n \\n Wahoo (Hard) \\n \\n Ocean Sunfish (Easy) \\n \\n Lobster (medium) \\n \\n Lion Fish (Hard) \\n \\n Dungeoness Crab (Hard) \\n \\n Stingray (Hard) \\n \\n Kelp Bass (Easy) \\n \\n File Fish (Medium) \\n \\n Fluke (Easy) \\n \\n Scad (Easy) \\n \\n Squid (Easy) \\n \\n Saltwater Catfish (Hard) \\n \\n Pufferfish (Easy) \\n \\n Snapper (Hard) \\n \\n Herring (Medium) \\n \\n Jellyfish (Easy) \\n \\n Common Crab (Medium) \\n \\n Shrimp (Easy) \\n \\n Spiny Lobster (Hard) \\n \\n Arowana (Impossible) \\n \\n Butterfly Fish (Hard) \\n \\n Coelacanth (Impossible) \\n \\n Angel Fish (Easy)",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Fish/Haddok.Haddok'",
+			"Background": "None",
+			"UnlockDate": 
+			{
+				"Season": 1,
+				"DayOfSeason": 2,
+				"Year": 1
+			}
+		},
+		{
+			"RowName": "FallDeepOceanFishing",
+			"Title": "Fall Ocean Fish",
+			"Description": " Oyster (Easy) \\n \\n Sea Cucumber (Easy) \\n \\n Scallops (Easy) \\n \\n Sea Urchin (Easy) \\n \\n Clam (Easy) \\n \\n Seaweed (Easy) \\n \\n Stingray (Hard) \\n \\n Herring (Medium) \\n \\n Black Sea Nettle (Impossible) \\n \\n Cod (Hard) \\n \\n Crawdad (Medium) \\n \\n Sea Bass (Medium) \\n \\n Grouper (Very Hard) \\n \\n Saury Pike (Easy) \\n \\n Greenling (Medium) \\n \\n Spider Crab (Easy) \\n \\n Zebra Mussel (Medium) \\n \\n Oarfish (Impossible) \\n \\n Anchovies (Easy)",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Fish/Zebra_mussel.Zebra_mussel'",
+			"Background": "None",
+			"UnlockDate": 
+			{
+				"Season": 2,
+				"DayOfSeason": 2,
+				"Year": 1
+			}
+		},
+		{
+			"RowName": "WinterDeepOceanFishing",
+			"Title": "Winter Ocean Fish",
+			"Description": "Red King Crab (Very Hard) \\n \\n Shark (Impossible) \\n \\n Clam (Easy) \\n \\n Seaweed (Easy) \\n \\n Needle Fish (Easy) \\n \\n Rock Trout (Medium) \\n \\n Swordfish (Impossible) \\n \\n Yellowtail (Hard) \\n \\n Halibut (Medium) \\n \\n John Dory (Easy) \\n \\n Abalone (Easy) \\n \\n Chambered Nautilus (Impossible) \\n \\n Horse Hair Crab (Easy) \\n \\n Snow Crab (Very Hard) \\n \\n Sweet Shrimp (Easy) \\n \\n Tiger Prawn (Hard) \\n \\n Conch (Easy)  \\n \\n Starfish (Medium) \\n \\n Festive Sea Slug (Hard) \\n \\n Angler Fish (Very Hard) \\n \\n Killi Fish (Easy) \\n \\n Saddle Bichir (Medium) \\n \\n Horseshoe Crab (Medium) \\n \\n Giant Isopod (Impossible) \\n \\n Mantis Shrimp (Hard) \\n \\n Turban Shell (Easy) \\n \\n Sea butterfly (Easy)",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Fish/Needle_Fish.Needle_Fish'",
+			"Background": "None",
+			"UnlockDate": 
+			{
+				"Season": 3,
+				"DayOfSeason": 2,
+				"Year": 1
+			}
+		},
+		{
+			"RowName": "RecommendedFishingRods",
+			"Title": "Recommended Fishing Rods",
+			"Description": "Sometimes when you fish it can be hard to reel in what you hook. The fish will get away if you don't have to right fishing rod to reel it in. Here are the recommended fishing rods for the different fish. \\n \\n Use a wooden fishing rod for easy fish, an iron fishing rod for medium difficult fish, a gold fishing rod for hard fish, a titanium fishing rod for very hard fish and a meteor fishing rod for impossible fish. \\n \\n See the book about tools to get more information on how to obtain those fishing rods.",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Tools/FishingRod_Copper.FishingRod_Copper'",
+			"Background": "None",
+			"UnlockDate": 
+			{
+				"Season": 0,
+				"DayOfSeason": 0,
+				"Year": 0
+			}
+		},
+		{
+			"RowName": "AboutFishPrep",
+			"Title": "Fish Prep Station",
+			"Description": "The fish prep station becomes available after shipping 50 fish. The fish prep station is where you cut and clean the fish before using it in recipes. Simply drag any fish in to the slot and it will be turned into fish fillets. Not all fish can be turned into fillets such as; tiny fish, decorative ocean fish, and poisonous fish.",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Furniture/Fish_Prep_Station_Icon.Fish_Prep_Station_Icon'",
+			"Background": "None",
+			"UnlockDate": 
+			{
+				"Season": 0,
+				"DayOfSeason": 0,
+				"Year": 0
+			}
+		},
+		{
+			"RowName": "SmelterInfo",
+			"Title": "Smelter",
+			"Description": "A smelter is used to process ores into metal bars. It takes 5 ores to be turned into a metal bar. \\n \\n To use a smelter simply place it on your farm, click on the smelter and then to drag and drop ores to be smelted to the left slot. \\n \\n  Processing may take some time so feel free to leave the items processing and come back later. \\n \\n Metal List \\n \\n Iron Bar: \\n 5 Iron Ores \\n \\n Copper bar:\\n 5 Copper Ores \\n \\n Silver Bar: \\n 5 Silver Ores \\n \\n Gold Bar: \\n 5 Gold Ores \\n \\n Steel Bar: \\n 5 Steel Ores \\n \\n Titanium Bar: \\n 5 Titatanium Ores \\n \\n Uranium Bar: \\n 5 Uranium Ores \\n \\n Glass: \\n 5 Sand",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Expansions/Smeltry_Icon.Smeltry_Icon'",
+			"Background": "None",
+			"UnlockDate": 
+			{
+				"Season": 0,
+				"DayOfSeason": 0,
+				"Year": 0
+			}
+		},
+		{
+			"RowName": "AboutFishGrill",
+			"Title": "Fish Grill",
+			"Description": "The fish grill can be used to grill most fish except really tiny fish and really big fish. \\n \\n There is already a public one on the docks, but it is available in case you want to do some grilling at home. ",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Furniture/Fish_Grill.Fish_Grill'",
+			"Background": "None",
+			"UnlockDate": 
+			{
+				"Season": 0,
+				"DayOfSeason": 0,
+				"Year": 0
+			}
+		},
+		{
+			"RowName": "SawmilInfo",
+			"Title": "Sawmill",
+			"Description": "A sawmill is used to process logs into wood planks. \\n \\n Place the sawmill somewhere on your farm, then click on it and drag and drop the wood into the left slot for processing. 1 log will produce 1 set of wood planks. \\n \\n Processing may take some time, so feel free to leave the items processing and come back later.",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Expansions/Sawmill.Sawmill'",
+			"Background": "None",
+			"UnlockDate": 
+			{
+				"Season": 0,
+				"DayOfSeason": 0,
+				"Year": 0
+			}
+		},
+		{
+			"RowName": "BeerBarrelInfo",
+			"Title": "Beer Barrel",
+			"Description": "The beer barrel becomes available after shipping 100 Bags of Barley. \\n \\n It's used to ferment certain kinds of crops into beers. \\n \\n Place the beer barrel somewhere on your farm, click on it and then drag and drop specific crops in the left slot for processing. It takes 2 ingredients to be processed into 1 bottle of alcohol. \\n \\n Processing may take some time, so feel free to leave the items processing and come back later. \\n \\n Beer Recipes \\n \\n Beer: \\n 2 Bags of Barley \\n \\n Mead: \\n 2 Honey \\n \\n Ginger beer: \\n 2 Ginger \\n \\n Plum Wine: \\n 2 Plums \\n \\n Cider: \\n 2 Apples \\n \\n Chicha: \\n 2 Corn \\n \\n Wheat Beer: \\n 2 Wheat \\n \\n Sake: \\n 2 Bags of Rice \\n \\n Wine: \\n 2 Grapes",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Expansions/brewing_barrels.brewing_barrels'",
+			"Background": "None",
+			"UnlockDate": 
+			{
+				"Season": 0,
+				"DayOfSeason": 0,
+				"Year": 0
+			}
+		},
+		{
+			"RowName": "BeeBoxInfo",
+			"Title": "Bee Box",
+			"Description": "The bee box becomes available after shipping 100 flowers. \\n \\n The more flowers around a beebox the faster it will produce honey as it attracts more bees. \\n \\n Only flowers that are in bloom will attract the bees to the bee box. When the honey is ready to harvest it will ooze out from the sides of the bee box. \\n \\n The fastest the bee box can produce honey is daily and if there are no flowers a small amount of honey will only be produced once a season.\\n \\n Here are how many flowers you need and how often it will cause the beebox to make honey: \\n \\n 2 flowers: \\n Honey in 25 days \\n \\n 4 flowers: \\n Honey in 22 days \\n \\n 6 flowers: \\n Honey in 19 days \\n \\n 8 flowers: \\n Honey in 16 days \\n \\n 10 flowers: \\n Honey in 13 days \\n \\n 12 flowers: \\n Honey in 10 days \\n \\n 14 flowers: \\n Honey in 7 days \\n \\n  16 flowers: \\n Honey in 4 days \\n \\n 18 flowers: \\n Honey in 1 day",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Expansions/Bee_Hive.Bee_Hive'",
+			"Background": "None",
+			"UnlockDate": 
+			{
+				"Season": 0,
+				"DayOfSeason": 0,
+				"Year": 0
+			}
+		},
+		{
+			"RowName": "StillInfo",
+			"Title": "Still",
+			"Description": "The still becomes available after shipping 300 bags of barley (Not raw barley, it must be processed first in a windmill). \\n \\n It's used to distill certain product into alcohol. \\n \\n  Place the still somewhere on your farm, click on it and then drag ingredients into the left slot for processing. It takes awhile to process to feel free to leave it running. It takes 3 ingredients to be processed into alcohol. \\n \\n Processing may take some time, so feel free to leave the items processing and come back later. \\n \\n Liquor Recipes \\n \\n Whiskey: \\n 3 Bags of Barley \\n \\n Moonshine: \\n 3 Corn \\n \\n Vodka: \\n 3 Wheat \\n or \\n 3 Potatoes \\n \\n Vermouth: \\n 3 Grapes \\n \\n Brandy: \\n 3 Blackberries \\n \\n Triple Sec: \\n 3 Oranges \\n \\n Rum: \\n 3 Sugarcane \\n \\n Gin: \\n 3 Juniper berries",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Expansions/Distillery.Distillery'",
+			"Background": "None",
+			"UnlockDate": 
+			{
+				"Season": 0,
+				"DayOfSeason": 0,
+				"Year": 0
+			}
+		},
+		{
+			"RowName": "CheesemakerInfo",
+			"Title": "Cheese and Mayonnaise Maker",
+			"Description": "The Cheese and Mayonnaise Maker becomes available after shipping 20 dairy products including non-dairy milk. \\n \\n It converts milk into cheese, and it turns eggs into mayonnaise. \\n \\n Place the maker anywhere on your farm, click on it and then drag the items to be processed in the left slot. \\n \\n It only takes 1 item to be converted into the final product. \\n \\n It also produces vegan cheese using non-dairy milk products (Refer to the Milk Processor section for how to make non-dairy milk).  \\n \\n Processing may take some time, so feel free to leave the items processing and come back later.",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Expansions/Cheese_Maker.Cheese_Maker'",
+			"Background": "None",
+			"UnlockDate": 
+			{
+				"Season": 0,
+				"DayOfSeason": 0,
+				"Year": 0
+			}
+		},
+		{
+			"RowName": "OilPressInfo",
+			"Title": "Oil Press",
+			"Description": "The oil press becomes available after shipping 50 of any of the ingredients used to make vegetable oil. \\n The oil press can be used to turn some produce into vegetable oil for cooking. \\n \\n Place the oil press somewhere on your farm, click on it and then drag and drop the items needed to be processed. It takes about 2 ingredients to be processed into oil. \\n  \\n Processing may take some time, so feel free to leave the items processing and come back later. \\n \\n Oil Recipes \\n \\n Vegetable Oil: \\n 2 Olives \\n \\n Vegetable Oil: \\n 2 Coconuts \\n \\n Vegetable Oil: \\n 2 Avocados \\n \\n  Vegetable Oil: \\n 2 Peanuts \\n \\n Vegetable Oil: \\n 2 Corn \\n \\n Vegetable Oil: \\n 2 Sunflowers",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Expansions/Oil_Press_Icon.Oil_Press_Icon'",
+			"Background": "None",
+			"UnlockDate": 
+			{
+				"Season": 0,
+				"DayOfSeason": 0,
+				"Year": 0
+			}
+		},
+		{
+			"RowName": "WindmillInfo",
+			"Title": "Windmill",
+			"Description": "The windmill becomes available after shipping 100 grains such as; wheat, barley, rice, sugarcane, sugar beets, cocoa, coffee, oats, corn, and peppercorn. \\n \\n The windmill can be used to process certain crops into refined useable ingredients for sale or cooking. \\n \\n Place the windmill somewhere on the farm, click on it and then drag the ingredients to be processed into the left slot. It only takes 1 ingredients to be processed into its final product. \\n \\n Processing may take some time, so feel free to leave the items processing and come back later. \\n \\n Windmill Uses \\n \\n Bag of Rice: \\n 1 Rice \\n \\n Bag of Sugar: \\n 1 Sugarcane \\n or \\n 1 Sugar Beets \\n \\n Bag of Barley: \\n 1 Barley \\n \\n Cocoa Powder: \\n 1 Cocoa \\n \\n Bag of Flour: \\n 1 Wheat \\n \\n Ground Coffee: \\n 1 Coffee \\n \\n Oatmeal: \\n 1 Oats \\n \\n Pepper Bottle: \\n 1 Peppercorn",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Furniture/windmill.windmill'",
+			"Background": "None",
+			"UnlockDate": 
+			{
+				"Season": 0,
+				"DayOfSeason": 0,
+				"Year": 0
+			}
+		},
+		{
+			"RowName": "MilkProcessorInfo",
+			"Title": "Milk Processor",
+			"Description": "The milk processor becomes available after shipping 50 of any ingredient used to make non-dairy milk. \\n \\n It can be use used to process certain kinds of produce into milk. \\n \\n Place the milk processor somewhere on your farm, click on it and then drag the ingredients to be processed. It takes 3 ingredients to be processed into its final product. \\n \\n Processing may take some time, so feel free to leave the items processing and come back later. \\n \\n Dairy Free Milk List \\n \\n Cashew Milk: \\n 3 Cashews \\n \\n Rice Milk: \\n 3 Bags of Rice \\n \\n Oat Milk: \\n 3 Oatmeal \\n \\n Coconut Milk: \\n 3 Coconuts \\n \\n Almond Milk: \\n 3 Almonds \\n \\n Soy Milk: \\n 3 Soybeans",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Expansions/mayonaise_maker.mayonaise_maker'",
+			"Background": "None",
+			"UnlockDate": 
+			{
+				"Season": 0,
+				"DayOfSeason": 0,
+				"Year": 0
+			}
+		},
+		{
+			"RowName": "DyeingPot",
+			"Title": "Loom",
+			"Description": "The loom becomes available after shipping 20 wool. The loom is used for making colored fabric to be used in crafting custom clothes. \\n \\n Place the Loom anywhere on the farm, click on it and then drag the items in the left slot to be processed. \\n \\n You need 5 wool + 1 wallpaper to make colored fabric. You can also use 5 wool to make fabric the color of the wool itself. \\n  \\n Processing may take some time, so feel free to leave the items processing and come back later.",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Expansions/Loom_Icon.Loom_Icon'",
+			"Background": "None",
+			"UnlockDate": 
+			{
+				"Season": 0,
+				"DayOfSeason": 0,
+				"Year": 0
+			}
+		},
+		{
+			"RowName": "SewingMachine",
+			"Title": "Sewing Machine",
+			"Description": "The sewing machine can be used to craft custom clothes using colored fabrics. To make colored fabrics you need to a loom which can be unlocked by shipping 20 wool.\\n \\n You can only get clothing patterns from Rose in Pumpkinvale and Kishan in Wahoo Beach. \\n \\n Once you unlock a pattern, you can drag and drop the colored fabric into the slot and hit 'craft'. \\n \\n You will be able to preview what the clothes will look like before crafting. \\n \\n You need to clear the mini-game before successfully crafting the article of clothing. Once you do you can give it a custom name. ",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Furniture/Sewing_Machine.Sewing_Machine'",
+			"Background": "None",
+			"UnlockDate": 
+			{
+				"Season": 0,
+				"DayOfSeason": 0,
+				"Year": 0
+			}
+		},
+		{
+			"RowName": "ProcessorInfo",
+			"Title": "Processors Basics",
+			"Description": "Processors are a good investment because the items that are processed can be sold for much more gold. Processors can be bought from your local home improvement shop.",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Expansions/Distillery.Distillery'",
+			"Background": "None",
+			"UnlockDate": 
+			{
+				"Season": 0,
+				"DayOfSeason": 0,
+				"Year": 0
+			}
+		},
+		{
+			"RowName": "CraftingTools",
+			"Title": "Crafting Tools",
+			"Description": "Tools have a tendency to break over time so it may be worth investing in an anvil to craft new tools. You can also make tools that aren't found in the local blacksmith",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Tools/Axe_Copper.Axe_Copper'",
+			"Background": "None",
+			"UnlockDate": 
+			{
+				"Season": 0,
+				"DayOfSeason": 0,
+				"Year": 0
+			}
+		},
+		{
+			"RowName": "CraftingFurniture",
+			"Title": "Crafting Furniture",
+			"Description": "To craft custom furniture you need to have a crafting bench. The crafting bench can be bought at your local home improvement shop. \\n \\n You cannot learn new furniture blueprints by experimenting with a crafting bench and have to learn recipes by watching the TV. There is a new recipe taught twice a day on the TV \\n \\n The main materials used to craft furniture are: \\n \\n Wood Planks \\n Ores and Gems \\n Colored Cloth \\n Wallpaper \\n \\n Wood planks are made using the sawmill, gems can be refined using a gem polishing station, ores can be turned into bars using a smelter, and cloth can be made using flowers and wallpapers in the loom. \\n \\n  After learning the recipe for a piece of furniture try using a raw material that makes sense for the different parts. Sometimes furniture can use multiple different kinds of materials. Check the Material guide in another section.",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Furniture/Wardrobe.Wardrobe'",
+			"Background": "None",
+			"UnlockDate": 
+			{
+				"Season": 0,
+				"DayOfSeason": 0,
+				"Year": 0
+			}
+		},
+		{
+			"RowName": "CraftingCloth",
+			"Title": "Crafting Cloth",
+			"Description": "You need to buy a loom from the local home improvement shop to make and dyed cloth before you can use it with the sewing machine to make custom clothes. Both can be unlocked by shipping 20 wool. \\n \\n To craft colored cloth you need 5 balls of wool. To dye the wool you need five of the same flower to make a solid color, or you can combine the 5 wool with 1 wallpaper for patterned cloth. \\n \\n You can also craft cloth using just the 5 wool, and the cloth will take on the wool's color. \\n \\n You can get wool from raising sheep or from your local farmer's market when available. \\n \\n You can find a list of which flowers make what colored dyes under the flower section of the library.",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Cloth_Colors/Cloth_Bright_Yellow.Cloth_Bright_Yellow'",
+			"Background": "None",
+			"UnlockDate": 
+			{
+				"Season": 0,
+				"DayOfSeason": 0,
+				"Year": 0
+			}
+		},
+		{
+			"RowName": "FlowerDyeGuide",
+			"Title": "Flower Dye Guide",
+			"Description": "Flowers can be combined with wool to make colored cloth. Here is the color guide. Acanthus - Purple\\n \\nAdonis - Light Yellow\\n \\nAlstroemeria - Pink\\n \\nAngelonia - Purple\\n \\nBaby's Breath -White\\n \\nBee Balm - Red\\n \\nBird_Of_Paradise - Orange\\n \\nBlack Dahlia - Black\\n \\nBlack Iris - Black\\n \\nBlue Hydrangea - Blue\\n \\nCactus - Lime Green\\n \\n Camelia - Medium Pink\\n \\nCanna - Red\\n \\nCarnation - Medium Pink\\n \\nChrysanthemum - Bright Yellow\\n \\nCoelogyne_Pandurata - Dark Green\\n \\nColumbine - Blue\\n \\nCosmos- Dark Red\\n \\nCotyledon Blossoms - Red\\n \\nCymbidium Orchid - Brown\\n \\nDaffodil - Yellow\\n \\nDaisy - White\\n \\nDay Lily Hemerocallis - Orange\\n \\nDelphinium - Purple\\n \\nEcheveria - Green\\n \\nEchinacea_Aster - Pink\\n \\nFiddle_Fern - Dark Brown\\n \\nForget-Me-Not - Sky Blue\\n \\nGardenia -White\\n \\nGentian - Dark Blue\\n \\nGladiolus - Pink\\n \\nGreenovia Dodrentalis - Green\\n \\nHellebore - White\\n \\nHollyhock Alcea - Dark Red\\n \\nHyacinth - Purple\\n \\nIris Cristata - Sky Blue\\n \\nIris - Sky Blue\\n \\nIris - Purple\\n \\nJade Vine Flower\\n \\nKangaroo Paw - Brown\\n \\nLamb's Ear - Green\\n \\nMagnolia - White\\n \\nMariposas de Cuba - White\\n \\nMorning Glory - White\\n \\nNigella - Blue\\n \\nOrchid - Pink\\n \\nPassion Flower - Dark Red\\n \\nPeony - Pink\\n \\nPetunia - Purple\\n \\nPoinsettia - Red\\n \\nPoppy - Red\\n \\nPride Of Madeira - Purple\\n \\nPurple Hydrangea - Purple\\n \\nRose - Red\\n \\nSandersonia - Orange\\n \\nScilla - Dark Blue\\n \\nSneezeweed - Dark Red\\n \\nSpirea - Pink\\n \\nStar Scabiosa - White\\n \\nStokesia - Purple\\n \\nSunflower -Bright Yellow\\n \\nTrillium - Dark Red\\n \\nVenus Flytrap - Green\\n \\nVerbana - Purple\\n \\nViolet - Purple\\n \\nZinnia - Red",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Flowers/Daisy.Daisy'",
+			"Background": "None",
+			"UnlockDate": 
+			{
+				"Season": 0,
+				"DayOfSeason": 0,
+				"Year": 0
+			}
+		},
+		{
+			"RowName": "Spring_Soups",
+			"Title": "Spring Soups",
+			"Description": "Potato Soup: \\n 1 Potato \\n 1 Salt \\n \\n Turnip Soup: \\n 1 Turnip \\n 1 Salt \\n \\n Onion Soup: \\n 1 Onion \\n 1 Salt \\n \\n  Lentil Soup: \\n 1 Lentil \\n 1 Salt ",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Food/Soup/Potato_Soup.Potato_Soup'",
+			"Background": "None",
+			"UnlockDate": 
+			{
+				"Season": 0,
+				"DayOfSeason": 0,
+				"Year": 0
+			}
+		},
+		{
+			"RowName": "Tea_Time",
+			"Title": "Tea Time",
+			"Description": "Black Tea: \\n 1 Camelia \\n \\n Green Tea: \\n 1 Camelia \\n \\n Oolong Tea: \\n 1 Camelia \\n \\n White Tea: \\n 1 Camelia \\n\\n Lemon Tea: \\n 1 Lemon \\n Camelia \\n \\n Ginger Tea: \\n 1 Ginger \\n Camelia \\n \\n Mint Tea: \\n 1 Mint \\n 1 Camelia \\n \\n Chamomile Tea: \\n 1 Chamomile \\n \\n Peach Tea: \\n 1 Peach \\n 1 Camelia \\n \\n Orange Tea: \\n 1 Orange \\n 1 Camelia \\n \\n Berry Tea: \\n 1 Camelia \\n 1 Blackberry \\n\\n Chai: \\n 1 Camelia \\n 1 Cinnamon \\n 1 Ginger \\n 1 Milk  \\n \\n Lavender Tea: \\n 1 Camelia \\n 1 Lavender",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Food/Tea/Black_Tea.Black_Tea'",
+			"Background": "None",
+			"UnlockDate": 
+			{
+				"Season": 0,
+				"DayOfSeason": 0,
+				"Year": 0
+			}
+		},
+		{
+			"RowName": "HowToSoup",
+			"Title": "How to Make Soup",
+			"Description": "To cook simple soups all you will need 1 vegetable and 1 pinch of salt. Keep in mind that not all vegetables will make for a good soup. Salt can be found in the mines.",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Food/Soup/Carrot_Soup.Carrot_Soup'",
+			"Background": "None",
+			"UnlockDate": 
+			{
+				"Season": 2,
+				"DayOfSeason": 2,
+				"Year": 1
+			}
+		},
+		{
+			"RowName": "HowtoJuice",
+			"Title": "How to Make Juice",
+			"Description": "To make juice simply use 2 of any fruit.\\n \\n Juice does not restore much energy, but if you have a lot of fruit on hand and you chug enough, it could help get you through the day.",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Food/Juice/Cherry_Juice.Cherry_Juice'",
+			"Background": "None",
+			"UnlockDate": 
+			{
+				"Season": 0,
+				"DayOfSeason": 0,
+				"Year": 0
+			}
+		},
+		{
+			"RowName": "HowToBreakfast",
+			"Title": "Simple Breakfast ",
+			"Description": "Pancakes: \\n 1 Flour \\n 1  Honey \\n \\n Scrambled Eggs: \\n 1 Any Egg \\n 1 Salt \\n \\n Cereal: \\n 1 Corn \\n 1 Milk \\n \\n Rice Pudding: \\n 1 Cooked Rice \\n 1 Milk",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Food/Breakfast/Scrambled_Eggs.Scrambled_Eggs'",
+			"Background": "None",
+			"UnlockDate": 
+			{
+				"Season": 1,
+				"DayOfSeason": 2,
+				"Year": 2
+			}
+		},
+		{
+			"RowName": "HowToBread",
+			"Title": "How To Make Bread",
+			"Description": "You need to make dough before you bake any bread. To make dough simply use 1 flour. Then combine the dough with 1 sugar and 1 of the following for different kinds of sweet breads: \\n \\n Pumpkin  \\n \\n Apple  \\n \\n Cantaloupe \\n \\n Cranberry \\n \\n Orange \\n \\n Grapes \\n \\n Vanilla.",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Food/Bread/Apple_Bread.Apple_Bread'",
+			"Background": "None",
+			"UnlockDate": 
+			{
+				"Season": 3,
+				"DayOfSeason": 2,
+				"Year": 1
+			}
+		},
+		{
+			"RowName": "HowToCandy",
+			"Title": "How To Make Candy",
+			"Description": "To make candy simply combine 1 fruit with 1 sugar.",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Food/Candy/Apple_Candy.Apple_Candy'",
+			"Background": "None",
+			"UnlockDate": 
+			{
+				"Season": 0,
+				"DayOfSeason": 2,
+				"Year": 2
+			}
+		},
+		{
+			"RowName": "HowToJam",
+			"Title": "How To Make Jam",
+			"Description": "To make jam simply combine 2 sugar with 2 fruit.",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Food/Jam/Apple_Jam.Apple_Jam'",
+			"Background": "None",
+			"UnlockDate": 
+			{
+				"Season": 1,
+				"DayOfSeason": 2,
+				"Year": 1
+			}
+		},
+		{
+			"RowName": "HowToCookies",
+			"Title": "How To Make Cookies",
+			"Description": "Before you start making cookies you need to make cookie batter. \\n \\n Cookie Batter: \\n 1 flour \\n 1 sugar \\n 1 butter \\n \\n Once you make the cookie batter combine it with 1 sugar and 1 of these ingredients for different kinds of cookies: \\n \\n Apple  \\n \\n Coconut  \\n \\n Cranberry  \\n \\n Lemon  \\n \\n Lavender \\n \\n Macadamia \\n \\n Oats \\n \\n Pistachio \\n \\n Pumpkin \\n \\n Raspberry\\n \\n Rhubarb. \\n \\n To make sugar cookies use 2 sugar and 1 vanilla with the cookie batter.",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Food/Cookies/Chocolate_Chip_Cookies.Chocolate_Chip_Cookies'",
+			"Background": "None",
+			"UnlockDate": 
+			{
+				"Season": 3,
+				"DayOfSeason": 2,
+				"Year": 1
+			}
+		},
+		{
+			"RowName": "HowToCake",
+			"Title": "How To Make Cake",
+			"Description": "Before you start making cake you need to first make the batter. \\n \\n Batter: \\n  1 egg \\n 1 milk \\n 1 flour \\n \\n  Once the batter is made, combine the batter with 1 sugar, 1 sweet spices (except for in cinnamon cake) and 1 of these ingredients for different kinds of cake: \\n\\n Almond  \\n\\n Apple \\n\\n Banana \\n\\n Blueberry \\n\\n Carrot \\n\\n Milk \\n\\n Cherry \\n\\n Chestnut \\n\\n Cinnamon \\n\\n Coconut \\n\\n Cranberry \\n\\n Green Tea \\n\\n Honey \\n\\n Lime \\n\\n  Kumquat \\n\\n Lemon \\n\\n Macadamia \\n\\n Orange \\n\\n Peach \\n\\n Peanut Butter \\n\\n Pear \\n\\n Pecan \\n\\n Pineapple \\n\\n Plum \\n\\n Pumpkin \\n\\n Raspberry \\n\\n Rhubarb \\n\\n Rum \\n\\n Sweet Potato",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Food/Cake/Cinnamon_Cake.Cinnamon_Cake'",
+			"Background": "None",
+			"UnlockDate": 
+			{
+				"Season": 0,
+				"DayOfSeason": 2,
+				"Year": 2
+			}
+		},
+		{
+			"RowName": "HowToPie",
+			"Title": "How To Make Pie",
+			"Description": "Before you make pie you need to make a pie crust first.\\n\\n Pie Crust: \\n 1 flour \\n 1 salt \\n 1 butter \\n\\n Then combine the pie crust with 1 sugar and any 1 of these ingredients for different kinds of pie: \\n\\n  Apple \\n\\n  Cherry \\n\\n  Chocolate Bar \\n\\n Cranberry \\n\\n Grapefruit \\n\\n Lime \\n\\n Kumguat \\n\\n Lemon \\n\\n Pear \\n\\n Pecan \\n\\n Raspberry \\n\\n Rhubarb",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Food/Pie/Rasberry_Pie.Rasberry_Pie'",
+			"Background": "None",
+			"UnlockDate": 
+			{
+				"Season": 2,
+				"DayOfSeason": 2,
+				"Year": 1
+			}
+		},
+		{
+			"RowName": "HowToIceCream",
+			"Title": "How To Make Ice Cream",
+			"Description": "Combine sugar and milk with one of these ingredients to make different kinds of ice cream: \\n\\n Almond \\n\\n Apple \\n\\n Banana \\n\\n Cantaloupe \\n\\n Cherry \\n\\n Chestnut \\n\\n Cocoa Powder \\n\\n Coconut \\n\\n Ground Coffee \\n\\n Cranberry \\n\\n Grape \\n\\n Hazelnut \\n\\n Lavender \\n\\n Lemon \\n\\n Lychees \\n\\n Macadamia \\n\\n Mango \\n\\n Mint \\n\\n Pumpkin \\n\\n Raspberry \\n\\n Strawberry \\n\\n Vanilla \\n\\n Walnut \\n\\n Watermelon \\n\\n Brownies.",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Food/Ice_Cream/Chestnut_Icecream.Chestnut_Icecream'",
+			"Background": "None",
+			"UnlockDate": 
+			{
+				"Season": 1,
+				"DayOfSeason": 2,
+				"Year": 1
+			}
+		},
+		{
+			"RowName": "HelpingFriendsOut",
+			"Title": "Helping Friends Out",
+			"Description": "Helping out townsfolk with errands and requests is a good way to increase your relationship. Although don't make promises you can't keep. \\n If you cancel a",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Misc/Friendship_Face.Friendship_Face'",
+			"Background": "None",
+			"UnlockDate": 
+			{
+				"Season": 0,
+				"DayOfSeason": 0,
+				"Year": 0
+			}
+		},
+		{
+			"RowName": "Whattodowithgems",
+			"Title": "Gem Polishing Station",
+			"Description": "Raw stones and gems are not worth very much when dug up straight from the mines. One must purchase a gem polishing table at the home improvement store in order to increase their value. \\n \\n When bought, place the gem polishing table anywhere on your property.\\n \\n Simply drag the uncut gem or stone into the slot for processing. It only takes 1 gem or stone to be polished. \\n \\n The gem polishing station can be unlocked by shipping 30 uncut gems.",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Expansions/Crafting_Table.Crafting_Table'",
+			"Background": "None",
+			"UnlockDate": 
+			{
+				"Season": 0,
+				"DayOfSeason": 0,
+				"Year": 0
+			}
+		},
+		{
+			"RowName": "CraftingBenchInfo",
+			"Title": "Crafting Bench",
+			"Description": "The crafting bench can be use used to craft custom furniture using different kinds of wallpaper and raw materials. \\n \\n  To craft an item you need to first learn the recipe on TV. After learning the recipe you can then drag the appropiate material required into the slots. \\n \\n  Before the item is built you have the opportunity to preview and name your new piece of furniture. ",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Expansions/Crafting_Table.Crafting_Table'",
+			"Background": "None",
+			"UnlockDate": 
+			{
+				"Season": 0,
+				"DayOfSeason": 0,
+				"Year": 0
+			}
+		},
+		{
+			"RowName": "HerbsIntro",
+			"Title": "About Herbs & Spices",
+			"Description": "Herbs can be found in various places throughout the island. They are used in some recipes and are essential to create seasoning for meat recipes. If you collect some herbs they should regrow in a few days.",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Herbs/Parsley.Parsley'",
+			"Background": "None",
+			"UnlockDate": 
+			{
+				"Season": 0,
+				"DayOfSeason": 0,
+				"Year": 0
+			}
+		},
+		{
+			"RowName": "BasilAbout",
+			"Title": "Basil",
+			"Description": "Basil is found mostly in the central part of the island. You can find some basil along Longroad heading south from Pumpkinvale. ",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Herbs/Basil.Basil'",
+			"Background": "None",
+			"UnlockDate": 
+			{
+				"Season": 0,
+				"DayOfSeason": 0,
+				"Year": 0
+			}
+		},
+		{
+			"RowName": "BayLeavesAbout",
+			"Title": "Bay Leaves",
+			"Description": "Bay Leaves are found on the southern part of the island deep in the Bitterleaf Jungles where Longroad runs through.",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Herbs/Bay_Leaves.Bay_Leaves'",
+			"Background": "None",
+			"UnlockDate": 
+			{
+				"Season": 0,
+				"DayOfSeason": 0,
+				"Year": 0
+			}
+		},
+		{
+			"RowName": "CameliaAbout",
+			"Title": "Camelia",
+			"Description": "Camelia can be found in many places all over the island and can be a bit tricky to find. \\n \\n It can be found in in Lovely Point Groves near the Scott's Pine Trees. It can also be found in the Peacewind Groves. \\n \\n Makes medium pink dye.",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Herbs/Camelia.Camelia'",
+			"Background": "None",
+			"UnlockDate": 
+			{
+				"Season": 0,
+				"DayOfSeason": 0,
+				"Year": 0
+			}
+		},
+		{
+			"RowName": "CapersAbout",
+			"Title": "Capers",
+			"Description": "Capers are a rare herb that is found on the western part of the island. They are on an hill where Spoonie Island can be seen from. ",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Herbs/Caper.Caper'",
+			"Background": "None",
+			"UnlockDate": 
+			{
+				"Season": 0,
+				"DayOfSeason": 0,
+				"Year": 0
+			}
+		},
+		{
+			"RowName": "ChamomileAbout",
+			"Title": "Chamomile",
+			"Description": "Chamomile can be found in a variety of places around the central parts of the island. It can be found deep in the southern parts of the Lilith Woods near the coast.",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Herbs/Chamomile.Chamomile'",
+			"Background": "None",
+			"UnlockDate": 
+			{
+				"Season": 0,
+				"DayOfSeason": 0,
+				"Year": 0
+			}
+		},
+		{
+			"RowName": "ChivesAbout",
+			"Title": "Chives",
+			"Description": "Chives are found in the southern parts of the island. They can be found behind the museum or in the Bitterleaf Jungle.",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Herbs/Chives.Chives'",
+			"Background": "None",
+			"UnlockDate": 
+			{
+				"Season": 0,
+				"DayOfSeason": 0,
+				"Year": 0
+			}
+		},
+		{
+			"RowName": "CilantroAbout",
+			"Title": "Cilantro",
+			"Description": "Cilantro can be found in various parts of the island. It is most commonly found in the Bitterleaf Jungle or at Lovely Point Groves. ",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Herbs/Cilantro.Cilantro'",
+			"Background": "None",
+			"UnlockDate": 
+			{
+				"Season": 0,
+				"DayOfSeason": 0,
+				"Year": 0
+			}
+		},
+		{
+			"RowName": "CinnamonAbout",
+			"Title": "Cinnamon",
+			"Description": "Cinnamon can be found at various parts of the island. It can be commonly found in the northern parts of the Palash Jungle. It can also be found in the redwood forest. ",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Herbs/Cinnamon.Cinnamon'",
+			"Background": "None",
+			"UnlockDate": 
+			{
+				"Season": 0,
+				"DayOfSeason": 0,
+				"Year": 0
+			}
+		},
+		{
+			"RowName": "ClovesAbout",
+			"Title": "Cloves",
+			"Description": "Cloves are mostly found in the southern parts of the island. It can be found in the Bitterlead Jungle or the southernmost part of the Lilith Woods. ",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Herbs/Cloves.Cloves'",
+			"Background": "None",
+			"UnlockDate": 
+			{
+				"Season": 0,
+				"DayOfSeason": 0,
+				"Year": 0
+			}
+		},
+		{
+			"RowName": "CorianderAbout",
+			"Title": "Coriander",
+			"Description": "Coriander is most commonly found in the southern part of the island. You can find it in the Bitterleaf or Palash Jungle. ",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Herbs/Coriander.Coriander'",
+			"Background": "None",
+			"UnlockDate": 
+			{
+				"Season": 0,
+				"DayOfSeason": 0,
+				"Year": 0
+			}
+		},
+		{
+			"RowName": "CuminAbout",
+			"Title": "Cumin",
+			"Description": "Cumin is found in the southern part of the island in the Palash or Bitterleaf Jungle.",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Herbs/Cumin.Cumin'",
+			"Background": "None",
+			"UnlockDate": 
+			{
+				"Season": 0,
+				"DayOfSeason": 0,
+				"Year": 0
+			}
+		},
+		{
+			"RowName": "CurryAbout",
+			"Title": "Curry",
+			"Description": "Curry is found in the southern part of the island in the Palash or Bitterleaf Jungle.",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Herbs/curry_leaves.curry_leaves'",
+			"Background": "None",
+			"UnlockDate": 
+			{
+				"Season": 0,
+				"DayOfSeason": 0,
+				"Year": 0
+			}
+		},
+		{
+			"RowName": "TarragonAbout",
+			"Title": "Tarragon",
+			"Description": "Tarragon can be found on the plateau north-east of the island at the mountain base.",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Herbs/Tarragon.Tarragon'",
+			"Background": "None",
+			"UnlockDate": 
+			{
+				"Season": 0,
+				"DayOfSeason": 0,
+				"Year": 0
+			}
+		},
+		{
+			"RowName": "DillWeedAbout",
+			"Title": "Dill Weed",
+			"Description": "Dill weed is found in the Lucky Pine Forest located in the central part of the island. ",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Herbs/Dill_Weed.Dill_Weed'",
+			"Background": "None",
+			"UnlockDate": 
+			{
+				"Season": 0,
+				"DayOfSeason": 0,
+				"Year": 0
+			}
+		},
+		{
+			"RowName": "GingerAbout",
+			"Title": "Ginger",
+			"Description": "Ginger is mostly found on the southern part of the island. It is usually found deep in the Palash Jungle.",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Crops/Ginger.Ginger'",
+			"Background": "None",
+			"UnlockDate": 
+			{
+				"Season": 0,
+				"DayOfSeason": 0,
+				"Year": 0
+			}
+		},
+		{
+			"RowName": "HorseradishAbout",
+			"Title": "Horseradish",
+			"Description": "Horseradish is commonly found in the Redwood Forest.",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Herbs/Horse_Radish.Horse_Radish'",
+			"Background": "None",
+			"UnlockDate": 
+			{
+				"Season": 0,
+				"DayOfSeason": 0,
+				"Year": 0
+			}
+		},
+		{
+			"RowName": "LavenderAbout",
+			"Title": "Lavender",
+			"Description": "Lavender is commonly found deep in the Whiskey Woods, Lake Dia and between Bitterleaf jungle and the museum. Makes purple dye.",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Herbs/Lavander.Lavander'",
+			"Background": "None",
+			"UnlockDate": 
+			{
+				"Season": 0,
+				"DayOfSeason": 0,
+				"Year": 0
+			}
+		},
+		{
+			"RowName": "LemonGrassAbout",
+			"Title": "Lemongrass",
+			"Description": "Lemongrass is found in the southern part of the island. It can be found in the Palash Jungle or in Fernstone Fields on Spoonie Island. ",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Herbs/Lemon_Grass.Lemon_Grass'",
+			"Background": "None",
+			"UnlockDate": 
+			{
+				"Season": 0,
+				"DayOfSeason": 0,
+				"Year": 0
+			}
+		},
+		{
+			"RowName": "MintAbout",
+			"Title": "Mint",
+			"Description": "Mint can be found in various areas throughout the island. The most common places to find them is in the Shadybreeze Woods, or deep in the Mintystone Woods.",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Herbs/Mint.Mint'",
+			"Background": "None",
+			"UnlockDate": 
+			{
+				"Season": 0,
+				"DayOfSeason": 0,
+				"Year": 0
+			}
+		},
+		{
+			"RowName": "MustardAbout",
+			"Title": "Mustard",
+			"Description": "Mustard can be found in the small red wood forest on the cliff at the very north of the Topical Tundra. ",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Herbs/Mustard.Mustard'",
+			"Background": "None",
+			"UnlockDate": 
+			{
+				"Season": 0,
+				"DayOfSeason": 0,
+				"Year": 0
+			}
+		},
+		{
+			"RowName": "RooisbosAbout",
+			"Title": "Rooibos",
+			"Description": "Rooibos can be found on the sand spits north-west of the island.",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Herbs/Roosibos.Roosibos'",
+			"Background": "None",
+			"UnlockDate": 
+			{
+				"Season": 0,
+				"DayOfSeason": 0,
+				"Year": 0
+			}
+		},
+		{
+			"RowName": "LicoriceAbout",
+			"Title": "Liquorice",
+			"Description": "Liquorice can be found on the sand spits north-west of the island.",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Herbs/Licorice.Licorice'",
+			"Background": "None",
+			"UnlockDate": 
+			{
+				"Season": 0,
+				"DayOfSeason": 0,
+				"Year": 0
+			}
+		},
+		{
+			"RowName": "OreganoAbout",
+			"Title": "Oregano",
+			"Description": "Oregand can be found in the south and south eastern parts of the island. You can find it usually in Lovely Point Groves, or in the southernmost part of Shady Breeze Woods.",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Herbs/Oregano.Oregano'",
+			"Background": "None",
+			"UnlockDate": 
+			{
+				"Season": 0,
+				"DayOfSeason": 0,
+				"Year": 0
+			}
+		},
+		{
+			"RowName": "ParsleyAbout",
+			"Title": "Parsley",
+			"Description": "Parsley can be commonly found in Lovely Point Groves near the Mossheart Swamps.",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Herbs/Parsley.Parsley'",
+			"Background": "None",
+			"UnlockDate": 
+			{
+				"Season": 0,
+				"DayOfSeason": 0,
+				"Year": 0
+			}
+		},
+		{
+			"RowName": "Rosemaryabout",
+			"Title": "Rosemary",
+			"Description": "Rosemary is found in many places throughout the southern and central part of the island. The best to find rosemary is deep in the Bitterleaf Jungle or along Longroad heading south from Pumpkinvale.",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Herbs/Rosemary.Rosemary'",
+			"Background": "None",
+			"UnlockDate": 
+			{
+				"Season": 0,
+				"DayOfSeason": 0,
+				"Year": 0
+			}
+		},
+		{
+			"RowName": "SageAbout",
+			"Title": "Sage",
+			"Description": "Sage can be found in the southern parts of the island in the Bitterleaf Jungle or in Lucky Pine Forest.",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Herbs/Sage.Sage'",
+			"Background": "None",
+			"UnlockDate": 
+			{
+				"Season": 0,
+				"DayOfSeason": 0,
+				"Year": 0
+			}
+		},
+		{
+			"RowName": "SorrelAbout",
+			"Title": "Sorrel",
+			"Description": "Sorrel can only be found in Fernstone Fields on Spoonie Island.",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Herbs/Sorrel.Sorrel'",
+			"Background": "None",
+			"UnlockDate": 
+			{
+				"Season": 0,
+				"DayOfSeason": 0,
+				"Year": 0
+			}
+		},
+		{
+			"RowName": "Thymeabout",
+			"Title": "Thyme",
+			"Description": "Thyme can be found in Rosabark Circle, or in Lovely Point Groves.",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Herbs/Thyme.Thyme'",
+			"Background": "None",
+			"UnlockDate": 
+			{
+				"Season": 0,
+				"DayOfSeason": 0,
+				"Year": 0
+			}
+		},
+		{
+			"RowName": "VanillaAbout",
+			"Title": "Vanilla",
+			"Description": "Vanilla is most commonly found in Rosabark Circle. ",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Herbs/Vanilla_Herbs.Vanilla_Herbs'",
+			"Background": "None",
+			"UnlockDate": 
+			{
+				"Season": 0,
+				"DayOfSeason": 0,
+				"Year": 0
+			}
+		},
+		{
+			"RowName": "WasabiAbout",
+			"Title": "Wasabi",
+			"Description": "Wasabi can be found along the road going through Blush-bloom Hills.",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Herbs/Wasabi.Wasabi'",
+			"Background": "None",
+			"UnlockDate": 
+			{
+				"Season": 0,
+				"DayOfSeason": 0,
+				"Year": 0
+			}
+		},
+		{
+			"RowName": "AnimalBehavior",
+			"Title": "Animal Behavior",
+			"Description": "Animals will not leave their coops or barns if it's raining outside. They also retire to bed at around 10pm. You can pet all of your animals, except chickens where instead you can pick them up. To put them down click anywhere on the ground. If you have a horse use 'C' to call your horse from anywhere. ",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Animals/Pig.Pig'",
+			"Background": "None",
+			"UnlockDate": 
+			{
+				"Season": 0,
+				"DayOfSeason": 0,
+				"Year": 0
+			}
+		},
+		{
+			"RowName": "AnimalGrowth",
+			"Title": "Baby Animals",
+			"Description": "Baby animals do not give any products until they grow up into an adult. Here is a list of how long different animals take to grow up. \\n \\n Chick: 10 days \\n Calf: 21 days \\n Piglet: 14 days \\n Lamb: 14 days \\n Foal: 28 days \\n \\n Baby animals can't be brushed until they're older.",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Animals/Sheep.Sheep'",
+			"Background": "None",
+			"UnlockDate": 
+			{
+				"Season": 0,
+				"DayOfSeason": 0,
+				"Year": 0
+			}
+		},
+		{
+			"RowName": "FertilizerBinAbout",
+			"Title": "Fertilizer Barrel",
+			"Description": "The fertilizer barrel can be used to turn animal manure in to fertilizer. If you ship ten poop sacks, your local home improvement shop will start selling them. \\n \\n 5 poop sacks \\n 2 fertilizer. \\n \\n 15 disaster dishes \\n 1 fertilizer",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Expansions/Fertilizer_Bin.Fertilizer_Bin'",
+			"Background": "None",
+			"UnlockDate": 
+			{
+				"Season": 0,
+				"DayOfSeason": 0,
+				"Year": 0
+			}
+		},
+		{
+			"RowName": "Anvil",
+			"Title": "Anvil",
+			"Description": "The anvil can be used to craft tools. You can get recipes for these tools via the TV or by experimenting. \\n \\n Wooden tools can only be made using brown wood planks.  ",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Expansions/Anvil_Icon.Anvil_Icon'",
+			"Background": "None",
+			"UnlockDate": 
+			{
+				"Season": 0,
+				"DayOfSeason": 0,
+				"Year": 0
+			}
+		},
+		{
+			"RowName": "WoodTypes",
+			"Title": "About Forest Trees",
+			"Description": "Trees near towns can't be cut down, you need to go far into the woods to find trees that can be chopped down for wood. \\n \\n Trees that are cut down in the forests, take 1 season to respawn after being completely cut, including the stump. \\n \\n There are a variety of different wood types that can be gathered from trees outside of town. To read more about which trees drop which wood, please refer to the section on dendrology. \\n \\n You can find the various kinds of woods here: \\n \\n Brown Wood \\n \\n Mapleleaf Woods \\n Redwood Forest \\n Bitterleaf Jungle \\n Lovely Point Groves \\n \\n \\n Dark Brown Wood \\n \\n Lucky pine Forest \\n \\n \\n Smoky Wood \\n \\n Mintystone Woods \\n Palash Jungle  \\n \\n \\n Peach Wood \\n \\n Whiskey Woods \\n \\n \\n Orange Wood \\n \\n Lilith Woods \\n \\n \\n Rose Wood \\n \\n Redwood Forest ",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Wood/Brown_Wood.Brown_Wood'",
+			"Background": "None",
+			"UnlockDate": 
+			{
+				"Season": 0,
+				"DayOfSeason": 0,
+				"Year": 0
+			}
+		},
+		{
+			"RowName": "TreeTypes",
+			"Title": "Wood Types By Tree",
+			"Description": "Here is a list of the different trees found on the island and what kind of wood they give: \\n \\n Hickory Tree \\n Smoky Wood \\n \\n Maple Tree \\n Brown Tree \\n \\n Poplar \\n Smoky Wood \\n \\n Oak Tree \\n Orange Wood \\n \\n Redwood Tree \\n Rose Wood \\n \\n Fir Pine \\n Dark Wood \\n \\n Hemlock Pine \\n Dark Brown Wood \\n \\n Scotts Pine \\n Brown Wood \\n \\n Yew Pine \\n Dark Brown Wood \\n \\n Ash Tree \\n Smoky Wood \\n \\n Birch Tree \\n Peach Wood \\n \\n  Rubber Tree \\n Smoky Wood \\n \\n Kapok Tree \\n Brown Wood \\n \\n Mangroves \\n Brown Wood \\n \\n Cypress Tree \\n Smoky Wood",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Wood/Peach_Wood.Peach_Wood'",
+			"Background": "None",
+			"UnlockDate": 
+			{
+				"Season": 0,
+				"DayOfSeason": 0,
+				"Year": 0
+			}
+		},
+		{
+			"RowName": "FeedingAnimals",
+			"Title": "Feeding Animals",
+			"Description": "Large animals like cows need to be fed fodder which can be placed in a large trough. You can get fodder from cutting tall grass on your farm or out in the world. \\n \\n Chickens need to be fed feed, which needs to place in a small trough. You can make feed by grinding corn in a windmill.\\n \\n You can buy both feed and fodder from the local animal shop. You can also place the animal troughs anywhere on your farm, so long as your animals can reach it. Make sure to feed your animals daily or else they won't make any animal products.",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/General/Bag_of_Feed.Bag_of_Feed'",
+			"Background": "None",
+			"UnlockDate": 
+			{
+				"Season": 0,
+				"DayOfSeason": 0,
+				"Year": 0
+			}
+		},
+		{
+			"RowName": "wheretofindores",
+			"Title": "The Caves",
+			"Description": "There are three places where one can find different gems and ores. \\n \\n The main cave is Clementine Mines below the island museum. Some mineable rocks have unique gems and ores at the dead-end located towards the mountains. \\n \\n There is rumored to be a third cave south of the island. Claudio from Pumpkinvale is doing research on where its located and will publish a book on his findings later.",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Stone/Opal.Opal'",
+			"Background": "None",
+			"UnlockDate": 
+			{
+				"Season": 0,
+				"DayOfSeason": 0,
+				"Year": 0
+			}
+		},
+		{
+			"RowName": "limestonecave",
+			"Title": "Limestone Cave",
+			"Description": "There is a hidden cave on the island believed to be a limestone water cave. It is said to be located on the side of a cliff, that can be seen from Spoonie Island. However, it's dangerous to swim towards the cliff as an entrance can't be seen from the island. That cave is believed to have more unique gems and ores. ",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Gems/Amber.Amber'",
+			"Background": "None",
+			"UnlockDate": 
+			{
+				"Season": 0,
+				"DayOfSeason": 0,
+				"Year": 2
+			}
+		},
+		{
+			"RowName": "FishingTrash",
+			"Title": "Catching Trash",
+			"Description": "Sometimes you will catch trash while fishing. Currently, the trash doesn't do anything, it is junk and sells for 1g. However, in the future, we will add a way to recycle the trash into something useful.",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Fish/Old_Plastic_Bottle.Old_Plastic_Bottle'",
+			"Background": "None",
+			"UnlockDate": 
+			{
+				"Season": 0,
+				"DayOfSeason": 0,
+				"Year": 0
+			}
+		},
+		{
+			"RowName": "Hickory_Tree_Page",
+			"Title": "Hickory Tree Page",
+			"Description": "test ",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Misc/Tree_Icon.Tree_Icon'",
+			"Background": "Texture2D'/Game/Textures/Library/Tree_Page_Hickory.Tree_Page_Hickory'",
+			"UnlockDate": 
+			{
+				"Season": 0,
+				"DayOfSeason": 0,
+				"Year": 0
+			}
+		},
+		{
+			"RowName": "Kitchens",
+			"Title": "Kitchens",
+			"Description": "The bigger the kitchen you have the more complex recipes you can make. Here is a list of how many ingredients each kitchen can use. \\n \\n Small Kitchen: \\n 2 ingredients \\n \\n Medium Kitchen: \\n 3 ingredients \\n \\n Large Kitchen: \\n 4 ingredients \\n \\n Master Kitchen: \\n 6 ingredients \\n \\n The master kitchen is not available in the home improvement shop and rarely appears in the furniture shop. The best way to get a master kitchen is to craft it.",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Furniture/Kitchenoid.Kitchenoid'",
+			"Background": "None",
+			"UnlockDate": 
+			{
+				"Season": 0,
+				"DayOfSeason": 0,
+				"Year": 0
+			}
+		},
+		{
+			"RowName": "MinesDirection",
+			"Title": "Cave Clues",
+			"Description": "The Clementine Mines can be difficult to navigate, however there is a visual clue in the mines that leads towards the center and back towards the entrance. Keep a look out for it and you will never be lost again.",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Stone/Agate_Uncut.Agate_Uncut'",
+			"Background": "None",
+			"UnlockDate": 
+			{
+				"Season": 1,
+				"DayOfSeason": 1,
+				"Year": 0
+			}
+		},
+		{
+			"RowName": "Seedmaker",
+			"Title": "Seed Maker",
+			"Description": "The seed make can be bought at the Home Improvement shop after shipping 500 crops. The seed maker can process crops into seeds in bulk and produce two seeds per crop instead of one.",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Expansions/Seed_Maker.Seed_Maker'",
+			"Background": "None",
+			"UnlockDate": 
+			{
+				"Season": 0,
+				"DayOfSeason": 0,
+				"Year": 0
+			}
+		},
+		{
+			"RowName": "AnimalMeat",
+			"Title": "Animal Meat",
+			"Description": "Animals can be taken to the local animal shop to be turned into meat. The meatiness of an animal is determined by how long it has been kept once it has turned into an adult. \\n \\n Baby animals cannot be turned into meat. Sick animals also cannot be turned into meat \\n \\n Here is how much meat each animal can produce. \\n \\n Cows and Bulls \\n Base Meat: 50 \\n Maximum Meat: 200 \\n \\n Chickens \\n Base Meat: 25 \\n Maximum Meat: 50 \\n \\n Pigs \\n Base Meat: 15 \\n Maximum Meat: 100 \\n \\n Sheep \\n Base Meat: 15 \\n Maximum Meat: 50",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Animal_Products/Beef_Meat.Beef_Meat'",
+			"Background": "None",
+			"UnlockDate": 
+			{
+				"Season": 0,
+				"DayOfSeason": 0,
+				"Year": 0
+			}
+		},
+		{
+			"RowName": "PestleMortar",
+			"Title": "Pestle & Mortar",
+			"Description": "The pestle and mortar can be used to grind herbs into seasoning which can be used in cooking. It takes 2 herbs to make 1 bottle of seasoning. Here is a list of herbs and which seasonings they make. \\n \\n Italian Seasoning \\n \\n Parsley \\n Oregano \\n Basil \\n Bay Leaves \\n \\n Sweet Spices \\n \\n Rooibos \\n Licorice \\n Vanilla \\n Mint \\n Cinnamon \\n Cloves \\n \\n Chicken Seasoning \\n \\n Garlic \\n Rosemary \\n Tarragon \\n Chives \\n Cilantro \\n \\n Beef Seasoning \\n \\n Thyme \\n Coriander \\n Cumin \\n \\n Fish Seasoning \\n \\n Dill Weed \\n Sage \\n Lemongrass  \\n Capers \\n \\n Curry Powder \\n \\n Curry Leaves",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Furniture/Pestal_Mortar_Icon.Pestal_Mortar_Icon'",
+			"Background": "None",
+			"UnlockDate": 
+			{
+				"Season": 0,
+				"DayOfSeason": 0,
+				"Year": 0
+			}
+		},
+		{
+			"RowName": "CookingBuffs",
+			"Title": "Cooking Status Effects",
+			"Description": "Some foods will give you a special status effect when eaten. When a food gives a status bonus an icon will appear next to your stamina bar.\\n \\n Awake Status \\n \\n The awake status is given when you drink or eat anything with coffee. This adds extra hours before you pass out from exhaustion.\\n \\n Speed Buff \\n \\n Eating sugary pastries will increase your movement speed.\\n \\n Fishing Buff \\n \\n Eating a hearty fish dish will allow you to catch fish faster during the fishing minigame.\\n \\n Drunk \\n \\n Beers, liquors and Grog will cause you to become drunk. When drunk your movement controls are mixed up.\\n \\n Friendly Buff \\n \\n Drinking mixed drinks or honey recipes  will cause you to gain extra heart levels when talking to the townsfolk.\\n \\n Stamina Buff \\n \\n Eating hearty meat dishes, such as chicken or beef, will cause stamina usage to be lower when using tools. ",
+			"Thumbnail": "Texture2D'/Game/Textures/Status_Icons/Status_Icon_Coffee2.Status_Icon_Coffee2'",
+			"Background": "None",
+			"UnlockDate": 
+			{
+				"Season": 0,
+				"DayOfSeason": 0,
+				"Year": 0
+			}
+		},
+		{
+			"RowName": "HickoryTree",
+			"Title": "Hickory Tree",
+			"Description": "",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Misc/Tree_Icon.Tree_Icon'",
+			"Background": "Texture2D'/Game/Textures/Library/Tree_Page_Hickory.Tree_Page_Hickory'",
+			"UnlockDate": 
+			{
+				"Season": 0,
+				"DayOfSeason": 0,
+				"Year": 0
+			}
+		},
+		{
+			"RowName": "BirchTree",
+			"Title": "Birch Tree",
+			"Description": "",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Misc/Tree_Icon.Tree_Icon'",
+			"Background": "Texture2D'/Game/Textures/Library/Tree_Page_Birch.Tree_Page_Birch'",
+			"UnlockDate": 
+			{
+				"Season": 0,
+				"DayOfSeason": 0,
+				"Year": 0
+			}
+		},
+		{
+			"RowName": "CypressTree",
+			"Title": "Cypress Tree",
+			"Description": "",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Misc/Tree_Icon.Tree_Icon'",
+			"Background": "Texture2D'/Game/Textures/Library/Tree_Page_Cypress.Tree_Page_Cypress'",
+			"UnlockDate": 
+			{
+				"Season": 0,
+				"DayOfSeason": 0,
+				"Year": 0
+			}
+		},
+		{
+			"RowName": "KapokTree",
+			"Title": "Kapok Tree",
+			"Description": "",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Misc/Tree_Icon.Tree_Icon'",
+			"Background": "Texture2D'/Game/Textures/Library/Tree_Page_Kapok_Tree.Tree_Page_Kapok_Tree'",
+			"UnlockDate": 
+			{
+				"Season": 0,
+				"DayOfSeason": 0,
+				"Year": 0
+			}
+		},
+		{
+			"RowName": "JungleTree",
+			"Title": "Jungle Tree",
+			"Description": "",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Misc/Tree_Icon.Tree_Icon'",
+			"Background": "Texture2D'/Game/Textures/Library/Tree_Page_Jungle_Tree.Tree_Page_Jungle_Tree'",
+			"UnlockDate": 
+			{
+				"Season": 0,
+				"DayOfSeason": 0,
+				"Year": 0
+			}
+		},
+		{
+			"RowName": "MapleTree",
+			"Title": "Maple Tree",
+			"Description": "",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Misc/Tree_Icon.Tree_Icon'",
+			"Background": "Texture2D'/Game/Textures/Library/Tree_Page_Maple_Tree.Tree_Page_Maple_Tree'",
+			"UnlockDate": 
+			{
+				"Season": 0,
+				"DayOfSeason": 0,
+				"Year": 0
+			}
+		},
+		{
+			"RowName": "OakTree",
+			"Title": "Oak Tree",
+			"Description": "",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Misc/Tree_Icon.Tree_Icon'",
+			"Background": "Texture2D'/Game/Textures/Library/Tree_Page_Oak_Tree.Tree_Page_Oak_Tree'",
+			"UnlockDate": 
+			{
+				"Season": 0,
+				"DayOfSeason": 0,
+				"Year": 0
+			}
+		},
+		{
+			"RowName": "PineTree",
+			"Title": "Pine Tree",
+			"Description": "",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Misc/Tree_Icon.Tree_Icon'",
+			"Background": "Texture2D'/Game/Textures/Library/Tree_Page_Pine_Tree.Tree_Page_Pine_Tree'",
+			"UnlockDate": 
+			{
+				"Season": 0,
+				"DayOfSeason": 0,
+				"Year": 0
+			}
+		},
+		{
+			"RowName": "PoplarTree",
+			"Title": "Poplar Tree",
+			"Description": "",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Misc/Tree_Icon.Tree_Icon'",
+			"Background": "Texture2D'/Game/Textures/Library/Tree_Page_Poplar.Tree_Page_Poplar'",
+			"UnlockDate": 
+			{
+				"Season": 0,
+				"DayOfSeason": 0,
+				"Year": 0
+			}
+		},
+		{
+			"RowName": "RedwoodTree",
+			"Title": "Redwood Tree",
+			"Description": "",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Misc/Tree_Icon.Tree_Icon'",
+			"Background": "Texture2D'/Game/Textures/Library/Tree_Page_Red_Wood.Tree_Page_Red_Wood'",
+			"UnlockDate": 
+			{
+				"Season": 0,
+				"DayOfSeason": 0,
+				"Year": 0
+			}
+		},
+		{
+			"RowName": "RubberTree",
+			"Title": "Rubber Tree",
+			"Description": "",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Misc/Tree_Icon.Tree_Icon'",
+			"Background": "Texture2D'/Game/Textures/Library/Tree_Page_Rubber.Tree_Page_Rubber'",
+			"UnlockDate": 
+			{
+				"Season": 0,
+				"DayOfSeason": 0,
+				"Year": 0
+			}
+		},
+		{
+			"RowName": "Acanthus",
+			"Title": "Acanthus",
+			"Description": "Can be found on Piscari Island.\\n \\n Makes purple dye.",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Flowers/Acanthus.Acanthus'",
+			"Background": "None",
+			"UnlockDate": 
+			{
+				"Season": 0,
+				"DayOfSeason": 0,
+				"Year": 0
+			}
+		},
+		{
+			"RowName": "Adonis",
+			"Title": "Adonis",
+			"Description": "Can be found in the Lucky Pine Forest.\\n \\n Makes light yellow dye.",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Flowers/Adonis.Adonis'",
+			"Background": "None",
+			"UnlockDate": 
+			{
+				"Season": 0,
+				"DayOfSeason": 0,
+				"Year": 0
+			}
+		},
+		{
+			"RowName": "alstroemeria",
+			"Title": "Alstroemeria",
+			"Description": "Can be found in the Zin Zin Fields.\\n \\n Makes pink dye.",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Flowers/alstroemeria.alstroemeria'",
+			"Background": "None",
+			"UnlockDate": 
+			{
+				"Season": 0,
+				"DayOfSeason": 0,
+				"Year": 0
+			}
+		},
+		{
+			"RowName": "Angelonia",
+			"Title": "Angelonia",
+			"Description": "Can be found in the Lucky Pine Forest.\\n \\n Makes purple dye.",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Flowers/Angelonia.Angelonia'",
+			"Background": "None",
+			"UnlockDate": 
+			{
+				"Season": 0,
+				"DayOfSeason": 0,
+				"Year": 0
+			}
+		},
+		{
+			"RowName": "Babys_Breath",
+			"Title": "Baby's Breath",
+			"Description": "Can be found at Rosabark Circle.\\n \\n Makes white dye.",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Flowers/Baby_s_Breath.Baby_s_Breath'",
+			"Background": "None",
+			"UnlockDate": 
+			{
+				"Season": 0,
+				"DayOfSeason": 0,
+				"Year": 0
+			}
+		},
+		{
+			"RowName": "Bee_Balm",
+			"Title": "Bee Balm",
+			"Description": "Can be found in the Shady Breeze Woods.\\n \\n Makes red dye.",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Flowers/Bee_Balm.Bee_Balm'",
+			"Background": "None",
+			"UnlockDate": 
+			{
+				"Season": 0,
+				"DayOfSeason": 0,
+				"Year": 0
+			}
+		},
+		{
+			"RowName": "Bird_Of_Paradise",
+			"Title": "Bird Of Paradise",
+			"Description": "Can be found in the Palash Jungle.\\n \\n Makes orange dye.",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Flowers/Bird_of_Paradise.Bird_of_Paradise'",
+			"Background": "None",
+			"UnlockDate": 
+			{
+				"Season": 0,
+				"DayOfSeason": 0,
+				"Year": 0
+			}
+		},
+		{
+			"RowName": "BlackDahlia",
+			"Title": "Black Dahlia",
+			"Description": "Can be found in the center of the Clementine Mine.\\n \\n Makes black dye.",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Flowers/Black_Dahlia.Black_Dahlia'",
+			"Background": "None",
+			"UnlockDate": 
+			{
+				"Season": 0,
+				"DayOfSeason": 0,
+				"Year": 0
+			}
+		},
+		{
+			"RowName": "Black_Iris",
+			"Title": "Black Iris",
+			"Description": "Can be found in the center of the Clementine Mine.\\n \\n Makes black dye.",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Flowers/Black_Iris.Black_Iris'",
+			"Background": "None",
+			"UnlockDate": 
+			{
+				"Season": 0,
+				"DayOfSeason": 0,
+				"Year": 0
+			}
+		},
+		{
+			"RowName": "Blue_Hydrangea",
+			"Title": "Blue Hydrangea",
+			"Description": "Can be found between the Whiskey Woods and Bitterleaf Jungle.\\n \\n Makes blue dye.",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Flowers/Blue_Hydrangea.Blue_Hydrangea'",
+			"Background": "None",
+			"UnlockDate": 
+			{
+				"Season": 0,
+				"DayOfSeason": 0,
+				"Year": 0
+			}
+		},
+		{
+			"RowName": "Canna",
+			"Title": "Canna",
+			"Description": "Can be found by Canna Lake.\\n \\n Makes red dye.",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Flowers/Canna.Canna'",
+			"Background": "None",
+			"UnlockDate": 
+			{
+				"Season": 0,
+				"DayOfSeason": 0,
+				"Year": 0
+			}
+		},
+		{
+			"RowName": "Carnation",
+			"Title": "Carnation",
+			"Description": "Can be found in the Lucky Pine Forest.\\n \\n Makes medium pink dye.",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Flowers/Carnation.Carnation'",
+			"Background": "None",
+			"UnlockDate": 
+			{
+				"Season": 0,
+				"DayOfSeason": 0,
+				"Year": 0
+			}
+		},
+		{
+			"RowName": "Chrysanthemum",
+			"Title": "Chrysanthemum",
+			"Description": "Can be found at Cricket Hills.\\n \\n Makes yellow dye.",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Flowers/Chrysanthemum.Chrysanthemum'",
+			"Background": "None",
+			"UnlockDate": 
+			{
+				"Season": 0,
+				"DayOfSeason": 0,
+				"Year": 0
+			}
+		},
+		{
+			"RowName": "Coelogyne_Pandurata",
+			"Title": "Coelogyne Pandurata",
+			"Description": "Can be found in the Litlith Woods.\\n \\n Makes dark green dye.",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Flowers/Coelogyne_Pandurata.Coelogyne_Pandurata'",
+			"Background": "None",
+			"UnlockDate": 
+			{
+				"Season": 0,
+				"DayOfSeason": 0,
+				"Year": 0
+			}
+		},
+		{
+			"RowName": "Colombine",
+			"Title": "Colombine",
+			"Description": "Can be found at Cricket Hills.\\n \\n Makes blue dye.",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Flowers/Colombine.Colombine'",
+			"Background": "None",
+			"UnlockDate": 
+			{
+				"Season": 0,
+				"DayOfSeason": 0,
+				"Year": 0
+			}
+		},
+		{
+			"RowName": "Cosmos",
+			"Title": "Cosmos",
+			"Description": "Can be found around Pumpkinvale.\\n \\n Makes dark red dye.",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Flowers/Cosmos.Cosmos'",
+			"Background": "None",
+			"UnlockDate": 
+			{
+				"Season": 0,
+				"DayOfSeason": 0,
+				"Year": 0
+			}
+		},
+		{
+			"RowName": "cotyledon_blossoms",
+			"Title": "Cotyledon Blossoms",
+			"Description": "Can be found at Cricket Hills.\\n \\n Makes red dye.",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Flowers/cotyledon_blossoms.Cotyledon_Blossoms'",
+			"Background": "None",
+			"UnlockDate": 
+			{
+				"Season": 0,
+				"DayOfSeason": 0,
+				"Year": 0
+			}
+		},
+		{
+			"RowName": "Cymbidium_Orchid",
+			"Title": "Cymbidium Orchid",
+			"Description": "Can be found in the Pecan Peace Woods or at the mountain base near Hiatus Trail.\\n \\n Makes red dye.",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Flowers/Cymbidium_Orchid.Cymbidium_Orchid'",
+			"Background": "None",
+			"UnlockDate": 
+			{
+				"Season": 0,
+				"DayOfSeason": 0,
+				"Year": 0
+			}
+		},
+		{
+			"RowName": "Daisy",
+			"Title": "Daisy",
+			"Description": "Can be found in the Redwood Forest.\\n \\n Makes white dye.",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Flowers/Daisy.Daisy'",
+			"Background": "None",
+			"UnlockDate": 
+			{
+				"Season": 0,
+				"DayOfSeason": 0,
+				"Year": 0
+			}
+		},
+		{
+			"RowName": "Day_Lily_Hemerocallis",
+			"Title": "Day Lily Hemerocallis",
+			"Description": "Can be found in the Redwood Forest.\\n \\n Makes orange dye.",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Flowers/Day_Lily_hemerocallis.Day_Lily_hemerocallis'",
+			"Background": "None",
+			"UnlockDate": 
+			{
+				"Season": 0,
+				"DayOfSeason": 0,
+				"Year": 0
+			}
+		},
+		{
+			"RowName": "Delphinium",
+			"Title": "Delphinium",
+			"Description": "Can be found in the Mintystone Woods.\\n \\n Makes purple dye.",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Flowers/Delphinium.Delphinium'",
+			"Background": "None",
+			"UnlockDate": 
+			{
+				"Season": 0,
+				"DayOfSeason": 0,
+				"Year": 0
+			}
+		},
+		{
+			"RowName": "Echeveria",
+			"Title": "Echeveria",
+			"Description": "Can be found between the Whiskey Woods and Bitterleaf Jungle.\\n \\n Makes green dye.",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Flowers/Echeveria.Echeveria'",
+			"Background": "None",
+			"UnlockDate": 
+			{
+				"Season": 0,
+				"DayOfSeason": 0,
+				"Year": 0
+			}
+		},
+		{
+			"RowName": "Echinacea_Aster",
+			"Title": "Echinacea Aster",
+			"Description": "Can be found in the Lucky Pine Forest.\\n \\n Makes pink dye.",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Flowers/Echinacea_aster.Echinacea_Aster'",
+			"Background": "None",
+			"UnlockDate": 
+			{
+				"Season": 0,
+				"DayOfSeason": 0,
+				"Year": 0
+			}
+		},
+		{
+			"RowName": "Fiddle_Fern",
+			"Title": "Fiddle Fern",
+			"Description": "Can be found at Cricket Hills.\\n \\n Makes dark brown dye.",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Flowers/Fiddle_Fern.Fiddle_Fern'",
+			"Background": "None",
+			"UnlockDate": 
+			{
+				"Season": 0,
+				"DayOfSeason": 0,
+				"Year": 0
+			}
+		},
+		{
+			"RowName": "Forget_Me_Not",
+			"Title": "Forget Me Not",
+			"Description": "Can be found between Cricket Hill and Whiskey Woods.\\n \\n Makes light blue dye.",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Flowers/Forget_Me_Not.Forget_Me_Not'",
+			"Background": "None",
+			"UnlockDate": 
+			{
+				"Season": 0,
+				"DayOfSeason": 0,
+				"Year": 0
+			}
+		},
+		{
+			"RowName": "Gardenia",
+			"Title": "Gardenia",
+			"Description": "Can be found in the Palash Jungle.\\n \\n Makes white dye.",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Flowers/Gardenia.Gardenia'",
+			"Background": "None",
+			"UnlockDate": 
+			{
+				"Season": 0,
+				"DayOfSeason": 0,
+				"Year": 0
+			}
+		},
+		{
+			"RowName": "Gentian",
+			"Title": "Gentian",
+			"Description": "Can be found in the Litlith Woods.\\n \\n Makes dark blue dye.",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Flowers/Gentian.Gentian'",
+			"Background": "None",
+			"UnlockDate": 
+			{
+				"Season": 0,
+				"DayOfSeason": 0,
+				"Year": 0
+			}
+		},
+		{
+			"RowName": "Gladiolus",
+			"Title": "Gladiolus",
+			"Description": "Can be found in north of Pecan Peace Forest.\\n \\n Makes pink dye.",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Flowers/Gladiolus.Gladiolus'",
+			"Background": "None",
+			"UnlockDate": 
+			{
+				"Season": 0,
+				"DayOfSeason": 0,
+				"Year": 0
+			}
+		},
+		{
+			"RowName": "Greenovia_Dodrentalis",
+			"Title": "Greenovia Dodrentalis",
+			"Description": "Can be found upper north-west of the Palash Jungle.\\n \\n Makes green dye.",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Flowers/Greenovia_dodrentalis.Greenovia_Dodrentalis'",
+			"Background": "None",
+			"UnlockDate": 
+			{
+				"Season": 0,
+				"DayOfSeason": 0,
+				"Year": 0
+			}
+		},
+		{
+			"RowName": "Hellebore",
+			"Title": "Hellebore",
+			"Description": "Can be found in the Pecan Peace Woods and along Hiatus Trail.\\n \\n Makes white dye.",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Flowers/Hellebore.Hellebore'",
+			"Background": "None",
+			"UnlockDate": 
+			{
+				"Season": 0,
+				"DayOfSeason": 0,
+				"Year": 0
+			}
+		},
+		{
+			"RowName": "Hollyhock_Alcea",
+			"Title": "Hollyhock Alcea",
+			"Description": "Can be found in the Pecan Peace Woods.\\n \\n Makes dark red dye.",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Flowers/Hollyhock_alcea.Hollyhock_Alcea'",
+			"Background": "None",
+			"UnlockDate": 
+			{
+				"Season": 0,
+				"DayOfSeason": 0,
+				"Year": 0
+			}
+		},
+		{
+			"RowName": "Hyacinth",
+			"Title": "Hyacinth",
+			"Description": "Can be found at the top of Blush-bloom Hills.\\n \\n Makes purple dye.",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Flowers/Hyacinth.Hyacinth'",
+			"Background": "None",
+			"UnlockDate": 
+			{
+				"Season": 0,
+				"DayOfSeason": 0,
+				"Year": 0
+			}
+		},
+		{
+			"RowName": "Iris_Cristata",
+			"Title": "Iris Cristata",
+			"Description": "Can be found at Lovely Point Groves.\\n \\n Makes light blue dye.",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Flowers/Iris_Cristata.Iris_Cristata'",
+			"Background": "None",
+			"UnlockDate": 
+			{
+				"Season": 0,
+				"DayOfSeason": 0,
+				"Year": 0
+			}
+		},
+		{
+			"RowName": "Iris",
+			"Title": "Iris",
+			"Description": "Can be found at Lovely Point Groves.\\n \\n Makes purple dye.",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Flowers/Iris.Iris'",
+			"Background": "None",
+			"UnlockDate": 
+			{
+				"Season": 0,
+				"DayOfSeason": 0,
+				"Year": 0
+			}
+		},
+		{
+			"RowName": "Jade_Vine_Flower",
+			"Title": "Jade Vine Flower",
+			"Description": "Can be found in the Palash Jungle. It is very difficult to find and only grows on one tree.\\n \\n Makes light blue dye.",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Flowers/Jade_Vine_Flower.Jade_Vine_Flower'",
+			"Background": "None",
+			"UnlockDate": 
+			{
+				"Season": 0,
+				"DayOfSeason": 0,
+				"Year": 0
+			}
+		},
+		{
+			"RowName": "Kangaroo_Paw",
+			"Title": "Kangaroo Paw",
+			"Description": "Can be found in the Bitterleaf Jungle.\\n \\n Makes brown dye.",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Flowers/kangaroo_paw_plant.kangaroo_paw_plant'",
+			"Background": "None",
+			"UnlockDate": 
+			{
+				"Season": 0,
+				"DayOfSeason": 0,
+				"Year": 0
+			}
+		},
+		{
+			"RowName": "Lambs_Ear",
+			"Title": "Lambs Ear",
+			"Description": "Can be found at Lovely Point Groves.\\n \\n Makes green dye.",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Flowers/Lambs_Ear.Lambs_Ear'",
+			"Background": "None",
+			"UnlockDate": 
+			{
+				"Season": 0,
+				"DayOfSeason": 0,
+				"Year": 0
+			}
+		},
+		{
+			"RowName": "Mariposas_De_Cuba",
+			"Title": "Mariposas",
+			"Description": "Can be found on Spoonie Island.\\n \\n Makes white dye.",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Flowers/Mariposas_de_Cuba.Mariposas_De_Cuba'",
+			"Background": "None",
+			"UnlockDate": 
+			{
+				"Season": 0,
+				"DayOfSeason": 0,
+				"Year": 0
+			}
+		},
+		{
+			"RowName": "Morning_Glory",
+			"Title": "Morning Glory",
+			"Description": "Can be found in the Pecan Peace Woods.\\n \\n Makes white dye.",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Flowers/Morning_Glory.Morning_Glory'",
+			"Background": "None",
+			"UnlockDate": 
+			{
+				"Season": 0,
+				"DayOfSeason": 0,
+				"Year": 0
+			}
+		},
+		{
+			"RowName": "Nigella",
+			"Title": "Nigella",
+			"Description": "Can be found in the Peacewood Groves.\\n \\n Makes white dye.",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Flowers/Nigella.Nigella'",
+			"Background": "None",
+			"UnlockDate": 
+			{
+				"Season": 0,
+				"DayOfSeason": 0,
+				"Year": 0
+			}
+		},
+		{
+			"RowName": "Orchid",
+			"Title": "Orchid",
+			"Description": "Can be found near Diamond Falls Lake.\\n \\n Makes pink dye.",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Flowers/Orchid.Orchid'",
+			"Background": "None",
+			"UnlockDate": 
+			{
+				"Season": 0,
+				"DayOfSeason": 0,
+				"Year": 0
+			}
+		},
+		{
+			"RowName": "Passion_Flower",
+			"Title": "Passion Flower",
+			"Description": "Can be found in the Palash Jungle.\\n \\n Makes dark red dye.",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Flowers/Passion_Flower.Passion_Flower'",
+			"Background": "None",
+			"UnlockDate": 
+			{
+				"Season": 0,
+				"DayOfSeason": 0,
+				"Year": 0
+			}
+		},
+		{
+			"RowName": "Petunia",
+			"Title": "Petunia",
+			"Description": "Can be found in the Redwood Forest.\\n \\n Makes white dye.",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Flowers/Petunia.Petunia'",
+			"Background": "None",
+			"UnlockDate": 
+			{
+				"Season": 0,
+				"DayOfSeason": 0,
+				"Year": 0
+			}
+		},
+		{
+			"RowName": "Poinsettia",
+			"Title": "Poinsettia",
+			"Description": "Can be found in the Bitterleaf Jungle where the river meets the ocean.\\n \\n Makes red dye.",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Flowers/Poinsettia.Poinsettia'",
+			"Background": "None",
+			"UnlockDate": 
+			{
+				"Season": 0,
+				"DayOfSeason": 0,
+				"Year": 0
+			}
+		},
+		{
+			"RowName": "Poppy",
+			"Title": "Poppy",
+			"Description": "Can be found around Pumpkinvale.\\n \\n Makes red dye.",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Flowers/Poppy.Poppy'",
+			"Background": "None",
+			"UnlockDate": 
+			{
+				"Season": 0,
+				"DayOfSeason": 0,
+				"Year": 0
+			}
+		},
+		{
+			"RowName": "Pride_Of_Madeira",
+			"Title": "Pride Of Madeira",
+			"Description": "Can be found on Spoonie Island.\\n \\n Makes purple dye.",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Flowers/Pride_of_Madeira.Pride_Of_Madeira'",
+			"Background": "None",
+			"UnlockDate": 
+			{
+				"Season": 0,
+				"DayOfSeason": 0,
+				"Year": 0
+			}
+		},
+		{
+			"RowName": "Purple_Hydrangea",
+			"Title": "Purple Hydrangea",
+			"Description": "Can be found between the Whiskey Woods and Bitterleaf Jungle.\\n \\n Makes purple dye.",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Flowers/Purple_Hydrangea.Purple_Hydrangea'",
+			"Background": "None",
+			"UnlockDate": 
+			{
+				"Season": 0,
+				"DayOfSeason": 0,
+				"Year": 0
+			}
+		},
+		{
+			"RowName": "Rose",
+			"Title": "Rose",
+			"Description": "Can be found on Blush-bloom Hills.\\n \\n Makes red dye.",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Flowers/Rose.Rose'",
+			"Background": "None",
+			"UnlockDate": 
+			{
+				"Season": 0,
+				"DayOfSeason": 0,
+				"Year": 0
+			}
+		},
+		{
+			"RowName": "Sandersonia",
+			"Title": "Sandersonia",
+			"Description": "Can be found at Lovely Point Groves.\\n \\n Makes orange dye.",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Flowers/Sandersonia.Sandersonia'",
+			"Background": "None",
+			"UnlockDate": 
+			{
+				"Season": 0,
+				"DayOfSeason": 0,
+				"Year": 0
+			}
+		},
+		{
+			"RowName": "Sneezeweed",
+			"Title": "Sneezeweed",
+			"Description": "Can be found near the Jounce Factory.\\n \\n Makes dark red dye.",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Flowers/Sneezeweed.Sneezeweed'",
+			"Background": "None",
+			"UnlockDate": 
+			{
+				"Season": 0,
+				"DayOfSeason": 0,
+				"Year": 0
+			}
+		},
+		{
+			"RowName": "Spirea",
+			"Title": "Spirea",
+			"Description": "Can be found near the lake at Diamond Falls.\\n \\n Makes pink dye. ",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Flowers/Spirea.Spirea'",
+			"Background": "None",
+			"UnlockDate": 
+			{
+				"Season": 0,
+				"DayOfSeason": 0,
+				"Year": 0
+			}
+		},
+		{
+			"RowName": "Star_Scabiosa",
+			"Title": "Star Scabiosa",
+			"Description": "Can be found in Pumpkinvale along the river near the temple.\\n \\n Makes white dye.",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Flowers/Star_Scabiosa.Star_Scabiosa'",
+			"Background": "None",
+			"UnlockDate": 
+			{
+				"Season": 0,
+				"DayOfSeason": 0,
+				"Year": 0
+			}
+		},
+		{
+			"RowName": "Stokesia",
+			"Title": "Stokesia",
+			"Description": "Can be found near the Jounce Factory or behind the museum.\\n \\n Makes purple dye.",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Flowers/Stokesia.Stokesia'",
+			"Background": "None",
+			"UnlockDate": 
+			{
+				"Season": 0,
+				"DayOfSeason": 0,
+				"Year": 0
+			}
+		},
+		{
+			"RowName": "Sunflower",
+			"Title": "Sunflower",
+			"Description": "Can be found in the Lilith Woods, near the coast.\\n \\n Makes yellow dye",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Flowers/sunflower.sunflower'",
+			"Background": "None",
+			"UnlockDate": 
+			{
+				"Season": 0,
+				"DayOfSeason": 0,
+				"Year": 0
+			}
+		},
+		{
+			"RowName": "Trillium",
+			"Title": "Trillium",
+			"Description": "Can be found at Lovely Point Groves.\\n \\n Makes dark red dye",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Flowers/Trillium.Trillium'",
+			"Background": "None",
+			"UnlockDate": 
+			{
+				"Season": 0,
+				"DayOfSeason": 0,
+				"Year": 0
+			}
+		},
+		{
+			"RowName": "Venus_Flytrap",
+			"Title": "Venus Flytrap",
+			"Description": "Can be found between the Whiskey Woods and Bitterleaf Jungle.\\n \\n Makes green dye.",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Flowers/Venus_Flytrap.Venus_Flytrap'",
+			"Background": "None",
+			"UnlockDate": 
+			{
+				"Season": 0,
+				"DayOfSeason": 0,
+				"Year": 0
+			}
+		},
+		{
+			"RowName": "Verbana",
+			"Title": "Verbana",
+			"Description": "Can be found east of the Clementine Mines, towards the river.\\n \\n Makes purple dye. ",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Flowers/Verbana.Verbana'",
+			"Background": "None",
+			"UnlockDate": 
+			{
+				"Season": 0,
+				"DayOfSeason": 0,
+				"Year": 0
+			}
+		},
+		{
+			"RowName": "Violet",
+			"Title": "Violet",
+			"Description": "Can be found near the bridge going into Pumpkinvale.\\n \\n Makes purple dye.",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Flowers/Violet.Violet'",
+			"Background": "None",
+			"UnlockDate": 
+			{
+				"Season": 0,
+				"DayOfSeason": 0,
+				"Year": 0
+			}
+		},
+		{
+			"RowName": "Zinnia",
+			"Title": "Zinnia",
+			"Description": "Can be found on Spoonie Island.\\n \\n Makes red dye.",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Flowers/Zinnia.Zinnia'",
+			"Background": "None",
+			"UnlockDate": 
+			{
+				"Season": 0,
+				"DayOfSeason": 0,
+				"Year": 0
+			}
+		},
+		{
+			"RowName": "Scilla",
+			"Title": "Scilla",
+			"Description": "Can be found in the Lucky Pine Forest.\\n \\n Makes dark blue dye.",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Flowers/Scilla.Scilla'",
+			"Background": "None",
+			"UnlockDate": 
+			{
+				"Season": 0,
+				"DayOfSeason": 0,
+				"Year": 0
+			}
+		},
+		{
+			"RowName": "Daffodil",
+			"Title": "Daffodil",
+			"Description": "Can be found at Lovely Point Groves.\\n \\n Makes bright yellow dye.",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Flowers/Daffodil.Daffodil'",
+			"Background": "None",
+			"UnlockDate": 
+			{
+				"Season": 0,
+				"DayOfSeason": 0,
+				"Year": 0
+			}
+		},
+		{
+			"RowName": "SewingClothes",
+			"Title": "Sewing Clothes",
+			"Description": "You can make custom clothes using a sewing machine and a loom. Both can be unlocked by shipping 20 wool. Refer to the books in the processor section for what ingredients are needed for the loom and sewing machine.\\n \\n After you've crafted the cloth you want, you need a sewing machine that can be bought from the home improvement shop.  \\n \\n Patterns for clothes can be taught by Rose in Pumpkinvale or Kishan in Wahoo Beach after helping them out with certain quests. \\n \\n Then you simply apply the cloth to the article of clothing you want to craft. You can also preview the article of clothing before you make it.",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Clothes/Camp_Shirt_Icon_Blue.Camp_Shirt_Icon_Blue'",
+			"Background": "None",
+			"UnlockDate": 
+			{
+				"Season": 0,
+				"DayOfSeason": 0,
+				"Year": 0
+			}
+		},
+		{
+			"RowName": "Butterchurn",
+			"Title": "Butter Churn",
+			"Description": "The butter churn becomes available after shipping 20 milk or 20 of the nuts used to make nut-butter. \\n \\n It converts milk and some nuts into butter \\n \\n Place the butter churn anywhere on your farm, click on it and then drag the items to be processed in the left slot. \\n \\n It only takes 1 milk or 5 nuts to be converted into butter. \\n \\n Nuts that can be processed into butter are: \\n \\n Walnuts \\n \\n Macadamias \\n \\n Coconuts \\n \\n Almonds. \\n \\n Processing may take some time, so feel free to leave the items processing and come back later.",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Expansions/Butter_Churn.Butter_Churn'",
+			"Background": "None",
+			"UnlockDate": 
+			{
+				"Season": 0,
+				"DayOfSeason": 0,
+				"Year": 0
+			}
+		},
+		{
+			"RowName": "Fossils",
+			"Title": "Fossils",
+			"Description": "Dinosaur fossils can be found in the Lapidot Caves, located in Diamond Falls as well as the Topical Tundra located north-west of the island. \\n \\n Look for dirt mounds on the ground where the fossils can be dug up with a shovel. Return to the site in 3 days and there will be more fossils to discover. \\n \\n Fossils can be donated to the museum, just give them to Evan during museum hours.",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/General/Fossil.Fossil'",
+			"Background": "None",
+			"UnlockDate": 
+			{
+				"Season": 0,
+				"DayOfSeason": 0,
+				"Year": 0
+			}
+		},
+		{
+			"RowName": "Gold_Coins",
+			"Title": "Old Gold Coins",
+			"Description": "There are old gold coins rumored to be from a thousand year old shipwreck near Wahoo Beach. They are said to be found in a hidden cave.\\n \\n Once in the cave, look for the dirt mounds and dig them up with a shovel. Return to the cave in 3 days to find more coins after digging them up. \\n \\n They can be donated to the museum, just look for Evan during museum hours.",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/General/Gold_Coin_Icon.Gold_Coin_Icon'",
+			"Background": "None",
+			"UnlockDate": 
+			{
+				"Season": 0,
+				"DayOfSeason": 0,
+				"Year": 0
+			}
+		},
+		{
+			"RowName": "Artifacts",
+			"Title": "Artifacts",
+			"Description": "Artifacts can be dug up near an old pyramid ruin located north of the Lucky Pine Forest. \\n \\n Look for the dirt mounds near the structure and dig them up with a shovel. Return to the site in 3 days to find more artifacts after digging them up. \\n \\n They can be donated to the museum, just look for Evan during museum hours.",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/General/Statue_Artifact.Statue_Artifact'",
+			"Background": "None",
+			"UnlockDate": 
+			{
+				"Season": 0,
+				"DayOfSeason": 0,
+				"Year": 0
+			}
+		},
+		{
+			"RowName": "StatueGods",
+			"Title": "Statue of The Gods",
+			"Description": "There are three great statues of the Gods located deep within the caves on the island. The staues are: \\n \\n The Wind Goddess \\n The Fire God \\n The Water God \\n \\n They are located deep within the ground and may require a good shovel to dig up. They can be donated to the museum, just look for Evan during museum hours.",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Tools/Shovel_Copper.Shovel_Copper'",
+			"Background": "None",
+			"UnlockDate": 
+			{
+				"Season": 0,
+				"DayOfSeason": 0,
+				"Year": 0
+			}
+		},
+		{
+			"RowName": "Bugs_General",
+			"Title": "Catching Bugs",
+			"Description": "Bugs can be caught by equipping a bug net. Different bug nets can be obtained by befriending bug enthusiasts Lisa or Kumoko. \\n \\n When a bug net is equipped then you can slowly sneak towards a bug. Watch and listen to a bug carefully. Some bugs will start to shake or make a noise when it's about to be startled. When this happens, stop and stand still, until the bug returns to normal.  \\n \\n The bug will flee if it detects your presence. It takes patience to carefully approach a bug and line up the bug net to catch the bug. \\n \\n Different bugs will appear in different seasons and at different times. \\n \\n Some bugs are aggressive and will attack if startled so, be on alert when wandering in the wilderness. Refer to the guide below for more information \\n \\n. Bugs can be donated to the museum.",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Tools/BugNet_Diamond.BugNet_Diamond'",
+			"Background": "None",
+			"UnlockDate": 
+			{
+				"Season": 0,
+				"DayOfSeason": 0,
+				"Year": 0
+			}
+		},
+		{
+			"RowName": "Bug_Ants",
+			"Title": "Ants",
+			"Description": "Ants are usually found on the ground during the night and day. They are hard to spot because, well, they are ants. Listen for when they are about to scuttle away. Beware of fire ants, they will attack and it will hurt.\\n \\nArmy Ant: Bitter Leaf Jungle, Maple Leaf Woods\\n \\nBlack Ant: Shady Breeze Woods\\n \\nCarpenter Ant: Minty Stone Forest\\n \\nCarribean Crazy Ant: Bitterleaf Jungle\\n \\nFire Ant: Topical Tundra\\n \\nHoney pot Ant: Topical Tundra\\n \\nLeaf Cutter Ant: Shady Breeze Woods\\n \\nRed Ant Mimic Spider: Bitterleaf Jungle\\n \\nRed Velvet Ant: Bitter Leaf Jungle",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Bugs/Army_Ant.Army_Ant'",
+			"Background": "None",
+			"UnlockDate": 
+			{
+				"Season": 0,
+				"DayOfSeason": 0,
+				"Year": 0
+			}
+		},
+		{
+			"RowName": "Bug_Beetles",
+			"Title": "Beetles",
+			"Description": "Beetles are usually found hanging out on coconut tree trunks. Most of them appear during the night and some are worth quite a bit if caught. \\n \\n They are found along the beach near Wahoo Beach.",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Bugs/Coconut_Rhinocerus.Coconut_Rhinocerus'",
+			"Background": "None",
+			"UnlockDate": 
+			{
+				"Season": 0,
+				"DayOfSeason": 0,
+				"Year": 0
+			}
+		},
+		{
+			"RowName": "Bug_Cicadas",
+			"Title": "Cicadas",
+			"Description": "Cicadas are summer-time bugs that only come out at night. They can be found on the tall pine trees at Lovely Point Groves.",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Bugs/brown_cicada.brown_cicada'",
+			"Background": "None",
+			"UnlockDate": 
+			{
+				"Season": 0,
+				"DayOfSeason": 0,
+				"Year": 0
+			}
+		},
+		{
+			"RowName": "Bug_DragonFly",
+			"Title": "Dragonflies",
+			"Description": "Dragonflies are usually found near ponds and still water. Some can be found near Canna Lake and the ponds at the Topical Tundra.",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Bugs/azure.azure'",
+			"Background": "None",
+			"UnlockDate": 
+			{
+				"Season": 0,
+				"DayOfSeason": 0,
+				"Year": 0
+			}
+		},
+		{
+			"RowName": "Bug_Flies",
+			"Title": "Flies",
+			"Description": "Flies are most commonly found in the jungle or near areas with flowers and lots of grass.",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Bugs/Bald_Faced_Hornet.Bald_Faced_Hornet'",
+			"Background": "None",
+			"UnlockDate": 
+			{
+				"Season": 0,
+				"DayOfSeason": 0,
+				"Year": 0
+			}
+		},
+		{
+			"RowName": "Bug_Grasshoppers",
+			"Title": "Grasshoppers",
+			"Description": "Grasshoppers can be found near patches of grass, with most being found in the southern jungles. They spawn both at night and day throughout the year except winter. The best place to catch grasshoppers would be the grass near the museum.",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Bugs/grasshopper.grasshopper'",
+			"Background": "None",
+			"UnlockDate": 
+			{
+				"Season": 0,
+				"DayOfSeason": 0,
+				"Year": 0
+			}
+		},
+		{
+			"RowName": "Bug_Scorpion",
+			"Title": "Scorpions",
+			"Description": "Most scorpions are found in areas with many rocks where they can hide. The most poisonous scorpion is the bark scorpion which will send you directly to the clinic. Most scorpions will attack if startled, so scan the ground if you are in an area where they appear. They are commonly found in the Topical Tundras.",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Bugs/scorpion.scorpion'",
+			"Background": "None",
+			"UnlockDate": 
+			{
+				"Season": 0,
+				"DayOfSeason": 0,
+				"Year": 0
+			}
+		},
+		{
+			"RowName": "Bug_Spiders",
+			"Title": "Spiders",
+			"Description": "Different kinds of spiders can be found at different areas throughout the island. Usually, spiders are found on top of flowers, and large spiders like tarantulas can be found in rocky areas like the Topical Tundra. ",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Bugs/Cat_Face_Spider.Cat_Face_Spider'",
+			"Background": "None",
+			"UnlockDate": 
+			{
+				"Season": 0,
+				"DayOfSeason": 0,
+				"Year": 0
+			}
+		},
+		{
+			"RowName": "Bug_Worm",
+			"Title": "Worms",
+			"Description": "Worms are rarer to come across, but they are usually found perched on top of mossy logs in areas with a lot of trees. They are most commonly found in the southern jungles.",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Bugs/bag_worm.bag_worm'",
+			"Background": "None",
+			"UnlockDate": 
+			{
+				"Season": 0,
+				"DayOfSeason": 0,
+				"Year": 0
+			}
+		},
+		{
+			"RowName": "Bug_Butterflies",
+			"Title": "Butterflies",
+			"Description": "It's recommended to use a long bug net to catch butterflies as it's really hard to tell when they are about to fly away. (More information about butterflies coming soon)",
+			"Thumbnail": "Texture2D'/Game/Textures/Unique/Bugs/Alpine_Black_Swallowtail_Butterfly_D.Alpine_Black_Swallowtail_Butterfly_D'",
+			"Background": "None",
+			"UnlockDate": 
+			{
+				"Season": 0,
+				"DayOfSeason": 0,
+				"Year": 0
+			}
+		},
+		{
+			"RowName": "GarlicAbout",
+			"Title": "Garlic",
+			"Description": "Garlic can be found in the south eastern part of the island, in the area between the Minty Stone Woods and Lilith Woods.",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Crops/Garlic.Garlic'",
+			"Background": "None",
+			"UnlockDate": 
+			{
+				"Season": 0,
+				"DayOfSeason": 0,
+				"Year": 0
+			}
+		},
+		{
+			"RowName": "Fish_Tanks",
+			"Title": "Fish Tanks",
+			"Description": "Fish tanks can be used to breed different fish. The fish tanks become available at the home improvement shop after shipping 100 fish. \\n \\n Each tank can hold a maximum of 16 fish at a time. Different fish take different times to breed. \\n \\n Lake Tank \\n \\n The lake tank can only accept fish that are found in lakes\\n \\n \\n River Tank\\n \\n The river tank can only accept fish that are found in the river\\n \\n \\n Beach Tank\\n \\n The beach tank can only accept fish that are found off the beach shores.\\n \\n \\n Ocean Tank\\n The ocean tank can only accept fish that are found off Piscari Island (some of these fish include ones found on the beach shores as well). \\n \\n Different fish breed at different rates. Smaller common fish breed much faster than the larger rare fish. This can be anywhere from 3 days for the small fish or 25 days for the large fish. ",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Expansions/Fish_Tank_Icon.Fish_Tank_Icon'",
+			"Background": "None",
+			"UnlockDate": 
+			{
+				"Season": 0,
+				"DayOfSeason": 0,
+				"Year": 0
+			}
+		},
+		{
+			"RowName": "ToolBugNet",
+			"Title": "Bug Net",
+			"Description": "There are 5 tiers of bug nets. Each tier has a longer handle and a wider net to making it easier to catch bugs. The tiers are: \\n \\n Regular Bug Net \\n \\n Nice Bug Net \\n \\n Premium Bug Net \\n \\n Ultimate Bug Net \\n \\n Special Bug Net\\n \\n The Special bug net can't be crafted, it can only be obtained by befriending one of the bug catchers to heart 9. \\n \\n You can find old nets at the dump which can be used to craft the bug net.",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Tools/BugNet_Copper.BugNet_Copper'",
+			"Background": "None",
+			"UnlockDate": 
+			{
+				"Season": 0,
+				"DayOfSeason": 0,
+				"Year": 0
+			}
+		},
+		{
+			"RowName": "WallpaperTools",
+			"Title": "Wallpaper Tools",
+			"Description": "You can buy a kit called 'wallpaper tools' at the local home improvement shop. Place it anywhere on your farm, and use it to apply wallpaper to the buildings on your farm. You can paint the walls, roof, floors and more with this kit.",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Furniture/Painter.Painter'",
+			"Background": "None",
+			"UnlockDate": 
+			{
+				"Season": 0,
+				"DayOfSeason": 0,
+				"Year": 0
+			}
+		},
+		{
+			"RowName": "BreedAnimals",
+			"Title": "Breeding",
+			"Description": "To breed your animals, talk to your local vet. They will list out which animals can be bred and put in an order with the stork to deliver your baby animal in 18 days. \\n \\n Animals cannot be bred if they are sick, and female animals cannot be bred again until their baby is delivered. \\n \\n When a baby animal is delivered, it will appear in the barn with an empty spot. Click on the new baby animal to give it a name. After it has been named it will roam around like normal with the other animals. \\n \\n If you breed animals that drop extra animal products, they will pass on those traits to their offspring. However,  they must be bred with another animals that has high affection. When the affection of their offspring increases they will produce even more products. Cats, dogs and goats are the only animals that can't be bred.",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Animals/Rooster.Rooster'",
+			"Background": "None",
+			"UnlockDate": 
+			{
+				"Season": 0,
+				"DayOfSeason": 0,
+				"Year": 0
+			}
+		},
+		{
+			"RowName": "CraftingBed",
+			"Title": "CraftingBed",
+			"Description": "BED FRAME: \\n Wood Planks\\n Ores \\n Polished Gems \\n \\nCOMFORTER: \\n Cloth \\n \\nFITTED SHEET: \\n Cloth \\n \\nCOMFORTER FOLD: \\n Cloth \\n \\nPILLOW: \\n Cloth \\n \\n",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Furniture/Single_Bed.Single_Bed'",
+			"Background": "None",
+			"UnlockDate": 
+			{
+				"Season": 0,
+				"DayOfSeason": 0,
+				"Year": 0
+			}
+		},
+		{
+			"RowName": "CraftingChairs",
+			"Title": "Crafting Chairs",
+			"Description": "CHAIR FABRIC: \\n Cloth \\n \\nCHAIR LEGS: \\n Wood Planks\\n Ores \\n Polished Gems \\n \\n CHAIR FRAME: \\n Wood Planks\\n Ores \\n Polished Gems \\n \\n CHAIR CUSHION: \\n Cloth \\n \\n",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Furniture/Chair.Chair'",
+			"Background": "None",
+			"UnlockDate": 
+			{
+				"Season": 0,
+				"DayOfSeason": 0,
+				"Year": 0
+			}
+		},
+		{
+			"RowName": "CraftingCouches",
+			"Title": "Crafting Couches",
+			"Description": "COUCH FABRIC: \\n Cloth \\n \\n COUCH LEGS: \\n Wood Planks\\n Ores \\n Polished Gems \\n \\n",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Furniture/Couch.Couch'",
+			"Background": "None",
+			"UnlockDate": 
+			{
+				"Season": 0,
+				"DayOfSeason": 0,
+				"Year": 0
+			}
+		},
+		{
+			"RowName": "CraftingTables",
+			"Title": "Crafting Tables",
+			"Description": "TABLE: \\n Wood Planks\\n Ores \\n Polished Gems \\n \\n END TABLE: \\n Wood Planks\\n Ores \\n Polished Gems \\n \\nTABLE FRAME: \\n Wood Planks\\n Ores \\n Polished Gems \\n \\nOFFICE DESK: \\n Wood Planks\\n Ores \\n Polished Gems \\n \\nCOUNTER CUPBOARD: \\n Wood Planks\\n Ores \\n Polished Gems \\n \\nCOFFEE TABLE \\n Wood Planks\\n Ores \\n Polished Gems \\n \\n VANITY: \\n Wood Planks\\n Ores \\n Polished Gems \\n \\n COFFEE TABLE \\n Wood Planks\\n Ores \\n Polished Gems \\n \\n TABLE CLOTH: \\n Cloth \\n \\n",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Furniture/Table.Table'",
+			"Background": "None",
+			"UnlockDate": 
+			{
+				"Season": 0,
+				"DayOfSeason": 0,
+				"Year": 0
+			}
+		},
+		{
+			"RowName": "CraftingStorage",
+			"Title": "Crafting Storage",
+			"Description": "DRESSER: \\n Wood Planks\\n Ores \\n Polished Gems \\n \\n CUPBOARD: \\n Wood Planks\\n Ores \\n Polished Gems \\n \\nFRIDGE: \\n Wood Planks\\n Ores \\n Polished Gems \\n \\nWARDROBE \\n Wood Planks\\n Ores \\n Polished Gems \\n \\n SHED OUTSIDE WALL:  \\n Wood Planks\\n Ores \\n Polished Gems \\n Wallpaper \\n \\nSHED INSIDE WALL:  \\n Wood Planks\\n Ores \\n Polished Gems \\n Wallpaper \\n \\nSHED TRIM:  \\n Wood Planks\\n Ores \\n Polished Gems \\n Wallpaper \\n \\nWINDOW FRAME:  \\n Wood Planks\\n Ores \\n Polished Gems \\n Wallpaper \\n \\nROOF:  \\n Wood Planks\\n Ores \\n Polished Gems \\n Wallpaper \\n \\nSHED FLOOR:  \\n Wood Planks\\n Ores \\n Polished Gems \\n Wallpaper \\n \\nDOOR KNOB:  \\n Wood Planks\\n Ores \\n Polished Gems \\n Wallpaper \\n \\n CABINET:  \\n Wood Planks\\n Ores \\n Polished Gems \\n Wallpaper \\n \\n",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Expansions/Storage_Crate.Storage_Crate'",
+			"Background": "None",
+			"UnlockDate": 
+			{
+				"Season": 0,
+				"DayOfSeason": 0,
+				"Year": 0
+			}
+		},
+		{
+			"RowName": "CraftingShelves",
+			"Title": "Crafting Shelves",
+			"Description": "BOOKCASES: \\n Wood Planks\\n Ores \\n Polished Gems \\n \\n SHELF:  \\n Wood Planks\\n Ores \\n Polished Gems \\n Wallpaper \\n \\n",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Furniture/Bookcase.Bookcase'",
+			"Background": "None",
+			"UnlockDate": 
+			{
+				"Season": 0,
+				"DayOfSeason": 0,
+				"Year": 0
+			}
+		},
+		{
+			"RowName": "CraftingKitchens",
+			"Title": "Crafting Kitchens",
+			"Description": "KITCHEN CUPBOARDS: \\n Wood Planks\\n Ores \\n Polished Gems \\n \\nDISHWASHER: \\n Polished Gems \\n \\nKITCHEN SINK: \\n Ores \\n Polished Gems \\n \\nKITCHEN COUNTER: \\n Wood Planks\\n Ores \\n Polished Gems \\n \\nKITCHEN STOVE: \\n Wood Planks\\n Ores \\n Polished Gems \\n \\n",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Furniture/Kitchenoid.Kitchenoid'",
+			"Background": "None",
+			"UnlockDate": 
+			{
+				"Season": 0,
+				"DayOfSeason": 0,
+				"Year": 0
+			}
+		},
+		{
+			"RowName": "CraftingPlushies",
+			"Title": "Crafting Plushies",
+			"Description": "PLUSHIE: \\n Cloth \\n Wood Planks \\n Metal bars \\n Polished gems \\n \\n",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Furniture/Plushie.Plushie'",
+			"Background": "None",
+			"UnlockDate": 
+			{
+				"Season": 0,
+				"DayOfSeason": 0,
+				"Year": 0
+			}
+		},
+		{
+			"RowName": "CraftingDecor",
+			"Title": "Crafting Decor",
+			"Description": "PRIVACY SCREEN:  \\n Wood Planks\\n Ores \\n Polished Gems \\n Wallpaper (Excluding the frame)  \\n \\n BIRD HOUSE:  \\n Wood Planks\\n Ores \\n Polished Gems \\n Wallpaper (Excluding the frame) \\n \\nOUTDOOR SWING:  \\n Wood Planks\\n Ores \\n Polished Gems \\n \\nSWING CHAIN: \\n Ores \\n Polished Gems \\n \\nSWING COVER:  \\n Cloth \\n \\nLAMP: \\n Ores \\n Polished Gems \\n Wallpaper \\n \\n LAMP COVER: \\n Wallpaper \\n \\nOVEN MITTS:  \\n Cloth \\n \\n",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Furniture/Swing_Bench_Icon.Swing_Bench_Icon'",
+			"Background": "None",
+			"UnlockDate": 
+			{
+				"Season": 0,
+				"DayOfSeason": 0,
+				"Year": 0
+			}
+		},
+		{
+			"RowName": "CraftingHome",
+			"Title": "Crafting Home Decor",
+			"Description": "TILES:  \\n Wood Planks\\n Ores \\n Polished Gems \\n Wallpaper \\n \\nCURTAIN: \\n Cloth \\n \\nCURTAIN ROD:  \\n Wood Planks\\n Ores \\n Polished Gems \\n Wallpaper \\n \\nWALL:  \\n Wood Planks\\n Ores \\n Polished Gems \\n Wallpaper \\n \\n STONE LANTERN:  \\n Wood Planks\\n Ores \\n Polished Gems",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Furniture/Tile_Icon.Tile_Icon'",
+			"Background": "None",
+			"UnlockDate": 
+			{
+				"Season": 0,
+				"DayOfSeason": 0,
+				"Year": 0
+			}
+		},
+		{
+			"RowName": "ExclusiveOre",
+			"Title": "Lapidot Unique Gems",
+			"Description": "These gems can only be found in the Lapidot Caves: \\n \\n Diamond \\n Rose Quartz \\n Lapis Lazuli \\n Obsidian \\n Beryl \\n Jet \\n Tigers Eye \\n Jade \\n Moonstone \\n Comet \\n Citrine \\n Sugulite \\n Amazonite \\n Tanzanite \\n Bismuth \\n Alabaster",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Gems/Diamond.Diamond'",
+			"Background": "None",
+			"UnlockDate": 
+			{
+				"Season": 0,
+				"DayOfSeason": 0,
+				"Year": 0
+			}
+		},
+		{
+			"RowName": "ExclusiveOre2",
+			"Title": "Secret Cave Unique Gems",
+			"Description": "These gems can only be found in the hidden limestone caves: \\n \\n Unakite \\n Agate \\n Cassiterite \\n Chrysocolla \\n Malachite \\n Opal \\n Amber ",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Stone/Opal.Opal'",
+			"Background": "None",
+			"UnlockDate": 
+			{
+				"Season": 0,
+				"DayOfSeason": 0,
+				"Year": 0
+			}
+		},
+		{
+			"RowName": "SpringCropsDiamond",
+			"Title": "Spring Crops In Diamond Falls",
+			"Description": "Crops that can be grown during spring in Diamond Falls are: \\n \\n Asparagus \\n \\n Potatoes \\n \\n Rhubarb \\n \\n Peas \\n \\n Green Beans \\n \\n Sugar Beets(5 days) \\n \\n Juniper Berries \\n \\n Grapes \\n\\n Wheat (3 days)",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Crops/Peas.Peas'",
+			"Background": "None",
+			"UnlockDate": 
+			{
+				"Season": 0,
+				"DayOfSeason": 1,
+				"Year": 1
+			}
+		},
+		{
+			"RowName": "SummerCropsDiamond",
+			"Title": "Summer Crops In Diamond Falls",
+			"Description": "Crops that can be grown during summer in Diamond Falls are: \\n \\n  Kiwi \\n \\n Potatoes \\n \\n Artichoke \\n \\n Sugar Beets \\n \\n Broccoli \\n \\n Cabbage \\n \\n Chickpeas \\n\\n Wheat (3 days) \\n \\n  Corn (8 days)",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Crops/Artichoke.Artichoke'",
+			"Background": "None",
+			"UnlockDate": 
+			{
+				"Season": 1,
+				"DayOfSeason": 1,
+				"Year": 1
+			}
+		},
+		{
+			"RowName": "FallCropsDiamond",
+			"Title": "Fall Crops In Diamond Falls",
+			"Description": "Crops that can be grown during fall in Diamond Falls are: \\n \\n Potatoes \\n \\n Cranberries \\n \\n Pumpkins \\n \\n Sweet Potato  \\n \\n Sugar Beets \\n\\n Wheat (3 days)",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Crops/Cabbage.Cabbage'",
+			"Background": "None",
+			"UnlockDate": 
+			{
+				"Season": 2,
+				"DayOfSeason": 1,
+				"Year": 1
+			}
+		},
+		{
+			"RowName": "WinterCropsDiamond",
+			"Title": "Winter Crops in Diamond Falls",
+			"Description": "Crops that can be grown during winter in Diamond Falls are: \\n \\n Potatoes \\n \\n Leeks \\n \\n Sugar Beets \\n \\n Brussel Sprouts  \\n \\n Collard Greens",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Crops/Leek.Leek'",
+			"Background": "None",
+			"UnlockDate": 
+			{
+				"Season": 3,
+				"DayOfSeason": 1,
+				"Year": 1
+			}
+		},
+		{
+			"RowName": "SpringTreesDiamond",
+			"Title": "Spring Trees In Diamond Falls",
+			"Description": "Trees that bear fruit during spring in Diamond Falls are: \\n \\n Apricot \\n \\n Plums \\n \\n Walnuts",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Crops/Apricot.Apricot'",
+			"Background": "None",
+			"UnlockDate": 
+			{
+				"Season": 0,
+				"DayOfSeason": 1,
+				"Year": 1
+			}
+		},
+		{
+			"RowName": "SummerTreesDiamond",
+			"Title": "Summer Trees In Diamond",
+			"Description": "Trees that bear fruit during summer in Diamond Falls are: \\n \\n Apricot \\n \\n Plums \\n \\n Walnuts \\n \\n Pears \\n \\n Chestnuts",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Crops/Plum.Plum'",
+			"Background": "None",
+			"UnlockDate": 
+			{
+				"Season": 1,
+				"DayOfSeason": 1,
+				"Year": 1
+			}
+		},
+		{
+			"RowName": "FallTreesDiamond",
+			"Title": "Fall Trees In DIamond Falls",
+			"Description": "Trees that bear fruit during fall in Diamond Falls are: \\n \\n Pears \\n \\n Chestnuts",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Crops/Chestnut.Chestnut'",
+			"Background": "None",
+			"UnlockDate": 
+			{
+				"Season": 2,
+				"DayOfSeason": 1,
+				"Year": 1
+			}
+		},
+		{
+			"RowName": "DatingNPCs",
+			"Title": "Dating Residents",
+			"Description": "You can only start dating someone in year 2 and after befriending someone to full hearts. Once these two requirements are fulfilled check your local temple to see if the priest/priestess has opened a shop for acquiring the items necessary to let someone know that you're romantically interested in them. \\n \\nTo ask someone to date, you need to craft a jar of red stars. Buy the star crafting kit from the local temple, and also buy the paper. You will need 100 sheets of red paper to make a jar of red stars. Once crafted keep the stars in your pocket and talk to a resident with 10 hearts to trigger the dating cutscene. \\n \\n You can date multiple residents however if you date two people in different friend groups they'll be incompatible and you'll see a slow decline of everyone's love daily. \\n \\n So if you date multiple people be sure to talk and love them every day. If not, they will break up with you if their heart level goes down to 9. ",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/General/jar_of_stars__red_.jar_of_stars__red_'",
+			"Background": "None",
+			"UnlockDate": 
+			{
+				"Season": 0,
+				"DayOfSeason": 0,
+				"Year": 0
+			}
+		},
+		{
+			"RowName": "Vegan_Cooking",
+			"Title": "Vegan Cooking",
+			"Description": "Some recipes can be cooked without using animal products by substituting certain ingredients. However, you can't experiment and unlock new recipes with these substitutes. \\n \\n You need to you learn the recipe first from watching TV and once it appears in your cookbook, you can swap out the following ingredients with these substitutes: \\n \\n Chicken Eggs: \\n Silken Tofu \\n \\n Butter: \\n Almond Butter \\n Coconut Butter \\n Macadamia Butter \\n Walnut Butter \\n Coconut Butter \\n \\n Milk: \\n Soy Milk \\n Oat Milk \\n Rice Milk \\n Cashew Milk \\n Coconut Milk \\n \\n  For the meats you can use the following as a replacement as well \\n \\n Seitan: \\n Beef \\n Mutton \\n Pork \\n \\n Tofu: \\nChicken \\nFish fillets (but only regular fish fillets)",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Food/Vegetable_Recipes/Seitan.Seitan'",
+			"Background": "None",
+			"UnlockDate": 
+			{
+				"Season": 0,
+				"DayOfSeason": 0,
+				"Year": 0
+			}
+		},
+		{
+			"RowName": "Vegan_How",
+			"Title": "Vegan Substitutes",
+			"Description": "These are the recipes to create the vegan substitutes:\\n \\n Seitan: \\n Use the kitchen and combine the following ingredients: 1 soysauce, 1 onion, 1 garlic and 1 flour.\\n \\n Milk: \\n You can make non-dairy milk by putting these ingredients in the milk processor. \\n \\n Dairy Free Milk List \\n \\n Cashew Milk: \\n 3 Cashews \\n \\n Rice Milk: \\n 3 Bags of Rice \\n \\n Oat Milk: \\n 3 Oatmeal \\n \\n Coconut Milk: \\n 3 Coconuts \\n \\n Almond Milk: \\n 3 Almonds \\n \\n Soy Milk: \\n 3 Soybeans\\n \\n Non-Dairy Butter: \\n \\n It takes 5 of the following nuts to be converted into butter using the butter churn: \\n \\n Walnuts \\n \\n Macadamias \\n \\n Coconuts \\n \\n Almonds. \\n \\n Silken Tofu: \\n Use the kitchen and combine the following ingredients: \\n 3 soybeans, 1 soy milk",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Animal_Products/almond_milk.almond_milk'",
+			"Background": "None",
+			"UnlockDate": 
+			{
+				"Season": 0,
+				"DayOfSeason": 0,
+				"Year": 0
+			}
+		},
+		{
+			"RowName": "Marriage",
+			"Title": "Marriage",
+			"Description": "If you are dating someone and you get their hearts up to level 12, then they will ask you to marry them once the following conditions are met. \\n \\n - Own a tier 3 house \\n \\n - You own a farm plot in the town where the character you're dating lives. \\n \\n If you plan to marry more than one character you will need at least a tier 4 house. \\n \\n After these conditions are met you will be proposed to. After the proposal there will be wedding quests added to your journal. These quests can be completed at any time and once completed the ceremony will begin once you talk to the head priest/priestess at the local temple. \\n \\n It is possible to have a wedding with up to 3 characters at once. To have a wedding with multiple characters they must all propose before you complete all the wedding quests and trigger the ceremony. \\n \\n Similarly to dating, if you marry multiple characters in different friend groups their friendship level will slowly decrease every day. \\n \\n So, make sure you talk to and take care of everyone in the relationship. If a character's heart level goes down too low, then they will divorce you and their heart levels reset to 0.  ",
+			"Thumbnail": "Texture2D'/Game/Textures/Status_Icons/Status_Icon_Hearts2.Status_Icon_Hearts2'",
+			"Background": "None",
+			"UnlockDate": 
+			{
+				"Season": 0,
+				"DayOfSeason": 1,
+				"Year": 2
+			}
+		},
+		{
+			"RowName": "Spousetasks",
+			"Title": "Help With The Farm",
+			"Description": "Every day your spouse or housemate will either give you an item or do a random task on the farm. Housemates will do a maximum of 2 things per day at 10 hearts. If married a spouse will do a maximum of 5 things per day. \\n \\n If married your spouse starts with 1 chore per day at heart level 12 and every 2 hearts they will do 1 more extra task until reaching the maximum of 5 tasks per day at 20 hearts. \\n \\n  The tasks that spouses and housemates can do at random are: \\n \\n Cook your favorite food \\n \\nBring 1 random fish \\n \\nBring 1 random gem or metal \\n \\nWater all crops \\n \\nHarvest all crops \\n \\nCollect all animal products \\n \\nClean up all animal poop \\n \\n\\n Any crops, animal products or poop is placed inside the storage helper box which is next to the shipping box. ",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Expansions/Storage_Crate.Storage_Crate'",
+			"Background": "None",
+			"UnlockDate": 
+			{
+				"Season": 0,
+				"DayOfSeason": 1,
+				"Year": 2
+			}
+		},
+		{
+			"RowName": "Roomates",
+			"Title": "Housemates",
+			"Description": "Whether it's your best friend or maybe someone you like in a platonic way, you can give them a jar of yellow stars to show them how much you care.\\n \\n On year 2, with a tier 3 house and at least 8 hearts with someone, you can craft them a jar of yellow stars and they will ask if they can move in with you on the farm. \\n \\n If you say yes then their schedule may slightly change and they will live on the farm with you. They will help with chores around the farm or bring fish or gems. Their heart level will not surpass 10 and the max chores they will do is 2 per day. \\n \\n You can have a max of 2 housemates if you have a tier 4 house. ",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/General/jar_of_stars__yellow_.jar_of_stars__yellow_'",
+			"Background": "None",
+			"UnlockDate": 
+			{
+				"Season": 0,
+				"DayOfSeason": 1,
+				"Year": 2
+			}
+		},
+		{
+			"RowName": "Getting_A_Baby",
+			"Title": "Getting A Baby",
+			"Description": "So you're thinking about babies? In order to trigger the baby conversation with your partner you need to talk to them while carrying a crib in your inventory. \\n \\nYou can obtain a crib by unlocking the recipe and crafting it or buying it from the furniture store. \\n \\nYour partner will ask if you would like to have kids, and if you say yes, a new baby will be delivered by the stork in 2 weeks. If you say no, then it will take another season for the cutscene to be triggered again. Babies are not available in multiplayer sadly.",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/General/Baby_Icon.Baby_Icon'",
+			"Background": "None",
+			"UnlockDate": 
+			{
+				"Season": 0,
+				"DayOfSeason": 0,
+				"Year": 0
+			}
+		},
+		{
+			"RowName": "Baby_Care",
+			"Title": "Baby Care",
+			"Description": "When your baby is delivered it is a cute human bean that just kind of sleeps all day.\\n \\n You can't leave your baby alone on the farm, so when you leave your baby will automatically be in a baby carrier on your back. \\n \\n You can only hold and put down your baby on your farm. Your baby will grow into a toddler in 1 season.",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/General/Pacifer.Pacifer'",
+			"Background": "None",
+			"UnlockDate": 
+			{
+				"Season": 0,
+				"DayOfSeason": 1,
+				"Year": 2
+			}
+		},
+		{
+			"RowName": "Toddler_Care",
+			"Title": "Toddler Care",
+			"Description": "Once your baby has grown into a toddler, they will crawl around on the farm, but they will also appear on your back when you leave the farm. \\n \\n You need to feed your toddler once a day or they will cry more often. You can feed your toddler different kinds of food which will determine their personality when they grow up. \\n \\n There will be a 50/50 chance at 2 different personalities depending on the recipes fed. These are:\\n \\nEnergetic or Sweet:\\nDrinks \\nJam \\nMilk \\nBread\\n \\nBrat or Troublemaker: \\nCookies \\nCakes & Pies \\nIce Cream\\n \\nShy or Nerdy: \\nVegetable Dishes \\nBreakfast \\nSoup \\nSushi \\n \\nSporty or Tough: \\nCurry \\nMeat Dishes \\nFish Dishes \\nPizza \\n \\n If you feed them nothing, then it will choose a personality at random. Your toddler will grow up into a child 1 season.",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/General/Bottle.Bottle'",
+			"Background": "None",
+			"UnlockDate": 
+			{
+				"Season": 0,
+				"DayOfSeason": 1,
+				"Year": 2
+			}
+		},
+		{
+			"RowName": "Child_Care",
+			"Title": "Child Care",
+			"Description": "\\n \\nOnce your toddler grows up into a child. They will wander around the town based on their personality type. They will do chores for you based on how many heart levels you have with them.",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Misc/Friendship_Face.Friendship_Face'",
+			"Background": "None",
+			"UnlockDate": 
+			{
+				"Season": 0,
+				"DayOfSeason": 1,
+				"Year": 2
+			}
+		},
+		{
+			"RowName": "Bug_Repellent",
+			"Title": "Bug Repellent Juice",
+			"Description": "There are dangerous bugs out in the forests so we recommend drinking some bug repellent juice before heading out. To make this disgusting concoction you will need: \\n \\n 1 cloves \\n 1 lemon grass\\n 1 garlic \\n 1 lavender. \\n \\n The status effect will cause all bugs to flee from you while it is still active. ",
+			"Thumbnail": "Texture2D'/Game/Textures/Status_Icons/Bug_Repellant.Bug_Repellant'",
+			"Background": "None",
+			"UnlockDate": 
+			{
+				"Season": 0,
+				"DayOfSeason": 0,
+				"Year": 0
+			}
+		},
+		{
+			"RowName": "Pride_Flower",
+			"Title": "Pride Flower",
+			"Description": "The pride flower is rumored to be found high up in the moutains near Diamond Falls. ",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Flowers/Pride_Flower.Pride_Flower'",
+			"Background": "None",
+			"UnlockDate": 
+			{
+				"Season": 0,
+				"DayOfSeason": 1,
+				"Year": 2
+			}
+		},
+		{
+			"RowName": "Pets",
+			"Title": "Pets",
+			"Description": "To own a dog or a cat you need to have a pet house. One pet house can hold one pet. Pets need food every 3 days. \\n \\n Pets eat pet food which can be bought from the animal shop or cooked in a kitchen. \\n \\n The recipe for pet food is: \\n \\n 1 chicken meat \\n 1 wheat \\n 1 fish fillet \\n \\nCats will bring you a random bug every other day, and dogs will bring a random fossil every other day. ",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Animals/Cat.Cat'",
+			"Background": "None",
+			"UnlockDate": 
+			{
+				"Season": 0,
+				"DayOfSeason": 0,
+				"Year": 0
+			}
+		},
+		{
+			"RowName": "Gem_Polishing_Station",
+			"Title": "Gem Polishing Station",
+			"Description": "The gem polishing station is used to polish uncut gems mined from the mines. It takes 1 uncut gem to be turned into a polish gem. To unlock the gem polishing station you need to ship 30 uncut gems. The gem polishing station can be purchased from your local home improvement shop.  ",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Expansions/Crafting_Table.Crafting_Table'",
+			"Background": "None",
+			"UnlockDate": 
+			{
+				"Season": 0,
+				"DayOfSeason": 0,
+				"Year": 0
+			}
+		},
+		{
+			"RowName": "Aloe",
+			"Title": "Aloe",
+			"Description": "Aloe is found north of Canna Lake and before Cricket Hills. They are very rare and in a specific spot.",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Flowers/Aloe.Aloe'",
+			"Background": "None",
+			"UnlockDate": 
+			{
+				"Season": 0,
+				"DayOfSeason": 0,
+				"Year": 0
+			}
+		}
+	]
+}

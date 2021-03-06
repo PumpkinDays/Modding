@@ -1,0 +1,45 @@
+Npc_Cutscenes Structure:
+
+TriggerRequirements: 
+	RequiredDateTime: 
+		StartDate: 
+			Season: ONE of
+				Spring
+				Summer
+				Fall
+				Winter
+			DayOfSeason: integer
+			Year: integer
+		EndDate: 
+			Season: ONE of
+				Spring
+				Summer
+				Fall
+				Winter
+			DayOfSeason: integer
+			Year: integer
+		UseDate: true/false
+		StartTime: 
+			Hour: integer
+			Minute: integer
+		EndTime: 
+			Hour: integer
+			Minute: integer
+		UseTime: true/false
+	FactoryStatus: ONE of
+		Any
+		BeingBuilt
+		FinishedBuilding
+		PermanentlyStopped
+	HeartNpc: string
+	RequiredHeartLevel: float
+	ViewedCutscenes: TArray-FName
+NpcsToPlaceInSet: TArray-FName
+CutsceneDialogue: TArray-FCutsceneDialoguePiece
+ItemReward: string
+ItemAmount: integer
+ItemSenderFriendly: string
+SitInChairs: true/false
+PreventRemovedUnusedDialogue: true/false
+SkipTimeAfterCutscene: true/false
+SkipTimeAnimationRow: string

@@ -1,0 +1,317 @@
+{
+	"Rows": 
+	[
+		{
+			"RowName": "*Wave*",
+			"Animation": "AnimSequence'/Game/Character/Animations/Wave.Wave'",
+			"LoopOnlyNTimes": true,
+			"NumLoops": 1
+		},
+		{
+			"RowName": "*TakeItemFromPocket*",
+			"Animation": "AnimSequence'/Game/Character/Animations/Seeding.Seeding'",
+			"LoopOnlyNTimes": true,
+			"NumLoops": 1
+		},
+		{
+			"RowName": "*PutItemInPocket*",
+			"Animation": "AnimSequence'/Game/Character/Animations/Pocket_Item.Pocket_Item'",
+			"LoopOnlyNTimes": true,
+			"NumLoops": 1
+		},
+		{
+			"RowName": "*Angry*",
+			"Animation": "AnimSequence'/Game/Character/Animations/Angry.Angry'",
+			"LoopOnlyNTimes": true,
+			"NumLoops": 1
+		},
+		{
+			"RowName": "*Anxious*",
+			"Animation": "AnimSequence'/Game/Character/Animations/Anxious.Anxious'",
+			"LoopOnlyNTimes": true,
+			"NumLoops": 5
+		},
+		{
+			"RowName": "*Authority*",
+			"Animation": "AnimSequence'/Game/Character/Animations/Authority.Authority'",
+			"LoopOnlyNTimes": false,
+			"NumLoops": 5
+		},
+		{
+			"RowName": "*Bored*",
+			"Animation": "AnimSequence'/Game/Character/Animations/Bored.Bored'",
+			"LoopOnlyNTimes": true,
+			"NumLoops": 5
+		},
+		{
+			"RowName": "*Clapping*",
+			"Animation": "AnimSequence'/Game/Character/Animations/Clapping.Clapping'",
+			"LoopOnlyNTimes": true,
+			"NumLoops": 2
+		},
+		{
+			"RowName": "*Cool*",
+			"Animation": "AnimSequence'/Game/Character/Animations/Cool.Cool'",
+			"LoopOnlyNTimes": true,
+			"NumLoops": 5
+		},
+		{
+			"RowName": "*Crying*",
+			"Animation": "AnimSequence'/Game/Character/Animations/Crying.Crying'",
+			"LoopOnlyNTimes": true,
+			"NumLoops": 1
+		},
+		{
+			"RowName": "*Cute*",
+			"Animation": "AnimSequence'/Game/Character/Animations/Cute.Cute'",
+			"LoopOnlyNTimes": true,
+			"NumLoops": 5
+		},
+		{
+			"RowName": "*Depressed*",
+			"Animation": "AnimSequence'/Game/Character/Animations/Depressed.Depressed'",
+			"LoopOnlyNTimes": true,
+			"NumLoops": 5
+		},
+		{
+			"RowName": "*Disagree*",
+			"Animation": "AnimSequence'/Game/Character/Animations/No_Anim.No_Anim'",
+			"LoopOnlyNTimes": true,
+			"NumLoops": 1
+		},
+		{
+			"RowName": "*Embarassed*",
+			"Animation": "AnimSequence'/Game/Character/Animations/Embarassed.Embarassed'",
+			"LoopOnlyNTimes": true,
+			"NumLoops": 1
+		},
+		{
+			"RowName": "*Explaining*",
+			"Animation": "AnimSequence'/Game/Character/Animations/Explaining.Explaining'",
+			"LoopOnlyNTimes": true,
+			"NumLoops": 2
+		},
+		{
+			"RowName": "*Facepalm*",
+			"Animation": "AnimSequence'/Game/Character/Animations/Facepalm.Facepalm'",
+			"LoopOnlyNTimes": true,
+			"NumLoops": 1
+		},
+		{
+			"RowName": "*FistPump*",
+			"Animation": "AnimSequence'/Game/Character/Animations/Fist_Pump.Fist_Pump'",
+			"LoopOnlyNTimes": true,
+			"NumLoops": 1
+		},
+		{
+			"RowName": "*ForeheadWipe*",
+			"Animation": "AnimSequence'/Game/Character/Animations/ForeheadWipe.ForeheadWipe'",
+			"LoopOnlyNTimes": true,
+			"NumLoops": 1
+		},
+		{
+			"RowName": "*Haughty*",
+			"Animation": "AnimSequence'/Game/Character/Animations/Haughty.Haughty'",
+			"LoopOnlyNTimes": true,
+			"NumLoops": 5
+		},
+		{
+			"RowName": "*HeadNod*",
+			"Animation": "AnimSequence'/Game/Character/Animations/Head_nod.Head_nod'",
+			"LoopOnlyNTimes": true,
+			"NumLoops": 1
+		},
+		{
+			"RowName": "*Headscratch*",
+			"Animation": "AnimSequence'/Game/Character/Animations/Head_Scratch.Head_Scratch'",
+			"LoopOnlyNTimes": true,
+			"NumLoops": 1
+		},
+		{
+			"RowName": "*HurrayJump*",
+			"Animation": "AnimSequence'/Game/Character/Animations/Huray_Jump.Huray_Jump'",
+			"LoopOnlyNTimes": true,
+			"NumLoops": 1
+		},
+		{
+			"RowName": "*Innocent*",
+			"Animation": "AnimSequence'/Game/Character/Animations/Innocent.Innocent'",
+			"LoopOnlyNTimes": true,
+			"NumLoops": 5
+		},
+		{
+			"RowName": "*Kiss*",
+			"Animation": "AnimSequence'/Game/Character/Animations/Kiss.Kiss'",
+			"LoopOnlyNTimes": true,
+			"NumLoops": 1
+		},
+		{
+			"RowName": "*Shocked*",
+			"Animation": "AnimSequence'/Game/Character/Animations/Realized_Something.Realized_Something'",
+			"LoopOnlyNTimes": true,
+			"NumLoops": 1
+		},
+		{
+			"RowName": "*Shy*",
+			"Animation": "AnimSequence'/Game/Character/Animations/Shy.Shy'",
+			"LoopOnlyNTimes": true,
+			"NumLoops": 5
+		},
+		{
+			"RowName": "*Startled*",
+			"Animation": "AnimSequence'/Game/Character/Animations/Startled_Anim.Startled_Anim'",
+			"LoopOnlyNTimes": true,
+			"NumLoops": 1
+		},
+		{
+			"RowName": "*Talking1*",
+			"Animation": "AnimSequence'/Game/Character/Animations/Talking.Talking'",
+			"LoopOnlyNTimes": true,
+			"NumLoops": 1
+		},
+		{
+			"RowName": "*Talking2*",
+			"Animation": "AnimSequence'/Game/Character/Animations/Talking2.Talking2'",
+			"LoopOnlyNTimes": true,
+			"NumLoops": 1
+		},
+		{
+			"RowName": "*Talking3*",
+			"Animation": "AnimSequence'/Game/Character/Animations/Talking3.Talking3'",
+			"LoopOnlyNTimes": true,
+			"NumLoops": 1
+		},
+		{
+			"RowName": "*Yawning*",
+			"Animation": "AnimSequence'/Game/Character/Animations/Yawning.Yawning'",
+			"LoopOnlyNTimes": true,
+			"NumLoops": 1
+		},
+		{
+			"RowName": "*IdleTired*",
+			"Animation": "AnimSequence'/Game/Character/Animations/IdleTired.IdleTired'",
+			"LoopOnlyNTimes": true,
+			"NumLoops": 5
+		},
+		{
+			"RowName": "*AbsolutelyNo*",
+			"Animation": "AnimSequence'/Game/Character/Animations/Absolutely_No.Absolutely_No'",
+			"LoopOnlyNTimes": true,
+			"NumLoops": 1
+		},
+		{
+			"RowName": "*DamnYou*",
+			"Animation": "AnimSequence'/Game/Character/Animations/Damn_You.Damn_You'",
+			"LoopOnlyNTimes": false,
+			"NumLoops": 0
+		},
+		{
+			"RowName": "*Dismissive*",
+			"Animation": "AnimSequence'/Game/Character/Animations/Dismissive.Dismissive'",
+			"LoopOnlyNTimes": true,
+			"NumLoops": 2
+		},
+		{
+			"RowName": "*RealizedSomething*",
+			"Animation": "AnimSequence'/Game/Character/Animations/Realized_Something.Realized_Something'",
+			"LoopOnlyNTimes": true,
+			"NumLoops": 1
+		},
+		{
+			"RowName": "*Scared*",
+			"Animation": "AnimSequence'/Game/Character/Animations/Scared.Scared'",
+			"LoopOnlyNTimes": true,
+			"NumLoops": 1
+		},
+		{
+			"RowName": "*ThumbsDown*",
+			"Animation": "AnimSequence'/Game/Character/Animations/Thumbs_Down.Thumbs_Down'",
+			"LoopOnlyNTimes": true,
+			"NumLoops": 1
+		},
+		{
+			"RowName": "*Energetic*",
+			"Animation": "AnimSequence'/Game/Character/Animations/Energetic.Energetic'",
+			"LoopOnlyNTimes": true,
+			"NumLoops": 1
+		},
+		{
+			"RowName": "*FlexingMuscles*",
+			"Animation": "AnimSequence'/Game/Character/Animations/Flexing_Muscles.Flexing_Muscles'",
+			"LoopOnlyNTimes": true,
+			"NumLoops": 1
+		},
+		{
+			"RowName": "*Giggle*",
+			"Animation": "AnimSequence'/Game/Character/Animations/Giggle.Giggle'",
+			"LoopOnlyNTimes": true,
+			"NumLoops": 1
+		},
+		{
+			"RowName": "*HeartyLaugh*",
+			"Animation": "AnimSequence'/Game/Character/Animations/Hearty_Laugh.Hearty_Laugh'",
+			"LoopOnlyNTimes": true,
+			"NumLoops": 1
+		},
+		{
+			"RowName": "*ThumbsUp*",
+			"Animation": "AnimSequence'/Game/Character/Animations/Thumbs_Up.Thumbs_Up'",
+			"LoopOnlyNTimes": true,
+			"NumLoops": 1
+		},
+		{
+			"RowName": "*Thinking*",
+			"Animation": "AnimSequence'/Game/Character/Animations/Thinking.Thinking'",
+			"LoopOnlyNTimes": true,
+			"NumLoops": 3
+		},
+		{
+			"RowName": "*Yawn*",
+			"Animation": "AnimSequence'/Game/Character/Animations/Yawning.Yawning'",
+			"LoopOnlyNTimes": true,
+			"NumLoops": 1
+		},
+		{
+			"RowName": "*HairFlip*",
+			"Animation": "AnimSequence'/Game/Character/Animations/Hair_Flip.Hair_Flip'",
+			"LoopOnlyNTimes": true,
+			"NumLoops": 1
+		},
+		{
+			"RowName": "*Pleading*",
+			"Animation": "AnimSequence'/Game/Character/Animations/Pleading.Pleading'",
+			"LoopOnlyNTimes": true,
+			"NumLoops": 1
+		},
+		{
+			"RowName": "*Shakabrah*",
+			"Animation": "AnimSequence'/Game/Character/Animations/Shaka_Brah.Shaka_Brah'",
+			"LoopOnlyNTimes": true,
+			"NumLoops": 1
+		},
+		{
+			"RowName": "*Shrug*",
+			"Animation": "AnimSequence'/Game/Character/Animations/Shrug.Shrug'",
+			"LoopOnlyNTimes": true,
+			"NumLoops": 1
+		},
+		{
+			"RowName": "*Adorable*",
+			"Animation": "AnimSequence'/Game/Character/Animations/Adorable_Pose.Adorable_Pose'",
+			"LoopOnlyNTimes": true,
+			"NumLoops": 1
+		},
+		{
+			"RowName": "*Idle*",
+			"Animation": "AnimSequence'/Game/Character/Animations/Idle.Idle'",
+			"LoopOnlyNTimes": false,
+			"NumLoops": 0
+		},
+		{
+			"RowName": "*Propose*",
+			"Animation": "AnimSequence'/Game/Character/Animations/Kneeling_Proposal_Anim.Kneeling_Proposal_Anim'",
+			"LoopOnlyNTimes": false,
+			"NumLoops": 0
+		}
+	]
+}

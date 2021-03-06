@@ -1,0 +1,17 @@
+{
+	"Rows": 
+	[
+		{
+			"RowName": "PumpkinRealMap",
+			"NameProperty": "None"
+		},
+		{
+			"RowName": "Pumpkinvale_House_Instance",
+			"NameProperty": "None"
+		},
+		{
+			"RowName": "Pumpkin_Testing_Map",
+			"NameProperty": "None"
+		}
+	]
+}

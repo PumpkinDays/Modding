@@ -1,0 +1,3 @@
+Kitchenoid_Ingred_Amounts_Data Structure:
+
+IntProperty: integer

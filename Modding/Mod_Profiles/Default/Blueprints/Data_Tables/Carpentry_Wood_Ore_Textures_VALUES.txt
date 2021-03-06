@@ -1,0 +1,341 @@
+{
+	"Rows": 
+	[
+		{
+			"RowName": "Bamboo",
+			"MaterialProperty": "None"
+		},
+		{
+			"RowName": "Brown_Wood_Planks",
+			"MaterialProperty": "MaterialInstanceConstant'/Game/Materials/Patterns/Wood/Wood_Grain/Wood_Grain_Brown_Pattern.Wood_Grain_Brown_Pattern'"
+		},
+		{
+			"RowName": "Dark_Wood_Planks",
+			"MaterialProperty": "MaterialInstanceConstant'/Game/Materials/Patterns/Wood/Wood_Grain/Wood_Grain_Dark_Pattern.Wood_Grain_Dark_Pattern'"
+		},
+		{
+			"RowName": "Orange_Wood_Planks",
+			"MaterialProperty": "MaterialInstanceConstant'/Game/Materials/Patterns/Wood/Wood_Grain/Wood_Grain_Orange_Pattern.Wood_Grain_Orange_Pattern'"
+		},
+		{
+			"RowName": "Peach_Wood_Planks",
+			"MaterialProperty": "MaterialInstanceConstant'/Game/Materials/Patterns/Wood/Wood_Grain/Wood_Grain_Peach_Pattern.Wood_Grain_Peach_Pattern'"
+		},
+		{
+			"RowName": "Rose_Wood_Planks",
+			"MaterialProperty": "MaterialInstanceConstant'/Game/Materials/Patterns/Wood/Wood_Grain/Wood_Grain_Rose_Pattern.Wood_Grain_Rose_Pattern'"
+		},
+		{
+			"RowName": "Smoky_Wood_Planks",
+			"MaterialProperty": "MaterialInstanceConstant'/Game/Materials/Patterns/Wood/Wood_Grain/Wood_Grain_Smoky_Pattern.Wood_Grain_Smoky_Pattern'"
+		},
+		{
+			"RowName": "Aluminium_Bar",
+			"MaterialProperty": "MaterialInstanceConstant'/Game/Materials/Patterns/Metal/Metal_Aluminium.Metal_Aluminium'"
+		},
+		{
+			"RowName": "Cassiterite_Bar",
+			"MaterialProperty": "None"
+		},
+		{
+			"RowName": "Cobalt_Bar",
+			"MaterialProperty": "MaterialInstanceConstant'/Game/Materials/Patterns/Metal/Metal_Cobalt.Metal_Cobalt'"
+		},
+		{
+			"RowName": "Copper_Bar",
+			"MaterialProperty": "MaterialInstanceConstant'/Game/Materials/Patterns/Metal/Metal_Copper.Metal_Copper'"
+		},
+		{
+			"RowName": "Gold_Bar",
+			"MaterialProperty": "MaterialInstanceConstant'/Game/Materials/Patterns/Metal/Metal_Gold.Metal_Gold'"
+		},
+		{
+			"RowName": "Iron_Bar",
+			"MaterialProperty": "MaterialInstanceConstant'/Game/Materials/Patterns/Metal/Metal_Iron.Metal_Iron'"
+		},
+		{
+			"RowName": "Nickel_Bar",
+			"MaterialProperty": "MaterialInstanceConstant'/Game/Materials/Patterns/Metal/Metal_Nickel.Metal_Nickel'"
+		},
+		{
+			"RowName": "Pyrite_Bar",
+			"MaterialProperty": "MaterialInstanceConstant'/Game/Materials/Patterns/Metal/Metal_Pyrite.Metal_Pyrite'"
+		},
+		{
+			"RowName": "Silver_Bar",
+			"MaterialProperty": "MaterialInstanceConstant'/Game/Materials/Patterns/Metal/Metal_Silver.Metal_Silver'"
+		},
+		{
+			"RowName": "Steel_Bar",
+			"MaterialProperty": "MaterialInstanceConstant'/Game/Materials/Patterns/Metal/Metal_Steel_Pattern.Metal_Steel_Pattern'"
+		},
+		{
+			"RowName": "Titanium_Bar",
+			"MaterialProperty": "MaterialInstanceConstant'/Game/Materials/Patterns/Metal/Metal_Titanium.Metal_Titanium'"
+		},
+		{
+			"RowName": "Tungsten_Bar",
+			"MaterialProperty": "MaterialInstanceConstant'/Game/Materials/Patterns/Metal/Metal_Tungsten.Metal_Tungsten'"
+		},
+		{
+			"RowName": "Uranium_Bar",
+			"MaterialProperty": "Material'/Game/Materials/Patterns/Metal/Metal_Uranium.Metal_Uranium'"
+		},
+		{
+			"RowName": "Zinc_Bar",
+			"MaterialProperty": "MaterialInstanceConstant'/Game/Materials/Patterns/Metal/Metal_Zinc.Metal_Zinc'"
+		},
+		{
+			"RowName": "Granite_Block",
+			"MaterialProperty": "MaterialInstanceConstant'/Game/Materials/Patterns/Stone_Pattern/Granite_Pattern.Granite_Pattern'"
+		},
+		{
+			"RowName": "Marble_Block",
+			"MaterialProperty": "MaterialInstanceConstant'/Game/Materials/Patterns/Stone_Pattern/Marble_White_Pattern.Marble_White_Pattern'"
+		},
+		{
+			"RowName": "Aether_Polished",
+			"MaterialProperty": "MaterialInstanceConstant'/Game/Materials/Gems_Ores/Gemstone_Furniture/Aether_Furniture.Aether_Furniture'"
+		},
+		{
+			"RowName": "Agate_Polished",
+			"MaterialProperty": "MaterialInstanceConstant'/Game/Materials/Patterns/Stone_Pattern/Agate_Pattern.Agate_Pattern'"
+		},
+		{
+			"RowName": "Alabaster_Polished",
+			"MaterialProperty": "MaterialInstanceConstant'/Game/Materials/Patterns/Stone_Pattern/Alabaster_Pattern.Alabaster_Pattern'"
+		},
+		{
+			"RowName": "Alexandrite_Polished",
+			"MaterialProperty": "MaterialInstanceConstant'/Game/Materials/Gems_Ores/Gemstone_Furniture/Alexandrite_Furniture.Alexandrite_Furniture'"
+		},
+		{
+			"RowName": "Amazonite_Polished",
+			"MaterialProperty": "MaterialInstanceConstant'/Game/Materials/Patterns/Stone_Pattern/Amazonite_Pattern.Amazonite_Pattern'"
+		},
+		{
+			"RowName": "Amber_Polished",
+			"MaterialProperty": "MaterialInstanceConstant'/Game/Materials/Gems_Ores/Gemstone_Furniture/Amber_Furniture.Amber_Furniture'"
+		},
+		{
+			"RowName": "Amethyst_Polished",
+			"MaterialProperty": "MaterialInstanceConstant'/Game/Materials/Gems_Ores/Gemstone_Furniture/Amethyst_Furniture.Amethyst_Furniture'"
+		},
+		{
+			"RowName": "Ammolite_Polished",
+			"MaterialProperty": "MaterialInstanceConstant'/Game/Materials/Patterns/Stone_Pattern/Ammolite_Pattern.Ammolite_Pattern'"
+		},
+		{
+			"RowName": "Auqamarine_Polished",
+			"MaterialProperty": "MaterialInstanceConstant'/Game/Materials/Gems_Ores/Gemstone_Furniture/Aquamarine_Furniture.Aquamarine_Furniture'"
+		},
+		{
+			"RowName": "Beryl_Polished",
+			"MaterialProperty": "MaterialInstanceConstant'/Game/Materials/Gems_Ores/Gemstone_Furniture/Beryl_Furniture.Beryl_Furniture'"
+		},
+		{
+			"RowName": "Bismuth_Polished",
+			"MaterialProperty": "None"
+		},
+		{
+			"RowName": "Bloodstone_Polished",
+			"MaterialProperty": "MaterialInstanceConstant'/Game/Materials/Patterns/Stone_Pattern/Bloodstone_Pattern.Bloodstone_Pattern'"
+		},
+		{
+			"RowName": "Bone_Polished",
+			"MaterialProperty": "MaterialInstanceConstant'/Game/Materials/Patterns/Stone_Pattern/Bone_Pattern.Bone_Pattern'"
+		},
+		{
+			"RowName": "Carnilian_Polished",
+			"MaterialProperty": "MaterialInstanceConstant'/Game/Materials/Patterns/Stone_Pattern/Carnilian_Pattern.Carnilian_Pattern'"
+		},
+		{
+			"RowName": "Chrysocolla_Polished",
+			"MaterialProperty": "MaterialInstanceConstant'/Game/Materials/Patterns/Stone_Pattern/Chrysocolla_Pattern.Chrysocolla_Pattern'"
+		},
+		{
+			"RowName": "Chrysoprase_Polished",
+			"MaterialProperty": "MaterialInstanceConstant'/Game/Materials/Patterns/Stone_Pattern/Chrysoprase_Pattern.Chrysoprase_Pattern'"
+		},
+		{
+			"RowName": "Citrine_Polished",
+			"MaterialProperty": "MaterialInstanceConstant'/Game/Materials/Gems_Ores/Gemstone_Furniture/Citrine_Furniture.Citrine_Furniture'"
+		},
+		{
+			"RowName": "Clinohumite_Polished",
+			"MaterialProperty": "MaterialInstanceConstant'/Game/Materials/Gems_Ores/Gemstone_Furniture/Clinohumite_Furniture.Clinohumite_Furniture'"
+		},
+		{
+			"RowName": "Comet_Polished",
+			"MaterialProperty": "MaterialInstanceConstant'/Game/Materials/Patterns/Stone_Pattern/Comet_Pattern.Comet_Pattern'"
+		},
+		{
+			"RowName": "Conundrum_Polished",
+			"MaterialProperty": "MaterialInstanceConstant'/Game/Materials/Patterns/Stone_Pattern/Conundrum_Pattern.Conundrum_Pattern'"
+		},
+		{
+			"RowName": "Diamond_Polished",
+			"MaterialProperty": "MaterialInstanceConstant'/Game/Materials/Gems_Ores/Gemstone_Furniture/Diamond_Furniture.Diamond_Furniture'"
+		},
+		{
+			"RowName": "Dioptase_Polished",
+			"MaterialProperty": "MaterialInstanceConstant'/Game/Materials/Gems_Ores/Gemstone_Furniture/Dioptase_Furniture.Dioptase_Furniture'"
+		},
+		{
+			"RowName": "Emerald_Polished",
+			"MaterialProperty": "MaterialInstanceConstant'/Game/Materials/Gems_Ores/Gemstone_Furniture/Emerald_Furniture.Emerald_Furniture'"
+		},
+		{
+			"RowName": "Feldspar_Polished",
+			"MaterialProperty": "MaterialInstanceConstant'/Game/Materials/Patterns/Stone_Pattern/Feldspar_Pattern.Feldspar_Pattern'"
+		},
+		{
+			"RowName": "Glass_Polished",
+			"MaterialProperty": "MaterialInstanceConstant'/Game/Materials/Gems_Ores/Gemstone_Furniture/Glass_Furniture.Glass_Furniture'"
+		},
+		{
+			"RowName": "Hematite_Polished",
+			"MaterialProperty": "MaterialInstanceConstant'/Game/Materials/Patterns/Stone_Pattern/Hematite_Pattern.Hematite_Pattern'"
+		},
+		{
+			"RowName": "Jade_Polished",
+			"MaterialProperty": "MaterialInstanceConstant'/Game/Materials/Patterns/Stone_Pattern/Jade_Pattern.Jade_Pattern'"
+		},
+		{
+			"RowName": "Jasper_Polished",
+			"MaterialProperty": "MaterialInstanceConstant'/Game/Materials/Patterns/Stone_Pattern/Jasper_Pattern.Jasper_Pattern'"
+		},
+		{
+			"RowName": "Jet_Polished",
+			"MaterialProperty": "None"
+		},
+		{
+			"RowName": "Lapis_Lazuli_Polished",
+			"MaterialProperty": "MaterialInstanceConstant'/Game/Materials/Patterns/Stone_Pattern/Lapis_Lazuli_Pattern.Lapis_Lazuli_Pattern'"
+		},
+		{
+			"RowName": "Larimar_Polished",
+			"MaterialProperty": "MaterialInstanceConstant'/Game/Materials/Patterns/Stone_Pattern/Larimar_Pattern.Larimar_Pattern'"
+		},
+		{
+			"RowName": "Malachite_Polished",
+			"MaterialProperty": "MaterialInstanceConstant'/Game/Materials/Patterns/Stone_Pattern/Malachite_Pattern.Malachite_Pattern'"
+		},
+		{
+			"RowName": "Meteorite_Polished",
+			"MaterialProperty": "Material'/Game/Materials/Animated_Sprites/Meteorite_Animated.Meteorite_Animated'"
+		},
+		{
+			"RowName": "Moonstone_Polished",
+			"MaterialProperty": "MaterialInstanceConstant'/Game/Materials/Patterns/Stone_Pattern/Moonstone_Pattern.Moonstone_Pattern'"
+		},
+		{
+			"RowName": "Obsidian_Polished",
+			"MaterialProperty": "MaterialInstanceConstant'/Game/Materials/Gems_Ores/Gemstone_Furniture/Obsidian.Obsidian'"
+		},
+		{
+			"RowName": "Onyx_Polished",
+			"MaterialProperty": "MaterialInstanceConstant'/Game/Materials/Patterns/Stone_Pattern/Onyx_Pattern.Onyx_Pattern'"
+		},
+		{
+			"RowName": "Opal_Polished",
+			"MaterialProperty": "None"
+		},
+		{
+			"RowName": "Peridot_Polished",
+			"MaterialProperty": "MaterialInstanceConstant'/Game/Materials/Gems_Ores/Gemstone_Furniture/Peridot_Furniture.Peridot_Furniture'"
+		},
+		{
+			"RowName": "Petrified_Wood_Polished",
+			"MaterialProperty": "MaterialInstanceConstant'/Game/Materials/Patterns/Stone_Pattern/Petrified_Wood_Pattern.Petrified_Wood_Pattern'"
+		},
+		{
+			"RowName": "Philosopher_Stone_Polished",
+			"MaterialProperty": "MaterialInstanceConstant'/Game/Materials/Patterns/Stone_Pattern/Philosopher_Stone_Pattern.Philosopher_Stone_Pattern'"
+		},
+		{
+			"RowName": "Porphyry_Polished",
+			"MaterialProperty": "MaterialInstanceConstant'/Game/Materials/Patterns/Stone_Pattern/Porphyry_Pattern.Porphyry_Pattern'"
+		},
+		{
+			"RowName": "Prehnite_Polished",
+			"MaterialProperty": "MaterialInstanceConstant'/Game/Materials/Patterns/Stone_Pattern/Prehnite_Pattern.Prehnite_Pattern'"
+		},
+		{
+			"RowName": "Quartz_Polished",
+			"MaterialProperty": "MaterialInstanceConstant'/Game/Materials/Gems_Ores/Quartz_Polished.Quartz_Polished'"
+		},
+		{
+			"RowName": "Rhodochrosite_Polished",
+			"MaterialProperty": "MaterialInstanceConstant'/Game/Materials/Patterns/Stone_Pattern/Rhodochrosite_Pattern.Rhodochrosite_Pattern'"
+		},
+		{
+			"RowName": "Rose_Quartz_Polished",
+			"MaterialProperty": "MaterialInstanceConstant'/Game/Materials/Patterns/Stone_Pattern/Rose_Quartz_Pattern.Rose_Quartz_Pattern'"
+		},
+		{
+			"RowName": "Ruby_Polished",
+			"MaterialProperty": "MaterialInstanceConstant'/Game/Materials/Gems_Ores/Gemstone_Furniture/Ruby_Furniture.Ruby_Furniture'"
+		},
+		{
+			"RowName": "Sapphire_Polished",
+			"MaterialProperty": "MaterialInstanceConstant'/Game/Materials/Gems_Ores/Gemstone_Furniture/Sapphire_Furniture.Sapphire_Furniture'"
+		},
+		{
+			"RowName": "Sardonyx_Polished",
+			"MaterialProperty": "MaterialInstanceConstant'/Game/Materials/Patterns/Stone_Pattern/Sardonyx_Pattern.Sardonyx_Pattern'"
+		},
+		{
+			"RowName": "Sodalite_Polished",
+			"MaterialProperty": "MaterialInstanceConstant'/Game/Materials/Patterns/Stone_Pattern/Sodolite_Pattern.Sodolite_Pattern'"
+		},
+		{
+			"RowName": "Spinel_Polished",
+			"MaterialProperty": "MaterialInstanceConstant'/Game/Materials/Gems_Ores/Gemstone_Furniture/Spinel_Furniture.Spinel_Furniture'"
+		},
+		{
+			"RowName": "Sugulite_Polished",
+			"MaterialProperty": "MaterialInstanceConstant'/Game/Materials/Patterns/Stone_Pattern/Sugulite_Pattern.Sugulite_Pattern'"
+		},
+		{
+			"RowName": "Sunstone_Polished",
+			"MaterialProperty": "MaterialInstanceConstant'/Game/Materials/Patterns/Stone_Pattern/Sunstone_Pattern.Sunstone_Pattern'"
+		},
+		{
+			"RowName": "Tanzanite_Polished",
+			"MaterialProperty": "MaterialInstanceConstant'/Game/Materials/Gems_Ores/Gemstone_Furniture/Tanzanite_Furniture.Tanzanite_Furniture'"
+		},
+		{
+			"RowName": "TigersEye_Polished",
+			"MaterialProperty": "MaterialInstanceConstant'/Game/Materials/Patterns/Stone_Pattern/Tigers_Eye_Pattern.Tigers_Eye_Pattern'"
+		},
+		{
+			"RowName": "Topaz_Polished",
+			"MaterialProperty": "MaterialInstanceConstant'/Game/Materials/Gems_Ores/Gemstone_Furniture/Topaz_Furniture.Topaz_Furniture'"
+		},
+		{
+			"RowName": "Tourmaline_Polished",
+			"MaterialProperty": "MaterialInstanceConstant'/Game/Materials/Gems_Ores/Gemstone_Furniture/Tourmaline_Furniture.Tourmaline_Furniture'"
+		},
+		{
+			"RowName": "Unakite_Polished",
+			"MaterialProperty": "MaterialInstanceConstant'/Game/Materials/Patterns/Stone_Pattern/Unakite_Pattern.Unakite_Pattern'"
+		},
+		{
+			"RowName": "Variscite_Polished",
+			"MaterialProperty": "MaterialInstanceConstant'/Game/Materials/Patterns/Stone_Pattern/Variscite_Pattern.Variscite_Pattern'"
+		},
+		{
+			"RowName": "Zoisite_Polished",
+			"MaterialProperty": "MaterialInstanceConstant'/Game/Materials/Patterns/Stone_Pattern/Zoisite_Pattern.Zoisite_Pattern'"
+		},
+		{
+			"RowName": "Nelsonite_Polished",
+			"MaterialProperty": "MaterialInstanceConstant'/Game/Materials/Patterns/Stone_Pattern/Nelsonite_Pattern.Nelsonite_Pattern'"
+		},
+		{
+			"RowName": "Crazy_Drops_Deep_Green",
+			"MaterialProperty": "MaterialInstanceConstant'/Game/Materials/Patterns/Rugs_Wallpaper/Wallpaper/Crazy_Drops_Deep_Green.Crazy_Drops_Deep_Green'"
+		}
+	]
+}

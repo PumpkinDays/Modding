@@ -1,0 +1,3 @@
+New_Menu_Images Structure:
+
+TextureProperty: TAssetPtr<UTexture2D>

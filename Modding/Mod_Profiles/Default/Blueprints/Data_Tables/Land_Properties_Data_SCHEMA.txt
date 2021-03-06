@@ -1,0 +1,10 @@
+Land_Properties_Data Structure:
+
+Property: string
+Name: string
+Town: string
+Cost: integer
+CompassLocation: 
+	X: float
+	Y: float
+	Z: float

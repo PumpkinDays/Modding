@@ -1,0 +1,37 @@
+Tree_Spawners_Data Structure:
+
+RowName: string
+ScaleMin: 
+	X: float
+	Y: float
+	Z: float
+ScaleMax: 
+	X: float
+	Y: float
+	Z: float
+ScalesUniformly: true/false
+UniformScaleMin: float
+UniformScaleMax: float
+PitchVariation: float
+RequiredSpace: float
+StaticMesh: UStaticMesh*
+StumpMesh: UStaticMesh*
+FallingTreeMesh: TAssetPtr<UStaticMesh>
+Animation: UAnimSequenceBase*
+BaseHitsRequired: integer
+MinimumToolTier: ONE of
+	Wooden
+	Copper
+	Iron
+	Silver
+	Gold
+	Steel
+	Titanium
+	Uranium
+	Diamond
+	Meteor
+ItemDropped: string
+InteractionDistance: float
+HoursToRespawn: integer
+WoodAmount: integer
+WoodAmountTrunk: integer

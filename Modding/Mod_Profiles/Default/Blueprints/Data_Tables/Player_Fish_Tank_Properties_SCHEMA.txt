@@ -1,0 +1,3 @@
+Player_Fish_Tank_Properties Structure:
+
+WaterTypes: TArray-TEnumAsByte<EBodyOfWater>

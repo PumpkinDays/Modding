@@ -1,0 +1,30 @@
+{
+	"Rows": 
+	[
+		{
+			"RowName": "fish_tank",
+			"WaterTypes":
+			[ 0 ]
+		},
+		{
+			"RowName": "Fish_Tank_Lake",
+			"WaterTypes":
+			[ 0 ]
+		},
+		{
+			"RowName": "Fish_Tank_Ocean",
+			"WaterTypes":
+			[ 1 ]
+		},
+		{
+			"RowName": "Fish_Tank_River",
+			"WaterTypes":
+			[ 2 ]
+		},
+		{
+			"RowName": "Fish_Tank_Deep_Ocean",
+			"WaterTypes":
+			[ 1, 3 ]
+		}
+	]
+}

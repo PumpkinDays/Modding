@@ -1,0 +1,7 @@
+Competitive_Points_Actions Structure:
+
+AchievementId: string
+Values: 
+	Action: string
+	Item: string
+	Amount: float

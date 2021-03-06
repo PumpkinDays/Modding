@@ -1,0 +1,10 @@
+Input_Action_Mappings Structure:
+
+InputName: string
+InputDisplayName: string
+DefaultValue: 
+	KeyName: string
+DefaultValueGamepad: 
+	KeyName: string
+IsKeyboardMouse: true/false
+IsGamepad: true/false

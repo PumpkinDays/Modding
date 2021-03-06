@@ -1,0 +1,3 @@
+Seed_Crops Structure:
+
+SeedCrop: string

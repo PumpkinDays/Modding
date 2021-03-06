@@ -1,0 +1,75 @@
+{
+	"Rows": 
+	[
+		{
+			"RowName": "Cookies",
+			"RecipeCategory": 3,
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Food/Cookies/Almond_Cookies.Almond_Cookies'"
+		},
+		{
+			"RowName": "Pizza",
+			"RecipeCategory": 7,
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Food/Pizza/Hawaiin_Pizza.Hawaiin_Pizza'"
+		},
+		{
+			"RowName": "Icecream",
+			"RecipeCategory": 5,
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Food/Ice_Cream/Apple_Icecream.Apple_Icecream'"
+		},
+		{
+			"RowName": "Juice",
+			"RecipeCategory": 6,
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Food/Juice/Blueberries_Juice.Blueberries_Juice'"
+		},
+		{
+			"RowName": "Pie",
+			"RecipeCategory": 8,
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Food/Pie/Cranberry_Pie.Cranberry_Pie'"
+		},
+		{
+			"RowName": "Salads",
+			"RecipeCategory": 9,
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Food/Salad/Avacado_and_Feta_Salad.Avacado_and_Feta_Salad'"
+		},
+		{
+			"RowName": "Sandwiches",
+			"RecipeCategory": 10,
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Food/Sandwiches/BLT_Sandwich.BLT_Sandwich'"
+		},
+		{
+			"RowName": "Sushi",
+			"RecipeCategory": 11,
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Food/Sushi/Iseebi.Iseebi'"
+		},
+		{
+			"RowName": "Vegetarian",
+			"RecipeCategory": 12,
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Food/Vegetable_Recipes/Popcorn.Popcorn'"
+		},
+		{
+			"RowName": "Pasta",
+			"RecipeCategory": 13,
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Food/Beef_Recipes/Spagetti_Meat.Spagetti_Meat'"
+		},
+		{
+			"RowName": "Beef",
+			"RecipeCategory": 1,
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Food/Beef_Recipes/Beef_Stew.Beef_Stew'"
+		},
+		{
+			"RowName": "Chicken",
+			"RecipeCategory": 2,
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Food/Chicken_Recipes/Bbq_Chicken.Bbq_Chicken'"
+		},
+		{
+			"RowName": "Fish",
+			"RecipeCategory": 4,
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Food/Fish_Recipes/Fish_Steak.Fish_Steak'"
+		},
+		{
+			"RowName": "Alcohol",
+			"RecipeCategory": 0,
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Alcohol/Beer.Beer'"
+		}
+	]
+}

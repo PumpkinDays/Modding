@@ -1,0 +1,101 @@
+{
+	"Rows": 
+	[
+		{
+			"RowName": "MoveForward",
+			"InputName": "Move Forwards/Backwards",
+			"InputDisplayName": "Move Fowards[MoveForward]",
+			"Scale": 1,
+			"DefaultValue": 
+			{
+				"KeyName": "W"
+			},
+			"DefaultValueGamepad": 
+			{
+				"KeyName": "None"
+			},
+			"IsKeyboardMouse": true,
+			"IsGamepad": false
+		},
+		{
+			"RowName": "MoveBackward",
+			"InputName": "Move Forwards/Backwards",
+			"InputDisplayName": "Move Backwards[MoveBackward]",
+			"Scale": -1,
+			"DefaultValue": 
+			{
+				"KeyName": "S"
+			},
+			"DefaultValueGamepad": 
+			{
+				"KeyName": "None"
+			},
+			"IsKeyboardMouse": true,
+			"IsGamepad": false
+		},
+		{
+			"RowName": "TurnLeft",
+			"InputName": "Turn Left/Right",
+			"InputDisplayName": "Turn Left[TurnLeft]",
+			"Scale": -1,
+			"DefaultValue": 
+			{
+				"KeyName": "A"
+			},
+			"DefaultValueGamepad": 
+			{
+				"KeyName": "None"
+			},
+			"IsKeyboardMouse": true,
+			"IsGamepad": false
+		},
+		{
+			"RowName": "TurnRight",
+			"InputName": "Turn Left/Right",
+			"InputDisplayName": "Turn Right[TurnRight]",
+			"Scale": 1,
+			"DefaultValue": 
+			{
+				"KeyName": "D"
+			},
+			"DefaultValueGamepad": 
+			{
+				"KeyName": "None"
+			},
+			"IsKeyboardMouse": true,
+			"IsGamepad": false
+		},
+		{
+			"RowName": "MoveLeft/Right",
+			"InputName": "Move Left/Right",
+			"InputDisplayName": "Slide Right[SlideRight]",
+			"Scale": 1,
+			"DefaultValue": 
+			{
+				"KeyName": "E"
+			},
+			"DefaultValueGamepad": 
+			{
+				"KeyName": "None"
+			},
+			"IsKeyboardMouse": true,
+			"IsGamepad": false
+		},
+		{
+			"RowName": "NewRow",
+			"InputName": "Move Left/Right",
+			"InputDisplayName": "Slide Left[SlideLeft]",
+			"Scale": -1,
+			"DefaultValue": 
+			{
+				"KeyName": "Q"
+			},
+			"DefaultValueGamepad": 
+			{
+				"KeyName": "None"
+			},
+			"IsKeyboardMouse": true,
+			"IsGamepad": false
+		}
+	]
+}

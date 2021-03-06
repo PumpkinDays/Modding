@@ -1,0 +1,8 @@
+Json_Tutorial_Popups Structure:
+
+Dialogue: string
+UIPopup: UTexture2D*
+UIPopupGamepad: UTexture2D*
+PosOffset: 
+	X: float
+	Y: float

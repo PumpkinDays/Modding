@@ -1,0 +1,6 @@
+Processing_Machines_Data Structure:
+
+Recipes: TArray-FProcessedItemResult
+FriendlyName: string
+ProcessingSound: USoundBase*
+ParticleSystem: UParticleSystem*

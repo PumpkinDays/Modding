@@ -1,0 +1,1293 @@
+{
+	"Rows": 
+	[
+		{
+			"RowName": "Jelmo_Demo",
+			"RemappedWaypoints":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"OriginalWaypoint": "Demo_House_Bed",
+						"NewFestivalWaypoint": "Farm_Bed"
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Evan",
+			"RemappedWaypoints":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"OriginalWaypoint": "Evan_House",
+						"NewFestivalWaypoint": "Farm_Bed"
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Ezekiel",
+			"RemappedWaypoints":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"OriginalWaypoint": "Ezekiel_Home_Sleep",
+						"NewFestivalWaypoint": "Farm_Bed"
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Tanis",
+			"RemappedWaypoints":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"OriginalWaypoint": "Tanis_Home_Sleep",
+						"NewFestivalWaypoint": "Farm_Bed"
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Kumoko",
+			"RemappedWaypoints":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"OriginalWaypoint": "Kumuko_Home_Sleep",
+						"NewFestivalWaypoint": "Farm_Bed"
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Tierra",
+			"RemappedWaypoints":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"OriginalWaypoint": "Tierra_Home_Sleep",
+						"NewFestivalWaypoint": "Farm_Bed"
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Jelmo",
+			"RemappedWaypoints":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"OriginalWaypoint": "Jelmo_Home_Sleep",
+						"NewFestivalWaypoint": "Farm_Bed"
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Gelfie",
+			"RemappedWaypoints":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"OriginalWaypoint": "Gelfie_Sleep",
+						"NewFestivalWaypoint": "Farm_Bed"
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Tessa",
+			"RemappedWaypoints":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"OriginalWaypoint": "Tessa_Home_Sleep",
+						"NewFestivalWaypoint": "Farm_Bed"
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Iris",
+			"RemappedWaypoints":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"OriginalWaypoint": "Iris_Home_Sleep",
+						"NewFestivalWaypoint": "Farm_Bed"
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Jaime",
+			"RemappedWaypoints":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"OriginalWaypoint": "Jaime_Home_Sleep",
+						"NewFestivalWaypoint": "Farm_Bed"
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Emi",
+			"RemappedWaypoints":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"OriginalWaypoint": "Emi_Sleeping",
+						"NewFestivalWaypoint": "Farm_Bed"
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Joan",
+			"RemappedWaypoints":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"OriginalWaypoint": "Joan_Sleeping",
+						"NewFestivalWaypoint": "Farm_Bed"
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Abigail",
+			"RemappedWaypoints":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"OriginalWaypoint": "Abigail_Sleeping",
+						"NewFestivalWaypoint": "Farm_Bed"
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Jim",
+			"RemappedWaypoints":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"OriginalWaypoint": "Jim_Home_Sleep",
+						"NewFestivalWaypoint": "Farm_Bed"
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Alec",
+			"RemappedWaypoints":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"OriginalWaypoint": "Alec_Home_Sleep",
+						"NewFestivalWaypoint": "Farm_Bed"
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Takeo",
+			"RemappedWaypoints":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"OriginalWaypoint": "Takeo_Home_Sleep",
+						"NewFestivalWaypoint": "Farm_Bed"
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Rose",
+			"RemappedWaypoints":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"OriginalWaypoint": "Clothing_Store_Rose_At_Work",
+						"NewFestivalWaypoint": "Farm_Bed"
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Black_Mask",
+			"RemappedWaypoints":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"OriginalWaypoint": "Black_Mask_Home",
+						"NewFestivalWaypoint": "Farm_Bed"
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Zoey",
+			"RemappedWaypoints":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"OriginalWaypoint": "Zoey_Home_Sleep",
+						"NewFestivalWaypoint": "Farm_Bed"
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Vera",
+			"RemappedWaypoints":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"OriginalWaypoint": "Vera_Home_Sleep",
+						"NewFestivalWaypoint": "Farm_Bed"
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Alex",
+			"RemappedWaypoints":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"OriginalWaypoint": "Alex_Home_Sleep",
+						"NewFestivalWaypoint": "Farm_Bed"
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Claudio",
+			"RemappedWaypoints":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"OriginalWaypoint": "Claudio_Home_Sleep",
+						"NewFestivalWaypoint": "Farm_Bed"
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Dahlia",
+			"RemappedWaypoints":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"OriginalWaypoint": "Dahlia_Home_Sleep",
+						"NewFestivalWaypoint": "Farm_Bed"
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Dee",
+			"RemappedWaypoints":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"OriginalWaypoint": "Dee_Home_Sleep",
+						"NewFestivalWaypoint": "Farm_Bed"
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Faiyaz",
+			"RemappedWaypoints":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"OriginalWaypoint": "Faiyaz_Home_Sleep",
+						"NewFestivalWaypoint": "Farm_Bed"
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Hyun_Jae_Oh",
+			"RemappedWaypoints":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"OriginalWaypoint": "Hyun_Jae_Oh_Home_Sleep",
+						"NewFestivalWaypoint": "Farm_Bed"
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Lily_Bean",
+			"RemappedWaypoints":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"OriginalWaypoint": "Lily_Bean_Home_Sleep",
+						"NewFestivalWaypoint": "Farm_Bed"
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Nicolas",
+			"RemappedWaypoints":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"OriginalWaypoint": "Nicolas_Home_Sleep",
+						"NewFestivalWaypoint": "Farm_Bed"
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Sebastian",
+			"RemappedWaypoints":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"OriginalWaypoint": "Sebastian_Home_Relax",
+						"NewFestivalWaypoint": "Farm_Bed"
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Tucker",
+			"RemappedWaypoints":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"OriginalWaypoint": "Tucker_Home_Sleep",
+						"NewFestivalWaypoint": "Farm_Bed"
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Vibhat",
+			"RemappedWaypoints":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"OriginalWaypoint": "Vibhat_Home_Sleep",
+						"NewFestivalWaypoint": "Farm_Bed"
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Jackie",
+			"RemappedWaypoints":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"OriginalWaypoint": "Jackie_Home_Sleep",
+						"NewFestivalWaypoint": "Farm_Bed"
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Orpheus",
+			"RemappedWaypoints":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"OriginalWaypoint": "Orpheus_Home_Sleep",
+						"NewFestivalWaypoint": "Farm_Bed"
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Ash",
+			"RemappedWaypoints":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"OriginalWaypoint": "Ash_Home",
+						"NewFestivalWaypoint": "Farm_Bed"
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Casey",
+			"RemappedWaypoints":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"OriginalWaypoint": "Casey_Home",
+						"NewFestivalWaypoint": "Farm_Bed"
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Charlie",
+			"RemappedWaypoints":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"OriginalWaypoint": "Charlie_Home",
+						"NewFestivalWaypoint": "Farm_Bed"
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Charu",
+			"RemappedWaypoints":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"OriginalWaypoint": "Charu_Home",
+						"NewFestivalWaypoint": "Farm_Bed"
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Clara",
+			"RemappedWaypoints":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"OriginalWaypoint": "Clara_Home",
+						"NewFestivalWaypoint": "Farm_Bed"
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Dewain",
+			"RemappedWaypoints":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"OriginalWaypoint": "Dewain_Home",
+						"NewFestivalWaypoint": "Farm_Bed"
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Duante",
+			"RemappedWaypoints":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"OriginalWaypoint": "Duante_Home",
+						"NewFestivalWaypoint": "Farm_Bed"
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Eugene",
+			"RemappedWaypoints":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"OriginalWaypoint": "Eugene_Home",
+						"NewFestivalWaypoint": "Farm_Bed"
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Govind",
+			"RemappedWaypoints":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"OriginalWaypoint": "Govind_Home",
+						"NewFestivalWaypoint": "Farm_Bed"
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Haku",
+			"RemappedWaypoints":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"OriginalWaypoint": "Haku_Home",
+						"NewFestivalWaypoint": "Farm_Bed"
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Ikaia",
+			"RemappedWaypoints":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"OriginalWaypoint": "Ikaia_Sleep",
+						"NewFestivalWaypoint": "Farm_Bed"
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Jacqueline",
+			"RemappedWaypoints":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"OriginalWaypoint": "Jacqueline_Home",
+						"NewFestivalWaypoint": "Farm_Bed"
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Jade",
+			"RemappedWaypoints":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"OriginalWaypoint": "Jade_Home",
+						"NewFestivalWaypoint": "Farm_Bed"
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Jemma",
+			"RemappedWaypoints":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"OriginalWaypoint": "Jemma_Home",
+						"NewFestivalWaypoint": "Farm_Bed"
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Joelle",
+			"RemappedWaypoints":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"OriginalWaypoint": "Joelle_Home",
+						"NewFestivalWaypoint": "Farm_Bed"
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Kaine",
+			"RemappedWaypoints":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"OriginalWaypoint": "Kaine_Home",
+						"NewFestivalWaypoint": "Farm_Bed"
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Kishan",
+			"RemappedWaypoints":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"OriginalWaypoint": "Kishan_Home",
+						"NewFestivalWaypoint": "Farm_Bed"
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Lisa",
+			"RemappedWaypoints":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"OriginalWaypoint": "Lisa_Home",
+						"NewFestivalWaypoint": "Farm_Bed"
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Manaka",
+			"RemappedWaypoints":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"OriginalWaypoint": "Manaka_Home",
+						"NewFestivalWaypoint": "Farm_Bed"
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Masika",
+			"RemappedWaypoints":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"OriginalWaypoint": "Masika_Home",
+						"NewFestivalWaypoint": "Farm_Bed"
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Melanie",
+			"RemappedWaypoints":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"OriginalWaypoint": "Melanie_Home",
+						"NewFestivalWaypoint": "Farm_Bed"
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Mike",
+			"RemappedWaypoints":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"OriginalWaypoint": "Mike_Home",
+						"NewFestivalWaypoint": "Farm_Bed"
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Pete",
+			"RemappedWaypoints":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"OriginalWaypoint": "Pete_Home",
+						"NewFestivalWaypoint": "Farm_Bed"
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Queen",
+			"RemappedWaypoints":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"OriginalWaypoint": "Queen_Home",
+						"NewFestivalWaypoint": "Farm_Bed"
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Rashida",
+			"RemappedWaypoints":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"OriginalWaypoint": "Rashida_Home",
+						"NewFestivalWaypoint": "Farm_Bed"
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Rosario",
+			"RemappedWaypoints":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"OriginalWaypoint": "Rosario_Home",
+						"NewFestivalWaypoint": "Farm_Bed"
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Tuesday",
+			"RemappedWaypoints":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"OriginalWaypoint": "Tuesday_Home",
+						"NewFestivalWaypoint": "Farm_Bed"
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Valerie",
+			"RemappedWaypoints":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"OriginalWaypoint": "Valerie_Home",
+						"NewFestivalWaypoint": "Farm_Bed"
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Zarita",
+			"RemappedWaypoints":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"OriginalWaypoint": "Festival_W_Hangout_22",
+						"NewFestivalWaypoint": "Farm_Bed"
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Harsha",
+			"RemappedWaypoints":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"OriginalWaypoint": "Harsha_Sleep",
+						"NewFestivalWaypoint": "Farm_Bed"
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Blake",
+			"RemappedWaypoints":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"OriginalWaypoint": "Blake_Home",
+						"NewFestivalWaypoint": "Farm_Bed"
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Nicki",
+			"RemappedWaypoints":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"OriginalWaypoint": "Nicki_Home",
+						"NewFestivalWaypoint": "Farm_Bed"
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Jabalah",
+			"RemappedWaypoints":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"OriginalWaypoint": "Jabalah_Home",
+						"NewFestivalWaypoint": "Farm_Bed"
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Bishop",
+			"RemappedWaypoints":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"OriginalWaypoint": "Bishop_Home",
+						"NewFestivalWaypoint": "Farm_Bed"
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Clem",
+			"RemappedWaypoints":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"OriginalWaypoint": "Clem_Home",
+						"NewFestivalWaypoint": "Farm_Bed"
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Farah",
+			"RemappedWaypoints":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"OriginalWaypoint": "Farah_Sleep",
+						"NewFestivalWaypoint": "Farm_Bed"
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Fasha",
+			"RemappedWaypoints":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"OriginalWaypoint": "Fasha_Sleep",
+						"NewFestivalWaypoint": "Farm_Bed"
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Hank",
+			"RemappedWaypoints":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"OriginalWaypoint": "Hank_Sleep",
+						"NewFestivalWaypoint": "Farm_Bed"
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Hideo",
+			"RemappedWaypoints":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"OriginalWaypoint": "Hideo_Sleep",
+						"NewFestivalWaypoint": "Farm_Bed"
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Hien",
+			"RemappedWaypoints":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"OriginalWaypoint": "Hien_Sleep",
+						"NewFestivalWaypoint": "Farm_Bed"
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Hikaru",
+			"RemappedWaypoints":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"OriginalWaypoint": "Hikaru_Sleep",
+						"NewFestivalWaypoint": "Farm_Bed"
+					}
+				}
+			]
+		},
+		{
+			"RowName": "James",
+			"RemappedWaypoints":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"OriginalWaypoint": "James_Sleep",
+						"NewFestivalWaypoint": "Farm_Bed"
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Joshua",
+			"RemappedWaypoints":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"OriginalWaypoint": "Joshua_Sleep",
+						"NewFestivalWaypoint": "Farm_Bed"
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Katherine",
+			"RemappedWaypoints":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"OriginalWaypoint": "Katherine_Sleep",
+						"NewFestivalWaypoint": "Farm_Bed"
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Kim",
+			"RemappedWaypoints":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"OriginalWaypoint": "Kim_Sleep",
+						"NewFestivalWaypoint": "Farm_Bed"
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Liam",
+			"RemappedWaypoints":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"OriginalWaypoint": "Liam_Sleep",
+						"NewFestivalWaypoint": "Farm_Bed"
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Lonan",
+			"RemappedWaypoints":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"OriginalWaypoint": "Lonan_Home",
+						"NewFestivalWaypoint": "Farm_Bed"
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Loxi",
+			"RemappedWaypoints":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"OriginalWaypoint": "Loxi_Sleep",
+						"NewFestivalWaypoint": "Farm_Bed"
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Luis",
+			"RemappedWaypoints":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"OriginalWaypoint": "Luis_Sleep",
+						"NewFestivalWaypoint": "Farm_Bed"
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Min",
+			"RemappedWaypoints":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"OriginalWaypoint": "Min_Sleep",
+						"NewFestivalWaypoint": "Farm_Bed"
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Natsuo",
+			"RemappedWaypoints":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"OriginalWaypoint": "Natsuo_Sleep",
+						"NewFestivalWaypoint": "Farm_Bed"
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Nora",
+			"RemappedWaypoints":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"OriginalWaypoint": "Nora_Sleep",
+						"NewFestivalWaypoint": "Farm_Bed"
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Tai",
+			"RemappedWaypoints":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"OriginalWaypoint": "Tai_Sleep",
+						"NewFestivalWaypoint": "Farm_Bed"
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Tanya",
+			"RemappedWaypoints":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"OriginalWaypoint": "Tanya_Sleep",
+						"NewFestivalWaypoint": "Farm_Bed"
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Tiffani",
+			"RemappedWaypoints":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"OriginalWaypoint": "Tiffani_Sleep",
+						"NewFestivalWaypoint": "Farm_Bed"
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Yuki",
+			"RemappedWaypoints":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"OriginalWaypoint": "Yuki_Hidden",
+						"NewFestivalWaypoint": "Farm_Bed"
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Ross",
+			"RemappedWaypoints":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"OriginalWaypoint": "Ross_Sleep",
+						"NewFestivalWaypoint": "Farm_Bed"
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Finn",
+			"RemappedWaypoints":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"OriginalWaypoint": "Finn_Temple",
+						"NewFestivalWaypoint": "Farm_Bed"
+					}
+				}
+			]
+		}
+	]
+}

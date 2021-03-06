@@ -1,0 +1,1093 @@
+{
+	"Rows": 
+	[
+		{
+			"RowName": "Apple",
+			"StatusEffect": "Stamina"
+		},
+		{
+			"RowName": "Banana",
+			"StatusEffect": "Fishing"
+		},
+		{
+			"RowName": "Coffee_Drink",
+			"StatusEffect": "Mild_Coffee"
+		},
+		{
+			"RowName": "Espresso",
+			"StatusEffect": "Strong_Coffee"
+		},
+		{
+			"RowName": "Black_Coffee",
+			"StatusEffect": "Strong_Coffee"
+		},
+		{
+			"RowName": "Hazel_Nut_Coffee",
+			"StatusEffect": "Mild_Coffee"
+		},
+		{
+			"RowName": "Coffee_Icecream",
+			"StatusEffect": "Mild_Coffee"
+		},
+		{
+			"RowName": "Coffee_Liquer",
+			"StatusEffect": "Strong_Coffee"
+		},
+		{
+			"RowName": "White_Diamond",
+			"StatusEffect": "Mild_Coffee"
+		},
+		{
+			"RowName": "Beer",
+			"StatusEffect": "Drunk"
+		},
+		{
+			"RowName": "Brandy",
+			"StatusEffect": "Drunk"
+		},
+		{
+			"RowName": "Chicha",
+			"StatusEffect": "Drunk"
+		},
+		{
+			"RowName": "Cider",
+			"StatusEffect": "Drunk"
+		},
+		{
+			"RowName": "Mead",
+			"StatusEffect": "Drunk"
+		},
+		{
+			"RowName": "Moonshine",
+			"StatusEffect": "Drunk_Major"
+		},
+		{
+			"RowName": "Plum_Wine",
+			"StatusEffect": "Drunk"
+		},
+		{
+			"RowName": "Rum",
+			"StatusEffect": "Drunk_Major"
+		},
+		{
+			"RowName": "Sake",
+			"StatusEffect": "Drunk"
+		},
+		{
+			"RowName": "Triple_Sec",
+			"StatusEffect": "Drunk_Major"
+		},
+		{
+			"RowName": "Vermouth",
+			"StatusEffect": "Drunk_Major"
+		},
+		{
+			"RowName": "Vodka",
+			"StatusEffect": "Drunk_Major"
+		},
+		{
+			"RowName": "Wheat_Beer",
+			"StatusEffect": "Drunk"
+		},
+		{
+			"RowName": "Whiskey",
+			"StatusEffect": "Drunk_Major"
+		},
+		{
+			"RowName": "Wine",
+			"StatusEffect": "Hearts"
+		},
+		{
+			"RowName": "Gin",
+			"StatusEffect": "Drunk_Major"
+		},
+		{
+			"RowName": "Bloody_Mary",
+			"StatusEffect": "Drunk_Hearts"
+		},
+		{
+			"RowName": "Brass_Monkey",
+			"StatusEffect": "Drunk_Hearts"
+		},
+		{
+			"RowName": "Cosmopolitan",
+			"StatusEffect": "Drunk_Hearts"
+		},
+		{
+			"RowName": "Greyhound",
+			"StatusEffect": "Drunk_Hearts"
+		},
+		{
+			"RowName": "Grog",
+			"StatusEffect": "Drunk_Major"
+		},
+		{
+			"RowName": "Hurricane",
+			"StatusEffect": "Drunk_Hearts"
+		},
+		{
+			"RowName": "Lemon_Drop",
+			"StatusEffect": "Drunk_Hearts"
+		},
+		{
+			"RowName": "Martini",
+			"StatusEffect": "Drunk_Hearts"
+		},
+		{
+			"RowName": "Mojito",
+			"StatusEffect": "Drunk_Hearts"
+		},
+		{
+			"RowName": "Pina_Colada",
+			"StatusEffect": "Drunk_Hearts"
+		},
+		{
+			"RowName": "Sangria",
+			"StatusEffect": "Drunk_Hearts"
+		},
+		{
+			"RowName": "Stork_on_the_Beach",
+			"StatusEffect": "Drunk_Hearts"
+		},
+		{
+			"RowName": "Whiskey_Sour",
+			"StatusEffect": "Drunk_Hearts"
+		},
+		{
+			"RowName": "Almond_Cookies",
+			"StatusEffect": "Fast"
+		},
+		{
+			"RowName": "Apple_Cookies",
+			"StatusEffect": "Fast"
+		},
+		{
+			"RowName": "Apple_Walnut_Squares",
+			"StatusEffect": "Fast"
+		},
+		{
+			"RowName": "Blueberry_Crumbs",
+			"StatusEffect": "Fast"
+		},
+		{
+			"RowName": "Brownies",
+			"StatusEffect": "Fast"
+		},
+		{
+			"RowName": "Chocolate_Cherry_Jam_Cookies",
+			"StatusEffect": "Fast"
+		},
+		{
+			"RowName": "Chocolate_Chip_Cookies",
+			"StatusEffect": "Fast"
+		},
+		{
+			"RowName": "Chocolate_Mint_Filling_Cookies",
+			"StatusEffect": "Fast"
+		},
+		{
+			"RowName": "Coconut_Cookies",
+			"StatusEffect": "Fast"
+		},
+		{
+			"RowName": "Cranberry_Cookies",
+			"StatusEffect": "Fast"
+		},
+		{
+			"RowName": "Cranberry_Jam_Cookies",
+			"StatusEffect": "Fast"
+		},
+		{
+			"RowName": "Ginger_Cookies",
+			"StatusEffect": "Fast"
+		},
+		{
+			"RowName": "Lavender_Cookies",
+			"StatusEffect": "Fast"
+		},
+		{
+			"RowName": "Kumguat_Cookies",
+			"StatusEffect": "Fast"
+		},
+		{
+			"RowName": "Lemon_Cookies",
+			"StatusEffect": "Fast"
+		},
+		{
+			"RowName": "Macadamia_Cookies",
+			"StatusEffect": "Fast"
+		},
+		{
+			"RowName": "Oatmeal_Cookies",
+			"StatusEffect": "Fast"
+		},
+		{
+			"RowName": "Orange_Cookies",
+			"StatusEffect": "Fast"
+		},
+		{
+			"RowName": "Peach_Almond_Cookies",
+			"StatusEffect": "Fast"
+		},
+		{
+			"RowName": "Peach_Almond_Squares",
+			"StatusEffect": "Fast"
+		},
+		{
+			"RowName": "Peanut_Butter_Cookies",
+			"StatusEffect": "Fast"
+		},
+		{
+			"RowName": "Pistachio_Apricot_Square",
+			"StatusEffect": "Fast"
+		},
+		{
+			"RowName": "Pistachio_Cookies",
+			"StatusEffect": "Fast"
+		},
+		{
+			"RowName": "Pumpkin_Cookies",
+			"StatusEffect": "Fast"
+		},
+		{
+			"RowName": "Raspberry_Almond_Cookies",
+			"StatusEffect": "Fast"
+		},
+		{
+			"RowName": "Raspberry_Cookies",
+			"StatusEffect": "Fast"
+		},
+		{
+			"RowName": "Rhubarb_Cookies",
+			"StatusEffect": "Fast"
+		},
+		{
+			"RowName": "Russian_Teacakes",
+			"StatusEffect": "Fast"
+		},
+		{
+			"RowName": "Madarin_Cake",
+			"StatusEffect": "Fast"
+		},
+		{
+			"RowName": "Strawberry_Squares",
+			"StatusEffect": "Fast"
+		},
+		{
+			"RowName": "Sugar_Cookies",
+			"StatusEffect": "Fast"
+		},
+		{
+			"RowName": "Vanilla_Cherry_Cookies",
+			"StatusEffect": "Fast"
+		},
+		{
+			"RowName": "Walnut_Cookies",
+			"StatusEffect": "Fast"
+		},
+		{
+			"RowName": "Simple_Cake",
+			"StatusEffect": "Fast"
+		},
+		{
+			"RowName": "Almond_Cake",
+			"StatusEffect": "Faster"
+		},
+		{
+			"RowName": "Apple_Cake",
+			"StatusEffect": "Faster"
+		},
+		{
+			"RowName": "Apple_Walnut_Cake",
+			"StatusEffect": "Faster"
+		},
+		{
+			"RowName": "Banana_Cake",
+			"StatusEffect": "Faster"
+		},
+		{
+			"RowName": "Blueberry_Cake",
+			"StatusEffect": "Faster"
+		},
+		{
+			"RowName": "Carrot_Cake",
+			"StatusEffect": "Faster"
+		},
+		{
+			"RowName": "Cheese_Cake",
+			"StatusEffect": "Faster"
+		},
+		{
+			"RowName": "Cherry_Cake",
+			"StatusEffect": "Faster"
+		},
+		{
+			"RowName": "Chestnut_Cake",
+			"StatusEffect": "Faster"
+		},
+		{
+			"RowName": "Chocolate_Cake",
+			"StatusEffect": "Faster"
+		},
+		{
+			"RowName": "Cinnamon_Cake",
+			"StatusEffect": "Faster"
+		},
+		{
+			"RowName": "Coconut_Cake",
+			"StatusEffect": "Faster"
+		},
+		{
+			"RowName": "Cranberry_Cake",
+			"StatusEffect": "Faster"
+		},
+		{
+			"RowName": "Green_Tea_Cake",
+			"StatusEffect": "Faster"
+		},
+		{
+			"RowName": "Honey_Cake",
+			"StatusEffect": "Hearts"
+		},
+		{
+			"RowName": "Key_Lime_Cake",
+			"StatusEffect": "Faster"
+		},
+		{
+			"RowName": "Kumguat_Cake",
+			"StatusEffect": "Faster"
+		},
+		{
+			"RowName": "Lemon_Cake",
+			"StatusEffect": "Faster"
+		},
+		{
+			"RowName": "Macadamia_Cake",
+			"StatusEffect": "Faster"
+		},
+		{
+			"RowName": "Milk_Cake",
+			"StatusEffect": "Faster"
+		},
+		{
+			"RowName": "Orange_Cake",
+			"StatusEffect": "Faster"
+		},
+		{
+			"RowName": "Peach_Cake",
+			"StatusEffect": "Faster"
+		},
+		{
+			"RowName": "Peanut_Butter_Cake",
+			"StatusEffect": "Faster"
+		},
+		{
+			"RowName": "Pear_Cake",
+			"StatusEffect": "Faster"
+		},
+		{
+			"RowName": "Pecan_Cake",
+			"StatusEffect": "Faster"
+		},
+		{
+			"RowName": "Pineapple_Cake",
+			"StatusEffect": "Faster"
+		},
+		{
+			"RowName": "Plum_Cake",
+			"StatusEffect": "Faster"
+		},
+		{
+			"RowName": "Pumpkin_Cake",
+			"StatusEffect": "Faster"
+		},
+		{
+			"RowName": "Rasberry_Cake",
+			"StatusEffect": "Faster"
+		},
+		{
+			"RowName": "Rhubarb_Cake",
+			"StatusEffect": "Faster"
+		},
+		{
+			"RowName": "Rum_Cake",
+			"StatusEffect": "Faster"
+		},
+		{
+			"RowName": "Sweet_Potato_Cake",
+			"StatusEffect": "Hearts"
+		},
+		{
+			"RowName": "Apple_Pie",
+			"StatusEffect": "Faster"
+		},
+		{
+			"RowName": "Banana_Pie",
+			"StatusEffect": "Faster"
+		},
+		{
+			"RowName": "Blackberry_Pie",
+			"StatusEffect": "Faster"
+		},
+		{
+			"RowName": "Cantaloupe_Pie",
+			"StatusEffect": "Faster"
+		},
+		{
+			"RowName": "Cherry_Pie",
+			"StatusEffect": "Faster"
+		},
+		{
+			"RowName": "Chocolate_Pie",
+			"StatusEffect": "Faster"
+		},
+		{
+			"RowName": "Coconut_Cream_Pie",
+			"StatusEffect": "Faster"
+		},
+		{
+			"RowName": "Cranberry_Pie",
+			"StatusEffect": "Faster"
+		},
+		{
+			"RowName": "Custard_Pie",
+			"StatusEffect": "Faster"
+		},
+		{
+			"RowName": "Fruit_Pie",
+			"StatusEffect": "Faster"
+		},
+		{
+			"RowName": "Grapefruit_Pie",
+			"StatusEffect": "Faster"
+		},
+		{
+			"RowName": "Keylime_Pie",
+			"StatusEffect": "Faster"
+		},
+		{
+			"RowName": "Kumguat_Pie",
+			"StatusEffect": "Faster"
+		},
+		{
+			"RowName": "Lemon_Meringe_Pie",
+			"StatusEffect": "Faster"
+		},
+		{
+			"RowName": "Peaches_Pie",
+			"StatusEffect": "Faster"
+		},
+		{
+			"RowName": "Peanut_Butter_Pie",
+			"StatusEffect": "Faster"
+		},
+		{
+			"RowName": "Pear_Pie",
+			"StatusEffect": "Faster"
+		},
+		{
+			"RowName": "Pecan_Pie",
+			"StatusEffect": "Faster"
+		},
+		{
+			"RowName": "Pumpkin_Pie",
+			"StatusEffect": "Faster"
+		},
+		{
+			"RowName": "Rasberry_Pie",
+			"StatusEffect": "Faster"
+		},
+		{
+			"RowName": "Rhubarb_Pie",
+			"StatusEffect": "Faster"
+		},
+		{
+			"RowName": "Sweet_Potato_Pie",
+			"StatusEffect": "Hearts"
+		},
+		{
+			"RowName": "Blueberry_Pie",
+			"StatusEffect": "Faster"
+		},
+		{
+			"RowName": "Honey_Ginger_Salmon",
+			"StatusEffect": "Hearts"
+		},
+		{
+			"RowName": "Honey_Scallop",
+			"StatusEffect": "Hearts"
+		},
+		{
+			"RowName": "Honey_Mustard_Chicken_Sandwich",
+			"StatusEffect": "Hearts"
+		},
+		{
+			"RowName": "Honey_Mustard_Chicken",
+			"StatusEffect": "Hearts"
+		},
+		{
+			"RowName": "Salmon_Honey_Mustard",
+			"StatusEffect": "Hearts"
+		},
+		{
+			"RowName": "Honey_Shrimp",
+			"StatusEffect": "Hearts"
+		},
+		{
+			"RowName": "Honey_Fish",
+			"StatusEffect": "Hearts"
+		},
+		{
+			"RowName": "Honeydew_Juice",
+			"StatusEffect": "Hearts"
+		},
+		{
+			"RowName": "Coconut_Shrimp",
+			"StatusEffect": "Fishing"
+		},
+		{
+			"RowName": "Shrimp_Creole",
+			"StatusEffect": "Fishing_Major"
+		},
+		{
+			"RowName": "Shrimp_Pasta",
+			"StatusEffect": "Fishing"
+		},
+		{
+			"RowName": "Salmon_Burger",
+			"StatusEffect": "Fishing_Major"
+		},
+		{
+			"RowName": "Salmon_Cakes",
+			"StatusEffect": "Fishing_Major"
+		},
+		{
+			"RowName": "Takoyaki",
+			"StatusEffect": "Fishing"
+		},
+		{
+			"RowName": "Calamari",
+			"StatusEffect": "Fishing"
+		},
+		{
+			"RowName": "Ginger_Mahi_Mahi",
+			"StatusEffect": "Fishing_Major"
+		},
+		{
+			"RowName": "Mango_Mahi_Mahi",
+			"StatusEffect": "Fishing_Major"
+		},
+		{
+			"RowName": "Crab_Stuffed_Lobster",
+			"StatusEffect": "Fishing_Major"
+		},
+		{
+			"RowName": "Lobster_Bisque",
+			"StatusEffect": "Fishing_Major"
+		},
+		{
+			"RowName": "Lobster_Fritters",
+			"StatusEffect": "Fishing_Major"
+		},
+		{
+			"RowName": "Stuffed_Lobster_Tail",
+			"StatusEffect": "Fishing_Major"
+		},
+		{
+			"RowName": "Tuna_Burger",
+			"StatusEffect": "Fishing_Major"
+		},
+		{
+			"RowName": "Tuna_Casserole",
+			"StatusEffect": "Fishing_Major"
+		},
+		{
+			"RowName": "Tuna_Melt",
+			"StatusEffect": "Fishing_Major"
+		},
+		{
+			"RowName": "Tuna_Salad",
+			"StatusEffect": "Fishing_Major"
+		},
+		{
+			"RowName": "Crab_Cake",
+			"StatusEffect": "Fishing_Major"
+		},
+		{
+			"RowName": "Fish_Burger",
+			"StatusEffect": "Fishing_Major"
+		},
+		{
+			"RowName": "Fish_Steak",
+			"StatusEffect": "Fishing"
+		},
+		{
+			"RowName": "Fish_Bake",
+			"StatusEffect": "Fishing_Major"
+		},
+		{
+			"RowName": "Fish_Patties",
+			"StatusEffect": "Fishing_Major"
+		},
+		{
+			"RowName": "Fish_and_Chips",
+			"StatusEffect": "Fishing_Major"
+		},
+		{
+			"RowName": "Fish_Sandwich",
+			"StatusEffect": "Fishing_Major"
+		},
+		{
+			"RowName": "Lemon_Fish",
+			"StatusEffect": "Fishing"
+		},
+		{
+			"RowName": "Fish_Pasta",
+			"StatusEffect": "Fishing"
+		},
+		{
+			"RowName": "Glazed_Fish",
+			"StatusEffect": "Fishing"
+		},
+		{
+			"RowName": "Herb_Fish",
+			"StatusEffect": "Fishing"
+		},
+		{
+			"RowName": "Scallop_Pasta",
+			"StatusEffect": "Fishing"
+		},
+		{
+			"RowName": "Baked_Scallop",
+			"StatusEffect": "Fishing"
+		},
+		{
+			"RowName": "Crab_Salad",
+			"StatusEffect": "Fishing"
+		},
+		{
+			"RowName": "Crab_Quiche",
+			"StatusEffect": "Fishing_Major"
+		},
+		{
+			"RowName": "Crab_Leg",
+			"StatusEffect": "Fishing_Major"
+		},
+		{
+			"RowName": "Crab_Dip",
+			"StatusEffect": "Fishing"
+		},
+		{
+			"RowName": "Grilled_Tuna",
+			"StatusEffect": "Fishing_Major"
+		},
+		{
+			"RowName": "Italian_Clams",
+			"StatusEffect": "Fishing_Major"
+		},
+		{
+			"RowName": "Clam_Chowder",
+			"StatusEffect": "Fishing"
+		},
+		{
+			"RowName": "Butter_Clams",
+			"StatusEffect": "Fishing"
+		},
+		{
+			"RowName": "Tomato_Sardine",
+			"StatusEffect": "Fishing"
+		},
+		{
+			"RowName": "Grilled_Salmon",
+			"StatusEffect": "Fishing"
+		},
+		{
+			"RowName": "Shrimp_Salad",
+			"StatusEffect": "Fishing"
+		},
+		{
+			"RowName": "Cesar_Salad",
+			"StatusEffect": "Stamina"
+		},
+		{
+			"RowName": "Broccoli_Quiche",
+			"StatusEffect": "Stamina"
+		},
+		{
+			"RowName": "Chicken_Taco_Soup",
+			"StatusEffect": "Stamina_Hearty"
+		},
+		{
+			"RowName": "Spicy_Chicken_Soup",
+			"StatusEffect": "Stamina_Hearty"
+		},
+		{
+			"RowName": "Chicken_Noodle_Soup",
+			"StatusEffect": "Stamina"
+		},
+		{
+			"RowName": "Chicken_Pizza",
+			"StatusEffect": "Stamina_Hearty"
+		},
+		{
+			"RowName": "Meaty_Pizza",
+			"StatusEffect": "Stamina_Hearty"
+		},
+		{
+			"RowName": "Chicken_Pasta",
+			"StatusEffect": "Stamina"
+		},
+		{
+			"RowName": "Chicken_Asparagus",
+			"StatusEffect": "Stamina"
+		},
+		{
+			"RowName": "Coconut_Chicken_Curry",
+			"StatusEffect": "Stamina_Hearty"
+		},
+		{
+			"RowName": "Potato_Chicken_Curry",
+			"StatusEffect": "Stamina_Hearty"
+		},
+		{
+			"RowName": "Pumpkin_Chicken_Curry",
+			"StatusEffect": "Stamina_Hearty"
+		},
+		{
+			"RowName": "Mango_Chicken_Curry",
+			"StatusEffect": "Stamina_Hearty"
+		},
+		{
+			"RowName": "Chicken_Curry",
+			"StatusEffect": "Stamina"
+		},
+		{
+			"RowName": "Artichoke_Chicken",
+			"StatusEffect": "Stamina"
+		},
+		{
+			"RowName": "Baked_Chicken",
+			"StatusEffect": "Stamina"
+		},
+		{
+			"RowName": "Bbq_Chicken",
+			"StatusEffect": "Stamina"
+		},
+		{
+			"RowName": "Buffalo_Chicken",
+			"StatusEffect": "Stamina"
+		},
+		{
+			"RowName": "Chicken_Cordon_Blue",
+			"StatusEffect": "Stamina"
+		},
+		{
+			"RowName": "Chicken_Parmesan",
+			"StatusEffect": "Stamina"
+		},
+		{
+			"RowName": "Chicken_Pot_Pie",
+			"StatusEffect": "Stamina_Hearty"
+		},
+		{
+			"RowName": "Chicken_with_Mushroom",
+			"StatusEffect": "Stamina"
+		},
+		{
+			"RowName": "Fried_Chicken",
+			"StatusEffect": "Stamina"
+		},
+		{
+			"RowName": "Garlic_Spicy_Chicken",
+			"StatusEffect": "Stamina"
+		},
+		{
+			"RowName": "Lemon_Chicken",
+			"StatusEffect": "Stamina"
+		},
+		{
+			"RowName": "Spicy_Chicken",
+			"StatusEffect": "Stamina_Hearty"
+		},
+		{
+			"RowName": "Spinach_Stuffed_Chicken",
+			"StatusEffect": "Stamina"
+		},
+		{
+			"RowName": "Yummy_Chicken",
+			"StatusEffect": "Stamina_Hearty"
+		},
+		{
+			"RowName": "Meatball_Sub",
+			"StatusEffect": "Stamina_Hearty"
+		},
+		{
+			"RowName": "Sloppy_Joe",
+			"StatusEffect": "Stamina"
+		},
+		{
+			"RowName": "Cheesesteak_Sandwich",
+			"StatusEffect": "Stamina_Hearty"
+		},
+		{
+			"RowName": "Corndogs",
+			"StatusEffect": "Stamina"
+		},
+		{
+			"RowName": "Hamburger",
+			"StatusEffect": "Stamina_Hearty"
+		},
+		{
+			"RowName": "Spagetti_&_Meatballs",
+			"StatusEffect": "Stamina_Hearty"
+		},
+		{
+			"RowName": "Coconut_Beef_Curry",
+			"StatusEffect": "Stamina_Hearty"
+		},
+		{
+			"RowName": "Potato_Beef_Curry",
+			"StatusEffect": "Stamina_Hearty"
+		},
+		{
+			"RowName": "Pumpkin_Beef_Curry",
+			"StatusEffect": "Stamina_Hearty"
+		},
+		{
+			"RowName": "Mango_Beef_Curry",
+			"StatusEffect": "Stamina_Hearty"
+		},
+		{
+			"RowName": "Beef_Curry",
+			"StatusEffect": "Stamina_Hearty"
+		},
+		{
+			"RowName": "Gyu_Nigiri",
+			"StatusEffect": "Stamina"
+		},
+		{
+			"RowName": "Beef_Seasoning",
+			"StatusEffect": "Stamina"
+		},
+		{
+			"RowName": "Beef_Chili",
+			"StatusEffect": "Stamina"
+		},
+		{
+			"RowName": "Beef_Stew",
+			"StatusEffect": "Stamina_Hearty"
+		},
+		{
+			"RowName": "Brisket_with_Bbq",
+			"StatusEffect": "Stamina_Hearty"
+		},
+		{
+			"RowName": "Steamed_Cabbage",
+			"StatusEffect": "Stamina"
+		},
+		{
+			"RowName": "Crisp_Orange_Beef",
+			"StatusEffect": "Stamina_Hearty"
+		},
+		{
+			"RowName": "Meatballs",
+			"StatusEffect": "Stamina"
+		},
+		{
+			"RowName": "Meatloaf",
+			"StatusEffect": "Stamina"
+		},
+		{
+			"RowName": "Roast_Meal",
+			"StatusEffect": "Stamina_Hearty"
+		},
+		{
+			"RowName": "Salisbury_Steak",
+			"StatusEffect": "Stamina_Hearty"
+		},
+		{
+			"RowName": "Shepards_Pie",
+			"StatusEffect": "Stamina_Hearty"
+		},
+		{
+			"RowName": "Sirloin_Kebab",
+			"StatusEffect": "Stamina"
+		},
+		{
+			"RowName": "Stuffed_Pepper",
+			"StatusEffect": "Stamina"
+		},
+		{
+			"RowName": "Latte",
+			"StatusEffect": "Mild_Coffee"
+		},
+		{
+			"RowName": "Pumpkin_Latte",
+			"StatusEffect": "Mild_Coffee"
+		},
+		{
+			"RowName": "Spiced_Latte",
+			"StatusEffect": "Mild_Coffee"
+		},
+		{
+			"RowName": "Chocolate_Mint_Cookies",
+			"StatusEffect": "Fast"
+		},
+		{
+			"RowName": "Birthday_Cake",
+			"StatusEffect": "Faster"
+		},
+		{
+			"RowName": "Roulade_Chicken",
+			"StatusEffect": "Meatballs"
+		},
+		{
+			"RowName": "Chicken_Fettucine",
+			"StatusEffect": "Meatballs"
+		},
+		{
+			"RowName": "Horseradish_Beef",
+			"StatusEffect": "Stamina"
+		},
+		{
+			"RowName": "Durian_Cream_Puffs",
+			"StatusEffect": "Fast"
+		},
+		{
+			"RowName": "Cappuchino",
+			"StatusEffect": "Mild_Coffee"
+		},
+		{
+			"RowName": "Lentil_Burger",
+			"StatusEffect": "Stamina"
+		},
+		{
+			"RowName": "Brussel_Sprouts_And_Steak",
+			"StatusEffect": "Stamina"
+		},
+		{
+			"RowName": "Salted_Cashew_Bar",
+			"StatusEffect": "Fast"
+		},
+		{
+			"RowName": "Licorice_Cake",
+			"StatusEffect": "Faster"
+		},
+		{
+			"RowName": "Shrimp_And_Asparagus",
+			"StatusEffect": "Fishing"
+		},
+		{
+			"RowName": "Fig_Bars",
+			"StatusEffect": "Fast"
+		},
+		{
+			"RowName": "Dragonfruit_Crepe",
+			"StatusEffect": "Faster"
+		},
+		{
+			"RowName": "Cake_Pride",
+			"StatusEffect": "Faster"
+		},
+		{
+			"RowName": "Sakura_Cake",
+			"StatusEffect": "Faster"
+		},
+		{
+			"RowName": "Taiyaki",
+			"StatusEffect": "Faster"
+		},
+		{
+			"RowName": "Candy_Corn",
+			"StatusEffect": "Fast"
+		},
+		{
+			"RowName": "Rock_Candy",
+			"StatusEffect": "Fast"
+		},
+		{
+			"RowName": "Festival_Chocolates",
+			"StatusEffect": "Fast"
+		},
+		{
+			"RowName": "Rosemary_Pork",
+			"StatusEffect": "Stamina_Hearty"
+		},
+		{
+			"RowName": "Green_Man_Cake",
+			"StatusEffect": "Faster"
+		},
+		{
+			"RowName": "BBQ_Ribs",
+			"StatusEffect": "Stamina_Hearty"
+		},
+		{
+			"RowName": "Beef_Patties",
+			"StatusEffect": "Stamina_Hearty"
+		},
+		{
+			"RowName": "Roti",
+			"StatusEffect": "Stamina_Hearty"
+		},
+		{
+			"RowName": "Salt_Fish_Bakes",
+			"StatusEffect": "Fishing_Major"
+		},
+		{
+			"RowName": "Fruit_Roll_Cake",
+			"StatusEffect": "Faster"
+		},
+		{
+			"RowName": "Fruitcake",
+			"StatusEffect": "Faster"
+		},
+		{
+			"RowName": "Gingerbread_Peeps",
+			"StatusEffect": "Faster"
+		},
+		{
+			"RowName": "Pumpkin_Spiced_Rum",
+			"StatusEffect": "Drunk_Hearts"
+		},
+		{
+			"RowName": "Sugar_Skulls",
+			"StatusEffect": "Faster"
+		},
+		{
+			"RowName": "Funnel_Cake",
+			"StatusEffect": "Faster"
+		},
+		{
+			"RowName": "Honey_Lavender_Cheesecake",
+			"StatusEffect": "Hearts"
+		},
+		{
+			"RowName": "Sakura_Cookies",
+			"StatusEffect": "Faster"
+		},
+		{
+			"RowName": "Bug_Repellant",
+			"StatusEffect": "Bug_Repellant"
+		},
+		{
+			"RowName": "Jounce_Liquid_Apple",
+			"StatusEffect": "Jounce_Coffee"
+		},
+		{
+			"RowName": "Jounce_Liquid_Lemon",
+			"StatusEffect": "Jounce_Stamina_Hearty"
+		},
+		{
+			"RowName": "Jounce_Liquid_Orange",
+			"StatusEffect": "Jounce_Faster"
+		},
+		{
+			"RowName": "Jounce_Liquid_Peach",
+			"StatusEffect": "Jounce_Coffee"
+		},
+		{
+			"RowName": "Jounce_Liquid_Strawberry",
+			"StatusEffect": "Jounce_Faster"
+		}
+	]
+}

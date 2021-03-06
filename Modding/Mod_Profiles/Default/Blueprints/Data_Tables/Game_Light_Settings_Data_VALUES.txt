@@ -1,0 +1,1685 @@
+{
+	"Rows": 
+	[
+		{
+			"RowName": "Test",
+			"Intensity": 3000,
+			"Color": 
+			{
+				"B": 255,
+				"G": 133,
+				"R": 0,
+				"A": 255
+			},
+			"AttenuationRadius": 1000,
+			"SourceRadius": 0,
+			"SourceLength": 0,
+			"CastsShadows": false,
+			"InnerConeAngle": 0,
+			"OuterConeAngle": 44,
+			"TurnOnTime": 
+			{
+				"Hour": 22,
+				"Minute": 0
+			},
+			"OffTime": 
+			{
+				"Hour": 6,
+				"Minute": 0
+			},
+			"FadeIntensityCurve": "None",
+			"FadesIn": false,
+			"FadesOut": false,
+			"FurnitureLocation": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			},
+			"FurnitureRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			}
+		},
+		{
+			"RowName": "White_Street_Light",
+			"Intensity": 4000,
+			"Color": 
+			{
+				"B": 161,
+				"G": 251,
+				"R": 255,
+				"A": 255
+			},
+			"AttenuationRadius": 600,
+			"SourceRadius": 100,
+			"SourceLength": 100,
+			"CastsShadows": false,
+			"InnerConeAngle": 0,
+			"OuterConeAngle": 44,
+			"TurnOnTime": 
+			{
+				"Hour": 17,
+				"Minute": 0
+			},
+			"OffTime": 
+			{
+				"Hour": 6,
+				"Minute": 0
+			},
+			"FadeIntensityCurve": "None",
+			"FadesIn": false,
+			"FadesOut": false,
+			"FurnitureLocation": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			},
+			"FurnitureRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			}
+		},
+		{
+			"RowName": "Generic_Light_Furniture",
+			"Intensity": 5000,
+			"Color": 
+			{
+				"B": 120,
+				"G": 0,
+				"R": 255,
+				"A": 255
+			},
+			"AttenuationRadius": 1000,
+			"SourceRadius": 0,
+			"SourceLength": 0,
+			"CastsShadows": false,
+			"InnerConeAngle": 0,
+			"OuterConeAngle": 44,
+			"TurnOnTime": 
+			{
+				"Hour": 0,
+				"Minute": 0
+			},
+			"OffTime": 
+			{
+				"Hour": 0,
+				"Minute": 0
+			},
+			"FadeIntensityCurve": "None",
+			"FadesIn": false,
+			"FadesOut": false,
+			"FurnitureLocation": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			},
+			"FurnitureRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			}
+		},
+		{
+			"RowName": "Lamp",
+			"Intensity": 4000,
+			"Color": 
+			{
+				"B": 161,
+				"G": 251,
+				"R": 255,
+				"A": 255
+			},
+			"AttenuationRadius": 1000,
+			"SourceRadius": 100,
+			"SourceLength": 100,
+			"CastsShadows": false,
+			"InnerConeAngle": 0,
+			"OuterConeAngle": 44,
+			"TurnOnTime": 
+			{
+				"Hour": 17,
+				"Minute": 0
+			},
+			"OffTime": 
+			{
+				"Hour": 6,
+				"Minute": 0
+			},
+			"FadeIntensityCurve": "None",
+			"FadesIn": false,
+			"FadesOut": false,
+			"FurnitureLocation": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": -500
+			},
+			"FurnitureRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			}
+		},
+		{
+			"RowName": "Street_Light",
+			"Intensity": 5000,
+			"Color": 
+			{
+				"B": 161,
+				"G": 251,
+				"R": 255,
+				"A": 255
+			},
+			"AttenuationRadius": 1000,
+			"SourceRadius": 100,
+			"SourceLength": 100,
+			"CastsShadows": false,
+			"InnerConeAngle": 0,
+			"OuterConeAngle": 44,
+			"TurnOnTime": 
+			{
+				"Hour": 17,
+				"Minute": 0
+			},
+			"OffTime": 
+			{
+				"Hour": 6,
+				"Minute": 0
+			},
+			"FadeIntensityCurve": "None",
+			"FadesIn": false,
+			"FadesOut": false,
+			"FurnitureLocation": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 300
+			},
+			"FurnitureRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			}
+		},
+		{
+			"RowName": "Street_Light_1",
+			"Intensity": 5000,
+			"Color": 
+			{
+				"B": 161,
+				"G": 251,
+				"R": 255,
+				"A": 255
+			},
+			"AttenuationRadius": 1000,
+			"SourceRadius": 100,
+			"SourceLength": 100,
+			"CastsShadows": false,
+			"InnerConeAngle": 0,
+			"OuterConeAngle": 44,
+			"TurnOnTime": 
+			{
+				"Hour": 17,
+				"Minute": 0
+			},
+			"OffTime": 
+			{
+				"Hour": 6,
+				"Minute": 0
+			},
+			"FadeIntensityCurve": "None",
+			"FadesIn": false,
+			"FadesOut": false,
+			"FurnitureLocation": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 300
+			},
+			"FurnitureRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			}
+		},
+		{
+			"RowName": "Street_Light_2",
+			"Intensity": 5000,
+			"Color": 
+			{
+				"B": 161,
+				"G": 251,
+				"R": 255,
+				"A": 255
+			},
+			"AttenuationRadius": 1000,
+			"SourceRadius": 100,
+			"SourceLength": 100,
+			"CastsShadows": false,
+			"InnerConeAngle": 0,
+			"OuterConeAngle": 44,
+			"TurnOnTime": 
+			{
+				"Hour": 17,
+				"Minute": 0
+			},
+			"OffTime": 
+			{
+				"Hour": 6,
+				"Minute": 0
+			},
+			"FadeIntensityCurve": "None",
+			"FadesIn": false,
+			"FadesOut": false,
+			"FurnitureLocation": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 300
+			},
+			"FurnitureRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			}
+		},
+		{
+			"RowName": "Basic_Lamp_Light",
+			"Intensity": 500,
+			"Color": 
+			{
+				"B": 216,
+				"G": 254,
+				"R": 255,
+				"A": 255
+			},
+			"AttenuationRadius": 1000,
+			"SourceRadius": 10,
+			"SourceLength": 100,
+			"CastsShadows": false,
+			"InnerConeAngle": 0,
+			"OuterConeAngle": 44,
+			"TurnOnTime": 
+			{
+				"Hour": 17,
+				"Minute": 0
+			},
+			"OffTime": 
+			{
+				"Hour": 6,
+				"Minute": 0
+			},
+			"FadeIntensityCurve": "None",
+			"FadesIn": false,
+			"FadesOut": false,
+			"FurnitureLocation": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 100
+			},
+			"FurnitureRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			}
+		},
+		{
+			"RowName": "Basic_Lamp_Dark",
+			"Intensity": 5000,
+			"Color": 
+			{
+				"B": 216,
+				"G": 254,
+				"R": 255,
+				"A": 255
+			},
+			"AttenuationRadius": 1000,
+			"SourceRadius": 10,
+			"SourceLength": 100,
+			"CastsShadows": false,
+			"InnerConeAngle": 0,
+			"OuterConeAngle": 44,
+			"TurnOnTime": 
+			{
+				"Hour": 17,
+				"Minute": 0
+			},
+			"OffTime": 
+			{
+				"Hour": 6,
+				"Minute": 0
+			},
+			"FadeIntensityCurve": "None",
+			"FadesIn": false,
+			"FadesOut": false,
+			"FurnitureLocation": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 100
+			},
+			"FurnitureRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			}
+		},
+		{
+			"RowName": "Antique_Lamp_White",
+			"Intensity": 500,
+			"Color": 
+			{
+				"B": 216,
+				"G": 254,
+				"R": 255,
+				"A": 255
+			},
+			"AttenuationRadius": 1000,
+			"SourceRadius": 100,
+			"SourceLength": 100,
+			"CastsShadows": false,
+			"InnerConeAngle": 0,
+			"OuterConeAngle": 44,
+			"TurnOnTime": 
+			{
+				"Hour": 17,
+				"Minute": 0
+			},
+			"OffTime": 
+			{
+				"Hour": 6,
+				"Minute": 0
+			},
+			"FadeIntensityCurve": "None",
+			"FadesIn": false,
+			"FadesOut": false,
+			"FurnitureLocation": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 100
+			},
+			"FurnitureRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			}
+		},
+		{
+			"RowName": "Antique_Lamp_Dark",
+			"Intensity": 500,
+			"Color": 
+			{
+				"B": 216,
+				"G": 254,
+				"R": 255,
+				"A": 255
+			},
+			"AttenuationRadius": 1000,
+			"SourceRadius": 100,
+			"SourceLength": 10,
+			"CastsShadows": false,
+			"InnerConeAngle": 0,
+			"OuterConeAngle": 44,
+			"TurnOnTime": 
+			{
+				"Hour": 17,
+				"Minute": 0
+			},
+			"OffTime": 
+			{
+				"Hour": 6,
+				"Minute": 0
+			},
+			"FadeIntensityCurve": "None",
+			"FadesIn": false,
+			"FadesOut": false,
+			"FurnitureLocation": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 100
+			},
+			"FurnitureRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			}
+		},
+		{
+			"RowName": "Basic_Lamp_Marble",
+			"Intensity": 500,
+			"Color": 
+			{
+				"B": 113,
+				"G": 197,
+				"R": 255,
+				"A": 255
+			},
+			"AttenuationRadius": 1000,
+			"SourceRadius": 100,
+			"SourceLength": 10,
+			"CastsShadows": false,
+			"InnerConeAngle": 0,
+			"OuterConeAngle": 44,
+			"TurnOnTime": 
+			{
+				"Hour": 17,
+				"Minute": 0
+			},
+			"OffTime": 
+			{
+				"Hour": 6,
+				"Minute": 0
+			},
+			"FadeIntensityCurve": "None",
+			"FadesIn": false,
+			"FadesOut": false,
+			"FurnitureLocation": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 100
+			},
+			"FurnitureRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			}
+		},
+		{
+			"RowName": "Candles_Three",
+			"Intensity": 50,
+			"Color": 
+			{
+				"B": 0,
+				"G": 40,
+				"R": 255,
+				"A": 255
+			},
+			"AttenuationRadius": 50,
+			"SourceRadius": 50,
+			"SourceLength": 50,
+			"CastsShadows": false,
+			"InnerConeAngle": 0,
+			"OuterConeAngle": 44,
+			"TurnOnTime": 
+			{
+				"Hour": 17,
+				"Minute": 0
+			},
+			"OffTime": 
+			{
+				"Hour": 6,
+				"Minute": 0
+			},
+			"FadeIntensityCurve": "None",
+			"FadesIn": false,
+			"FadesOut": false,
+			"FurnitureLocation": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 90
+			},
+			"FurnitureRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			}
+		},
+		{
+			"RowName": "Torch",
+			"Intensity": 8000,
+			"Color": 
+			{
+				"B": 31,
+				"G": 104,
+				"R": 249,
+				"A": 255
+			},
+			"AttenuationRadius": 8000,
+			"SourceRadius": 100,
+			"SourceLength": 100,
+			"CastsShadows": false,
+			"InnerConeAngle": 0,
+			"OuterConeAngle": 44,
+			"TurnOnTime": 
+			{
+				"Hour": 17,
+				"Minute": 0
+			},
+			"OffTime": 
+			{
+				"Hour": 6,
+				"Minute": 0
+			},
+			"FadeIntensityCurve": "None",
+			"FadesIn": false,
+			"FadesOut": false,
+			"FurnitureLocation": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 300
+			},
+			"FurnitureRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			}
+		},
+		{
+			"RowName": "Chinese_Lantern",
+			"Intensity": 5000,
+			"Color": 
+			{
+				"B": 95,
+				"G": 155,
+				"R": 255,
+				"A": 255
+			},
+			"AttenuationRadius": 8000,
+			"SourceRadius": 100,
+			"SourceLength": 100,
+			"CastsShadows": false,
+			"InnerConeAngle": 0,
+			"OuterConeAngle": 44,
+			"TurnOnTime": 
+			{
+				"Hour": 17,
+				"Minute": 0
+			},
+			"OffTime": 
+			{
+				"Hour": 6,
+				"Minute": 0
+			},
+			"FadeIntensityCurve": "None",
+			"FadesIn": false,
+			"FadesOut": false,
+			"FurnitureLocation": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 300
+			},
+			"FurnitureRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			}
+		},
+		{
+			"RowName": "Fairy_Lights_Straight_White",
+			"Intensity": 50,
+			"Color": 
+			{
+				"B": 247,
+				"G": 247,
+				"R": 247,
+				"A": 255
+			},
+			"AttenuationRadius": 100,
+			"SourceRadius": 5,
+			"SourceLength": 0,
+			"CastsShadows": false,
+			"InnerConeAngle": 0,
+			"OuterConeAngle": 44,
+			"TurnOnTime": 
+			{
+				"Hour": 17,
+				"Minute": 0
+			},
+			"OffTime": 
+			{
+				"Hour": 6,
+				"Minute": 0
+			},
+			"FadeIntensityCurve": "None",
+			"FadesIn": false,
+			"FadesOut": false,
+			"FurnitureLocation": 
+			{
+				"X": 0,
+				"Y": 100,
+				"Z": 0
+			},
+			"FurnitureRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			}
+		},
+		{
+			"RowName": "Fairy_Lights_Straight_Yellow",
+			"Intensity": 50,
+			"Color": 
+			{
+				"B": 0,
+				"G": 211,
+				"R": 255,
+				"A": 255
+			},
+			"AttenuationRadius": 100,
+			"SourceRadius": 5,
+			"SourceLength": 0,
+			"CastsShadows": false,
+			"InnerConeAngle": 0,
+			"OuterConeAngle": 44,
+			"TurnOnTime": 
+			{
+				"Hour": 17,
+				"Minute": 0
+			},
+			"OffTime": 
+			{
+				"Hour": 6,
+				"Minute": 0
+			},
+			"FadeIntensityCurve": "None",
+			"FadesIn": false,
+			"FadesOut": false,
+			"FurnitureLocation": 
+			{
+				"X": 0,
+				"Y": 100,
+				"Z": 0
+			},
+			"FurnitureRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			}
+		},
+		{
+			"RowName": "Fairy_Lights_Curved_Yellow",
+			"Intensity": 50,
+			"Color": 
+			{
+				"B": 0,
+				"G": 211,
+				"R": 255,
+				"A": 255
+			},
+			"AttenuationRadius": 100,
+			"SourceRadius": 5,
+			"SourceLength": 0,
+			"CastsShadows": false,
+			"InnerConeAngle": 0,
+			"OuterConeAngle": 44,
+			"TurnOnTime": 
+			{
+				"Hour": 17,
+				"Minute": 0
+			},
+			"OffTime": 
+			{
+				"Hour": 6,
+				"Minute": 0
+			},
+			"FadeIntensityCurve": "None",
+			"FadesIn": false,
+			"FadesOut": false,
+			"FurnitureLocation": 
+			{
+				"X": 0,
+				"Y": 100,
+				"Z": 0
+			},
+			"FurnitureRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			}
+		},
+		{
+			"RowName": "Fairy_Lights_Curved_White",
+			"Intensity": 50,
+			"Color": 
+			{
+				"B": 255,
+				"G": 255,
+				"R": 255,
+				"A": 255
+			},
+			"AttenuationRadius": 100,
+			"SourceRadius": 5,
+			"SourceLength": 0,
+			"CastsShadows": false,
+			"InnerConeAngle": 0,
+			"OuterConeAngle": 44,
+			"TurnOnTime": 
+			{
+				"Hour": 17,
+				"Minute": 0
+			},
+			"OffTime": 
+			{
+				"Hour": 6,
+				"Minute": 0
+			},
+			"FadeIntensityCurve": "None",
+			"FadesIn": false,
+			"FadesOut": false,
+			"FurnitureLocation": 
+			{
+				"X": 0,
+				"Y": 100,
+				"Z": 0
+			},
+			"FurnitureRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			}
+		},
+		{
+			"RowName": "Fairy_Lights_Curved_Pink",
+			"Intensity": 50,
+			"Color": 
+			{
+				"B": 207,
+				"G": 98,
+				"R": 218,
+				"A": 255
+			},
+			"AttenuationRadius": 100,
+			"SourceRadius": 5,
+			"SourceLength": 0,
+			"CastsShadows": false,
+			"InnerConeAngle": 0,
+			"OuterConeAngle": 44,
+			"TurnOnTime": 
+			{
+				"Hour": 17,
+				"Minute": 0
+			},
+			"OffTime": 
+			{
+				"Hour": 6,
+				"Minute": 0
+			},
+			"FadeIntensityCurve": "None",
+			"FadesIn": false,
+			"FadesOut": false,
+			"FurnitureLocation": 
+			{
+				"X": 0,
+				"Y": 100,
+				"Z": 0
+			},
+			"FurnitureRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			}
+		},
+		{
+			"RowName": "Fairy_Lights_Straight_Pink",
+			"Intensity": 50,
+			"Color": 
+			{
+				"B": 207,
+				"G": 98,
+				"R": 218,
+				"A": 255
+			},
+			"AttenuationRadius": 100,
+			"SourceRadius": 5,
+			"SourceLength": 0,
+			"CastsShadows": false,
+			"InnerConeAngle": 0,
+			"OuterConeAngle": 44,
+			"TurnOnTime": 
+			{
+				"Hour": 17,
+				"Minute": 0
+			},
+			"OffTime": 
+			{
+				"Hour": 6,
+				"Minute": 0
+			},
+			"FadeIntensityCurve": "None",
+			"FadesIn": false,
+			"FadesOut": false,
+			"FurnitureLocation": 
+			{
+				"X": 0,
+				"Y": 100,
+				"Z": 0
+			},
+			"FurnitureRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			}
+		},
+		{
+			"RowName": "Fairy_Lights_Straight_Blue",
+			"Intensity": 50,
+			"Color": 
+			{
+				"B": 207,
+				"G": 95,
+				"R": 57,
+				"A": 255
+			},
+			"AttenuationRadius": 100,
+			"SourceRadius": 5,
+			"SourceLength": 0,
+			"CastsShadows": false,
+			"InnerConeAngle": 0,
+			"OuterConeAngle": 44,
+			"TurnOnTime": 
+			{
+				"Hour": 17,
+				"Minute": 0
+			},
+			"OffTime": 
+			{
+				"Hour": 6,
+				"Minute": 0
+			},
+			"FadeIntensityCurve": "None",
+			"FadesIn": false,
+			"FadesOut": false,
+			"FurnitureLocation": 
+			{
+				"X": 0,
+				"Y": 100,
+				"Z": 0
+			},
+			"FurnitureRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			}
+		},
+		{
+			"RowName": "Fairy_Lights_Curved_Blue",
+			"Intensity": 50,
+			"Color": 
+			{
+				"B": 207,
+				"G": 95,
+				"R": 57,
+				"A": 255
+			},
+			"AttenuationRadius": 100,
+			"SourceRadius": 5,
+			"SourceLength": 0,
+			"CastsShadows": false,
+			"InnerConeAngle": 0,
+			"OuterConeAngle": 44,
+			"TurnOnTime": 
+			{
+				"Hour": 17,
+				"Minute": 0
+			},
+			"OffTime": 
+			{
+				"Hour": 6,
+				"Minute": 0
+			},
+			"FadeIntensityCurve": "None",
+			"FadesIn": false,
+			"FadesOut": false,
+			"FurnitureLocation": 
+			{
+				"X": 0,
+				"Y": 100,
+				"Z": 0
+			},
+			"FurnitureRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			}
+		},
+		{
+			"RowName": "Christmas_Lights_Straight",
+			"Intensity": 50,
+			"Color": 
+			{
+				"B": 156,
+				"G": 148,
+				"R": 207,
+				"A": 255
+			},
+			"AttenuationRadius": 100,
+			"SourceRadius": 5,
+			"SourceLength": 0,
+			"CastsShadows": false,
+			"InnerConeAngle": 0,
+			"OuterConeAngle": 44,
+			"TurnOnTime": 
+			{
+				"Hour": 17,
+				"Minute": 0
+			},
+			"OffTime": 
+			{
+				"Hour": 6,
+				"Minute": 0
+			},
+			"FadeIntensityCurve": "None",
+			"FadesIn": false,
+			"FadesOut": false,
+			"FurnitureLocation": 
+			{
+				"X": 0,
+				"Y": 100,
+				"Z": 0
+			},
+			"FurnitureRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			}
+		},
+		{
+			"RowName": "Christmas_Lights_Curved",
+			"Intensity": 50,
+			"Color": 
+			{
+				"B": 156,
+				"G": 148,
+				"R": 207,
+				"A": 255
+			},
+			"AttenuationRadius": 100,
+			"SourceRadius": 5,
+			"SourceLength": 0,
+			"CastsShadows": false,
+			"InnerConeAngle": 0,
+			"OuterConeAngle": 44,
+			"TurnOnTime": 
+			{
+				"Hour": 17,
+				"Minute": 0
+			},
+			"OffTime": 
+			{
+				"Hour": 6,
+				"Minute": 0
+			},
+			"FadeIntensityCurve": "None",
+			"FadesIn": false,
+			"FadesOut": false,
+			"FurnitureLocation": 
+			{
+				"X": 0,
+				"Y": 100,
+				"Z": 0
+			},
+			"FurnitureRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			}
+		},
+		{
+			"RowName": "Basic_Lamp_Blue",
+			"Intensity": 500,
+			"Color": 
+			{
+				"B": 216,
+				"G": 254,
+				"R": 255,
+				"A": 255
+			},
+			"AttenuationRadius": 1000,
+			"SourceRadius": 100,
+			"SourceLength": 0,
+			"CastsShadows": false,
+			"InnerConeAngle": 0,
+			"OuterConeAngle": 44,
+			"TurnOnTime": 
+			{
+				"Hour": 17,
+				"Minute": 0
+			},
+			"OffTime": 
+			{
+				"Hour": 6,
+				"Minute": 0
+			},
+			"FadeIntensityCurve": "None",
+			"FadesIn": false,
+			"FadesOut": false,
+			"FurnitureLocation": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 100
+			},
+			"FurnitureRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			}
+		},
+		{
+			"RowName": "Basic_Lamp_Green",
+			"Intensity": 500,
+			"Color": 
+			{
+				"B": 216,
+				"G": 254,
+				"R": 255,
+				"A": 255
+			},
+			"AttenuationRadius": 1000,
+			"SourceRadius": 100,
+			"SourceLength": 0,
+			"CastsShadows": false,
+			"InnerConeAngle": 0,
+			"OuterConeAngle": 44,
+			"TurnOnTime": 
+			{
+				"Hour": 17,
+				"Minute": 0
+			},
+			"OffTime": 
+			{
+				"Hour": 6,
+				"Minute": 0
+			},
+			"FadeIntensityCurve": "None",
+			"FadesIn": false,
+			"FadesOut": false,
+			"FurnitureLocation": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 100
+			},
+			"FurnitureRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			}
+		},
+		{
+			"RowName": "Basic_Lamp_Red",
+			"Intensity": 500,
+			"Color": 
+			{
+				"B": 216,
+				"G": 254,
+				"R": 255,
+				"A": 255
+			},
+			"AttenuationRadius": 1000,
+			"SourceRadius": 100,
+			"SourceLength": 0,
+			"CastsShadows": false,
+			"InnerConeAngle": 0,
+			"OuterConeAngle": 44,
+			"TurnOnTime": 
+			{
+				"Hour": 17,
+				"Minute": 0
+			},
+			"OffTime": 
+			{
+				"Hour": 6,
+				"Minute": 0
+			},
+			"FadeIntensityCurve": "None",
+			"FadesIn": false,
+			"FadesOut": false,
+			"FurnitureLocation": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 100
+			},
+			"FurnitureRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			}
+		},
+		{
+			"RowName": "Basic_Lamp_Magenta",
+			"Intensity": 500,
+			"Color": 
+			{
+				"B": 216,
+				"G": 254,
+				"R": 255,
+				"A": 255
+			},
+			"AttenuationRadius": 1000,
+			"SourceRadius": 100,
+			"SourceLength": 0,
+			"CastsShadows": false,
+			"InnerConeAngle": 0,
+			"OuterConeAngle": 44,
+			"TurnOnTime": 
+			{
+				"Hour": 17,
+				"Minute": 0
+			},
+			"OffTime": 
+			{
+				"Hour": 6,
+				"Minute": 0
+			},
+			"FadeIntensityCurve": "None",
+			"FadesIn": false,
+			"FadesOut": false,
+			"FurnitureLocation": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 100
+			},
+			"FurnitureRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			}
+		},
+		{
+			"RowName": "Basic_Lamp_Orange",
+			"Intensity": 500,
+			"Color": 
+			{
+				"B": 216,
+				"G": 254,
+				"R": 255,
+				"A": 255
+			},
+			"AttenuationRadius": 1000,
+			"SourceRadius": 100,
+			"SourceLength": 0,
+			"CastsShadows": false,
+			"InnerConeAngle": 0,
+			"OuterConeAngle": 44,
+			"TurnOnTime": 
+			{
+				"Hour": 17,
+				"Minute": 0
+			},
+			"OffTime": 
+			{
+				"Hour": 6,
+				"Minute": 0
+			},
+			"FadeIntensityCurve": "None",
+			"FadesIn": false,
+			"FadesOut": false,
+			"FurnitureLocation": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 100
+			},
+			"FurnitureRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			}
+		},
+		{
+			"RowName": "Basic_Lamp_Purple",
+			"Intensity": 500,
+			"Color": 
+			{
+				"B": 216,
+				"G": 254,
+				"R": 255,
+				"A": 255
+			},
+			"AttenuationRadius": 1000,
+			"SourceRadius": 100,
+			"SourceLength": 0,
+			"CastsShadows": false,
+			"InnerConeAngle": 0,
+			"OuterConeAngle": 44,
+			"TurnOnTime": 
+			{
+				"Hour": 17,
+				"Minute": 0
+			},
+			"OffTime": 
+			{
+				"Hour": 6,
+				"Minute": 0
+			},
+			"FadeIntensityCurve": "None",
+			"FadesIn": false,
+			"FadesOut": false,
+			"FurnitureLocation": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 100
+			},
+			"FurnitureRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			}
+		},
+		{
+			"RowName": "Basic_Lamp_Yellow",
+			"Intensity": 500,
+			"Color": 
+			{
+				"B": 216,
+				"G": 254,
+				"R": 255,
+				"A": 255
+			},
+			"AttenuationRadius": 1000,
+			"SourceRadius": 100,
+			"SourceLength": 0,
+			"CastsShadows": false,
+			"InnerConeAngle": 0,
+			"OuterConeAngle": 44,
+			"TurnOnTime": 
+			{
+				"Hour": 17,
+				"Minute": 0
+			},
+			"OffTime": 
+			{
+				"Hour": 6,
+				"Minute": 0
+			},
+			"FadeIntensityCurve": "None",
+			"FadesIn": false,
+			"FadesOut": false,
+			"FurnitureLocation": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 100
+			},
+			"FurnitureRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			}
+		},
+		{
+			"RowName": "Antique_Lamp_Blue",
+			"Intensity": 500,
+			"Color": 
+			{
+				"B": 216,
+				"G": 254,
+				"R": 255,
+				"A": 255
+			},
+			"AttenuationRadius": 1000,
+			"SourceRadius": 100,
+			"SourceLength": 0,
+			"CastsShadows": false,
+			"InnerConeAngle": 0,
+			"OuterConeAngle": 44,
+			"TurnOnTime": 
+			{
+				"Hour": 17,
+				"Minute": 0
+			},
+			"OffTime": 
+			{
+				"Hour": 6,
+				"Minute": 0
+			},
+			"FadeIntensityCurve": "None",
+			"FadesIn": false,
+			"FadesOut": false,
+			"FurnitureLocation": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 100
+			},
+			"FurnitureRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			}
+		},
+		{
+			"RowName": "Antique_Lamp_Green",
+			"Intensity": 500,
+			"Color": 
+			{
+				"B": 216,
+				"G": 254,
+				"R": 255,
+				"A": 255
+			},
+			"AttenuationRadius": 1000,
+			"SourceRadius": 100,
+			"SourceLength": 0,
+			"CastsShadows": false,
+			"InnerConeAngle": 0,
+			"OuterConeAngle": 44,
+			"TurnOnTime": 
+			{
+				"Hour": 17,
+				"Minute": 0
+			},
+			"OffTime": 
+			{
+				"Hour": 6,
+				"Minute": 0
+			},
+			"FadeIntensityCurve": "None",
+			"FadesIn": false,
+			"FadesOut": false,
+			"FurnitureLocation": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 100
+			},
+			"FurnitureRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			}
+		},
+		{
+			"RowName": "Antique_Lamp_Red",
+			"Intensity": 500,
+			"Color": 
+			{
+				"B": 216,
+				"G": 254,
+				"R": 255,
+				"A": 255
+			},
+			"AttenuationRadius": 1000,
+			"SourceRadius": 100,
+			"SourceLength": 0,
+			"CastsShadows": false,
+			"InnerConeAngle": 0,
+			"OuterConeAngle": 44,
+			"TurnOnTime": 
+			{
+				"Hour": 17,
+				"Minute": 0
+			},
+			"OffTime": 
+			{
+				"Hour": 6,
+				"Minute": 0
+			},
+			"FadeIntensityCurve": "None",
+			"FadesIn": false,
+			"FadesOut": false,
+			"FurnitureLocation": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 100
+			},
+			"FurnitureRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			}
+		},
+		{
+			"RowName": "Antique_Lamp_Magenta",
+			"Intensity": 500,
+			"Color": 
+			{
+				"B": 216,
+				"G": 254,
+				"R": 255,
+				"A": 255
+			},
+			"AttenuationRadius": 1000,
+			"SourceRadius": 100,
+			"SourceLength": 0,
+			"CastsShadows": false,
+			"InnerConeAngle": 0,
+			"OuterConeAngle": 44,
+			"TurnOnTime": 
+			{
+				"Hour": 17,
+				"Minute": 0
+			},
+			"OffTime": 
+			{
+				"Hour": 6,
+				"Minute": 0
+			},
+			"FadeIntensityCurve": "None",
+			"FadesIn": false,
+			"FadesOut": false,
+			"FurnitureLocation": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 100
+			},
+			"FurnitureRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			}
+		},
+		{
+			"RowName": "Stone_Lantern_Grey",
+			"Intensity": 1000,
+			"Color": 
+			{
+				"B": 38,
+				"G": 126,
+				"R": 238,
+				"A": 255
+			},
+			"AttenuationRadius": 5000,
+			"SourceRadius": 100,
+			"SourceLength": 0,
+			"CastsShadows": false,
+			"InnerConeAngle": 0,
+			"OuterConeAngle": 44,
+			"TurnOnTime": 
+			{
+				"Hour": 17,
+				"Minute": 0
+			},
+			"OffTime": 
+			{
+				"Hour": 6,
+				"Minute": 0
+			},
+			"FadeIntensityCurve": "None",
+			"FadesIn": false,
+			"FadesOut": false,
+			"FurnitureLocation": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 300
+			},
+			"FurnitureRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			}
+		},
+		{
+			"RowName": "Stone_Lantern_Brown",
+			"Intensity": 1000,
+			"Color": 
+			{
+				"B": 38,
+				"G": 126,
+				"R": 238,
+				"A": 255
+			},
+			"AttenuationRadius": 100,
+			"SourceRadius": 100,
+			"SourceLength": 0,
+			"CastsShadows": false,
+			"InnerConeAngle": 0,
+			"OuterConeAngle": 44,
+			"TurnOnTime": 
+			{
+				"Hour": 17,
+				"Minute": 0
+			},
+			"OffTime": 
+			{
+				"Hour": 6,
+				"Minute": 0
+			},
+			"FadeIntensityCurve": "None",
+			"FadesIn": false,
+			"FadesOut": false,
+			"FurnitureLocation": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 300
+			},
+			"FurnitureRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			}
+		},
+		{
+			"RowName": "Stone_Lantern_Mossy",
+			"Intensity": 1000,
+			"Color": 
+			{
+				"B": 38,
+				"G": 126,
+				"R": 238,
+				"A": 255
+			},
+			"AttenuationRadius": 100,
+			"SourceRadius": 100,
+			"SourceLength": 0,
+			"CastsShadows": false,
+			"InnerConeAngle": 0,
+			"OuterConeAngle": 44,
+			"TurnOnTime": 
+			{
+				"Hour": 17,
+				"Minute": 0
+			},
+			"OffTime": 
+			{
+				"Hour": 6,
+				"Minute": 0
+			},
+			"FadeIntensityCurve": "None",
+			"FadesIn": false,
+			"FadesOut": false,
+			"FurnitureLocation": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 300
+			},
+			"FurnitureRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			}
+		},
+		{
+			"RowName": "Lantern",
+			"Intensity": 8000,
+			"Color": 
+			{
+				"B": 0,
+				"G": 204,
+				"R": 255,
+				"A": 255
+			},
+			"AttenuationRadius": 1000,
+			"SourceRadius": 100,
+			"SourceLength": 0,
+			"CastsShadows": false,
+			"InnerConeAngle": 0,
+			"OuterConeAngle": 44,
+			"TurnOnTime": 
+			{
+				"Hour": 17,
+				"Minute": 0
+			},
+			"OffTime": 
+			{
+				"Hour": 7,
+				"Minute": 0
+			},
+			"FadeIntensityCurve": "None",
+			"FadesIn": false,
+			"FadesOut": false,
+			"FurnitureLocation": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 300
+			},
+			"FurnitureRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			}
+		}
+	]
+}

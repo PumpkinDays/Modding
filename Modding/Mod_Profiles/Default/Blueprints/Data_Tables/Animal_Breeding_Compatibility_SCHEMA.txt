@@ -1,0 +1,8 @@
+Animal_Breeding_Compatibility Structure:
+
+MaleMate: string
+FemaleMate: string
+NormalChildrenWithoutCoat: TArray-FName
+RareChildrenWithoutCoat: TArray-FName
+BreedingCost: integer
+PregnancyHours: integer

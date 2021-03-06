@@ -1,0 +1,4 @@
+Tv_Recipe_Dialogue Structure:
+
+Dialogue: string
+Npc: string

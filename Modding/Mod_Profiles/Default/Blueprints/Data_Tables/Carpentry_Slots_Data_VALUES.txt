@@ -1,0 +1,573 @@
+{
+	"Rows": 
+	[
+		{
+			"RowName": "BedFrame",
+			"Row": "BedFrame",
+			"FriendlyName": "Bed Frame ",
+			"Categories":
+			[ 8, 7 ],
+			"RequiredAmount": 20
+		},
+		{
+			"RowName": "BedComforter",
+			"Row": "BedComforter",
+			"FriendlyName": "Comforter",
+			"Categories":
+			[ 11 ],
+			"RequiredAmount": 1
+		},
+		{
+			"RowName": "BedFittedSheet",
+			"Row": "BedFittedSheet",
+			"FriendlyName": "Fitted Sheet",
+			"Categories":
+			[ 11 ],
+			"RequiredAmount": 1
+		},
+		{
+			"RowName": "BedSheetFolds",
+			"Row": "BedSheetFolds",
+			"FriendlyName": "Comforter Fold",
+			"Categories":
+			[ 11 ],
+			"RequiredAmount": 1
+		},
+		{
+			"RowName": "Pillow",
+			"Row": "Pillow",
+			"FriendlyName": "Pillow",
+			"Categories":
+			[ 11 ],
+			"RequiredAmount": 1
+		},
+		{
+			"RowName": "TableBase",
+			"Row": "TableBase",
+			"FriendlyName": "Table ",
+			"Categories":
+			[ 8, 7 ],
+			"RequiredAmount": 10
+		},
+		{
+			"RowName": "ChairFabric",
+			"Row": "ChairFabric",
+			"FriendlyName": "Fabric",
+			"Categories":
+			[ 11 ],
+			"RequiredAmount": 1
+		},
+		{
+			"RowName": "ChairLegs",
+			"Row": "ChairLegs",
+			"FriendlyName": "Legs",
+			"Categories":
+			[ 8, 7 ],
+			"RequiredAmount": 5
+		},
+		{
+			"RowName": "ChairFrame",
+			"Row": "ChairFrame",
+			"FriendlyName": "Frame",
+			"Categories":
+			[ 8, 7 ],
+			"RequiredAmount": 5
+		},
+		{
+			"RowName": "CouchFabric",
+			"Row": "CouchFabric",
+			"FriendlyName": "Fabric",
+			"Categories":
+			[ 11 ],
+			"RequiredAmount": 1
+		},
+		{
+			"RowName": "CouchLegs",
+			"Row": "CouchLegs",
+			"FriendlyName": "Legs",
+			"Categories":
+			[ 8, 7 ],
+			"RequiredAmount": 5
+		},
+		{
+			"RowName": "EndTableFrame",
+			"Row": "EndTableFrame",
+			"FriendlyName": "Frame",
+			"Categories":
+			[ 8, 7 ],
+			"RequiredAmount": 6
+		},
+		{
+			"RowName": "TableFrame",
+			"Row": "TableFrame",
+			"FriendlyName": "Frame",
+			"Categories":
+			[ 8, 7 ],
+			"RequiredAmount": 10
+		},
+		{
+			"RowName": "OfficeDeskFrame",
+			"Row": "OfficeDeskFrame",
+			"FriendlyName": "Frame",
+			"Categories":
+			[ 8, 7 ],
+			"RequiredAmount": 20
+		},
+		{
+			"RowName": "CounterCupboards",
+			"Row": "CounterCupboards",
+			"FriendlyName": "Frame",
+			"Categories":
+			[ 8, 7 ],
+			"RequiredAmount": 20
+		},
+		{
+			"RowName": "CounterTop",
+			"Row": "CounterTop",
+			"FriendlyName": "Counter Top",
+			"Categories":
+			[ 8, 7, 11 ],
+			"RequiredAmount": 5
+		},
+		{
+			"RowName": "CoffeeTableFrame",
+			"Row": "CoffeeTableFrame",
+			"FriendlyName": "Frame",
+			"Categories":
+			[ 8, 7 ],
+			"RequiredAmount": 10
+		},
+		{
+			"RowName": "VanityFrame",
+			"Row": "VanityFrame",
+			"FriendlyName": "Frame",
+			"Categories":
+			[ 8, 7 ],
+			"RequiredAmount": 20
+		},
+		{
+			"RowName": "BookcaseFrameShort",
+			"Row": "BookcaseFrameShort",
+			"FriendlyName": "Frame",
+			"Categories":
+			[ 8, 7 ],
+			"RequiredAmount": 5
+		},
+		{
+			"RowName": "BookcaseFrameTall",
+			"Row": "BookcaseFrameTall",
+			"FriendlyName": "Frame",
+			"Categories":
+			[ 8, 7 ],
+			"RequiredAmount": 10
+		},
+		{
+			"RowName": "DresserFrame",
+			"Row": "DresserFrame",
+			"FriendlyName": "Frame",
+			"Categories":
+			[ 8, 7 ],
+			"RequiredAmount": 20
+		},
+		{
+			"RowName": "CupboardFrame",
+			"Row": "CupboardFrame",
+			"FriendlyName": "Frame",
+			"Categories":
+			[ 8, 7 ],
+			"RequiredAmount": 20
+		},
+		{
+			"RowName": "Fridge",
+			"Row": "Fridge",
+			"FriendlyName": "Fridge",
+			"Categories":
+			[ 8, 7 ],
+			"RequiredAmount": 20
+		},
+		{
+			"RowName": "WardrobeFrame",
+			"Row": "WardrobeFrame",
+			"FriendlyName": "Frame",
+			"Categories":
+			[ 8, 7 ],
+			"RequiredAmount": 20
+		},
+		{
+			"RowName": "PlushieFabric",
+			"Row": "PlushieFabric",
+			"FriendlyName": "Fabric",
+			"Categories":
+			[ 11, 7, 8 ],
+			"RequiredAmount": 1
+		},
+		{
+			"RowName": "KitchenCupboards",
+			"Row": "KitchenCupboards",
+			"FriendlyName": "Kitchen Cupboards",
+			"Categories":
+			[ 7, 8 ],
+			"RequiredAmount": 10
+		},
+		{
+			"RowName": "KitchenWasher",
+			"Row": "KitchenWasher",
+			"FriendlyName": "Dishwasher",
+			"Categories":
+			[ 7 ],
+			"RequiredAmount": 2
+		},
+		{
+			"RowName": "KitchenSink",
+			"Row": "KitchenSink",
+			"FriendlyName": "Kitchen Sink",
+			"Categories":
+			[ 7 ],
+			"RequiredAmount": 5
+		},
+		{
+			"RowName": "Kitchen_Counter",
+			"Row": "Kitchen_Counter",
+			"FriendlyName": "Kitchen Counter",
+			"Categories":
+			[ 7, 8 ],
+			"RequiredAmount": 5
+		},
+		{
+			"RowName": "KitchenStove",
+			"Row": "KitchenStove",
+			"FriendlyName": "Kitchen Stove",
+			"Categories":
+			[ 7, 8 ],
+			"RequiredAmount": 5
+		},
+		{
+			"RowName": "Fabric_1",
+			"Row": "Fabric_1",
+			"FriendlyName": "Main Fabric",
+			"Categories":
+			[ 11 ],
+			"RequiredAmount": 1
+		},
+		{
+			"RowName": "Fabric_2",
+			"Row": "Fabric_2",
+			"FriendlyName": "Under Shirt",
+			"Categories":
+			[ 11 ],
+			"RequiredAmount": 1
+		},
+		{
+			"RowName": "Fabric_3",
+			"Row": "Fabric_3",
+			"FriendlyName": "Belt",
+			"Categories":
+			[ 11 ],
+			"RequiredAmount": 1
+		},
+		{
+			"RowName": "Fabric_4",
+			"Row": "Fabric_4",
+			"FriendlyName": "Buttons",
+			"Categories":
+			[ 7 ],
+			"RequiredAmount": 1
+		},
+		{
+			"RowName": "Fabric_5",
+			"Row": "Fabric_5",
+			"FriendlyName": "Tie",
+			"Categories":
+			[ 11 ],
+			"RequiredAmount": 1
+		},
+		{
+			"RowName": "Shed_Outside",
+			"Row": "Shed_Outside",
+			"FriendlyName": "Outside Wall",
+			"Categories":
+			[ 14, 7, 8 ],
+			"RequiredAmount": 5
+		},
+		{
+			"RowName": "Shed_Inside_Wall",
+			"Row": "Shed_Inside_Wall",
+			"FriendlyName": "Inside Wall",
+			"Categories":
+			[ 14, 7, 8 ],
+			"RequiredAmount": 1
+		},
+		{
+			"RowName": "Shed_Trim",
+			"Row": "Shed_Trim",
+			"FriendlyName": "Shed Trim",
+			"Categories":
+			[ 14, 7, 8 ],
+			"RequiredAmount": 1
+		},
+		{
+			"RowName": "Shed_Window_Frame",
+			"Row": "Shed_Window_Frame",
+			"FriendlyName": "Window Frame",
+			"Categories":
+			[ 14, 7, 8 ],
+			"RequiredAmount": 1
+		},
+		{
+			"RowName": "Shed_Roof",
+			"Row": "Shed_Roof",
+			"FriendlyName": "Roof",
+			"Categories":
+			[ 14, 7, 8 ],
+			"RequiredAmount": 2
+		},
+		{
+			"RowName": "Shed_Floor",
+			"Row": "Shed_Floor",
+			"FriendlyName": "Shed Floor",
+			"Categories":
+			[ 14, 7, 8 ],
+			"RequiredAmount": 1
+		},
+		{
+			"RowName": "Shed_Door",
+			"Row": "Shed_Door",
+			"FriendlyName": "Door",
+			"Categories":
+			[ 14, 7, 8 ],
+			"RequiredAmount": 1
+		},
+		{
+			"RowName": "Shed_Knob",
+			"Row": "Shed_Knob",
+			"FriendlyName": "Door Knob",
+			"Categories":
+			[ 14, 7, 8 ],
+			"RequiredAmount": 1
+		},
+		{
+			"RowName": "Tile_Slot",
+			"Row": "Tile_Slot",
+			"FriendlyName": "Tile",
+			"Categories":
+			[ 14, 7, 8 ],
+			"RequiredAmount": 1
+		},
+		{
+			"RowName": "Curtain",
+			"Row": "Curtain",
+			"FriendlyName": "Curtain",
+			"Categories":
+			[ 11 ],
+			"RequiredAmount": 1
+		},
+		{
+			"RowName": "Curtain_Rod",
+			"Row": "Curtain_Rod",
+			"FriendlyName": "Rod",
+			"Categories":
+			[ 14, 7, 8 ],
+			"RequiredAmount": 1
+		},
+		{
+			"RowName": "Wall",
+			"Row": "Wall",
+			"FriendlyName": "Wall",
+			"Categories":
+			[ 14, 7, 8 ],
+			"RequiredAmount": 10
+		},
+		{
+			"RowName": "Table_Cloth",
+			"Row": "Table_Cloth",
+			"FriendlyName": "Table Cloth",
+			"Categories":
+			[ 11 ],
+			"RequiredAmount": 1
+		},
+		{
+			"RowName": "Table_Cloth_Border",
+			"Row": "Table_Cloth_Border",
+			"FriendlyName": "Table Cloth Border",
+			"Categories":
+			[ 11 ],
+			"RequiredAmount": 1
+		},
+		{
+			"RowName": "Chair_Cushion",
+			"Row": "Chair_Cushion",
+			"FriendlyName": "Chair Cushion",
+			"Categories":
+			[ 11 ],
+			"RequiredAmount": 1
+		},
+		{
+			"RowName": "Wallpaper",
+			"Row": "Wallpaper",
+			"FriendlyName": "Wallpaper",
+			"Categories":
+			[ 14, 7, 8 ],
+			"RequiredAmount": 5
+		},
+		{
+			"RowName": "BirdHouseBody",
+			"Row": "BirdHouseBody",
+			"FriendlyName": "Bird House",
+			"Categories":
+			[ 14, 7, 8 ],
+			"RequiredAmount": 5
+		},
+		{
+			"RowName": "BirdHouseDoor",
+			"Row": "BirdHouseDoor",
+			"FriendlyName": "Bird House Door",
+			"Categories":
+			[ 14, 7, 8 ],
+			"RequiredAmount": 1
+		},
+		{
+			"RowName": "BirdHouseRoof",
+			"Row": "BirdHouseRoof",
+			"FriendlyName": "Bird House Roof",
+			"Categories":
+			[ 14, 7, 8 ],
+			"RequiredAmount": 2
+		},
+		{
+			"RowName": "ShelfTop",
+			"Row": "ShelfTop",
+			"FriendlyName": "Shelf Top",
+			"Categories":
+			[ 7, 8 ],
+			"RequiredAmount": 2
+		},
+		{
+			"RowName": "ShelfFrame",
+			"Row": "ShelfFrame",
+			"FriendlyName": "Shelf Frame",
+			"Categories":
+			[ 7, 8 ],
+			"RequiredAmount": 2
+		},
+		{
+			"RowName": "Cabinet",
+			"Row": "Cabinet",
+			"FriendlyName": "Cabinet",
+			"Categories":
+			[ 14, 7, 8 ],
+			"RequiredAmount": 20
+		},
+		{
+			"RowName": "StoneLatern",
+			"Row": "StoneLatern",
+			"FriendlyName": "Stone Lantern",
+			"Categories":
+			[ 7, 8 ],
+			"RequiredAmount": 20
+		},
+		{
+			"RowName": "OutdoorSwing",
+			"Row": "OutdoorSwing",
+			"FriendlyName": "Swing Frame",
+			"Categories":
+			[ 7, 8 ],
+			"RequiredAmount": 50
+		},
+		{
+			"RowName": "Swing_Chain",
+			"Row": "Swing_Chain",
+			"FriendlyName": "Swing Chain",
+			"Categories":
+			[ 7 ],
+			"RequiredAmount": 10
+		},
+		{
+			"RowName": "Swing_Cover",
+			"Row": "Swing_Cover",
+			"FriendlyName": "Swing Cover",
+			"Categories":
+			[ 11 ],
+			"RequiredAmount": 1
+		},
+		{
+			"RowName": "Lamp",
+			"Row": "Lamp",
+			"FriendlyName": "Lamp",
+			"Categories":
+			[ 7, 14 ],
+			"RequiredAmount": 5
+		},
+		{
+			"RowName": "Lamp_Cover",
+			"Row": "Lamp_Cover",
+			"FriendlyName": "Lamp Cover",
+			"Categories":
+			[ 14 ],
+			"RequiredAmount": 2
+		},
+		{
+			"RowName": "OvenMitts",
+			"Row": "OvenMitts",
+			"FriendlyName": "Oven Mitts",
+			"Categories":
+			[ 11 ],
+			"RequiredAmount": 1
+		},
+		{
+			"RowName": "Fabric_6",
+			"Row": "Fabric_6",
+			"FriendlyName": "Frills",
+			"Categories":
+			[ 11 ],
+			"RequiredAmount": 1
+		},
+		{
+			"RowName": "Fabric_7",
+			"Row": "Fabric_7",
+			"FriendlyName": "Skirt",
+			"Categories":
+			[ 11 ],
+			"RequiredAmount": 1
+		},
+		{
+			"RowName": "Fabric_8",
+			"Row": "Fabric_8",
+			"FriendlyName": "Bows",
+			"Categories":
+			[ 11 ],
+			"RequiredAmount": 1
+		},
+		{
+			"RowName": "Fabric_9",
+			"Row": "Fabric_9",
+			"FriendlyName": "Sleeves",
+			"Categories":
+			[ 11 ],
+			"RequiredAmount": 1
+		},
+		{
+			"RowName": "Crib_Frame",
+			"Row": "Crib_Frame",
+			"FriendlyName": "Crib Frame",
+			"Categories":
+			[ 8, 7 ],
+			"RequiredAmount": 20
+		},
+		{
+			"RowName": "Crib_Pillow",
+			"Row": "Crib_Pillow",
+			"FriendlyName": "Crib Pillow",
+			"Categories":
+			[ 11 ],
+			"RequiredAmount": 1
+		},
+		{
+			"RowName": "Crib_Bed_Sheets",
+			"Row": "Crib_Bed_Sheets",
+			"FriendlyName": "Crib Bed Sheets",
+			"Categories":
+			[ 11 ],
+			"RequiredAmount": 1
+		}
+	]
+}

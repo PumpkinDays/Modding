@@ -1,0 +1,9 @@
+/*
+
+!.gitignore
+!README.md
+
+!Modding
+
+*.uasset
+*.json

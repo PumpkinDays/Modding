@@ -1,0 +1,19 @@
+{
+	"Rows": 
+	[
+		{
+			"RowName": "Fox",
+			"AnimalClass": "BlueprintGeneratedClass'/Game/Blueprints/Wild_Animals/Wild_Fox.Wild_Fox_C'",
+			"ScareRadius": 2800,
+			"SeePlayerDistance": 2500,
+			"ZSpawnOffset": 44
+		},
+		{
+			"RowName": "Deer",
+			"AnimalClass": "BlueprintGeneratedClass'/Game/Blueprints/Wild_Animals/Wild_Deer.Wild_Deer_C'",
+			"ScareRadius": 1000,
+			"SeePlayerDistance": 1500,
+			"ZSpawnOffset": 80
+		}
+	]
+}

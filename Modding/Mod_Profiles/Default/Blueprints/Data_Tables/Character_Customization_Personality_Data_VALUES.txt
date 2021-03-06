@@ -1,0 +1,130 @@
+{
+	"Rows": 
+	[
+		{
+			"RowName": "Idle",
+			"Animation": "AnimSequence'/Game/Character/Animations/Idle.Idle'",
+			"LargeVersion": "None",
+			"LargeVersionConditions":
+			[]
+		},
+		{
+			"RowName": "Anxious",
+			"Animation": "AnimSequence'/Game/Character/Animations/Anxious.Anxious'",
+			"LargeVersion": "AnimSequence'/Game/Character/Animations/Anxious_Large.Anxious_Large'",
+			"LargeVersionConditions":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"SliderType": 1,
+						"Value": 0.60000002384185791
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"SliderType": 0,
+						"Value": 0.80000001192092896
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Confident",
+			"Animation": "AnimSequence'/Game/Character/Animations/Authority.Authority'",
+			"LargeVersion": "AnimSequence'/Game/Character/Animations/Authority_Large.Authority_Large'",
+			"LargeVersionConditions":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"SliderType": 0,
+						"Value": 0.60000002384185791
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Bored",
+			"Animation": "AnimSequence'/Game/Character/Animations/Bored.Bored'",
+			"LargeVersion": "None",
+			"LargeVersionConditions":
+			[]
+		},
+		{
+			"RowName": "Cool",
+			"Animation": "AnimSequence'/Game/Character/Animations/Cool.Cool'",
+			"LargeVersion": "AnimSequence'/Game/Character/Animations/Cool_Large.Cool_Large'",
+			"LargeVersionConditions":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"SliderType": 0,
+						"Value": 0.40000000596046448
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Cute",
+			"Animation": "AnimSequence'/Game/Character/Animations/Cute.Cute'",
+			"LargeVersion": "AnimSequence'/Game/Character/Animations/Cute_Large.Cute_Large'",
+			"LargeVersionConditions":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"SliderType": 1,
+						"Value": 0.5
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Goofy",
+			"Animation": "AnimSequence'/Game/Character/Animations/Goofy.Goofy'",
+			"LargeVersion": "None",
+			"LargeVersionConditions":
+			[]
+		},
+		{
+			"RowName": "Innocent",
+			"Animation": "AnimSequence'/Game/Character/Animations/Innocent.Innocent'",
+			"LargeVersion": "AnimSequence'/Game/Character/Animations/Innocent_Large.Innocent_Large'",
+			"LargeVersionConditions":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"SliderType": 0,
+						"Value": 0.44999998807907104
+					}
+				}
+			]
+		},
+		{
+			"RowName": "Shy",
+			"Animation": "AnimSequence'/Game/Character/Animations/Shy.Shy'",
+			"LargeVersion": "AnimSequence'/Game/Character/Animations/Shy_Large.Shy_Large'",
+			"LargeVersionConditions":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"SliderType": 0,
+						"Value": 0.60000002384185791
+					}
+				}
+			]
+		}
+	]
+}

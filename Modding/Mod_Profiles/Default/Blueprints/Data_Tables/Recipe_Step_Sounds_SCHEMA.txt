@@ -1,0 +1,3 @@
+Recipe_Step_Sounds Structure:
+
+SoundProperty: USoundBase*

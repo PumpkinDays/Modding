@@ -1,0 +1,8 @@
+Relationship_Tier_Data Structure:
+
+Tier: integer
+HeartColor: 
+	B: uint8
+	G: uint8
+	R: uint8
+	A: uint8

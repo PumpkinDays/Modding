@@ -1,0 +1,3 @@
+New_Wood_Ore_Textures_Carpentry Structure:
+
+TextureProperty: TAssetPtr<UTexture2D>

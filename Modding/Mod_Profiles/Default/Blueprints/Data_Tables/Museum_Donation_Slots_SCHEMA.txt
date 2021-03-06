@@ -1,0 +1,14 @@
+Museum_Donation_Slots Structure:
+
+ItemScale: 
+	X: float
+	Y: float
+	Z: float
+ItemRotation: 
+	Pitch: float
+	Yaw: float
+	Roll: float
+LocationOffset: 
+	X: float
+	Y: float
+	Z: float

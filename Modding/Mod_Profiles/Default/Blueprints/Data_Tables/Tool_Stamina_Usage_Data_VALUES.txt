@@ -1,0 +1,469 @@
+{
+	"Rows": 
+	[
+		{
+			"RowName": "Hoe",
+			"StaminaRequirement": 3
+		},
+		{
+			"RowName": "Watering_Can",
+			"StaminaRequirement": 4
+		},
+		{
+			"RowName": "Seeds",
+			"StaminaRequirement": 1
+		},
+		{
+			"RowName": "Hammer",
+			"StaminaRequirement": 3
+		},
+		{
+			"RowName": "Sickle",
+			"StaminaRequirement": 5
+		},
+		{
+			"RowName": "Bucket",
+			"StaminaRequirement": 2
+		},
+		{
+			"RowName": "Shears",
+			"StaminaRequirement": 2
+		},
+		{
+			"RowName": "Axe",
+			"StaminaRequirement": 5
+		},
+		{
+			"RowName": "Bug_Net",
+			"StaminaRequirement": 2
+		},
+		{
+			"RowName": "Pickaxe",
+			"StaminaRequirement": 5
+		},
+		{
+			"RowName": "Shovel",
+			"StaminaRequirement": 5
+		},
+		{
+			"RowName": "Brush",
+			"StaminaRequirement": 4
+		},
+		{
+			"RowName": "Hoe_Wooden",
+			"StaminaRequirement": 2
+		},
+		{
+			"RowName": "Hoe_Copper",
+			"StaminaRequirement": 2
+		},
+		{
+			"RowName": "Hoe_Iron",
+			"StaminaRequirement": 2
+		},
+		{
+			"RowName": "Hoe_Silver",
+			"StaminaRequirement": 2
+		},
+		{
+			"RowName": "Hoe_Gold",
+			"StaminaRequirement": 1
+		},
+		{
+			"RowName": "Hoe_Steel",
+			"StaminaRequirement": 1
+		},
+		{
+			"RowName": "Hoe_Titanium",
+			"StaminaRequirement": 1
+		},
+		{
+			"RowName": "Hoe_Uranium",
+			"StaminaRequirement": 1
+		},
+		{
+			"RowName": "Hoe_Diamond",
+			"StaminaRequirement": 1
+		},
+		{
+			"RowName": "Hoe_Meteor",
+			"StaminaRequirement": 0
+		},
+		{
+			"RowName": "Watering_Can_Wooden",
+			"StaminaRequirement": 3
+		},
+		{
+			"RowName": "Watering_Can_Copper",
+			"StaminaRequirement": 2
+		},
+		{
+			"RowName": "Watering_Can_Iron",
+			"StaminaRequirement": 2
+		},
+		{
+			"RowName": "Watering_Can_Silver",
+			"StaminaRequirement": 1
+		},
+		{
+			"RowName": "Watering_Can_Gold",
+			"StaminaRequirement": 1
+		},
+		{
+			"RowName": "Watering_Can_Steel",
+			"StaminaRequirement": 1
+		},
+		{
+			"RowName": "Watering_Can_Titanium",
+			"StaminaRequirement": 1
+		},
+		{
+			"RowName": "Watering_Can_Uranium",
+			"StaminaRequirement": 1
+		},
+		{
+			"RowName": "Watering_Can_Diamond",
+			"StaminaRequirement": 1
+		},
+		{
+			"RowName": "Watering_Can_Meteor",
+			"StaminaRequirement": 0
+		},
+		{
+			"RowName": "Shears_Wooden",
+			"StaminaRequirement": 4
+		},
+		{
+			"RowName": "Shears_Copper",
+			"StaminaRequirement": 4
+		},
+		{
+			"RowName": "Shears_Iron",
+			"StaminaRequirement": 4
+		},
+		{
+			"RowName": "Shears_Silver",
+			"StaminaRequirement": 3
+		},
+		{
+			"RowName": "Shears_Gold",
+			"StaminaRequirement": 3
+		},
+		{
+			"RowName": "Shears_Steel",
+			"StaminaRequirement": 3
+		},
+		{
+			"RowName": "Shears_Titanium",
+			"StaminaRequirement": 2
+		},
+		{
+			"RowName": "Shears_Uranium",
+			"StaminaRequirement": 2
+		},
+		{
+			"RowName": "Shears_Diamond",
+			"StaminaRequirement": 2
+		},
+		{
+			"RowName": "Shears_Meteor",
+			"StaminaRequirement": 0
+		},
+		{
+			"RowName": "Axe_Wooden",
+			"StaminaRequirement": 5
+		},
+		{
+			"RowName": "Axe_Copper",
+			"StaminaRequirement": 4.5
+		},
+		{
+			"RowName": "Axe_Iron",
+			"StaminaRequirement": 4
+		},
+		{
+			"RowName": "Axe_Silver",
+			"StaminaRequirement": 3.5
+		},
+		{
+			"RowName": "Axe_Gold",
+			"StaminaRequirement": 3
+		},
+		{
+			"RowName": "Axe_Steel",
+			"StaminaRequirement": 2.5
+		},
+		{
+			"RowName": "Axe_Titanium",
+			"StaminaRequirement": 2
+		},
+		{
+			"RowName": "Axe_Uranium",
+			"StaminaRequirement": 1.5
+		},
+		{
+			"RowName": "Axe_Diamond",
+			"StaminaRequirement": 1
+		},
+		{
+			"RowName": "Axe_Meteor",
+			"StaminaRequirement": 0
+		},
+		{
+			"RowName": "Pickaxe_Wooden",
+			"StaminaRequirement": 4
+		},
+		{
+			"RowName": "Pickaxe_Copper",
+			"StaminaRequirement": 4
+		},
+		{
+			"RowName": "Pickaxe_Iron",
+			"StaminaRequirement": 3
+		},
+		{
+			"RowName": "Pickaxe_Silver",
+			"StaminaRequirement": 3
+		},
+		{
+			"RowName": "Pickaxe_Gold",
+			"StaminaRequirement": 2
+		},
+		{
+			"RowName": "Pickaxe_Steel",
+			"StaminaRequirement": 2
+		},
+		{
+			"RowName": "Pickaxe_Titanium",
+			"StaminaRequirement": 1
+		},
+		{
+			"RowName": "Pickaxe_Uranium",
+			"StaminaRequirement": 1
+		},
+		{
+			"RowName": "Pickaxe_Diamond",
+			"StaminaRequirement": 1
+		},
+		{
+			"RowName": "Pickaxe_Meteor",
+			"StaminaRequirement": 0
+		},
+		{
+			"RowName": "Fishing_Rod_Wooden",
+			"StaminaRequirement": 5
+		},
+		{
+			"RowName": "Fishing_Rod_Copper",
+			"StaminaRequirement": 5
+		},
+		{
+			"RowName": "Fishing_Rod_Iron",
+			"StaminaRequirement": 5
+		},
+		{
+			"RowName": "Fishing_Rod_Silver",
+			"StaminaRequirement": 4
+		},
+		{
+			"RowName": "Fishing_Rod_Gold",
+			"StaminaRequirement": 4
+		},
+		{
+			"RowName": "Fishing_Rod_Steel",
+			"StaminaRequirement": 3
+		},
+		{
+			"RowName": "Fishing_Rod_Titanium",
+			"StaminaRequirement": 3
+		},
+		{
+			"RowName": "Fishing_Rod_Uranium",
+			"StaminaRequirement": 2
+		},
+		{
+			"RowName": "Fishing_Rod_Diamond",
+			"StaminaRequirement": 2
+		},
+		{
+			"RowName": "Fishing_Rod_Meteor",
+			"StaminaRequirement": 0
+		},
+		{
+			"RowName": "Shovel_Wooden",
+			"StaminaRequirement": 6
+		},
+		{
+			"RowName": "Shovel_Copper",
+			"StaminaRequirement": 6
+		},
+		{
+			"RowName": "Shovel_Iron",
+			"StaminaRequirement": 5
+		},
+		{
+			"RowName": "Shovel_Silver",
+			"StaminaRequirement": 5
+		},
+		{
+			"RowName": "Shovel_Gold",
+			"StaminaRequirement": 4
+		},
+		{
+			"RowName": "Shovel_Steel",
+			"StaminaRequirement": 4
+		},
+		{
+			"RowName": "Shovel_Titanium",
+			"StaminaRequirement": 3
+		},
+		{
+			"RowName": "Shovel_Uranium",
+			"StaminaRequirement": 3
+		},
+		{
+			"RowName": "Shovel_Diamond",
+			"StaminaRequirement": 2
+		},
+		{
+			"RowName": "Shovel_Meteor",
+			"StaminaRequirement": 0
+		},
+		{
+			"RowName": "Brush_Wooden",
+			"StaminaRequirement": 5
+		},
+		{
+			"RowName": "Brush_Copper",
+			"StaminaRequirement": 5
+		},
+		{
+			"RowName": "Brush_Iron",
+			"StaminaRequirement": 4
+		},
+		{
+			"RowName": "Brush_Silver",
+			"StaminaRequirement": 4
+		},
+		{
+			"RowName": "Brush_Gold",
+			"StaminaRequirement": 4
+		},
+		{
+			"RowName": "Brush_Steel",
+			"StaminaRequirement": 3
+		},
+		{
+			"RowName": "Brush_Titanium",
+			"StaminaRequirement": 3
+		},
+		{
+			"RowName": "Brush_Uranium",
+			"StaminaRequirement": 3
+		},
+		{
+			"RowName": "Brush_Diamond",
+			"StaminaRequirement": 2
+		},
+		{
+			"RowName": "Brush_Meteor",
+			"StaminaRequirement": 0
+		},
+		{
+			"RowName": "Seeds_Wooden",
+			"StaminaRequirement": 2
+		},
+		{
+			"RowName": "Quest_Brush",
+			"StaminaRequirement": 0
+		},
+		{
+			"RowName": "Quest_Shovel",
+			"StaminaRequirement": 0
+		},
+		{
+			"RowName": "Sickle_Wooden",
+			"StaminaRequirement": 5
+		},
+		{
+			"RowName": "Sickle_Copper",
+			"StaminaRequirement": 5
+		},
+		{
+			"RowName": "Sickle_Iron",
+			"StaminaRequirement": 4
+		},
+		{
+			"RowName": "Sickle_Silver",
+			"StaminaRequirement": 3
+		},
+		{
+			"RowName": "Sickle_Gold",
+			"StaminaRequirement": 2
+		},
+		{
+			"RowName": "Sickle_Steel",
+			"StaminaRequirement": 2
+		},
+		{
+			"RowName": "Sickle_Titanium",
+			"StaminaRequirement": 1
+		},
+		{
+			"RowName": "Sickle_Uranium",
+			"StaminaRequirement": 1
+		},
+		{
+			"RowName": "Sickle_Diamond",
+			"StaminaRequirement": 1
+		},
+		{
+			"RowName": "Sickle_Meteor",
+			"StaminaRequirement": 0
+		},
+		{
+			"RowName": "Fertilizer",
+			"StaminaRequirement": 0
+		},
+		{
+			"RowName": "Bug_Net_Wooden",
+			"StaminaRequirement": 2
+		},
+		{
+			"RowName": "Bug_Net_Copper",
+			"StaminaRequirement": 2
+		},
+		{
+			"RowName": "Bug_Net_Iron",
+			"StaminaRequirement": 2
+		},
+		{
+			"RowName": "Bug_Net_Silver",
+			"StaminaRequirement": 2
+		},
+		{
+			"RowName": "Bug_Net_Gold",
+			"StaminaRequirement": 2
+		},
+		{
+			"RowName": "Bug_Net_Steel",
+			"StaminaRequirement": 1
+		},
+		{
+			"RowName": "Bug_Net_Titanium",
+			"StaminaRequirement": 1
+		},
+		{
+			"RowName": "Bug_Net_Uranium",
+			"StaminaRequirement": 1
+		},
+		{
+			"RowName": "Bug_Net_Diamond",
+			"StaminaRequirement": 1
+		},
+		{
+			"RowName": "Bug_Net_Meteor",
+			"StaminaRequirement": 0
+		}
+	]
+}

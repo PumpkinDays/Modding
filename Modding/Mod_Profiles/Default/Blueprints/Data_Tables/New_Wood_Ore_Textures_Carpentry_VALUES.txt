@@ -1,0 +1,205 @@
+{
+	"Rows": 
+	[
+		{
+			"RowName": "Marble_Block",
+			"TextureProperty": "/Game/Textures/Patterns/Stone/Marble_White_D.Marble_White_D"
+		},
+		{
+			"RowName": "Bamboo",
+			"TextureProperty": "/Game/Textures/Patterns/Wood/Wood_Bamboo_Pattern_Green_D.Wood_Bamboo_Pattern_Green_D"
+		},
+		{
+			"RowName": "Brown_Wood_Planks",
+			"TextureProperty": "/Game/Textures/Patterns/Wood/Wood_Grain/Wood_Grain_Pattern_Painted_Brown.Wood_Grain_Pattern_Painted_Brown"
+		},
+		{
+			"RowName": "Dark_Wood_Planks",
+			"TextureProperty": "/Game/Textures/Patterns/Wood/Wood_Grain/Wood_Grain_Pattern_Painted_Dark_Brown.Wood_Grain_Pattern_Painted_Dark_Brown"
+		},
+		{
+			"RowName": "Orange_Wood_Planks",
+			"TextureProperty": "/Game/Textures/Patterns/Wood/Wood_Grain_Orange_Pattern_.Wood_Grain_Orange_Pattern_"
+		},
+		{
+			"RowName": "Peach_Wood_Planks",
+			"TextureProperty": "/Game/Textures/Patterns/Wood/Wood_Grain/Wood_Grain_Pattern_Painted_Peach.Wood_Grain_Pattern_Painted_Peach"
+		},
+		{
+			"RowName": "Rose_Wood_Planks",
+			"TextureProperty": "/Game/Textures/Patterns/Wood/Wood_Grain_Pattern_Painted_Rose.Wood_Grain_Pattern_Painted_Rose"
+		},
+		{
+			"RowName": "Smoky_Wood_Planks",
+			"TextureProperty": "/Game/Textures/Patterns/Wood/Wood_Grain/Wood_Grain_Pattern_Painted_Smoky.Wood_Grain_Pattern_Painted_Smoky"
+		},
+		{
+			"RowName": "Cassiterite_Bar",
+			"TextureProperty": "/Game/Textures/Patterns/Stone/Cassiterite_D.Cassiterite_D"
+		},
+		{
+			"RowName": "Granite_Block",
+			"TextureProperty": "/Game/Textures/Patterns/Stone/Granite_D.Granite_D"
+		},
+		{
+			"RowName": "Agate_Polished",
+			"TextureProperty": "/Game/Textures/Patterns/Stone/Agate_D.Agate_D"
+		},
+		{
+			"RowName": "Alabaster_Polished",
+			"TextureProperty": "/Game/Textures/Patterns/Stone/Alabaster_D.Alabaster_D"
+		},
+		{
+			"RowName": "Amazonite_Polished",
+			"TextureProperty": "/Game/Textures/Patterns/Stone/Amazonite_D.Amazonite_D"
+		},
+		{
+			"RowName": "Ammolite_Polished",
+			"TextureProperty": "/Game/Textures/Patterns/Stone/Ammolite_D.Ammolite_D"
+		},
+		{
+			"RowName": "Bloodstone_Polished",
+			"TextureProperty": "/Game/Textures/Patterns/Stone/Bloodstone_D.Bloodstone_D"
+		},
+		{
+			"RowName": "Bone_Polished",
+			"TextureProperty": "/Game/Textures/Patterns/Stone/Bone_D.Bone_D"
+		},
+		{
+			"RowName": "Carnilian_Polished",
+			"TextureProperty": "/Game/Textures/Patterns/Stone/Carnilian_D.Carnilian_D"
+		},
+		{
+			"RowName": "Chrysocolla_Polished",
+			"TextureProperty": "/Game/Textures/Patterns/Stone/Chrysocolla_D.Chrysocolla_D"
+		},
+		{
+			"RowName": "Chrysoprase_Polished",
+			"TextureProperty": "/Game/Textures/Patterns/Stone/Chrysoprase_D.Chrysoprase_D"
+		},
+		{
+			"RowName": "Comet_Polished",
+			"TextureProperty": "/Game/Textures/Patterns/Stone/Comet_D.Comet_D"
+		},
+		{
+			"RowName": "Conundrum_Polished",
+			"TextureProperty": "/Game/Textures/Patterns/Stone/Conundrum_D.Conundrum_D"
+		},
+		{
+			"RowName": "Feldspar_Block",
+			"TextureProperty": "/Game/Textures/Patterns/Stone/Feldspar_D.Feldspar_D"
+		},
+		{
+			"RowName": "Hematite_Polished",
+			"TextureProperty": "/Game/Textures/Patterns/Stone/Hematite_D.Hematite_D"
+		},
+		{
+			"RowName": "Jade_Polished",
+			"TextureProperty": "/Game/Textures/Patterns/Stone/Jade_D.Jade_D"
+		},
+		{
+			"RowName": "Jasper_Polished",
+			"TextureProperty": "/Game/Textures/Patterns/Stone/Jasper_D.Jasper_D"
+		},
+		{
+			"RowName": "Jet_Polished",
+			"TextureProperty": "/Game/Textures/Unique/Gems_Ores/Polished_Stone_Jet_D.Polished_Stone_Jet_D"
+		},
+		{
+			"RowName": "Lapis_Lazuli_Polished",
+			"TextureProperty": "/Game/Textures/Patterns/Stone/Lapis_Lazuli_D.Lapis_Lazuli_D"
+		},
+		{
+			"RowName": "Larimar_Polished",
+			"TextureProperty": "/Game/Textures/Patterns/Stone/Larimar_D.Larimar_D"
+		},
+		{
+			"RowName": "Malachite_Polished",
+			"TextureProperty": "/Game/Textures/Patterns/Stone/Malachite_D.Malachite_D"
+		},
+		{
+			"RowName": "Moonstone_Polished",
+			"TextureProperty": "/Game/Textures/Patterns/Stone/Moonstone_D.Moonstone_D"
+		},
+		{
+			"RowName": "Obsidian_Polished",
+			"TextureProperty": "/Game/Textures/Patterns/Stone/Obsidian_D.Obsidian_D"
+		},
+		{
+			"RowName": "Onyx_Polished",
+			"TextureProperty": "/Game/Textures/Patterns/Stone/Onyx_D.Onyx_D"
+		},
+		{
+			"RowName": "Opal_Polished",
+			"TextureProperty": "/Game/Textures/Patterns/Stone/Opal_D.Opal_D"
+		},
+		{
+			"RowName": "Petrified_Wood_Polished",
+			"TextureProperty": "/Game/Textures/Patterns/Stone/Petrified_Wood_D.Petrified_Wood_D"
+		},
+		{
+			"RowName": "Philosopher_Stone_Polished",
+			"TextureProperty": "/Game/Textures/Patterns/Stone/Philospher_Stone_D.Philospher_Stone_D"
+		},
+		{
+			"RowName": "Porphyry_Polished",
+			"TextureProperty": "/Game/Textures/Patterns/Stone/Porphyry_D.Porphyry_D"
+		},
+		{
+			"RowName": "Prehnite_Polished",
+			"TextureProperty": "/Game/Textures/Patterns/Stone/Prehnite_D.Prehnite_D"
+		},
+		{
+			"RowName": "Rhodochrosite_Polished",
+			"TextureProperty": "/Game/Textures/Patterns/Stone/Rhodochrosite_D.Rhodochrosite_D"
+		},
+		{
+			"RowName": "Rose_Quartz_Polished",
+			"TextureProperty": "/Game/Textures/Patterns/Stone/Rose_Quartz_D.Rose_Quartz_D"
+		},
+		{
+			"RowName": "Sardonyx_Polished",
+			"TextureProperty": "/Game/Textures/Patterns/Stone/Sardonyx_D.Sardonyx_D"
+		},
+		{
+			"RowName": "Sodalite_Polished",
+			"TextureProperty": "/Game/Textures/Patterns/Stone/Sodalite_D.Sodalite_D"
+		},
+		{
+			"RowName": "Sugulite_Polished",
+			"TextureProperty": "/Game/Textures/Patterns/Stone/Sugulite_D.Sugulite_D"
+		},
+		{
+			"RowName": "Sunstone_Polished",
+			"TextureProperty": "/Game/Textures/Patterns/Stone/Sunstone_D.Sunstone_D"
+		},
+		{
+			"RowName": "TigersEye_Polished",
+			"TextureProperty": "/Game/Textures/Patterns/Stone/Tigers_Eye_D.Tigers_Eye_D"
+		},
+		{
+			"RowName": "Unakite_Polished",
+			"TextureProperty": "/Game/Textures/Patterns/Stone/Unakite_D.Unakite_D"
+		},
+		{
+			"RowName": "Variscite_Polished",
+			"TextureProperty": "/Game/Textures/Patterns/Stone/Variscite_D.Variscite_D"
+		},
+		{
+			"RowName": "Zoisite_Polished",
+			"TextureProperty": "/Game/Textures/Patterns/Stone/Zoisite_D.Zoisite_D"
+		},
+		{
+			"RowName": "Nelsonite_Polished",
+			"TextureProperty": "/Game/Textures/Patterns/Stone/Nelsonite_D.Nelsonite_D"
+		},
+		{
+			"RowName": "Bismuth_Polished",
+			"TextureProperty": "/Game/Textures/Patterns/Stone/Bismuth_D.Bismuth_D"
+		},
+		{
+			"RowName": "Slate_Block",
+			"TextureProperty": "/Game/Textures/Patterns/Stone/Slate_D.Slate_D"
+		}
+	]
+}

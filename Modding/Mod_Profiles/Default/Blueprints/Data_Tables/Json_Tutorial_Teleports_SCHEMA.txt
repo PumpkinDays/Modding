@@ -1,0 +1,9 @@
+Json_Tutorial_Teleports Structure:
+
+Dialogue: string
+Waypoint: string
+PlayerOffset: 
+	X: float
+	Y: float
+	Z: float
+Options: TArray-FName

@@ -1,0 +1,33 @@
+{
+	"Rows": 
+	[
+		{
+			"RowName": "FlowerField",
+			"NameProperty": "Wedding_FlowerField"
+		},
+		{
+			"RowName": "Beach",
+			"NameProperty": "Wedding_Beach"
+		},
+		{
+			"RowName": "Mountaintop",
+			"NameProperty": "Wedding_Mountaintop"
+		},
+		{
+			"RowName": "WindTemple",
+			"NameProperty": "Wedding_WindTemple"
+		},
+		{
+			"RowName": "WaterTemple",
+			"NameProperty": "Wedding_Watertemple"
+		},
+		{
+			"RowName": "FireTemple",
+			"NameProperty": "Wedding_FireTemple"
+		},
+		{
+			"RowName": "Swamp",
+			"NameProperty": "Wedding_Swamp"
+		}
+	]
+}

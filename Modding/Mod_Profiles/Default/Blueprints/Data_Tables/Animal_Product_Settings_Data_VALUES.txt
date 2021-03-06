@@ -1,0 +1,83 @@
+{
+	"Rows": 
+	[
+		{
+			"RowName": "Animal_Poop",
+			"RequiresTool": true,
+			"ToolType": 11,
+			"AnimationOverride": "None"
+		},
+		{
+			"RowName": "Chicken_Egg",
+			"RequiresTool": false,
+			"ToolType": 0,
+			"AnimationOverride": "AnimSequence'/Game/Character/Animations/Pick_Up_Item.Pick_Up_Item'"
+		},
+		{
+			"RowName": "Black_Wool",
+			"RequiresTool": true,
+			"ToolType": 6,
+			"AnimationOverride": "None"
+		},
+		{
+			"RowName": "Brown_Wool",
+			"RequiresTool": true,
+			"ToolType": 6,
+			"AnimationOverride": "None"
+		},
+		{
+			"RowName": "White_Wool",
+			"RequiresTool": true,
+			"ToolType": 6,
+			"AnimationOverride": "None"
+		},
+		{
+			"RowName": "Milk",
+			"RequiresTool": false,
+			"ToolType": 0,
+			"AnimationOverride": "AnimSequence'/Game/Character/Animations/Milking.Milking'"
+		},
+		{
+			"RowName": "Truffles",
+			"RequiresTool": false,
+			"ToolType": 0,
+			"AnimationOverride": "AnimSequence'/Game/Character/Animations/PickingUpCropsLow.PickingUpCropsLow'"
+		},
+		{
+			"RowName": "Coco_Cow_Milk",
+			"RequiresTool": false,
+			"ToolType": 0,
+			"AnimationOverride": "AnimSequence'/Game/Character/Animations/Milking.Milking'"
+		},
+		{
+			"RowName": "Golden_Egg",
+			"RequiresTool": false,
+			"ToolType": 0,
+			"AnimationOverride": "AnimSequence'/Game/Character/Animations/Pick_Up_Item.Pick_Up_Item'"
+		},
+		{
+			"RowName": "Rainbow_Wool",
+			"RequiresTool": true,
+			"ToolType": 6,
+			"AnimationOverride": "None"
+		},
+		{
+			"RowName": "Goat_Milk",
+			"RequiresTool": false,
+			"ToolType": 0,
+			"AnimationOverride": "AnimSequence'/Game/Character/Animations/Milking.Milking'"
+		},
+		{
+			"RowName": "Bugs",
+			"RequiresTool": false,
+			"ToolType": 0,
+			"AnimationOverride": "AnimSequence'/Game/Character/Animations/Pick_Up_Item.Pick_Up_Item'"
+		},
+		{
+			"RowName": "Bones",
+			"RequiresTool": false,
+			"ToolType": 0,
+			"AnimationOverride": "AnimSequence'/Game/Character/Animations/Pick_Up_Item.Pick_Up_Item'"
+		}
+	]
+}

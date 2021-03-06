@@ -1,0 +1,3 @@
+Category_Options_Data Structure:
+
+Options: TArray-TEnumAsByte<EInventoryOptions>

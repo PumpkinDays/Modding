@@ -1,0 +1,41 @@
+{
+	"Rows": 
+	[
+		{
+			"RowName": "Sitting_Ground_Idle",
+			"NameProperty": "None"
+		},
+		{
+			"RowName": "Sitting_Ground",
+			"NameProperty": "None"
+		},
+		{
+			"RowName": "FishingIdle",
+			"NameProperty": "FishingIdle"
+		},
+		{
+			"RowName": "Squatting_Idle",
+			"NameProperty": "Squatting_Idle"
+		},
+		{
+			"RowName": "Fishing",
+			"NameProperty": "Fishing"
+		},
+		{
+			"RowName": "Sitting_Lounging_Back",
+			"NameProperty": "Sitting_Lounging_Back"
+		},
+		{
+			"RowName": "Cute",
+			"NameProperty": "Cute"
+		},
+		{
+			"RowName": "Crafting_bench",
+			"NameProperty": "Crafting_bench"
+		},
+		{
+			"RowName": "One_Hand_Pushup",
+			"NameProperty": "One_Hand_Pushup"
+		}
+	]
+}

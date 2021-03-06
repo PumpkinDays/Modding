@@ -1,0 +1,1400 @@
+{
+	"Rows": 
+	[
+		{
+			"RowName": "None_",
+			"Mesh": "None",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Cheek_Icons/Blank.Blank'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Stubble",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Chin/Chin_Stubble.Chin_Stubble'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Hair/beard00.beard00'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Beard",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Chin/Chin_Beard_Brown.Chin_Beard_Brown'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Hair/beard01.beard01'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Beard-White",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Chin/Chin_Beard_Brown.Chin_Beard_Brown'",
+			"MeshAsSkeleton": "None",
+			"Material": "Material'/Game/Materials/Character_Body_Parts/Chin/Beard_White.Beard_White'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Color_White_Icon.Color_White_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Beard-Grey",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Chin/Chin_Beard_Brown.Chin_Beard_Brown'",
+			"MeshAsSkeleton": "None",
+			"Material": "Material'/Game/Materials/Character_Body_Parts/Chin/Beard_Grey.Beard_Grey'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Color_Grey_Icon.Color_Grey_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Beard-Black",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Chin/Chin_Beard_Brown.Chin_Beard_Brown'",
+			"MeshAsSkeleton": "None",
+			"Material": "Material'/Game/Materials/Character_Body_Parts/Chin/Beard_Black.Beard_Black'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Color_Black_Icon.Color_Black_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Beard-Dark_Brown",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Chin/Chin_Beard_Brown.Chin_Beard_Brown'",
+			"MeshAsSkeleton": "None",
+			"Material": "Material'/Game/Materials/Character_Body_Parts/Chin/Beard_Dark_Brown.Beard_Dark_Brown'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Dark_Brown_Icon.Hair_Color_Dark_Brown_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Beard-Brown",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Chin/Chin_Beard_Brown.Chin_Beard_Brown'",
+			"MeshAsSkeleton": "None",
+			"Material": "Material'/Game/Materials/Character_Body_Parts/Chin/Beard_Brown.Beard_Brown'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Brown_Icon.Hair_Color_Brown_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Beard-Yellow",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Chin/Chin_Beard_Brown.Chin_Beard_Brown'",
+			"MeshAsSkeleton": "None",
+			"Material": "Material'/Game/Materials/Character_Body_Parts/Chin/Beard_Yellow.Beard_Yellow'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Hazel_Icon.Hair_Color_Hazel_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Beard-Blonde",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Chin/Chin_Beard_Brown.Chin_Beard_Brown'",
+			"MeshAsSkeleton": "None",
+			"Material": "Material'/Game/Materials/Character_Body_Parts/Chin/Beard_Blonde.Beard_Blonde'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Blonde_Icon.Hair_Color_Blonde_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Beard-Orange",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Chin/Chin_Beard_Brown.Chin_Beard_Brown'",
+			"MeshAsSkeleton": "None",
+			"Material": "Material'/Game/Materials/Character_Body_Parts/Chin/Beard_Orange.Beard_Orange'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Color_Orange_Icon.Color_Orange_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Beard-Dark_Red",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Chin/Chin_Beard_Brown.Chin_Beard_Brown'",
+			"MeshAsSkeleton": "None",
+			"Material": "Material'/Game/Materials/Character_Body_Parts/Chin/Beard_Dark_Red.Beard_Dark_Red'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Dark_Red_Icon.Hair_Color_Dark_Red_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Beard-Red",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Chin/Chin_Beard_Brown.Chin_Beard_Brown'",
+			"MeshAsSkeleton": "None",
+			"Material": "Material'/Game/Materials/Character_Body_Parts/Chin/Beard_Dark_Red.Beard_Dark_Red'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Red_Icon.Hair_Color_Red_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Beard-Pink",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Chin/Chin_Beard_Brown.Chin_Beard_Brown'",
+			"MeshAsSkeleton": "None",
+			"Material": "Material'/Game/Materials/Character_Body_Parts/Chin/Beard_Pink.Beard_Pink'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Pink_Icon.Hair_Color_Pink_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Beard-Purple",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Chin/Chin_Beard_Brown.Chin_Beard_Brown'",
+			"MeshAsSkeleton": "None",
+			"Material": "Material'/Game/Materials/Character_Body_Parts/Chin/Beard_Purple.Beard_Purple'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Purple_Icon.Hair_Color_Purple_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Beard-Dark_Blue",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Chin/Chin_Beard_Brown.Chin_Beard_Brown'",
+			"MeshAsSkeleton": "None",
+			"Material": "Material'/Game/Materials/Character_Body_Parts/Chin/Beard_Dark_Blue.Beard_Dark_Blue'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Dark_Blue_Icon.Hair_Color_Dark_Blue_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Beard-Blue",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Chin/Chin_Beard_Brown.Chin_Beard_Brown'",
+			"MeshAsSkeleton": "None",
+			"Material": "Material'/Game/Materials/Character_Body_Parts/Chin/Beard_Blue.Beard_Blue'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Blue_Icon.Hair_Color_Blue_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Beard-Sky_Blue",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Chin/Chin_Beard_Brown.Chin_Beard_Brown'",
+			"MeshAsSkeleton": "None",
+			"Material": "Material'/Game/Materials/Character_Body_Parts/Chin/Beard_Sky_Blue.Beard_Sky_Blue'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Sky_Blue_Icon.Hair_Color_Sky_Blue_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Beard-Green",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Chin/Chin_Beard_Brown.Chin_Beard_Brown'",
+			"MeshAsSkeleton": "None",
+			"Material": "Material'/Game/Materials/Character_Body_Parts/Chin/Beard_Green.Beard_Green'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Green_Icon.Hair_Color_Green_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Beard_Ducktail",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Chin/Beard_Ducktail.Beard_Ducktail'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Hair/beard02.beard02'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Beard_Ducktail-White",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Chin/Beard_Ducktail.Beard_Ducktail'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Hair/Beard_Ducktail_White.Beard_Ducktail_White'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Color_White_Icon.Color_White_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Beard_Ducktail-Grey",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Chin/Beard_Ducktail.Beard_Ducktail'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Hair/Beard_Ducktail_Grey.Beard_Ducktail_Grey'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Color_Grey_Icon.Color_Grey_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Beard_Ducktail-Black",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Chin/Beard_Ducktail.Beard_Ducktail'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Hair/Beard_Ducktail_Black.Beard_Ducktail_Black'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Color_Black_Icon.Color_Black_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Beard_Ducktail-Dark_Brown",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Chin/Beard_Ducktail.Beard_Ducktail'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Hair/Beard_Ducktail_Dark_Brown.Beard_Ducktail_Dark_Brown'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Dark_Brown_Icon.Hair_Color_Dark_Brown_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Beard_Ducktail-Brown",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Chin/Beard_Ducktail.Beard_Ducktail'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Hair/Beard_Ducktail_Brown.Beard_Ducktail_Brown'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Brown_Icon.Hair_Color_Brown_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Beard_Ducktail-Yellow",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Chin/Beard_Ducktail.Beard_Ducktail'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Hair/Beard_Ducktail_Yellow.Beard_Ducktail_Yellow'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Hazel_Icon.Hair_Color_Hazel_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Beard_Ducktail-Blonde",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Chin/Beard_Ducktail.Beard_Ducktail'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Hair/Beard_Ducktail_Blonde.Beard_Ducktail_Blonde'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Blonde_Icon.Hair_Color_Blonde_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Beard_Ducktail-Orange",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Chin/Beard_Ducktail.Beard_Ducktail'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Hair/Beard_Ducktail_Orange.Beard_Ducktail_Orange'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Color_Orange_Icon.Color_Orange_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Beard_Ducktail-Dark_Red",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Chin/Beard_Ducktail.Beard_Ducktail'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Hair/Beard_Ducktail_Dark_Red.Beard_Ducktail_Dark_Red'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Dark_Red_Icon.Hair_Color_Dark_Red_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Beard_Ducktail-Red",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Chin/Beard_Ducktail.Beard_Ducktail'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Hair/Beard_Ducktail_Red.Beard_Ducktail_Red'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Red_Icon.Hair_Color_Red_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Beard_Ducktail-Pink",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Chin/Beard_Ducktail.Beard_Ducktail'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Hair/Beard_Ducktail_Pink.Beard_Ducktail_Pink'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Pink_Icon.Hair_Color_Pink_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Beard_Ducktail-Purple",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Chin/Beard_Ducktail.Beard_Ducktail'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Hair/Beard_Ducktail_Purple.Beard_Ducktail_Purple'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Purple_Icon.Hair_Color_Purple_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Beard_Ducktail-Dark_Blue",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Chin/Beard_Ducktail.Beard_Ducktail'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Hair/Beard_Ducktail_Dark_Blue.Beard_Ducktail_Dark_Blue'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Dark_Blue_Icon.Hair_Color_Dark_Blue_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Beard_Ducktail-Blue",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Chin/Beard_Ducktail.Beard_Ducktail'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Hair/Beard_Ducktail_Blue.Beard_Ducktail_Blue'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Blue_Icon.Hair_Color_Blue_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Beard_Ducktail-Sky_Blue",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Chin/Beard_Ducktail.Beard_Ducktail'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Hair/Beard_Ducktail_Light_Blue.Beard_Ducktail_Light_Blue'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Sky_Blue_Icon.Hair_Color_Sky_Blue_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Beard_Ducktail-Green",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Chin/Beard_Ducktail.Beard_Ducktail'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Hair/Beard_Ducktail_Green.Beard_Ducktail_Green'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Green_Icon.Hair_Color_Green_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Beard_Goatee",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Chin/Beard_Goatee.Beard_Goatee'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Hair/beard03.beard03'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Beard_Goatee-White",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Chin/Beard_Goatee.Beard_Goatee'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Hair/Beard_Goatee_White.Beard_Goatee_White'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Color_White_Icon.Color_White_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Beard_Goatee-Grey",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Chin/Beard_Goatee.Beard_Goatee'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Hair/Beard_Goatee_Grey.Beard_Goatee_Grey'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Color_Grey_Icon.Color_Grey_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Beard_Goatee-Black",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Chin/Beard_Goatee.Beard_Goatee'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Hair/Beard_Goatee_Black.Beard_Goatee_Black'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Color_Black_Icon.Color_Black_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Beard_Goatee-Dark_Brown",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Chin/Beard_Goatee.Beard_Goatee'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Hair/Beard_Goatee_Dark-Brown.Beard_Goatee_Dark-Brown'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Dark_Brown_Icon.Hair_Color_Dark_Brown_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Beard_Goatee-Brown",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Chin/Beard_Goatee.Beard_Goatee'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Hair/Beard_Goatee_Brown.Beard_Goatee_Brown'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Brown_Icon.Hair_Color_Brown_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Beard_Goatee-Yellow",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Chin/Beard_Goatee.Beard_Goatee'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Hair/Beard_Goatee_Yellow.Beard_Goatee_Yellow'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Hazel_Icon.Hair_Color_Hazel_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Beard_Goatee-Blonde",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Chin/Beard_Goatee.Beard_Goatee'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Hair/Beard_Goatee_Blonde.Beard_Goatee_Blonde'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Blonde_Icon.Hair_Color_Blonde_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Beard_Goatee-Orange",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Chin/Beard_Goatee.Beard_Goatee'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Hair/Beard_Goatee_Orange.Beard_Goatee_Orange'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Color_Orange_Icon.Color_Orange_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Beard_Goatee-Dark_Red",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Chin/Beard_Goatee.Beard_Goatee'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Hair/Beard_Goatee_Dark_Red.Beard_Goatee_Dark_Red'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Dark_Red_Icon.Hair_Color_Dark_Red_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Beard_Goatee-Red",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Chin/Beard_Goatee.Beard_Goatee'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Hair/Beard_Goatee_Red.Beard_Goatee_Red'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Red_Icon.Hair_Color_Red_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Beard_Goatee-Pink",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Chin/Beard_Goatee.Beard_Goatee'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Hair/Beard_Goatee_Pink.Beard_Goatee_Pink'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Pink_Icon.Hair_Color_Pink_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Beard_Goatee-Purple",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Chin/Beard_Goatee.Beard_Goatee'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Hair/Beard_Goatee_Purple.Beard_Goatee_Purple'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Purple_Icon.Hair_Color_Purple_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Beard_Goatee-Dark_Blue",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Chin/Beard_Goatee.Beard_Goatee'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Hair/Beard_Goatee_Dark_Blue.Beard_Goatee_Dark_Blue'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Dark_Blue_Icon.Hair_Color_Dark_Blue_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Beard_Goatee-Blue",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Chin/Beard_Goatee.Beard_Goatee'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Hair/Beard_Goatee_Blue.Beard_Goatee_Blue'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Blue_Icon.Hair_Color_Blue_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Beard_Goatee-Sky_Blue",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Chin/Beard_Goatee.Beard_Goatee'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Hair/Beard_Goatee_Light_Blue.Beard_Goatee_Light_Blue'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Sky_Blue_Icon.Hair_Color_Sky_Blue_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Beard_Goatee-Green",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Chin/Beard_Goatee.Beard_Goatee'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Hair/Beard_Goatee_Green.Beard_Goatee_Green'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Green_Icon.Hair_Color_Green_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Beard_Handlebar",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Chin/Beard_Handle_Bar.Beard_Handle_Bar'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Hair/beard04.beard04'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Beard_Handlebar-White",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Chin/Beard_Handle_Bar.Beard_Handle_Bar'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Hair/Beard_HandleBar_White.Beard_HandleBar_White'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Color_White_Icon.Color_White_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Beard_Handlebar-Grey",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Chin/Beard_Handle_Bar.Beard_Handle_Bar'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Hair/Beard_HandleBar_Grey.Beard_HandleBar_Grey'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Color_Grey_Icon.Color_Grey_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Beard_Handlebar-Black",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Chin/Beard_Handle_Bar.Beard_Handle_Bar'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Hair/Beard_HandleBar_Black.Beard_HandleBar_Black'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Color_Black_Icon.Color_Black_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Beard_Handlebar-Dark_Brown",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Chin/Beard_Handle_Bar.Beard_Handle_Bar'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Hair/Beard_HandleBar_Dark_Brown.Beard_HandleBar_Dark_Brown'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Dark_Brown_Icon.Hair_Color_Dark_Brown_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Beard_Handlebar-Brown",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Chin/Beard_Handle_Bar.Beard_Handle_Bar'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Hair/Beard_HandleBar_Brown.Beard_HandleBar_Brown'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Brown_Icon.Hair_Color_Brown_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Beard_Handlebar-Yellow",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Chin/Beard_Handle_Bar.Beard_Handle_Bar'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Hair/Beard_HandleBar_Yellow.Beard_HandleBar_Yellow'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Hazel_Icon.Hair_Color_Hazel_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Beard_Handlebar-Blonde",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Chin/Beard_Handle_Bar.Beard_Handle_Bar'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Hair/Beard_HandleBar_Blonde.Beard_HandleBar_Blonde'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Blonde_Icon.Hair_Color_Blonde_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Beard_Handlebar-Orange",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Chin/Beard_Handle_Bar.Beard_Handle_Bar'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Hair/Beard_HandleBar_Orange.Beard_HandleBar_Orange'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Color_Orange_Icon.Color_Orange_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Beard_Handlebar-Dark_Red",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Chin/Beard_Handle_Bar.Beard_Handle_Bar'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Hair/Beard_HandleBar_Dark_Red.Beard_HandleBar_Dark_Red'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Dark_Red_Icon.Hair_Color_Dark_Red_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Beard_Handlebar-Red",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Chin/Beard_Handle_Bar.Beard_Handle_Bar'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Hair/Beard_HandleBar_Red.Beard_HandleBar_Red'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Red_Icon.Hair_Color_Red_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Beard_Handlebar-Pink",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Chin/Beard_Handle_Bar.Beard_Handle_Bar'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Hair/Beard_HandleBar_Pink.Beard_HandleBar_Pink'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Pink_Icon.Hair_Color_Pink_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Beard_Handlebar-Purple",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Chin/Beard_Handle_Bar.Beard_Handle_Bar'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Hair/Beard_HandleBar_Purple.Beard_HandleBar_Purple'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Purple_Icon.Hair_Color_Purple_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Beard_Handlebar-Dark_Blue",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Chin/Beard_Handle_Bar.Beard_Handle_Bar'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Hair/Beard_HandleBar_Dark_Blue.Beard_HandleBar_Dark_Blue'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Dark_Blue_Icon.Hair_Color_Dark_Blue_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Beard_Handlebar-Blue",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Chin/Beard_Handle_Bar.Beard_Handle_Bar'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Hair/Beard_HandleBar_Blue.Beard_HandleBar_Blue'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Blue_Icon.Hair_Color_Blue_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Beard_Handlebar-Sky_Blue",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Chin/Beard_Handle_Bar.Beard_Handle_Bar'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Hair/Beard_HandleBar_Light_Blue.Beard_HandleBar_Light_Blue'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Sky_Blue_Icon.Hair_Color_Sky_Blue_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Beard_Handlebar-Green",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Chin/Beard_Handle_Bar.Beard_Handle_Bar'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Hair/Beard_HandleBar_Green.Beard_HandleBar_Green'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Green_Icon.Hair_Color_Green_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Beard_Muttonchops",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Chin/Beard_Muttonchops.Beard_Muttonchops'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Hair/beard05.beard05'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Beard_Muttonchops-White",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Chin/Beard_Muttonchops.Beard_Muttonchops'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Hair/Beard_MuttonChops_White.Beard_MuttonChops_White'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Color_White_Icon.Color_White_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Beard_Muttonchops-Grey",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Chin/Beard_Muttonchops.Beard_Muttonchops'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Hair/Beard_MuttonChops_Grey.Beard_MuttonChops_Grey'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Color_Grey_Icon.Color_Grey_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Beard_Muttonchops-Black",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Chin/Beard_Muttonchops.Beard_Muttonchops'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Hair/Beard_MuttonChops_Black.Beard_MuttonChops_Black'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Color_Black_Icon.Color_Black_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Beard_Muttonchops-Dark_Brown",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Chin/Beard_Muttonchops.Beard_Muttonchops'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Hair/Beard_MuttonChops_Dark_Brown.Beard_MuttonChops_Dark_Brown'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Dark_Brown_Icon.Hair_Color_Dark_Brown_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Beard_Muttonchops-Brown",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Chin/Beard_Muttonchops.Beard_Muttonchops'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Hair/Beard_MuttonChops_Brown.Beard_MuttonChops_Brown'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Brown_Icon.Hair_Color_Brown_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Beard_Muttonchops-Yellow",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Chin/Beard_Muttonchops.Beard_Muttonchops'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Hair/Beard_MuttonChops_Yellow.Beard_MuttonChops_Yellow'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Hazel_Icon.Hair_Color_Hazel_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Beard_Muttonchops-Blonde",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Chin/Beard_Muttonchops.Beard_Muttonchops'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Hair/Beard_MuttonChops_Blonde.Beard_MuttonChops_Blonde'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Blonde_Icon.Hair_Color_Blonde_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Beard_Muttonchops-Orange",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Chin/Beard_Muttonchops.Beard_Muttonchops'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Hair/Beard_MuttonChops_Orange.Beard_MuttonChops_Orange'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Color_Orange_Icon.Color_Orange_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Beard_Muttonchops-Dark_Red",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Chin/Beard_Muttonchops.Beard_Muttonchops'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Hair/Beard_MuttonChops_Dark_Red.Beard_MuttonChops_Dark_Red'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Dark_Red_Icon.Hair_Color_Dark_Red_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Beard_Muttonchops-Red",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Chin/Beard_Muttonchops.Beard_Muttonchops'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Hair/Beard_MuttonChops_Red.Beard_MuttonChops_Red'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Red_Icon.Hair_Color_Red_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Beard_Muttonchops-Pink",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Chin/Beard_Muttonchops.Beard_Muttonchops'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Hair/Beard_MuttonChops_Pink.Beard_MuttonChops_Pink'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Pink_Icon.Hair_Color_Pink_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Beard_Muttonchops-Purple",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Chin/Beard_Muttonchops.Beard_Muttonchops'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Hair/Beard_MuttonChops_Purple.Beard_MuttonChops_Purple'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Purple_Icon.Hair_Color_Purple_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Beard_Muttonchops-Dark_Blue",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Chin/Beard_Muttonchops.Beard_Muttonchops'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Hair/Beard_MuttonChops_Dark_Blue.Beard_MuttonChops_Dark_Blue'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Dark_Blue_Icon.Hair_Color_Dark_Blue_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Beard_Muttonchops-Blue",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Chin/Beard_Muttonchops.Beard_Muttonchops'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Hair/Beard_MuttonChops_Blue.Beard_MuttonChops_Blue'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Blue_Icon.Hair_Color_Blue_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Beard_Muttonchops-Sky_Blue",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Chin/Beard_Muttonchops.Beard_Muttonchops'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Hair/Beard_MuttonChops_Light_Blue.Beard_MuttonChops_Light_Blue'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Sky_Blue_Icon.Hair_Color_Sky_Blue_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Beard_Muttonchops-Green",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Chin/Beard_Muttonchops.Beard_Muttonchops'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Hair/Beard_MuttonChops_Green.Beard_MuttonChops_Green'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Green_Icon.Hair_Color_Green_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Beard_FriendlyMuttonchops",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Chin/Beard_Friendly_Muttonchops.Beard_Friendly_Muttonchops'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Hair/beard06.beard06'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Beard_FriendlyMuttonchops-White",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Chin/Beard_Friendly_Muttonchops.Beard_Friendly_Muttonchops'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Hair/Beard_Friendly_MuttonChop_White.Beard_Friendly_MuttonChop_White'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Color_White_Icon.Color_White_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Beard_FriendlyMuttonchops-Grey",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Chin/Beard_Friendly_Muttonchops.Beard_Friendly_Muttonchops'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Hair/Beard_Friendly_MuttonChop_Grey.Beard_Friendly_MuttonChop_Grey'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Color_Grey_Icon.Color_Grey_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Beard_FriendlyMuttonchops-Black",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Chin/Beard_Friendly_Muttonchops.Beard_Friendly_Muttonchops'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Hair/Beard_Friendly_MuttonChop_Black.Beard_Friendly_MuttonChop_Black'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Color_Black_Icon.Color_Black_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Beard_FriendlyMuttonchops-Dark_Brown",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Chin/Beard_Friendly_Muttonchops.Beard_Friendly_Muttonchops'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Hair/Beard_Friendly_MuttonChop_Dark_Brown.Beard_Friendly_MuttonChop_Dark_Brown'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Dark_Brown_Icon.Hair_Color_Dark_Brown_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Beard_FriendlyMuttonchops-Brown",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Chin/Beard_Friendly_Muttonchops.Beard_Friendly_Muttonchops'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Hair/Beard_Friendly_MuttonChop_Brown.Beard_Friendly_MuttonChop_Brown'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Brown_Icon.Hair_Color_Brown_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Beard_FriendlyMuttonchops-Yellow",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Chin/Beard_Friendly_Muttonchops.Beard_Friendly_Muttonchops'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Hair/Beard_Friendly_MuttonChop_Yellow.Beard_Friendly_MuttonChop_Yellow'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Hazel_Icon.Hair_Color_Hazel_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Beard_FriendlyMuttonchops-Blonde",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Chin/Beard_Friendly_Muttonchops.Beard_Friendly_Muttonchops'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Hair/Beard_Friendly_MuttonChop_Blonde.Beard_Friendly_MuttonChop_Blonde'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Blonde_Icon.Hair_Color_Blonde_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Beard_FriendlyMuttonchops-Orange",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Chin/Beard_Friendly_Muttonchops.Beard_Friendly_Muttonchops'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Hair/Beard_Friendly_MuttonChop_Orange.Beard_Friendly_MuttonChop_Orange'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Color_Orange_Icon.Color_Orange_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Beard_FriendlyMuttonchops-Dark_Red",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Chin/Beard_Friendly_Muttonchops.Beard_Friendly_Muttonchops'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Hair/Beard_Friendly_MuttonChop_Dark_Red.Beard_Friendly_MuttonChop_Dark_Red'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Dark_Red_Icon.Hair_Color_Dark_Red_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Beard_FriendlyMuttonchops-Red",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Chin/Beard_Friendly_Muttonchops.Beard_Friendly_Muttonchops'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Hair/Beard_Friendly_MuttonChop_Red.Beard_Friendly_MuttonChop_Red'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Red_Icon.Hair_Color_Red_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Beard_FriendlyMuttonchops-Pink",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Chin/Beard_Friendly_Muttonchops.Beard_Friendly_Muttonchops'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Hair/Beard_Friendly_MuttonChop_Pink.Beard_Friendly_MuttonChop_Pink'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Pink_Icon.Hair_Color_Pink_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Beard_FriendlyMuttonchops-Purple",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Chin/Beard_Friendly_Muttonchops.Beard_Friendly_Muttonchops'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Hair/Beard_Friendly_MuttonChop_Purple.Beard_Friendly_MuttonChop_Purple'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Purple_Icon.Hair_Color_Purple_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Beard_FriendlyMuttonchops-Dark_Blue",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Chin/Beard_Friendly_Muttonchops.Beard_Friendly_Muttonchops'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Hair/Beard_Friendly_MuttonChop_Dark_Blue.Beard_Friendly_MuttonChop_Dark_Blue'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Dark_Blue_Icon.Hair_Color_Dark_Blue_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Beard_FriendlyMuttonchops-Blue",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Chin/Beard_Friendly_Muttonchops.Beard_Friendly_Muttonchops'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Hair/Beard_Friendly_MuttonChop_Blue.Beard_Friendly_MuttonChop_Blue'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Blue_Icon.Hair_Color_Blue_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Beard_FriendlyMuttonchops-Sky_Blue",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Chin/Beard_Friendly_Muttonchops.Beard_Friendly_Muttonchops'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Hair/Beard_Friendly_MuttonChop_Light_Blue.Beard_Friendly_MuttonChop_Light_Blue'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Sky_Blue_Icon.Hair_Color_Sky_Blue_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Beard_FriendlyMuttonchops-Green",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Chin/Beard_Friendly_Muttonchops.Beard_Friendly_Muttonchops'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Hair/Beard_Friendly_MuttonChop_Green.Beard_Friendly_MuttonChop_Green'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Green_Icon.Hair_Color_Green_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Beard_Thick",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Chin/Beard_Thick.Beard_Thick'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Hair/beard07.beard07'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Beard_Thick-White",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Chin/Beard_Thick.Beard_Thick'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Hair/Beard_Thick_White.Beard_Thick_White'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Color_White_Icon.Color_White_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Beard_Thick-Grey",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Chin/Beard_Thick.Beard_Thick'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Hair/Beard_Thick_Grey.Beard_Thick_Grey'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Color_Grey_Icon.Color_Grey_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Beard_Thick-Black",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Chin/Beard_Thick.Beard_Thick'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Hair/Beard_Thick_Black.Beard_Thick_Black'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Color_Black_Icon.Color_Black_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Beard_Thick-Dark_Brown",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Chin/Beard_Thick.Beard_Thick'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Hair/Beard_Thick_Dark_Brown.Beard_Thick_Dark_Brown'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Dark_Brown_Icon.Hair_Color_Dark_Brown_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Beard_Thick-Brown",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Chin/Beard_Thick.Beard_Thick'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Hair/Beard_Thick_Brown.Beard_Thick_Brown'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Brown_Icon.Hair_Color_Brown_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Beard_Thick-Yellow",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Chin/Beard_Thick.Beard_Thick'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Hair/Beard_Thick_Yellow.Beard_Thick_Yellow'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Hazel_Icon.Hair_Color_Hazel_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Beard_Thick-Blonde",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Chin/Beard_Thick.Beard_Thick'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Hair/Beard_Thick_Blonde.Beard_Thick_Blonde'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Blonde_Icon.Hair_Color_Blonde_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Beard_Thick-Orange",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Chin/Beard_Thick.Beard_Thick'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Hair/Beard_Thick_Orange.Beard_Thick_Orange'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Color_Orange_Icon.Color_Orange_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Beard_Thick-Dark_Red",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Chin/Beard_Thick.Beard_Thick'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Hair/Beard_Thick_Dark_Red.Beard_Thick_Dark_Red'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Dark_Red_Icon.Hair_Color_Dark_Red_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Beard_Thick-Red",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Chin/Beard_Thick.Beard_Thick'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Hair/Beard_Thick_Red.Beard_Thick_Red'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Red_Icon.Hair_Color_Red_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Beard_Thick-Pink",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Chin/Beard_Thick.Beard_Thick'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Hair/Beard_Thick_Pink.Beard_Thick_Pink'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Pink_Icon.Hair_Color_Pink_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Beard_Thick-Purple",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Chin/Beard_Thick.Beard_Thick'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Hair/Beard_Thick_Purple.Beard_Thick_Purple'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Purple_Icon.Hair_Color_Purple_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Beard_Thick-Dark_Blue",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Chin/Beard_Thick.Beard_Thick'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Hair/Beard_Thick_Dark_Blue.Beard_Thick_Dark_Blue'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Dark_Blue_Icon.Hair_Color_Dark_Blue_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Beard_Thick-Blue",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Chin/Beard_Thick.Beard_Thick'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Hair/Beard_Thick_Blue.Beard_Thick_Blue'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Blue_Icon.Hair_Color_Blue_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Beard_Thick-Sky_Blue",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Chin/Beard_Thick.Beard_Thick'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Hair/Beard_Thick_Light_Blue.Beard_Thick_Light_Blue'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Sky_Blue_Icon.Hair_Color_Sky_Blue_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Beard_Thick-Green",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Chin/Beard_Thick.Beard_Thick'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Hair/Beard_Thick_Green.Beard_Thick_Green'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Green_Icon.Hair_Color_Green_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Beard_VanDyke",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Chin/Beard_VanDyke.Beard_VanDyke'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Hair/beard08.beard08'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Beard_VanDyke-White",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Chin/Beard_VanDyke.Beard_VanDyke'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Hair/Beard_Van_Dyke_White.Beard_Van_Dyke_White'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Color_White_Icon.Color_White_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Beard_VanDyke-Grey",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Chin/Beard_VanDyke.Beard_VanDyke'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Hair/Beard_Van_Dyke_Grey.Beard_Van_Dyke_Grey'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Color_Grey_Icon.Color_Grey_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Beard_VanDyke-Black",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Chin/Beard_VanDyke.Beard_VanDyke'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Hair/Beard_Van_Dyke_Black.Beard_Van_Dyke_Black'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Color_Black_Icon.Color_Black_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Beard_VanDyke-Dark_Brown",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Chin/Beard_VanDyke.Beard_VanDyke'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Hair/Beard_Van_Dyke_Dark_Brown.Beard_Van_Dyke_Dark_Brown'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Dark_Brown_Icon.Hair_Color_Dark_Brown_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Beard_VanDyke-Brown",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Chin/Beard_VanDyke.Beard_VanDyke'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Hair/Beard_VanDyke_Brown.Beard_VanDyke_Brown'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Brown_Icon.Hair_Color_Brown_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Beard_VanDyke-Yellow",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Chin/Beard_VanDyke.Beard_VanDyke'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Hair/Beard_Van_Dyke_Yellow.Beard_Van_Dyke_Yellow'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Hazel_Icon.Hair_Color_Hazel_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Beard_VanDyke-Blonde",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Chin/Beard_VanDyke.Beard_VanDyke'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Hair/Beard_Van_Dyke_Blonde.Beard_Van_Dyke_Blonde'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Blonde_Icon.Hair_Color_Blonde_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Beard_VanDyke-Orange",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Chin/Beard_VanDyke.Beard_VanDyke'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Hair/Beard_Van_Dyke_Orange.Beard_Van_Dyke_Orange'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Color_Orange_Icon.Color_Orange_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Beard_VanDyke-Dark_Red",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Chin/Beard_VanDyke.Beard_VanDyke'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Hair/Beard_Van_Dyke_Dark_Red.Beard_Van_Dyke_Dark_Red'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Dark_Red_Icon.Hair_Color_Dark_Red_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Beard_VanDyke-Red",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Chin/Beard_VanDyke.Beard_VanDyke'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Hair/Beard_Van_Dyke_Red.Beard_Van_Dyke_Red'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Red_Icon.Hair_Color_Red_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Beard_VanDyke-Pink",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Chin/Beard_VanDyke.Beard_VanDyke'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Hair/Beard_Van_Dyke_Pink.Beard_Van_Dyke_Pink'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Pink_Icon.Hair_Color_Pink_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Beard_VanDyke-Purple",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Chin/Beard_VanDyke.Beard_VanDyke'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Hair/Beard_Van_Dyke_Purple.Beard_Van_Dyke_Purple'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Purple_Icon.Hair_Color_Purple_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Beard_VanDyke-Dark_Blue",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Chin/Beard_VanDyke.Beard_VanDyke'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Hair/Beard_Van_Dyke_Dark_Blue.Beard_Van_Dyke_Dark_Blue'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Dark_Blue_Icon.Hair_Color_Dark_Blue_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Beard_VanDyke-Blue",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Chin/Beard_VanDyke.Beard_VanDyke'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Hair/Beard_Van_Dyke_Blue.Beard_Van_Dyke_Blue'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Blue_Icon.Hair_Color_Blue_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Beard_VanDyke-Sky_Blue",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Chin/Beard_VanDyke.Beard_VanDyke'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Hair/Beard_Van_Dyke_Light_Blue.Beard_Van_Dyke_Light_Blue'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Sky_Blue_Icon.Hair_Color_Sky_Blue_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Beard_VanDyke-Green",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Chin/Beard_VanDyke.Beard_VanDyke'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Hair/Beard_Van_Dyke_Green.Beard_Van_Dyke_Green'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Green_Icon.Hair_Color_Green_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Beard_Flat",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Chin/Beard_Flat.Beard_Flat'",
+			"MeshAsSkeleton": "None",
+			"Material": "None",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Hair/beard03.beard03'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Beard_Flat-White",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Chin/Beard_Flat.Beard_Flat'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Chin/Beard_Flat_White.Beard_Flat_White'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Color_White_Icon.Color_White_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Beard_Flat-Grey",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Chin/Beard_Flat.Beard_Flat'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Chin/Beard_Flat_Grey.Beard_Flat_Grey'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Color_Grey_Icon.Color_Grey_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Beard_Flat-Black",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Chin/Beard_Flat.Beard_Flat'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Chin/Beard_Flat_Black.Beard_Flat_Black'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Color_Black_Icon.Color_Black_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Beard_Flat-Dark_Brown",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Chin/Beard_Flat.Beard_Flat'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Chin/Beard_Flat_Dark_Brown.Beard_Flat_Dark_Brown'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Dark_Brown_Icon.Hair_Color_Dark_Brown_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Beard_Flat-Brown",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Chin/Beard_Flat.Beard_Flat'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Chin/Beard_Flat_Brown.Beard_Flat_Brown'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Brown_Icon.Hair_Color_Brown_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Beard_Flat-Yellow",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Chin/Beard_Flat.Beard_Flat'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Chin/Beard_Flat_Yellow.Beard_Flat_Yellow'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Hazel_Icon.Hair_Color_Hazel_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Beard_Flat-Blonde",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Chin/Beard_Flat.Beard_Flat'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Chin/Beard_Flat_Blonde.Beard_Flat_Blonde'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Blonde_Icon.Hair_Color_Blonde_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Beard_Flat-Orange",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Chin/Beard_Flat.Beard_Flat'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Chin/Beard_Flat_Orange.Beard_Flat_Orange'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Color_Orange_Icon.Color_Orange_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Beard_Flat-Dark_Red",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Chin/Beard_Flat.Beard_Flat'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Chin/Beard_Flat_Dark_Red.Beard_Flat_Dark_Red'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Dark_Red_Icon.Hair_Color_Dark_Red_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Beard_Flat-Red",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Chin/Beard_Flat.Beard_Flat'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Chin/Beard_Flat_Red.Beard_Flat_Red'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Red_Icon.Hair_Color_Red_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Beard_Flat-Pink",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Chin/Beard_Flat.Beard_Flat'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Chin/Beard_Flat_Pink.Beard_Flat_Pink'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Pink_Icon.Hair_Color_Pink_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Beard_Flat-Purple",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Chin/Beard_Flat.Beard_Flat'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Chin/Beard_Flat_Purple.Beard_Flat_Purple'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Purple_Icon.Hair_Color_Purple_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Beard_Flat-Dark_Blue",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Chin/Beard_Flat.Beard_Flat'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Chin/Beard_Flat_Dark_Blue.Beard_Flat_Dark_Blue'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Dark_Blue_Icon.Hair_Color_Dark_Blue_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Beard_Flat-Blue",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Chin/Beard_Flat.Beard_Flat'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Chin/Beard_Flat_Blue.Beard_Flat_Blue'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Blue_Icon.Hair_Color_Blue_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Beard_Flat-Sky_Blue",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Chin/Beard_Flat.Beard_Flat'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Chin/Beard_Flat_Light_Blue.Beard_Flat_Light_Blue'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Sky_Blue_Icon.Hair_Color_Sky_Blue_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		},
+		{
+			"RowName": "Beard_Flat-Green",
+			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Chin/Beard_Flat.Beard_Flat'",
+			"MeshAsSkeleton": "None",
+			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Chin/Beard_Flat_Green.Beard_Flat_Green'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Color_Icons/Hair_Color_Green_Icon.Hair_Color_Green_Icon'",
+			"AvailableInCharCreation": true,
+			"AvailableInOther": false
+		}
+	]
+}

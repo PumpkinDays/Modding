@@ -1,0 +1,14 @@
+Fishing_Festival_Win_Reqs Structure:
+
+Easy: 
+	Value1st: integer
+	Value2nd: integer
+	Value3rd: integer
+Medium: 
+	Value1st: integer
+	Value2nd: integer
+	Value3rd: integer
+Hard: 
+	Value1st: integer
+	Value2nd: integer
+	Value3rd: integer

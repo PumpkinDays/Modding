@@ -1,0 +1,3 @@
+Festival_Cooking_Courses Structure:
+
+NameArray: TArray-FName

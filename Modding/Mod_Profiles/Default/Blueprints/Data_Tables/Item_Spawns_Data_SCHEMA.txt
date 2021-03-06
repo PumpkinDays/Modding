@@ -1,0 +1,10 @@
+Item_Spawns_Data Structure:
+
+RowName: string
+StaticMesh: UStaticMesh*
+ItemDropped: string
+ItemAmount: integer
+RespawnHours: integer
+VisibilityDistance: float
+NoSpawnSeasons: TArray-TEnumAsByte<ESeason>
+FactoryPreventsRespawn: true/false

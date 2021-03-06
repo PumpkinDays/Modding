@@ -1,0 +1,3 @@
+Wedding_Location_Cutscenes Structure:
+
+NameProperty: string
