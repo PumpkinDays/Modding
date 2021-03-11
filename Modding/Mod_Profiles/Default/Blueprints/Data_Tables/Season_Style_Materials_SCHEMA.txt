@@ -1,6 +1,46 @@
 Season_Style_Materials Structure:
 
-SpringMats: TArray-FSeasonStyleMaterialValue
-SummerMats: TArray-FSeasonStyleMaterialValue
-FallMats: TArray-FSeasonStyleMaterialValue
-WinterMats: TArray-FSeasonStyleMaterialValue
+SpringMats(List): 
+	MaterialIndex: integer
+	SetParameter: true/false
+	ParameterName: string
+	Value: 
+		R: float
+		G: float
+		B: float
+		A: float
+	OverwriteMaterialInstead: UMaterialInterface*
+
+SummerMats(List): 
+	MaterialIndex: integer
+	SetParameter: true/false
+	ParameterName: string
+	Value: 
+		R: float
+		G: float
+		B: float
+		A: float
+	OverwriteMaterialInstead: UMaterialInterface*
+
+FallMats(List): 
+	MaterialIndex: integer
+	SetParameter: true/false
+	ParameterName: string
+	Value: 
+		R: float
+		G: float
+		B: float
+		A: float
+	OverwriteMaterialInstead: UMaterialInterface*
+
+WinterMats(List): 
+	MaterialIndex: integer
+	SetParameter: true/false
+	ParameterName: string
+	Value: 
+		R: float
+		G: float
+		B: float
+		A: float
+	OverwriteMaterialInstead: UMaterialInterface*
+

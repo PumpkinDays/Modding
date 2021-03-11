@@ -1,3 +1,4 @@
 Disallow_Dating_Groups Structure:
 
-NameArray: TArray-FName
+NameArray(List): string
+

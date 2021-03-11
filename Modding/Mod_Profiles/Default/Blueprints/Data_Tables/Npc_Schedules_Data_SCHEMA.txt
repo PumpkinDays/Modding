@@ -1,10 +1,178 @@
 Npc_Schedules_Data Structure:
 
-Tasks: TArray-FNpcScheduleItem
-DayOffTasks: TArray-FNpcScheduleItem
-MarriedTasks: TArray-FNpcScheduleItem
+Tasks(List): 
+	Hour: integer
+	Waypoint: string
+	PrimaryAnimation: UAnimSequenceBase*
+	LoopingAnimation: UAnimSequenceBase*
+	Mesh: UStaticMesh*
+	MeshOffset: 
+		Rotation: 
+			X: float
+			Y: float
+			Z: float
+			W: float
+		Translation: 
+			X: float
+			Y: float
+			Z: float
+		Scale3D: 
+			X: float
+			Y: float
+			Z: float
+	MeshSocket: string
+	SkipWhileRaining: true/false
+	IsRanTo: true/false
+	ScheduleExpression: string
+
+DayOffTasks(List): 
+	Hour: integer
+	Waypoint: string
+	PrimaryAnimation: UAnimSequenceBase*
+	LoopingAnimation: UAnimSequenceBase*
+	Mesh: UStaticMesh*
+	MeshOffset: 
+		Rotation: 
+			X: float
+			Y: float
+			Z: float
+			W: float
+		Translation: 
+			X: float
+			Y: float
+			Z: float
+		Scale3D: 
+			X: float
+			Y: float
+			Z: float
+	MeshSocket: string
+	SkipWhileRaining: true/false
+	IsRanTo: true/false
+	ScheduleExpression: string
+
+MarriedTasks(List): 
+	Hour: integer
+	Waypoint: string
+	PrimaryAnimation: UAnimSequenceBase*
+	LoopingAnimation: UAnimSequenceBase*
+	Mesh: UStaticMesh*
+	MeshOffset: 
+		Rotation: 
+			X: float
+			Y: float
+			Z: float
+			W: float
+		Translation: 
+			X: float
+			Y: float
+			Z: float
+		Scale3D: 
+			X: float
+			Y: float
+			Z: float
+	MeshSocket: string
+	SkipWhileRaining: true/false
+	IsRanTo: true/false
+	ScheduleExpression: string
+
 FestivalSchedules: 
-	SpringFestival: TArray-FNpcScheduleItem
-	SummerFestival: TArray-FNpcScheduleItem
-	FallFestival: TArray-FNpcScheduleItem
-	WinterFestival: TArray-FNpcScheduleItem
+	SpringFestival(List): 	
+		Hour: integer
+		Waypoint: string
+		PrimaryAnimation: UAnimSequenceBase*
+		LoopingAnimation: UAnimSequenceBase*
+		Mesh: UStaticMesh*
+		MeshOffset: 
+			Rotation: 
+				X: float
+				Y: float
+				Z: float
+				W: float
+			Translation: 
+				X: float
+				Y: float
+				Z: float
+			Scale3D: 
+				X: float
+				Y: float
+				Z: float
+		MeshSocket: string
+		SkipWhileRaining: true/false
+		IsRanTo: true/false
+		ScheduleExpression: string
+
+	SummerFestival(List): 	
+		Hour: integer
+		Waypoint: string
+		PrimaryAnimation: UAnimSequenceBase*
+		LoopingAnimation: UAnimSequenceBase*
+		Mesh: UStaticMesh*
+		MeshOffset: 
+			Rotation: 
+				X: float
+				Y: float
+				Z: float
+				W: float
+			Translation: 
+				X: float
+				Y: float
+				Z: float
+			Scale3D: 
+				X: float
+				Y: float
+				Z: float
+		MeshSocket: string
+		SkipWhileRaining: true/false
+		IsRanTo: true/false
+		ScheduleExpression: string
+
+	FallFestival(List): 	
+		Hour: integer
+		Waypoint: string
+		PrimaryAnimation: UAnimSequenceBase*
+		LoopingAnimation: UAnimSequenceBase*
+		Mesh: UStaticMesh*
+		MeshOffset: 
+			Rotation: 
+				X: float
+				Y: float
+				Z: float
+				W: float
+			Translation: 
+				X: float
+				Y: float
+				Z: float
+			Scale3D: 
+				X: float
+				Y: float
+				Z: float
+		MeshSocket: string
+		SkipWhileRaining: true/false
+		IsRanTo: true/false
+		ScheduleExpression: string
+
+	WinterFestival(List): 	
+		Hour: integer
+		Waypoint: string
+		PrimaryAnimation: UAnimSequenceBase*
+		LoopingAnimation: UAnimSequenceBase*
+		Mesh: UStaticMesh*
+		MeshOffset: 
+			Rotation: 
+				X: float
+				Y: float
+				Z: float
+				W: float
+			Translation: 
+				X: float
+				Y: float
+				Z: float
+			Scale3D: 
+				X: float
+				Y: float
+				Z: float
+		MeshSocket: string
+		SkipWhileRaining: true/false
+		IsRanTo: true/false
+		ScheduleExpression: string
+

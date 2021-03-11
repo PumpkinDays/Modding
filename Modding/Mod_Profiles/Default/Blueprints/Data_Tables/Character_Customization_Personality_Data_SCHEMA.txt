@@ -3,4 +3,12 @@ Character_Customization_Personality_Data Structure:
 RowName: string
 Animation: UAnimSequenceBase*
 LargeVersion: UAnimSequenceBase*
-LargeVersionConditions: TArray-FBodySliderCondition
+LargeVersionConditions(List): 
+	SliderType: ONE of
+		Weight
+		Chest
+		Hips
+		Gut
+		Muscle
+	Value: float
+

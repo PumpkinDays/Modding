@@ -1,6 +1,10 @@
 Farm_Quota_Items Structure:
 
-Spring: TArray-FName
-Summer: TArray-FName
-Fall: TArray-FName
-Winter: TArray-FName
+Spring(List): string
+
+Summer(List): string
+
+Fall(List): string
+
+Winter(List): string
+

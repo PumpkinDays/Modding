@@ -18,7 +18,8 @@ PrimarySlot: ONE of
 	Shoes
 Mesh: USkeletalMesh*
 NonSkeletalMesh: UStaticMesh*
-CoveringMaterials: TArray-int32
+CoveringMaterials(List): integer
+
 Category: ONE of
 	None
 	Hat
@@ -38,5 +39,8 @@ Category: ONE of
 	Ring
 	Socks
 	Shoes
-ExtraOptions: TArray-TEnumAsByte<EMiscClothingOptions>
+ExtraOptions(List): ONE of
+	HideLowerPantsForBoots
+	ReplaceHairWithHatVersion
+
 ShowInShop: true/false

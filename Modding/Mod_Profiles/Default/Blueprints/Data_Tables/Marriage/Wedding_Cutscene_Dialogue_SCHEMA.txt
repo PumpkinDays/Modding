@@ -1,3 +1,13 @@
 Wedding_Cutscene_Dialogue Structure:
 
-Dialogue: TArray-FCutsceneDialoguePiece
+Dialogue(List): 
+	SpeakingNpc: string
+	SpokenDialogue: string
+	CameraToUse: integer
+	AllNpcsLookAtMainPlayer: true/false
+	HoldItemWhileTalking: string
+	QuestionResponses(List): 	
+		PlayerAnswer: string
+		NpcResponse: string
+
+

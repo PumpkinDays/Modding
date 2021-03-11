@@ -1,3 +1,6 @@
 Child_Outfits Structure:
 
-Outfits: TArray-FChildOutfit
+Outfits(List): 
+	Materials(List): 	TAssetPtr<UMaterialInterface>
+
+

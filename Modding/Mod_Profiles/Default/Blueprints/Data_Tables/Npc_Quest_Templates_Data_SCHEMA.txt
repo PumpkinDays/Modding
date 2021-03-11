@@ -43,7 +43,16 @@ BeginningDialogue: string
 DeclineQuestDialogue: string
 EndingDialogue: string
 MarkedOnMap: true/false
-QuestLocs: TArray-FQuestTemplateLocation
+QuestLocs(List): 
+	QTemplateItem: string
+	QTemplateLocation: 
+		X: float
+		Y: float
+		Z: float
+	TemplateItemAmount: uint8
+	TemplatePickupAnim: UAnimSequenceBase*
+	IdentifyingNumber: integer
+
 QuestRewardItem: string
 QuestRewardsAmount: integer
 FailedLetter: 

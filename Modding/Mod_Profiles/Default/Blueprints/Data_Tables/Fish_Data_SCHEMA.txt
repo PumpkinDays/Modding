@@ -6,8 +6,20 @@ Difficulty: ONE of
 	Hard
 	VeryHard
 	NearlyImpossible
-FishAreas: TArray-FFishArea
-Occurences: TArray-int32
+FishAreas(List): 
+	Season: ONE of
+		Spring
+		Summer
+		Fall
+		Winter
+	BodyOfWater: ONE of
+		Lake
+		Ocean
+		River
+		DeepOcean
+
+Occurences(List): integer
+
 IsTrash: true/false
 HoursToNaturallyBreed: integer
 FishSkeletalMesh: TAssetPtr<USkeletalMesh>

@@ -23,7 +23,20 @@ ToolRequired: ONE of
 	FruitPicker
 	Fertilizer
 	None
-ToolHitMultipliers: TArray-FToolHitAmount
+ToolHitMultipliers(List): 
+	ToolTier: ONE of
+		Wooden
+		Copper
+		Iron
+		Silver
+		Gold
+		Steel
+		Titanium
+		Uranium
+		Diamond
+		Meteor
+	HitMultiplier: integer
+
 BaseHitsRequired: integer
 MinToolTier: ONE of
 	Wooden
@@ -36,9 +49,12 @@ MinToolTier: ONE of
 	Uranium
 	Diamond
 	Meteor
-HitMaterialAmounts: TArray-int32
-HitMaterials: TArray-UMaterialInterface*
-MeshStages: TArray-UStaticMesh*
+HitMaterialAmounts(List): integer
+
+HitMaterials(List): UMaterialInterface*
+
+MeshStages(List): UStaticMesh*
+
 MaterialIndexToSet: integer
 ItemDropped: string
 DropAmount: integer

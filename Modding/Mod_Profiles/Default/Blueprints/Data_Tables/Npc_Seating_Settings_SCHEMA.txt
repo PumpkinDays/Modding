@@ -1,5 +1,14 @@
 Npc_Seating_Settings Structure:
 
-SeatingPositions: TArray-FNpcSeatingPosition
+SeatingPositions(List): 
+	RelativeLocation: 
+		X: float
+		Y: float
+		Z: float
+	RelativeRotation: 
+		Pitch: float
+		Yaw: float
+		Roll: float
+
 SittingAnim: UAnimSequenceBase*
 ChildSittingAnim: UAnimSequenceBase*

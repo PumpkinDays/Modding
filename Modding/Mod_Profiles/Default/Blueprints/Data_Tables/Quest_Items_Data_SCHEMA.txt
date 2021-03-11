@@ -1,6 +1,10 @@
 Quest_Items_Data Structure:
 
-SpringItems: TArray-FName
-SummerItems: TArray-FName
-FallItems: TArray-FName
-WinterItems: TArray-FName
+SpringItems(List): string
+
+SummerItems(List): string
+
+FallItems(List): string
+
+WinterItems(List): string
+

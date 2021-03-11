@@ -15,8 +15,14 @@ Meshes:
 CropPickHeight: ONE of
 	Low
 	High
-Seasons: TArray-TEnumAsByte<ESeason>
-TownVolumes: TArray-FName
+Seasons(List): ONE of
+	Spring
+	Summer
+	Fall
+	Winter
+
+TownVolumes(List): string
+
 IsTree: true/false
 BaseHitsRequired: uint8
 FruitMaterialIndex: integer

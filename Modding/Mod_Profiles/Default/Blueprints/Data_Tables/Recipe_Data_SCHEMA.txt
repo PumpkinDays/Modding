@@ -9,7 +9,20 @@ RecipeDifficulty: ONE of
 	Medium
 	Hard
 	Master
-Ingredients: TArray-FRecipeIngredient
-RecipeSteps: TArray-TEnumAsByte<ECookingStep>
+Ingredients(List): 
+	RowName: string
+	AmountNeeded: integer
+
+RecipeSteps(List): ONE of
+	Chop
+	Mix
+	Fry
+	Bake
+	Boil
+	Assemble
+	Saw
+	Polish
+	Sew
+
 Thumbnail: UTexture2D*
 IsUnknown: true/false

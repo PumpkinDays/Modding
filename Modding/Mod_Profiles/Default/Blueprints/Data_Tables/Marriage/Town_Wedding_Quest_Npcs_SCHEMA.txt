@@ -1,3 +1,11 @@
 Town_Wedding_Quest_Npcs Structure:
 
-Npcs: TArray-FNpcAndQuestTypeField
+Npcs(List): 
+	Npc: string
+	QuestType: ONE of
+		None
+		Clothing
+		Flowers
+		Location
+		StartWedding
+

@@ -1,3 +1,4 @@
 Library_Category_Topics_Data Structure:
 
-NameArray: TArray-FName
+NameArray(List): string
+

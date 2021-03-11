@@ -4,14 +4,27 @@ Row: string
 Thumbnail: UTexture2D*
 FriendlyName: string
 Category: string
-Slots: TArray-FCarpentrySlotShort
+Slots(List): 
+	Slot: string
+	MaterialBaseClass: string
+
 ProducedFurnitureItem: string
 RecipeDifficulty: ONE of
 	Easy
 	Medium
 	Hard
 	Master
-Steps: TArray-TEnumAsByte<ECookingStep>
+Steps(List): ONE of
+	Chop
+	Mix
+	Fry
+	Bake
+	Boil
+	Assemble
+	Saw
+	Polish
+	Sew
+
 PreviewLocOffset: 
 	X: float
 	Y: float

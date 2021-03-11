@@ -1,16 +1,49 @@
 Shop_List_Data Structure:
 
 Category1: 
-	Spring: TArray-FName
-	Summer: TArray-FName
-	Fall: TArray-FName
-	Winter: TArray-FName
+	Spring(List): 	string
+
+	Summer(List): 	string
+
+	Fall(List): 	string
+
+	Winter(List): 	string
+
 Category2: 
-	Spring: TArray-FName
-	Summer: TArray-FName
-	Fall: TArray-FName
-	Winter: TArray-FName
+	Spring(List): 	string
+
+	Summer(List): 	string
+
+	Fall(List): 	string
+
+	Winter(List): 	string
+
 Category1Title: string
 Category1Num: integer
 Category2Num: integer
-BuyFromPlayerCategories: TArray-TEnumAsByte<EInventoryItemCategory>
+BuyFromPlayerCategories(List): ONE of
+	None
+	Tools
+	Furniture
+	Food
+	Crops
+	Herbs
+	Flowers
+	Ores
+	Wood
+	Fish
+	AnimalProducts
+	ClothRawMaterials
+	Clothes
+	Seeds
+	Wallpaper
+	Processors
+	Decor
+	Misc
+	Paintings
+	InventoryExpansion
+	Fertilizer
+	Bugs
+	Fossils
+	Artifacts
+

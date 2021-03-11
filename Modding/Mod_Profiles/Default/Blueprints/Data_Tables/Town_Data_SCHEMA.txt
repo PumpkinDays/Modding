@@ -1,8 +1,10 @@
 Town_Data Structure:
 
 FriendlyName: string
-Npcs: TArray-FName
-LandProperties: TArray-FName
+Npcs(List): string
+
+LandProperties(List): string
+
 SpawnLocation: 
 	X: float
 	Y: float

@@ -7,8 +7,10 @@ Price: integer
 UpgradeToPrice: integer
 Tier: integer
 Mesh: UStaticMesh*
-MaterialNames: TArray-FName
-ExcludeSlots: TArray-int32
+MaterialNames(List): string
+
+ExcludeSlots(List): integer
+
 UpgradeCameraHeight: float
 PaintCameraHeight: float
 PaintCameraPitch: float
@@ -20,7 +22,11 @@ HousingType: ONE of
 	PetHouse
 HousingSpace: integer
 Description: string
-SleepLocs: TArray-FVector
+SleepLocs(List): 
+	X: float
+	Y: float
+	Z: float
+
 FrontArrowPositioning: 
 	Rotation: 
 		X: float

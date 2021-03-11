@@ -1,3 +1,4 @@
 Shared_Heart_Groups Structure:
 
-NameArray: TArray-FName
+NameArray(List): string
+

@@ -1,3 +1,14 @@
 Category_Options_Data Structure:
 
-Options: TArray-TEnumAsByte<EInventoryOptions>
+Options(List): ONE of
+	Equip
+	Unequip
+	Place
+	Eat
+	Hold
+	Wear
+	Info
+	Seeds
+	Pocket
+	Drop
+

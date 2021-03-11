@@ -1,3 +1,4 @@
 Shop_Npc_Options_Data Structure:
 
-NameArray: TArray-FName
+NameArray(List): string
+

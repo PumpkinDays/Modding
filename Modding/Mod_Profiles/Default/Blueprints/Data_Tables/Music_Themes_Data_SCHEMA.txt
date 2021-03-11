@@ -1,3 +1,8 @@
 Music_Themes_Data Structure:
 
-Sounds: TArray-FWorldMusicSound
+Sounds(List): 
+	Sound: TAssetPtr<USoundBase>
+	SoundLoaded: USoundBase*
+	FadesInAndOut: true/false
+	FadeDuration: float
+

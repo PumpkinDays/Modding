@@ -1,15 +1,31 @@
 Npc_Dialogue_Data Structure:
 
-Greetings: TArray-FString
+Greetings(List): string
+
 ErrandConversations: 
-	ErrandOpeningStatements: TArray-FString
-	ErrandClosingStatements: TArray-FString
-	ErrandAcceptanceResponses: TArray-FString
-	ErrandDeclineResponses: TArray-FString
+	ErrandOpeningStatements(List): 	string
+
+	ErrandClosingStatements(List): 	string
+
+	ErrandAcceptanceResponses(List): 	string
+
+	ErrandDeclineResponses(List): 	string
+
 	ErrandCancelledLetterSubject: string
 	ErrandCancelledLetterBody: string
 	ErrandDeliveredButCancelledQuest: string
-HeartConversations: TArray-FHeartConversations
+HeartConversations(List): 
+	MinHeartLevel: float
+	MaxHeartLevel: float
+	HeartConvos(List): 	
+		NpcStatement: string
+		IsQuestion: true/false
+		QuestionResponses(List): 		
+			PlayerAnswer: string
+			NpcResponse: string
+
+
+
 FirstMeetingDiag: 
 	FirstMeetingSameTown: string
 	FirstMeetingDiffTown: string
@@ -21,17 +37,29 @@ GivesPlayerFavGift: string
 ReceivedBirthdayGift: string
 NoErrand: string
 NevermindResponse: string
-ErrandRewardCategory: TArray-FName
-ErrandCompletionStatements: TArray-FString
+ErrandRewardCategory(List): string
+
+ErrandCompletionStatements(List): string
+
 PreShopListDialogue: string
 ConditionalDialogue: 
-	WaypointDialogue: TArray-FWaypointDialogueBank
-	RainDialogue: TArray-FString
-	SnowDialogue: TArray-FString
-	MarketDialogue: TArray-FString
-	RequestOnBoardDialogue: TArray-FString
-	NightDialogue: TArray-FString
-	PlayerBirthdayDialogue: TArray-FString
+	WaypointDialogue(List): 	
+		Waypoint: string
+		DialogueBank(List): 		string
+
+
+	RainDialogue(List): 	string
+
+	SnowDialogue(List): 	string
+
+	MarketDialogue(List): 	string
+
+	RequestOnBoardDialogue(List): 	string
+
+	NightDialogue(List): 	string
+
+	PlayerBirthdayDialogue(List): 	string
+
 	KidDialogue: 
 		Baby: string
 		Toddler: string

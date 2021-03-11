@@ -1,3 +1,4 @@
 Randomized_Values_Data Structure:
 
-NameArray: TArray-FName
+NameArray(List): string
+

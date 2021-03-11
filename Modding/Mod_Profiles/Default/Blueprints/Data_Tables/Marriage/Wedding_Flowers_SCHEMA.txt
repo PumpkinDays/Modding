@@ -1,3 +1,7 @@
 Wedding_Flowers Structure:
 
-MeshSettings: TArray-FMeshMaterialsField
+MeshSettings(List): 
+	Mesh: UStaticMesh*
+	MaterialsToReplace(List): 	UMaterialInterface*
+
+

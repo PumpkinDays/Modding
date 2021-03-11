@@ -64,4 +64,8 @@ BuyPrice: integer
 SellPrice: integer
 ShopMesh: TAssetPtr<UStaticMesh>
 OptionsString: string
-ExtraOptions: TArray-FExtraOption
+ExtraOptions(List): 
+	Key: string
+	Index: integer
+	Value: string
+

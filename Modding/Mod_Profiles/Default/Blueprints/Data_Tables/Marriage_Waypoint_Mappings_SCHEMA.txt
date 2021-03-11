@@ -1,3 +1,6 @@
 Marriage_Waypoint_Mappings Structure:
 
-RemappedWaypoints: TArray-FMarriageWaypointMappingItem
+RemappedWaypoints(List): 
+	OriginalWaypoint: string
+	NewFestivalWaypoint: string
+

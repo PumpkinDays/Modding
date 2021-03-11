@@ -1,6 +1,12 @@
 Processing_Machines_Data Structure:
 
-Recipes: TArray-FProcessedItemResult
+Recipes(List): 
+	Ingredient: string
+	AmountConsumed: integer
+	AmountConsumed2: integer
+	ItemProduced: string
+	AmountProduced: integer
+
 FriendlyName: string
 ProcessingSound: USoundBase*
 ParticleSystem: UParticleSystem*

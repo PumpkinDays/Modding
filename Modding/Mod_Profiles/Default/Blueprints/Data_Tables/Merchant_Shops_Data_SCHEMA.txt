@@ -3,7 +3,47 @@ Merchant_Shops_Data Structure:
 FriendlyName: string
 ShopMesh: UStaticMesh*
 Class: TSubclassOf<AActor> 
-TimeRanges: TArray-FPumpkinSingleDayTimeRange
-DateRanges: TArray-FPumpkinTimeRange
+TimeRanges(List): 
+	Date: 
+		Season: ONE of
+			Spring
+			Summer
+			Fall
+			Winter
+		Day: integer
+	StartTime: 
+		Hour: integer
+		Minute: integer
+	EndTime: 
+		Hour: integer
+		Minute: integer
+	UseTime: true/false
+
+DateRanges(List): 
+	StartDate: 
+		Season: ONE of
+			Spring
+			Summer
+			Fall
+			Winter
+		DayOfSeason: integer
+		Year: integer
+	EndDate: 
+		Season: ONE of
+			Spring
+			Summer
+			Fall
+			Winter
+		DayOfSeason: integer
+		Year: integer
+	UseDate: true/false
+	StartTime: 
+		Hour: integer
+		Minute: integer
+	EndTime: 
+		Hour: integer
+		Minute: integer
+	UseTime: true/false
+
 SpawnWaypoint: string
 ShowsInCalendar: true/false

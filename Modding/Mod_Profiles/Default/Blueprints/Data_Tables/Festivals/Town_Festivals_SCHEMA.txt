@@ -2,7 +2,15 @@ Town_Festivals Structure:
 
 EventStartingDialogue: string
 NoEventsLeftDialogue: string
-SpringMinigames: TArray-FSeasonMinigame
-SummerMinigames: TArray-FSeasonMinigame
-FallMinigames: TArray-FSeasonMinigame
-WinterMinigames: TArray-FSeasonMinigame
+SpringMinigames(List): 
+	MinigameRow: string
+
+SummerMinigames(List): 
+	MinigameRow: string
+
+FallMinigames(List): 
+	MinigameRow: string
+
+WinterMinigames(List): 
+	MinigameRow: string
+

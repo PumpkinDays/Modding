@@ -6,5 +6,10 @@ ItemDropped: string
 ItemAmount: integer
 RespawnHours: integer
 VisibilityDistance: float
-NoSpawnSeasons: TArray-TEnumAsByte<ESeason>
+NoSpawnSeasons(List): ONE of
+	Spring
+	Summer
+	Fall
+	Winter
+
 FactoryPreventsRespawn: true/false

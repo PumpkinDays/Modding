@@ -33,9 +33,21 @@ TriggerRequirements:
 		PermanentlyStopped
 	HeartNpc: string
 	RequiredHeartLevel: float
-	ViewedCutscenes: TArray-FName
-NpcsToPlaceInSet: TArray-FName
-CutsceneDialogue: TArray-FCutsceneDialoguePiece
+	ViewedCutscenes(List): 	string
+
+NpcsToPlaceInSet(List): string
+
+CutsceneDialogue(List): 
+	SpeakingNpc: string
+	SpokenDialogue: string
+	CameraToUse: integer
+	AllNpcsLookAtMainPlayer: true/false
+	HoldItemWhileTalking: string
+	QuestionResponses(List): 	
+		PlayerAnswer: string
+		NpcResponse: string
+
+
 ItemReward: string
 ItemAmount: integer
 ItemSenderFriendly: string

@@ -2,5 +2,30 @@ Carpentry_Slots_Data Structure:
 
 Row: string
 FriendlyName: string
-Categories: TArray-TEnumAsByte<EInventoryItemCategory>
+Categories(List): ONE of
+	None
+	Tools
+	Furniture
+	Food
+	Crops
+	Herbs
+	Flowers
+	Ores
+	Wood
+	Fish
+	AnimalProducts
+	ClothRawMaterials
+	Clothes
+	Seeds
+	Wallpaper
+	Processors
+	Decor
+	Misc
+	Paintings
+	InventoryExpansion
+	Fertilizer
+	Bugs
+	Fossils
+	Artifacts
+
 RequiredAmount: integer

@@ -3,4 +3,7 @@ Birthday_Letters Structure:
 Subject: string
 Body: string
 Sender: string
-CycledGifts: TArray-FRecipeIngredient
+CycledGifts(List): 
+	RowName: string
+	AmountNeeded: integer
+

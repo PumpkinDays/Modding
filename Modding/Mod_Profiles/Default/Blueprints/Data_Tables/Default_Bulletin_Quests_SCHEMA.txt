@@ -1,3 +1,12 @@
 Default_Bulletin_Quests Structure:
 
-Quests: TArray-FQuest
+Quests(List): 
+	Item: string
+	ItemAmount: integer
+	Npc: string
+	StartingHoursLeft: integer
+	HoursToComplete: integer
+	StartingStatement: string
+	ClosingStatement: string
+	IsNpcErrand: true/false
+

@@ -22,23 +22,61 @@ PlayerPlacementMode: ONE of
 	DoNotTeleport
 	UseWaypoints
 	UseBlueprintValues
-CompetitorWaypointsIfUsed: TArray-FName
-IntroductionAnimations: TArray-TAssetPtr<UAnimSequenceBase>
+CompetitorWaypointsIfUsed(List): string
+
+IntroductionAnimations(List): TAssetPtr<UAnimSequenceBase>
+
 AllowMovementDuringMinigame: true/false
 RequiredInventorySpace: integer
 NoDifficultyRewards: 
-	FirstPlaceRewards: TArray-FRecipeIngredient
-	SecondPlaceRewards: TArray-FRecipeIngredient
-	ThirdPlaceRewards: TArray-FRecipeIngredient
+	FirstPlaceRewards(List): 	
+		RowName: string
+		AmountNeeded: integer
+
+	SecondPlaceRewards(List): 	
+		RowName: string
+		AmountNeeded: integer
+
+	ThirdPlaceRewards(List): 	
+		RowName: string
+		AmountNeeded: integer
+
 EasyRewards: 
-	FirstPlaceRewards: TArray-FRecipeIngredient
-	SecondPlaceRewards: TArray-FRecipeIngredient
-	ThirdPlaceRewards: TArray-FRecipeIngredient
+	FirstPlaceRewards(List): 	
+		RowName: string
+		AmountNeeded: integer
+
+	SecondPlaceRewards(List): 	
+		RowName: string
+		AmountNeeded: integer
+
+	ThirdPlaceRewards(List): 	
+		RowName: string
+		AmountNeeded: integer
+
 MediumRewards: 
-	FirstPlaceRewards: TArray-FRecipeIngredient
-	SecondPlaceRewards: TArray-FRecipeIngredient
-	ThirdPlaceRewards: TArray-FRecipeIngredient
+	FirstPlaceRewards(List): 	
+		RowName: string
+		AmountNeeded: integer
+
+	SecondPlaceRewards(List): 	
+		RowName: string
+		AmountNeeded: integer
+
+	ThirdPlaceRewards(List): 	
+		RowName: string
+		AmountNeeded: integer
+
 HardRewards: 
-	FirstPlaceRewards: TArray-FRecipeIngredient
-	SecondPlaceRewards: TArray-FRecipeIngredient
-	ThirdPlaceRewards: TArray-FRecipeIngredient
+	FirstPlaceRewards(List): 	
+		RowName: string
+		AmountNeeded: integer
+
+	SecondPlaceRewards(List): 	
+		RowName: string
+		AmountNeeded: integer
+
+	ThirdPlaceRewards(List): 	
+		RowName: string
+		AmountNeeded: integer
+

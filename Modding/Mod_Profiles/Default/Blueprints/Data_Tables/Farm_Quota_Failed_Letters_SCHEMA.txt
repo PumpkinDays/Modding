@@ -1,3 +1,10 @@
 Farm_Quota_Failed_Letters Structure:
 
-Array: TArray-FScheduledLetter
+Array(List): 
+	Subject: string
+	Body: string
+	Sender: string
+	Item: string
+	ItemAmount: integer
+	GoldAmount: integer
+

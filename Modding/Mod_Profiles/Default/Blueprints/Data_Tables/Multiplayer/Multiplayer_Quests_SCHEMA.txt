@@ -20,7 +20,11 @@ Letters:
 			RowName: string
 			StackAmount: integer
 			OptionsString: string
-			ExtraOptions: TArray-FExtraOption
+			ExtraOptions(List): 			
+				Key: string
+				Index: integer
+				Value: string
+
 		AttachedGold: integer
 		Identifier: integer
 	CompletedLetter: 
@@ -31,6 +35,10 @@ Letters:
 			RowName: string
 			StackAmount: integer
 			OptionsString: string
-			ExtraOptions: TArray-FExtraOption
+			ExtraOptions(List): 			
+				Key: string
+				Index: integer
+				Value: string
+
 		AttachedGold: integer
 		Identifier: integer

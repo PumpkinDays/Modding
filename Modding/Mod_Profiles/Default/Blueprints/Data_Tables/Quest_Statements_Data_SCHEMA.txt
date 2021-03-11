@@ -1,4 +1,6 @@
 Quest_Statements_Data Structure:
 
-StartingStatements: TArray-FName
-ClosingStatements: TArray-FName
+StartingStatements(List): string
+
+ClosingStatements(List): string
+

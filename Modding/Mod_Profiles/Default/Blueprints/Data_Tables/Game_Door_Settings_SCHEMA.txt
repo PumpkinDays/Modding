@@ -10,8 +10,24 @@ OpenTime:
 CloseTime: 
 	Hour: integer
 	Minute: integer
-ClosedDaysOfWeek: TArray-TEnumAsByte<EDayOfWeekShort>
-ClosedDates: TArray-FPumpkinDateShort
+ClosedDaysOfWeek(List): ONE of
+	Sun
+	Mon
+	Tue
+	Wed
+	Thur
+	Fri
+	Sat
+
+ClosedDates(List): 
+	Season: ONE of
+		Spring
+		Summer
+		Fall
+		Winter
+	DayOfSeason: integer
+	Year: integer
+
 RequiredHeartLevel: integer
 HeartLevelNpc: string
 OpenDoorCheckTransform: 
@@ -44,7 +60,8 @@ OpenDoorAlwaysTransform:
 		Z: float
 DoorNavigationBlockerLength: float
 DoorOpensInsteadOfUnlocks: true/false
-NpcsThatCanOpenDoor: TArray-FName
+NpcsThatCanOpenDoor(List): string
+
 ClosedTime: string
 ClosedDayOfWeek: string
 ClosedHoliday: string

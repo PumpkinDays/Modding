@@ -1,4 +1,18 @@
 Character_Customization_Socks Structure:
 
-MaterialSlots: TArray-TEnumAsByte<ESockMaterialElements>
+MaterialSlots(List): ONE of
+	AnkleBottom
+	Toes
+	Knees
+	HighKnees
+	Ankles
+	ESockMaterialElements_MAX
+	
+	
+	
+	
+	
+	
+	
+
 Material: UMaterialInterface*

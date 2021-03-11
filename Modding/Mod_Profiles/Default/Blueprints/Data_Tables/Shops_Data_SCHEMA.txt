@@ -3,9 +3,24 @@ Shops_Data Structure:
 OpeningHour24: integer
 ClosingHour24: integer
 Items: 
-	Spring: TArray-FName
-	Summer: TArray-FName
-	Fall: TArray-FName
-	Winter: TArray-FName
-SlotItemOverrides: TArray-FShopSlotItems
+	Spring(List): 	string
+
+	Summer(List): 	string
+
+	Fall(List): 	string
+
+	Winter(List): 	string
+
+SlotItemOverrides(List): 
+	SlotName: string
+	Items: 
+		Spring(List): 		string
+
+		Summer(List): 		string
+
+		Fall(List): 		string
+
+		Winter(List): 		string
+
+
 DisplayName: string

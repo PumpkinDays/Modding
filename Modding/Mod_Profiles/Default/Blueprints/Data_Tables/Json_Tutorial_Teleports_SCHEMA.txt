@@ -6,4 +6,5 @@ PlayerOffset:
 	X: float
 	Y: float
 	Z: float
-Options: TArray-FName
+Options(List): string
+

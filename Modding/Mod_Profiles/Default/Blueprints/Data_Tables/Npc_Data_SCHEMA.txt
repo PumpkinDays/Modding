@@ -13,7 +13,15 @@ Birthday:
 		Fall
 		Winter
 	Day: integer
-DaysOff: TArray-TEnumAsByte<EDayOfWeekShort>
+DaysOff(List): ONE of
+	Sun
+	Mon
+	Tue
+	Wed
+	Thur
+	Fri
+	Sat
+
 QuestVoiceClip: USoundBase*
 HelloVoiceClip: USoundBase*
 LikedGiftParticle: UParticleSystem*
