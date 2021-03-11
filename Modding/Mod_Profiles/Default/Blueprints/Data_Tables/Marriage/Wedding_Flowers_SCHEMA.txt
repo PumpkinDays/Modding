@@ -1,7 +1,7 @@
 Wedding_Flowers Structure:
 
-MeshSettings(List): 
+MeshSettings(Array): 
 	Mesh: UStaticMesh*
-	MaterialsToReplace(List): 	UMaterialInterface*
+	MaterialsToReplace(Array): 	UMaterialInterface*
 
 

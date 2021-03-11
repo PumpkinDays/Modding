@@ -1,6 +1,6 @@
 Npc_Expressions_Data Structure:
 
-Eyebrows(List): 
+Eyebrows(Array): 
 	Npc: string
 	Material: UMaterialInterface*
 

@@ -1,4 +1,4 @@
 Randomized_Values_Data Structure:
 
-NameArray(List): string
+NameArray(Array): string
 

@@ -1,6 +1,6 @@
 Processing_Machines_Data Structure:
 
-Recipes(List): 
+Recipes(Array): 
 	Ingredient: string
 	AmountConsumed: integer
 	AmountConsumed2: integer

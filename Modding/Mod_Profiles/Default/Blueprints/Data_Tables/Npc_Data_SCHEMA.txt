@@ -13,7 +13,7 @@ Birthday:
 		Fall
 		Winter
 	Day: integer
-DaysOff(List): ONE of
+DaysOff(Array): ONE of
 	Sun
 	Mon
 	Tue

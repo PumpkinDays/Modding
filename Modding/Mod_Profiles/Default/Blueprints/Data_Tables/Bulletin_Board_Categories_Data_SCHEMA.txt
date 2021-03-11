@@ -1,4 +1,4 @@
 Bulletin_Board_Categories_Data Structure:
 
-NameArray(List): string
+NameArray(Array): string
 

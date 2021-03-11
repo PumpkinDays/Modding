@@ -6,7 +6,7 @@ Difficulty: ONE of
 	Hard
 	VeryHard
 	NearlyImpossible
-FishAreas(List): 
+FishAreas(Array): 
 	Season: ONE of
 		Spring
 		Summer
@@ -18,7 +18,7 @@ FishAreas(List):
 		River
 		DeepOcean
 
-Occurences(List): integer
+Occurences(Array): integer
 
 IsTrash: true/false
 HoursToNaturallyBreed: integer

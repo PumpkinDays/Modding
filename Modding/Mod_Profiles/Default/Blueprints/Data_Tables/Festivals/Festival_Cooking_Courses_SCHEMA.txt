@@ -1,4 +1,4 @@
 Festival_Cooking_Courses Structure:
 
-NameArray(List): string
+NameArray(Array): string
 

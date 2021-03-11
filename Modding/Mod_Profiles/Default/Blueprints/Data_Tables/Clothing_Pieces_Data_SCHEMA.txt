@@ -18,7 +18,7 @@ PrimarySlot: ONE of
 	Shoes
 Mesh: USkeletalMesh*
 NonSkeletalMesh: UStaticMesh*
-CoveringMaterials(List): integer
+CoveringMaterials(Array): integer
 
 Category: ONE of
 	None
@@ -39,7 +39,7 @@ Category: ONE of
 	Ring
 	Socks
 	Shoes
-ExtraOptions(List): ONE of
+ExtraOptions(Array): ONE of
 	HideLowerPantsForBoots
 	ReplaceHairWithHatVersion
 

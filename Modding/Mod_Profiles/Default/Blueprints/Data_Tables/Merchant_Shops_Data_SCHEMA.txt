@@ -3,7 +3,7 @@ Merchant_Shops_Data Structure:
 FriendlyName: string
 ShopMesh: UStaticMesh*
 Class: TSubclassOf<AActor> 
-TimeRanges(List): 
+TimeRanges(Array): 
 	Date: 
 		Season: ONE of
 			Spring
@@ -19,7 +19,7 @@ TimeRanges(List):
 		Minute: integer
 	UseTime: true/false
 
-DateRanges(List): 
+DateRanges(Array): 
 	StartDate: 
 		Season: ONE of
 			Spring

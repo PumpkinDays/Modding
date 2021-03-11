@@ -20,7 +20,7 @@ Letters:
 			RowName: string
 			StackAmount: integer
 			OptionsString: string
-			ExtraOptions(List): 			
+			ExtraOptions(Array): 			
 				Key: string
 				Index: integer
 				Value: string
@@ -35,7 +35,7 @@ Letters:
 			RowName: string
 			StackAmount: integer
 			OptionsString: string
-			ExtraOptions(List): 			
+			ExtraOptions(Array): 			
 				Key: string
 				Index: integer
 				Value: string

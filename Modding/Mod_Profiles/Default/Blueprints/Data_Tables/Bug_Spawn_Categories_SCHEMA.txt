@@ -1,4 +1,4 @@
 Bug_Spawn_Categories Structure:
 
-NameArray(List): string
+NameArray(Array): string
 

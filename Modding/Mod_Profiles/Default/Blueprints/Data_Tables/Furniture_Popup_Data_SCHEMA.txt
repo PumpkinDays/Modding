@@ -1,7 +1,7 @@
 Furniture_Popup_Data Structure:
 
 PopupMessage: string
-PopupOptions(List): string
+PopupOptions(Array): string
 
 InteractIndex: integer
 PickupIndex: integer

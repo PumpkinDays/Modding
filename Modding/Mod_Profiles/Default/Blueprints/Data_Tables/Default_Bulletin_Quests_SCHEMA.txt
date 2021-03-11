@@ -1,6 +1,6 @@
 Default_Bulletin_Quests Structure:
 
-Quests(List): 
+Quests(Array): 
 	Item: string
 	ItemAmount: integer
 	Npc: string

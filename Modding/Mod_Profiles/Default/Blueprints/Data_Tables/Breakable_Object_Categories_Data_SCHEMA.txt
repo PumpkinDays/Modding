@@ -1,4 +1,4 @@
 Breakable_Object_Categories_Data Structure:
 
-NameArray(List): string
+NameArray(Array): string
 

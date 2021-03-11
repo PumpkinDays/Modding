@@ -10,7 +10,7 @@ OpenTime:
 CloseTime: 
 	Hour: integer
 	Minute: integer
-ClosedDaysOfWeek(List): ONE of
+ClosedDaysOfWeek(Array): ONE of
 	Sun
 	Mon
 	Tue
@@ -19,7 +19,7 @@ ClosedDaysOfWeek(List): ONE of
 	Fri
 	Sat
 
-ClosedDates(List): 
+ClosedDates(Array): 
 	Season: ONE of
 		Spring
 		Summer
@@ -60,7 +60,7 @@ OpenDoorAlwaysTransform:
 		Z: float
 DoorNavigationBlockerLength: float
 DoorOpensInsteadOfUnlocks: true/false
-NpcsThatCanOpenDoor(List): string
+NpcsThatCanOpenDoor(Array): string
 
 ClosedTime: string
 ClosedDayOfWeek: string

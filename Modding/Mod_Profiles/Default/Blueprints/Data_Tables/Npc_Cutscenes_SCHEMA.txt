@@ -33,17 +33,17 @@ TriggerRequirements:
 		PermanentlyStopped
 	HeartNpc: string
 	RequiredHeartLevel: float
-	ViewedCutscenes(List): 	string
+	ViewedCutscenes(Array): 	string
 
-NpcsToPlaceInSet(List): string
+NpcsToPlaceInSet(Array): string
 
-CutsceneDialogue(List): 
+CutsceneDialogue(Array): 
 	SpeakingNpc: string
 	SpokenDialogue: string
 	CameraToUse: integer
 	AllNpcsLookAtMainPlayer: true/false
 	HoldItemWhileTalking: string
-	QuestionResponses(List): 	
+	QuestionResponses(Array): 	
 		PlayerAnswer: string
 		NpcResponse: string
 

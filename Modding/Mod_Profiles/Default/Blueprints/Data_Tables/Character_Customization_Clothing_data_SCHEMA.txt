@@ -2,5 +2,5 @@ Character_Customization_Clothing_Data Structure:
 
 RowName: string
 Thumbnail: UTexture2D*
-ClothingItems(List): string
+ClothingItems(Array): string
 

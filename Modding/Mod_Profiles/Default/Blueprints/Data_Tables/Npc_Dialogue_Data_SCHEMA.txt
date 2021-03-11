@@ -1,26 +1,26 @@
 Npc_Dialogue_Data Structure:
 
-Greetings(List): string
+Greetings(Array): string
 
 ErrandConversations: 
-	ErrandOpeningStatements(List): 	string
+	ErrandOpeningStatements(Array): 	string
 
-	ErrandClosingStatements(List): 	string
+	ErrandClosingStatements(Array): 	string
 
-	ErrandAcceptanceResponses(List): 	string
+	ErrandAcceptanceResponses(Array): 	string
 
-	ErrandDeclineResponses(List): 	string
+	ErrandDeclineResponses(Array): 	string
 
 	ErrandCancelledLetterSubject: string
 	ErrandCancelledLetterBody: string
 	ErrandDeliveredButCancelledQuest: string
-HeartConversations(List): 
+HeartConversations(Array): 
 	MinHeartLevel: float
 	MaxHeartLevel: float
-	HeartConvos(List): 	
+	HeartConvos(Array): 	
 		NpcStatement: string
 		IsQuestion: true/false
-		QuestionResponses(List): 		
+		QuestionResponses(Array): 		
 			PlayerAnswer: string
 			NpcResponse: string
 
@@ -37,28 +37,28 @@ GivesPlayerFavGift: string
 ReceivedBirthdayGift: string
 NoErrand: string
 NevermindResponse: string
-ErrandRewardCategory(List): string
+ErrandRewardCategory(Array): string
 
-ErrandCompletionStatements(List): string
+ErrandCompletionStatements(Array): string
 
 PreShopListDialogue: string
 ConditionalDialogue: 
-	WaypointDialogue(List): 	
+	WaypointDialogue(Array): 	
 		Waypoint: string
-		DialogueBank(List): 		string
+		DialogueBank(Array): 		string
 
 
-	RainDialogue(List): 	string
+	RainDialogue(Array): 	string
 
-	SnowDialogue(List): 	string
+	SnowDialogue(Array): 	string
 
-	MarketDialogue(List): 	string
+	MarketDialogue(Array): 	string
 
-	RequestOnBoardDialogue(List): 	string
+	RequestOnBoardDialogue(Array): 	string
 
-	NightDialogue(List): 	string
+	NightDialogue(Array): 	string
 
-	PlayerBirthdayDialogue(List): 	string
+	PlayerBirthdayDialogue(Array): 	string
 
 	KidDialogue: 
 		Baby: string

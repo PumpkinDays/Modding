@@ -1,10 +1,10 @@
 Farm_Quota_Items Structure:
 
-Spring(List): string
+Spring(Array): string
 
-Summer(List): string
+Summer(Array): string
 
-Fall(List): string
+Fall(Array): string
 
-Winter(List): string
+Winter(Array): string
 

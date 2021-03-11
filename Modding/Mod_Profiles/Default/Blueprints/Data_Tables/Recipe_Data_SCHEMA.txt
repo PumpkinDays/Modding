@@ -9,11 +9,11 @@ RecipeDifficulty: ONE of
 	Medium
 	Hard
 	Master
-Ingredients(List): 
+Ingredients(Array): 
 	RowName: string
 	AmountNeeded: integer
 
-RecipeSteps(List): ONE of
+RecipeSteps(Array): ONE of
 	Chop
 	Mix
 	Fry

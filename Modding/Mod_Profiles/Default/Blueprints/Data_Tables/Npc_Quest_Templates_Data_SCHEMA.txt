@@ -43,7 +43,7 @@ BeginningDialogue: string
 DeclineQuestDialogue: string
 EndingDialogue: string
 MarkedOnMap: true/false
-QuestLocs(List): 
+QuestLocs(Array): 
 	QTemplateItem: string
 	QTemplateLocation: 
 		X: float

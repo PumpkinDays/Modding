@@ -1,4 +1,4 @@
 Disallow_Dating_Groups Structure:
 
-NameArray(List): string
+NameArray(Array): string
 

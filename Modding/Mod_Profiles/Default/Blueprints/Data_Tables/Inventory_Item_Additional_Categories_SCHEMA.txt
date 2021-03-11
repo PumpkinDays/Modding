@@ -1,4 +1,4 @@
 Inventory_Item_Additional_Categories Structure:
 
-NameArray(List): string
+NameArray(Array): string
 

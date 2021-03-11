@@ -1,4 +1,4 @@
 Favorite_Food_Category_Items_Data Structure:
 
-NameArray(List): string
+NameArray(Array): string
 

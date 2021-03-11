@@ -1,6 +1,6 @@
 Character_Customization_Socks Structure:
 
-MaterialSlots(List): ONE of
+MaterialSlots(Array): ONE of
 	AnkleBottom
 	Toes
 	Knees

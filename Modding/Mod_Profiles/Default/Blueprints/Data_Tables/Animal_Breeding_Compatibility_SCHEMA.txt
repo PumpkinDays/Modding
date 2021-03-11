@@ -2,9 +2,9 @@ Animal_Breeding_Compatibility Structure:
 
 MaleMate: string
 FemaleMate: string
-NormalChildrenWithoutCoat(List): string
+NormalChildrenWithoutCoat(Array): string
 
-RareChildrenWithoutCoat(List): string
+RareChildrenWithoutCoat(Array): string
 
 BreedingCost: integer
 PregnancyHours: integer

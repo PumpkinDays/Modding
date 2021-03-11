@@ -3,7 +3,7 @@ Birthday_Letters Structure:
 Subject: string
 Body: string
 Sender: string
-CycledGifts(List): 
+CycledGifts(Array): 
 	RowName: string
 	AmountNeeded: integer
 

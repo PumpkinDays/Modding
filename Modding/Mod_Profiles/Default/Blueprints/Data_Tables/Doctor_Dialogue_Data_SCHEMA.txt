@@ -1,7 +1,7 @@
 Doctor_Dialogue_Data Structure:
 
-Causes(List): string
+Causes(Array): string
 
-CauseDialogue(List): string
+CauseDialogue(Array): string
 
 Suffix: string

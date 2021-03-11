@@ -1,6 +1,6 @@
 Clothing_Personality_Replacements Structure:
 
-ClothingItems(List): string
+ClothingItems(Array): string
 
 Normal: UAnimSequenceBase*
 Large: UAnimSequenceBase*

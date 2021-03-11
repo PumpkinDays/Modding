@@ -6,7 +6,7 @@ ItemDropped: string
 ItemAmount: integer
 RespawnHours: integer
 VisibilityDistance: float
-NoSpawnSeasons(List): ONE of
+NoSpawnSeasons(Array): ONE of
 	Spring
 	Summer
 	Fall

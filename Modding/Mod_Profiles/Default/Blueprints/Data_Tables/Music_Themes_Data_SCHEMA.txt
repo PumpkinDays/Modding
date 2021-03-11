@@ -1,6 +1,6 @@
 Music_Themes_Data Structure:
 
-Sounds(List): 
+Sounds(Array): 
 	Sound: TAssetPtr<USoundBase>
 	SoundLoaded: USoundBase*
 	FadesInAndOut: true/false

@@ -1,6 +1,6 @@
 Child_Outfits Structure:
 
-Outfits(List): 
-	Materials(List): 	TAssetPtr<UMaterialInterface>
+Outfits(Array): 
+	Materials(Array): 	TAssetPtr<UMaterialInterface>
 
 

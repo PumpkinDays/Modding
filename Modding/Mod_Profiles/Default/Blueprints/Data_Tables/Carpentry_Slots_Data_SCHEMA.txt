@@ -2,7 +2,7 @@ Carpentry_Slots_Data Structure:
 
 Row: string
 FriendlyName: string
-Categories(List): ONE of
+Categories(Array): ONE of
 	None
 	Tools
 	Furniture

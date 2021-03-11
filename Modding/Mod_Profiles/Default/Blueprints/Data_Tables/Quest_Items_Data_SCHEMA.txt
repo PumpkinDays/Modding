@@ -1,10 +1,10 @@
 Quest_Items_Data Structure:
 
-SpringItems(List): string
+SpringItems(Array): string
 
-SummerItems(List): string
+SummerItems(Array): string
 
-FallItems(List): string
+FallItems(Array): string
 
-WinterItems(List): string
+WinterItems(Array): string
 

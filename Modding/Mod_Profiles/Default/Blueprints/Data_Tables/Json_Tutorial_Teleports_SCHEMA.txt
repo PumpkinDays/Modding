@@ -6,5 +6,5 @@ PlayerOffset:
 	X: float
 	Y: float
 	Z: float
-Options(List): string
+Options(Array): string
 

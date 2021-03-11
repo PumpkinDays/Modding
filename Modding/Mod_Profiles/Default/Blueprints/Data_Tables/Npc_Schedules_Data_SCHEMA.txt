@@ -1,6 +1,6 @@
 Npc_Schedules_Data Structure:
 
-Tasks(List): 
+Tasks(Array): 
 	Hour: integer
 	Waypoint: string
 	PrimaryAnimation: UAnimSequenceBase*
@@ -25,7 +25,7 @@ Tasks(List):
 	IsRanTo: true/false
 	ScheduleExpression: string
 
-DayOffTasks(List): 
+DayOffTasks(Array): 
 	Hour: integer
 	Waypoint: string
 	PrimaryAnimation: UAnimSequenceBase*
@@ -50,7 +50,7 @@ DayOffTasks(List):
 	IsRanTo: true/false
 	ScheduleExpression: string
 
-MarriedTasks(List): 
+MarriedTasks(Array): 
 	Hour: integer
 	Waypoint: string
 	PrimaryAnimation: UAnimSequenceBase*
@@ -76,7 +76,7 @@ MarriedTasks(List):
 	ScheduleExpression: string
 
 FestivalSchedules: 
-	SpringFestival(List): 	
+	SpringFestival(Array): 	
 		Hour: integer
 		Waypoint: string
 		PrimaryAnimation: UAnimSequenceBase*
@@ -101,7 +101,7 @@ FestivalSchedules:
 		IsRanTo: true/false
 		ScheduleExpression: string
 
-	SummerFestival(List): 	
+	SummerFestival(Array): 	
 		Hour: integer
 		Waypoint: string
 		PrimaryAnimation: UAnimSequenceBase*
@@ -126,7 +126,7 @@ FestivalSchedules:
 		IsRanTo: true/false
 		ScheduleExpression: string
 
-	FallFestival(List): 	
+	FallFestival(Array): 	
 		Hour: integer
 		Waypoint: string
 		PrimaryAnimation: UAnimSequenceBase*
@@ -151,7 +151,7 @@ FestivalSchedules:
 		IsRanTo: true/false
 		ScheduleExpression: string
 
-	WinterFestival(List): 	
+	WinterFestival(Array): 	
 		Hour: integer
 		Waypoint: string
 		PrimaryAnimation: UAnimSequenceBase*

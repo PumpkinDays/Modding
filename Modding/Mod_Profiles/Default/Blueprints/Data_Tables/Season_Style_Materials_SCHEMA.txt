@@ -1,6 +1,6 @@
 Season_Style_Materials Structure:
 
-SpringMats(List): 
+SpringMats(Array): 
 	MaterialIndex: integer
 	SetParameter: true/false
 	ParameterName: string
@@ -11,7 +11,7 @@ SpringMats(List):
 		A: float
 	OverwriteMaterialInstead: UMaterialInterface*
 
-SummerMats(List): 
+SummerMats(Array): 
 	MaterialIndex: integer
 	SetParameter: true/false
 	ParameterName: string
@@ -22,7 +22,7 @@ SummerMats(List):
 		A: float
 	OverwriteMaterialInstead: UMaterialInterface*
 
-FallMats(List): 
+FallMats(Array): 
 	MaterialIndex: integer
 	SetParameter: true/false
 	ParameterName: string
@@ -33,7 +33,7 @@ FallMats(List):
 		A: float
 	OverwriteMaterialInstead: UMaterialInterface*
 
-WinterMats(List): 
+WinterMats(Array): 
 	MaterialIndex: integer
 	SetParameter: true/false
 	ParameterName: string

@@ -1,6 +1,6 @@
 Npc_Seating_Settings Structure:
 
-SeatingPositions(List): 
+SeatingPositions(Array): 
 	RelativeLocation: 
 		X: float
 		Y: float

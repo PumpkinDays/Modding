@@ -1,6 +1,6 @@
 Animal_Animations Structure:
 
-IdleAnimations(List): UAnimSequenceBase*
+IdleAnimations(Array): UAnimSequenceBase*
 
 GrazingAnimation: UAnimSequenceBase*
 WalkingAnimation: UAnimSequenceBase*

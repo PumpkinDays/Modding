@@ -3,7 +3,7 @@ Character_Customization_Personality_Data Structure:
 RowName: string
 Animation: UAnimSequenceBase*
 LargeVersion: UAnimSequenceBase*
-LargeVersionConditions(List): 
+LargeVersionConditions(Array): 
 	SliderType: ONE of
 		Weight
 		Chest

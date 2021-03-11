@@ -1,6 +1,6 @@
 Marriage_Waypoint_Mappings Structure:
 
-RemappedWaypoints(List): 
+RemappedWaypoints(Array): 
 	OriginalWaypoint: string
 	NewFestivalWaypoint: string
 

@@ -2,15 +2,15 @@ Town_Festivals Structure:
 
 EventStartingDialogue: string
 NoEventsLeftDialogue: string
-SpringMinigames(List): 
+SpringMinigames(Array): 
 	MinigameRow: string
 
-SummerMinigames(List): 
+SummerMinigames(Array): 
 	MinigameRow: string
 
-FallMinigames(List): 
+FallMinigames(Array): 
 	MinigameRow: string
 
-WinterMinigames(List): 
+WinterMinigames(Array): 
 	MinigameRow: string
 

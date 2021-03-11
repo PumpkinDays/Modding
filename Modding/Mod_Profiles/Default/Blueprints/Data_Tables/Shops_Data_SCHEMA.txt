@@ -3,24 +3,24 @@ Shops_Data Structure:
 OpeningHour24: integer
 ClosingHour24: integer
 Items: 
-	Spring(List): 	string
+	Spring(Array): 	string
 
-	Summer(List): 	string
+	Summer(Array): 	string
 
-	Fall(List): 	string
+	Fall(Array): 	string
 
-	Winter(List): 	string
+	Winter(Array): 	string
 
-SlotItemOverrides(List): 
+SlotItemOverrides(Array): 
 	SlotName: string
 	Items: 
-		Spring(List): 		string
+		Spring(Array): 		string
 
-		Summer(List): 		string
+		Summer(Array): 		string
 
-		Fall(List): 		string
+		Fall(Array): 		string
 
-		Winter(List): 		string
+		Winter(Array): 		string
 
 
 DisplayName: string

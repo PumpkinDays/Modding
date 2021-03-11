@@ -1,6 +1,6 @@
 Quest_Statements_Data Structure:
 
-StartingStatements(List): string
+StartingStatements(Array): string
 
-ClosingStatements(List): string
+ClosingStatements(Array): string
 

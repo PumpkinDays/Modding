@@ -4,7 +4,7 @@ Row: string
 Thumbnail: UTexture2D*
 FriendlyName: string
 Category: string
-Slots(List): 
+Slots(Array): 
 	Slot: string
 	MaterialBaseClass: string
 
@@ -14,7 +14,7 @@ RecipeDifficulty: ONE of
 	Medium
 	Hard
 	Master
-Steps(List): ONE of
+Steps(Array): ONE of
 	Chop
 	Mix
 	Fry

@@ -1,12 +1,12 @@
 Wedding_Cutscene_Dialogue Structure:
 
-Dialogue(List): 
+Dialogue(Array): 
 	SpeakingNpc: string
 	SpokenDialogue: string
 	CameraToUse: integer
 	AllNpcsLookAtMainPlayer: true/false
 	HoldItemWhileTalking: string
-	QuestionResponses(List): 	
+	QuestionResponses(Array): 	
 		PlayerAnswer: string
 		NpcResponse: string
 

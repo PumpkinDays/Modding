@@ -1,27 +1,27 @@
 Shop_List_Data Structure:
 
 Category1: 
-	Spring(List): 	string
+	Spring(Array): 	string
 
-	Summer(List): 	string
+	Summer(Array): 	string
 
-	Fall(List): 	string
+	Fall(Array): 	string
 
-	Winter(List): 	string
+	Winter(Array): 	string
 
 Category2: 
-	Spring(List): 	string
+	Spring(Array): 	string
 
-	Summer(List): 	string
+	Summer(Array): 	string
 
-	Fall(List): 	string
+	Fall(Array): 	string
 
-	Winter(List): 	string
+	Winter(Array): 	string
 
 Category1Title: string
 Category1Num: integer
 Category2Num: integer
-BuyFromPlayerCategories(List): ONE of
+BuyFromPlayerCategories(Array): ONE of
 	None
 	Tools
 	Furniture

@@ -1,6 +1,6 @@
 Child_Schedules Structure:
 
-Tasks(List): 
+Tasks(Array): 
 	Hour: integer
 	Waypoint: string
 	PrimaryAnimation: UAnimSequenceBase*

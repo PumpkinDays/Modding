@@ -1,6 +1,6 @@
 Town_Wedding_Quest_Npcs Structure:
 
-Npcs(List): 
+Npcs(Array): 
 	Npc: string
 	QuestType: ONE of
 		None

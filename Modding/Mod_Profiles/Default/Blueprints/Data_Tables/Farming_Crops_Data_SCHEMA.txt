@@ -15,13 +15,13 @@ Meshes:
 CropPickHeight: ONE of
 	Low
 	High
-Seasons(List): ONE of
+Seasons(Array): ONE of
 	Spring
 	Summer
 	Fall
 	Winter
 
-TownVolumes(List): string
+TownVolumes(Array): string
 
 IsTree: true/false
 BaseHitsRequired: uint8

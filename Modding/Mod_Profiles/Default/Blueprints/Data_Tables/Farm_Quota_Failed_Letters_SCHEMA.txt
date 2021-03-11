@@ -1,6 +1,6 @@
 Farm_Quota_Failed_Letters Structure:
 
-Array(List): 
+Array(Array): 
 	Subject: string
 	Body: string
 	Sender: string

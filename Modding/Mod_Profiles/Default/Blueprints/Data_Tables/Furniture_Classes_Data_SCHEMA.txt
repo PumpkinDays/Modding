@@ -8,7 +8,7 @@ ExtraSettings:
 	AnimationSkelMesh: TAssetPtr<USkeletalMesh>
 	AnimationLength: float
 	SkelAnimationToPlay: TAssetPtr<UAnimationAsset>
-	InteractionMaterial(List): 	TAssetPtr<UMaterialInterface>
+	InteractionMaterial(Array): 	TAssetPtr<UMaterialInterface>
 
 	InteractionMaterialIndex: integer
 	InteractionParticle: TAssetPtr<UParticleSystem>

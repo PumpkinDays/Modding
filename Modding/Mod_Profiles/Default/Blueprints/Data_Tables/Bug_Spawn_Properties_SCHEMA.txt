@@ -10,7 +10,7 @@ BugReponse: ONE of
 	Flee
 SpawnsDuringDay: true/false
 SpawnsDuringNight: true/false
-SpawnSeasons(List): ONE of
+SpawnSeasons(Array): ONE of
 	Spring
 	Summer
 	Fall

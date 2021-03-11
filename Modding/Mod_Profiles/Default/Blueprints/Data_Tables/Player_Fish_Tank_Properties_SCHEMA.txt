@@ -1,6 +1,6 @@
 Player_Fish_Tank_Properties Structure:
 
-WaterTypes(List): ONE of
+WaterTypes(Array): ONE of
 	Lake
 	Ocean
 	River

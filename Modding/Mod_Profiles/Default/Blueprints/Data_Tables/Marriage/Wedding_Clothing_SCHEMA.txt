@@ -1,4 +1,4 @@
 Wedding_Clothing Structure:
 
-NameArray(List): string
+NameArray(Array): string
 

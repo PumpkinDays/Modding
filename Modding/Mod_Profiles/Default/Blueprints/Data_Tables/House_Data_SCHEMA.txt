@@ -7,9 +7,9 @@ Price: integer
 UpgradeToPrice: integer
 Tier: integer
 Mesh: UStaticMesh*
-MaterialNames(List): string
+MaterialNames(Array): string
 
-ExcludeSlots(List): integer
+ExcludeSlots(Array): integer
 
 UpgradeCameraHeight: float
 PaintCameraHeight: float
@@ -22,7 +22,7 @@ HousingType: ONE of
 	PetHouse
 HousingSpace: integer
 Description: string
-SleepLocs(List): 
+SleepLocs(Array): 
 	X: float
 	Y: float
 	Z: float

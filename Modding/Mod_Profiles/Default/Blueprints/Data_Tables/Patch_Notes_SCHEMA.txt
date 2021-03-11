@@ -1,4 +1,4 @@
 Patch_Notes Structure:
 
-NameArray(List): string
+NameArray(Array): string
 

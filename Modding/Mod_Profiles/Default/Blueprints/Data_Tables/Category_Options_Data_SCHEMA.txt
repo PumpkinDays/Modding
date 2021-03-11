@@ -1,6 +1,6 @@
 Category_Options_Data Structure:
 
-Options(List): ONE of
+Options(Array): ONE of
 	Equip
 	Unequip
 	Place

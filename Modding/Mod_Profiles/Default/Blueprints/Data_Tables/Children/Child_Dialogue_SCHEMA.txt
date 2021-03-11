@@ -1,6 +1,6 @@
 Child_Dialogue Structure:
 
-DailyDialogue(List): string
+DailyDialogue(Array): string
 
 NothingMoreToSay: string
 LikedGift: string

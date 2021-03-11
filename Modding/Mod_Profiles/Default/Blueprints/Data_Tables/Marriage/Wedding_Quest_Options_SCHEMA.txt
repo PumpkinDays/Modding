@@ -1,6 +1,6 @@
 Wedding_Quest_Options Structure:
 
-ArrayOfNameArrays(List): 
-	NameArray(List): 	string
+ArrayOfNameArrays(Array): 
+	NameArray(Array): 	string
 
 

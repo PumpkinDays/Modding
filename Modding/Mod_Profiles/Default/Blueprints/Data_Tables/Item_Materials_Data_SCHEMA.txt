@@ -1,4 +1,4 @@
 Item_Materials_Data Structure:
 
-Materials(List): TAssetPtr<UMaterialInterface>
+Materials(Array): TAssetPtr<UMaterialInterface>
 

@@ -22,61 +22,61 @@ PlayerPlacementMode: ONE of
 	DoNotTeleport
 	UseWaypoints
 	UseBlueprintValues
-CompetitorWaypointsIfUsed(List): string
+CompetitorWaypointsIfUsed(Array): string
 
-IntroductionAnimations(List): TAssetPtr<UAnimSequenceBase>
+IntroductionAnimations(Array): TAssetPtr<UAnimSequenceBase>
 
 AllowMovementDuringMinigame: true/false
 RequiredInventorySpace: integer
 NoDifficultyRewards: 
-	FirstPlaceRewards(List): 	
+	FirstPlaceRewards(Array): 	
 		RowName: string
 		AmountNeeded: integer
 
-	SecondPlaceRewards(List): 	
+	SecondPlaceRewards(Array): 	
 		RowName: string
 		AmountNeeded: integer
 
-	ThirdPlaceRewards(List): 	
+	ThirdPlaceRewards(Array): 	
 		RowName: string
 		AmountNeeded: integer
 
 EasyRewards: 
-	FirstPlaceRewards(List): 	
+	FirstPlaceRewards(Array): 	
 		RowName: string
 		AmountNeeded: integer
 
-	SecondPlaceRewards(List): 	
+	SecondPlaceRewards(Array): 	
 		RowName: string
 		AmountNeeded: integer
 
-	ThirdPlaceRewards(List): 	
+	ThirdPlaceRewards(Array): 	
 		RowName: string
 		AmountNeeded: integer
 
 MediumRewards: 
-	FirstPlaceRewards(List): 	
+	FirstPlaceRewards(Array): 	
 		RowName: string
 		AmountNeeded: integer
 
-	SecondPlaceRewards(List): 	
+	SecondPlaceRewards(Array): 	
 		RowName: string
 		AmountNeeded: integer
 
-	ThirdPlaceRewards(List): 	
+	ThirdPlaceRewards(Array): 	
 		RowName: string
 		AmountNeeded: integer
 
 HardRewards: 
-	FirstPlaceRewards(List): 	
+	FirstPlaceRewards(Array): 	
 		RowName: string
 		AmountNeeded: integer
 
-	SecondPlaceRewards(List): 	
+	SecondPlaceRewards(Array): 	
 		RowName: string
 		AmountNeeded: integer
 
-	ThirdPlaceRewards(List): 	
+	ThirdPlaceRewards(Array): 	
 		RowName: string
 		AmountNeeded: integer
 

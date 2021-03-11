@@ -23,7 +23,7 @@ ToolRequired: ONE of
 	FruitPicker
 	Fertilizer
 	None
-ToolHitMultipliers(List): 
+ToolHitMultipliers(Array): 
 	ToolTier: ONE of
 		Wooden
 		Copper
@@ -49,11 +49,11 @@ MinToolTier: ONE of
 	Uranium
 	Diamond
 	Meteor
-HitMaterialAmounts(List): integer
+HitMaterialAmounts(Array): integer
 
-HitMaterials(List): UMaterialInterface*
+HitMaterials(Array): UMaterialInterface*
 
-MeshStages(List): UStaticMesh*
+MeshStages(Array): UStaticMesh*
 
 MaterialIndexToSet: integer
 ItemDropped: string
