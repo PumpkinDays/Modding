@@ -3,15 +3,15 @@
 ## Getting Started 
 
 1. To get started with modding, download the modding files from this repository.
-![](ModdingImages/Getting_Started_1.png)
+![](ModdingImages/Getting_Started_1.PNG)
 <br>
 
 2. Browse to your Steam installation of Pumpkin Days. You can locate the Pumpkin Days folder by going to your steam library and right clicking Pumpkin Days -> Properties -> Local Files -> Browse.
-![](ModdingImages/Getting_Started_2.png)
+![](ModdingImages/Getting_Started_2.PNG)
 <br>
 
 3. Copy the ```Modding``` folder from this repository into the ```<PumpkinDaysInstallationFolder>/PumpkinOnline/Content``` folder.
-![](ModdingImages/Getting_Started_3.png)
+![](ModdingImages/Getting_Started_3.PNG)
 ## Types of Objects
 
 ### Object
