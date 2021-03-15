@@ -1,5 +1,17 @@
 # Pumpkin Days Modding
 
+## Getting Started 
+
+1. To get started with modding, download the modding files from this repository.
+![](ModdingImages/Getting_Started_1.png)
+<br>
+
+2. Browse to your Steam installation of Pumpkin Days. You can locate the Pumpkin Days folder by going to your steam library and right clicking Pumpkin Days -> Properties -> Local Files -> Browse.
+![](ModdingImages/Getting_Started_2.png)
+<br>
+
+3. Copy the ```Modding``` folder from this repository into the ```<PumpkinDaysInstallationFolder>/PumpkinOnline/Content``` folder.
+![](ModdingImages/Getting_Started_3.png)
 ## Types of Objects
 
 ### Object
@@ -10,21 +22,24 @@
 - ```Value```
 - ```Array```
 - ```Structure```
+---
 ### Value
 
 A ```Value``` is an individual value.
 ##### Types of values and examples:
-Integer value: ```72```
-Float value: ```2.5```
-String value: ```"Bob's Kitten"```
-True/False value: ```true```
+- Integer: ```72```
+- Float: ```2.5```
+- String: ```"Bob's Kitten"```
+- True/False: ```true```
 
-Enum value:
-Enum values are shown in schemas as:
+The last type of value is an enum
 
+
+---
 ### Structure
 
-A structure is a group of named objects. Structures have specific objects that belong to them, which are outlined in the schema
+
+A ```Structure``` is a group of named objects. Structures have specific objects that belong to them, which are outlined in the schema
 An example is the ```MeatValues``` structure used in ```Animal_Properties_Data```:
 
  ```json
@@ -54,12 +69,12 @@ The actual value of ```MeatValues``` for ```Hen_Red```:
 
 <u>If an object is not included in a structure, a default value will be used.</u>
 
-
+---
 ### Array
 
-An ```Array``` is a list of objects, and can have any number of them (Including 0).
+An ```Array``` is a list of objects.
 
-Like everything else, each array is meant to hold <b>a specific type</b> of object. For example, ```Town_Data```'s ```Npcs``` array can only contain strings, as denoted by the schema:
+Like everything else, each array is meant for <b>a specific type</b> of object. For example, ```Town_Data```'s ```Npcs``` array can only contain strings, as denoted by the schema:
 
 ```javascript
 Npcs(Array): string
@@ -72,11 +87,22 @@ An empty array:
  ```json
  []
  ```
-An array of values:
- ```json
+
+An array of string values:
+```json
 [
     "You should stop by the bar sometime.",
     "I haven't seen you around lately."
+]
+```
+
+An array of integer values:
+```json
+[
+    1,
+    2,
+    3,
+    5
 ]
 ```
 
@@ -94,7 +120,10 @@ An array of structures:
 ]
 ```
 
+
 Arrays of arrays are <b>not</b> needed or supported.
+
+---
 
 
 
