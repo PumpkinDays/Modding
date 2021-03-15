@@ -6,13 +6,5 @@ MaterialSlots(Array): ONE of
 	Knees
 	HighKnees
 	Ankles
-	ESockMaterialElements_MAX
-	
-	
-	
-	
-	
-	
-	
 
 Material: UMaterialInterface*
