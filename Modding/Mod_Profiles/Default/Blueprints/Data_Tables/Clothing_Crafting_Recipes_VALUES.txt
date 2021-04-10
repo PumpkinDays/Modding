@@ -33,7 +33,8 @@
 				"X": 0,
 				"Y": 0,
 				"Z": 0
-			}
+			},
+			"PreviewMeshScale": 1
 		},
 		{
 			"RowName": "Heart_Shirt_Black",
@@ -67,7 +68,8 @@
 				"X": 0,
 				"Y": 0,
 				"Z": 0
-			}
+			},
+			"PreviewMeshScale": 1
 		},
 		{
 			"RowName": "Poet_Shirt_Black",
@@ -101,7 +103,8 @@
 				"X": 0,
 				"Y": 0,
 				"Z": 0
-			}
+			},
+			"PreviewMeshScale": 1
 		},
 		{
 			"RowName": "Sassy_Shirt_Black",
@@ -135,7 +138,8 @@
 				"X": 0,
 				"Y": 0,
 				"Z": 0
-			}
+			},
+			"PreviewMeshScale": 1
 		},
 		{
 			"RowName": "Short_Top_Black",
@@ -169,7 +173,8 @@
 				"X": 0,
 				"Y": 0,
 				"Z": 0
-			}
+			},
+			"PreviewMeshScale": 1
 		},
 		{
 			"RowName": "Sleeveless_Shirt_Black",
@@ -203,7 +208,8 @@
 				"X": 0,
 				"Y": 0,
 				"Z": 0
-			}
+			},
+			"PreviewMeshScale": 1
 		},
 		{
 			"RowName": "Spaghetti_Strap_Shirt_Black",
@@ -237,7 +243,8 @@
 				"X": 0,
 				"Y": 0,
 				"Z": 0
-			}
+			},
+			"PreviewMeshScale": 1
 		},
 		{
 			"RowName": "T_Shirt_Black",
@@ -271,7 +278,8 @@
 				"X": 0,
 				"Y": 0,
 				"Z": 0
-			}
+			},
+			"PreviewMeshScale": 1
 		},
 		{
 			"RowName": "V_Neck_Dress_Black",
@@ -305,7 +313,8 @@
 				"X": 0,
 				"Y": 0,
 				"Z": 0
-			}
+			},
+			"PreviewMeshScale": 1
 		},
 		{
 			"RowName": "Board_Shorts_Black",
@@ -355,7 +364,8 @@
 				"X": 0,
 				"Y": 0,
 				"Z": 0
-			}
+			},
+			"PreviewMeshScale": 1
 		},
 		{
 			"RowName": "Black_Jeans",
@@ -397,7 +407,8 @@
 				"X": 0,
 				"Y": 0,
 				"Z": 0
-			}
+			},
+			"PreviewMeshScale": 1
 		},
 		{
 			"RowName": "Capris_Black",
@@ -431,7 +442,8 @@
 				"X": 0,
 				"Y": 0,
 				"Z": 0
-			}
+			},
+			"PreviewMeshScale": 1
 		},
 		{
 			"RowName": "Cargo_Pants_Black",
@@ -465,7 +477,8 @@
 				"X": 0,
 				"Y": 0,
 				"Z": 0
-			}
+			},
+			"PreviewMeshScale": 1
 		},
 		{
 			"RowName": "Overalls_Black",
@@ -507,7 +520,8 @@
 				"X": 0,
 				"Y": 0,
 				"Z": 0
-			}
+			},
+			"PreviewMeshScale": 1
 		},
 		{
 			"RowName": "Hammer_Pants_Black",
@@ -541,7 +555,8 @@
 				"X": 0,
 				"Y": 0,
 				"Z": 0
-			}
+			},
+			"PreviewMeshScale": 1
 		},
 		{
 			"RowName": "Shorts_Black",
@@ -575,7 +590,8 @@
 				"X": 0,
 				"Y": 0,
 				"Z": 0
-			}
+			},
+			"PreviewMeshScale": 1
 		},
 		{
 			"RowName": "Sweatpants_Black",
@@ -617,7 +633,8 @@
 				"X": 0,
 				"Y": 0,
 				"Z": 0
-			}
+			},
+			"PreviewMeshScale": 1
 		},
 		{
 			"RowName": "Boots_Plain_Black",
@@ -651,7 +668,8 @@
 				"X": 0,
 				"Y": 0,
 				"Z": 0
-			}
+			},
+			"PreviewMeshScale": 1
 		},
 		{
 			"RowName": "Flip_Flops_Black",
@@ -685,7 +703,8 @@
 				"X": 0,
 				"Y": 0,
 				"Z": 0
-			}
+			},
+			"PreviewMeshScale": 1
 		},
 		{
 			"RowName": "Loafers_Black",
@@ -719,7 +738,8 @@
 				"X": 0,
 				"Y": 0,
 				"Z": 0
-			}
+			},
+			"PreviewMeshScale": 1
 		},
 		{
 			"RowName": "Collared_Shirt_Opened_Black",
@@ -753,7 +773,8 @@
 				"X": 0,
 				"Y": 0,
 				"Z": 0
-			}
+			},
+			"PreviewMeshScale": 1
 		},
 		{
 			"RowName": "Collared_Dress_Black",
@@ -803,7 +824,8 @@
 				"X": 0,
 				"Y": 0,
 				"Z": 0
-			}
+			},
+			"PreviewMeshScale": 1
 		},
 		{
 			"RowName": "Suit_Turtle_Neck_Sweater_Tan_Red",
@@ -853,7 +875,8 @@
 				"X": 0,
 				"Y": 0,
 				"Z": 0
-			}
+			},
+			"PreviewMeshScale": 1
 		},
 		{
 			"RowName": "Collared_Shirt_White_Tie_Black",
@@ -895,7 +918,8 @@
 				"X": 0,
 				"Y": 0,
 				"Z": 0
-			}
+			},
+			"PreviewMeshScale": 1
 		},
 		{
 			"RowName": "Collared_Shirt_Long_Black",
@@ -929,7 +953,8 @@
 				"X": 0,
 				"Y": 0,
 				"Z": 0
-			}
+			},
+			"PreviewMeshScale": 1
 		},
 		{
 			"RowName": "Collared_Shirt_Vest_White",
@@ -979,7 +1004,8 @@
 				"X": 0,
 				"Y": 0,
 				"Z": 0
-			}
+			},
+			"PreviewMeshScale": 1
 		},
 		{
 			"RowName": "Cheongsam_Dress_Black",
@@ -1013,7 +1039,8 @@
 				"X": 0,
 				"Y": 0,
 				"Z": 0
-			}
+			},
+			"PreviewMeshScale": 1
 		},
 		{
 			"RowName": "Fancy_Frilly_Shirt_Black",
@@ -1047,7 +1074,8 @@
 				"X": 0,
 				"Y": 0,
 				"Z": 0
-			}
+			},
+			"PreviewMeshScale": 1
 		},
 		{
 			"RowName": "Hoodie_Black",
@@ -1081,7 +1109,8 @@
 				"X": 0,
 				"Y": 0,
 				"Z": 0
-			}
+			},
+			"PreviewMeshScale": 1
 		},
 		{
 			"RowName": "Long_Sleeve_Shirt_Black",
@@ -1115,7 +1144,8 @@
 				"X": 0,
 				"Y": 0,
 				"Z": 0
-			}
+			},
+			"PreviewMeshScale": 1
 		},
 		{
 			"RowName": "Jacket_Open_White_Shirt",
@@ -1157,7 +1187,8 @@
 				"X": 0,
 				"Y": 0,
 				"Z": 0
-			}
+			},
+			"PreviewMeshScale": 1
 		},
 		{
 			"RowName": "Sweater_Vest_Red",
@@ -1199,7 +1230,8 @@
 				"X": 0,
 				"Y": 0,
 				"Z": 0
-			}
+			},
+			"PreviewMeshScale": 1
 		},
 		{
 			"RowName": "Turtleneck_Sweater_Black",
@@ -1233,7 +1265,8 @@
 				"X": 0,
 				"Y": 0,
 				"Z": 0
-			}
+			},
+			"PreviewMeshScale": 1
 		},
 		{
 			"RowName": "Pants_Black",
@@ -1275,7 +1308,8 @@
 				"X": 0,
 				"Y": 0,
 				"Z": 0
-			}
+			},
+			"PreviewMeshScale": 1
 		},
 		{
 			"RowName": "Fishtail_Skirt_Black",
@@ -1309,7 +1343,8 @@
 				"X": 0,
 				"Y": 0,
 				"Z": 0
-			}
+			},
+			"PreviewMeshScale": 1
 		},
 		{
 			"RowName": "Pencil_Skirt_Black",
@@ -1343,7 +1378,8 @@
 				"X": 0,
 				"Y": 0,
 				"Z": 0
-			}
+			},
+			"PreviewMeshScale": 1
 		},
 		{
 			"RowName": "Fishtail_Skirt_Short_Black",
@@ -1377,7 +1413,8 @@
 				"X": 0,
 				"Y": 0,
 				"Z": 0
-			}
+			},
+			"PreviewMeshScale": 1
 		},
 		{
 			"RowName": "Long_Skirt_Black",
@@ -1411,7 +1448,8 @@
 				"X": 0,
 				"Y": 0,
 				"Z": 0
-			}
+			},
+			"PreviewMeshScale": 1
 		},
 		{
 			"RowName": "Peasant_Dress_Green",
@@ -1461,7 +1499,8 @@
 				"X": 0,
 				"Y": 0,
 				"Z": 0
-			}
+			},
+			"PreviewMeshScale": 1
 		},
 		{
 			"RowName": "Short_Skirt_Black",
@@ -1495,7 +1534,8 @@
 				"X": 0,
 				"Y": 0,
 				"Z": 0
-			}
+			},
+			"PreviewMeshScale": 1
 		},
 		{
 			"RowName": "Summer_Dress_White",
@@ -1537,7 +1577,8 @@
 				"X": 0,
 				"Y": 0,
 				"Z": 0
-			}
+			},
+			"PreviewMeshScale": 1
 		},
 		{
 			"RowName": "Lolita_Dress_White",
@@ -1595,7 +1636,8 @@
 				"X": 0,
 				"Y": 0,
 				"Z": 0
-			}
+			},
+			"PreviewMeshScale": 1
 		},
 		{
 			"RowName": "Varsity_Jacket_Red",
@@ -1637,7 +1679,533 @@
 				"X": 0,
 				"Y": 0,
 				"Z": 0
-			}
+			},
+			"PreviewMeshScale": 1
+		},
+		{
+			"RowName": "Glasses_Thick_Black",
+			"Row": "Glasses_Thick_Black",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Clothes/Jewelry.Jewelry'",
+			"FriendlyName": "Thick Glasses",
+			"Category": "Jewelry",
+			"Slots":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Slot": "Frames",
+						"MaterialBaseClass": "Wallpaper_Base"
+					}
+				}
+			],
+			"ProducedFurnitureItem": "Glasses_Thick_Black",
+			"RecipeDifficulty": 1,
+			"Steps":
+			[ 7 ],
+			"PreviewLocOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			},
+			"PreviewMeshOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			},
+			"PreviewMeshScale": 1
+		},
+		{
+			"RowName": "Glasses_Oval_Black",
+			"Row": "Glasses_Oval_Black",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Clothes/Jewelry.Jewelry'",
+			"FriendlyName": "Oval Glasses",
+			"Category": "Jewelry",
+			"Slots":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Slot": "Frames",
+						"MaterialBaseClass": "Wallpaper_Base"
+					}
+				}
+			],
+			"ProducedFurnitureItem": "Glasses_Oval_Black",
+			"RecipeDifficulty": 1,
+			"Steps":
+			[ 7 ],
+			"PreviewLocOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			},
+			"PreviewMeshOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			},
+			"PreviewMeshScale": 1
+		},
+		{
+			"RowName": "Glasses_Round_Large_Black",
+			"Row": "Glasses_Round_Large_Black",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Clothes/Jewelry.Jewelry'",
+			"FriendlyName": "Large Round Glasses",
+			"Category": "Jewelry",
+			"Slots":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Slot": "Frames",
+						"MaterialBaseClass": "Wallpaper_Base"
+					}
+				}
+			],
+			"ProducedFurnitureItem": "Glasses_Round_Large_Black",
+			"RecipeDifficulty": 1,
+			"Steps":
+			[ 7 ],
+			"PreviewLocOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			},
+			"PreviewMeshOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			},
+			"PreviewMeshScale": 1
+		},
+		{
+			"RowName": "Glasses_Heavy_Bridge_Black",
+			"Row": "Glasses_Heavy_Bridge_Black",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Clothes/Jewelry.Jewelry'",
+			"FriendlyName": "Heavy Bridge Glasses",
+			"Category": "Jewelry",
+			"Slots":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Slot": "Frames",
+						"MaterialBaseClass": "Wallpaper_Base"
+					}
+				}
+			],
+			"ProducedFurnitureItem": "Glasses_Heavy_Bridge_Black",
+			"RecipeDifficulty": 1,
+			"Steps":
+			[ 7 ],
+			"PreviewLocOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			},
+			"PreviewMeshOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			},
+			"PreviewMeshScale": 1
+		},
+		{
+			"RowName": "Glasses_Monocle_Black",
+			"Row": "Glasses_Monocle_Black",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Clothes/Jewelry.Jewelry'",
+			"FriendlyName": "Monocle",
+			"Category": "Jewelry",
+			"Slots":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Slot": "Frames",
+						"MaterialBaseClass": "Wallpaper_Base"
+					}
+				}
+			],
+			"ProducedFurnitureItem": "Glasses_Monocle_Black",
+			"RecipeDifficulty": 1,
+			"Steps":
+			[ 7 ],
+			"PreviewLocOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			},
+			"PreviewMeshOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			},
+			"PreviewMeshScale": 1
+		},
+		{
+			"RowName": "Glasses_Librarian_Black",
+			"Row": "Glasses_Librarian_Black",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Clothes/Jewelry.Jewelry'",
+			"FriendlyName": "Librarian Glasses",
+			"Category": "Jewelry",
+			"Slots":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Slot": "Frames",
+						"MaterialBaseClass": "Wallpaper_Base"
+					}
+				}
+			],
+			"ProducedFurnitureItem": "Glasses_Librarian_Black",
+			"RecipeDifficulty": 1,
+			"Steps":
+			[ 7 ],
+			"PreviewLocOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			},
+			"PreviewMeshOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			},
+			"PreviewMeshScale": 1
+		},
+		{
+			"RowName": "Glasses_Aviator",
+			"Row": "Glasses_Aviator",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Clothes/Jewelry.Jewelry'",
+			"FriendlyName": "Aviator Glasses",
+			"Category": "Jewelry",
+			"Slots":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Slot": "Frames",
+						"MaterialBaseClass": "Wallpaper_Base"
+					}
+				}
+			],
+			"ProducedFurnitureItem": "Glasses_Aviator",
+			"RecipeDifficulty": 1,
+			"Steps":
+			[ 7 ],
+			"PreviewLocOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			},
+			"PreviewMeshOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			},
+			"PreviewMeshScale": 1
+		},
+		{
+			"RowName": "Earrings_Ank_Black",
+			"Row": "Earrings_Ank_Black",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Clothes/Jewelry.Jewelry'",
+			"FriendlyName": "Ank Earrings",
+			"Category": "Jewelry",
+			"Slots":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Slot": "Main_Earrings",
+						"MaterialBaseClass": "Wallpaper_Base"
+					}
+				}
+			],
+			"ProducedFurnitureItem": "Earrings_Ank_Black",
+			"RecipeDifficulty": 1,
+			"Steps":
+			[ 7 ],
+			"PreviewLocOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			},
+			"PreviewMeshOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			},
+			"PreviewMeshScale": 1
+		},
+		{
+			"RowName": "Earrings_Circl_Black",
+			"Row": "Earrings_Circl_Black",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Clothes/Jewelry.Jewelry'",
+			"FriendlyName": "Circle Earrings",
+			"Category": "Jewelry",
+			"Slots":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Slot": "Main_Earrings",
+						"MaterialBaseClass": "Wallpaper_Base"
+					}
+				}
+			],
+			"ProducedFurnitureItem": "Earrings_Circl_Black",
+			"RecipeDifficulty": 1,
+			"Steps":
+			[ 7 ],
+			"PreviewLocOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			},
+			"PreviewMeshOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			},
+			"PreviewMeshScale": 1
+		},
+		{
+			"RowName": "Earrings_Diamond_Frame_Black",
+			"Row": "Earrings_Diamond_Frame_Black",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Clothes/Jewelry.Jewelry'",
+			"FriendlyName": "Diamond Earrings",
+			"Category": "Jewelry",
+			"Slots":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Slot": "Main_Earrings",
+						"MaterialBaseClass": "Wallpaper_Base"
+					}
+				}
+			],
+			"ProducedFurnitureItem": "Earrings_Diamond_Frame_Black",
+			"RecipeDifficulty": 1,
+			"Steps":
+			[ 7 ],
+			"PreviewLocOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			},
+			"PreviewMeshOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			},
+			"PreviewMeshScale": 1
+		},
+		{
+			"RowName": "Earrings_Flower_Studs_Black",
+			"Row": "Earrings_Flower_Studs_Black",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Clothes/Jewelry.Jewelry'",
+			"FriendlyName": "Flower Studs",
+			"Category": "Jewelry",
+			"Slots":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Slot": "Main_Earrings",
+						"MaterialBaseClass": "Wallpaper_Base"
+					}
+				}
+			],
+			"ProducedFurnitureItem": "Earrings_Flower_Studs_Black",
+			"RecipeDifficulty": 1,
+			"Steps":
+			[ 7 ],
+			"PreviewLocOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			},
+			"PreviewMeshOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			},
+			"PreviewMeshScale": 1
+		},
+		{
+			"RowName": "Earrings_Simple_Studs_Black",
+			"Row": "Earrings_Simple_Studs_Black",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Clothes/Jewelry.Jewelry'",
+			"FriendlyName": "Simple Studs",
+			"Category": "Jewelry",
+			"Slots":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Slot": "Main_Earrings",
+						"MaterialBaseClass": "Wallpaper_Base"
+					}
+				}
+			],
+			"ProducedFurnitureItem": "Earrings_Simple_Studs_Black",
+			"RecipeDifficulty": 1,
+			"Steps":
+			[ 7 ],
+			"PreviewLocOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			},
+			"PreviewMeshOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			},
+			"PreviewMeshScale": 1
+		},
+		{
+			"RowName": "Earrings_Stud_Star_Black",
+			"Row": "Earrings_Stud_Star_Black",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Clothes/Jewelry.Jewelry'",
+			"FriendlyName": "Star Studs",
+			"Category": "Jewelry",
+			"Slots":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Slot": "Main_Earrings",
+						"MaterialBaseClass": "Wallpaper_Base"
+					}
+				}
+			],
+			"ProducedFurnitureItem": "Earrings_Stud_Star_Black",
+			"RecipeDifficulty": 1,
+			"Steps":
+			[ 7 ],
+			"PreviewLocOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			},
+			"PreviewMeshOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			},
+			"PreviewMeshScale": 1
+		},
+		{
+			"RowName": "Earring_TearDrops_Black",
+			"Row": "Earring_TearDrops_Black",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Clothes/Jewelry.Jewelry'",
+			"FriendlyName": "Teardrop earrings",
+			"Category": "Jewelry",
+			"Slots":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Slot": "Main_Earrings",
+						"MaterialBaseClass": "Wallpaper_Base"
+					}
+				}
+			],
+			"ProducedFurnitureItem": "Earring_TearDrops_Black",
+			"RecipeDifficulty": 1,
+			"Steps":
+			[ 7 ],
+			"PreviewLocOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			},
+			"PreviewMeshOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			},
+			"PreviewMeshScale": 1
+		},
+		{
+			"RowName": "Glasses_Vacation_Purple",
+			"Row": "Glasses_Vacation_Purple",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Clothes/Jewelry.Jewelry'",
+			"FriendlyName": "Teardrop earrings",
+			"Category": "Jewelry",
+			"Slots":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"Slot": "Frames",
+						"MaterialBaseClass": "Wallpaper_Base"
+					}
+				}
+			],
+			"ProducedFurnitureItem": "Glasses_Vacation_Purple",
+			"RecipeDifficulty": 1,
+			"Steps":
+			[ 7 ],
+			"PreviewLocOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			},
+			"PreviewMeshOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			},
+			"PreviewMeshScale": 1
 		}
 	]
 }

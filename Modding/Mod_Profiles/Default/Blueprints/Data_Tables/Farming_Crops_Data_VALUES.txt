@@ -2711,8 +2711,8 @@
 			{
 				"Seed": "/Game/Meshes/Farming/Plots/Seeded_Mound.Seeded_Mound",
 				"Sprout": "/Game/Meshes/Crops/Sprout.Sprout",
-				"Leaf": "/Game/Meshes/Flowers/Flower_Bushes/Poppy_Bush_2.Poppy_Bush_2",
-				"Flower": "/Game/Meshes/Flowers/Flower_Bushes/Poppy_Bush_2.Poppy_Bush_2",
+				"Leaf": "/Game/Meshes/Flowers/Flower_Bushes/Poppy_Bush_Small.Poppy_Bush_Small",
+				"Flower": "/Game/Meshes/Flowers/Flower_Bushes/Poppy_Bush_Small.Poppy_Bush_Small",
 				"Fruit": "/Game/Meshes/Flowers/Flower_Bushes/Poppy_Bush.Poppy_Bush",
 				"Wilting": "/Game/Meshes/Flowers/Flower_Bushes/Poppy_Bush_Wilting.Poppy_Bush_Wilting",
 				"Dead": "/Game/Meshes/Crops/Dead_Plant.Dead_Plant"
@@ -6148,6 +6148,36 @@
 			"IsTree": true,
 			"BaseHitsRequired": 150,
 			"FruitMaterialIndex": 3
+		},
+		{
+			"RowName": "Fodder",
+			"HoursBetweenStages": 48,
+			"CropsPerHarvest": 2,
+			"CanRegrow": true,
+			"StaminaToHarvest": 1,
+			"Meshes": 
+			{
+				"Seed": "/Game/Meshes/Farming/Plots/Seeded_Mound.Seeded_Mound",
+				"Sprout": "/Game/FieldGrassPackVol1/Meshes/Grass/Grass_Tall_Crop_Growing.Grass_Tall_Crop_Growing",
+				"Leaf": "/Game/FieldGrassPackVol1/Meshes/Grass/Grass_Tall_Crop_Growing.Grass_Tall_Crop_Growing",
+				"Flower": "/Game/FieldGrassPackVol1/Meshes/Grass/Grass_Tall_Crop_Growing.Grass_Tall_Crop_Growing",
+				"Fruit": "/Game/FieldGrassPackVol1/Meshes/Grass/Grass_Tall_Crop.Grass_Tall_Crop",
+				"Wilting": "/Game/FieldGrassPackVol1/Meshes/Grass/Grass_Tall_Crop_Growing_Wilting.Grass_Tall_Crop_Growing_Wilting",
+				"Dead": "/Game/Meshes/Crops/Dead_Plant.Dead_Plant"
+			},
+			"CropPickHeight": 0,
+			"Seasons":
+			[ 0, 1, 2 ],
+			"TownVolumes":
+			[
+				"Wahoo_Beach",
+				"Pumpkinvale",
+				"Spoony_Island",
+				"Diamond_Falls"
+			],
+			"IsTree": false,
+			"BaseHitsRequired": 0,
+			"FruitMaterialIndex": 0
 		}
 	]
 }

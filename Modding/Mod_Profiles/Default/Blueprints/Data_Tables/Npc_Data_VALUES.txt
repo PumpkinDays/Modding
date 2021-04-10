@@ -814,8 +814,8 @@
 			"NicknameUsedByChild": "Dad"
 		},
 		{
-			"RowName": "Jim",
-			"FriendlyName": "Jim",
+			"RowName": "jim",
+			"FriendlyName": "jimmy boy 2",
 			"Town": "PumpkinVale",
 			"Skeleton": "/Game/Character/NPCs/Jim.Jim",
 			"IdleAnimation": "None",
@@ -843,16 +843,16 @@
 			"NicknameUsedByChild": "Dad"
 		},
 		{
-			"RowName": "Julian",
-			"FriendlyName": "Julian",
+			"RowName": "julian",
+			"FriendlyName": "Mustache Man 2",
 			"Town": "PumpkinVale",
 			"Skeleton": "/Game/Character/NPCs/Julian.Julian",
 			"IdleAnimation": "None",
 			"ShopBuyAnimation": "None",
 			"Birthday": 
 			{
-				"Season": 2,
-				"Day": 14
+				"Season": 3,
+				"Day": 5
 			},
 			"DaysOff":
 			[],
@@ -3562,10 +3562,10 @@
 			"NameTagHeight": 110,
 			"HideInJournal": false,
 			"DefaultDialogueExpression": "$FinnSmileTalking$",
-			"AskStartDatingCutscene": "None",
-			"MarriageProposalCutscene": "None",
-			"RoommateCutscene": "None",
-			"CribCutscene": "None",
+			"AskStartDatingCutscene": "Finn_Dating",
+			"MarriageProposalCutscene": "Finn_Proposal",
+			"RoommateCutscene": "Finn_Roomate",
+			"CribCutscene": "Finn_Crib",
 			"NicknameUsedByChild": "Mama"
 		},
 		{

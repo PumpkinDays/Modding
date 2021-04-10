@@ -888,6 +888,10 @@
 		{
 			"RowName": "Orange_Special_Seeds",
 			"SeedCrop": "Orange_Special"
+		},
+		{
+			"RowName": "Fodder_Seeds",
+			"SeedCrop": "Fodder"
 		}
 	]
 }

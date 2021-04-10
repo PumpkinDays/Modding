@@ -1825,7 +1825,8 @@
 					"Feeding_Trough_Large",
 					"Feeding_Trough_Small",
 					"Pet_Food",
-					"Feeding_Trough_Bowl"
+					"Feeding_Trough_Bowl",
+					"Fodder_Seeds"
 				],
 				"Summer":
 				[
@@ -1867,7 +1868,7 @@
 				[]
 			},
 			"Category1Title": "Animals",
-			"Category1Num": 4,
+			"Category1Num": 7,
 			"Category2Num": 0,
 			"BuyFromPlayerCategories":
 			[ 10, 11, 5, 8, 17, 3 ]
@@ -4088,7 +4089,11 @@
 					"Modular_Picket_Fence_White",
 					"Modular_Beach_Fence_Brown",
 					"Modular_Metal_Fence_Black",
-					"Sign_Small"
+					"Sign_Small",
+					"Modular_Picket_Fence_Peach_Long",
+					"Modular_Picket_Fence_Brown_Long",
+					"Modular_Picket_Fence_Rose_Long",
+					"Modular_Picket_Fence_White_Long"
 				],
 				"Summer":
 				[
@@ -4120,7 +4125,11 @@
 					"Modular_Picket_Fence_White",
 					"Modular_Beach_Fence_Brown",
 					"Modular_Metal_Fence_Black",
-					"Sign_Small"
+					"Sign_Small",
+					"Modular_Picket_Fence_Peach_Long",
+					"Modular_Picket_Fence_Brown_Long",
+					"Modular_Picket_Fence_Rose_Long",
+					"Modular_Picket_Fence_White_Long"
 				],
 				"Fall":
 				[
@@ -4152,7 +4161,11 @@
 					"Modular_Picket_Fence_White",
 					"Modular_Beach_Fence_Brown",
 					"Modular_Metal_Fence_Black",
-					"Sign_Small"
+					"Sign_Small",
+					"Modular_Picket_Fence_Peach_Long",
+					"Modular_Picket_Fence_Brown_Long",
+					"Modular_Picket_Fence_Rose_Long",
+					"Modular_Picket_Fence_White_Long"
 				],
 				"Winter":
 				[
@@ -4184,7 +4197,11 @@
 					"Modular_Picket_Fence_White",
 					"Modular_Beach_Fence_Brown",
 					"Modular_Metal_Fence_Black",
-					"Sign_Small"
+					"Sign_Small",
+					"Modular_Picket_Fence_Peach_Long",
+					"Modular_Picket_Fence_Brown_Long",
+					"Modular_Picket_Fence_Rose_Long",
+					"Modular_Picket_Fence_White_Long"
 				]
 			},
 			"Category2": 
@@ -4662,7 +4679,11 @@
 					"Modular_Picket_Fence_White",
 					"Modular_Beach_Fence_Brown",
 					"Modular_Metal_Fence_Black",
-					"Sign_Small"
+					"Sign_Small",
+					"Modular_Picket_Fence_Peach_Long",
+					"Modular_Picket_Fence_Brown_Long",
+					"Modular_Picket_Fence_Rose_Long",
+					"Modular_Picket_Fence_White_Long"
 				],
 				"Summer":
 				[
@@ -4694,7 +4715,11 @@
 					"Modular_Picket_Fence_White",
 					"Modular_Beach_Fence_Brown",
 					"Modular_Metal_Fence_Black",
-					"Sign_Small"
+					"Sign_Small",
+					"Modular_Picket_Fence_Peach_Long",
+					"Modular_Picket_Fence_Brown_Long",
+					"Modular_Picket_Fence_Rose_Long",
+					"Modular_Picket_Fence_White_Long"
 				],
 				"Fall":
 				[
@@ -4726,7 +4751,11 @@
 					"Modular_Picket_Fence_White",
 					"Modular_Beach_Fence_Brown",
 					"Modular_Metal_Fence_Black",
-					"Sign_Small"
+					"Sign_Small",
+					"Modular_Picket_Fence_Peach_Long",
+					"Modular_Picket_Fence_Brown_Long",
+					"Modular_Picket_Fence_Rose_Long",
+					"Modular_Picket_Fence_White_Long"
 				],
 				"Winter":
 				[
@@ -4758,7 +4787,11 @@
 					"Modular_Picket_Fence_White",
 					"Modular_Beach_Fence_Brown",
 					"Modular_Metal_Fence_Black",
-					"Sign_Small"
+					"Sign_Small",
+					"Modular_Picket_Fence_Peach_Long",
+					"Modular_Picket_Fence_Brown_Long",
+					"Modular_Picket_Fence_Rose_Long",
+					"Modular_Picket_Fence_White_Long"
 				]
 			},
 			"Category2": 
@@ -5236,7 +5269,11 @@
 					"Modular_Picket_Fence_White",
 					"Modular_Beach_Fence_Brown",
 					"Modular_Metal_Fence_Black",
-					"Sign_Small"
+					"Sign_Small",
+					"Modular_Picket_Fence_Peach_Long",
+					"Modular_Picket_Fence_Brown_Long",
+					"Modular_Picket_Fence_Rose_Long",
+					"Modular_Picket_Fence_White_Long"
 				],
 				"Summer":
 				[
@@ -5268,7 +5305,11 @@
 					"Modular_Picket_Fence_White",
 					"Modular_Beach_Fence_Brown",
 					"Modular_Metal_Fence_Black",
-					"Sign_Small"
+					"Sign_Small",
+					"Modular_Picket_Fence_Peach_Long",
+					"Modular_Picket_Fence_Brown_Long",
+					"Modular_Picket_Fence_Rose_Long",
+					"Modular_Picket_Fence_White_Long"
 				],
 				"Fall":
 				[
@@ -5300,7 +5341,11 @@
 					"Modular_Picket_Fence_White",
 					"Modular_Beach_Fence_Brown",
 					"Modular_Metal_Fence_Black",
-					"Sign_Small"
+					"Sign_Small",
+					"Modular_Picket_Fence_Peach_Long",
+					"Modular_Picket_Fence_Brown_Long",
+					"Modular_Picket_Fence_Rose_Long",
+					"Modular_Picket_Fence_White_Long"
 				],
 				"Winter":
 				[
@@ -5332,7 +5377,11 @@
 					"Modular_Picket_Fence_White",
 					"Modular_Beach_Fence_Brown",
 					"Modular_Metal_Fence_Black",
-					"Sign_Small"
+					"Sign_Small",
+					"Modular_Picket_Fence_Peach_Long",
+					"Modular_Picket_Fence_Brown_Long",
+					"Modular_Picket_Fence_Rose_Long",
+					"Modular_Picket_Fence_White_Long"
 				]
 			},
 			"Category2": 

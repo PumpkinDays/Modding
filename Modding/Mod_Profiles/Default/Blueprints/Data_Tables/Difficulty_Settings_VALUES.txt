@@ -17,7 +17,7 @@
 		},
 		{
 			"RowName": "Hard",
-			"DifficultyDescription": "30% gold penalty for passing out.\\n 70% Museum completion goal \\n Animal Death. \\n Bugs will attack \\n Tools easily break.",
+			"DifficultyDescription": "25% gold penalty for passing out.\\n 70% Museum completion goal \\n Animal Death. \\n Bugs will attack \\n Tools easily break.",
 			"PercentageToStopMuseum": 70,
 			"DelayMuseumIncrement": 30,
 			"ClinicGoldPercentagePenalty": 25

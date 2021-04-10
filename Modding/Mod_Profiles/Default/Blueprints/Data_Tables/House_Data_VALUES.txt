@@ -1617,7 +1617,7 @@
 			"IsAnimalHousing": true,
 			"HousingType": 2,
 			"HousingSpace": 1,
-			"Description": "A pet house for housing 1 cat or dog. Costs 5000g which will be added to your debt.",
+			"Description": "A pet house for housing 1 cat or dog. Costs 1000g which will be added to your debt.",
 			"SleepLocs":
 			[
 				{

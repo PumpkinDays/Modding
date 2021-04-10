@@ -65,7 +65,8 @@
 				"X": 0,
 				"Y": 0,
 				"Z": 0
-			}
+			},
+			"PreviewMeshScale": 1
 		},
 		{
 			"RowName": "Basic_ArmChair_Black",
@@ -107,7 +108,8 @@
 				"X": 0,
 				"Y": 0,
 				"Z": 0
-			}
+			},
+			"PreviewMeshScale": 1
 		},
 		{
 			"RowName": "Basic_Chair_Brown",
@@ -141,7 +143,8 @@
 				"X": 0,
 				"Y": 0,
 				"Z": 0
-			}
+			},
+			"PreviewMeshScale": 1
 		},
 		{
 			"RowName": "Basic_Couch_Brown",
@@ -191,7 +194,8 @@
 				"X": 0,
 				"Y": 0,
 				"Z": 0
-			}
+			},
+			"PreviewMeshScale": 1
 		},
 		{
 			"RowName": "End_Table_Brown",
@@ -225,7 +229,8 @@
 				"X": 0,
 				"Y": 0,
 				"Z": 0
-			}
+			},
+			"PreviewMeshScale": 1
 		},
 		{
 			"RowName": "Basic_Table_Wood_Brown",
@@ -259,7 +264,8 @@
 				"X": 0,
 				"Y": 0,
 				"Z": 0
-			}
+			},
+			"PreviewMeshScale": 1
 		},
 		{
 			"RowName": "Basic_OfficeDesk_Brown",
@@ -293,7 +299,8 @@
 				"X": 0,
 				"Y": 0,
 				"Z": 0
-			}
+			},
+			"PreviewMeshScale": 1
 		},
 		{
 			"RowName": "Basic_Counter_Wood_Brown",
@@ -335,7 +342,8 @@
 				"X": 0,
 				"Y": 0,
 				"Z": 0
-			}
+			},
+			"PreviewMeshScale": 1
 		},
 		{
 			"RowName": "Basic_CoffeeTable_Wood_Brown",
@@ -369,7 +377,8 @@
 				"X": 0,
 				"Y": 0,
 				"Z": 0
-			}
+			},
+			"PreviewMeshScale": 1
 		},
 		{
 			"RowName": "Basic_Vanity_Brown",
@@ -403,7 +412,8 @@
 				"X": 0,
 				"Y": 0,
 				"Z": 0
-			}
+			},
+			"PreviewMeshScale": 1
 		},
 		{
 			"RowName": "Basic_Bookcase_Short_Wood_Brown",
@@ -437,7 +447,8 @@
 				"X": 0,
 				"Y": 0,
 				"Z": 0
-			}
+			},
+			"PreviewMeshScale": 1
 		},
 		{
 			"RowName": "Basic_Bookcase_Tall_Wood_Brown",
@@ -471,7 +482,8 @@
 				"X": 0,
 				"Y": 0,
 				"Z": 0
-			}
+			},
+			"PreviewMeshScale": 1
 		},
 		{
 			"RowName": "Basic_Dresser_Brown",
@@ -505,7 +517,8 @@
 				"X": 0,
 				"Y": 0,
 				"Z": 0
-			}
+			},
+			"PreviewMeshScale": 1
 		},
 		{
 			"RowName": "Basic_Cupboard_Wood_Brown",
@@ -539,7 +552,8 @@
 				"X": 0,
 				"Y": 0,
 				"Z": 0
-			}
+			},
+			"PreviewMeshScale": 1
 		},
 		{
 			"RowName": "Basic_Fridge_Black",
@@ -573,7 +587,8 @@
 				"X": 0,
 				"Y": 0,
 				"Z": 0
-			}
+			},
+			"PreviewMeshScale": 1
 		},
 		{
 			"RowName": "Basic_Wardrobe_Wood_Brown",
@@ -607,7 +622,8 @@
 				"X": 0,
 				"Y": 0,
 				"Z": 0
-			}
+			},
+			"PreviewMeshScale": 1
 		},
 		{
 			"RowName": "Antique_Bookcase_Short_Brown",
@@ -641,7 +657,8 @@
 				"X": 0,
 				"Y": 0,
 				"Z": 0
-			}
+			},
+			"PreviewMeshScale": 1
 		},
 		{
 			"RowName": "Antique_Bookcase_Tall_Brown",
@@ -675,7 +692,8 @@
 				"X": 0,
 				"Y": 0,
 				"Z": 0
-			}
+			},
+			"PreviewMeshScale": 1
 		},
 		{
 			"RowName": "Antique_Chair_Brown",
@@ -709,7 +727,8 @@
 				"X": 0,
 				"Y": 0,
 				"Z": 0
-			}
+			},
+			"PreviewMeshScale": 1
 		},
 		{
 			"RowName": "Antique_Coffee_Table_Brown",
@@ -743,7 +762,8 @@
 				"X": 0,
 				"Y": 0,
 				"Z": 0
-			}
+			},
+			"PreviewMeshScale": 1
 		},
 		{
 			"RowName": "Antique_Cupboard_Brown",
@@ -777,7 +797,8 @@
 				"X": 0,
 				"Y": 0,
 				"Z": 0
-			}
+			},
+			"PreviewMeshScale": 1
 		},
 		{
 			"RowName": "Antique_Dresser_Brown",
@@ -811,7 +832,8 @@
 				"X": 0,
 				"Y": 0,
 				"Z": 0
-			}
+			},
+			"PreviewMeshScale": 1
 		},
 		{
 			"RowName": "Antique_OfficeDesk_Brown",
@@ -845,7 +867,8 @@
 				"X": 0,
 				"Y": 0,
 				"Z": 0
-			}
+			},
+			"PreviewMeshScale": 1
 		},
 		{
 			"RowName": "Antique_Table_Brown",
@@ -879,7 +902,8 @@
 				"X": 0,
 				"Y": 0,
 				"Z": 0
-			}
+			},
+			"PreviewMeshScale": 1
 		},
 		{
 			"RowName": "Antique_Wardrobe_Brown",
@@ -913,7 +937,8 @@
 				"X": 0,
 				"Y": 0,
 				"Z": 0
-			}
+			},
+			"PreviewMeshScale": 1
 		},
 		{
 			"RowName": "Nice_Chair_Brown",
@@ -947,7 +972,8 @@
 				"X": 0,
 				"Y": 0,
 				"Z": 0
-			}
+			},
+			"PreviewMeshScale": 1
 		},
 		{
 			"RowName": "Nice_Coffee_Table_Brown",
@@ -981,7 +1007,8 @@
 				"X": 0,
 				"Y": 0,
 				"Z": 0
-			}
+			},
+			"PreviewMeshScale": 1
 		},
 		{
 			"RowName": "Nice_Table_Brown",
@@ -1015,7 +1042,8 @@
 				"X": 0,
 				"Y": 0,
 				"Z": 0
-			}
+			},
+			"PreviewMeshScale": 1
 		},
 		{
 			"RowName": "Nice_Wardrobe_Brown",
@@ -1049,7 +1077,8 @@
 				"X": 0,
 				"Y": 0,
 				"Z": 0
-			}
+			},
+			"PreviewMeshScale": 1
 		},
 		{
 			"RowName": "Fun_Cupboard_Brown",
@@ -1083,7 +1112,8 @@
 				"X": 0,
 				"Y": 0,
 				"Z": 0
-			}
+			},
+			"PreviewMeshScale": 1
 		},
 		{
 			"RowName": "Fun_Wardrobe_Brown",
@@ -1117,7 +1147,8 @@
 				"X": 0,
 				"Y": 0,
 				"Z": 0
-			}
+			},
+			"PreviewMeshScale": 1
 		},
 		{
 			"RowName": "Kitchenoid_Size_2",
@@ -1183,7 +1214,8 @@
 				"X": 0,
 				"Y": 0,
 				"Z": 0
-			}
+			},
+			"PreviewMeshScale": 1
 		},
 		{
 			"RowName": "Kitchenoid_Size_3",
@@ -1249,7 +1281,8 @@
 				"X": 0,
 				"Y": 0,
 				"Z": 0
-			}
+			},
+			"PreviewMeshScale": 1
 		},
 		{
 			"RowName": "Kitchenoid_Size_4",
@@ -1315,7 +1348,8 @@
 				"X": 0,
 				"Y": 0,
 				"Z": 0
-			}
+			},
+			"PreviewMeshScale": 1
 		},
 		{
 			"RowName": "Plushie_Cat_Brown",
@@ -1349,7 +1383,8 @@
 				"X": 0,
 				"Y": 0,
 				"Z": 0
-			}
+			},
+			"PreviewMeshScale": 1
 		},
 		{
 			"RowName": "Plushie_Chicken_White",
@@ -1383,7 +1418,8 @@
 				"X": 0,
 				"Y": 0,
 				"Z": 0
-			}
+			},
+			"PreviewMeshScale": 1
 		},
 		{
 			"RowName": "Plushie_Dog_Brown",
@@ -1417,7 +1453,8 @@
 				"X": 0,
 				"Y": 0,
 				"Z": 0
-			}
+			},
+			"PreviewMeshScale": 1
 		},
 		{
 			"RowName": "Plushie_Elephant_Grey",
@@ -1451,7 +1488,8 @@
 				"X": 0,
 				"Y": 0,
 				"Z": 0
-			}
+			},
+			"PreviewMeshScale": 1
 		},
 		{
 			"RowName": "Plushie_Pig_Pink",
@@ -1485,7 +1523,8 @@
 				"X": 0,
 				"Y": 0,
 				"Z": 0
-			}
+			},
+			"PreviewMeshScale": 1
 		},
 		{
 			"RowName": "Plushie_Horse_Brown",
@@ -1519,7 +1558,8 @@
 				"X": 0,
 				"Y": 0,
 				"Z": 0
-			}
+			},
+			"PreviewMeshScale": 1
 		},
 		{
 			"RowName": "Tile_Brick",
@@ -1553,7 +1593,8 @@
 				"X": 0,
 				"Y": 0,
 				"Z": 0
-			}
+			},
+			"PreviewMeshScale": 1
 		},
 		{
 			"RowName": "Curtain_Open_Black",
@@ -1595,7 +1636,8 @@
 				"X": 0,
 				"Y": 0,
 				"Z": 0
-			}
+			},
+			"PreviewMeshScale": 1
 		},
 		{
 			"RowName": "Wall_Big",
@@ -1629,7 +1671,8 @@
 				"X": 0,
 				"Y": 0,
 				"Z": 0
-			}
+			},
+			"PreviewMeshScale": 1
 		},
 		{
 			"RowName": "Wall_Small",
@@ -1663,7 +1706,8 @@
 				"X": 0,
 				"Y": 0,
 				"Z": 0
-			}
+			},
+			"PreviewMeshScale": 1
 		},
 		{
 			"RowName": "Small_Table_Brown",
@@ -1697,7 +1741,8 @@
 				"X": 0,
 				"Y": 0,
 				"Z": 0
-			}
+			},
+			"PreviewMeshScale": 1
 		},
 		{
 			"RowName": "Black_Zag_Table",
@@ -1747,7 +1792,8 @@
 				"X": 0,
 				"Y": 0,
 				"Z": 0
-			}
+			},
+			"PreviewMeshScale": 1
 		},
 		{
 			"RowName": "Chair_Cushion_Black",
@@ -1789,7 +1835,8 @@
 				"X": 0,
 				"Y": 0,
 				"Z": 0
-			}
+			},
+			"PreviewMeshScale": 1
 		},
 		{
 			"RowName": "Stone_Lantern_Grey",
@@ -1823,7 +1870,8 @@
 				"X": 0,
 				"Y": 0,
 				"Z": 0
-			}
+			},
+			"PreviewMeshScale": 1
 		},
 		{
 			"RowName": "Wall_Cabinets_Brown",
@@ -1865,7 +1913,8 @@
 				"X": 0,
 				"Y": 0,
 				"Z": 0
-			}
+			},
+			"PreviewMeshScale": 1
 		},
 		{
 			"RowName": "Wall_Shelf",
@@ -1907,7 +1956,8 @@
 				"X": 0,
 				"Y": 0,
 				"Z": 0
-			}
+			},
+			"PreviewMeshScale": 1
 		},
 		{
 			"RowName": "Bird_House",
@@ -1965,7 +2015,8 @@
 				"X": 0,
 				"Y": 0,
 				"Z": 0
-			}
+			},
+			"PreviewMeshScale": 1
 		},
 		{
 			"RowName": "Privacy_Screen_Black_Zag",
@@ -2007,7 +2058,8 @@
 				"X": 0,
 				"Y": 0,
 				"Z": 0
-			}
+			},
+			"PreviewMeshScale": 1
 		},
 		{
 			"RowName": "Couch_Sleek_Brown",
@@ -2057,7 +2109,8 @@
 				"X": 0,
 				"Y": 0,
 				"Z": 0
-			}
+			},
+			"PreviewMeshScale": 1
 		},
 		{
 			"RowName": "Elegant_Couch_White",
@@ -2107,7 +2160,8 @@
 				"X": 0,
 				"Y": 0,
 				"Z": 0
-			}
+			},
+			"PreviewMeshScale": 1
 		},
 		{
 			"RowName": "Swing_Bench",
@@ -2157,7 +2211,8 @@
 				"X": 0,
 				"Y": 0,
 				"Z": 0
-			}
+			},
+			"PreviewMeshScale": 1
 		},
 		{
 			"RowName": "Basic_Lamp_Blue",
@@ -2199,7 +2254,8 @@
 				"X": 0,
 				"Y": 0,
 				"Z": 0
-			}
+			},
+			"PreviewMeshScale": 1
 		},
 		{
 			"RowName": "Antique_Lamp_Blue",
@@ -2241,7 +2297,8 @@
 				"X": 0,
 				"Y": 0,
 				"Z": 0
-			}
+			},
+			"PreviewMeshScale": 1
 		},
 		{
 			"RowName": "Oven_Mitts_Blue",
@@ -2275,7 +2332,8 @@
 				"X": 0,
 				"Y": 0,
 				"Z": 0
-			}
+			},
+			"PreviewMeshScale": 1
 		},
 		{
 			"RowName": "Curtain_Open_Large",
@@ -2317,7 +2375,8 @@
 				"X": 0,
 				"Y": 0,
 				"Z": 0
-			}
+			},
+			"PreviewMeshScale": 1
 		},
 		{
 			"RowName": "Fox_Plushie",
@@ -2351,7 +2410,8 @@
 				"X": 0,
 				"Y": 0,
 				"Z": 0
-			}
+			},
+			"PreviewMeshScale": 1
 		},
 		{
 			"RowName": "Basic_DoubleBed_Black",
@@ -2417,7 +2477,8 @@
 				"X": 0,
 				"Y": 0,
 				"Z": 0
-			}
+			},
+			"PreviewMeshScale": 1
 		},
 		{
 			"RowName": "Crib",
@@ -2467,7 +2528,8 @@
 				"X": 0,
 				"Y": 0,
 				"Z": 0
-			}
+			},
+			"PreviewMeshScale": 1
 		},
 		{
 			"RowName": "Curtain_Short",
@@ -2509,7 +2571,8 @@
 				"X": 0,
 				"Y": 0,
 				"Z": 0
-			}
+			},
+			"PreviewMeshScale": 1
 		},
 		{
 			"RowName": "Wall_House_Large",
@@ -2543,7 +2606,8 @@
 				"X": 0,
 				"Y": 0,
 				"Z": 0
-			}
+			},
+			"PreviewMeshScale": 1
 		},
 		{
 			"RowName": "Wall_House_Luxury",
@@ -2577,7 +2641,8 @@
 				"X": 0,
 				"Y": 0,
 				"Z": 0
-			}
+			},
+			"PreviewMeshScale": 1
 		}
 	]
 }

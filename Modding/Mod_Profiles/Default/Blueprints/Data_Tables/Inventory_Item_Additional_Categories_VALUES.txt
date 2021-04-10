@@ -1106,7 +1106,8 @@
 			"RowName": "Bag_Rice",
 			"NameArray":
 			[
-				"Ctg_Non_Dairy"
+				"Ctg_Non_Dairy",
+				"Ctg_Beer_Barrel"
 			]
 		},
 		{
@@ -1118,7 +1119,8 @@
 			"RowName": "Bag_Barley",
 			"NameArray":
 			[
-				"Ctg_Barley"
+				"Ctg_Barley",
+				"Ctg_Beer_Barrel"
 			]
 		},
 		{
@@ -6119,7 +6121,8 @@
 			[
 				"Ctg_Oil_Ingredients",
 				"Ctg_Crops",
-				"Ctg_Grains"
+				"Ctg_Grains",
+				"Ctg_Beer_Barrel"
 			]
 		},
 		{
@@ -6308,7 +6311,8 @@
 			"RowName": "Apple",
 			"NameArray":
 			[
-				"Ctg_Crops"
+				"Ctg_Crops",
+				"Ctg_Beer_Barrel"
 			]
 		},
 		{
@@ -6484,7 +6488,8 @@
 			"RowName": "Grapes",
 			"NameArray":
 			[
-				"Ctg_Crops"
+				"Ctg_Crops",
+				"Ctg_Beer_Barrel"
 			]
 		},
 		{
@@ -6690,7 +6695,8 @@
 			"RowName": "Plum",
 			"NameArray":
 			[
-				"Ctg_Crops"
+				"Ctg_Crops",
+				"Ctg_Beer_Barrel"
 			]
 		},
 		{
@@ -8056,6 +8062,20 @@
 			"NameArray":
 			[
 				"Ctg_Metals"
+			]
+		},
+		{
+			"RowName": "honey",
+			"NameArray":
+			[
+				"Ctg_Beer_Barrel"
+			]
+		},
+		{
+			"RowName": "Ginger",
+			"NameArray":
+			[
+				"Ctg_Beer_Barrel"
 			]
 		}
 	]

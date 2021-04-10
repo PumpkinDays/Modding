@@ -3592,6 +3592,18 @@
 		{
 			"RowName": "Vegan_Cheese",
 			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Banana_Candy",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Coffee_Candy",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Honey_Candy",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
 		}
 	]
 }

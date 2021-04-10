@@ -727,7 +727,7 @@
 			"QuestDescription": "Ship any 20 cooked recipes made with the kitchen.",
 			"BeginningOfQuestLine": false,
 			"QuestType": 2,
-			"Item": "Ctg_Food",
+			"Item": "Ctg_Recipe",
 			"Amount": 20,
 			"NextQuestRow": "Cooking_Quest3",
 			"Letters": 

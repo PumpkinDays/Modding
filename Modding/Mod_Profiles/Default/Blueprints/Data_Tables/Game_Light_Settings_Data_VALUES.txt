@@ -1680,6 +1680,90 @@
 				"Yaw": 0,
 				"Roll": 0
 			}
+		},
+		{
+			"RowName": "Tall_Lamp_White",
+			"Intensity": 500,
+			"Color": 
+			{
+				"B": 38,
+				"G": 126,
+				"R": 238,
+				"A": 255
+			},
+			"AttenuationRadius": 1000,
+			"SourceRadius": 100,
+			"SourceLength": 100,
+			"CastsShadows": false,
+			"InnerConeAngle": 0,
+			"OuterConeAngle": 44,
+			"TurnOnTime": 
+			{
+				"Hour": 17,
+				"Minute": 0
+			},
+			"OffTime": 
+			{
+				"Hour": 6,
+				"Minute": 0
+			},
+			"FadeIntensityCurve": "None",
+			"FadesIn": false,
+			"FadesOut": false,
+			"FurnitureLocation": 
+			{
+				"X": 0,
+				"Y": 30,
+				"Z": 70
+			},
+			"FurnitureRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			}
+		},
+		{
+			"RowName": "Tall_Lamp_Black",
+			"Intensity": 500,
+			"Color": 
+			{
+				"B": 38,
+				"G": 126,
+				"R": 238,
+				"A": 255
+			},
+			"AttenuationRadius": 1000,
+			"SourceRadius": 100,
+			"SourceLength": 100,
+			"CastsShadows": false,
+			"InnerConeAngle": 0,
+			"OuterConeAngle": 44,
+			"TurnOnTime": 
+			{
+				"Hour": 17,
+				"Minute": 0
+			},
+			"OffTime": 
+			{
+				"Hour": 6,
+				"Minute": 0
+			},
+			"FadeIntensityCurve": "None",
+			"FadesIn": false,
+			"FadesOut": false,
+			"FurnitureLocation": 
+			{
+				"X": 0,
+				"Y": 30,
+				"Z": 70
+			},
+			"FurnitureRotation": 
+			{
+				"Pitch": 0,
+				"Yaw": 0,
+				"Roll": 0
+			}
 		}
 	]
 }

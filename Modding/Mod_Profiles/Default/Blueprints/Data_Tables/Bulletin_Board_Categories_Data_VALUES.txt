@@ -737,7 +737,6 @@
 				"Chocolate_Cherry_Jam_Cookies",
 				"Chocolate_Chip_Cookies",
 				"Chocolate_Mint_Cookies",
-				"Chocolate_Mint_Filling_Cookies",
 				"Coconut_Cookies",
 				"Cranberry_Cookies",
 				"Cranberry_Jam_Cookies",

@@ -4284,6 +4284,14 @@
 		{
 			"RowName": "devil_mantisw",
 			"IntProperty": 0
+		},
+		{
+			"RowName": "Quest_Logs",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Fodder_Seeds",
+			"IntProperty": 0
 		}
 	]
 }

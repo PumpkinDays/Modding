@@ -1248,7 +1248,7 @@
 			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Chin/Beard_Flat.Beard_Flat'",
 			"MeshAsSkeleton": "None",
 			"Material": "None",
-			"Thumbnail": "Texture2D'/Game/Textures/Icons/Hair/beard03.beard03'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Hair/beard08.beard08'",
 			"AvailableInCharCreation": true,
 			"AvailableInOther": false
 		},

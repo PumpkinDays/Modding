@@ -33,3 +33,4 @@ PreviewMeshOffset:
 	X: float
 	Y: float
 	Z: float
+PreviewMeshScale: float

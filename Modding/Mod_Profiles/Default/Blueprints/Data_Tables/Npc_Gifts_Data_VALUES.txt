@@ -68,7 +68,9 @@
 				"Eggnog",
 				"Rose_Coconut",
 				"Sakura_Cookies",
-				"Sugar_Skulls"
+				"Sugar_Skulls",
+				"Creepy_Punch",
+				"Sakura_Cocktail"
 			],
 			"FavoriteGiftsStatement": "[W81F74]Cookies, Apple Recipes, Red Flowers, Festival Drinks, and Polished Rubies."
 		},
@@ -142,7 +144,8 @@
 				"Fruit_Pizza",
 				"Rose_Coconut",
 				"Rose_Water",
-				"Salt_Fish_Bakes"
+				"Salt_Fish_Bakes",
+				"Summer_Festival_Salad"
 			],
 			"FavoriteGiftsStatement": "[613136]Juice, Tea, Mahi-Mahi recipes, Takoyaki, Healthy Festival Dishes, and Polished Tiger's Eye."
 		},
@@ -223,7 +226,8 @@
 				"Fruitcake",
 				"Cobbler_Ice_Cream",
 				"Melon_Hibiscus_Icecream",
-				"Pumpkin_Spiced_Rum"
+				"Pumpkin_Spiced_Rum",
+				"Green_Man_Cake"
 			],
 			"FavoriteGiftsStatement": "[4IB89J]Tea, Cheap Beer and Liquor, Ice Cream, Fries, Wine, Festival Pastries, and Polished Jade."
 		},
@@ -639,7 +643,8 @@
 				"Rose_Salad",
 				"Fruit_Pizza",
 				"Lentil_Burger",
-				"Coconut_Lentil_Curry"
+				"Coconut_Lentil_Curry",
+				"Summer_Festival_Salad"
 			],
 			"FavoriteGiftsStatement": "[WP3B78]Tea, Vegetarian Salads, Vegetarian Vegetable Recipes (excluding soup), Vegetarian Sandwiches, Jam, Healthy Festival Dishes, and Polished Sodalite."
 		},
@@ -736,7 +741,8 @@
 				"Tamale",
 				"Cobbler_Ice_Cream",
 				"Melon_Hibiscus_Icecream",
-				"Eggnog"
+				"Eggnog",
+				"Rosemary_Pork"
 			],
 			"FavoriteGiftsStatement": "[5WR8U1]Any Recipe Made with Corn or Milk, Ice Cream, BBQ Recipes, Festival Meat Dishes, and Hearty Beef Recipes."
 		},
@@ -773,7 +779,8 @@
 				"Callaloo_Breadfruit",
 				"Tamale",
 				"Black_Licoric_Ice_Cream",
-				"Licorice_Cake"
+				"Licorice_Cake",
+				"Rosemary_Pork"
 			],
 			"FavoriteGiftsStatement": "[16RNH2]Any Recipe that is Black, Festival Meat Dishes, and Polished Jet."
 		},
@@ -1123,7 +1130,8 @@
 				"Rose_Coconut",
 				"Salt_Fish_Bakes",
 				"Tamale",
-				"Salmon_Honey_Mustard"
+				"Salmon_Honey_Mustard",
+				"Creepy_Punch"
 			],
 			"FavoriteGiftsStatement": "[E3OORQ]Fish Recipes, Festival Drinks, and Corn Recipes."
 		},
@@ -1194,7 +1202,8 @@
 				"Fizzy_Float",
 				"Pumpkin_Spiced_Rum",
 				"Eggnog",
-				"Rose_Coconut"
+				"Rose_Coconut",
+				"Creepy_Punch"
 			],
 			"FavoriteGiftsStatement": "[OIE1CC]Juice, Tea, Festival Drinks, and Goat Milk."
 		},
@@ -2292,7 +2301,8 @@
 				"Beet_Salad",
 				"Roasted_Beets",
 				"Coconut_Lentil_Curry",
-				"Lentil_Burger"
+				"Lentil_Burger",
+				"She'll call you jerk in an affectionate way XD"
 			],
 			"FavoriteGiftsStatement": "[BSDZH0]Vegetable Soups, Salads, Vegetable Recipes, Healthy Festival Dishes, and Vegetable Sandwiches."
 		},
@@ -2433,7 +2443,8 @@
 				"Fizzy_Float",
 				"Pumpkin_Spiced_Rum",
 				"Eggnog",
-				"Rose_Coconut"
+				"Rose_Coconut",
+				"Goat_Cheese_Onion"
 			],
 			"FavoriteGiftsStatement": "[36992K]Juice, Tea, Goat Milk, Festival Drinks, and Feta Cheese."
 		},
@@ -2559,7 +2570,8 @@
 				"Candy_Canes",
 				"Gingerbread_Peeps",
 				"Fruit_Roll_Cake",
-				"Fruitcake"
+				"Fruitcake",
+				"Green_Man_Cake"
 			],
 			"FavoriteGiftsStatement": "[D8R1E1]Blackberry Recipes, Expensive Sushi, Sneezeweed, Festival Pastries, and Polished Bloodstone."
 		},
@@ -2949,7 +2961,9 @@
 				"Samosa",
 				"Aloo_Tikki",
 				"Callaloo_Breadfruit",
-				"Tamale"
+				"Tamale",
+				"Rosemary_Pork",
+				"Festival_Chocolates"
 			],
 			"FavoriteGiftsStatement": "[BT789R]Chocolate Recipes and Festival Meat Dishes."
 		},
@@ -2991,7 +3005,8 @@
 				"Unicorn_Cake",
 				"Owl_Cake",
 				"Drip_Cake",
-				"Brownies"
+				"Brownies",
+				"Festival_Chocolates"
 			],
 			"FavoriteGiftsStatement": "[0EDQ1Y]Chocolate Recipes, Tea, and Mac and Cheese."
 		},
@@ -3036,7 +3051,8 @@
 				"Russian_Teacakes",
 				"Salmon_Cakes",
 				"Crab_Cake",
-				"Madarin_Cake"
+				"Madarin_Cake",
+				"Green_Man_Cake"
 			],
 			"FavoriteGiftsStatement": "[K1A9L6]Any kind of cake except his own specialty cakes."
 		},
@@ -3313,7 +3329,8 @@
 				"Cat_Cake",
 				"Unicorn_Cake",
 				"Owl_Cake",
-				"Drip_Cake"
+				"Drip_Cake",
+				"Cranberry_Bread"
 			],
 			"FavoriteGiftsStatement": "[C0QBT4]Recipes Made With Any Kind Of Berry and Metal Bars."
 		},
@@ -3445,7 +3462,9 @@
 				"Cat_Cake",
 				"Unicorn_Cake",
 				"Owl_Cake",
-				"Drip_Cake"
+				"Drip_Cake",
+				"Festival_Chocolates",
+				"Candy_Corn"
 			],
 			"FavoriteGiftsStatement": "[OT3SG6]Candies, French Fries, Cheese Pizza, Hamburger, and Mac and Cheese."
 		},
@@ -3737,7 +3756,8 @@
 				"Callaloo_Breadfruit",
 				"Tamale",
 				"Roti",
-				"Honey_Mustard_Chicken_Sandwich"
+				"Honey_Mustard_Chicken_Sandwich",
+				"Rosemary_Pork"
 			],
 			"FavoriteGiftsStatement": "[05NNB1]Sandwiches, Festival Meat Dishes, and Mixed Drinks."
 		},
@@ -3821,7 +3841,8 @@
 				"Aloo_Tikki",
 				"Callaloo_Breadfruit",
 				"Tamale",
-				"Salmon_Honey_Mustard"
+				"Salmon_Honey_Mustard",
+				"Rosemary_Pork"
 			],
 			"FavoriteGiftsStatement": "[D3K0E8]Orange Recipes, Fish Recipes (Not Shellfish), Festival Meat Dishes, and Icecream."
 		},
@@ -3871,7 +3892,8 @@
 				"Aloo_Tikki",
 				"Callaloo_Breadfruit",
 				"Tamale",
-				"Fried_Breadfruit"
+				"Fried_Breadfruit",
+				"Rosemary_Pork"
 			],
 			"FavoriteGiftsStatement": "[S075T9]Beer, Pizza, Festival Meat Dishes, and Anything That's Been Deep Fried."
 		},
@@ -3984,7 +4006,8 @@
 				"Fizzy_Float",
 				"Pumpkin_Spiced_Rum",
 				"Eggnog",
-				"Rose_Coconut"
+				"Rose_Coconut",
+				"Creepy_Punch"
 			],
 			"FavoriteGiftsStatement": "[BA230T]Juice, Jam, Festival Drinks, and Mixed Drinks"
 		},
@@ -4025,7 +4048,11 @@
 				"Samosa",
 				"Aloo_Tikki",
 				"Callaloo_Breadfruit",
-				"Tamale"
+				"Tamale",
+				"Mixed_Nuts",
+				"Rosemary_Pork",
+				"Almonds",
+				"Cashews_Seeds"
 			],
 			"FavoriteGiftsStatement": "[3W4Z04]Garbage, Grilled Fish (On a Stick), Festival Meat Dishes, and Nuts."
 		},
@@ -4117,7 +4144,8 @@
 				"Candy_Canes",
 				"Gingerbread_Peeps",
 				"Fruit_Roll_Cake",
-				"Fruitcake"
+				"Fruitcake",
+				"Green_Man_Cake"
 			],
 			"FavoriteGiftsStatement": "[657B1X]Juice, Pies, Chocolate Milk, Banana Milk, Festival Pastries, and Peanut Butter Recipes."
 		},
@@ -4195,7 +4223,8 @@
 				"Cheesy_Asparagus",
 				"Curried_Collard_Greens",
 				"Roasted_Beets",
-				"Coconut_Lentil_Curry"
+				"Coconut_Lentil_Curry",
+				"Summer_Festival_Salad"
 			],
 			"FavoriteGiftsStatement": "[V9YH5L]Salads, Shrimp Recipes, Vegetable Recipes (Not Soup), Healthy Festival Dishes, Any Dish Made With Ginger."
 		},
@@ -4400,7 +4429,8 @@
 				"Coconut_Lentil_Curry",
 				"Curried_Collard_Greens",
 				"Breadfruit_Curry",
-				"Potato_Fish_Curry"
+				"Potato_Fish_Curry",
+				"Rosemary_Pork"
 			],
 			"FavoriteGiftsStatement": "[8WRQAI]Hearty Fish Recipes, Festival Meat Dishes, and Curry."
 		},
@@ -4488,7 +4518,8 @@
 				"Aloo_Tikki",
 				"Callaloo_Breadfruit",
 				"Tamale",
-				"Shrimp_And_Asparagus"
+				"Shrimp_And_Asparagus",
+				"Rosemary_Pork"
 			],
 			"FavoriteGiftsStatement": "[95V8ES]Juice, Grilled Fish, Recipes Made With Shellfish, and Festival Meat Dishes.."
 		},
@@ -4594,7 +4625,8 @@
 				"Rose_Salad",
 				"Honey_Mustard_Chicken",
 				"Honey_Mustard_Chicken_Sandwich",
-				"Chicken_Asparagus"
+				"Chicken_Asparagus",
+				"Summer_Festival_Salad"
 			],
 			"FavoriteGiftsStatement": "[969AQ4]Salads, Chicken Recipes, Juice, Banana Milk and Chocolate Milk."
 		},
@@ -4839,7 +4871,8 @@
 				"Dragonfruit_Crepe",
 				"Fig_Bars",
 				"Madarin_Cake",
-				"Salted_Cashew_Bar"
+				"Salted_Cashew_Bar",
+				"Green_Man_Cake"
 			],
 			"FavoriteGiftsStatement": "[42Z5DS]Tea, Cookies, Cake, Festival Pastries, and Pink Flowers."
 		},
@@ -4906,7 +4939,9 @@
 				"Gingerbread_Peeps",
 				"Fruit_Roll_Cake",
 				"Fruitcake",
-				"Brownies"
+				"Brownies",
+				"Festival_Chocolates",
+				"Candy_Corn"
 			],
 			"FavoriteGiftsStatement": "[S4U23C]Candies, Chocolate Recipes, Festival Pastries, and Salmon Recipes."
 		},
@@ -5307,7 +5342,8 @@
 				"Callaloo_Breadfruit",
 				"Tamale",
 				"Lentil_Burger",
-				"Honey_Mustard_Chicken_Sandwich"
+				"Honey_Mustard_Chicken_Sandwich",
+				"Rosemary_Pork"
 			],
 			"FavoriteGiftsStatement": "[5TW1R5]Vegetable Soup Recipes, Sandwiches With Lettuce, Festival Meat Dishes, and Salads With Lettuce."
 		},
@@ -5396,7 +5432,8 @@
 				"Aloo_Tikki",
 				"Callaloo_Breadfruit",
 				"Tamale",
-				"Honey_Mustard_Chicken_Sandwich"
+				"Honey_Mustard_Chicken_Sandwich",
+				"Rosemary_Pork"
 			],
 			"FavoriteGiftsStatement": "[H61YY5]Sandwiches, Festival Meat Dishes and Beer."
 		},
@@ -5506,7 +5543,9 @@
 				"Aloo_Tikki",
 				"Callaloo_Breadfruit",
 				"Tamale",
-				"Eggnog"
+				"Eggnog",
+				"Rosemary_Pork",
+				"Rosemary_Pork"
 			],
 			"FavoriteGiftsStatement": "[44J4T8]Cooked Eggs, Recipes That Use Mayonnaise, Festival Meat Dishes, and Drinks With Milk."
 		},
@@ -5593,7 +5632,8 @@
 				"Callaloo_Breadfruit",
 				"Tamale",
 				"Shrimp_And_Asparagus",
-				"Salmon_Honey_Mustard"
+				"Salmon_Honey_Mustard",
+				"Rosemary_Pork"
 			],
 			"FavoriteGiftsStatement": "[4G37V9]Seafood (except sushi), Festival Meat Dishes, and Fruity Mixed Drinks."
 		},
@@ -5832,7 +5872,11 @@
 				"Aloo_Tikki",
 				"Callaloo_Breadfruit",
 				"Tamale",
-				"Candy_Canes"
+				"Candy_Canes",
+				"Rosemary_Pork",
+				"Festival_Chocolates",
+				"Rock_Candy",
+				"Candy_Corn"
 			],
 			"FavoriteGiftsStatement": "[713D85]Mac and Cheese, Festival Meat Dishes, Pizza and Candies"
 		},
@@ -5871,7 +5915,8 @@
 				"Samosa",
 				"Aloo_Tikki",
 				"Callaloo_Breadfruit",
-				"Tamale"
+				"Tamale",
+				"Rosemary_Pork"
 			],
 			"FavoriteGiftsStatement": "[XSY6ZB]Any Recipe That Uses Apples and Festival Meat Dishes."
 		},
@@ -6531,7 +6576,8 @@
 				"Drip_Cake",
 				"Madarin_Cake",
 				"Salted_Cashew_Bar",
-				"Fig_Bars"
+				"Fig_Bars",
+				"Green_Man_Cake"
 			],
 			"FavoriteGiftsStatement": "Coffees, Cookies, Cake"
 		},
@@ -6730,7 +6776,8 @@
 				"Unicorn_Cake",
 				"Owl_Cake",
 				"Drip_Cake",
-				"Beet_Salad"
+				"Beet_Salad",
+				"Summer_Festival_Salad"
 			],
 			"FavoriteGiftsStatement": "Juice, Lattes, Salad."
 		},
@@ -7393,7 +7440,8 @@
 				"Unicorn_Cake",
 				"Owl_Cake",
 				"Drip_Cake",
-				"Brownies"
+				"Brownies",
+				"Festival_Chocolates"
 			],
 			"FavoriteGiftsStatement": "[0EDQ1Y]Chocolate Recipes, Tea, and Mac and Cheese."
 		}

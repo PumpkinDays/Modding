@@ -3924,6 +3924,18 @@
 		{
 			"RowName": "Vegan_Cheese",
 			"StaminaReward": 5
+		},
+		{
+			"RowName": "Banana_Candy",
+			"StaminaReward": 30
+		},
+		{
+			"RowName": "Coffee_Candy",
+			"StaminaReward": 30
+		},
+		{
+			"RowName": "Honey_Candy",
+			"StaminaReward": 30
 		}
 	]
 }

@@ -28,7 +28,7 @@
 		{
 			"RowName": "Beer_Barrel",
 			"Action": "Ship",
-			"Item": "Ctg_Barley",
+			"Item": "Ctg_Beer_Barrel",
 			"Amount": 100
 		},
 		{

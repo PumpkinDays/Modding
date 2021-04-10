@@ -2676,10 +2676,10 @@
 					"ElementIndex": 1,
 					"ElementValue": 
 					{
-						"Ingredient": "Conundrum_Polished",
+						"Ingredient": "Conundrum",
 						"AmountConsumed": 1,
 						"AmountConsumed2": 0,
-						"ItemProduced": "Conundrum",
+						"ItemProduced": "Conundrum_Polished",
 						"AmountProduced": 1
 					}
 				},
@@ -2709,7 +2709,7 @@
 					"ElementIndex": 1,
 					"ElementValue": 
 					{
-						"Ingredient": "Emerald_Polished",
+						"Ingredient": "Emerald",
 						"AmountConsumed": 1,
 						"AmountConsumed2": 0,
 						"ItemProduced": "Emerald_Polished",
@@ -3226,7 +3226,7 @@
 			"RowName": "Dyeing_Pot",
 			"Recipes":
 			[],
-			"FriendlyName": "",
+			"FriendlyName": "Loom",
 			"ProcessingSound": "None",
 			"ParticleSystem": "ParticleSystem'/Game/Particles/Effects/Sparkle/Sparkle.Sparkle'"
 		},

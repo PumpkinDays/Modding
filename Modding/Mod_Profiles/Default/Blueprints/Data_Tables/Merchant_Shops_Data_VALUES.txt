@@ -44019,7 +44019,7 @@
 			"RowName": "Merchant_D_Clothing_Booth_Winter_Festival",
 			"FriendlyName": "",
 			"ShopMesh": "StaticMesh'/Game/Meshes/OutdoorAssets/Merchant_Shop_No_Table.Merchant_Shop_No_Table'",
-			"Class": "BlueprintGeneratedClass'/Game/Blueprints/Shops/Master_Classes/Merchant_D_Food_Booth_Winter_Festival.Merchant_D_Food_Booth_Winter_Festival_C'",
+			"Class": "BlueprintGeneratedClass'/Game/Blueprints/Shops/Master_Classes/Merchant_D_Clothing_Booth_Winter_Festival.Merchant_D_Clothing_Booth_Winter_Festival_C'",
 			"TimeRanges":
 			[
 				{

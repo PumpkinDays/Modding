@@ -1152,6 +1152,36 @@
 				"*FIX* Fixed luxury wall being unable to be placed",
 				"*FIX* HOTFIX- Fixed bugs and hopefully crashing associated with festivals."
 			]
+		},
+		{
+			"RowName": "Pumpkin_Patch_1.0.1",
+			"NameArray":
+			[
+				"*NEW* Forgot to add macarons in the recipes",
+				"*NEW* Beer barrel can now be unlocked with any ingredient that can be turned into beer.",
+				"*FIX* Misc visual bug fixes and typos.",
+				"*FIX* Fixed the size of luxury wall to the correct size. ",
+				"*FIX* Fixed missing clothing booth at Diamond Falls winter festival",
+				"*FIX* Fixed Finn dating cutscene not triggering."
+			]
+		},
+		{
+			"RowName": "Pumpkin_Patch_1.2.0",
+			"NameArray":
+			[
+				"*FIX* Fixed multiplayer quest to ship recipes."
+			]
+		},
+		{
+			"RowName": "Pumpkin_Patch_1.3.0",
+			"NameArray":
+			[
+				"*NEW* Added signs that say what the shop times are are.",
+				"*FIX* Coffee seeds are cheaper",
+				"*FIX* Fixed cat bringing bugs that don't exist in the game and do nothing.",
+				"*FIX* Added more food items that NPCs should like based on their liked and loved description.",
+				"*FIX* Updated recipes that use entire fish for 1 recipe to using the fillets instead. "
+			]
 		}
 	]
 }

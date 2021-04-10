@@ -568,6 +568,22 @@
 			"Categories":
 			[ 11 ],
 			"RequiredAmount": 1
+		},
+		{
+			"RowName": "Frames",
+			"Row": "Frames",
+			"FriendlyName": "Glasses Frame",
+			"Categories":
+			[ 8, 7 ],
+			"RequiredAmount": 2
+		},
+		{
+			"RowName": "Main_Earrings",
+			"Row": "Main_Earrings",
+			"FriendlyName": "Main Earrings",
+			"Categories":
+			[ 8, 7 ],
+			"RequiredAmount": 2
 		}
 	]
 }

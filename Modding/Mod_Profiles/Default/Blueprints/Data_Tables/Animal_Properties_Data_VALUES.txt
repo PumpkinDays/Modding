@@ -3483,7 +3483,7 @@
 		},
 		{
 			"RowName": "Cat_Orange_Stripes",
-			"FriendlyName": "Cat Grey Stripes",
+			"FriendlyName": "Cat Orange Stripes",
 			"AnimalType": 10,
 			"Skeleton": "SkeletalMesh'/Game/Animals/Pets/Cat_Idle.Cat_Idle'",
 			"BuyPrice": 7500,

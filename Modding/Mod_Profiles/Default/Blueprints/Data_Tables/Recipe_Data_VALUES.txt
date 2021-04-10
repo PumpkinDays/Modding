@@ -4381,7 +4381,7 @@
 					"ElementIndex": 1,
 					"ElementValue": 
 					{
-						"RowName": "Tuna",
+						"RowName": "Fish_Cuts_Tuna",
 						"AmountNeeded": 1
 					}
 				},
@@ -8406,7 +8406,7 @@
 		{
 			"RowName": "Chocolate_Mint_Filling_Cookies",
 			"FriendlyName": "Chocolate Mint Filling Cookies",
-			"ProducedItem": "Chocolate_Mint_Filling_Cookies",
+			"ProducedItem": "Chocolate_Mint_Cookies",
 			"Category": "Cookies",
 			"RecipeDifficulty": 2,
 			"Ingredients":
@@ -14425,7 +14425,7 @@
 					"ElementIndex": 1,
 					"ElementValue": 
 					{
-						"RowName": "Yellow_tail",
+						"RowName": "Fish_Cuts_Yellow_Tail",
 						"AmountNeeded": 1
 					}
 				},
@@ -14701,7 +14701,7 @@
 					"ElementIndex": 1,
 					"ElementValue": 
 					{
-						"RowName": "Tuna",
+						"RowName": "Fish_Cuts_Tuna",
 						"AmountNeeded": 1
 					}
 				},
@@ -14985,7 +14985,7 @@
 					"ElementIndex": 1,
 					"ElementValue": 
 					{
-						"RowName": "Salmon",
+						"RowName": "FIsh_Cuts_Salmon",
 						"AmountNeeded": 1
 					}
 				},
@@ -15077,7 +15077,7 @@
 					"ElementIndex": 1,
 					"ElementValue": 
 					{
-						"RowName": "Tuna",
+						"RowName": "Fish_Cuts_Tuna",
 						"AmountNeeded": 1
 					}
 				},
@@ -15377,7 +15377,7 @@
 					"ElementIndex": 1,
 					"ElementValue": 
 					{
-						"RowName": "Tuna",
+						"RowName": "Fish_Cuts_Tuna",
 						"AmountNeeded": 1
 					}
 				},
@@ -15423,7 +15423,7 @@
 					"ElementIndex": 1,
 					"ElementValue": 
 					{
-						"RowName": "Tuna",
+						"RowName": "Fish_Cuts_Tuna",
 						"AmountNeeded": 1
 					}
 				},
@@ -22135,7 +22135,7 @@
 					"ElementIndex": 1,
 					"ElementValue": 
 					{
-						"RowName": "Salmon",
+						"RowName": "FIsh_Cuts_Salmon",
 						"AmountNeeded": 1
 					}
 				},
@@ -22985,6 +22985,150 @@
 			"RecipeSteps":
 			[ 1 ],
 			"Thumbnail": "Texture2D'/Game/Textures/Icons/Food/Sauces/Honey_Mustard.Honey_Mustard'",
+			"IsUnknown": false
+		},
+		{
+			"RowName": "Macaroons",
+			"FriendlyName": "Macarons",
+			"ProducedItem": "Macaroons",
+			"Category": "Cookies",
+			"RecipeDifficulty": 2,
+			"Ingredients":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Almonds",
+						"AmountNeeded": 1
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Chicken_Egg",
+						"AmountNeeded": 1
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Flour",
+						"AmountNeeded": 1
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Bag_Sugar",
+						"AmountNeeded": 1
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Vanilla",
+						"AmountNeeded": 1
+					}
+				}
+			],
+			"RecipeSteps":
+			[ 1, 3 ],
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Food/Cookies/Macaroons.Macaroons'",
+			"IsUnknown": false
+		},
+		{
+			"RowName": "Banana_Candy",
+			"FriendlyName": "Banana Candy",
+			"ProducedItem": "Banana_Candy",
+			"Category": "Candy",
+			"RecipeDifficulty": 0,
+			"Ingredients":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Bag_Sugar",
+						"AmountNeeded": 1
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Bananas",
+						"AmountNeeded": 1
+					}
+				}
+			],
+			"RecipeSteps":
+			[ 4 ],
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Food/Candy/Apple_Candy.Apple_Candy'",
+			"IsUnknown": false
+		},
+		{
+			"RowName": "Coffee_Candy",
+			"FriendlyName": "Coffee Candy",
+			"ProducedItem": "Coffee_Candy",
+			"Category": "Candy",
+			"RecipeDifficulty": 0,
+			"Ingredients":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Bag_Sugar",
+						"AmountNeeded": 1
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Ground_Coffee",
+						"AmountNeeded": 1
+					}
+				}
+			],
+			"RecipeSteps":
+			[ 4 ],
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Food/Candy/Apple_Candy.Apple_Candy'",
+			"IsUnknown": false
+		},
+		{
+			"RowName": "Honey_Candy",
+			"FriendlyName": "Honey Candy",
+			"ProducedItem": "Honey_Candy",
+			"Category": "Candy",
+			"RecipeDifficulty": 0,
+			"Ingredients":
+			[
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Bag_Sugar",
+						"AmountNeeded": 1
+					}
+				},
+				{
+					"ElementIndex": 1,
+					"ElementValue": 
+					{
+						"RowName": "Honey",
+						"AmountNeeded": 1
+					}
+				}
+			],
+			"RecipeSteps":
+			[ 4 ],
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Food/Candy/Apple_Candy.Apple_Candy'",
 			"IsUnknown": false
 		}
 	]

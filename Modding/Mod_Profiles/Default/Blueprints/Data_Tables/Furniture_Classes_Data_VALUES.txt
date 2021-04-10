@@ -54744,6 +54744,150 @@
 				},
 				"ParticleMaxTime": 0
 			}
+		},
+		{
+			"RowName": "Modular_Picket_Fence_Peach_Long",
+			"Class": "BlueprintGeneratedClass'/Game/Blueprints/Furniture/Generic_Decor_Furniture.Generic_Decor_Furniture_C'",
+			"Size": "None",
+			"ForGiftShop": false,
+			"ExtraSettings": 
+			{
+				"InteractionSound": "None",
+				"AnimationSkelMesh": "None",
+				"AnimationLength": 0,
+				"SkelAnimationToPlay": "None",
+				"InteractionMaterial":
+				[],
+				"InteractionMaterialIndex": 0,
+				"InteractionParticle": "None",
+				"ParticleOffset": 
+				{
+					"X": 0,
+					"Y": 0,
+					"Z": 0
+				},
+				"ParticleMaxTime": 0
+			}
+		},
+		{
+			"RowName": "Modular_Picket_Fence_Brown_Long",
+			"Class": "BlueprintGeneratedClass'/Game/Blueprints/Furniture/Generic_Decor_Furniture.Generic_Decor_Furniture_C'",
+			"Size": "None",
+			"ForGiftShop": false,
+			"ExtraSettings": 
+			{
+				"InteractionSound": "None",
+				"AnimationSkelMesh": "None",
+				"AnimationLength": 0,
+				"SkelAnimationToPlay": "None",
+				"InteractionMaterial":
+				[],
+				"InteractionMaterialIndex": 0,
+				"InteractionParticle": "None",
+				"ParticleOffset": 
+				{
+					"X": 0,
+					"Y": 0,
+					"Z": 0
+				},
+				"ParticleMaxTime": 0
+			}
+		},
+		{
+			"RowName": "Modular_Picket_Fence_Rose_Long",
+			"Class": "BlueprintGeneratedClass'/Game/Blueprints/Furniture/Generic_Decor_Furniture.Generic_Decor_Furniture_C'",
+			"Size": "None",
+			"ForGiftShop": false,
+			"ExtraSettings": 
+			{
+				"InteractionSound": "None",
+				"AnimationSkelMesh": "None",
+				"AnimationLength": 0,
+				"SkelAnimationToPlay": "None",
+				"InteractionMaterial":
+				[],
+				"InteractionMaterialIndex": 0,
+				"InteractionParticle": "None",
+				"ParticleOffset": 
+				{
+					"X": 0,
+					"Y": 0,
+					"Z": 0
+				},
+				"ParticleMaxTime": 0
+			}
+		},
+		{
+			"RowName": "Modular_Picket_Fence_White_Long",
+			"Class": "BlueprintGeneratedClass'/Game/Blueprints/Furniture/Generic_Decor_Furniture.Generic_Decor_Furniture_C'",
+			"Size": "None",
+			"ForGiftShop": false,
+			"ExtraSettings": 
+			{
+				"InteractionSound": "None",
+				"AnimationSkelMesh": "None",
+				"AnimationLength": 0,
+				"SkelAnimationToPlay": "None",
+				"InteractionMaterial":
+				[],
+				"InteractionMaterialIndex": 0,
+				"InteractionParticle": "None",
+				"ParticleOffset": 
+				{
+					"X": 0,
+					"Y": 0,
+					"Z": 0
+				},
+				"ParticleMaxTime": 0
+			}
+		},
+		{
+			"RowName": "Tall_Lamp_White",
+			"Class": "BlueprintGeneratedClass'/Game/Blueprints/Furniture/Generic_Point_Light_Furniture.Generic_Point_Light_Furniture_C'",
+			"Size": "Medium",
+			"ForGiftShop": false,
+			"ExtraSettings": 
+			{
+				"InteractionSound": "None",
+				"AnimationSkelMesh": "None",
+				"AnimationLength": 0,
+				"SkelAnimationToPlay": "None",
+				"InteractionMaterial":
+				[],
+				"InteractionMaterialIndex": 0,
+				"InteractionParticle": "None",
+				"ParticleOffset": 
+				{
+					"X": 0,
+					"Y": 0,
+					"Z": 0
+				},
+				"ParticleMaxTime": 0
+			}
+		},
+		{
+			"RowName": "Tall_Lamp_Black",
+			"Class": "BlueprintGeneratedClass'/Game/Blueprints/Furniture/Generic_Point_Light_Furniture.Generic_Point_Light_Furniture_C'",
+			"Size": "Medium",
+			"ForGiftShop": false,
+			"ExtraSettings": 
+			{
+				"InteractionSound": "None",
+				"AnimationSkelMesh": "None",
+				"AnimationLength": 0,
+				"SkelAnimationToPlay": "None",
+				"InteractionMaterial":
+				[],
+				"InteractionMaterialIndex": 0,
+				"InteractionParticle": "None",
+				"ParticleOffset": 
+				{
+					"X": 0,
+					"Y": 0,
+					"Z": 0
+				},
+				"ParticleMaxTime": 0
+			}
 		}
 	]
 }

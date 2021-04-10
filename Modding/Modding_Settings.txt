@@ -1,0 +1,5 @@
+# The mod profile to use
+Mod_Selector = Default
+
+# Retain previous logs by adding to the end of log files, or start log files from scratch every time?
+Retain_Previous_Logs = false

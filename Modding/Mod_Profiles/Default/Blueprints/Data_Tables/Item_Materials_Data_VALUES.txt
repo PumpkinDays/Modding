@@ -27732,6 +27732,52 @@
 			[
 				"/Game/Materials/Unique/Food/Sauce_Bottle_Honey_Mustard.Sauce_Bottle_Honey_Mustard"
 			]
+		},
+		{
+			"RowName": "Modular_Picket_Fence_Peach_Long",
+			"Materials":
+			[
+				"/Game/Materials/Unique/Farm_Fences/Farm_Fence_Onion_Peach.Farm_Fence_Onion_Peach"
+			]
+		},
+		{
+			"RowName": "Modular_Picket_Fence_Brown_Long",
+			"Materials":
+			[
+				"/Game/Materials/Unique/Farm_Fences/Farm_Fence_Onion_Brown.Farm_Fence_Onion_Brown"
+			]
+		},
+		{
+			"RowName": "Modular_Picket_Fence_Rose_Long",
+			"Materials":
+			[
+				"/Game/Materials/Unique/Farm_Fences/Farm_Fence_Onion_Rose.Farm_Fence_Onion_Rose"
+			]
+		},
+		{
+			"RowName": "Modular_Picket_Fence_White_Long",
+			"Materials":
+			[
+				"/Game/Materials/Unique/Farm_Fences/Farm_Fence_Onion_White.Farm_Fence_Onion_White"
+			]
+		},
+		{
+			"RowName": "Tall_Lamp_Black",
+			"Materials":
+			[
+				"/Game/Materials/Patterns/Metal/Metal_Gold.Metal_Gold",
+				"/Game/Materials/Patterns/Rugs_Wallpaper/Wallpaper/Digital_Bees_Black.Digital_Bees_Black",
+				"/Game/Materials/General/White_Glow.White_Glow"
+			]
+		},
+		{
+			"RowName": "Tall_Lamp_White",
+			"Materials":
+			[
+				"/Game/Materials/Patterns/Metal/Metal_Gold.Metal_Gold",
+				"/Game/Materials/Patterns/Rugs_Wallpaper/Wallpaper/Digital_Bees_White.Digital_Bees_White",
+				"/Game/Materials/General/White_Glow.White_Glow"
+			]
 		}
 	]
 }
