@@ -51,7 +51,7 @@ To modify the stamina reward for apples, add an object for the ```Apple``` row, 
 }
 ```
 
-At this point, you should be able to run the game and see the change by eating an Apple. To verify that everything worked correctly, you can check the logs folder as outlined in the [Troubleshooting](#Troubleshooting) section. 
+At this point, you should be able to run the game and test the change by eating an Apple. To verify that everything worked correctly, you can check the logs folder as outlined in the [Troubleshooting](#Troubleshooting) section. A more easily noticeable change to make would be to rename an inventory item by changing the ```Name``` property.
 
 
 ## Troubleshooting
@@ -120,6 +120,8 @@ The actual value of ```MeatValues``` for ```Hen_Red```:
 
 An ```Array``` is a list of items.
 
+For now, arrays can only be set as a whole. Being able to edit/add/remove individual elements is still in the works.
+
 Like everything else, each array is meant for <b>a specific type</b> of item. For example, ```Town_Data```'s ```Npcs``` array can only contain strings, as denoted by the schema:
 
 ```javascript
@@ -171,6 +173,8 @@ Arrays of arrays are <b>not</b> needed or supported.
 
 ---
 
-
+## FAQ
+Q: When are the JSON files loaded/How do I get new a change to show up in the game?
+A: Currently, the files are loaded when the game is started. To get a new change to show up, restart the game.
 
 
