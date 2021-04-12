@@ -175,6 +175,7 @@ Arrays of arrays are <b>not</b> needed or supported.
 
 ## FAQ
 Q: When are the JSON files loaded/How do I get new a change to show up in the game?
+
 A: Currently, the files are loaded when the game is started. To get a new change to show up, restart the game.
 
 
