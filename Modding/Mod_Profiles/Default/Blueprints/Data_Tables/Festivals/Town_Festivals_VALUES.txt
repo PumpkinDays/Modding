@@ -8,45 +8,25 @@
 			"SpringMinigames":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"MinigameRow": "P_Cooking"
-					}
+					"MinigameRow": "P_Cooking"
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"MinigameRow": "P_Cooking2"
-					}
+					"MinigameRow": "P_Cooking2"
 				}
 			],
 			"SummerMinigames":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"MinigameRow": "P_Fishing"
-					}
+					"MinigameRow": "P_Fishing"
 				}
 			],
 			"FallMinigames":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"MinigameRow": "P_Bug_Catching"
-					}
+					"MinigameRow": "P_Bug_Catching"
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"MinigameRow": "P_Bug_Catching2"
-					}
+					"MinigameRow": "P_Bug_Catching2"
 				}
 			],
 			"WinterMinigames":
@@ -59,45 +39,25 @@
 			"SpringMinigames":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"MinigameRow": "W_Cooking"
-					}
+					"MinigameRow": "W_Cooking"
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"MinigameRow": "W_Cooking2"
-					}
+					"MinigameRow": "W_Cooking2"
 				}
 			],
 			"SummerMinigames":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"MinigameRow": "W_Fishing"
-					}
+					"MinigameRow": "W_Fishing"
 				}
 			],
 			"FallMinigames":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"MinigameRow": "W_Bug_Catching"
-					}
+					"MinigameRow": "W_Bug_Catching"
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"MinigameRow": "W_Bug_Catching2"
-					}
+					"MinigameRow": "W_Bug_Catching2"
 				}
 			],
 			"WinterMinigames":
@@ -110,45 +70,25 @@
 			"SpringMinigames":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"MinigameRow": "D_Cooking"
-					}
+					"MinigameRow": "D_Cooking"
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"MinigameRow": "D_Cooking2"
-					}
+					"MinigameRow": "D_Cooking2"
 				}
 			],
 			"SummerMinigames":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"MinigameRow": "D_Fishing"
-					}
+					"MinigameRow": "D_Fishing"
 				}
 			],
 			"FallMinigames":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"MinigameRow": "D_Cooking"
-					}
+					"MinigameRow": "D_Cooking"
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"MinigameRow": "D_Cooking2"
-					}
+					"MinigameRow": "D_Cooking2"
 				}
 			],
 			"WinterMinigames":

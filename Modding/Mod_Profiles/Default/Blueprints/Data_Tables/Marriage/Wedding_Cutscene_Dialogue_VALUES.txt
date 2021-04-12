@@ -6,69 +6,49 @@
 			"Dialogue":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"SpeakingNpc": "Priest",
-						"SpokenDialogue": "We are gathered here today for the union of *WeddingNPC* and *PlayerName*.",
-						"CameraToUse": 0,
-						"AllNpcsLookAtMainPlayer": true,
-						"HoldItemWhileTalking": "None",
-						"QuestionResponses":
-						[]
-					}
+					"SpeakingNpc": "Priest",
+					"SpokenDialogue": "We are gathered here today for the union of *WeddingNPC* and *PlayerName*.",
+					"CameraToUse": 0,
+					"AllNpcsLookAtMainPlayer": true,
+					"HoldItemWhileTalking": "None",
+					"QuestionResponses":
+					[]
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"SpeakingNpc": "Priest",
-						"SpokenDialogue": "They shall promise to love, comfort, honor... and keep each other for better or worse... for richer or poorer... in sickness and health... for as long as they shall live.",
-						"CameraToUse": 1,
-						"AllNpcsLookAtMainPlayer": true,
-						"HoldItemWhileTalking": "None",
-						"QuestionResponses":
-						[]
-					}
+					"SpeakingNpc": "Priest",
+					"SpokenDialogue": "They shall promise to love, comfort, honor... and keep each other for better or worse... for richer or poorer... in sickness and health... for as long as they shall live.",
+					"CameraToUse": 1,
+					"AllNpcsLookAtMainPlayer": true,
+					"HoldItemWhileTalking": "None",
+					"QuestionResponses":
+					[]
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"SpeakingNpc": "Spouses",
-						"SpokenDialogue": "I *NPCName*, promise to love and cherish you *PlayerName*. You are the love of my life, and I look forward to what the future brings for us.",
-						"CameraToUse": 2,
-						"AllNpcsLookAtMainPlayer": true,
-						"HoldItemWhileTalking": "None",
-						"QuestionResponses":
-						[]
-					}
+					"SpeakingNpc": "Spouses",
+					"SpokenDialogue": "I *NPCName*, promise to love and cherish you *PlayerName*. You are the love of my life, and I look forward to what the future brings for us.",
+					"CameraToUse": 2,
+					"AllNpcsLookAtMainPlayer": true,
+					"HoldItemWhileTalking": "None",
+					"QuestionResponses":
+					[]
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"SpeakingNpc": "Priest",
-						"SpokenDialogue": "I, *NPCName*, now pronounce you married. May the rest of your lives be filled with love and happiness! You may now kiss!",
-						"CameraToUse": 0,
-						"AllNpcsLookAtMainPlayer": true,
-						"HoldItemWhileTalking": "None",
-						"QuestionResponses":
-						[]
-					}
+					"SpeakingNpc": "Priest",
+					"SpokenDialogue": "I, *NPCName*, now pronounce you married. May the rest of your lives be filled with love and happiness! You may now kiss!",
+					"CameraToUse": 0,
+					"AllNpcsLookAtMainPlayer": true,
+					"HoldItemWhileTalking": "None",
+					"QuestionResponses":
+					[]
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"SpeakingNpc": "Priest",
-						"SpokenDialogue": "+kiss+",
-						"CameraToUse": 0,
-						"AllNpcsLookAtMainPlayer": false,
-						"HoldItemWhileTalking": "None",
-						"QuestionResponses":
-						[]
-					}
+					"SpeakingNpc": "Priest",
+					"SpokenDialogue": "+kiss+",
+					"CameraToUse": 0,
+					"AllNpcsLookAtMainPlayer": false,
+					"HoldItemWhileTalking": "None",
+					"QuestionResponses":
+					[]
 				}
 			]
 		}

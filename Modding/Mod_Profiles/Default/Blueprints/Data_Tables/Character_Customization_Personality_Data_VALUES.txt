@@ -15,20 +15,12 @@
 			"LargeVersionConditions":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"SliderType": 1,
-						"Value": 0.60000002384185791
-					}
+					"SliderType": 1,
+					"Value": 0.60000002384185791
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"SliderType": 0,
-						"Value": 0.80000001192092896
-					}
+					"SliderType": 0,
+					"Value": 0.80000001192092896
 				}
 			]
 		},
@@ -39,12 +31,8 @@
 			"LargeVersionConditions":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"SliderType": 0,
-						"Value": 0.60000002384185791
-					}
+					"SliderType": 0,
+					"Value": 0.60000002384185791
 				}
 			]
 		},
@@ -62,12 +50,8 @@
 			"LargeVersionConditions":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"SliderType": 0,
-						"Value": 0.40000000596046448
-					}
+					"SliderType": 0,
+					"Value": 0.40000000596046448
 				}
 			]
 		},
@@ -78,12 +62,8 @@
 			"LargeVersionConditions":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"SliderType": 1,
-						"Value": 0.5
-					}
+					"SliderType": 1,
+					"Value": 0.5
 				}
 			]
 		},
@@ -101,12 +81,8 @@
 			"LargeVersionConditions":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"SliderType": 0,
-						"Value": 0.44999998807907104
-					}
+					"SliderType": 0,
+					"Value": 0.44999998807907104
 				}
 			]
 		},
@@ -117,12 +93,8 @@
 			"LargeVersionConditions":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"SliderType": 0,
-						"Value": 0.60000002384185791
-					}
+					"SliderType": 0,
+					"Value": 0.60000002384185791
 				}
 			]
 		}

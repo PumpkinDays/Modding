@@ -6,40 +6,28 @@
 			"MeshSettings":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Mesh": "StaticMesh'/Game/Meshes/OutdoorAssets/Trellis_Vines_Bougainvillea_Blue.Trellis_Vines_Bougainvillea_Blue'",
-						"MaterialsToReplace":
-						[
-							"None",
-							"None",
-							"MaterialInstanceConstant'/Game/Materials/Plants/Bougainvillea_White.Bougainvillea_White'"
-						]
-					}
+					"Mesh": "StaticMesh'/Game/Meshes/OutdoorAssets/Trellis_Vines_Bougainvillea_Blue.Trellis_Vines_Bougainvillea_Blue'",
+					"MaterialsToReplace":
+					[
+						"None",
+						"None",
+						"MaterialInstanceConstant'/Game/Materials/Plants/Bougainvillea_White.Bougainvillea_White'"
+					]
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Mesh": "StaticMesh'/Game/Meshes/IndoorAssets/Decor/Rug_Long_2.Rug_Long_2'",
-						"MaterialsToReplace":
-						[
-							"MaterialInstanceConstant'/Game/Materials/Patterns/Rugs_Wallpaper/Carpet/Carpet_Dark_Grey.Carpet_Dark_Grey'",
-							"MaterialInstanceConstant'/Game/Materials/Patterns/Rugs_Wallpaper/Wallpaper/Soundwaves_White.Soundwaves_White'"
-						]
-					}
+					"Mesh": "StaticMesh'/Game/Meshes/IndoorAssets/Decor/Rug_Long_2.Rug_Long_2'",
+					"MaterialsToReplace":
+					[
+						"MaterialInstanceConstant'/Game/Materials/Patterns/Rugs_Wallpaper/Carpet/Carpet_Dark_Grey.Carpet_Dark_Grey'",
+						"MaterialInstanceConstant'/Game/Materials/Patterns/Rugs_Wallpaper/Wallpaper/Soundwaves_White.Soundwaves_White'"
+					]
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Mesh": "StaticMesh'/Game/Meshes/IndoorAssets/Shop_Assets/Church_Long_Rug.Church_Long_Rug'",
-						"MaterialsToReplace":
-						[
-							"MaterialInstanceConstant'/Game/Materials/Patterns/Fabric/Fabric_White.Fabric_White'"
-						]
-					}
+					"Mesh": "StaticMesh'/Game/Meshes/IndoorAssets/Shop_Assets/Church_Long_Rug.Church_Long_Rug'",
+					"MaterialsToReplace":
+					[
+						"MaterialInstanceConstant'/Game/Materials/Patterns/Fabric/Fabric_White.Fabric_White'"
+					]
 				}
 			]
 		},
@@ -48,17 +36,13 @@
 			"MeshSettings":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Mesh": "StaticMesh'/Game/Meshes/OutdoorAssets/Trellis_Vines_Bougainvillea_Blue.Trellis_Vines_Bougainvillea_Blue'",
-						"MaterialsToReplace":
-						[
-							"None",
-							"None",
-							"MaterialInstanceConstant'/Game/Materials/Plants/Bougainvillea_Black.Bougainvillea_Black'"
-						]
-					}
+					"Mesh": "StaticMesh'/Game/Meshes/OutdoorAssets/Trellis_Vines_Bougainvillea_Blue.Trellis_Vines_Bougainvillea_Blue'",
+					"MaterialsToReplace":
+					[
+						"None",
+						"None",
+						"MaterialInstanceConstant'/Game/Materials/Plants/Bougainvillea_Black.Bougainvillea_Black'"
+					]
 				}
 			]
 		},
@@ -67,17 +51,13 @@
 			"MeshSettings":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Mesh": "StaticMesh'/Game/Meshes/OutdoorAssets/Trellis_Vines_Bougainvillea_Blue.Trellis_Vines_Bougainvillea_Blue'",
-						"MaterialsToReplace":
-						[
-							"None",
-							"None",
-							"MaterialInstanceConstant'/Game/Materials/Plants/Bougainvillea_Blue.Bougainvillea_Blue'"
-						]
-					}
+					"Mesh": "StaticMesh'/Game/Meshes/OutdoorAssets/Trellis_Vines_Bougainvillea_Blue.Trellis_Vines_Bougainvillea_Blue'",
+					"MaterialsToReplace":
+					[
+						"None",
+						"None",
+						"MaterialInstanceConstant'/Game/Materials/Plants/Bougainvillea_Blue.Bougainvillea_Blue'"
+					]
 				}
 			]
 		},
@@ -86,17 +66,13 @@
 			"MeshSettings":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Mesh": "StaticMesh'/Game/Meshes/OutdoorAssets/Trellis_Vines_Bougainvillea_Blue.Trellis_Vines_Bougainvillea_Blue'",
-						"MaterialsToReplace":
-						[
-							"None",
-							"None",
-							"MaterialInstanceConstant'/Game/Materials/Plants/Bougainvillea_Magenta.Bougainvillea_Magenta'"
-						]
-					}
+					"Mesh": "StaticMesh'/Game/Meshes/OutdoorAssets/Trellis_Vines_Bougainvillea_Blue.Trellis_Vines_Bougainvillea_Blue'",
+					"MaterialsToReplace":
+					[
+						"None",
+						"None",
+						"MaterialInstanceConstant'/Game/Materials/Plants/Bougainvillea_Magenta.Bougainvillea_Magenta'"
+					]
 				}
 			]
 		},
@@ -105,17 +81,13 @@
 			"MeshSettings":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Mesh": "StaticMesh'/Game/Meshes/OutdoorAssets/Trellis_Vines_Bougainvillea_Blue.Trellis_Vines_Bougainvillea_Blue'",
-						"MaterialsToReplace":
-						[
-							"None",
-							"None",
-							"MaterialInstanceConstant'/Game/Materials/Plants/Bougainvillea_Purple.Bougainvillea_Purple'"
-						]
-					}
+					"Mesh": "StaticMesh'/Game/Meshes/OutdoorAssets/Trellis_Vines_Bougainvillea_Blue.Trellis_Vines_Bougainvillea_Blue'",
+					"MaterialsToReplace":
+					[
+						"None",
+						"None",
+						"MaterialInstanceConstant'/Game/Materials/Plants/Bougainvillea_Purple.Bougainvillea_Purple'"
+					]
 				}
 			]
 		},
@@ -124,17 +96,13 @@
 			"MeshSettings":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Mesh": "StaticMesh'/Game/Meshes/OutdoorAssets/Trellis_Vines_Bougainvillea_Blue.Trellis_Vines_Bougainvillea_Blue'",
-						"MaterialsToReplace":
-						[
-							"None",
-							"None",
-							"MaterialInstanceConstant'/Game/Materials/Plants/Bougainvillea_Yellow.Bougainvillea_Yellow'"
-						]
-					}
+					"Mesh": "StaticMesh'/Game/Meshes/OutdoorAssets/Trellis_Vines_Bougainvillea_Blue.Trellis_Vines_Bougainvillea_Blue'",
+					"MaterialsToReplace":
+					[
+						"None",
+						"None",
+						"MaterialInstanceConstant'/Game/Materials/Plants/Bougainvillea_Yellow.Bougainvillea_Yellow'"
+					]
 				}
 			]
 		},
@@ -143,17 +111,13 @@
 			"MeshSettings":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Mesh": "StaticMesh'/Game/Meshes/OutdoorAssets/Trellis_Vines_Bougainvillea_Blue.Trellis_Vines_Bougainvillea_Blue'",
-						"MaterialsToReplace":
-						[
-							"None",
-							"None",
-							"MaterialInstanceConstant'/Game/Materials/Plants/Bougainvillea_Red.Bougainvillea_Red'"
-						]
-					}
+					"Mesh": "StaticMesh'/Game/Meshes/OutdoorAssets/Trellis_Vines_Bougainvillea_Blue.Trellis_Vines_Bougainvillea_Blue'",
+					"MaterialsToReplace":
+					[
+						"None",
+						"None",
+						"MaterialInstanceConstant'/Game/Materials/Plants/Bougainvillea_Red.Bougainvillea_Red'"
+					]
 				}
 			]
 		}

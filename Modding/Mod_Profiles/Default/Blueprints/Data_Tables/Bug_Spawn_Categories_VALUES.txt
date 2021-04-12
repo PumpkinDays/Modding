@@ -653,20 +653,9 @@
 			]
 		},
 		{
-			"RowName": "5.0",
+			"RowName": "Apple",
 			"NameArray":
-			[
-				"Abc",
-				"123"
-			]
-		},
-		{
-			"RowName": "AddRow",
-			"NameArray":
-			[
-				"Abc",
-				"123"
-			]
+			[]
 		}
 	]
 }

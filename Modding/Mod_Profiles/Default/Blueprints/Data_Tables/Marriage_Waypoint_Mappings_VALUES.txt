@@ -6,12 +6,8 @@
 			"RemappedWaypoints":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"OriginalWaypoint": "Demo_House_Bed",
-						"NewFestivalWaypoint": "Farm_Bed"
-					}
+					"OriginalWaypoint": "Demo_House_Bed",
+					"NewFestivalWaypoint": "Farm_Bed"
 				}
 			]
 		},
@@ -20,12 +16,8 @@
 			"RemappedWaypoints":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"OriginalWaypoint": "Evan_House",
-						"NewFestivalWaypoint": "Farm_Bed"
-					}
+					"OriginalWaypoint": "Evan_House",
+					"NewFestivalWaypoint": "Farm_Bed"
 				}
 			]
 		},
@@ -34,12 +26,8 @@
 			"RemappedWaypoints":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"OriginalWaypoint": "Ezekiel_Home_Sleep",
-						"NewFestivalWaypoint": "Farm_Bed"
-					}
+					"OriginalWaypoint": "Ezekiel_Home_Sleep",
+					"NewFestivalWaypoint": "Farm_Bed"
 				}
 			]
 		},
@@ -48,12 +36,8 @@
 			"RemappedWaypoints":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"OriginalWaypoint": "Tanis_Home_Sleep",
-						"NewFestivalWaypoint": "Farm_Bed"
-					}
+					"OriginalWaypoint": "Tanis_Home_Sleep",
+					"NewFestivalWaypoint": "Farm_Bed"
 				}
 			]
 		},
@@ -62,12 +46,8 @@
 			"RemappedWaypoints":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"OriginalWaypoint": "Kumuko_Home_Sleep",
-						"NewFestivalWaypoint": "Farm_Bed"
-					}
+					"OriginalWaypoint": "Kumuko_Home_Sleep",
+					"NewFestivalWaypoint": "Farm_Bed"
 				}
 			]
 		},
@@ -76,12 +56,8 @@
 			"RemappedWaypoints":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"OriginalWaypoint": "Tierra_Home_Sleep",
-						"NewFestivalWaypoint": "Farm_Bed"
-					}
+					"OriginalWaypoint": "Tierra_Home_Sleep",
+					"NewFestivalWaypoint": "Farm_Bed"
 				}
 			]
 		},
@@ -90,12 +66,8 @@
 			"RemappedWaypoints":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"OriginalWaypoint": "Jelmo_Home_Sleep",
-						"NewFestivalWaypoint": "Farm_Bed"
-					}
+					"OriginalWaypoint": "Jelmo_Home_Sleep",
+					"NewFestivalWaypoint": "Farm_Bed"
 				}
 			]
 		},
@@ -104,12 +76,8 @@
 			"RemappedWaypoints":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"OriginalWaypoint": "Gelfie_Sleep",
-						"NewFestivalWaypoint": "Farm_Bed"
-					}
+					"OriginalWaypoint": "Gelfie_Sleep",
+					"NewFestivalWaypoint": "Farm_Bed"
 				}
 			]
 		},
@@ -118,12 +86,8 @@
 			"RemappedWaypoints":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"OriginalWaypoint": "Tessa_Home_Sleep",
-						"NewFestivalWaypoint": "Farm_Bed"
-					}
+					"OriginalWaypoint": "Tessa_Home_Sleep",
+					"NewFestivalWaypoint": "Farm_Bed"
 				}
 			]
 		},
@@ -132,12 +96,8 @@
 			"RemappedWaypoints":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"OriginalWaypoint": "Iris_Home_Sleep",
-						"NewFestivalWaypoint": "Farm_Bed"
-					}
+					"OriginalWaypoint": "Iris_Home_Sleep",
+					"NewFestivalWaypoint": "Farm_Bed"
 				}
 			]
 		},
@@ -146,12 +106,8 @@
 			"RemappedWaypoints":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"OriginalWaypoint": "Jaime_Home_Sleep",
-						"NewFestivalWaypoint": "Farm_Bed"
-					}
+					"OriginalWaypoint": "Jaime_Home_Sleep",
+					"NewFestivalWaypoint": "Farm_Bed"
 				}
 			]
 		},
@@ -160,12 +116,8 @@
 			"RemappedWaypoints":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"OriginalWaypoint": "Emi_Sleeping",
-						"NewFestivalWaypoint": "Farm_Bed"
-					}
+					"OriginalWaypoint": "Emi_Sleeping",
+					"NewFestivalWaypoint": "Farm_Bed"
 				}
 			]
 		},
@@ -174,12 +126,8 @@
 			"RemappedWaypoints":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"OriginalWaypoint": "Joan_Sleeping",
-						"NewFestivalWaypoint": "Farm_Bed"
-					}
+					"OriginalWaypoint": "Joan_Sleeping",
+					"NewFestivalWaypoint": "Farm_Bed"
 				}
 			]
 		},
@@ -188,12 +136,8 @@
 			"RemappedWaypoints":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"OriginalWaypoint": "Abigail_Sleeping",
-						"NewFestivalWaypoint": "Farm_Bed"
-					}
+					"OriginalWaypoint": "Abigail_Sleeping",
+					"NewFestivalWaypoint": "Farm_Bed"
 				}
 			]
 		},
@@ -202,12 +146,8 @@
 			"RemappedWaypoints":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"OriginalWaypoint": "Jim_Home_Sleep",
-						"NewFestivalWaypoint": "Farm_Bed"
-					}
+					"OriginalWaypoint": "Jim_Home_Sleep",
+					"NewFestivalWaypoint": "Farm_Bed"
 				}
 			]
 		},
@@ -216,12 +156,8 @@
 			"RemappedWaypoints":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"OriginalWaypoint": "Alec_Home_Sleep",
-						"NewFestivalWaypoint": "Farm_Bed"
-					}
+					"OriginalWaypoint": "Alec_Home_Sleep",
+					"NewFestivalWaypoint": "Farm_Bed"
 				}
 			]
 		},
@@ -230,12 +166,8 @@
 			"RemappedWaypoints":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"OriginalWaypoint": "Takeo_Home_Sleep",
-						"NewFestivalWaypoint": "Farm_Bed"
-					}
+					"OriginalWaypoint": "Takeo_Home_Sleep",
+					"NewFestivalWaypoint": "Farm_Bed"
 				}
 			]
 		},
@@ -244,12 +176,8 @@
 			"RemappedWaypoints":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"OriginalWaypoint": "Clothing_Store_Rose_At_Work",
-						"NewFestivalWaypoint": "Farm_Bed"
-					}
+					"OriginalWaypoint": "Clothing_Store_Rose_At_Work",
+					"NewFestivalWaypoint": "Farm_Bed"
 				}
 			]
 		},
@@ -258,12 +186,8 @@
 			"RemappedWaypoints":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"OriginalWaypoint": "Black_Mask_Home",
-						"NewFestivalWaypoint": "Farm_Bed"
-					}
+					"OriginalWaypoint": "Black_Mask_Home",
+					"NewFestivalWaypoint": "Farm_Bed"
 				}
 			]
 		},
@@ -272,12 +196,8 @@
 			"RemappedWaypoints":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"OriginalWaypoint": "Zoey_Home_Sleep",
-						"NewFestivalWaypoint": "Farm_Bed"
-					}
+					"OriginalWaypoint": "Zoey_Home_Sleep",
+					"NewFestivalWaypoint": "Farm_Bed"
 				}
 			]
 		},
@@ -286,12 +206,8 @@
 			"RemappedWaypoints":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"OriginalWaypoint": "Vera_Home_Sleep",
-						"NewFestivalWaypoint": "Farm_Bed"
-					}
+					"OriginalWaypoint": "Vera_Home_Sleep",
+					"NewFestivalWaypoint": "Farm_Bed"
 				}
 			]
 		},
@@ -300,12 +216,8 @@
 			"RemappedWaypoints":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"OriginalWaypoint": "Alex_Home_Sleep",
-						"NewFestivalWaypoint": "Farm_Bed"
-					}
+					"OriginalWaypoint": "Alex_Home_Sleep",
+					"NewFestivalWaypoint": "Farm_Bed"
 				}
 			]
 		},
@@ -314,12 +226,8 @@
 			"RemappedWaypoints":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"OriginalWaypoint": "Claudio_Home_Sleep",
-						"NewFestivalWaypoint": "Farm_Bed"
-					}
+					"OriginalWaypoint": "Claudio_Home_Sleep",
+					"NewFestivalWaypoint": "Farm_Bed"
 				}
 			]
 		},
@@ -328,12 +236,8 @@
 			"RemappedWaypoints":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"OriginalWaypoint": "Dahlia_Home_Sleep",
-						"NewFestivalWaypoint": "Farm_Bed"
-					}
+					"OriginalWaypoint": "Dahlia_Home_Sleep",
+					"NewFestivalWaypoint": "Farm_Bed"
 				}
 			]
 		},
@@ -342,12 +246,8 @@
 			"RemappedWaypoints":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"OriginalWaypoint": "Dee_Home_Sleep",
-						"NewFestivalWaypoint": "Farm_Bed"
-					}
+					"OriginalWaypoint": "Dee_Home_Sleep",
+					"NewFestivalWaypoint": "Farm_Bed"
 				}
 			]
 		},
@@ -356,12 +256,8 @@
 			"RemappedWaypoints":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"OriginalWaypoint": "Faiyaz_Home_Sleep",
-						"NewFestivalWaypoint": "Farm_Bed"
-					}
+					"OriginalWaypoint": "Faiyaz_Home_Sleep",
+					"NewFestivalWaypoint": "Farm_Bed"
 				}
 			]
 		},
@@ -370,12 +266,8 @@
 			"RemappedWaypoints":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"OriginalWaypoint": "Hyun_Jae_Oh_Home_Sleep",
-						"NewFestivalWaypoint": "Farm_Bed"
-					}
+					"OriginalWaypoint": "Hyun_Jae_Oh_Home_Sleep",
+					"NewFestivalWaypoint": "Farm_Bed"
 				}
 			]
 		},
@@ -384,12 +276,8 @@
 			"RemappedWaypoints":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"OriginalWaypoint": "Lily_Bean_Home_Sleep",
-						"NewFestivalWaypoint": "Farm_Bed"
-					}
+					"OriginalWaypoint": "Lily_Bean_Home_Sleep",
+					"NewFestivalWaypoint": "Farm_Bed"
 				}
 			]
 		},
@@ -398,12 +286,8 @@
 			"RemappedWaypoints":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"OriginalWaypoint": "Nicolas_Home_Sleep",
-						"NewFestivalWaypoint": "Farm_Bed"
-					}
+					"OriginalWaypoint": "Nicolas_Home_Sleep",
+					"NewFestivalWaypoint": "Farm_Bed"
 				}
 			]
 		},
@@ -412,12 +296,8 @@
 			"RemappedWaypoints":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"OriginalWaypoint": "Sebastian_Home_Relax",
-						"NewFestivalWaypoint": "Farm_Bed"
-					}
+					"OriginalWaypoint": "Sebastian_Home_Relax",
+					"NewFestivalWaypoint": "Farm_Bed"
 				}
 			]
 		},
@@ -426,12 +306,8 @@
 			"RemappedWaypoints":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"OriginalWaypoint": "Tucker_Home_Sleep",
-						"NewFestivalWaypoint": "Farm_Bed"
-					}
+					"OriginalWaypoint": "Tucker_Home_Sleep",
+					"NewFestivalWaypoint": "Farm_Bed"
 				}
 			]
 		},
@@ -440,12 +316,8 @@
 			"RemappedWaypoints":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"OriginalWaypoint": "Vibhat_Home_Sleep",
-						"NewFestivalWaypoint": "Farm_Bed"
-					}
+					"OriginalWaypoint": "Vibhat_Home_Sleep",
+					"NewFestivalWaypoint": "Farm_Bed"
 				}
 			]
 		},
@@ -454,12 +326,8 @@
 			"RemappedWaypoints":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"OriginalWaypoint": "Jackie_Home_Sleep",
-						"NewFestivalWaypoint": "Farm_Bed"
-					}
+					"OriginalWaypoint": "Jackie_Home_Sleep",
+					"NewFestivalWaypoint": "Farm_Bed"
 				}
 			]
 		},
@@ -468,12 +336,8 @@
 			"RemappedWaypoints":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"OriginalWaypoint": "Orpheus_Home_Sleep",
-						"NewFestivalWaypoint": "Farm_Bed"
-					}
+					"OriginalWaypoint": "Orpheus_Home_Sleep",
+					"NewFestivalWaypoint": "Farm_Bed"
 				}
 			]
 		},
@@ -482,12 +346,8 @@
 			"RemappedWaypoints":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"OriginalWaypoint": "Ash_Home",
-						"NewFestivalWaypoint": "Farm_Bed"
-					}
+					"OriginalWaypoint": "Ash_Home",
+					"NewFestivalWaypoint": "Farm_Bed"
 				}
 			]
 		},
@@ -496,12 +356,8 @@
 			"RemappedWaypoints":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"OriginalWaypoint": "Casey_Home",
-						"NewFestivalWaypoint": "Farm_Bed"
-					}
+					"OriginalWaypoint": "Casey_Home",
+					"NewFestivalWaypoint": "Farm_Bed"
 				}
 			]
 		},
@@ -510,12 +366,8 @@
 			"RemappedWaypoints":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"OriginalWaypoint": "Charlie_Home",
-						"NewFestivalWaypoint": "Farm_Bed"
-					}
+					"OriginalWaypoint": "Charlie_Home",
+					"NewFestivalWaypoint": "Farm_Bed"
 				}
 			]
 		},
@@ -524,12 +376,8 @@
 			"RemappedWaypoints":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"OriginalWaypoint": "Charu_Home",
-						"NewFestivalWaypoint": "Farm_Bed"
-					}
+					"OriginalWaypoint": "Charu_Home",
+					"NewFestivalWaypoint": "Farm_Bed"
 				}
 			]
 		},
@@ -538,12 +386,8 @@
 			"RemappedWaypoints":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"OriginalWaypoint": "Clara_Home",
-						"NewFestivalWaypoint": "Farm_Bed"
-					}
+					"OriginalWaypoint": "Clara_Home",
+					"NewFestivalWaypoint": "Farm_Bed"
 				}
 			]
 		},
@@ -552,12 +396,8 @@
 			"RemappedWaypoints":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"OriginalWaypoint": "Dewain_Home",
-						"NewFestivalWaypoint": "Farm_Bed"
-					}
+					"OriginalWaypoint": "Dewain_Home",
+					"NewFestivalWaypoint": "Farm_Bed"
 				}
 			]
 		},
@@ -566,12 +406,8 @@
 			"RemappedWaypoints":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"OriginalWaypoint": "Duante_Home",
-						"NewFestivalWaypoint": "Farm_Bed"
-					}
+					"OriginalWaypoint": "Duante_Home",
+					"NewFestivalWaypoint": "Farm_Bed"
 				}
 			]
 		},
@@ -580,12 +416,8 @@
 			"RemappedWaypoints":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"OriginalWaypoint": "Eugene_Home",
-						"NewFestivalWaypoint": "Farm_Bed"
-					}
+					"OriginalWaypoint": "Eugene_Home",
+					"NewFestivalWaypoint": "Farm_Bed"
 				}
 			]
 		},
@@ -594,12 +426,8 @@
 			"RemappedWaypoints":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"OriginalWaypoint": "Govind_Home",
-						"NewFestivalWaypoint": "Farm_Bed"
-					}
+					"OriginalWaypoint": "Govind_Home",
+					"NewFestivalWaypoint": "Farm_Bed"
 				}
 			]
 		},
@@ -608,12 +436,8 @@
 			"RemappedWaypoints":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"OriginalWaypoint": "Haku_Home",
-						"NewFestivalWaypoint": "Farm_Bed"
-					}
+					"OriginalWaypoint": "Haku_Home",
+					"NewFestivalWaypoint": "Farm_Bed"
 				}
 			]
 		},
@@ -622,12 +446,8 @@
 			"RemappedWaypoints":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"OriginalWaypoint": "Ikaia_Sleep",
-						"NewFestivalWaypoint": "Farm_Bed"
-					}
+					"OriginalWaypoint": "Ikaia_Sleep",
+					"NewFestivalWaypoint": "Farm_Bed"
 				}
 			]
 		},
@@ -636,12 +456,8 @@
 			"RemappedWaypoints":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"OriginalWaypoint": "Jacqueline_Home",
-						"NewFestivalWaypoint": "Farm_Bed"
-					}
+					"OriginalWaypoint": "Jacqueline_Home",
+					"NewFestivalWaypoint": "Farm_Bed"
 				}
 			]
 		},
@@ -650,12 +466,8 @@
 			"RemappedWaypoints":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"OriginalWaypoint": "Jade_Home",
-						"NewFestivalWaypoint": "Farm_Bed"
-					}
+					"OriginalWaypoint": "Jade_Home",
+					"NewFestivalWaypoint": "Farm_Bed"
 				}
 			]
 		},
@@ -664,12 +476,8 @@
 			"RemappedWaypoints":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"OriginalWaypoint": "Jemma_Home",
-						"NewFestivalWaypoint": "Farm_Bed"
-					}
+					"OriginalWaypoint": "Jemma_Home",
+					"NewFestivalWaypoint": "Farm_Bed"
 				}
 			]
 		},
@@ -678,12 +486,8 @@
 			"RemappedWaypoints":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"OriginalWaypoint": "Joelle_Home",
-						"NewFestivalWaypoint": "Farm_Bed"
-					}
+					"OriginalWaypoint": "Joelle_Home",
+					"NewFestivalWaypoint": "Farm_Bed"
 				}
 			]
 		},
@@ -692,12 +496,8 @@
 			"RemappedWaypoints":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"OriginalWaypoint": "Kaine_Home",
-						"NewFestivalWaypoint": "Farm_Bed"
-					}
+					"OriginalWaypoint": "Kaine_Home",
+					"NewFestivalWaypoint": "Farm_Bed"
 				}
 			]
 		},
@@ -706,12 +506,8 @@
 			"RemappedWaypoints":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"OriginalWaypoint": "Kishan_Home",
-						"NewFestivalWaypoint": "Farm_Bed"
-					}
+					"OriginalWaypoint": "Kishan_Home",
+					"NewFestivalWaypoint": "Farm_Bed"
 				}
 			]
 		},
@@ -720,12 +516,8 @@
 			"RemappedWaypoints":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"OriginalWaypoint": "Lisa_Home",
-						"NewFestivalWaypoint": "Farm_Bed"
-					}
+					"OriginalWaypoint": "Lisa_Home",
+					"NewFestivalWaypoint": "Farm_Bed"
 				}
 			]
 		},
@@ -734,12 +526,8 @@
 			"RemappedWaypoints":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"OriginalWaypoint": "Manaka_Home",
-						"NewFestivalWaypoint": "Farm_Bed"
-					}
+					"OriginalWaypoint": "Manaka_Home",
+					"NewFestivalWaypoint": "Farm_Bed"
 				}
 			]
 		},
@@ -748,12 +536,8 @@
 			"RemappedWaypoints":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"OriginalWaypoint": "Masika_Home",
-						"NewFestivalWaypoint": "Farm_Bed"
-					}
+					"OriginalWaypoint": "Masika_Home",
+					"NewFestivalWaypoint": "Farm_Bed"
 				}
 			]
 		},
@@ -762,12 +546,8 @@
 			"RemappedWaypoints":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"OriginalWaypoint": "Melanie_Home",
-						"NewFestivalWaypoint": "Farm_Bed"
-					}
+					"OriginalWaypoint": "Melanie_Home",
+					"NewFestivalWaypoint": "Farm_Bed"
 				}
 			]
 		},
@@ -776,12 +556,8 @@
 			"RemappedWaypoints":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"OriginalWaypoint": "Mike_Home",
-						"NewFestivalWaypoint": "Farm_Bed"
-					}
+					"OriginalWaypoint": "Mike_Home",
+					"NewFestivalWaypoint": "Farm_Bed"
 				}
 			]
 		},
@@ -790,12 +566,8 @@
 			"RemappedWaypoints":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"OriginalWaypoint": "Pete_Home",
-						"NewFestivalWaypoint": "Farm_Bed"
-					}
+					"OriginalWaypoint": "Pete_Home",
+					"NewFestivalWaypoint": "Farm_Bed"
 				}
 			]
 		},
@@ -804,12 +576,8 @@
 			"RemappedWaypoints":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"OriginalWaypoint": "Queen_Home",
-						"NewFestivalWaypoint": "Farm_Bed"
-					}
+					"OriginalWaypoint": "Queen_Home",
+					"NewFestivalWaypoint": "Farm_Bed"
 				}
 			]
 		},
@@ -818,12 +586,8 @@
 			"RemappedWaypoints":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"OriginalWaypoint": "Rashida_Home",
-						"NewFestivalWaypoint": "Farm_Bed"
-					}
+					"OriginalWaypoint": "Rashida_Home",
+					"NewFestivalWaypoint": "Farm_Bed"
 				}
 			]
 		},
@@ -832,12 +596,8 @@
 			"RemappedWaypoints":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"OriginalWaypoint": "Rosario_Home",
-						"NewFestivalWaypoint": "Farm_Bed"
-					}
+					"OriginalWaypoint": "Rosario_Home",
+					"NewFestivalWaypoint": "Farm_Bed"
 				}
 			]
 		},
@@ -846,12 +606,8 @@
 			"RemappedWaypoints":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"OriginalWaypoint": "Tuesday_Home",
-						"NewFestivalWaypoint": "Farm_Bed"
-					}
+					"OriginalWaypoint": "Tuesday_Home",
+					"NewFestivalWaypoint": "Farm_Bed"
 				}
 			]
 		},
@@ -860,12 +616,8 @@
 			"RemappedWaypoints":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"OriginalWaypoint": "Valerie_Home",
-						"NewFestivalWaypoint": "Farm_Bed"
-					}
+					"OriginalWaypoint": "Valerie_Home",
+					"NewFestivalWaypoint": "Farm_Bed"
 				}
 			]
 		},
@@ -874,12 +626,8 @@
 			"RemappedWaypoints":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"OriginalWaypoint": "Festival_W_Hangout_22",
-						"NewFestivalWaypoint": "Farm_Bed"
-					}
+					"OriginalWaypoint": "Festival_W_Hangout_22",
+					"NewFestivalWaypoint": "Farm_Bed"
 				}
 			]
 		},
@@ -888,12 +636,8 @@
 			"RemappedWaypoints":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"OriginalWaypoint": "Harsha_Sleep",
-						"NewFestivalWaypoint": "Farm_Bed"
-					}
+					"OriginalWaypoint": "Harsha_Sleep",
+					"NewFestivalWaypoint": "Farm_Bed"
 				}
 			]
 		},
@@ -902,12 +646,8 @@
 			"RemappedWaypoints":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"OriginalWaypoint": "Blake_Home",
-						"NewFestivalWaypoint": "Farm_Bed"
-					}
+					"OriginalWaypoint": "Blake_Home",
+					"NewFestivalWaypoint": "Farm_Bed"
 				}
 			]
 		},
@@ -916,12 +656,8 @@
 			"RemappedWaypoints":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"OriginalWaypoint": "Nicki_Home",
-						"NewFestivalWaypoint": "Farm_Bed"
-					}
+					"OriginalWaypoint": "Nicki_Home",
+					"NewFestivalWaypoint": "Farm_Bed"
 				}
 			]
 		},
@@ -930,12 +666,8 @@
 			"RemappedWaypoints":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"OriginalWaypoint": "Jabalah_Home",
-						"NewFestivalWaypoint": "Farm_Bed"
-					}
+					"OriginalWaypoint": "Jabalah_Home",
+					"NewFestivalWaypoint": "Farm_Bed"
 				}
 			]
 		},
@@ -944,12 +676,8 @@
 			"RemappedWaypoints":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"OriginalWaypoint": "Bishop_Home",
-						"NewFestivalWaypoint": "Farm_Bed"
-					}
+					"OriginalWaypoint": "Bishop_Home",
+					"NewFestivalWaypoint": "Farm_Bed"
 				}
 			]
 		},
@@ -958,12 +686,8 @@
 			"RemappedWaypoints":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"OriginalWaypoint": "Clem_Home",
-						"NewFestivalWaypoint": "Farm_Bed"
-					}
+					"OriginalWaypoint": "Clem_Home",
+					"NewFestivalWaypoint": "Farm_Bed"
 				}
 			]
 		},
@@ -972,12 +696,8 @@
 			"RemappedWaypoints":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"OriginalWaypoint": "Farah_Sleep",
-						"NewFestivalWaypoint": "Farm_Bed"
-					}
+					"OriginalWaypoint": "Farah_Sleep",
+					"NewFestivalWaypoint": "Farm_Bed"
 				}
 			]
 		},
@@ -986,12 +706,8 @@
 			"RemappedWaypoints":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"OriginalWaypoint": "Fasha_Sleep",
-						"NewFestivalWaypoint": "Farm_Bed"
-					}
+					"OriginalWaypoint": "Fasha_Sleep",
+					"NewFestivalWaypoint": "Farm_Bed"
 				}
 			]
 		},
@@ -1000,12 +716,8 @@
 			"RemappedWaypoints":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"OriginalWaypoint": "Hank_Sleep",
-						"NewFestivalWaypoint": "Farm_Bed"
-					}
+					"OriginalWaypoint": "Hank_Sleep",
+					"NewFestivalWaypoint": "Farm_Bed"
 				}
 			]
 		},
@@ -1014,12 +726,8 @@
 			"RemappedWaypoints":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"OriginalWaypoint": "Hideo_Sleep",
-						"NewFestivalWaypoint": "Farm_Bed"
-					}
+					"OriginalWaypoint": "Hideo_Sleep",
+					"NewFestivalWaypoint": "Farm_Bed"
 				}
 			]
 		},
@@ -1028,12 +736,8 @@
 			"RemappedWaypoints":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"OriginalWaypoint": "Hien_Sleep",
-						"NewFestivalWaypoint": "Farm_Bed"
-					}
+					"OriginalWaypoint": "Hien_Sleep",
+					"NewFestivalWaypoint": "Farm_Bed"
 				}
 			]
 		},
@@ -1042,12 +746,8 @@
 			"RemappedWaypoints":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"OriginalWaypoint": "Hikaru_Sleep",
-						"NewFestivalWaypoint": "Farm_Bed"
-					}
+					"OriginalWaypoint": "Hikaru_Sleep",
+					"NewFestivalWaypoint": "Farm_Bed"
 				}
 			]
 		},
@@ -1056,12 +756,8 @@
 			"RemappedWaypoints":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"OriginalWaypoint": "James_Sleep",
-						"NewFestivalWaypoint": "Farm_Bed"
-					}
+					"OriginalWaypoint": "James_Sleep",
+					"NewFestivalWaypoint": "Farm_Bed"
 				}
 			]
 		},
@@ -1070,12 +766,8 @@
 			"RemappedWaypoints":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"OriginalWaypoint": "Joshua_Sleep",
-						"NewFestivalWaypoint": "Farm_Bed"
-					}
+					"OriginalWaypoint": "Joshua_Sleep",
+					"NewFestivalWaypoint": "Farm_Bed"
 				}
 			]
 		},
@@ -1084,12 +776,8 @@
 			"RemappedWaypoints":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"OriginalWaypoint": "Katherine_Sleep",
-						"NewFestivalWaypoint": "Farm_Bed"
-					}
+					"OriginalWaypoint": "Katherine_Sleep",
+					"NewFestivalWaypoint": "Farm_Bed"
 				}
 			]
 		},
@@ -1098,12 +786,8 @@
 			"RemappedWaypoints":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"OriginalWaypoint": "Kim_Sleep",
-						"NewFestivalWaypoint": "Farm_Bed"
-					}
+					"OriginalWaypoint": "Kim_Sleep",
+					"NewFestivalWaypoint": "Farm_Bed"
 				}
 			]
 		},
@@ -1112,12 +796,8 @@
 			"RemappedWaypoints":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"OriginalWaypoint": "Liam_Sleep",
-						"NewFestivalWaypoint": "Farm_Bed"
-					}
+					"OriginalWaypoint": "Liam_Sleep",
+					"NewFestivalWaypoint": "Farm_Bed"
 				}
 			]
 		},
@@ -1126,12 +806,8 @@
 			"RemappedWaypoints":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"OriginalWaypoint": "Lonan_Home",
-						"NewFestivalWaypoint": "Farm_Bed"
-					}
+					"OriginalWaypoint": "Lonan_Home",
+					"NewFestivalWaypoint": "Farm_Bed"
 				}
 			]
 		},
@@ -1140,12 +816,8 @@
 			"RemappedWaypoints":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"OriginalWaypoint": "Loxi_Sleep",
-						"NewFestivalWaypoint": "Farm_Bed"
-					}
+					"OriginalWaypoint": "Loxi_Sleep",
+					"NewFestivalWaypoint": "Farm_Bed"
 				}
 			]
 		},
@@ -1154,12 +826,8 @@
 			"RemappedWaypoints":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"OriginalWaypoint": "Luis_Sleep",
-						"NewFestivalWaypoint": "Farm_Bed"
-					}
+					"OriginalWaypoint": "Luis_Sleep",
+					"NewFestivalWaypoint": "Farm_Bed"
 				}
 			]
 		},
@@ -1168,12 +836,8 @@
 			"RemappedWaypoints":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"OriginalWaypoint": "Min_Sleep",
-						"NewFestivalWaypoint": "Farm_Bed"
-					}
+					"OriginalWaypoint": "Min_Sleep",
+					"NewFestivalWaypoint": "Farm_Bed"
 				}
 			]
 		},
@@ -1182,12 +846,8 @@
 			"RemappedWaypoints":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"OriginalWaypoint": "Natsuo_Sleep",
-						"NewFestivalWaypoint": "Farm_Bed"
-					}
+					"OriginalWaypoint": "Natsuo_Sleep",
+					"NewFestivalWaypoint": "Farm_Bed"
 				}
 			]
 		},
@@ -1196,12 +856,8 @@
 			"RemappedWaypoints":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"OriginalWaypoint": "Nora_Sleep",
-						"NewFestivalWaypoint": "Farm_Bed"
-					}
+					"OriginalWaypoint": "Nora_Sleep",
+					"NewFestivalWaypoint": "Farm_Bed"
 				}
 			]
 		},
@@ -1210,12 +866,8 @@
 			"RemappedWaypoints":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"OriginalWaypoint": "Tai_Sleep",
-						"NewFestivalWaypoint": "Farm_Bed"
-					}
+					"OriginalWaypoint": "Tai_Sleep",
+					"NewFestivalWaypoint": "Farm_Bed"
 				}
 			]
 		},
@@ -1224,12 +876,8 @@
 			"RemappedWaypoints":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"OriginalWaypoint": "Tanya_Sleep",
-						"NewFestivalWaypoint": "Farm_Bed"
-					}
+					"OriginalWaypoint": "Tanya_Sleep",
+					"NewFestivalWaypoint": "Farm_Bed"
 				}
 			]
 		},
@@ -1238,12 +886,8 @@
 			"RemappedWaypoints":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"OriginalWaypoint": "Tiffani_Sleep",
-						"NewFestivalWaypoint": "Farm_Bed"
-					}
+					"OriginalWaypoint": "Tiffani_Sleep",
+					"NewFestivalWaypoint": "Farm_Bed"
 				}
 			]
 		},
@@ -1252,12 +896,8 @@
 			"RemappedWaypoints":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"OriginalWaypoint": "Yuki_Hidden",
-						"NewFestivalWaypoint": "Farm_Bed"
-					}
+					"OriginalWaypoint": "Yuki_Hidden",
+					"NewFestivalWaypoint": "Farm_Bed"
 				}
 			]
 		},
@@ -1266,12 +906,8 @@
 			"RemappedWaypoints":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"OriginalWaypoint": "Ross_Sleep",
-						"NewFestivalWaypoint": "Farm_Bed"
-					}
+					"OriginalWaypoint": "Ross_Sleep",
+					"NewFestivalWaypoint": "Farm_Bed"
 				}
 			]
 		},
@@ -1280,12 +916,8 @@
 			"RemappedWaypoints":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"OriginalWaypoint": "Finn_Temple",
-						"NewFestivalWaypoint": "Farm_Bed"
-					}
+					"OriginalWaypoint": "Finn_Temple",
+					"NewFestivalWaypoint": "Farm_Bed"
 				}
 			]
 		}

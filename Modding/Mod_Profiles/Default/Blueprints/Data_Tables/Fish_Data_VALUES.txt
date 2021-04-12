@@ -7,20 +7,12 @@
 			"FishAreas":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Season": 0,
-						"BodyOfWater": 2
-					}
+					"Season": 0,
+					"BodyOfWater": 2
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Season": 1,
-						"BodyOfWater": 2
-					}
+					"Season": 1,
+					"BodyOfWater": 2
 				}
 			],
 			"Occurences":
@@ -36,20 +28,12 @@
 			"FishAreas":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Season": 0,
-						"BodyOfWater": 0
-					}
+					"Season": 0,
+					"BodyOfWater": 0
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Season": 1,
-						"BodyOfWater": 0
-					}
+					"Season": 1,
+					"BodyOfWater": 0
 				}
 			],
 			"Occurences":
@@ -65,12 +49,8 @@
 			"FishAreas":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Season": 0,
-						"BodyOfWater": 2
-					}
+					"Season": 0,
+					"BodyOfWater": 2
 				}
 			],
 			"Occurences":
@@ -86,20 +66,12 @@
 			"FishAreas":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Season": 0,
-						"BodyOfWater": 3
-					}
+					"Season": 0,
+					"BodyOfWater": 3
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Season": 0,
-						"BodyOfWater": 1
-					}
+					"Season": 0,
+					"BodyOfWater": 1
 				}
 			],
 			"Occurences":
@@ -115,12 +87,8 @@
 			"FishAreas":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Season": 1,
-						"BodyOfWater": 3
-					}
+					"Season": 1,
+					"BodyOfWater": 3
 				}
 			],
 			"Occurences":
@@ -136,12 +104,8 @@
 			"FishAreas":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Season": 3,
-						"BodyOfWater": 3
-					}
+					"Season": 3,
+					"BodyOfWater": 3
 				}
 			],
 			"Occurences":
@@ -157,12 +121,8 @@
 			"FishAreas":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Season": 0,
-						"BodyOfWater": 2
-					}
+					"Season": 0,
+					"BodyOfWater": 2
 				}
 			],
 			"Occurences":
@@ -178,12 +138,8 @@
 			"FishAreas":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Season": 0,
-						"BodyOfWater": 3
-					}
+					"Season": 0,
+					"BodyOfWater": 3
 				}
 			],
 			"Occurences":
@@ -199,20 +155,12 @@
 			"FishAreas":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Season": 0,
-						"BodyOfWater": 3
-					}
+					"Season": 0,
+					"BodyOfWater": 3
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Season": 0,
-						"BodyOfWater": 1
-					}
+					"Season": 0,
+					"BodyOfWater": 1
 				}
 			],
 			"Occurences":
@@ -228,20 +176,12 @@
 			"FishAreas":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Season": 0,
-						"BodyOfWater": 1
-					}
+					"Season": 0,
+					"BodyOfWater": 1
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Season": 0,
-						"BodyOfWater": 3
-					}
+					"Season": 0,
+					"BodyOfWater": 3
 				}
 			],
 			"Occurences":
@@ -257,44 +197,24 @@
 			"FishAreas":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Season": 0,
-						"BodyOfWater": 1
-					}
+					"Season": 0,
+					"BodyOfWater": 1
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Season": 1,
-						"BodyOfWater": 1
-					}
+					"Season": 1,
+					"BodyOfWater": 1
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Season": 2,
-						"BodyOfWater": 1
-					}
+					"Season": 2,
+					"BodyOfWater": 1
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Season": 1,
-						"BodyOfWater": 3
-					}
+					"Season": 1,
+					"BodyOfWater": 3
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Season": 2,
-						"BodyOfWater": 3
-					}
+					"Season": 2,
+					"BodyOfWater": 3
 				}
 			],
 			"Occurences":
@@ -310,28 +230,16 @@
 			"FishAreas":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Season": 0,
-						"BodyOfWater": 3
-					}
+					"Season": 0,
+					"BodyOfWater": 3
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Season": 1,
-						"BodyOfWater": 3
-					}
+					"Season": 1,
+					"BodyOfWater": 3
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Season": 2,
-						"BodyOfWater": 3
-					}
+					"Season": 2,
+					"BodyOfWater": 3
 				}
 			],
 			"Occurences":
@@ -347,20 +255,12 @@
 			"FishAreas":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Season": 0,
-						"BodyOfWater": 3
-					}
+					"Season": 0,
+					"BodyOfWater": 3
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Season": 0,
-						"BodyOfWater": 1
-					}
+					"Season": 0,
+					"BodyOfWater": 1
 				}
 			],
 			"Occurences":
@@ -376,20 +276,12 @@
 			"FishAreas":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Season": 0,
-						"BodyOfWater": 3
-					}
+					"Season": 0,
+					"BodyOfWater": 3
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Season": 0,
-						"BodyOfWater": 1
-					}
+					"Season": 0,
+					"BodyOfWater": 1
 				}
 			],
 			"Occurences":
@@ -405,20 +297,12 @@
 			"FishAreas":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Season": 0,
-						"BodyOfWater": 3
-					}
+					"Season": 0,
+					"BodyOfWater": 3
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Season": 0,
-						"BodyOfWater": 1
-					}
+					"Season": 0,
+					"BodyOfWater": 1
 				}
 			],
 			"Occurences":
@@ -434,20 +318,12 @@
 			"FishAreas":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Season": 0,
-						"BodyOfWater": 3
-					}
+					"Season": 0,
+					"BodyOfWater": 3
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Season": 0,
-						"BodyOfWater": 1
-					}
+					"Season": 0,
+					"BodyOfWater": 1
 				}
 			],
 			"Occurences":
@@ -463,20 +339,12 @@
 			"FishAreas":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Season": 0,
-						"BodyOfWater": 3
-					}
+					"Season": 0,
+					"BodyOfWater": 3
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Season": 0,
-						"BodyOfWater": 1
-					}
+					"Season": 0,
+					"BodyOfWater": 1
 				}
 			],
 			"Occurences":
@@ -492,20 +360,12 @@
 			"FishAreas":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Season": 0,
-						"BodyOfWater": 1
-					}
+					"Season": 0,
+					"BodyOfWater": 1
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Season": 0,
-						"BodyOfWater": 0
-					}
+					"Season": 0,
+					"BodyOfWater": 0
 				}
 			],
 			"Occurences":
@@ -521,36 +381,20 @@
 			"FishAreas":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Season": 0,
-						"BodyOfWater": 3
-					}
+					"Season": 0,
+					"BodyOfWater": 3
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Season": 0,
-						"BodyOfWater": 1
-					}
+					"Season": 0,
+					"BodyOfWater": 1
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Season": 1,
-						"BodyOfWater": 3
-					}
+					"Season": 1,
+					"BodyOfWater": 3
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Season": 2,
-						"BodyOfWater": 3
-					}
+					"Season": 2,
+					"BodyOfWater": 3
 				}
 			],
 			"Occurences":
@@ -566,36 +410,20 @@
 			"FishAreas":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Season": 0,
-						"BodyOfWater": 3
-					}
+					"Season": 0,
+					"BodyOfWater": 3
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Season": 0,
-						"BodyOfWater": 1
-					}
+					"Season": 0,
+					"BodyOfWater": 1
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Season": 1,
-						"BodyOfWater": 3
-					}
+					"Season": 1,
+					"BodyOfWater": 3
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Season": 2,
-						"BodyOfWater": 3
-					}
+					"Season": 2,
+					"BodyOfWater": 3
 				}
 			],
 			"Occurences":
@@ -611,44 +439,24 @@
 			"FishAreas":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Season": 0,
-						"BodyOfWater": 3
-					}
+					"Season": 0,
+					"BodyOfWater": 3
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Season": 0,
-						"BodyOfWater": 1
-					}
+					"Season": 0,
+					"BodyOfWater": 1
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Season": 1,
-						"BodyOfWater": 3
-					}
+					"Season": 1,
+					"BodyOfWater": 3
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Season": 2,
-						"BodyOfWater": 3
-					}
+					"Season": 2,
+					"BodyOfWater": 3
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Season": 3,
-						"BodyOfWater": 3
-					}
+					"Season": 3,
+					"BodyOfWater": 3
 				}
 			],
 			"Occurences":
@@ -664,44 +472,24 @@
 			"FishAreas":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Season": 0,
-						"BodyOfWater": 3
-					}
+					"Season": 0,
+					"BodyOfWater": 3
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Season": 0,
-						"BodyOfWater": 1
-					}
+					"Season": 0,
+					"BodyOfWater": 1
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Season": 1,
-						"BodyOfWater": 3
-					}
+					"Season": 1,
+					"BodyOfWater": 3
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Season": 2,
-						"BodyOfWater": 3
-					}
+					"Season": 2,
+					"BodyOfWater": 3
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Season": 3,
-						"BodyOfWater": 3
-					}
+					"Season": 3,
+					"BodyOfWater": 3
 				}
 			],
 			"Occurences":
@@ -717,12 +505,8 @@
 			"FishAreas":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Season": 0,
-						"BodyOfWater": 0
-					}
+					"Season": 0,
+					"BodyOfWater": 0
 				}
 			],
 			"Occurences":
@@ -738,12 +522,8 @@
 			"FishAreas":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Season": 0,
-						"BodyOfWater": 0
-					}
+					"Season": 0,
+					"BodyOfWater": 0
 				}
 			],
 			"Occurences":
@@ -759,12 +539,8 @@
 			"FishAreas":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Season": 0,
-						"BodyOfWater": 0
-					}
+					"Season": 0,
+					"BodyOfWater": 0
 				}
 			],
 			"Occurences":
@@ -780,20 +556,12 @@
 			"FishAreas":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Season": 0,
-						"BodyOfWater": 0
-					}
+					"Season": 0,
+					"BodyOfWater": 0
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Season": 1,
-						"BodyOfWater": 0
-					}
+					"Season": 1,
+					"BodyOfWater": 0
 				}
 			],
 			"Occurences":
@@ -809,12 +577,8 @@
 			"FishAreas":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Season": 0,
-						"BodyOfWater": 0
-					}
+					"Season": 0,
+					"BodyOfWater": 0
 				}
 			],
 			"Occurences":
@@ -830,20 +594,12 @@
 			"FishAreas":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Season": 0,
-						"BodyOfWater": 0
-					}
+					"Season": 0,
+					"BodyOfWater": 0
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Season": 1,
-						"BodyOfWater": 0
-					}
+					"Season": 1,
+					"BodyOfWater": 0
 				}
 			],
 			"Occurences":
@@ -859,20 +615,12 @@
 			"FishAreas":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Season": 0,
-						"BodyOfWater": 0
-					}
+					"Season": 0,
+					"BodyOfWater": 0
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Season": 1,
-						"BodyOfWater": 0
-					}
+					"Season": 1,
+					"BodyOfWater": 0
 				}
 			],
 			"Occurences":
@@ -888,20 +636,12 @@
 			"FishAreas":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Season": 0,
-						"BodyOfWater": 0
-					}
+					"Season": 0,
+					"BodyOfWater": 0
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Season": 1,
-						"BodyOfWater": 0
-					}
+					"Season": 1,
+					"BodyOfWater": 0
 				}
 			],
 			"Occurences":
@@ -917,20 +657,12 @@
 			"FishAreas":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Season": 0,
-						"BodyOfWater": 0
-					}
+					"Season": 0,
+					"BodyOfWater": 0
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Season": 1,
-						"BodyOfWater": 0
-					}
+					"Season": 1,
+					"BodyOfWater": 0
 				}
 			],
 			"Occurences":
@@ -946,36 +678,20 @@
 			"FishAreas":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Season": 0,
-						"BodyOfWater": 1
-					}
+					"Season": 0,
+					"BodyOfWater": 1
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Season": 1,
-						"BodyOfWater": 1
-					}
+					"Season": 1,
+					"BodyOfWater": 1
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Season": 2,
-						"BodyOfWater": 1
-					}
+					"Season": 2,
+					"BodyOfWater": 1
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Season": 3,
-						"BodyOfWater": 1
-					}
+					"Season": 3,
+					"BodyOfWater": 1
 				}
 			],
 			"Occurences":
@@ -991,12 +707,8 @@
 			"FishAreas":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Season": 0,
-						"BodyOfWater": 2
-					}
+					"Season": 0,
+					"BodyOfWater": 2
 				}
 			],
 			"Occurences":
@@ -1012,12 +724,8 @@
 			"FishAreas":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Season": 1,
-						"BodyOfWater": 3
-					}
+					"Season": 1,
+					"BodyOfWater": 3
 				}
 			],
 			"Occurences":
@@ -1033,12 +741,8 @@
 			"FishAreas":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Season": 1,
-						"BodyOfWater": 3
-					}
+					"Season": 1,
+					"BodyOfWater": 3
 				}
 			],
 			"Occurences":
@@ -1054,12 +758,8 @@
 			"FishAreas":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Season": 1,
-						"BodyOfWater": 3
-					}
+					"Season": 1,
+					"BodyOfWater": 3
 				}
 			],
 			"Occurences":
@@ -1075,12 +775,8 @@
 			"FishAreas":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Season": 1,
-						"BodyOfWater": 3
-					}
+					"Season": 1,
+					"BodyOfWater": 3
 				}
 			],
 			"Occurences":
@@ -1096,12 +792,8 @@
 			"FishAreas":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Season": 1,
-						"BodyOfWater": 3
-					}
+					"Season": 1,
+					"BodyOfWater": 3
 				}
 			],
 			"Occurences":
@@ -1117,12 +809,8 @@
 			"FishAreas":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Season": 1,
-						"BodyOfWater": 3
-					}
+					"Season": 1,
+					"BodyOfWater": 3
 				}
 			],
 			"Occurences":
@@ -1138,12 +826,8 @@
 			"FishAreas":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Season": 1,
-						"BodyOfWater": 3
-					}
+					"Season": 1,
+					"BodyOfWater": 3
 				}
 			],
 			"Occurences":
@@ -1159,12 +843,8 @@
 			"FishAreas":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Season": 1,
-						"BodyOfWater": 3
-					}
+					"Season": 1,
+					"BodyOfWater": 3
 				}
 			],
 			"Occurences":
@@ -1180,20 +860,12 @@
 			"FishAreas":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Season": 1,
-						"BodyOfWater": 3
-					}
+					"Season": 1,
+					"BodyOfWater": 3
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Season": 1,
-						"BodyOfWater": 1
-					}
+					"Season": 1,
+					"BodyOfWater": 1
 				}
 			],
 			"Occurences":
@@ -1209,12 +881,8 @@
 			"FishAreas":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Season": 1,
-						"BodyOfWater": 3
-					}
+					"Season": 1,
+					"BodyOfWater": 3
 				}
 			],
 			"Occurences":
@@ -1230,12 +898,8 @@
 			"FishAreas":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Season": 1,
-						"BodyOfWater": 3
-					}
+					"Season": 1,
+					"BodyOfWater": 3
 				}
 			],
 			"Occurences":
@@ -1251,20 +915,12 @@
 			"FishAreas":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Season": 1,
-						"BodyOfWater": 3
-					}
+					"Season": 1,
+					"BodyOfWater": 3
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Season": 2,
-						"BodyOfWater": 3
-					}
+					"Season": 2,
+					"BodyOfWater": 3
 				}
 			],
 			"Occurences":
@@ -1280,20 +936,12 @@
 			"FishAreas":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Season": 1,
-						"BodyOfWater": 3
-					}
+					"Season": 1,
+					"BodyOfWater": 3
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Season": 1,
-						"BodyOfWater": 1
-					}
+					"Season": 1,
+					"BodyOfWater": 1
 				}
 			],
 			"Occurences":
@@ -1309,20 +957,12 @@
 			"FishAreas":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Season": 1,
-						"BodyOfWater": 3
-					}
+					"Season": 1,
+					"BodyOfWater": 3
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Season": 1,
-						"BodyOfWater": 1
-					}
+					"Season": 1,
+					"BodyOfWater": 1
 				}
 			],
 			"Occurences":
@@ -1338,20 +978,12 @@
 			"FishAreas":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Season": 1,
-						"BodyOfWater": 3
-					}
+					"Season": 1,
+					"BodyOfWater": 3
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Season": 1,
-						"BodyOfWater": 1
-					}
+					"Season": 1,
+					"BodyOfWater": 1
 				}
 			],
 			"Occurences":
@@ -1367,20 +999,12 @@
 			"FishAreas":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Season": 1,
-						"BodyOfWater": 3
-					}
+					"Season": 1,
+					"BodyOfWater": 3
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Season": 1,
-						"BodyOfWater": 1
-					}
+					"Season": 1,
+					"BodyOfWater": 1
 				}
 			],
 			"Occurences":
@@ -1396,20 +1020,12 @@
 			"FishAreas":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Season": 1,
-						"BodyOfWater": 3
-					}
+					"Season": 1,
+					"BodyOfWater": 3
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Season": 1,
-						"BodyOfWater": 1
-					}
+					"Season": 1,
+					"BodyOfWater": 1
 				}
 			],
 			"Occurences":
@@ -1425,20 +1041,12 @@
 			"FishAreas":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Season": 1,
-						"BodyOfWater": 3
-					}
+					"Season": 1,
+					"BodyOfWater": 3
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Season": 1,
-						"BodyOfWater": 1
-					}
+					"Season": 1,
+					"BodyOfWater": 1
 				}
 			],
 			"Occurences":
@@ -1454,20 +1062,12 @@
 			"FishAreas":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Season": 1,
-						"BodyOfWater": 3
-					}
+					"Season": 1,
+					"BodyOfWater": 3
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Season": 1,
-						"BodyOfWater": 1
-					}
+					"Season": 1,
+					"BodyOfWater": 1
 				}
 			],
 			"Occurences":
@@ -1483,20 +1083,12 @@
 			"FishAreas":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Season": 1,
-						"BodyOfWater": 3
-					}
+					"Season": 1,
+					"BodyOfWater": 3
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Season": 1,
-						"BodyOfWater": 1
-					}
+					"Season": 1,
+					"BodyOfWater": 1
 				}
 			],
 			"Occurences":
@@ -1512,28 +1104,16 @@
 			"FishAreas":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Season": 1,
-						"BodyOfWater": 3
-					}
+					"Season": 1,
+					"BodyOfWater": 3
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Season": 1,
-						"BodyOfWater": 1
-					}
+					"Season": 1,
+					"BodyOfWater": 1
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Season": 2,
-						"BodyOfWater": 3
-					}
+					"Season": 2,
+					"BodyOfWater": 3
 				}
 			],
 			"Occurences":
@@ -1549,20 +1129,12 @@
 			"FishAreas":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Season": 1,
-						"BodyOfWater": 3
-					}
+					"Season": 1,
+					"BodyOfWater": 3
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Season": 1,
-						"BodyOfWater": 1
-					}
+					"Season": 1,
+					"BodyOfWater": 1
 				}
 			],
 			"Occurences":
@@ -1578,12 +1150,8 @@
 			"FishAreas":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Season": 1,
-						"BodyOfWater": 3
-					}
+					"Season": 1,
+					"BodyOfWater": 3
 				}
 			],
 			"Occurences":
@@ -1599,20 +1167,12 @@
 			"FishAreas":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Season": 1,
-						"BodyOfWater": 3
-					}
+					"Season": 1,
+					"BodyOfWater": 3
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Season": 1,
-						"BodyOfWater": 1
-					}
+					"Season": 1,
+					"BodyOfWater": 1
 				}
 			],
 			"Occurences":
@@ -1628,20 +1188,12 @@
 			"FishAreas":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Season": 1,
-						"BodyOfWater": 3
-					}
+					"Season": 1,
+					"BodyOfWater": 3
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Season": 1,
-						"BodyOfWater": 1
-					}
+					"Season": 1,
+					"BodyOfWater": 1
 				}
 			],
 			"Occurences":
@@ -1657,12 +1209,8 @@
 			"FishAreas":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Season": 1,
-						"BodyOfWater": 3
-					}
+					"Season": 1,
+					"BodyOfWater": 3
 				}
 			],
 			"Occurences":
@@ -1678,12 +1226,8 @@
 			"FishAreas":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Season": 1,
-						"BodyOfWater": 3
-					}
+					"Season": 1,
+					"BodyOfWater": 3
 				}
 			],
 			"Occurences":
@@ -1699,12 +1243,8 @@
 			"FishAreas":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Season": 1,
-						"BodyOfWater": 3
-					}
+					"Season": 1,
+					"BodyOfWater": 3
 				}
 			],
 			"Occurences":
@@ -1720,12 +1260,8 @@
 			"FishAreas":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Season": 1,
-						"BodyOfWater": 1
-					}
+					"Season": 1,
+					"BodyOfWater": 1
 				}
 			],
 			"Occurences":
@@ -1741,12 +1277,8 @@
 			"FishAreas":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Season": 1,
-						"BodyOfWater": 1
-					}
+					"Season": 1,
+					"BodyOfWater": 1
 				}
 			],
 			"Occurences":
@@ -1762,12 +1294,8 @@
 			"FishAreas":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Season": 1,
-						"BodyOfWater": 2
-					}
+					"Season": 1,
+					"BodyOfWater": 2
 				}
 			],
 			"Occurences":
@@ -1783,20 +1311,12 @@
 			"FishAreas":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Season": 1,
-						"BodyOfWater": 2
-					}
+					"Season": 1,
+					"BodyOfWater": 2
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Season": 0,
-						"BodyOfWater": 2
-					}
+					"Season": 0,
+					"BodyOfWater": 2
 				}
 			],
 			"Occurences":
@@ -1812,20 +1332,12 @@
 			"FishAreas":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Season": 1,
-						"BodyOfWater": 2
-					}
+					"Season": 1,
+					"BodyOfWater": 2
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Season": 0,
-						"BodyOfWater": 2
-					}
+					"Season": 0,
+					"BodyOfWater": 2
 				}
 			],
 			"Occurences":
@@ -1841,12 +1353,8 @@
 			"FishAreas":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Season": 2,
-						"BodyOfWater": 3
-					}
+					"Season": 2,
+					"BodyOfWater": 3
 				}
 			],
 			"Occurences":
@@ -1862,12 +1370,8 @@
 			"FishAreas":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Season": 2,
-						"BodyOfWater": 3
-					}
+					"Season": 2,
+					"BodyOfWater": 3
 				}
 			],
 			"Occurences":
@@ -1883,12 +1387,8 @@
 			"FishAreas":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Season": 2,
-						"BodyOfWater": 3
-					}
+					"Season": 2,
+					"BodyOfWater": 3
 				}
 			],
 			"Occurences":
@@ -1904,12 +1404,8 @@
 			"FishAreas":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Season": 2,
-						"BodyOfWater": 3
-					}
+					"Season": 2,
+					"BodyOfWater": 3
 				}
 			],
 			"Occurences":
@@ -1925,20 +1421,12 @@
 			"FishAreas":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Season": 2,
-						"BodyOfWater": 3
-					}
+					"Season": 2,
+					"BodyOfWater": 3
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Season": 2,
-						"BodyOfWater": 1
-					}
+					"Season": 2,
+					"BodyOfWater": 1
 				}
 			],
 			"Occurences":
@@ -1954,20 +1442,12 @@
 			"FishAreas":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Season": 2,
-						"BodyOfWater": 3
-					}
+					"Season": 2,
+					"BodyOfWater": 3
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Season": 2,
-						"BodyOfWater": 1
-					}
+					"Season": 2,
+					"BodyOfWater": 1
 				}
 			],
 			"Occurences":
@@ -1983,20 +1463,12 @@
 			"FishAreas":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Season": 2,
-						"BodyOfWater": 3
-					}
+					"Season": 2,
+					"BodyOfWater": 3
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Season": 2,
-						"BodyOfWater": 1
-					}
+					"Season": 2,
+					"BodyOfWater": 1
 				}
 			],
 			"Occurences":
@@ -2012,12 +1484,8 @@
 			"FishAreas":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Season": 2,
-						"BodyOfWater": 3
-					}
+					"Season": 2,
+					"BodyOfWater": 3
 				}
 			],
 			"Occurences":
@@ -2033,12 +1501,8 @@
 			"FishAreas":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Season": 2,
-						"BodyOfWater": 3
-					}
+					"Season": 2,
+					"BodyOfWater": 3
 				}
 			],
 			"Occurences":
@@ -2054,12 +1518,8 @@
 			"FishAreas":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Season": 2,
-						"BodyOfWater": 3
-					}
+					"Season": 2,
+					"BodyOfWater": 3
 				}
 			],
 			"Occurences":
@@ -2075,20 +1535,12 @@
 			"FishAreas":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Season": 2,
-						"BodyOfWater": 3
-					}
+					"Season": 2,
+					"BodyOfWater": 3
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Season": 2,
-						"BodyOfWater": 1
-					}
+					"Season": 2,
+					"BodyOfWater": 1
 				}
 			],
 			"Occurences":
@@ -2104,20 +1556,12 @@
 			"FishAreas":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Season": 2,
-						"BodyOfWater": 0
-					}
+					"Season": 2,
+					"BodyOfWater": 0
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Season": 3,
-						"BodyOfWater": 0
-					}
+					"Season": 3,
+					"BodyOfWater": 0
 				}
 			],
 			"Occurences":
@@ -2133,20 +1577,12 @@
 			"FishAreas":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Season": 2,
-						"BodyOfWater": 0
-					}
+					"Season": 2,
+					"BodyOfWater": 0
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Season": 3,
-						"BodyOfWater": 0
-					}
+					"Season": 3,
+					"BodyOfWater": 0
 				}
 			],
 			"Occurences":
@@ -2162,28 +1598,16 @@
 			"FishAreas":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Season": 2,
-						"BodyOfWater": 0
-					}
+					"Season": 2,
+					"BodyOfWater": 0
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Season": 3,
-						"BodyOfWater": 0
-					}
+					"Season": 3,
+					"BodyOfWater": 0
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Season": 1,
-						"BodyOfWater": 0
-					}
+					"Season": 1,
+					"BodyOfWater": 0
 				}
 			],
 			"Occurences":
@@ -2199,28 +1623,16 @@
 			"FishAreas":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Season": 2,
-						"BodyOfWater": 0
-					}
+					"Season": 2,
+					"BodyOfWater": 0
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Season": 3,
-						"BodyOfWater": 0
-					}
+					"Season": 3,
+					"BodyOfWater": 0
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Season": 1,
-						"BodyOfWater": 0
-					}
+					"Season": 1,
+					"BodyOfWater": 0
 				}
 			],
 			"Occurences":
@@ -2236,12 +1648,8 @@
 			"FishAreas":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Season": 2,
-						"BodyOfWater": 0
-					}
+					"Season": 2,
+					"BodyOfWater": 0
 				}
 			],
 			"Occurences":
@@ -2257,12 +1665,8 @@
 			"FishAreas":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Season": 2,
-						"BodyOfWater": 0
-					}
+					"Season": 2,
+					"BodyOfWater": 0
 				}
 			],
 			"Occurences":
@@ -2278,20 +1682,12 @@
 			"FishAreas":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Season": 2,
-						"BodyOfWater": 2
-					}
+					"Season": 2,
+					"BodyOfWater": 2
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Season": 1,
-						"BodyOfWater": 2
-					}
+					"Season": 1,
+					"BodyOfWater": 2
 				}
 			],
 			"Occurences":
@@ -2307,28 +1703,16 @@
 			"FishAreas":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Season": 2,
-						"BodyOfWater": 2
-					}
+					"Season": 2,
+					"BodyOfWater": 2
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Season": 0,
-						"BodyOfWater": 2
-					}
+					"Season": 0,
+					"BodyOfWater": 2
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Season": 1,
-						"BodyOfWater": 2
-					}
+					"Season": 1,
+					"BodyOfWater": 2
 				}
 			],
 			"Occurences":
@@ -2344,20 +1728,12 @@
 			"FishAreas":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Season": 2,
-						"BodyOfWater": 2
-					}
+					"Season": 2,
+					"BodyOfWater": 2
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Season": 0,
-						"BodyOfWater": 2
-					}
+					"Season": 0,
+					"BodyOfWater": 2
 				}
 			],
 			"Occurences":
@@ -2373,12 +1749,8 @@
 			"FishAreas":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Season": 2,
-						"BodyOfWater": 2
-					}
+					"Season": 2,
+					"BodyOfWater": 2
 				}
 			],
 			"Occurences":
@@ -2394,20 +1766,12 @@
 			"FishAreas":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Season": 2,
-						"BodyOfWater": 2
-					}
+					"Season": 2,
+					"BodyOfWater": 2
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Season": 1,
-						"BodyOfWater": 2
-					}
+					"Season": 1,
+					"BodyOfWater": 2
 				}
 			],
 			"Occurences":
@@ -2423,20 +1787,12 @@
 			"FishAreas":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Season": 3,
-						"BodyOfWater": 3
-					}
+					"Season": 3,
+					"BodyOfWater": 3
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Season": 3,
-						"BodyOfWater": 1
-					}
+					"Season": 3,
+					"BodyOfWater": 1
 				}
 			],
 			"Occurences":
@@ -2452,12 +1808,8 @@
 			"FishAreas":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Season": 3,
-						"BodyOfWater": 3
-					}
+					"Season": 3,
+					"BodyOfWater": 3
 				}
 			],
 			"Occurences":
@@ -2473,12 +1825,8 @@
 			"FishAreas":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Season": 3,
-						"BodyOfWater": 3
-					}
+					"Season": 3,
+					"BodyOfWater": 3
 				}
 			],
 			"Occurences":
@@ -2494,12 +1842,8 @@
 			"FishAreas":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Season": 3,
-						"BodyOfWater": 3
-					}
+					"Season": 3,
+					"BodyOfWater": 3
 				}
 			],
 			"Occurences":
@@ -2515,20 +1859,12 @@
 			"FishAreas":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Season": 3,
-						"BodyOfWater": 3
-					}
+					"Season": 3,
+					"BodyOfWater": 3
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Season": 3,
-						"BodyOfWater": 1
-					}
+					"Season": 3,
+					"BodyOfWater": 1
 				}
 			],
 			"Occurences":
@@ -2544,12 +1880,8 @@
 			"FishAreas":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Season": 3,
-						"BodyOfWater": 3
-					}
+					"Season": 3,
+					"BodyOfWater": 3
 				}
 			],
 			"Occurences":
@@ -2565,12 +1897,8 @@
 			"FishAreas":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Season": 3,
-						"BodyOfWater": 3
-					}
+					"Season": 3,
+					"BodyOfWater": 3
 				}
 			],
 			"Occurences":
@@ -2586,12 +1914,8 @@
 			"FishAreas":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Season": 3,
-						"BodyOfWater": 3
-					}
+					"Season": 3,
+					"BodyOfWater": 3
 				}
 			],
 			"Occurences":
@@ -2607,12 +1931,8 @@
 			"FishAreas":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Season": 3,
-						"BodyOfWater": 3
-					}
+					"Season": 3,
+					"BodyOfWater": 3
 				}
 			],
 			"Occurences":
@@ -2628,12 +1948,8 @@
 			"FishAreas":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Season": 3,
-						"BodyOfWater": 3
-					}
+					"Season": 3,
+					"BodyOfWater": 3
 				}
 			],
 			"Occurences":
@@ -2649,12 +1965,8 @@
 			"FishAreas":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Season": 3,
-						"BodyOfWater": 3
-					}
+					"Season": 3,
+					"BodyOfWater": 3
 				}
 			],
 			"Occurences":
@@ -2670,12 +1982,8 @@
 			"FishAreas":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Season": 3,
-						"BodyOfWater": 3
-					}
+					"Season": 3,
+					"BodyOfWater": 3
 				}
 			],
 			"Occurences":
@@ -2691,20 +1999,12 @@
 			"FishAreas":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Season": 3,
-						"BodyOfWater": 3
-					}
+					"Season": 3,
+					"BodyOfWater": 3
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Season": 2,
-						"BodyOfWater": 1
-					}
+					"Season": 2,
+					"BodyOfWater": 1
 				}
 			],
 			"Occurences":
@@ -2720,20 +2020,12 @@
 			"FishAreas":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Season": 3,
-						"BodyOfWater": 3
-					}
+					"Season": 3,
+					"BodyOfWater": 3
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Season": 3,
-						"BodyOfWater": 1
-					}
+					"Season": 3,
+					"BodyOfWater": 1
 				}
 			],
 			"Occurences":
@@ -2749,12 +2041,8 @@
 			"FishAreas":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Season": 3,
-						"BodyOfWater": 3
-					}
+					"Season": 3,
+					"BodyOfWater": 3
 				}
 			],
 			"Occurences":
@@ -2770,12 +2058,8 @@
 			"FishAreas":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Season": 3,
-						"BodyOfWater": 3
-					}
+					"Season": 3,
+					"BodyOfWater": 3
 				}
 			],
 			"Occurences":
@@ -2791,12 +2075,8 @@
 			"FishAreas":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Season": 3,
-						"BodyOfWater": 3
-					}
+					"Season": 3,
+					"BodyOfWater": 3
 				}
 			],
 			"Occurences":
@@ -2812,12 +2092,8 @@
 			"FishAreas":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Season": 3,
-						"BodyOfWater": 3
-					}
+					"Season": 3,
+					"BodyOfWater": 3
 				}
 			],
 			"Occurences":
@@ -2833,12 +2109,8 @@
 			"FishAreas":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Season": 3,
-						"BodyOfWater": 3
-					}
+					"Season": 3,
+					"BodyOfWater": 3
 				}
 			],
 			"Occurences":
@@ -2854,12 +2126,8 @@
 			"FishAreas":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Season": 3,
-						"BodyOfWater": 3
-					}
+					"Season": 3,
+					"BodyOfWater": 3
 				}
 			],
 			"Occurences":
@@ -2875,12 +2143,8 @@
 			"FishAreas":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Season": 3,
-						"BodyOfWater": 3
-					}
+					"Season": 3,
+					"BodyOfWater": 3
 				}
 			],
 			"Occurences":
@@ -2896,12 +2160,8 @@
 			"FishAreas":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Season": 3,
-						"BodyOfWater": 0
-					}
+					"Season": 3,
+					"BodyOfWater": 0
 				}
 			],
 			"Occurences":
@@ -2917,12 +2177,8 @@
 			"FishAreas":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Season": 3,
-						"BodyOfWater": 2
-					}
+					"Season": 3,
+					"BodyOfWater": 2
 				}
 			],
 			"Occurences":
@@ -2938,12 +2194,8 @@
 			"FishAreas":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Season": 3,
-						"BodyOfWater": 2
-					}
+					"Season": 3,
+					"BodyOfWater": 2
 				}
 			],
 			"Occurences":
@@ -2959,12 +2211,8 @@
 			"FishAreas":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Season": 3,
-						"BodyOfWater": 2
-					}
+					"Season": 3,
+					"BodyOfWater": 2
 				}
 			],
 			"Occurences":
@@ -2980,12 +2228,8 @@
 			"FishAreas":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Season": 3,
-						"BodyOfWater": 2
-					}
+					"Season": 3,
+					"BodyOfWater": 2
 				}
 			],
 			"Occurences":
@@ -3001,12 +2245,8 @@
 			"FishAreas":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Season": 3,
-						"BodyOfWater": 2
-					}
+					"Season": 3,
+					"BodyOfWater": 2
 				}
 			],
 			"Occurences":
@@ -3022,12 +2262,8 @@
 			"FishAreas":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Season": 3,
-						"BodyOfWater": 2
-					}
+					"Season": 3,
+					"BodyOfWater": 2
 				}
 			],
 			"Occurences":
@@ -3043,76 +2279,40 @@
 			"FishAreas":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Season": 0,
-						"BodyOfWater": 1
-					}
+					"Season": 0,
+					"BodyOfWater": 1
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Season": 0,
-						"BodyOfWater": 0
-					}
+					"Season": 0,
+					"BodyOfWater": 0
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Season": 1,
-						"BodyOfWater": 1
-					}
+					"Season": 1,
+					"BodyOfWater": 1
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Season": 1,
-						"BodyOfWater": 2
-					}
+					"Season": 1,
+					"BodyOfWater": 2
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Season": 1,
-						"BodyOfWater": 0
-					}
+					"Season": 1,
+					"BodyOfWater": 0
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Season": 2,
-						"BodyOfWater": 1
-					}
+					"Season": 2,
+					"BodyOfWater": 1
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Season": 2,
-						"BodyOfWater": 2
-					}
+					"Season": 2,
+					"BodyOfWater": 2
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Season": 3,
-						"BodyOfWater": 0
-					}
+					"Season": 3,
+					"BodyOfWater": 0
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Season": 3,
-						"BodyOfWater": 2
-					}
+					"Season": 3,
+					"BodyOfWater": 2
 				}
 			],
 			"Occurences":
@@ -3128,52 +2328,28 @@
 			"FishAreas":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Season": 0,
-						"BodyOfWater": 3
-					}
+					"Season": 0,
+					"BodyOfWater": 3
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Season": 0,
-						"BodyOfWater": 1
-					}
+					"Season": 0,
+					"BodyOfWater": 1
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Season": 0,
-						"BodyOfWater": 2
-					}
+					"Season": 0,
+					"BodyOfWater": 2
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Season": 1,
-						"BodyOfWater": 1
-					}
+					"Season": 1,
+					"BodyOfWater": 1
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Season": 3,
-						"BodyOfWater": 1
-					}
+					"Season": 3,
+					"BodyOfWater": 1
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Season": 3,
-						"BodyOfWater": 2
-					}
+					"Season": 3,
+					"BodyOfWater": 2
 				}
 			],
 			"Occurences":
@@ -3189,44 +2365,24 @@
 			"FishAreas":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Season": 0,
-						"BodyOfWater": 0
-					}
+					"Season": 0,
+					"BodyOfWater": 0
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Season": 1,
-						"BodyOfWater": 1
-					}
+					"Season": 1,
+					"BodyOfWater": 1
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Season": 1,
-						"BodyOfWater": 0
-					}
+					"Season": 1,
+					"BodyOfWater": 0
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Season": 2,
-						"BodyOfWater": 1
-					}
+					"Season": 2,
+					"BodyOfWater": 1
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Season": 3,
-						"BodyOfWater": 0
-					}
+					"Season": 3,
+					"BodyOfWater": 0
 				}
 			],
 			"Occurences":
@@ -3242,60 +2398,32 @@
 			"FishAreas":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Season": 0,
-						"BodyOfWater": 1
-					}
+					"Season": 0,
+					"BodyOfWater": 1
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Season": 1,
-						"BodyOfWater": 3
-					}
+					"Season": 1,
+					"BodyOfWater": 3
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Season": 1,
-						"BodyOfWater": 1
-					}
+					"Season": 1,
+					"BodyOfWater": 1
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Season": 1,
-						"BodyOfWater": 2
-					}
+					"Season": 1,
+					"BodyOfWater": 2
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Season": 2,
-						"BodyOfWater": 3
-					}
+					"Season": 2,
+					"BodyOfWater": 3
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Season": 2,
-						"BodyOfWater": 0
-					}
+					"Season": 2,
+					"BodyOfWater": 0
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Season": 3,
-						"BodyOfWater": 1
-					}
+					"Season": 3,
+					"BodyOfWater": 1
 				}
 			],
 			"Occurences":
@@ -3311,28 +2439,16 @@
 			"FishAreas":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Season": 0,
-						"BodyOfWater": 1
-					}
+					"Season": 0,
+					"BodyOfWater": 1
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Season": 1,
-						"BodyOfWater": 1
-					}
+					"Season": 1,
+					"BodyOfWater": 1
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Season": 1,
-						"BodyOfWater": 3
-					}
+					"Season": 1,
+					"BodyOfWater": 3
 				}
 			],
 			"Occurences":
@@ -3348,36 +2464,20 @@
 			"FishAreas":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Season": 0,
-						"BodyOfWater": 0
-					}
+					"Season": 0,
+					"BodyOfWater": 0
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Season": 1,
-						"BodyOfWater": 1
-					}
+					"Season": 1,
+					"BodyOfWater": 1
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Season": 1,
-						"BodyOfWater": 0
-					}
+					"Season": 1,
+					"BodyOfWater": 0
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Season": 3,
-						"BodyOfWater": 3
-					}
+					"Season": 3,
+					"BodyOfWater": 3
 				}
 			],
 			"Occurences":
@@ -3393,52 +2493,28 @@
 			"FishAreas":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Season": 0,
-						"BodyOfWater": 1
-					}
+					"Season": 0,
+					"BodyOfWater": 1
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Season": 0,
-						"BodyOfWater": 2
-					}
+					"Season": 0,
+					"BodyOfWater": 2
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Season": 1,
-						"BodyOfWater": 3
-					}
+					"Season": 1,
+					"BodyOfWater": 3
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Season": 1,
-						"BodyOfWater": 1
-					}
+					"Season": 1,
+					"BodyOfWater": 1
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Season": 1,
-						"BodyOfWater": 3
-					}
+					"Season": 1,
+					"BodyOfWater": 3
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Season": 3,
-						"BodyOfWater": 1
-					}
+					"Season": 3,
+					"BodyOfWater": 1
 				}
 			],
 			"Occurences":
@@ -3454,52 +2530,28 @@
 			"FishAreas":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Season": 0,
-						"BodyOfWater": 3
-					}
+					"Season": 0,
+					"BodyOfWater": 3
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Season": 0,
-						"BodyOfWater": 1
-					}
+					"Season": 0,
+					"BodyOfWater": 1
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Season": 1,
-						"BodyOfWater": 1
-					}
+					"Season": 1,
+					"BodyOfWater": 1
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Season": 2,
-						"BodyOfWater": 0
-					}
+					"Season": 2,
+					"BodyOfWater": 0
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Season": 3,
-						"BodyOfWater": 1
-					}
+					"Season": 3,
+					"BodyOfWater": 1
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Season": 0,
-						"BodyOfWater": 2
-					}
+					"Season": 0,
+					"BodyOfWater": 2
 				}
 			],
 			"Occurences":
@@ -3515,12 +2567,8 @@
 			"FishAreas":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Season": 0,
-						"BodyOfWater": 3
-					}
+					"Season": 0,
+					"BodyOfWater": 3
 				}
 			],
 			"Occurences":
@@ -3536,12 +2584,8 @@
 			"FishAreas":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Season": 1,
-						"BodyOfWater": 3
-					}
+					"Season": 1,
+					"BodyOfWater": 3
 				}
 			],
 			"Occurences":
@@ -3557,20 +2601,12 @@
 			"FishAreas":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Season": 2,
-						"BodyOfWater": 0
-					}
+					"Season": 2,
+					"BodyOfWater": 0
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Season": 3,
-						"BodyOfWater": 0
-					}
+					"Season": 3,
+					"BodyOfWater": 0
 				}
 			],
 			"Occurences":
@@ -3586,20 +2622,12 @@
 			"FishAreas":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Season": 2,
-						"BodyOfWater": 0
-					}
+					"Season": 2,
+					"BodyOfWater": 0
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Season": 3,
-						"BodyOfWater": 0
-					}
+					"Season": 3,
+					"BodyOfWater": 0
 				}
 			],
 			"Occurences":
@@ -3615,12 +2643,8 @@
 			"FishAreas":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Season": 3,
-						"BodyOfWater": 3
-					}
+					"Season": 3,
+					"BodyOfWater": 3
 				}
 			],
 			"Occurences":
@@ -3636,12 +2660,8 @@
 			"FishAreas":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Season": 3,
-						"BodyOfWater": 3
-					}
+					"Season": 3,
+					"BodyOfWater": 3
 				}
 			],
 			"Occurences":
@@ -3657,12 +2677,8 @@
 			"FishAreas":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Season": 3,
-						"BodyOfWater": 0
-					}
+					"Season": 3,
+					"BodyOfWater": 0
 				}
 			],
 			"Occurences":
@@ -3678,12 +2694,8 @@
 			"FishAreas":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Season": 0,
-						"BodyOfWater": 2
-					}
+					"Season": 0,
+					"BodyOfWater": 2
 				}
 			],
 			"Occurences":
@@ -3699,36 +2711,20 @@
 			"FishAreas":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Season": 0,
-						"BodyOfWater": 2
-					}
+					"Season": 0,
+					"BodyOfWater": 2
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Season": 1,
-						"BodyOfWater": 2
-					}
+					"Season": 1,
+					"BodyOfWater": 2
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Season": 2,
-						"BodyOfWater": 2
-					}
+					"Season": 2,
+					"BodyOfWater": 2
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Season": 3,
-						"BodyOfWater": 2
-					}
+					"Season": 3,
+					"BodyOfWater": 2
 				}
 			],
 			"Occurences":
@@ -3744,20 +2740,12 @@
 			"FishAreas":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Season": 3,
-						"BodyOfWater": 3
-					}
+					"Season": 3,
+					"BodyOfWater": 3
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Season": 2,
-						"BodyOfWater": 3
-					}
+					"Season": 2,
+					"BodyOfWater": 3
 				}
 			],
 			"Occurences":
@@ -3773,12 +2761,8 @@
 			"FishAreas":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Season": 1,
-						"BodyOfWater": 0
-					}
+					"Season": 1,
+					"BodyOfWater": 0
 				}
 			],
 			"Occurences":

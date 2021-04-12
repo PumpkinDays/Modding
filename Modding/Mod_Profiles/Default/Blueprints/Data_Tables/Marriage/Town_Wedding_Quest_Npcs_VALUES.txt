@@ -6,36 +6,20 @@
 			"Npcs":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Npc": "Rose",
-						"QuestType": 1
-					}
+					"Npc": "Rose",
+					"QuestType": 1
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Npc": "Abigail",
-						"QuestType": 3
-					}
+					"Npc": "Abigail",
+					"QuestType": 3
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Npc": "Nicolas",
-						"QuestType": 2
-					}
+					"Npc": "Nicolas",
+					"QuestType": 2
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Npc": "Abigail",
-						"QuestType": 4
-					}
+					"Npc": "Abigail",
+					"QuestType": 4
 				}
 			]
 		},
@@ -44,36 +28,20 @@
 			"Npcs":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Npc": "Kishan",
-						"QuestType": 1
-					}
+					"Npc": "Kishan",
+					"QuestType": 1
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Npc": "Finn",
-						"QuestType": 3
-					}
+					"Npc": "Finn",
+					"QuestType": 3
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Npc": "Jabalah",
-						"QuestType": 2
-					}
+					"Npc": "Jabalah",
+					"QuestType": 2
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Npc": "Finn",
-						"QuestType": 4
-					}
+					"Npc": "Finn",
+					"QuestType": 4
 				}
 			]
 		},
@@ -82,36 +50,20 @@
 			"Npcs":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Npc": "Kishan",
-						"QuestType": 1
-					}
+					"Npc": "Kishan",
+					"QuestType": 1
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Npc": "Finn",
-						"QuestType": 3
-					}
+					"Npc": "Finn",
+					"QuestType": 3
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Npc": "Jabalah",
-						"QuestType": 2
-					}
+					"Npc": "Jabalah",
+					"QuestType": 2
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Npc": "Finn",
-						"QuestType": 4
-					}
+					"Npc": "Finn",
+					"QuestType": 4
 				}
 			]
 		},
@@ -120,36 +72,20 @@
 			"Npcs":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Npc": "Hideo",
-						"QuestType": 1
-					}
+					"Npc": "Hideo",
+					"QuestType": 1
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Npc": "Lonan",
-						"QuestType": 3
-					}
+					"Npc": "Lonan",
+					"QuestType": 3
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Npc": "Katherine",
-						"QuestType": 2
-					}
+					"Npc": "Katherine",
+					"QuestType": 2
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Npc": "Lonan",
-						"QuestType": 4
-					}
+					"Npc": "Lonan",
+					"QuestType": 4
 				}
 			]
 		}

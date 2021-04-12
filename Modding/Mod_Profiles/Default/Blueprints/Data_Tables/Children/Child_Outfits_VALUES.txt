@@ -6,174 +6,134 @@
 			"Outfits":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Materials":
-						[
-							"/Game/Materials/Clothes/Pants/Pants_Jeans/Pants_Jeans_Light_Blue.Pants_Jeans_Light_Blue",
-							"/Game/Materials/Clothes/Shoes/Sneakers/Sneakers_White.Sneakers_White",
-							"/Game/Materials/Clothes/Shoes/Sneakers/Sneakers_White.Sneakers_White",
-							"/Game/Materials/Clothes/Shirts/T_Shirt/TShirt_Blend_Design_Dragon_Blue.TShirt_Blend_Design_Dragon_Blue",
-							"None",
-							"None",
-							"None",
-							"None"
-						]
-					}
+					"Materials":
+					[
+						"/Game/Materials/Clothes/Pants/Pants_Jeans/Pants_Jeans_Light_Blue.Pants_Jeans_Light_Blue",
+						"/Game/Materials/Clothes/Shoes/Sneakers/Sneakers_White.Sneakers_White",
+						"/Game/Materials/Clothes/Shoes/Sneakers/Sneakers_White.Sneakers_White",
+						"/Game/Materials/Clothes/Shirts/T_Shirt/TShirt_Blend_Design_Dragon_Blue.TShirt_Blend_Design_Dragon_Blue",
+						"None",
+						"None",
+						"None",
+						"None"
+					]
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Materials":
-						[
-							"/Game/Materials/Clothes/Pants/Pants_Jeans/Pants_Jeans_Purple.Pants_Jeans_Purple",
-							"/Game/Materials/Clothes/Shoes/Sneakers/Sneakers_White.Sneakers_White",
-							"/Game/Materials/Clothes/Shoes/Sneakers/Sneakers_Purple.Sneakers_Purple",
-							"/Game/Materials/Clothes/Shirts/T_Shirt/TShirt_Blend_Design_Pixel_Bat.TShirt_Blend_Design_Pixel_Bat",
-							"None",
-							"None",
-							"None",
-							"None"
-						]
-					}
+					"Materials":
+					[
+						"/Game/Materials/Clothes/Pants/Pants_Jeans/Pants_Jeans_Purple.Pants_Jeans_Purple",
+						"/Game/Materials/Clothes/Shoes/Sneakers/Sneakers_White.Sneakers_White",
+						"/Game/Materials/Clothes/Shoes/Sneakers/Sneakers_Purple.Sneakers_Purple",
+						"/Game/Materials/Clothes/Shirts/T_Shirt/TShirt_Blend_Design_Pixel_Bat.TShirt_Blend_Design_Pixel_Bat",
+						"None",
+						"None",
+						"None",
+						"None"
+					]
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Materials":
-						[
-							"/Game/Materials/Clothes/Pants/Pants_Jeans/Pants_Jeans_Pink.Pants_Jeans_Pink",
-							"/Game/Materials/Clothes/Shoes/Sneakers/Sneakers_White.Sneakers_White",
-							"/Game/Materials/Clothes/Shoes/Sneakers/Sneakers_Pink.Sneakers_Pink",
-							"/Game/Materials/Clothes/Shirts/T_Shirt/TShirt_Blend_Design_Strawberries.TShirt_Blend_Design_Strawberries",
-							"None",
-							"None",
-							"None",
-							"None"
-						]
-					}
+					"Materials":
+					[
+						"/Game/Materials/Clothes/Pants/Pants_Jeans/Pants_Jeans_Pink.Pants_Jeans_Pink",
+						"/Game/Materials/Clothes/Shoes/Sneakers/Sneakers_White.Sneakers_White",
+						"/Game/Materials/Clothes/Shoes/Sneakers/Sneakers_Pink.Sneakers_Pink",
+						"/Game/Materials/Clothes/Shirts/T_Shirt/TShirt_Blend_Design_Strawberries.TShirt_Blend_Design_Strawberries",
+						"None",
+						"None",
+						"None",
+						"None"
+					]
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Materials":
-						[
-							"/Game/Materials/Clothes/Pants/Pants_Jeans/Pants_Jeans_Grey.Pants_Jeans_Grey",
-							"/Game/Materials/Clothes/Shoes/Sneakers/Sneakers_White.Sneakers_White",
-							"/Game/Materials/Clothes/Shoes/Sneakers/Sneakers_White.Sneakers_White",
-							"/Game/Materials/Clothes/Shirts/T_Shirt/TShirt_Blend_Design_Kitty.TShirt_Blend_Design_Kitty",
-							"None",
-							"None",
-							"None",
-							"None"
-						]
-					}
+					"Materials":
+					[
+						"/Game/Materials/Clothes/Pants/Pants_Jeans/Pants_Jeans_Grey.Pants_Jeans_Grey",
+						"/Game/Materials/Clothes/Shoes/Sneakers/Sneakers_White.Sneakers_White",
+						"/Game/Materials/Clothes/Shoes/Sneakers/Sneakers_White.Sneakers_White",
+						"/Game/Materials/Clothes/Shirts/T_Shirt/TShirt_Blend_Design_Kitty.TShirt_Blend_Design_Kitty",
+						"None",
+						"None",
+						"None",
+						"None"
+					]
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Materials":
-						[
-							"/Game/Materials/Clothes/Pants/Pants_Jeans/Pants_Jeans_Dark_Green.Pants_Jeans_Dark_Green",
-							"/Game/Materials/Clothes/Shoes/Sneakers/Sneakers_Green.Sneakers_Green",
-							"/Game/Materials/Clothes/Shoes/Sneakers/Sneakers_White.Sneakers_White",
-							"/Game/Materials/Clothes/Shirts/T_Shirt/TShirt_Blend_Design_Dino.TShirt_Blend_Design_Dino",
-							"None",
-							"None",
-							"None",
-							"None"
-						]
-					}
+					"Materials":
+					[
+						"/Game/Materials/Clothes/Pants/Pants_Jeans/Pants_Jeans_Dark_Green.Pants_Jeans_Dark_Green",
+						"/Game/Materials/Clothes/Shoes/Sneakers/Sneakers_Green.Sneakers_Green",
+						"/Game/Materials/Clothes/Shoes/Sneakers/Sneakers_White.Sneakers_White",
+						"/Game/Materials/Clothes/Shirts/T_Shirt/TShirt_Blend_Design_Dino.TShirt_Blend_Design_Dino",
+						"None",
+						"None",
+						"None",
+						"None"
+					]
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Materials":
-						[
-							"/Game/Materials/Clothes/Pants/Pants/Pants_Grey_Dark.Pants_Grey_Dark",
-							"/Game/Materials/Clothes/Shoes/Sneakers/Sneakers_Grey.Sneakers_Grey",
-							"/Game/Materials/Clothes/Shoes/Sneakers/Sneakers_White.Sneakers_White",
-							"/Game/Materials/Clothes/Shirts/T_Shirt/TShirt_Blend_Design_Dark_Grey_Stripes.TShirt_Blend_Design_Dark_Grey_Stripes",
-							"None",
-							"None",
-							"None",
-							"None"
-						]
-					}
+					"Materials":
+					[
+						"/Game/Materials/Clothes/Pants/Pants/Pants_Grey_Dark.Pants_Grey_Dark",
+						"/Game/Materials/Clothes/Shoes/Sneakers/Sneakers_Grey.Sneakers_Grey",
+						"/Game/Materials/Clothes/Shoes/Sneakers/Sneakers_White.Sneakers_White",
+						"/Game/Materials/Clothes/Shirts/T_Shirt/TShirt_Blend_Design_Dark_Grey_Stripes.TShirt_Blend_Design_Dark_Grey_Stripes",
+						"None",
+						"None",
+						"None",
+						"None"
+					]
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Materials":
-						[
-							"/Game/Materials/Clothes/Pants/Pants_Jeans/Pants_Jeans_Blue.Pants_Jeans_Blue",
-							"/Game/Materials/Clothes/Shoes/Sneakers/Sneakers_Black.Sneakers_Black",
-							"/Game/Materials/Clothes/Shoes/Sneakers/Sneakers_Light_Blue.Sneakers_Light_Blue",
-							"/Game/Materials/Clothes/Shirts/T_Shirt/TShirt_Blend_Design_Blue_Flames.TShirt_Blend_Design_Blue_Flames",
-							"None",
-							"None",
-							"None",
-							"None"
-						]
-					}
+					"Materials":
+					[
+						"/Game/Materials/Clothes/Pants/Pants_Jeans/Pants_Jeans_Blue.Pants_Jeans_Blue",
+						"/Game/Materials/Clothes/Shoes/Sneakers/Sneakers_Black.Sneakers_Black",
+						"/Game/Materials/Clothes/Shoes/Sneakers/Sneakers_Light_Blue.Sneakers_Light_Blue",
+						"/Game/Materials/Clothes/Shirts/T_Shirt/TShirt_Blend_Design_Blue_Flames.TShirt_Blend_Design_Blue_Flames",
+						"None",
+						"None",
+						"None",
+						"None"
+					]
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Materials":
-						[
-							"/Game/Materials/Clothes/Pants/Pants_Jeans/Pants_Jeans_Orange.Pants_Jeans_Orange",
-							"/Game/Materials/Clothes/Shoes/Sneakers/Sneakers_Black.Sneakers_Black",
-							"/Game/Materials/Clothes/Shoes/Sneakers/Sneakers_Green.Sneakers_Green",
-							"/Game/Materials/Clothes/Shirts/T_Shirt/TShirt_Blend_Jounce.TShirt_Blend_Jounce",
-							"None",
-							"None",
-							"None",
-							"None"
-						]
-					}
+					"Materials":
+					[
+						"/Game/Materials/Clothes/Pants/Pants_Jeans/Pants_Jeans_Orange.Pants_Jeans_Orange",
+						"/Game/Materials/Clothes/Shoes/Sneakers/Sneakers_Black.Sneakers_Black",
+						"/Game/Materials/Clothes/Shoes/Sneakers/Sneakers_Green.Sneakers_Green",
+						"/Game/Materials/Clothes/Shirts/T_Shirt/TShirt_Blend_Jounce.TShirt_Blend_Jounce",
+						"None",
+						"None",
+						"None",
+						"None"
+					]
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Materials":
-						[
-							"/Game/Materials/Clothes/Pants/Pants_Jeans/Pants_Jeans_Teal.Pants_Jeans_Teal",
-							"/Game/Materials/Clothes/Shoes/Sneakers/Sneakers_White.Sneakers_White",
-							"/Game/Materials/Clothes/Shoes/Sneakers/Sneakers_White.Sneakers_White",
-							"/Game/Materials/Clothes/Shirts/T_Shirt/TShirt_Blend_Design_Winter_Snow.TShirt_Blend_Design_Winter_Snow",
-							"None",
-							"None",
-							"None",
-							"None"
-						]
-					}
+					"Materials":
+					[
+						"/Game/Materials/Clothes/Pants/Pants_Jeans/Pants_Jeans_Teal.Pants_Jeans_Teal",
+						"/Game/Materials/Clothes/Shoes/Sneakers/Sneakers_White.Sneakers_White",
+						"/Game/Materials/Clothes/Shoes/Sneakers/Sneakers_White.Sneakers_White",
+						"/Game/Materials/Clothes/Shirts/T_Shirt/TShirt_Blend_Design_Winter_Snow.TShirt_Blend_Design_Winter_Snow",
+						"None",
+						"None",
+						"None",
+						"None"
+					]
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Materials":
-						[
-							"/Game/Materials/Clothes/Pants/Pants_Jeans/Pants_Jeans_Red.Pants_Jeans_Red",
-							"/Game/Materials/Clothes/Shoes/Sneakers/Sneakers_White.Sneakers_White",
-							"/Game/Materials/Clothes/Shoes/Sneakers/Sneakers_White.Sneakers_White",
-							"/Game/Materials/Clothes/Shirts/T_Shirt/TShirt_Blend_Design_Red_Skull.TShirt_Blend_Design_Red_Skull",
-							"None",
-							"None",
-							"None",
-							"None"
-						]
-					}
+					"Materials":
+					[
+						"/Game/Materials/Clothes/Pants/Pants_Jeans/Pants_Jeans_Red.Pants_Jeans_Red",
+						"/Game/Materials/Clothes/Shoes/Sneakers/Sneakers_White.Sneakers_White",
+						"/Game/Materials/Clothes/Shoes/Sneakers/Sneakers_White.Sneakers_White",
+						"/Game/Materials/Clothes/Shirts/T_Shirt/TShirt_Blend_Design_Red_Skull.TShirt_Blend_Design_Red_Skull",
+						"None",
+						"None",
+						"None",
+						"None"
+					]
 				}
 			]
 		},
@@ -182,184 +142,144 @@
 			"Outfits":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Materials":
-						[
-							"/Game/Materials/Clothes/Pants/Pants_Jeans/Pants_Jeans_Light_Blue.Pants_Jeans_Light_Blue",
-							"/Game/Materials/Clothes/Shoes/Sneakers/Sneakers_White.Sneakers_White",
-							"/Game/Materials/Clothes/Shoes/Sneakers/Sneakers_White.Sneakers_White",
-							"/Game/Materials/Clothes/Shirts/T_Shirt/TShirt_Blend_Design_Dragon_Blue.TShirt_Blend_Design_Dragon_Blue",
-							"None",
-							"None",
-							"None",
-							"None",
-							"/Game/Materials/Patterns/Rugs_Wallpaper/Carpet/Carpet_Black.Carpet_Black"
-						]
-					}
+					"Materials":
+					[
+						"/Game/Materials/Clothes/Pants/Pants_Jeans/Pants_Jeans_Light_Blue.Pants_Jeans_Light_Blue",
+						"/Game/Materials/Clothes/Shoes/Sneakers/Sneakers_White.Sneakers_White",
+						"/Game/Materials/Clothes/Shoes/Sneakers/Sneakers_White.Sneakers_White",
+						"/Game/Materials/Clothes/Shirts/T_Shirt/TShirt_Blend_Design_Dragon_Blue.TShirt_Blend_Design_Dragon_Blue",
+						"None",
+						"None",
+						"None",
+						"None",
+						"/Game/Materials/Patterns/Rugs_Wallpaper/Carpet/Carpet_Black.Carpet_Black"
+					]
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Materials":
-						[
-							"/Game/Materials/Clothes/Pants/Pants_Jeans/Pants_Jeans_Purple.Pants_Jeans_Purple",
-							"/Game/Materials/Clothes/Shoes/Sneakers/Sneakers_White.Sneakers_White",
-							"/Game/Materials/Clothes/Shoes/Sneakers/Sneakers_Purple.Sneakers_Purple",
-							"/Game/Materials/Clothes/Shirts/T_Shirt/TShirt_Blend_Design_Pixel_Bat.TShirt_Blend_Design_Pixel_Bat",
-							"None",
-							"None",
-							"None",
-							"None",
-							"/Game/Materials/Patterns/Rugs_Wallpaper/Carpet/Carpet_Black.Carpet_Black"
-						]
-					}
+					"Materials":
+					[
+						"/Game/Materials/Clothes/Pants/Pants_Jeans/Pants_Jeans_Purple.Pants_Jeans_Purple",
+						"/Game/Materials/Clothes/Shoes/Sneakers/Sneakers_White.Sneakers_White",
+						"/Game/Materials/Clothes/Shoes/Sneakers/Sneakers_Purple.Sneakers_Purple",
+						"/Game/Materials/Clothes/Shirts/T_Shirt/TShirt_Blend_Design_Pixel_Bat.TShirt_Blend_Design_Pixel_Bat",
+						"None",
+						"None",
+						"None",
+						"None",
+						"/Game/Materials/Patterns/Rugs_Wallpaper/Carpet/Carpet_Black.Carpet_Black"
+					]
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Materials":
-						[
-							"/Game/Materials/Clothes/Pants/Pants_Jeans/Pants_Jeans_Pink.Pants_Jeans_Pink",
-							"/Game/Materials/Clothes/Shoes/Sneakers/Sneakers_White.Sneakers_White",
-							"/Game/Materials/Clothes/Shoes/Sneakers/Sneakers_Pink.Sneakers_Pink",
-							"/Game/Materials/Clothes/Shirts/T_Shirt/TShirt_Blend_Design_Strawberries.TShirt_Blend_Design_Strawberries",
-							"None",
-							"None",
-							"None",
-							"None",
-							"/Game/Materials/Patterns/Rugs_Wallpaper/Carpet/Carpet_Black.Carpet_Black"
-						]
-					}
+					"Materials":
+					[
+						"/Game/Materials/Clothes/Pants/Pants_Jeans/Pants_Jeans_Pink.Pants_Jeans_Pink",
+						"/Game/Materials/Clothes/Shoes/Sneakers/Sneakers_White.Sneakers_White",
+						"/Game/Materials/Clothes/Shoes/Sneakers/Sneakers_Pink.Sneakers_Pink",
+						"/Game/Materials/Clothes/Shirts/T_Shirt/TShirt_Blend_Design_Strawberries.TShirt_Blend_Design_Strawberries",
+						"None",
+						"None",
+						"None",
+						"None",
+						"/Game/Materials/Patterns/Rugs_Wallpaper/Carpet/Carpet_Black.Carpet_Black"
+					]
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Materials":
-						[
-							"/Game/Materials/Clothes/Pants/Pants_Jeans/Pants_Jeans_Grey.Pants_Jeans_Grey",
-							"/Game/Materials/Clothes/Shoes/Sneakers/Sneakers_White.Sneakers_White",
-							"/Game/Materials/Clothes/Shoes/Sneakers/Sneakers_White.Sneakers_White",
-							"/Game/Materials/Clothes/Shirts/T_Shirt/TShirt_Blend_Design_Kitty.TShirt_Blend_Design_Kitty",
-							"None",
-							"None",
-							"None",
-							"None",
-							"/Game/Materials/Patterns/Rugs_Wallpaper/Carpet/Carpet_Black.Carpet_Black"
-						]
-					}
+					"Materials":
+					[
+						"/Game/Materials/Clothes/Pants/Pants_Jeans/Pants_Jeans_Grey.Pants_Jeans_Grey",
+						"/Game/Materials/Clothes/Shoes/Sneakers/Sneakers_White.Sneakers_White",
+						"/Game/Materials/Clothes/Shoes/Sneakers/Sneakers_White.Sneakers_White",
+						"/Game/Materials/Clothes/Shirts/T_Shirt/TShirt_Blend_Design_Kitty.TShirt_Blend_Design_Kitty",
+						"None",
+						"None",
+						"None",
+						"None",
+						"/Game/Materials/Patterns/Rugs_Wallpaper/Carpet/Carpet_Black.Carpet_Black"
+					]
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Materials":
-						[
-							"/Game/Materials/Clothes/Pants/Pants_Jeans/Pants_Jeans_Dark_Green.Pants_Jeans_Dark_Green",
-							"/Game/Materials/Clothes/Shoes/Sneakers/Sneakers_Green.Sneakers_Green",
-							"/Game/Materials/Clothes/Shoes/Sneakers/Sneakers_White.Sneakers_White",
-							"/Game/Materials/Clothes/Shirts/T_Shirt/TShirt_Blend_Design_Dino.TShirt_Blend_Design_Dino",
-							"None",
-							"None",
-							"None",
-							"None",
-							"/Game/Materials/Patterns/Rugs_Wallpaper/Carpet/Carpet_Black.Carpet_Black"
-						]
-					}
+					"Materials":
+					[
+						"/Game/Materials/Clothes/Pants/Pants_Jeans/Pants_Jeans_Dark_Green.Pants_Jeans_Dark_Green",
+						"/Game/Materials/Clothes/Shoes/Sneakers/Sneakers_Green.Sneakers_Green",
+						"/Game/Materials/Clothes/Shoes/Sneakers/Sneakers_White.Sneakers_White",
+						"/Game/Materials/Clothes/Shirts/T_Shirt/TShirt_Blend_Design_Dino.TShirt_Blend_Design_Dino",
+						"None",
+						"None",
+						"None",
+						"None",
+						"/Game/Materials/Patterns/Rugs_Wallpaper/Carpet/Carpet_Black.Carpet_Black"
+					]
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Materials":
-						[
-							"/Game/Materials/Clothes/Pants/Pants/Pants_Grey_Dark.Pants_Grey_Dark",
-							"/Game/Materials/Clothes/Shoes/Sneakers/Sneakers_Grey.Sneakers_Grey",
-							"/Game/Materials/Clothes/Shoes/Sneakers/Sneakers_White.Sneakers_White",
-							"/Game/Materials/Clothes/Shirts/T_Shirt/TShirt_Blend_Design_Dark_Grey_Stripes.TShirt_Blend_Design_Dark_Grey_Stripes",
-							"None",
-							"None",
-							"None",
-							"None",
-							"/Game/Materials/Patterns/Rugs_Wallpaper/Carpet/Carpet_Black.Carpet_Black"
-						]
-					}
+					"Materials":
+					[
+						"/Game/Materials/Clothes/Pants/Pants/Pants_Grey_Dark.Pants_Grey_Dark",
+						"/Game/Materials/Clothes/Shoes/Sneakers/Sneakers_Grey.Sneakers_Grey",
+						"/Game/Materials/Clothes/Shoes/Sneakers/Sneakers_White.Sneakers_White",
+						"/Game/Materials/Clothes/Shirts/T_Shirt/TShirt_Blend_Design_Dark_Grey_Stripes.TShirt_Blend_Design_Dark_Grey_Stripes",
+						"None",
+						"None",
+						"None",
+						"None",
+						"/Game/Materials/Patterns/Rugs_Wallpaper/Carpet/Carpet_Black.Carpet_Black"
+					]
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Materials":
-						[
-							"/Game/Materials/Clothes/Pants/Pants_Jeans/Pants_Jeans_Blue.Pants_Jeans_Blue",
-							"/Game/Materials/Clothes/Shoes/Sneakers/Sneakers_Black.Sneakers_Black",
-							"/Game/Materials/Clothes/Shoes/Sneakers/Sneakers_Light_Blue.Sneakers_Light_Blue",
-							"/Game/Materials/Clothes/Shirts/T_Shirt/TShirt_Blend_Design_Blue_Flames.TShirt_Blend_Design_Blue_Flames",
-							"None",
-							"None",
-							"None",
-							"None",
-							"/Game/Materials/Patterns/Rugs_Wallpaper/Carpet/Carpet_Black.Carpet_Black"
-						]
-					}
+					"Materials":
+					[
+						"/Game/Materials/Clothes/Pants/Pants_Jeans/Pants_Jeans_Blue.Pants_Jeans_Blue",
+						"/Game/Materials/Clothes/Shoes/Sneakers/Sneakers_Black.Sneakers_Black",
+						"/Game/Materials/Clothes/Shoes/Sneakers/Sneakers_Light_Blue.Sneakers_Light_Blue",
+						"/Game/Materials/Clothes/Shirts/T_Shirt/TShirt_Blend_Design_Blue_Flames.TShirt_Blend_Design_Blue_Flames",
+						"None",
+						"None",
+						"None",
+						"None",
+						"/Game/Materials/Patterns/Rugs_Wallpaper/Carpet/Carpet_Black.Carpet_Black"
+					]
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Materials":
-						[
-							"/Game/Materials/Clothes/Pants/Pants_Jeans/Pants_Jeans_Orange.Pants_Jeans_Orange",
-							"/Game/Materials/Clothes/Shoes/Sneakers/Sneakers_Black.Sneakers_Black",
-							"/Game/Materials/Clothes/Shoes/Sneakers/Sneakers_Green.Sneakers_Green",
-							"/Game/Materials/Clothes/Shirts/T_Shirt/TShirt_Blend_Jounce.TShirt_Blend_Jounce",
-							"None",
-							"None",
-							"None",
-							"None",
-							"/Game/Materials/Patterns/Rugs_Wallpaper/Carpet/Carpet_Black.Carpet_Black"
-						]
-					}
+					"Materials":
+					[
+						"/Game/Materials/Clothes/Pants/Pants_Jeans/Pants_Jeans_Orange.Pants_Jeans_Orange",
+						"/Game/Materials/Clothes/Shoes/Sneakers/Sneakers_Black.Sneakers_Black",
+						"/Game/Materials/Clothes/Shoes/Sneakers/Sneakers_Green.Sneakers_Green",
+						"/Game/Materials/Clothes/Shirts/T_Shirt/TShirt_Blend_Jounce.TShirt_Blend_Jounce",
+						"None",
+						"None",
+						"None",
+						"None",
+						"/Game/Materials/Patterns/Rugs_Wallpaper/Carpet/Carpet_Black.Carpet_Black"
+					]
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Materials":
-						[
-							"/Game/Materials/Clothes/Pants/Pants_Jeans/Pants_Jeans_Teal.Pants_Jeans_Teal",
-							"/Game/Materials/Clothes/Shoes/Sneakers/Sneakers_White.Sneakers_White",
-							"/Game/Materials/Clothes/Shoes/Sneakers/Sneakers_White.Sneakers_White",
-							"/Game/Materials/Clothes/Shirts/T_Shirt/TShirt_Blend_Design_Winter_Snow.TShirt_Blend_Design_Winter_Snow",
-							"None",
-							"None",
-							"None",
-							"None",
-							"/Game/Materials/Patterns/Rugs_Wallpaper/Carpet/Carpet_Black.Carpet_Black"
-						]
-					}
+					"Materials":
+					[
+						"/Game/Materials/Clothes/Pants/Pants_Jeans/Pants_Jeans_Teal.Pants_Jeans_Teal",
+						"/Game/Materials/Clothes/Shoes/Sneakers/Sneakers_White.Sneakers_White",
+						"/Game/Materials/Clothes/Shoes/Sneakers/Sneakers_White.Sneakers_White",
+						"/Game/Materials/Clothes/Shirts/T_Shirt/TShirt_Blend_Design_Winter_Snow.TShirt_Blend_Design_Winter_Snow",
+						"None",
+						"None",
+						"None",
+						"None",
+						"/Game/Materials/Patterns/Rugs_Wallpaper/Carpet/Carpet_Black.Carpet_Black"
+					]
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Materials":
-						[
-							"/Game/Materials/Clothes/Pants/Pants_Jeans/Pants_Jeans_Red.Pants_Jeans_Red",
-							"/Game/Materials/Clothes/Shoes/Sneakers/Sneakers_White.Sneakers_White",
-							"/Game/Materials/Clothes/Shoes/Sneakers/Sneakers_White.Sneakers_White",
-							"/Game/Materials/Clothes/Shirts/T_Shirt/TShirt_Blend_Design_Red_Skull.TShirt_Blend_Design_Red_Skull",
-							"None",
-							"None",
-							"None",
-							"None",
-							"/Game/Materials/Patterns/Rugs_Wallpaper/Carpet/Carpet_Black.Carpet_Black"
-						]
-					}
+					"Materials":
+					[
+						"/Game/Materials/Clothes/Pants/Pants_Jeans/Pants_Jeans_Red.Pants_Jeans_Red",
+						"/Game/Materials/Clothes/Shoes/Sneakers/Sneakers_White.Sneakers_White",
+						"/Game/Materials/Clothes/Shoes/Sneakers/Sneakers_White.Sneakers_White",
+						"/Game/Materials/Clothes/Shirts/T_Shirt/TShirt_Blend_Design_Red_Skull.TShirt_Blend_Design_Red_Skull",
+						"None",
+						"None",
+						"None",
+						"None",
+						"/Game/Materials/Patterns/Rugs_Wallpaper/Carpet/Carpet_Black.Carpet_Black"
+					]
 				}
 			]
 		},
@@ -368,194 +288,154 @@
 			"Outfits":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Materials":
-						[
-							"/Game/Materials/Clothes/Shirts/T_Shirt/TShirt_Blend_Sunflower.TShirt_Blend_Sunflower",
-							"/Game/Materials/Clothes/Skirts/Long_Skirt/Long_Skirt_Blend_Coffee_Bright.Long_Skirt_Blend_Coffee_Bright",
-							"/Game/Materials/Clothes/Shoes/Sneakers/Sneakers_Red.Sneakers_Red",
-							"/Game/Materials/Clothes/Shoes/Sneakers/Sneakers_White.Sneakers_White",
-							"None",
-							"/Game/Materials/Patterns/Rugs_Wallpaper/Carpet/Carpet_White.Carpet_White",
-							"None",
-							"None",
-							"None",
-							"None"
-						]
-					}
+					"Materials":
+					[
+						"/Game/Materials/Clothes/Shirts/T_Shirt/TShirt_Blend_Sunflower.TShirt_Blend_Sunflower",
+						"/Game/Materials/Clothes/Skirts/Long_Skirt/Long_Skirt_Blend_Coffee_Bright.Long_Skirt_Blend_Coffee_Bright",
+						"/Game/Materials/Clothes/Shoes/Sneakers/Sneakers_Red.Sneakers_Red",
+						"/Game/Materials/Clothes/Shoes/Sneakers/Sneakers_White.Sneakers_White",
+						"None",
+						"/Game/Materials/Patterns/Rugs_Wallpaper/Carpet/Carpet_White.Carpet_White",
+						"None",
+						"None",
+						"None",
+						"None"
+					]
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Materials":
-						[
-							"/Game/Materials/Clothes/Shirts/T_Shirt/TShirt_Blend_Watermelon.TShirt_Blend_Watermelon",
-							"/Game/Materials/Clothes/Skirts/Long_Skirt/Long_Skirt_Blend_Blue.Long_Skirt_Blend_Blue",
-							"/Game/Materials/Clothes/Shoes/Sneakers/Sneakers_Purple.Sneakers_Purple",
-							"/Game/Materials/Clothes/Shoes/Sneakers/Sneakers_White.Sneakers_White",
-							"None",
-							"/Game/Materials/Patterns/Rugs_Wallpaper/Carpet/Carpet_White.Carpet_White",
-							"None",
-							"None",
-							"None",
-							"None"
-						]
-					}
+					"Materials":
+					[
+						"/Game/Materials/Clothes/Shirts/T_Shirt/TShirt_Blend_Watermelon.TShirt_Blend_Watermelon",
+						"/Game/Materials/Clothes/Skirts/Long_Skirt/Long_Skirt_Blend_Blue.Long_Skirt_Blend_Blue",
+						"/Game/Materials/Clothes/Shoes/Sneakers/Sneakers_Purple.Sneakers_Purple",
+						"/Game/Materials/Clothes/Shoes/Sneakers/Sneakers_White.Sneakers_White",
+						"None",
+						"/Game/Materials/Patterns/Rugs_Wallpaper/Carpet/Carpet_White.Carpet_White",
+						"None",
+						"None",
+						"None",
+						"None"
+					]
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Materials":
-						[
-							"/Game/Materials/Clothes/Shirts/T_Shirt/TShirt_Blend_Sunflower.TShirt_Blend_Sunflower",
-							"/Game/Materials/Clothes/Skirts/Long_Skirt/Long_Skirt_Blend_Coffee_Bright.Long_Skirt_Blend_Coffee_Bright",
-							"/Game/Materials/Clothes/Shoes/Sneakers/Sneakers_Red.Sneakers_Red",
-							"/Game/Materials/Clothes/Shoes/Sneakers/Sneakers_White.Sneakers_White",
-							"None",
-							"/Game/Materials/Patterns/Rugs_Wallpaper/Carpet/Carpet_White.Carpet_White",
-							"None",
-							"None",
-							"None",
-							"None"
-						]
-					}
+					"Materials":
+					[
+						"/Game/Materials/Clothes/Shirts/T_Shirt/TShirt_Blend_Sunflower.TShirt_Blend_Sunflower",
+						"/Game/Materials/Clothes/Skirts/Long_Skirt/Long_Skirt_Blend_Coffee_Bright.Long_Skirt_Blend_Coffee_Bright",
+						"/Game/Materials/Clothes/Shoes/Sneakers/Sneakers_Red.Sneakers_Red",
+						"/Game/Materials/Clothes/Shoes/Sneakers/Sneakers_White.Sneakers_White",
+						"None",
+						"/Game/Materials/Patterns/Rugs_Wallpaper/Carpet/Carpet_White.Carpet_White",
+						"None",
+						"None",
+						"None",
+						"None"
+					]
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Materials":
-						[
-							"/Game/Materials/Clothes/Shirts/T_Shirt/TShirt_Blend_Design_Wolves.TShirt_Blend_Design_Wolves",
-							"/Game/Materials/Clothes/Shirts/Collared_Shirt_Open_Long/Collared_Shirt_Long_Plaid_Blue.Collared_Shirt_Long_Plaid_Blue",
-							"/Game/Materials/Clothes/Shoes/Sneakers/Sneakers_Purple.Sneakers_Purple",
-							"/Game/Materials/Clothes/Shoes/Sneakers/Sneakers_White.Sneakers_White",
-							"None",
-							"/Game/Materials/Patterns/Rugs_Wallpaper/Carpet/Carpet_White.Carpet_White",
-							"None",
-							"None",
-							"None",
-							"None"
-						]
-					}
+					"Materials":
+					[
+						"/Game/Materials/Clothes/Shirts/T_Shirt/TShirt_Blend_Design_Wolves.TShirt_Blend_Design_Wolves",
+						"/Game/Materials/Clothes/Shirts/Collared_Shirt_Open_Long/Collared_Shirt_Long_Plaid_Blue.Collared_Shirt_Long_Plaid_Blue",
+						"/Game/Materials/Clothes/Shoes/Sneakers/Sneakers_Purple.Sneakers_Purple",
+						"/Game/Materials/Clothes/Shoes/Sneakers/Sneakers_White.Sneakers_White",
+						"None",
+						"/Game/Materials/Patterns/Rugs_Wallpaper/Carpet/Carpet_White.Carpet_White",
+						"None",
+						"None",
+						"None",
+						"None"
+					]
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Materials":
-						[
-							"/Game/Materials/Clothes/Shirts/T_Shirt/TShirt_Blend_Design_Strawberries.TShirt_Blend_Design_Strawberries",
-							"/Game/Materials/Clothes/Skirts/Long_Skirt/Long_Skirt_Blend_Pink.Long_Skirt_Blend_Pink",
-							"/Game/Materials/Clothes/Shoes/Sneakers/Sneakers_Pink.Sneakers_Pink",
-							"/Game/Materials/Clothes/Shoes/Sneakers/Sneakers_White.Sneakers_White",
-							"None",
-							"/Game/Materials/Patterns/Rugs_Wallpaper/Carpet/Carpet_White.Carpet_White",
-							"None",
-							"None",
-							"None",
-							"None"
-						]
-					}
+					"Materials":
+					[
+						"/Game/Materials/Clothes/Shirts/T_Shirt/TShirt_Blend_Design_Strawberries.TShirt_Blend_Design_Strawberries",
+						"/Game/Materials/Clothes/Skirts/Long_Skirt/Long_Skirt_Blend_Pink.Long_Skirt_Blend_Pink",
+						"/Game/Materials/Clothes/Shoes/Sneakers/Sneakers_Pink.Sneakers_Pink",
+						"/Game/Materials/Clothes/Shoes/Sneakers/Sneakers_White.Sneakers_White",
+						"None",
+						"/Game/Materials/Patterns/Rugs_Wallpaper/Carpet/Carpet_White.Carpet_White",
+						"None",
+						"None",
+						"None",
+						"None"
+					]
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Materials":
-						[
-							"/Game/Materials/Clothes/Shirts/T_Shirt/TShirt_Blend_Design_Ribs.TShirt_Blend_Design_Ribs",
-							"/Game/Materials/Clothes/Skirts/Long_Skirt/Long_Skirt_Blend_Black.Long_Skirt_Blend_Black",
-							"/Game/Materials/Clothes/Shoes/Sneakers/Sneakers_Black.Sneakers_Black",
-							"/Game/Materials/Clothes/Shoes/Sneakers/Sneakers_White.Sneakers_White",
-							"None",
-							"/Game/Materials/Patterns/Rugs_Wallpaper/Carpet/Carpet_White.Carpet_White",
-							"None",
-							"None",
-							"None",
-							"None"
-						]
-					}
+					"Materials":
+					[
+						"/Game/Materials/Clothes/Shirts/T_Shirt/TShirt_Blend_Design_Ribs.TShirt_Blend_Design_Ribs",
+						"/Game/Materials/Clothes/Skirts/Long_Skirt/Long_Skirt_Blend_Black.Long_Skirt_Blend_Black",
+						"/Game/Materials/Clothes/Shoes/Sneakers/Sneakers_Black.Sneakers_Black",
+						"/Game/Materials/Clothes/Shoes/Sneakers/Sneakers_White.Sneakers_White",
+						"None",
+						"/Game/Materials/Patterns/Rugs_Wallpaper/Carpet/Carpet_White.Carpet_White",
+						"None",
+						"None",
+						"None",
+						"None"
+					]
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Materials":
-						[
-							"/Game/Materials/Clothes/Shirts/T_Shirt/TShirt_Blend_Design_Red_Stripes.TShirt_Blend_Design_Red_Stripes",
-							"/Game/Materials/Clothes/Skirts/Long_Skirt/Long_Skirt_Blend_Dark_Red.Long_Skirt_Blend_Dark_Red",
-							"/Game/Materials/Clothes/Shoes/Sneakers/Sneakers_Dark_Red.Sneakers_Dark_Red",
-							"/Game/Materials/Clothes/Shoes/Sneakers/Sneakers_White.Sneakers_White",
-							"None",
-							"/Game/Materials/Patterns/Rugs_Wallpaper/Carpet/Carpet_White.Carpet_White",
-							"None",
-							"None",
-							"None",
-							"None"
-						]
-					}
+					"Materials":
+					[
+						"/Game/Materials/Clothes/Shirts/T_Shirt/TShirt_Blend_Design_Red_Stripes.TShirt_Blend_Design_Red_Stripes",
+						"/Game/Materials/Clothes/Skirts/Long_Skirt/Long_Skirt_Blend_Dark_Red.Long_Skirt_Blend_Dark_Red",
+						"/Game/Materials/Clothes/Shoes/Sneakers/Sneakers_Dark_Red.Sneakers_Dark_Red",
+						"/Game/Materials/Clothes/Shoes/Sneakers/Sneakers_White.Sneakers_White",
+						"None",
+						"/Game/Materials/Patterns/Rugs_Wallpaper/Carpet/Carpet_White.Carpet_White",
+						"None",
+						"None",
+						"None",
+						"None"
+					]
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Materials":
-						[
-							"/Game/Materials/Clothes/Shirts/T_Shirt/TShirt_Blend_Design_Pixel_Critter_Green.TShirt_Blend_Design_Pixel_Critter_Green",
-							"/Game/Materials/Clothes/Skirts/Long_Skirt/Long_Skirt_Blend_Green.Long_Skirt_Blend_Green",
-							"/Game/Materials/Clothes/Shoes/Sneakers/Sneakers_Green.Sneakers_Green",
-							"/Game/Materials/Clothes/Shoes/Sneakers/Sneakers_White.Sneakers_White",
-							"None",
-							"/Game/Materials/Patterns/Rugs_Wallpaper/Carpet/Carpet_White.Carpet_White",
-							"None",
-							"None",
-							"None",
-							"None"
-						]
-					}
+					"Materials":
+					[
+						"/Game/Materials/Clothes/Shirts/T_Shirt/TShirt_Blend_Design_Pixel_Critter_Green.TShirt_Blend_Design_Pixel_Critter_Green",
+						"/Game/Materials/Clothes/Skirts/Long_Skirt/Long_Skirt_Blend_Green.Long_Skirt_Blend_Green",
+						"/Game/Materials/Clothes/Shoes/Sneakers/Sneakers_Green.Sneakers_Green",
+						"/Game/Materials/Clothes/Shoes/Sneakers/Sneakers_White.Sneakers_White",
+						"None",
+						"/Game/Materials/Patterns/Rugs_Wallpaper/Carpet/Carpet_White.Carpet_White",
+						"None",
+						"None",
+						"None",
+						"None"
+					]
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Materials":
-						[
-							"/Game/Materials/Clothes/Shirts/T_Shirt/TShirt_Blend_Design_Fancy_Flower_Pink.TShirt_Blend_Design_Fancy_Flower_Pink",
-							"/Game/Materials/Clothes/Skirts/Long_Skirt/Long_Skirt_Blend_Magenta.Long_Skirt_Blend_Magenta",
-							"/Game/Materials/Clothes/Shoes/Sneakers/Sneakers_Magenta.Sneakers_Magenta",
-							"/Game/Materials/Clothes/Shoes/Sneakers/Sneakers_White.Sneakers_White",
-							"None",
-							"/Game/Materials/Patterns/Rugs_Wallpaper/Carpet/Carpet_White.Carpet_White",
-							"None",
-							"None",
-							"None",
-							"None"
-						]
-					}
+					"Materials":
+					[
+						"/Game/Materials/Clothes/Shirts/T_Shirt/TShirt_Blend_Design_Fancy_Flower_Pink.TShirt_Blend_Design_Fancy_Flower_Pink",
+						"/Game/Materials/Clothes/Skirts/Long_Skirt/Long_Skirt_Blend_Magenta.Long_Skirt_Blend_Magenta",
+						"/Game/Materials/Clothes/Shoes/Sneakers/Sneakers_Magenta.Sneakers_Magenta",
+						"/Game/Materials/Clothes/Shoes/Sneakers/Sneakers_White.Sneakers_White",
+						"None",
+						"/Game/Materials/Patterns/Rugs_Wallpaper/Carpet/Carpet_White.Carpet_White",
+						"None",
+						"None",
+						"None",
+						"None"
+					]
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Materials":
-						[
-							"/Game/Materials/Clothes/Shirts/T_Shirt/TShirt_Blend_Design_Dragon_Green.TShirt_Blend_Design_Dragon_Green",
-							"/Game/Materials/Clothes/Skirts/Long_Skirt/Long_Skirt_Blend_Green.Long_Skirt_Blend_Green",
-							"/Game/Materials/Clothes/Shoes/Sneakers/Sneakers_Dark_Green.Sneakers_Dark_Green",
-							"/Game/Materials/Clothes/Shoes/Sneakers/Sneakers_White.Sneakers_White",
-							"None",
-							"/Game/Materials/Patterns/Rugs_Wallpaper/Carpet/Carpet_White.Carpet_White",
-							"None",
-							"None",
-							"None",
-							"None"
-						]
-					}
+					"Materials":
+					[
+						"/Game/Materials/Clothes/Shirts/T_Shirt/TShirt_Blend_Design_Dragon_Green.TShirt_Blend_Design_Dragon_Green",
+						"/Game/Materials/Clothes/Skirts/Long_Skirt/Long_Skirt_Blend_Green.Long_Skirt_Blend_Green",
+						"/Game/Materials/Clothes/Shoes/Sneakers/Sneakers_Dark_Green.Sneakers_Dark_Green",
+						"/Game/Materials/Clothes/Shoes/Sneakers/Sneakers_White.Sneakers_White",
+						"None",
+						"/Game/Materials/Patterns/Rugs_Wallpaper/Carpet/Carpet_White.Carpet_White",
+						"None",
+						"None",
+						"None",
+						"None"
+					]
 				}
 			]
 		},
@@ -564,194 +444,154 @@
 			"Outfits":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Materials":
-						[
-							"/Game/Materials/Clothes/Shirts/T_Shirt/TShirt_Blend_Sunflower.TShirt_Blend_Sunflower",
-							"/Game/Materials/Clothes/Skirts/Long_Skirt/Long_Skirt_Blend_Coffee_Bright.Long_Skirt_Blend_Coffee_Bright",
-							"/Game/Materials/Clothes/Shoes/Sneakers/Sneakers_Red.Sneakers_Red",
-							"/Game/Materials/Clothes/Shoes/Sneakers/Sneakers_White.Sneakers_White",
-							"None",
-							"/Game/Materials/Patterns/Rugs_Wallpaper/Carpet/Carpet_White.Carpet_White",
-							"None",
-							"None",
-							"None",
-							"/Game/Materials/Patterns/Rugs_Wallpaper/Carpet/Carpet_Black.Carpet_Black"
-						]
-					}
+					"Materials":
+					[
+						"/Game/Materials/Clothes/Shirts/T_Shirt/TShirt_Blend_Sunflower.TShirt_Blend_Sunflower",
+						"/Game/Materials/Clothes/Skirts/Long_Skirt/Long_Skirt_Blend_Coffee_Bright.Long_Skirt_Blend_Coffee_Bright",
+						"/Game/Materials/Clothes/Shoes/Sneakers/Sneakers_Red.Sneakers_Red",
+						"/Game/Materials/Clothes/Shoes/Sneakers/Sneakers_White.Sneakers_White",
+						"None",
+						"/Game/Materials/Patterns/Rugs_Wallpaper/Carpet/Carpet_White.Carpet_White",
+						"None",
+						"None",
+						"None",
+						"/Game/Materials/Patterns/Rugs_Wallpaper/Carpet/Carpet_Black.Carpet_Black"
+					]
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Materials":
-						[
-							"/Game/Materials/Clothes/Shirts/T_Shirt/TShirt_Blend_Watermelon.TShirt_Blend_Watermelon",
-							"/Game/Materials/Clothes/Skirts/Long_Skirt/Long_Skirt_Blend_Blue.Long_Skirt_Blend_Blue",
-							"/Game/Materials/Clothes/Shoes/Sneakers/Sneakers_Purple.Sneakers_Purple",
-							"/Game/Materials/Clothes/Shoes/Sneakers/Sneakers_White.Sneakers_White",
-							"None",
-							"/Game/Materials/Patterns/Rugs_Wallpaper/Carpet/Carpet_White.Carpet_White",
-							"None",
-							"None",
-							"None",
-							"/Game/Materials/Patterns/Rugs_Wallpaper/Carpet/Carpet_Black.Carpet_Black"
-						]
-					}
+					"Materials":
+					[
+						"/Game/Materials/Clothes/Shirts/T_Shirt/TShirt_Blend_Watermelon.TShirt_Blend_Watermelon",
+						"/Game/Materials/Clothes/Skirts/Long_Skirt/Long_Skirt_Blend_Blue.Long_Skirt_Blend_Blue",
+						"/Game/Materials/Clothes/Shoes/Sneakers/Sneakers_Purple.Sneakers_Purple",
+						"/Game/Materials/Clothes/Shoes/Sneakers/Sneakers_White.Sneakers_White",
+						"None",
+						"/Game/Materials/Patterns/Rugs_Wallpaper/Carpet/Carpet_White.Carpet_White",
+						"None",
+						"None",
+						"None",
+						"/Game/Materials/Patterns/Rugs_Wallpaper/Carpet/Carpet_Black.Carpet_Black"
+					]
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Materials":
-						[
-							"/Game/Materials/Clothes/Shirts/T_Shirt/TShirt_Blend_Sunflower.TShirt_Blend_Sunflower",
-							"/Game/Materials/Clothes/Skirts/Long_Skirt/Long_Skirt_Blend_Coffee_Bright.Long_Skirt_Blend_Coffee_Bright",
-							"/Game/Materials/Clothes/Shoes/Sneakers/Sneakers_Red.Sneakers_Red",
-							"/Game/Materials/Clothes/Shoes/Sneakers/Sneakers_White.Sneakers_White",
-							"None",
-							"/Game/Materials/Patterns/Rugs_Wallpaper/Carpet/Carpet_White.Carpet_White",
-							"None",
-							"None",
-							"None",
-							"/Game/Materials/Patterns/Rugs_Wallpaper/Carpet/Carpet_Black.Carpet_Black"
-						]
-					}
+					"Materials":
+					[
+						"/Game/Materials/Clothes/Shirts/T_Shirt/TShirt_Blend_Sunflower.TShirt_Blend_Sunflower",
+						"/Game/Materials/Clothes/Skirts/Long_Skirt/Long_Skirt_Blend_Coffee_Bright.Long_Skirt_Blend_Coffee_Bright",
+						"/Game/Materials/Clothes/Shoes/Sneakers/Sneakers_Red.Sneakers_Red",
+						"/Game/Materials/Clothes/Shoes/Sneakers/Sneakers_White.Sneakers_White",
+						"None",
+						"/Game/Materials/Patterns/Rugs_Wallpaper/Carpet/Carpet_White.Carpet_White",
+						"None",
+						"None",
+						"None",
+						"/Game/Materials/Patterns/Rugs_Wallpaper/Carpet/Carpet_Black.Carpet_Black"
+					]
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Materials":
-						[
-							"/Game/Materials/Clothes/Shirts/T_Shirt/TShirt_Blend_Design_Wolves.TShirt_Blend_Design_Wolves",
-							"/Game/Materials/Clothes/Shirts/Collared_Shirt_Open_Long/Collared_Shirt_Long_Plaid_Blue.Collared_Shirt_Long_Plaid_Blue",
-							"/Game/Materials/Clothes/Shoes/Sneakers/Sneakers_Purple.Sneakers_Purple",
-							"/Game/Materials/Clothes/Shoes/Sneakers/Sneakers_White.Sneakers_White",
-							"None",
-							"/Game/Materials/Patterns/Rugs_Wallpaper/Carpet/Carpet_White.Carpet_White",
-							"None",
-							"None",
-							"None",
-							"/Game/Materials/Patterns/Rugs_Wallpaper/Carpet/Carpet_Black.Carpet_Black"
-						]
-					}
+					"Materials":
+					[
+						"/Game/Materials/Clothes/Shirts/T_Shirt/TShirt_Blend_Design_Wolves.TShirt_Blend_Design_Wolves",
+						"/Game/Materials/Clothes/Shirts/Collared_Shirt_Open_Long/Collared_Shirt_Long_Plaid_Blue.Collared_Shirt_Long_Plaid_Blue",
+						"/Game/Materials/Clothes/Shoes/Sneakers/Sneakers_Purple.Sneakers_Purple",
+						"/Game/Materials/Clothes/Shoes/Sneakers/Sneakers_White.Sneakers_White",
+						"None",
+						"/Game/Materials/Patterns/Rugs_Wallpaper/Carpet/Carpet_White.Carpet_White",
+						"None",
+						"None",
+						"None",
+						"/Game/Materials/Patterns/Rugs_Wallpaper/Carpet/Carpet_Black.Carpet_Black"
+					]
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Materials":
-						[
-							"/Game/Materials/Clothes/Shirts/T_Shirt/TShirt_Blend_Design_Strawberries.TShirt_Blend_Design_Strawberries",
-							"/Game/Materials/Clothes/Skirts/Long_Skirt/Long_Skirt_Blend_Pink.Long_Skirt_Blend_Pink",
-							"/Game/Materials/Clothes/Shoes/Sneakers/Sneakers_Pink.Sneakers_Pink",
-							"/Game/Materials/Clothes/Shoes/Sneakers/Sneakers_White.Sneakers_White",
-							"None",
-							"/Game/Materials/Patterns/Rugs_Wallpaper/Carpet/Carpet_White.Carpet_White",
-							"None",
-							"None",
-							"None",
-							"/Game/Materials/Patterns/Rugs_Wallpaper/Carpet/Carpet_Black.Carpet_Black"
-						]
-					}
+					"Materials":
+					[
+						"/Game/Materials/Clothes/Shirts/T_Shirt/TShirt_Blend_Design_Strawberries.TShirt_Blend_Design_Strawberries",
+						"/Game/Materials/Clothes/Skirts/Long_Skirt/Long_Skirt_Blend_Pink.Long_Skirt_Blend_Pink",
+						"/Game/Materials/Clothes/Shoes/Sneakers/Sneakers_Pink.Sneakers_Pink",
+						"/Game/Materials/Clothes/Shoes/Sneakers/Sneakers_White.Sneakers_White",
+						"None",
+						"/Game/Materials/Patterns/Rugs_Wallpaper/Carpet/Carpet_White.Carpet_White",
+						"None",
+						"None",
+						"None",
+						"/Game/Materials/Patterns/Rugs_Wallpaper/Carpet/Carpet_Black.Carpet_Black"
+					]
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Materials":
-						[
-							"/Game/Materials/Clothes/Shirts/T_Shirt/TShirt_Blend_Design_Ribs.TShirt_Blend_Design_Ribs",
-							"/Game/Materials/Clothes/Skirts/Long_Skirt/Long_Skirt_Blend_Black.Long_Skirt_Blend_Black",
-							"/Game/Materials/Clothes/Shoes/Sneakers/Sneakers_Black.Sneakers_Black",
-							"/Game/Materials/Clothes/Shoes/Sneakers/Sneakers_White.Sneakers_White",
-							"None",
-							"/Game/Materials/Patterns/Rugs_Wallpaper/Carpet/Carpet_White.Carpet_White",
-							"None",
-							"None",
-							"None",
-							"/Game/Materials/Patterns/Rugs_Wallpaper/Carpet/Carpet_Black.Carpet_Black"
-						]
-					}
+					"Materials":
+					[
+						"/Game/Materials/Clothes/Shirts/T_Shirt/TShirt_Blend_Design_Ribs.TShirt_Blend_Design_Ribs",
+						"/Game/Materials/Clothes/Skirts/Long_Skirt/Long_Skirt_Blend_Black.Long_Skirt_Blend_Black",
+						"/Game/Materials/Clothes/Shoes/Sneakers/Sneakers_Black.Sneakers_Black",
+						"/Game/Materials/Clothes/Shoes/Sneakers/Sneakers_White.Sneakers_White",
+						"None",
+						"/Game/Materials/Patterns/Rugs_Wallpaper/Carpet/Carpet_White.Carpet_White",
+						"None",
+						"None",
+						"None",
+						"/Game/Materials/Patterns/Rugs_Wallpaper/Carpet/Carpet_Black.Carpet_Black"
+					]
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Materials":
-						[
-							"/Game/Materials/Clothes/Shirts/T_Shirt/TShirt_Blend_Design_Red_Stripes.TShirt_Blend_Design_Red_Stripes",
-							"/Game/Materials/Clothes/Skirts/Long_Skirt/Long_Skirt_Blend_Dark_Red.Long_Skirt_Blend_Dark_Red",
-							"/Game/Materials/Clothes/Shoes/Sneakers/Sneakers_Dark_Red.Sneakers_Dark_Red",
-							"/Game/Materials/Clothes/Shoes/Sneakers/Sneakers_White.Sneakers_White",
-							"None",
-							"/Game/Materials/Patterns/Rugs_Wallpaper/Carpet/Carpet_White.Carpet_White",
-							"None",
-							"None",
-							"None",
-							"/Game/Materials/Patterns/Rugs_Wallpaper/Carpet/Carpet_Black.Carpet_Black"
-						]
-					}
+					"Materials":
+					[
+						"/Game/Materials/Clothes/Shirts/T_Shirt/TShirt_Blend_Design_Red_Stripes.TShirt_Blend_Design_Red_Stripes",
+						"/Game/Materials/Clothes/Skirts/Long_Skirt/Long_Skirt_Blend_Dark_Red.Long_Skirt_Blend_Dark_Red",
+						"/Game/Materials/Clothes/Shoes/Sneakers/Sneakers_Dark_Red.Sneakers_Dark_Red",
+						"/Game/Materials/Clothes/Shoes/Sneakers/Sneakers_White.Sneakers_White",
+						"None",
+						"/Game/Materials/Patterns/Rugs_Wallpaper/Carpet/Carpet_White.Carpet_White",
+						"None",
+						"None",
+						"None",
+						"/Game/Materials/Patterns/Rugs_Wallpaper/Carpet/Carpet_Black.Carpet_Black"
+					]
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Materials":
-						[
-							"/Game/Materials/Clothes/Shirts/T_Shirt/TShirt_Blend_Design_Pixel_Critter_Green.TShirt_Blend_Design_Pixel_Critter_Green",
-							"/Game/Materials/Clothes/Skirts/Long_Skirt/Long_Skirt_Blend_Green.Long_Skirt_Blend_Green",
-							"/Game/Materials/Clothes/Shoes/Sneakers/Sneakers_Green.Sneakers_Green",
-							"/Game/Materials/Clothes/Shoes/Sneakers/Sneakers_White.Sneakers_White",
-							"None",
-							"/Game/Materials/Patterns/Rugs_Wallpaper/Carpet/Carpet_White.Carpet_White",
-							"None",
-							"None",
-							"None",
-							"/Game/Materials/Patterns/Rugs_Wallpaper/Carpet/Carpet_Black.Carpet_Black"
-						]
-					}
+					"Materials":
+					[
+						"/Game/Materials/Clothes/Shirts/T_Shirt/TShirt_Blend_Design_Pixel_Critter_Green.TShirt_Blend_Design_Pixel_Critter_Green",
+						"/Game/Materials/Clothes/Skirts/Long_Skirt/Long_Skirt_Blend_Green.Long_Skirt_Blend_Green",
+						"/Game/Materials/Clothes/Shoes/Sneakers/Sneakers_Green.Sneakers_Green",
+						"/Game/Materials/Clothes/Shoes/Sneakers/Sneakers_White.Sneakers_White",
+						"None",
+						"/Game/Materials/Patterns/Rugs_Wallpaper/Carpet/Carpet_White.Carpet_White",
+						"None",
+						"None",
+						"None",
+						"/Game/Materials/Patterns/Rugs_Wallpaper/Carpet/Carpet_Black.Carpet_Black"
+					]
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Materials":
-						[
-							"/Game/Materials/Clothes/Shirts/T_Shirt/TShirt_Blend_Design_Fancy_Flower_Pink.TShirt_Blend_Design_Fancy_Flower_Pink",
-							"/Game/Materials/Clothes/Skirts/Long_Skirt/Long_Skirt_Blend_Magenta.Long_Skirt_Blend_Magenta",
-							"/Game/Materials/Clothes/Shoes/Sneakers/Sneakers_Magenta.Sneakers_Magenta",
-							"/Game/Materials/Clothes/Shoes/Sneakers/Sneakers_White.Sneakers_White",
-							"None",
-							"/Game/Materials/Patterns/Rugs_Wallpaper/Carpet/Carpet_White.Carpet_White",
-							"None",
-							"None",
-							"None",
-							"/Game/Materials/Patterns/Rugs_Wallpaper/Carpet/Carpet_Black.Carpet_Black"
-						]
-					}
+					"Materials":
+					[
+						"/Game/Materials/Clothes/Shirts/T_Shirt/TShirt_Blend_Design_Fancy_Flower_Pink.TShirt_Blend_Design_Fancy_Flower_Pink",
+						"/Game/Materials/Clothes/Skirts/Long_Skirt/Long_Skirt_Blend_Magenta.Long_Skirt_Blend_Magenta",
+						"/Game/Materials/Clothes/Shoes/Sneakers/Sneakers_Magenta.Sneakers_Magenta",
+						"/Game/Materials/Clothes/Shoes/Sneakers/Sneakers_White.Sneakers_White",
+						"None",
+						"/Game/Materials/Patterns/Rugs_Wallpaper/Carpet/Carpet_White.Carpet_White",
+						"None",
+						"None",
+						"None",
+						"/Game/Materials/Patterns/Rugs_Wallpaper/Carpet/Carpet_Black.Carpet_Black"
+					]
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Materials":
-						[
-							"/Game/Materials/Clothes/Shirts/T_Shirt/TShirt_Blend_Design_Dragon_Green.TShirt_Blend_Design_Dragon_Green",
-							"/Game/Materials/Clothes/Skirts/Long_Skirt/Long_Skirt_Blend_Green.Long_Skirt_Blend_Green",
-							"/Game/Materials/Clothes/Shoes/Sneakers/Sneakers_Dark_Green.Sneakers_Dark_Green",
-							"/Game/Materials/Clothes/Shoes/Sneakers/Sneakers_White.Sneakers_White",
-							"None",
-							"/Game/Materials/Patterns/Rugs_Wallpaper/Carpet/Carpet_White.Carpet_White",
-							"None",
-							"None",
-							"None",
-							"/Game/Materials/Patterns/Rugs_Wallpaper/Carpet/Carpet_Black.Carpet_Black"
-						]
-					}
+					"Materials":
+					[
+						"/Game/Materials/Clothes/Shirts/T_Shirt/TShirt_Blend_Design_Dragon_Green.TShirt_Blend_Design_Dragon_Green",
+						"/Game/Materials/Clothes/Skirts/Long_Skirt/Long_Skirt_Blend_Green.Long_Skirt_Blend_Green",
+						"/Game/Materials/Clothes/Shoes/Sneakers/Sneakers_Dark_Green.Sneakers_Dark_Green",
+						"/Game/Materials/Clothes/Shoes/Sneakers/Sneakers_White.Sneakers_White",
+						"None",
+						"/Game/Materials/Patterns/Rugs_Wallpaper/Carpet/Carpet_White.Carpet_White",
+						"None",
+						"None",
+						"None",
+						"/Game/Materials/Patterns/Rugs_Wallpaper/Carpet/Carpet_Black.Carpet_Black"
+					]
 				}
 			]
 		},
@@ -760,194 +600,154 @@
 			"Outfits":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Materials":
-						[
-							"/Game/Materials/Clothes/Shoes/Sneakers/Sneakers_White.Sneakers_White",
-							"/Game/Materials/Clothes/Shoes/Sneakers/Sneakers_Black.Sneakers_Black",
-							"/Game/Materials/Clothes/Skirts/Long_Skirt/Long_Skirt_Blend_Magenta.Long_Skirt_Blend_Magenta",
-							"/Game/Materials/Misc/Transparent.Transparent",
-							"/Game/Materials/Clothes/Shirts/T_Shirt/TShirt_Blend_Design_Pixel_Critter_Pink.TShirt_Blend_Design_Pixel_Critter_Pink",
-							"None",
-							"None",
-							"None",
-							"None",
-							"None"
-						]
-					}
+					"Materials":
+					[
+						"/Game/Materials/Clothes/Shoes/Sneakers/Sneakers_White.Sneakers_White",
+						"/Game/Materials/Clothes/Shoes/Sneakers/Sneakers_Black.Sneakers_Black",
+						"/Game/Materials/Clothes/Skirts/Long_Skirt/Long_Skirt_Blend_Magenta.Long_Skirt_Blend_Magenta",
+						"/Game/Materials/Misc/Transparent.Transparent",
+						"/Game/Materials/Clothes/Shirts/T_Shirt/TShirt_Blend_Design_Pixel_Critter_Pink.TShirt_Blend_Design_Pixel_Critter_Pink",
+						"None",
+						"None",
+						"None",
+						"None",
+						"None"
+					]
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Materials":
-						[
-							"/Game/Materials/Clothes/Shoes/Sneakers/Sneakers_White.Sneakers_White",
-							"/Game/Materials/Clothes/Shoes/Sneakers/Sneakers_Dark_Red.Sneakers_Dark_Red",
-							"/Game/Materials/Clothes/Skirts/Long_Skirt/Long_Skirt_Blend_Dark_Red.Long_Skirt_Blend_Dark_Red",
-							"/Game/Materials/Misc/Transparent.Transparent",
-							"/Game/Materials/Clothes/Shirts/T_Shirt/TShirt_Blend_Design_Roses.TShirt_Blend_Design_Roses",
-							"None",
-							"None",
-							"None",
-							"None",
-							"None"
-						]
-					}
+					"Materials":
+					[
+						"/Game/Materials/Clothes/Shoes/Sneakers/Sneakers_White.Sneakers_White",
+						"/Game/Materials/Clothes/Shoes/Sneakers/Sneakers_Dark_Red.Sneakers_Dark_Red",
+						"/Game/Materials/Clothes/Skirts/Long_Skirt/Long_Skirt_Blend_Dark_Red.Long_Skirt_Blend_Dark_Red",
+						"/Game/Materials/Misc/Transparent.Transparent",
+						"/Game/Materials/Clothes/Shirts/T_Shirt/TShirt_Blend_Design_Roses.TShirt_Blend_Design_Roses",
+						"None",
+						"None",
+						"None",
+						"None",
+						"None"
+					]
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Materials":
-						[
-							"/Game/Materials/Clothes/Shoes/Sneakers/Sneakers_Pink.Sneakers_Pink",
-							"/Game/Materials/Clothes/Shoes/Sneakers/Sneakers_White.Sneakers_White",
-							"/Game/Materials/Clothes/Skirts/Long_Skirt/Long_Skirt_Blend_Pink.Long_Skirt_Blend_Pink",
-							"/Game/Materials/Misc/Transparent.Transparent",
-							"/Game/Materials/Clothes/Shirts/T_Shirt/Tshirt_Blend_Sakura_Flower.Tshirt_Blend_Sakura_Flower",
-							"None",
-							"None",
-							"None",
-							"None",
-							"None"
-						]
-					}
+					"Materials":
+					[
+						"/Game/Materials/Clothes/Shoes/Sneakers/Sneakers_Pink.Sneakers_Pink",
+						"/Game/Materials/Clothes/Shoes/Sneakers/Sneakers_White.Sneakers_White",
+						"/Game/Materials/Clothes/Skirts/Long_Skirt/Long_Skirt_Blend_Pink.Long_Skirt_Blend_Pink",
+						"/Game/Materials/Misc/Transparent.Transparent",
+						"/Game/Materials/Clothes/Shirts/T_Shirt/Tshirt_Blend_Sakura_Flower.Tshirt_Blend_Sakura_Flower",
+						"None",
+						"None",
+						"None",
+						"None",
+						"None"
+					]
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Materials":
-						[
-							"/Game/Materials/Clothes/Shoes/Sneakers/Sneakers_Light_Blue.Sneakers_Light_Blue",
-							"/Game/Materials/Clothes/Shoes/Sneakers/Sneakers_Blue.Sneakers_Blue",
-							"/Game/Materials/Clothes/Skirts/Long_Skirt/Long_Skirt_Blend_Pattern_Plaid_Blue.Long_Skirt_Blend_Pattern_Plaid_Blue",
-							"/Game/Materials/Misc/Transparent.Transparent",
-							"/Game/Materials/Clothes/Shirts/T_Shirt/TShirt_Blend_Blue.TShirt_Blend_Blue",
-							"None",
-							"None",
-							"None",
-							"None",
-							"None"
-						]
-					}
+					"Materials":
+					[
+						"/Game/Materials/Clothes/Shoes/Sneakers/Sneakers_Light_Blue.Sneakers_Light_Blue",
+						"/Game/Materials/Clothes/Shoes/Sneakers/Sneakers_Blue.Sneakers_Blue",
+						"/Game/Materials/Clothes/Skirts/Long_Skirt/Long_Skirt_Blend_Pattern_Plaid_Blue.Long_Skirt_Blend_Pattern_Plaid_Blue",
+						"/Game/Materials/Misc/Transparent.Transparent",
+						"/Game/Materials/Clothes/Shirts/T_Shirt/TShirt_Blend_Blue.TShirt_Blend_Blue",
+						"None",
+						"None",
+						"None",
+						"None",
+						"None"
+					]
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Materials":
-						[
-							"/Game/Materials/Clothes/Shoes/Sneakers/Sneakers_Yellow.Sneakers_Yellow",
-							"/Game/Materials/Clothes/Shoes/Sneakers/Sneakers_Coffee.Sneakers_Coffee",
-							"/Game/Materials/Clothes/Skirts/Long_Skirt/Long_Skirt_Blend_Yellow.Long_Skirt_Blend_Yellow",
-							"/Game/Materials/Misc/Transparent.Transparent",
-							"/Game/Materials/Clothes/Shirts/T_Shirt/TShirt_Blend_Design_Bunny.TShirt_Blend_Design_Bunny",
-							"None",
-							"None",
-							"None",
-							"None",
-							"None"
-						]
-					}
+					"Materials":
+					[
+						"/Game/Materials/Clothes/Shoes/Sneakers/Sneakers_Yellow.Sneakers_Yellow",
+						"/Game/Materials/Clothes/Shoes/Sneakers/Sneakers_Coffee.Sneakers_Coffee",
+						"/Game/Materials/Clothes/Skirts/Long_Skirt/Long_Skirt_Blend_Yellow.Long_Skirt_Blend_Yellow",
+						"/Game/Materials/Misc/Transparent.Transparent",
+						"/Game/Materials/Clothes/Shirts/T_Shirt/TShirt_Blend_Design_Bunny.TShirt_Blend_Design_Bunny",
+						"None",
+						"None",
+						"None",
+						"None",
+						"None"
+					]
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Materials":
-						[
-							"/Game/Materials/Clothes/Shoes/Sneakers/Sneakers_Light_Blue.Sneakers_Light_Blue",
-							"/Game/Materials/Clothes/Shoes/Sneakers/Sneakers_White.Sneakers_White",
-							"/Game/Materials/Clothes/Skirts/Long_Skirt/Long_Skirt_Blend_Light_Blue.Long_Skirt_Blend_Light_Blue",
-							"/Game/Materials/Misc/Transparent.Transparent",
-							"/Game/Materials/Clothes/Shirts/T_Shirt/TShirt_Blend_Design_Cute_Heart.TShirt_Blend_Design_Cute_Heart",
-							"None",
-							"None",
-							"None",
-							"None",
-							"None"
-						]
-					}
+					"Materials":
+					[
+						"/Game/Materials/Clothes/Shoes/Sneakers/Sneakers_Light_Blue.Sneakers_Light_Blue",
+						"/Game/Materials/Clothes/Shoes/Sneakers/Sneakers_White.Sneakers_White",
+						"/Game/Materials/Clothes/Skirts/Long_Skirt/Long_Skirt_Blend_Light_Blue.Long_Skirt_Blend_Light_Blue",
+						"/Game/Materials/Misc/Transparent.Transparent",
+						"/Game/Materials/Clothes/Shirts/T_Shirt/TShirt_Blend_Design_Cute_Heart.TShirt_Blend_Design_Cute_Heart",
+						"None",
+						"None",
+						"None",
+						"None",
+						"None"
+					]
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Materials":
-						[
-							"/Game/Materials/Clothes/Shoes/Sneakers/Sneakers_Yellow.Sneakers_Yellow",
-							"/Game/Materials/Clothes/Shoes/Sneakers/Sneakers_Orange.Sneakers_Orange",
-							"/Game/Materials/Clothes/Skirts/Long_Skirt/Long_Skirt_Blend_Red.Long_Skirt_Blend_Red",
-							"/Game/Materials/Misc/Transparent.Transparent",
-							"/Game/Materials/Clothes/Shirts/T_Shirt/TShirt_Blend_Design_Fire_Fairy.TShirt_Blend_Design_Fire_Fairy",
-							"None",
-							"None",
-							"None",
-							"None",
-							"None"
-						]
-					}
+					"Materials":
+					[
+						"/Game/Materials/Clothes/Shoes/Sneakers/Sneakers_Yellow.Sneakers_Yellow",
+						"/Game/Materials/Clothes/Shoes/Sneakers/Sneakers_Orange.Sneakers_Orange",
+						"/Game/Materials/Clothes/Skirts/Long_Skirt/Long_Skirt_Blend_Red.Long_Skirt_Blend_Red",
+						"/Game/Materials/Misc/Transparent.Transparent",
+						"/Game/Materials/Clothes/Shirts/T_Shirt/TShirt_Blend_Design_Fire_Fairy.TShirt_Blend_Design_Fire_Fairy",
+						"None",
+						"None",
+						"None",
+						"None",
+						"None"
+					]
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Materials":
-						[
-							"/Game/Materials/Clothes/Sneakers_Black.Sneakers_Black",
-							"/Game/Materials/Clothes/Shoes/Sneakers/Sneakers_White.Sneakers_White",
-							"/Game/Materials/Clothes/Skirts/Long_Skirt/Long_Skirt_Blend_Black.Long_Skirt_Blend_Black",
-							"/Game/Materials/Misc/Transparent.Transparent",
-							"/Game/Materials/Clothes/Shirts/T_Shirt/TShirt_Blend_Design_Panda.TShirt_Blend_Design_Panda",
-							"None",
-							"None",
-							"None",
-							"None",
-							"None"
-						]
-					}
+					"Materials":
+					[
+						"/Game/Materials/Clothes/Sneakers_Black.Sneakers_Black",
+						"/Game/Materials/Clothes/Shoes/Sneakers/Sneakers_White.Sneakers_White",
+						"/Game/Materials/Clothes/Skirts/Long_Skirt/Long_Skirt_Blend_Black.Long_Skirt_Blend_Black",
+						"/Game/Materials/Misc/Transparent.Transparent",
+						"/Game/Materials/Clothes/Shirts/T_Shirt/TShirt_Blend_Design_Panda.TShirt_Blend_Design_Panda",
+						"None",
+						"None",
+						"None",
+						"None",
+						"None"
+					]
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Materials":
-						[
-							"/Game/Materials/Clothes/Shoes/Sneakers/Sneakers_White.Sneakers_White",
-							"/Game/Materials/Clothes/Shoes/Sneakers/Sneakers_Black.Sneakers_Black",
-							"/Game/Materials/Clothes/Skirts/Long_Skirt/Long_Skirt_Blend_Magenta.Long_Skirt_Blend_Magenta",
-							"/Game/Materials/Misc/Transparent.Transparent",
-							"/Game/Materials/Clothes/Shirts/T_Shirt/TShirt_Blend_Design_Pixel_Critter_Pink.TShirt_Blend_Design_Pixel_Critter_Pink",
-							"None",
-							"None",
-							"None",
-							"None",
-							"None"
-						]
-					}
+					"Materials":
+					[
+						"/Game/Materials/Clothes/Shoes/Sneakers/Sneakers_White.Sneakers_White",
+						"/Game/Materials/Clothes/Shoes/Sneakers/Sneakers_Black.Sneakers_Black",
+						"/Game/Materials/Clothes/Skirts/Long_Skirt/Long_Skirt_Blend_Magenta.Long_Skirt_Blend_Magenta",
+						"/Game/Materials/Misc/Transparent.Transparent",
+						"/Game/Materials/Clothes/Shirts/T_Shirt/TShirt_Blend_Design_Pixel_Critter_Pink.TShirt_Blend_Design_Pixel_Critter_Pink",
+						"None",
+						"None",
+						"None",
+						"None",
+						"None"
+					]
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Materials":
-						[
-							"/Game/Materials/Clothes/Shoes/Sneakers/Sneakers_White.Sneakers_White",
-							"/Game/Materials/Clothes/Shoes/Sneakers/Sneakers_White.Sneakers_White",
-							"/Game/Materials/Clothes/Skirts/Long_Skirt/Long_Skirt_Blend_Yellow.Long_Skirt_Blend_Yellow",
-							"/Game/Materials/Misc/Transparent.Transparent",
-							"/Game/Materials/Clothes/Shirts/T_Shirt/TShirt_Blend_Sun.TShirt_Blend_Sun",
-							"None",
-							"None",
-							"None",
-							"None",
-							"None"
-						]
-					}
+					"Materials":
+					[
+						"/Game/Materials/Clothes/Shoes/Sneakers/Sneakers_White.Sneakers_White",
+						"/Game/Materials/Clothes/Shoes/Sneakers/Sneakers_White.Sneakers_White",
+						"/Game/Materials/Clothes/Skirts/Long_Skirt/Long_Skirt_Blend_Yellow.Long_Skirt_Blend_Yellow",
+						"/Game/Materials/Misc/Transparent.Transparent",
+						"/Game/Materials/Clothes/Shirts/T_Shirt/TShirt_Blend_Sun.TShirt_Blend_Sun",
+						"None",
+						"None",
+						"None",
+						"None",
+						"None"
+					]
 				}
 			]
 		},
@@ -956,194 +756,154 @@
 			"Outfits":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Materials":
-						[
-							"/Game/Materials/Clothes/Shoes/Sneakers/Sneakers_White.Sneakers_White",
-							"/Game/Materials/Clothes/Shoes/Sneakers/Sneakers_Blue.Sneakers_Blue",
-							"None",
-							"/Game/Materials/Clothes/Shirts/T_Shirt/TShirt_Blend_Design_Pixel_Bat.TShirt_Blend_Design_Pixel_Bat",
-							"None",
-							"/Game/Materials/Patterns/Rugs_Wallpaper/Carpet/Carpet_White.Carpet_White",
-							"None",
-							"None",
-							"None",
-							"/Game/Materials/Clothes/Pants/Shorts/Shorts_Blue.Shorts_Blue"
-						]
-					}
+					"Materials":
+					[
+						"/Game/Materials/Clothes/Shoes/Sneakers/Sneakers_White.Sneakers_White",
+						"/Game/Materials/Clothes/Shoes/Sneakers/Sneakers_Blue.Sneakers_Blue",
+						"None",
+						"/Game/Materials/Clothes/Shirts/T_Shirt/TShirt_Blend_Design_Pixel_Bat.TShirt_Blend_Design_Pixel_Bat",
+						"None",
+						"/Game/Materials/Patterns/Rugs_Wallpaper/Carpet/Carpet_White.Carpet_White",
+						"None",
+						"None",
+						"None",
+						"/Game/Materials/Clothes/Pants/Shorts/Shorts_Blue.Shorts_Blue"
+					]
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Materials":
-						[
-							"/Game/Materials/Clothes/Shoes/Sneakers/Sneakers_White.Sneakers_White",
-							"/Game/Materials/Clothes/Shoes/Sneakers/Sneakers_Orange.Sneakers_Orange",
-							"None",
-							"/Game/Materials/Clothes/Shirts/T_Shirt/TShirt_Blend_Design_T_Shirt_Taco.TShirt_Blend_Design_T_Shirt_Taco",
-							"None",
-							"/Game/Materials/Patterns/Rugs_Wallpaper/Carpet/Carpet_White.Carpet_White",
-							"None",
-							"None",
-							"None",
-							"/Game/Materials/Clothes/Pants/Shorts/Shorts_Orange.Shorts_Orange"
-						]
-					}
+					"Materials":
+					[
+						"/Game/Materials/Clothes/Shoes/Sneakers/Sneakers_White.Sneakers_White",
+						"/Game/Materials/Clothes/Shoes/Sneakers/Sneakers_Orange.Sneakers_Orange",
+						"None",
+						"/Game/Materials/Clothes/Shirts/T_Shirt/TShirt_Blend_Design_T_Shirt_Taco.TShirt_Blend_Design_T_Shirt_Taco",
+						"None",
+						"/Game/Materials/Patterns/Rugs_Wallpaper/Carpet/Carpet_White.Carpet_White",
+						"None",
+						"None",
+						"None",
+						"/Game/Materials/Clothes/Pants/Shorts/Shorts_Orange.Shorts_Orange"
+					]
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Materials":
-						[
-							"/Game/Materials/Clothes/Shoes/Sneakers/Sneakers_White.Sneakers_White",
-							"/Game/Materials/Clothes/Shoes/Sneakers/Sneakers_Purple.Sneakers_Purple",
-							"None",
-							"/Game/Materials/Clothes/Shirts/T_Shirt/TShirt_Blend_Design_Vaporwave.TShirt_Blend_Design_Vaporwave",
-							"None",
-							"/Game/Materials/Patterns/Rugs_Wallpaper/Carpet/Carpet_Medium_Pink.Carpet_Medium_Pink",
-							"None",
-							"None",
-							"None",
-							"/Game/Materials/Clothes/Pants/Shorts/Shorts_Purple.Shorts_Purple"
-						]
-					}
+					"Materials":
+					[
+						"/Game/Materials/Clothes/Shoes/Sneakers/Sneakers_White.Sneakers_White",
+						"/Game/Materials/Clothes/Shoes/Sneakers/Sneakers_Purple.Sneakers_Purple",
+						"None",
+						"/Game/Materials/Clothes/Shirts/T_Shirt/TShirt_Blend_Design_Vaporwave.TShirt_Blend_Design_Vaporwave",
+						"None",
+						"/Game/Materials/Patterns/Rugs_Wallpaper/Carpet/Carpet_Medium_Pink.Carpet_Medium_Pink",
+						"None",
+						"None",
+						"None",
+						"/Game/Materials/Clothes/Pants/Shorts/Shorts_Purple.Shorts_Purple"
+					]
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Materials":
-						[
-							"/Game/Materials/Clothes/Shoes/Sneakers/Sneakers_White.Sneakers_White",
-							"/Game/Materials/Clothes/Sneakers_Black.Sneakers_Black",
-							"None",
-							"/Game/Materials/Clothes/Shirts/T_Shirt/TShirt_Blend_Design_Panda.TShirt_Blend_Design_Panda",
-							"None",
-							"/Game/Materials/Patterns/Rugs_Wallpaper/Carpet/Carpet_Black.Carpet_Black",
-							"None",
-							"None",
-							"None",
-							"/Game/Materials/Clothes/Pants/Shorts/Shorts_Black.Shorts_Black"
-						]
-					}
+					"Materials":
+					[
+						"/Game/Materials/Clothes/Shoes/Sneakers/Sneakers_White.Sneakers_White",
+						"/Game/Materials/Clothes/Sneakers_Black.Sneakers_Black",
+						"None",
+						"/Game/Materials/Clothes/Shirts/T_Shirt/TShirt_Blend_Design_Panda.TShirt_Blend_Design_Panda",
+						"None",
+						"/Game/Materials/Patterns/Rugs_Wallpaper/Carpet/Carpet_Black.Carpet_Black",
+						"None",
+						"None",
+						"None",
+						"/Game/Materials/Clothes/Pants/Shorts/Shorts_Black.Shorts_Black"
+					]
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Materials":
-						[
-							"/Game/Materials/Clothes/Shoes/Sneakers/Sneakers_White.Sneakers_White",
-							"/Game/Materials/Clothes/Shoes/Sneakers/Sneakers_Magenta.Sneakers_Magenta",
-							"None",
-							"/Game/Materials/Clothes/Shirts/T_Shirt/TShirt_Blend_Design_Ramen.TShirt_Blend_Design_Ramen",
-							"None",
-							"/Game/Materials/Patterns/Rugs_Wallpaper/Carpet/Carpet_White.Carpet_White",
-							"None",
-							"None",
-							"None",
-							"/Game/Materials/Clothes/Pants/Shorts/Shorts_Magenta.Shorts_Magenta"
-						]
-					}
+					"Materials":
+					[
+						"/Game/Materials/Clothes/Shoes/Sneakers/Sneakers_White.Sneakers_White",
+						"/Game/Materials/Clothes/Shoes/Sneakers/Sneakers_Magenta.Sneakers_Magenta",
+						"None",
+						"/Game/Materials/Clothes/Shirts/T_Shirt/TShirt_Blend_Design_Ramen.TShirt_Blend_Design_Ramen",
+						"None",
+						"/Game/Materials/Patterns/Rugs_Wallpaper/Carpet/Carpet_White.Carpet_White",
+						"None",
+						"None",
+						"None",
+						"/Game/Materials/Clothes/Pants/Shorts/Shorts_Magenta.Shorts_Magenta"
+					]
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Materials":
-						[
-							"/Game/Materials/Clothes/Shoes/Sneakers/Sneakers_White.Sneakers_White",
-							"/Game/Materials/Clothes/Shoes/Sneakers/Sneakers_Dark_Red.Sneakers_Dark_Red",
-							"None",
-							"/Game/Materials/Clothes/Shirts/T_Shirt/TShirt_Blend_Design_Red_Flames.TShirt_Blend_Design_Red_Flames",
-							"None",
-							"/Game/Materials/Patterns/Rugs_Wallpaper/Carpet/Carpet_White.Carpet_White",
-							"None",
-							"None",
-							"None",
-							"/Game/Materials/Clothes/Pants/Shorts/Shorts_Light_Blue.Shorts_Light_Blue"
-						]
-					}
+					"Materials":
+					[
+						"/Game/Materials/Clothes/Shoes/Sneakers/Sneakers_White.Sneakers_White",
+						"/Game/Materials/Clothes/Shoes/Sneakers/Sneakers_Dark_Red.Sneakers_Dark_Red",
+						"None",
+						"/Game/Materials/Clothes/Shirts/T_Shirt/TShirt_Blend_Design_Red_Flames.TShirt_Blend_Design_Red_Flames",
+						"None",
+						"/Game/Materials/Patterns/Rugs_Wallpaper/Carpet/Carpet_White.Carpet_White",
+						"None",
+						"None",
+						"None",
+						"/Game/Materials/Clothes/Pants/Shorts/Shorts_Light_Blue.Shorts_Light_Blue"
+					]
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Materials":
-						[
-							"/Game/Materials/Clothes/Shoes/Sneakers/Sneakers_White.Sneakers_White",
-							"/Game/Materials/Clothes/Shoes/Sneakers/Sneakers_Green.Sneakers_Green",
-							"None",
-							"/Game/Materials/Clothes/Shirts/T_Shirt/TShirt_Blend_Design_Pixel_Critter_Green.TShirt_Blend_Design_Pixel_Critter_Green",
-							"None",
-							"/Game/Materials/Patterns/Rugs_Wallpaper/Carpet/Carpet_White.Carpet_White",
-							"None",
-							"None",
-							"None",
-							"/Game/Materials/Clothes/Pants/Shorts/Shorts_Green.Shorts_Green"
-						]
-					}
+					"Materials":
+					[
+						"/Game/Materials/Clothes/Shoes/Sneakers/Sneakers_White.Sneakers_White",
+						"/Game/Materials/Clothes/Shoes/Sneakers/Sneakers_Green.Sneakers_Green",
+						"None",
+						"/Game/Materials/Clothes/Shirts/T_Shirt/TShirt_Blend_Design_Pixel_Critter_Green.TShirt_Blend_Design_Pixel_Critter_Green",
+						"None",
+						"/Game/Materials/Patterns/Rugs_Wallpaper/Carpet/Carpet_White.Carpet_White",
+						"None",
+						"None",
+						"None",
+						"/Game/Materials/Clothes/Pants/Shorts/Shorts_Green.Shorts_Green"
+					]
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Materials":
-						[
-							"/Game/Materials/Clothes/Shoes/Sneakers/Sneakers_White.Sneakers_White",
-							"/Game/Materials/Clothes/Shoes/Sneakers/Sneakers_Green.Sneakers_Green",
-							"None",
-							"/Game/Materials/Clothes/Shirts/T_Shirt/TShirt_Blend_Design_Retro_Wave.TShirt_Blend_Design_Retro_Wave",
-							"None",
-							"/Game/Materials/Patterns/Rugs_Wallpaper/Carpet/Carpet_White.Carpet_White",
-							"None",
-							"None",
-							"None",
-							"/Game/Materials/Clothes/Pants/Shorts/Shorts_Yellow.Shorts_Yellow"
-						]
-					}
+					"Materials":
+					[
+						"/Game/Materials/Clothes/Shoes/Sneakers/Sneakers_White.Sneakers_White",
+						"/Game/Materials/Clothes/Shoes/Sneakers/Sneakers_Green.Sneakers_Green",
+						"None",
+						"/Game/Materials/Clothes/Shirts/T_Shirt/TShirt_Blend_Design_Retro_Wave.TShirt_Blend_Design_Retro_Wave",
+						"None",
+						"/Game/Materials/Patterns/Rugs_Wallpaper/Carpet/Carpet_White.Carpet_White",
+						"None",
+						"None",
+						"None",
+						"/Game/Materials/Clothes/Pants/Shorts/Shorts_Yellow.Shorts_Yellow"
+					]
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Materials":
-						[
-							"/Game/Materials/Clothes/Shoes/Sneakers/Sneakers_White.Sneakers_White",
-							"/Game/Materials/Clothes/Shoes/Sneakers/Sneakers_White.Sneakers_White",
-							"None",
-							"/Game/Materials/Clothes/Shirts/T_Shirt/TShirt_Blend_Design_Holiday_Flakes_Blue.TShirt_Blend_Design_Holiday_Flakes_Blue",
-							"None",
-							"/Game/Materials/Patterns/Rugs_Wallpaper/Carpet/Carpet_White.Carpet_White",
-							"None",
-							"None",
-							"None",
-							"/Game/Materials/Clothes/Pants/Shorts/Shorts_White.Shorts_White"
-						]
-					}
+					"Materials":
+					[
+						"/Game/Materials/Clothes/Shoes/Sneakers/Sneakers_White.Sneakers_White",
+						"/Game/Materials/Clothes/Shoes/Sneakers/Sneakers_White.Sneakers_White",
+						"None",
+						"/Game/Materials/Clothes/Shirts/T_Shirt/TShirt_Blend_Design_Holiday_Flakes_Blue.TShirt_Blend_Design_Holiday_Flakes_Blue",
+						"None",
+						"/Game/Materials/Patterns/Rugs_Wallpaper/Carpet/Carpet_White.Carpet_White",
+						"None",
+						"None",
+						"None",
+						"/Game/Materials/Clothes/Pants/Shorts/Shorts_White.Shorts_White"
+					]
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Materials":
-						[
-							"/Game/Materials/Clothes/Shoes/Sneakers/Sneakers_White.Sneakers_White",
-							"/Game/Materials/Clothes/Shoes/Sneakers/Sneakers_White.Sneakers_White",
-							"None",
-							"/Game/Materials/Clothes/Shirts/T_Shirt/TShirt_Blend_Design_Grey_Stripes.TShirt_Blend_Design_Grey_Stripes",
-							"None",
-							"/Game/Materials/Patterns/Rugs_Wallpaper/Carpet/Carpet_White.Carpet_White",
-							"None",
-							"None",
-							"None",
-							"/Game/Materials/Clothes/Pants/Shorts/Shorts_White.Shorts_White"
-						]
-					}
+					"Materials":
+					[
+						"/Game/Materials/Clothes/Shoes/Sneakers/Sneakers_White.Sneakers_White",
+						"/Game/Materials/Clothes/Shoes/Sneakers/Sneakers_White.Sneakers_White",
+						"None",
+						"/Game/Materials/Clothes/Shirts/T_Shirt/TShirt_Blend_Design_Grey_Stripes.TShirt_Blend_Design_Grey_Stripes",
+						"None",
+						"/Game/Materials/Patterns/Rugs_Wallpaper/Carpet/Carpet_White.Carpet_White",
+						"None",
+						"None",
+						"None",
+						"/Game/Materials/Clothes/Pants/Shorts/Shorts_White.Shorts_White"
+					]
 				}
 			]
 		}

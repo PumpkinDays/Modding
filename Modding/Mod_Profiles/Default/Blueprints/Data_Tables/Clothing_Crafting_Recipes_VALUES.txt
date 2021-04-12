@@ -10,12 +10,8 @@
 			"Slots":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Slot": "Fabric_1",
-						"MaterialBaseClass": "BASIC_CRAFTING_Frilly_Shirt_Blend"
-					}
+					"Slot": "Fabric_1",
+					"MaterialBaseClass": "BASIC_CRAFTING_Frilly_Shirt_Blend"
 				}
 			],
 			"ProducedFurnitureItem": "Frilly_Shirt_Black",
@@ -45,12 +41,8 @@
 			"Slots":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Slot": "Fabric_1",
-						"MaterialBaseClass": "BASIC_CRAFTING_Heart_Shirt_Blend"
-					}
+					"Slot": "Fabric_1",
+					"MaterialBaseClass": "BASIC_CRAFTING_Heart_Shirt_Blend"
 				}
 			],
 			"ProducedFurnitureItem": "Heart_Shirt_Black",
@@ -80,12 +72,8 @@
 			"Slots":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Slot": "Fabric_1",
-						"MaterialBaseClass": "BASIC_CRAFT_Poet_Shirt_Blend"
-					}
+					"Slot": "Fabric_1",
+					"MaterialBaseClass": "BASIC_CRAFT_Poet_Shirt_Blend"
 				}
 			],
 			"ProducedFurnitureItem": "Poet_Shirt_Black",
@@ -115,12 +103,8 @@
 			"Slots":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Slot": "Fabric_1",
-						"MaterialBaseClass": "BASIC_CRAFTIN_Sassy_Shirt_Blend"
-					}
+					"Slot": "Fabric_1",
+					"MaterialBaseClass": "BASIC_CRAFTIN_Sassy_Shirt_Blend"
 				}
 			],
 			"ProducedFurnitureItem": "Sassy_Shirt_Black",
@@ -150,12 +134,8 @@
 			"Slots":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Slot": "Fabric_1",
-						"MaterialBaseClass": "BASIC_CRAFTING_Short_Top_Blend"
-					}
+					"Slot": "Fabric_1",
+					"MaterialBaseClass": "BASIC_CRAFTING_Short_Top_Blend"
 				}
 			],
 			"ProducedFurnitureItem": "Short_Top_Black",
@@ -185,12 +165,8 @@
 			"Slots":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Slot": "Fabric_1",
-						"MaterialBaseClass": "BASIC_Crafting_Sleeveless_Shirt_Blend"
-					}
+					"Slot": "Fabric_1",
+					"MaterialBaseClass": "BASIC_Crafting_Sleeveless_Shirt_Blend"
 				}
 			],
 			"ProducedFurnitureItem": "Sleeveless_Shirt_Black",
@@ -220,12 +196,8 @@
 			"Slots":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Slot": "Fabric_1",
-						"MaterialBaseClass": "BASIC_Crafting_Spaghetti_Shirt_Blend"
-					}
+					"Slot": "Fabric_1",
+					"MaterialBaseClass": "BASIC_Crafting_Spaghetti_Shirt_Blend"
 				}
 			],
 			"ProducedFurnitureItem": "Spaghetti_Strap_Shirt_Black",
@@ -255,12 +227,8 @@
 			"Slots":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Slot": "Fabric_1",
-						"MaterialBaseClass": "BASIC_Crafting_TShirt_Blend"
-					}
+					"Slot": "Fabric_1",
+					"MaterialBaseClass": "BASIC_Crafting_TShirt_Blend"
 				}
 			],
 			"ProducedFurnitureItem": "T_Shirt_Black",
@@ -290,12 +258,8 @@
 			"Slots":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Slot": "Fabric_1",
-						"MaterialBaseClass": "BASIC_Crafting_VNeck_Dress_Shirt_Blend"
-					}
+					"Slot": "Fabric_1",
+					"MaterialBaseClass": "BASIC_Crafting_VNeck_Dress_Shirt_Blend"
 				}
 			],
 			"ProducedFurnitureItem": "V_Neck_Dress_Black",
@@ -325,28 +289,16 @@
 			"Slots":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Slot": "Fabric_1",
-						"MaterialBaseClass": "BASIC_Crafting_Board_Shorts_Board"
-					}
+					"Slot": "Fabric_1",
+					"MaterialBaseClass": "BASIC_Crafting_Board_Shorts_Board"
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Slot": "Fabric_1",
-						"MaterialBaseClass": "BASIC_Crafting_Board_Shorts_Board"
-					}
+					"Slot": "Fabric_1",
+					"MaterialBaseClass": "BASIC_Crafting_Board_Shorts_Board"
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Slot": "Fabric_1",
-						"MaterialBaseClass": "BASIC_Crafting_Board_Shorts_Board"
-					}
+					"Slot": "Fabric_1",
+					"MaterialBaseClass": "BASIC_Crafting_Board_Shorts_Board"
 				}
 			],
 			"ProducedFurnitureItem": "Board_Shorts_Black",
@@ -376,20 +328,12 @@
 			"Slots":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Slot": "Fabric_1",
-						"MaterialBaseClass": "BASIC_CRAFTING_Pants_Jeans"
-					}
+					"Slot": "Fabric_1",
+					"MaterialBaseClass": "BASIC_CRAFTING_Pants_Jeans"
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Slot": "Fabric_1",
-						"MaterialBaseClass": "BASIC_CRAFTING_Pants_Jeans"
-					}
+					"Slot": "Fabric_1",
+					"MaterialBaseClass": "BASIC_CRAFTING_Pants_Jeans"
 				}
 			],
 			"ProducedFurnitureItem": "Black_Jeans",
@@ -419,12 +363,8 @@
 			"Slots":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Slot": "Fabric_1",
-						"MaterialBaseClass": "BASIC_CRAFTING_Pants_Jeans"
-					}
+					"Slot": "Fabric_1",
+					"MaterialBaseClass": "BASIC_CRAFTING_Pants_Jeans"
 				}
 			],
 			"ProducedFurnitureItem": "Capris_Black",
@@ -454,12 +394,8 @@
 			"Slots":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Slot": "Fabric_1",
-						"MaterialBaseClass": "BASIC_CRAFTING_Cargo_Pants"
-					}
+					"Slot": "Fabric_1",
+					"MaterialBaseClass": "BASIC_CRAFTING_Cargo_Pants"
 				}
 			],
 			"ProducedFurnitureItem": "Cargo_Pants_Black",
@@ -489,20 +425,12 @@
 			"Slots":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Slot": "Fabric_1",
-						"MaterialBaseClass": "BASIC_Crafting_Overall_Pants"
-					}
+					"Slot": "Fabric_1",
+					"MaterialBaseClass": "BASIC_Crafting_Overall_Pants"
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Slot": "Fabric_1",
-						"MaterialBaseClass": "BASIC_Crafting_Overall_Pants"
-					}
+					"Slot": "Fabric_1",
+					"MaterialBaseClass": "BASIC_Crafting_Overall_Pants"
 				}
 			],
 			"ProducedFurnitureItem": "Overalls_Black",
@@ -532,12 +460,8 @@
 			"Slots":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Slot": "Fabric_1",
-						"MaterialBaseClass": "BASIC_Crafting_Hammer_Pants"
-					}
+					"Slot": "Fabric_1",
+					"MaterialBaseClass": "BASIC_Crafting_Hammer_Pants"
 				}
 			],
 			"ProducedFurnitureItem": "Hammer_Pants_Black",
@@ -567,12 +491,8 @@
 			"Slots":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Slot": "Fabric_1",
-						"MaterialBaseClass": "BASIC_Crafting_Shorts_Blend"
-					}
+					"Slot": "Fabric_1",
+					"MaterialBaseClass": "BASIC_Crafting_Shorts_Blend"
 				}
 			],
 			"ProducedFurnitureItem": "Shorts_Black",
@@ -602,20 +522,12 @@
 			"Slots":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Slot": "Fabric_1",
-						"MaterialBaseClass": "BASIC_Crafting_Sweatpants_Blend"
-					}
+					"Slot": "Fabric_1",
+					"MaterialBaseClass": "BASIC_Crafting_Sweatpants_Blend"
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Slot": "Fabric_1",
-						"MaterialBaseClass": "BASIC_Crafting_Sweatpants_Blend"
-					}
+					"Slot": "Fabric_1",
+					"MaterialBaseClass": "BASIC_Crafting_Sweatpants_Blend"
 				}
 			],
 			"ProducedFurnitureItem": "Sweatpants_Black",
@@ -645,12 +557,8 @@
 			"Slots":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Slot": "Fabric_1",
-						"MaterialBaseClass": "BASIC_CraftingBoots_Plain"
-					}
+					"Slot": "Fabric_1",
+					"MaterialBaseClass": "BASIC_CraftingBoots_Plain"
 				}
 			],
 			"ProducedFurnitureItem": "Boots_Plain_Black",
@@ -680,12 +588,8 @@
 			"Slots":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Slot": "Fabric_1",
-						"MaterialBaseClass": "BASIC_Crafting_Flip_Flop"
-					}
+					"Slot": "Fabric_1",
+					"MaterialBaseClass": "BASIC_Crafting_Flip_Flop"
 				}
 			],
 			"ProducedFurnitureItem": "Flip_Flops_Black",
@@ -715,12 +619,8 @@
 			"Slots":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Slot": "Fabric_1",
-						"MaterialBaseClass": "BASIC_Crafting_Loafers_Plain"
-					}
+					"Slot": "Fabric_1",
+					"MaterialBaseClass": "BASIC_Crafting_Loafers_Plain"
 				}
 			],
 			"ProducedFurnitureItem": "Loafers_Black",
@@ -750,12 +650,8 @@
 			"Slots":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Slot": "Fabric_1",
-						"MaterialBaseClass": "BASIC_Crafting_Collared_Shirt_Open"
-					}
+					"Slot": "Fabric_1",
+					"MaterialBaseClass": "BASIC_Crafting_Collared_Shirt_Open"
 				}
 			],
 			"ProducedFurnitureItem": "Collared_Shirt_Opened_Black",
@@ -785,28 +681,16 @@
 			"Slots":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Slot": "Fabric_1",
-						"MaterialBaseClass": "BASIC_Crafting_Collared_DressBlend"
-					}
+					"Slot": "Fabric_1",
+					"MaterialBaseClass": "BASIC_Crafting_Collared_DressBlend"
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Slot": "Fabric_2",
-						"MaterialBaseClass": "BASIC_Crafting_Collared_DressBlend"
-					}
+					"Slot": "Fabric_2",
+					"MaterialBaseClass": "BASIC_Crafting_Collared_DressBlend"
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Slot": "Fabric_3",
-						"MaterialBaseClass": "BASIC_Crafting_Collared_Dress_Blend_Dark"
-					}
+					"Slot": "Fabric_3",
+					"MaterialBaseClass": "BASIC_Crafting_Collared_Dress_Blend_Dark"
 				}
 			],
 			"ProducedFurnitureItem": "Collared_Dress_Black",
@@ -836,28 +720,16 @@
 			"Slots":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Slot": "Fabric_4",
-						"MaterialBaseClass": "BASIC_Crafting_Suit_Turtle_Neck_Sweater_Blend"
-					}
+					"Slot": "Fabric_4",
+					"MaterialBaseClass": "BASIC_Crafting_Suit_Turtle_Neck_Sweater_Blend"
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Slot": "Fabric_1",
-						"MaterialBaseClass": "BASIC_Crafting_Suit_Turtle_Neck_Sweater_Blend"
-					}
+					"Slot": "Fabric_1",
+					"MaterialBaseClass": "BASIC_Crafting_Suit_Turtle_Neck_Sweater_Blend"
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Slot": "Fabric_2",
-						"MaterialBaseClass": "BASIC_Crafting_Suit_Turtle_Neck_Sweater_Blend"
-					}
+					"Slot": "Fabric_2",
+					"MaterialBaseClass": "BASIC_Crafting_Suit_Turtle_Neck_Sweater_Blend"
 				}
 			],
 			"ProducedFurnitureItem": "Suit_Turtle_Neck_Sweater_Tan_Red",
@@ -887,20 +759,12 @@
 			"Slots":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Slot": "Fabric_1",
-						"MaterialBaseClass": "BASIC_Craft_Collared_Shirt_Tie_Blend"
-					}
+					"Slot": "Fabric_1",
+					"MaterialBaseClass": "BASIC_Craft_Collared_Shirt_Tie_Blend"
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Slot": "Fabric_5",
-						"MaterialBaseClass": "BASIC_CRAFTING_Tie_Blend"
-					}
+					"Slot": "Fabric_5",
+					"MaterialBaseClass": "BASIC_CRAFTING_Tie_Blend"
 				}
 			],
 			"ProducedFurnitureItem": "Collared_Shirt_White_Tie_Black",
@@ -930,12 +794,8 @@
 			"Slots":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Slot": "Fabric_1",
-						"MaterialBaseClass": "BASIC_CRAFTING_Collared_Shirt_Long_Blend"
-					}
+					"Slot": "Fabric_1",
+					"MaterialBaseClass": "BASIC_CRAFTING_Collared_Shirt_Long_Blend"
 				}
 			],
 			"ProducedFurnitureItem": "Collared_Shirt_Long_Black",
@@ -965,28 +825,16 @@
 			"Slots":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Slot": "Fabric_1",
-						"MaterialBaseClass": "BASIC_CRAFTING_Shirt_Vest_Blend"
-					}
+					"Slot": "Fabric_1",
+					"MaterialBaseClass": "BASIC_CRAFTING_Shirt_Vest_Blend"
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Slot": "Fabric_4",
-						"MaterialBaseClass": "BASIC_CRAFTING_Shirt_Vest_Blend"
-					}
+					"Slot": "Fabric_4",
+					"MaterialBaseClass": "BASIC_CRAFTING_Shirt_Vest_Blend"
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Slot": "Fabric_2",
-						"MaterialBaseClass": "BASIC_CRAFTING_Shirt_Vest_Blend"
-					}
+					"Slot": "Fabric_2",
+					"MaterialBaseClass": "BASIC_CRAFTING_Shirt_Vest_Blend"
 				}
 			],
 			"ProducedFurnitureItem": "Collared_Shirt_Vest_White",
@@ -1016,12 +864,8 @@
 			"Slots":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Slot": "Fabric_1",
-						"MaterialBaseClass": "BASIC_CRAFT_Cheongsam_Dress_Blend"
-					}
+					"Slot": "Fabric_1",
+					"MaterialBaseClass": "BASIC_CRAFT_Cheongsam_Dress_Blend"
 				}
 			],
 			"ProducedFurnitureItem": "Cheongsam_Dress_Black",
@@ -1051,12 +895,8 @@
 			"Slots":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Slot": "Fabric_1",
-						"MaterialBaseClass": "BASIC_CRAFTING_Fancy_Frilly_Blend"
-					}
+					"Slot": "Fabric_1",
+					"MaterialBaseClass": "BASIC_CRAFTING_Fancy_Frilly_Blend"
 				}
 			],
 			"ProducedFurnitureItem": "Fancy_Frilly_Shirt_Black",
@@ -1086,12 +926,8 @@
 			"Slots":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Slot": "Fabric_1",
-						"MaterialBaseClass": "BASIC_CRAFTING_Hoodie_Blend"
-					}
+					"Slot": "Fabric_1",
+					"MaterialBaseClass": "BASIC_CRAFTING_Hoodie_Blend"
 				}
 			],
 			"ProducedFurnitureItem": "Hoodie_Black",
@@ -1121,12 +957,8 @@
 			"Slots":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Slot": "Fabric_1",
-						"MaterialBaseClass": "BASIC_CRAFTING_Longsleeve_Shirt_Blend"
-					}
+					"Slot": "Fabric_1",
+					"MaterialBaseClass": "BASIC_CRAFTING_Longsleeve_Shirt_Blend"
 				}
 			],
 			"ProducedFurnitureItem": "Long_Sleeve_Shirt_Black",
@@ -1156,20 +988,12 @@
 			"Slots":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Slot": "Fabric_1",
-						"MaterialBaseClass": "BASIC_CRAFT_Jacket_Open_Jacket_Blend"
-					}
+					"Slot": "Fabric_1",
+					"MaterialBaseClass": "BASIC_CRAFT_Jacket_Open_Jacket_Blend"
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Slot": "Fabric_2",
-						"MaterialBaseClass": "BASIC_CRAFTING_Jacket_Open_Blend"
-					}
+					"Slot": "Fabric_2",
+					"MaterialBaseClass": "BASIC_CRAFTING_Jacket_Open_Blend"
 				}
 			],
 			"ProducedFurnitureItem": "Jacket_Open_White_Shirt",
@@ -1199,20 +1023,12 @@
 			"Slots":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Slot": "Fabric_1",
-						"MaterialBaseClass": "BASIC_CRAFT_Sweater_Vest_Vest_Blend"
-					}
+					"Slot": "Fabric_1",
+					"MaterialBaseClass": "BASIC_CRAFT_Sweater_Vest_Vest_Blend"
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Slot": "Fabric_2",
-						"MaterialBaseClass": "BASIC_CRAFTING_Sweater_Vest_Shirt_Blend"
-					}
+					"Slot": "Fabric_2",
+					"MaterialBaseClass": "BASIC_CRAFTING_Sweater_Vest_Shirt_Blend"
 				}
 			],
 			"ProducedFurnitureItem": "Sweater_Vest_Red",
@@ -1242,12 +1058,8 @@
 			"Slots":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Slot": "Fabric_1",
-						"MaterialBaseClass": "BASIC_CRAFTING_Turtleneck_Sweater_Blend"
-					}
+					"Slot": "Fabric_1",
+					"MaterialBaseClass": "BASIC_CRAFTING_Turtleneck_Sweater_Blend"
 				}
 			],
 			"ProducedFurnitureItem": "Turtleneck_Sweater_Black",
@@ -1277,20 +1089,12 @@
 			"Slots":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Slot": "Fabric_1",
-						"MaterialBaseClass": "BASIC_CRAFT_Pants"
-					}
+					"Slot": "Fabric_1",
+					"MaterialBaseClass": "BASIC_CRAFT_Pants"
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Slot": "Fabric_1",
-						"MaterialBaseClass": "BASIC_CRAFT_Pants"
-					}
+					"Slot": "Fabric_1",
+					"MaterialBaseClass": "BASIC_CRAFT_Pants"
 				}
 			],
 			"ProducedFurnitureItem": "Pants_Black",
@@ -1320,12 +1124,8 @@
 			"Slots":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Slot": "Fabric_1",
-						"MaterialBaseClass": "BASIC_CRAFT_Fishtail_Skirt_Long_Blend"
-					}
+					"Slot": "Fabric_1",
+					"MaterialBaseClass": "BASIC_CRAFT_Fishtail_Skirt_Long_Blend"
 				}
 			],
 			"ProducedFurnitureItem": "Fishtail_Skirt_Black",
@@ -1355,12 +1155,8 @@
 			"Slots":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Slot": "Fabric_1",
-						"MaterialBaseClass": "BASIC_CRAFT_Pencil_Skirt_Blend"
-					}
+					"Slot": "Fabric_1",
+					"MaterialBaseClass": "BASIC_CRAFT_Pencil_Skirt_Blend"
 				}
 			],
 			"ProducedFurnitureItem": "Pencil_Skirt_Black",
@@ -1390,12 +1186,8 @@
 			"Slots":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Slot": "Fabric_1",
-						"MaterialBaseClass": "BASIC_CRAFT_Fishtail_Skirt_Short_Blend"
-					}
+					"Slot": "Fabric_1",
+					"MaterialBaseClass": "BASIC_CRAFT_Fishtail_Skirt_Short_Blend"
 				}
 			],
 			"ProducedFurnitureItem": "Fishtail_Skirt_Short_Black",
@@ -1425,12 +1217,8 @@
 			"Slots":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Slot": "Fabric_1",
-						"MaterialBaseClass": "BASIC_CRAFT_Long_Skirt_Blend"
-					}
+					"Slot": "Fabric_1",
+					"MaterialBaseClass": "BASIC_CRAFT_Long_Skirt_Blend"
 				}
 			],
 			"ProducedFurnitureItem": "Long_Skirt_Black",
@@ -1460,28 +1248,16 @@
 			"Slots":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Slot": "Fabric_1",
-						"MaterialBaseClass": "BASIC_CRAFT__Peasant_Dress_Light"
-					}
+					"Slot": "Fabric_1",
+					"MaterialBaseClass": "BASIC_CRAFT__Peasant_Dress_Light"
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Slot": "Fabric_3",
-						"MaterialBaseClass": "BASIC_CRAFT__Peasant_Dress_Light"
-					}
+					"Slot": "Fabric_3",
+					"MaterialBaseClass": "BASIC_CRAFT__Peasant_Dress_Light"
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Slot": "Fabric_2",
-						"MaterialBaseClass": "BASIC_CRAFT__Peasant_Dress_Light"
-					}
+					"Slot": "Fabric_2",
+					"MaterialBaseClass": "BASIC_CRAFT__Peasant_Dress_Light"
 				}
 			],
 			"ProducedFurnitureItem": "Peasant_Dress_Green",
@@ -1511,12 +1287,8 @@
 			"Slots":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Slot": "Fabric_1",
-						"MaterialBaseClass": "BASIC_CRAFT_Long_Skirt_Blend"
-					}
+					"Slot": "Fabric_1",
+					"MaterialBaseClass": "BASIC_CRAFT_Long_Skirt_Blend"
 				}
 			],
 			"ProducedFurnitureItem": "Short_Skirt_Black",
@@ -1546,20 +1318,12 @@
 			"Slots":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Slot": "Fabric_1",
-						"MaterialBaseClass": "BASIC_CRAFT__Peasant_Dress_Unique"
-					}
+					"Slot": "Fabric_1",
+					"MaterialBaseClass": "BASIC_CRAFT__Peasant_Dress_Unique"
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Slot": "Fabric_3",
-						"MaterialBaseClass": "BASIC_CRAFT__Peasant_Dress_Unique"
-					}
+					"Slot": "Fabric_3",
+					"MaterialBaseClass": "BASIC_CRAFT__Peasant_Dress_Unique"
 				}
 			],
 			"ProducedFurnitureItem": "Summer_Dress_White",
@@ -1589,36 +1353,20 @@
 			"Slots":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Slot": "Fabric_8",
-						"MaterialBaseClass": "BASE_Lolita_Dress_Unique2"
-					}
+					"Slot": "Fabric_8",
+					"MaterialBaseClass": "BASE_Lolita_Dress_Unique2"
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Slot": "Fabric_7",
-						"MaterialBaseClass": "BASE_Lolita_Dress_Unique3"
-					}
+					"Slot": "Fabric_7",
+					"MaterialBaseClass": "BASE_Lolita_Dress_Unique3"
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Slot": "Fabric_6",
-						"MaterialBaseClass": "BASE_Lolita_Dress_Unique3"
-					}
+					"Slot": "Fabric_6",
+					"MaterialBaseClass": "BASE_Lolita_Dress_Unique3"
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Slot": "Fabric_1",
-						"MaterialBaseClass": "BASE_Lolita_Dress_Unique1"
-					}
+					"Slot": "Fabric_1",
+					"MaterialBaseClass": "BASE_Lolita_Dress_Unique1"
 				}
 			],
 			"ProducedFurnitureItem": "Lolita_Dress_White",
@@ -1648,20 +1396,12 @@
 			"Slots":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Slot": "Fabric_1",
-						"MaterialBaseClass": "BASE_Varsity_Unique"
-					}
+					"Slot": "Fabric_1",
+					"MaterialBaseClass": "BASE_Varsity_Unique"
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Slot": "Fabric_9",
-						"MaterialBaseClass": "BASE_Varsity_Unique"
-					}
+					"Slot": "Fabric_9",
+					"MaterialBaseClass": "BASE_Varsity_Unique"
 				}
 			],
 			"ProducedFurnitureItem": "Varsity_Jacket_Red",
@@ -1691,12 +1431,8 @@
 			"Slots":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Slot": "Frames",
-						"MaterialBaseClass": "Wallpaper_Base"
-					}
+					"Slot": "Frames",
+					"MaterialBaseClass": "Wallpaper_Base"
 				}
 			],
 			"ProducedFurnitureItem": "Glasses_Thick_Black",
@@ -1726,12 +1462,8 @@
 			"Slots":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Slot": "Frames",
-						"MaterialBaseClass": "Wallpaper_Base"
-					}
+					"Slot": "Frames",
+					"MaterialBaseClass": "Wallpaper_Base"
 				}
 			],
 			"ProducedFurnitureItem": "Glasses_Oval_Black",
@@ -1761,12 +1493,8 @@
 			"Slots":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Slot": "Frames",
-						"MaterialBaseClass": "Wallpaper_Base"
-					}
+					"Slot": "Frames",
+					"MaterialBaseClass": "Wallpaper_Base"
 				}
 			],
 			"ProducedFurnitureItem": "Glasses_Round_Large_Black",
@@ -1796,12 +1524,8 @@
 			"Slots":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Slot": "Frames",
-						"MaterialBaseClass": "Wallpaper_Base"
-					}
+					"Slot": "Frames",
+					"MaterialBaseClass": "Wallpaper_Base"
 				}
 			],
 			"ProducedFurnitureItem": "Glasses_Heavy_Bridge_Black",
@@ -1831,12 +1555,8 @@
 			"Slots":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Slot": "Frames",
-						"MaterialBaseClass": "Wallpaper_Base"
-					}
+					"Slot": "Frames",
+					"MaterialBaseClass": "Wallpaper_Base"
 				}
 			],
 			"ProducedFurnitureItem": "Glasses_Monocle_Black",
@@ -1866,12 +1586,8 @@
 			"Slots":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Slot": "Frames",
-						"MaterialBaseClass": "Wallpaper_Base"
-					}
+					"Slot": "Frames",
+					"MaterialBaseClass": "Wallpaper_Base"
 				}
 			],
 			"ProducedFurnitureItem": "Glasses_Librarian_Black",
@@ -1901,12 +1617,8 @@
 			"Slots":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Slot": "Frames",
-						"MaterialBaseClass": "Wallpaper_Base"
-					}
+					"Slot": "Frames",
+					"MaterialBaseClass": "Wallpaper_Base"
 				}
 			],
 			"ProducedFurnitureItem": "Glasses_Aviator",
@@ -1936,12 +1648,8 @@
 			"Slots":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Slot": "Main_Earrings",
-						"MaterialBaseClass": "Wallpaper_Base"
-					}
+					"Slot": "Main_Earrings",
+					"MaterialBaseClass": "Wallpaper_Base"
 				}
 			],
 			"ProducedFurnitureItem": "Earrings_Ank_Black",
@@ -1971,12 +1679,8 @@
 			"Slots":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Slot": "Main_Earrings",
-						"MaterialBaseClass": "Wallpaper_Base"
-					}
+					"Slot": "Main_Earrings",
+					"MaterialBaseClass": "Wallpaper_Base"
 				}
 			],
 			"ProducedFurnitureItem": "Earrings_Circl_Black",
@@ -2006,12 +1710,8 @@
 			"Slots":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Slot": "Main_Earrings",
-						"MaterialBaseClass": "Wallpaper_Base"
-					}
+					"Slot": "Main_Earrings",
+					"MaterialBaseClass": "Wallpaper_Base"
 				}
 			],
 			"ProducedFurnitureItem": "Earrings_Diamond_Frame_Black",
@@ -2041,12 +1741,8 @@
 			"Slots":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Slot": "Main_Earrings",
-						"MaterialBaseClass": "Wallpaper_Base"
-					}
+					"Slot": "Main_Earrings",
+					"MaterialBaseClass": "Wallpaper_Base"
 				}
 			],
 			"ProducedFurnitureItem": "Earrings_Flower_Studs_Black",
@@ -2076,12 +1772,8 @@
 			"Slots":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Slot": "Main_Earrings",
-						"MaterialBaseClass": "Wallpaper_Base"
-					}
+					"Slot": "Main_Earrings",
+					"MaterialBaseClass": "Wallpaper_Base"
 				}
 			],
 			"ProducedFurnitureItem": "Earrings_Simple_Studs_Black",
@@ -2111,12 +1803,8 @@
 			"Slots":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Slot": "Main_Earrings",
-						"MaterialBaseClass": "Wallpaper_Base"
-					}
+					"Slot": "Main_Earrings",
+					"MaterialBaseClass": "Wallpaper_Base"
 				}
 			],
 			"ProducedFurnitureItem": "Earrings_Stud_Star_Black",
@@ -2146,12 +1834,8 @@
 			"Slots":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Slot": "Main_Earrings",
-						"MaterialBaseClass": "Wallpaper_Base"
-					}
+					"Slot": "Main_Earrings",
+					"MaterialBaseClass": "Wallpaper_Base"
 				}
 			],
 			"ProducedFurnitureItem": "Earring_TearDrops_Black",
@@ -2181,12 +1865,8 @@
 			"Slots":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Slot": "Frames",
-						"MaterialBaseClass": "Wallpaper_Base"
-					}
+					"Slot": "Frames",
+					"MaterialBaseClass": "Wallpaper_Base"
 				}
 			],
 			"ProducedFurnitureItem": "Glasses_Vacation_Purple",

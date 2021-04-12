@@ -6,102 +6,74 @@
 			"Quests":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Item": "Potato",
-						"ItemAmount": 2,
-						"Npc": "Tessa",
-						"StartingHoursLeft": 0,
-						"HoursToComplete": 168,
-						"StartingStatement": "I need",
-						"ClosingStatement": "It's for a recipe",
-						"IsNpcErrand": false
-					}
+					"Item": "Potato",
+					"ItemAmount": 2,
+					"Npc": "Tessa",
+					"StartingHoursLeft": 0,
+					"HoursToComplete": 168,
+					"StartingStatement": "I need",
+					"ClosingStatement": "It's for a recipe",
+					"IsNpcErrand": false
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Item": "Daisy",
-						"ItemAmount": 2,
-						"Npc": "Tessa",
-						"StartingHoursLeft": 0,
-						"HoursToComplete": 168,
-						"StartingStatement": "I need",
-						"ClosingStatement": "I could really use some for my house.",
-						"IsNpcErrand": false
-					}
+					"Item": "Daisy",
+					"ItemAmount": 2,
+					"Npc": "Tessa",
+					"StartingHoursLeft": 0,
+					"HoursToComplete": 168,
+					"StartingStatement": "I need",
+					"ClosingStatement": "I could really use some for my house.",
+					"IsNpcErrand": false
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Item": "Camelia",
-						"ItemAmount": 2,
-						"Npc": "Tessa",
-						"StartingHoursLeft": 0,
-						"HoursToComplete": 168,
-						"StartingStatement": "I need",
-						"ClosingStatement": "It's for a friend.",
-						"IsNpcErrand": false
-					}
+					"Item": "Camelia",
+					"ItemAmount": 2,
+					"Npc": "Tessa",
+					"StartingHoursLeft": 0,
+					"HoursToComplete": 168,
+					"StartingStatement": "I need",
+					"ClosingStatement": "It's for a friend.",
+					"IsNpcErrand": false
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Item": "Cilantro",
-						"ItemAmount": 3,
-						"Npc": "Tessa",
-						"StartingHoursLeft": 0,
-						"HoursToComplete": 168,
-						"StartingStatement": "Can anyone get me",
-						"ClosingStatement": "It's for a recipe",
-						"IsNpcErrand": false
-					}
+					"Item": "Cilantro",
+					"ItemAmount": 3,
+					"Npc": "Tessa",
+					"StartingHoursLeft": 0,
+					"HoursToComplete": 168,
+					"StartingStatement": "Can anyone get me",
+					"ClosingStatement": "It's for a recipe",
+					"IsNpcErrand": false
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Item": "Cosmos",
-						"ItemAmount": 3,
-						"Npc": "Julian",
-						"StartingHoursLeft": 0,
-						"HoursToComplete": 168,
-						"StartingStatement": "I would like",
-						"ClosingStatement": "It's for my room.",
-						"IsNpcErrand": false
-					}
+					"Item": "Cosmos",
+					"ItemAmount": 3,
+					"Npc": "Julian",
+					"StartingHoursLeft": 0,
+					"HoursToComplete": 168,
+					"StartingStatement": "I would like",
+					"ClosingStatement": "It's for my room.",
+					"IsNpcErrand": false
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Item": "Parsley",
-						"ItemAmount": 3,
-						"Npc": "Julian",
-						"StartingHoursLeft": 0,
-						"HoursToComplete": 168,
-						"StartingStatement": "Does anyone have",
-						"ClosingStatement": "It's for a recipe.",
-						"IsNpcErrand": false
-					}
+					"Item": "Parsley",
+					"ItemAmount": 3,
+					"Npc": "Julian",
+					"StartingHoursLeft": 0,
+					"HoursToComplete": 168,
+					"StartingStatement": "Does anyone have",
+					"ClosingStatement": "It's for a recipe.",
+					"IsNpcErrand": false
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Item": "Lettuce",
-						"ItemAmount": 1,
-						"Npc": "Julian",
-						"StartingHoursLeft": 0,
-						"HoursToComplete": 168,
-						"StartingStatement": "Does anyone have ",
-						"ClosingStatement": "I could use some for my lunch.",
-						"IsNpcErrand": false
-					}
+					"Item": "Lettuce",
+					"ItemAmount": 1,
+					"Npc": "Julian",
+					"StartingHoursLeft": 0,
+					"HoursToComplete": 168,
+					"StartingStatement": "Does anyone have ",
+					"ClosingStatement": "I could use some for my lunch.",
+					"IsNpcErrand": false
 				}
 			]
 		},
@@ -110,32 +82,24 @@
 			"Quests":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Item": "Potato",
-						"ItemAmount": 3,
-						"Npc": "Lamonte",
-						"StartingHoursLeft": 0,
-						"HoursToComplete": 168,
-						"StartingStatement": "I need",
-						"ClosingStatement": "I could use some for my lunch.",
-						"IsNpcErrand": false
-					}
+					"Item": "Potato",
+					"ItemAmount": 3,
+					"Npc": "Lamonte",
+					"StartingHoursLeft": 0,
+					"HoursToComplete": 168,
+					"StartingStatement": "I need",
+					"ClosingStatement": "I could use some for my lunch.",
+					"IsNpcErrand": false
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Item": "Sugarcane",
-						"ItemAmount": 3,
-						"Npc": "Melanie",
-						"StartingHoursLeft": 0,
-						"HoursToComplete": 168,
-						"StartingStatement": "I need",
-						"ClosingStatement": "I require these soon.",
-						"IsNpcErrand": false
-					}
+					"Item": "Sugarcane",
+					"ItemAmount": 3,
+					"Npc": "Melanie",
+					"StartingHoursLeft": 0,
+					"HoursToComplete": 168,
+					"StartingStatement": "I need",
+					"ClosingStatement": "I require these soon.",
+					"IsNpcErrand": false
 				}
 			]
 		},
@@ -144,18 +108,14 @@
 			"Quests":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Item": "Potato",
-						"ItemAmount": 3,
-						"Npc": "Jen",
-						"StartingHoursLeft": 0,
-						"HoursToComplete": 168,
-						"StartingStatement": "I need",
-						"ClosingStatement": "I could use some for my lunch.",
-						"IsNpcErrand": false
-					}
+					"Item": "Potato",
+					"ItemAmount": 3,
+					"Npc": "Jen",
+					"StartingHoursLeft": 0,
+					"HoursToComplete": 168,
+					"StartingStatement": "I need",
+					"ClosingStatement": "I could use some for my lunch.",
+					"IsNpcErrand": false
 				}
 			]
 		},
@@ -164,32 +124,24 @@
 			"Quests":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Item": "Potato",
-						"ItemAmount": 3,
-						"Npc": "Fukuyama",
-						"StartingHoursLeft": 0,
-						"HoursToComplete": 168,
-						"StartingStatement": "I need",
-						"ClosingStatement": "I could use some for my lunch.",
-						"IsNpcErrand": false
-					}
+					"Item": "Potato",
+					"ItemAmount": 3,
+					"Npc": "Fukuyama",
+					"StartingHoursLeft": 0,
+					"HoursToComplete": 168,
+					"StartingStatement": "I need",
+					"ClosingStatement": "I could use some for my lunch.",
+					"IsNpcErrand": false
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"Item": "Peas",
-						"ItemAmount": 3,
-						"Npc": "Tanya",
-						"StartingHoursLeft": 0,
-						"HoursToComplete": 168,
-						"StartingStatement": "I need",
-						"ClosingStatement": "I require these soon.",
-						"IsNpcErrand": false
-					}
+					"Item": "Peas",
+					"ItemAmount": 3,
+					"Npc": "Tanya",
+					"StartingHoursLeft": 0,
+					"HoursToComplete": 168,
+					"StartingStatement": "I need",
+					"ClosingStatement": "I require these soon.",
+					"IsNpcErrand": false
 				}
 			]
 		}

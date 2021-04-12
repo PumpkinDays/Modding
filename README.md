@@ -1,6 +1,6 @@
 # Pumpkin Days Modding
 
-## Getting Started 
+## Initial Setup 
 
 1. To get started with modding, download the modding files from this repository.
 ![](ModdingImages/Getting_Started_1.PNG)
@@ -12,16 +12,53 @@
 
 3. Copy the ```Modding``` folder from this repository into the ```<PumpkinDaysInstallationFolder>/PumpkinOnline/Content``` folder.
 ![](ModdingImages/Getting_Started_3.PNG)
-## Types of Objects
 
-### Object
+Now that you have the modding files in place, you can start modifying the game's data tables. 
 
-```Object``` refers to any one of the following: 
+## The Modding Directory
+
+The ```Modding``` folder that you copied into your Steam directory has several items:
+- The ```Modding_Settings.txt``` file, which contains misc settings that control the mods. 
+- The ```Mod_Profiles``` folder, which holds the different mod profiles that can be used. A mod profile is just a set of modifications to the game. 
+    - The ```Default``` mod profile includes ```<DataTableName>_VALUES.txt``` and  ```<DataTableName>_SCHEMA.txt``` files. The VALUES files contains existing data table values so that you can more easily know what to modify, and the SCHEMA files show the structure of each data table. These files are for your use only, and have no impact on the mods themselves. 
+## Making Your First Modification
+
+Pumpkin Days mods work by modifying the game's data tables. A data table stores data related to the game in rows and columns. As an example, ```Consumable_Stamina_Data``` is the data table that specifies how much stamina is restored when eating food:
+
+![](ModdingImages/Consumable_Stamina_Data_Example.PNG)
+
+Modifications to data tables are made with JSON files that specify which properties to change in each row. Let's change the ```StaminaReward``` property in the ```Apple``` row so that apples give more stamina when eaten. 
+
+First, create a JSON file with the data table's name in the appropriate location. To determine where the JSON file needs to be placed, locate the schema and value files for that data table. For ```Consumable_Stamina_Data```, the JSON file will need to be placed in ```Modding/Mod_Profiles/<ProfileName>/Blueprints/Data_Tables```. Now that you've created a file named ```Consumable_Stamina_Data.json``` and placed it in the correct folder, we can edit the values. 
+
+Every JSON file is required to have a ```Rows``` array, which is an array of row objects. Each row object needs a ```RowName``` string that specifies which row is being modified, and any other values in that row that you wish to change.  This JSON can be used as a base template:
+```json
+{
+  "Rows": [
+  ]
+}
+```
+
+To modify the stamina reward for apples, add an object for the ```Apple``` row, and specify a new value for ```StaminaReward```:
+```json
+{
+  "Rows": [
+    {
+      "RowName": "Apple",
+      "StaminaReward":  20
+    }
+  ]
+}
+```
+
+At this point, you should be able to run the game and see the change by eating an Apple. To verify that everything worked correctly, you can check the logs folder as outlined in the [Troubleshooting section](#Troubleshooting). 
 
 
-- ```Value```
-- ```Array```
-- ```Structure```
+## Troubleshooting
+Each mod profile will generate logs located at ```Modding/Mod_Profiles/<ProfileName>/Logs```. One log for each data table is generated, and outlines what happened when trying to handle modding for that particular data table. An absence of errors generally means that the values in the JSON file were loaded normally.
+
+## Types of JSON Objects
+
 ---
 ### Value
 
@@ -32,14 +69,21 @@ A ```Value``` is an individual value.
 - String: ```"Bob's Kitten"```
 - True/False: ```true```
 
-The last type of value is an enum
+The last type of value is an enum, which is one value out of a specific list. As an example, the ```ToolTier``` enum can be one of the following:
+```
+Wooden
+Copper
+Iron
+etc.
+```
 
+Enum values should be specified as strings, with the value being one of the values defined in the schema. 
 
 ---
 ### Structure
 
 
-A ```Structure``` is a group of named objects. Structures have specific objects that belong to them, which are outlined in the schema
+A ```Structure``` is a group of values. Structures have specific values that belong to them, which are outlined in the schema
 An example is the ```MeatValues``` structure used in ```Animal_Properties_Data```:
 
  ```json
@@ -67,14 +111,14 @@ The actual value of ```MeatValues``` for ```Hen_Red```:
 ```
 
 
-<u>If an object is not included in a structure, a default value will be used.</u>
+<u>If a value is not included in a structure, the default or existing value will be used.</u>
 
 ---
 ### Array
 
-An ```Array``` is a list of objects.
+An ```Array``` is a list of items.
 
-Like everything else, each array is meant for <b>a specific type</b> of object. For example, ```Town_Data```'s ```Npcs``` array can only contain strings, as denoted by the schema:
+Like everything else, each array is meant for <b>a specific type</b> of item. For example, ```Town_Data```'s ```Npcs``` array can only contain strings, as denoted by the schema:
 
 ```javascript
 Npcs(Array): string

@@ -6,36 +6,28 @@
 			"ArrayOfNameArrays":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"NameArray":
-						[
-							"CuteDress",
-							"SpicyDress",
-							"ModestDress",
-							"Suit",
-							"SkipAll"
-						]
-					}
+					"NameArray":
+					[
+						"CuteDress",
+						"SpicyDress",
+						"ModestDress",
+						"Suit",
+						"SkipAll"
+					]
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"NameArray":
-						[
-							"White",
-							"Black",
-							"Pink",
-							"Grey",
-							"Red",
-							"SkyBlue",
-							"Yellow",
-							"Purple",
-							"Green"
-						]
-					}
+					"NameArray":
+					[
+						"White",
+						"Black",
+						"Pink",
+						"Grey",
+						"Red",
+						"SkyBlue",
+						"Yellow",
+						"Purple",
+						"Green"
+					]
 				}
 			]
 		},
@@ -44,20 +36,16 @@
 			"ArrayOfNameArrays":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"NameArray":
-						[
-							"White",
-							"Black",
-							"Blue",
-							"Pink",
-							"Purple",
-							"Yellow",
-							"Red"
-						]
-					}
+					"NameArray":
+					[
+						"White",
+						"Black",
+						"Blue",
+						"Pink",
+						"Purple",
+						"Yellow",
+						"Red"
+					]
 				}
 			]
 		},
@@ -66,33 +54,25 @@
 			"ArrayOfNameArrays":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"NameArray":
-						[
-							"FlowerField",
-							"Beach",
-							"Mountaintop",
-							"WindTemple",
-							"WaterTemple",
-							"FireTemple",
-							"Swamp"
-						]
-					}
+					"NameArray":
+					[
+						"FlowerField",
+						"Beach",
+						"Mountaintop",
+						"WindTemple",
+						"WaterTemple",
+						"FireTemple",
+						"Swamp"
+					]
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"NameArray":
-						[
-							"Sunset",
-							"Sunrise",
-							"Day",
-							"Night"
-						]
-					}
+					"NameArray":
+					[
+						"Sunset",
+						"Sunrise",
+						"Day",
+						"Night"
+					]
 				}
 			]
 		}

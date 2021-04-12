@@ -9,28 +9,16 @@
 			"CycledGifts":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"RowName": "Sangria",
-						"AmountNeeded": 5
-					}
+					"RowName": "Sangria",
+					"AmountNeeded": 5
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"RowName": "Beer_Barrel",
-						"AmountNeeded": 1
-					}
+					"RowName": "Beer_Barrel",
+					"AmountNeeded": 1
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"RowName": "Still",
-						"AmountNeeded": 1
-					}
+					"RowName": "Still",
+					"AmountNeeded": 1
 				}
 			]
 		},
@@ -42,28 +30,16 @@
 			"CycledGifts":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"RowName": "Fish_Grill",
-						"AmountNeeded": 1
-					}
+					"RowName": "Fish_Grill",
+					"AmountNeeded": 1
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"RowName": "Dino_Cake",
-						"AmountNeeded": 1
-					}
+					"RowName": "Dino_Cake",
+					"AmountNeeded": 1
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"RowName": "Honey_Lavender_Cheesecake",
-						"AmountNeeded": 1
-					}
+					"RowName": "Honey_Lavender_Cheesecake",
+					"AmountNeeded": 1
 				}
 			]
 		},
@@ -75,28 +51,16 @@
 			"CycledGifts":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"RowName": "Plum_Wine",
-						"AmountNeeded": 2
-					}
+					"RowName": "Plum_Wine",
+					"AmountNeeded": 2
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"RowName": "Basket_Carnation",
-						"AmountNeeded": 2
-					}
+					"RowName": "Basket_Carnation",
+					"AmountNeeded": 2
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"RowName": "Drip_Cake",
-						"AmountNeeded": 1
-					}
+					"RowName": "Drip_Cake",
+					"AmountNeeded": 1
 				}
 			]
 		},
@@ -108,28 +72,16 @@
 			"CycledGifts":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"RowName": "Cinnamon_Cake",
-						"AmountNeeded": 1
-					}
+					"RowName": "Cinnamon_Cake",
+					"AmountNeeded": 1
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"RowName": "Chocolate_Chip_Sundae",
-						"AmountNeeded": 1
-					}
+					"RowName": "Chocolate_Chip_Sundae",
+					"AmountNeeded": 1
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"RowName": "Unicorn_Cake",
-						"AmountNeeded": 1
-					}
+					"RowName": "Unicorn_Cake",
+					"AmountNeeded": 1
 				}
 			]
 		},
@@ -141,28 +93,16 @@
 			"CycledGifts":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"RowName": "Lavender",
-						"AmountNeeded": 5
-					}
+					"RowName": "Lavender",
+					"AmountNeeded": 5
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"RowName": "Grilled_Fish",
-						"AmountNeeded": 5
-					}
+					"RowName": "Grilled_Fish",
+					"AmountNeeded": 5
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"RowName": "Grilled_Cheese_Sandwich",
-						"AmountNeeded": 5
-					}
+					"RowName": "Grilled_Cheese_Sandwich",
+					"AmountNeeded": 5
 				}
 			]
 		},
@@ -174,28 +114,16 @@
 			"CycledGifts":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"RowName": "Chocolate_Cake",
-						"AmountNeeded": 1
-					}
+					"RowName": "Chocolate_Cake",
+					"AmountNeeded": 1
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"RowName": "Peach_Almond_Squares",
-						"AmountNeeded": 5
-					}
+					"RowName": "Peach_Almond_Squares",
+					"AmountNeeded": 5
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"RowName": "Cat_Cake",
-						"AmountNeeded": 1
-					}
+					"RowName": "Cat_Cake",
+					"AmountNeeded": 1
 				}
 			]
 		},
@@ -207,28 +135,16 @@
 			"CycledGifts":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"RowName": "Cobbler_Ice_Cream",
-						"AmountNeeded": 1
-					}
+					"RowName": "Cobbler_Ice_Cream",
+					"AmountNeeded": 1
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"RowName": "Cookie_Icecream",
-						"AmountNeeded": 2
-					}
+					"RowName": "Cookie_Icecream",
+					"AmountNeeded": 2
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"RowName": "Cat_Cake",
-						"AmountNeeded": 1
-					}
+					"RowName": "Cat_Cake",
+					"AmountNeeded": 1
 				}
 			]
 		},
@@ -240,28 +156,16 @@
 			"CycledGifts":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"RowName": "Apple_Walnut_Cake",
-						"AmountNeeded": 1
-					}
+					"RowName": "Apple_Walnut_Cake",
+					"AmountNeeded": 1
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"RowName": "Dino_Cake",
-						"AmountNeeded": 1
-					}
+					"RowName": "Dino_Cake",
+					"AmountNeeded": 1
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"RowName": "Feeding_Trough_Large",
-						"AmountNeeded": 1
-					}
+					"RowName": "Feeding_Trough_Large",
+					"AmountNeeded": 1
 				}
 			]
 		},
@@ -273,28 +177,16 @@
 			"CycledGifts":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"RowName": "Plushie_Chicken_White",
-						"AmountNeeded": 1
-					}
+					"RowName": "Plushie_Chicken_White",
+					"AmountNeeded": 1
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"RowName": "Plushie_Horse_Brown",
-						"AmountNeeded": 1
-					}
+					"RowName": "Plushie_Horse_Brown",
+					"AmountNeeded": 1
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"RowName": "Plushie_Pig_Pink",
-						"AmountNeeded": 1
-					}
+					"RowName": "Plushie_Pig_Pink",
+					"AmountNeeded": 1
 				}
 			]
 		},
@@ -306,28 +198,16 @@
 			"CycledGifts":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"RowName": "Plushie_Cow_Black",
-						"AmountNeeded": 1
-					}
+					"RowName": "Plushie_Cow_Black",
+					"AmountNeeded": 1
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"RowName": "Plushie_Dog_Black",
-						"AmountNeeded": 1
-					}
+					"RowName": "Plushie_Dog_Black",
+					"AmountNeeded": 1
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"RowName": "Plushie_Horse_Black",
-						"AmountNeeded": 1
-					}
+					"RowName": "Plushie_Horse_Black",
+					"AmountNeeded": 1
 				}
 			]
 		},
@@ -339,28 +219,16 @@
 			"CycledGifts":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"RowName": "House_Plant_Peace_Lily",
-						"AmountNeeded": 1
-					}
+					"RowName": "House_Plant_Peace_Lily",
+					"AmountNeeded": 1
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"RowName": "Meteorite_Polished",
-						"AmountNeeded": 2
-					}
+					"RowName": "Meteorite_Polished",
+					"AmountNeeded": 2
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"RowName": "Comet_Polished",
-						"AmountNeeded": 2
-					}
+					"RowName": "Comet_Polished",
+					"AmountNeeded": 2
 				}
 			]
 		},
@@ -372,28 +240,16 @@
 			"CycledGifts":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"RowName": "Blueberry_Crumbs",
-						"AmountNeeded": 2
-					}
+					"RowName": "Blueberry_Crumbs",
+					"AmountNeeded": 2
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"RowName": "Jar_Of_Sugar_Cookies",
-						"AmountNeeded": 2
-					}
+					"RowName": "Jar_Of_Sugar_Cookies",
+					"AmountNeeded": 2
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"RowName": "Jar_Of_Candy",
-						"AmountNeeded": 2
-					}
+					"RowName": "Jar_Of_Candy",
+					"AmountNeeded": 2
 				}
 			]
 		},
@@ -405,28 +261,16 @@
 			"CycledGifts":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"RowName": "Donuts",
-						"AmountNeeded": 2
-					}
+					"RowName": "Donuts",
+					"AmountNeeded": 2
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"RowName": "Basket_Black_Dahlia",
-						"AmountNeeded": 2
-					}
+					"RowName": "Basket_Black_Dahlia",
+					"AmountNeeded": 2
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"RowName": "Plushie_Cat_Black",
-						"AmountNeeded": 1
-					}
+					"RowName": "Plushie_Cat_Black",
+					"AmountNeeded": 1
 				}
 			]
 		},
@@ -438,28 +282,16 @@
 			"CycledGifts":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"RowName": "Goat_Milk",
-						"AmountNeeded": 2
-					}
+					"RowName": "Goat_Milk",
+					"AmountNeeded": 2
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"RowName": "Feta_Cheese",
-						"AmountNeeded": 2
-					}
+					"RowName": "Feta_Cheese",
+					"AmountNeeded": 2
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"RowName": "Blueberry_Cake",
-						"AmountNeeded": 1
-					}
+					"RowName": "Blueberry_Cake",
+					"AmountNeeded": 1
 				}
 			]
 		},
@@ -471,28 +303,16 @@
 			"CycledGifts":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"RowName": "Beer",
-						"AmountNeeded": 2
-					}
+					"RowName": "Beer",
+					"AmountNeeded": 2
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"RowName": "Grog",
-						"AmountNeeded": 2
-					}
+					"RowName": "Grog",
+					"AmountNeeded": 2
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"RowName": "Dino_Cake",
-						"AmountNeeded": 1
-					}
+					"RowName": "Dino_Cake",
+					"AmountNeeded": 1
 				}
 			]
 		},
@@ -504,28 +324,16 @@
 			"CycledGifts":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"RowName": "Cat_Cake",
-						"AmountNeeded": 1
-					}
+					"RowName": "Cat_Cake",
+					"AmountNeeded": 1
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"RowName": "Owl_Cake",
-						"AmountNeeded": 1
-					}
+					"RowName": "Owl_Cake",
+					"AmountNeeded": 1
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"RowName": "Dino_Cake",
-						"AmountNeeded": 1
-					}
+					"RowName": "Dino_Cake",
+					"AmountNeeded": 1
 				}
 			]
 		},
@@ -537,28 +345,16 @@
 			"CycledGifts":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"RowName": "Pickaxe_Diamond",
-						"AmountNeeded": 1
-					}
+					"RowName": "Pickaxe_Diamond",
+					"AmountNeeded": 1
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"RowName": "Carrot_Cake",
-						"AmountNeeded": 1
-					}
+					"RowName": "Carrot_Cake",
+					"AmountNeeded": 1
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"RowName": "Cat_Cake",
-						"AmountNeeded": 1
-					}
+					"RowName": "Cat_Cake",
+					"AmountNeeded": 1
 				}
 			]
 		},
@@ -570,28 +366,16 @@
 			"CycledGifts":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"RowName": "Dino_Cake",
-						"AmountNeeded": 1
-					}
+					"RowName": "Dino_Cake",
+					"AmountNeeded": 1
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"RowName": "Brown_Wood_Planks",
-						"AmountNeeded": 50
-					}
+					"RowName": "Brown_Wood_Planks",
+					"AmountNeeded": 50
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"RowName": "Truffle_Fries",
-						"AmountNeeded": 1
-					}
+					"RowName": "Truffle_Fries",
+					"AmountNeeded": 1
 				}
 			]
 		},
@@ -603,28 +387,16 @@
 			"CycledGifts":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"RowName": "Cat_Cake",
-						"AmountNeeded": 1
-					}
+					"RowName": "Cat_Cake",
+					"AmountNeeded": 1
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"RowName": "Owl_Cake",
-						"AmountNeeded": 1
-					}
+					"RowName": "Owl_Cake",
+					"AmountNeeded": 1
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"RowName": "Drip_Cake",
-						"AmountNeeded": 1
-					}
+					"RowName": "Drip_Cake",
+					"AmountNeeded": 1
 				}
 			]
 		},
@@ -636,28 +408,16 @@
 			"CycledGifts":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"RowName": "Lapis_Lazuli_Polished",
-						"AmountNeeded": 1
-					}
+					"RowName": "Lapis_Lazuli_Polished",
+					"AmountNeeded": 1
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"RowName": "Sage",
-						"AmountNeeded": 20
-					}
+					"RowName": "Sage",
+					"AmountNeeded": 20
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"RowName": "Fruit_Roll_Cake",
-						"AmountNeeded": 1
-					}
+					"RowName": "Fruit_Roll_Cake",
+					"AmountNeeded": 1
 				}
 			]
 		},
@@ -669,28 +429,16 @@
 			"CycledGifts":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"RowName": "Owl_Cake",
-						"AmountNeeded": 1
-					}
+					"RowName": "Owl_Cake",
+					"AmountNeeded": 1
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"RowName": "Dino_Cake",
-						"AmountNeeded": 1
-					}
+					"RowName": "Dino_Cake",
+					"AmountNeeded": 1
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"RowName": "Unicorn_Cake",
-						"AmountNeeded": 1
-					}
+					"RowName": "Unicorn_Cake",
+					"AmountNeeded": 1
 				}
 			]
 		},
@@ -702,28 +450,16 @@
 			"CycledGifts":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"RowName": "Honey_Cake",
-						"AmountNeeded": 1
-					}
+					"RowName": "Honey_Cake",
+					"AmountNeeded": 1
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"RowName": "Iron_Bar",
-						"AmountNeeded": 20
-					}
+					"RowName": "Iron_Bar",
+					"AmountNeeded": 20
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"RowName": "Titanium_Bar",
-						"AmountNeeded": 10
-					}
+					"RowName": "Titanium_Bar",
+					"AmountNeeded": 10
 				}
 			]
 		},
@@ -735,28 +471,16 @@
 			"CycledGifts":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"RowName": "Owl_Cake",
-						"AmountNeeded": 1
-					}
+					"RowName": "Owl_Cake",
+					"AmountNeeded": 1
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"RowName": "Dino_Cake",
-						"AmountNeeded": 1
-					}
+					"RowName": "Dino_Cake",
+					"AmountNeeded": 1
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"RowName": "Unicorn_Cake",
-						"AmountNeeded": 1
-					}
+					"RowName": "Unicorn_Cake",
+					"AmountNeeded": 1
 				}
 			]
 		},
@@ -768,28 +492,16 @@
 			"CycledGifts":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"RowName": "Plushie_Cat_Calico",
-						"AmountNeeded": 1
-					}
+					"RowName": "Plushie_Cat_Calico",
+					"AmountNeeded": 1
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"RowName": "Plushie_Rabbit_White",
-						"AmountNeeded": 1
-					}
+					"RowName": "Plushie_Rabbit_White",
+					"AmountNeeded": 1
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"RowName": "Drip_Cake",
-						"AmountNeeded": 1
-					}
+					"RowName": "Drip_Cake",
+					"AmountNeeded": 1
 				}
 			]
 		},
@@ -801,28 +513,16 @@
 			"CycledGifts":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"RowName": "Grapple_Seeds",
-						"AmountNeeded": 2
-					}
+					"RowName": "Grapple_Seeds",
+					"AmountNeeded": 2
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"RowName": "Ginger_Dragon_Seeds",
-						"AmountNeeded": 2
-					}
+					"RowName": "Ginger_Dragon_Seeds",
+					"AmountNeeded": 2
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"RowName": "Cocoberries_Seeds",
-						"AmountNeeded": 2
-					}
+					"RowName": "Cocoberries_Seeds",
+					"AmountNeeded": 2
 				}
 			]
 		},
@@ -834,28 +534,16 @@
 			"CycledGifts":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"RowName": "Russian_Teacakes",
-						"AmountNeeded": 1
-					}
+					"RowName": "Russian_Teacakes",
+					"AmountNeeded": 1
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"RowName": "Bug_Net_Gold",
-						"AmountNeeded": 1
-					}
+					"RowName": "Bug_Net_Gold",
+					"AmountNeeded": 1
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"RowName": "Sugar_Skulls",
-						"AmountNeeded": 1
-					}
+					"RowName": "Sugar_Skulls",
+					"AmountNeeded": 1
 				}
 			]
 		},
@@ -867,28 +555,16 @@
 			"CycledGifts":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"RowName": "Brownies",
-						"AmountNeeded": 2
-					}
+					"RowName": "Brownies",
+					"AmountNeeded": 2
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"RowName": "Pumpkin_Cookies",
-						"AmountNeeded": 2
-					}
+					"RowName": "Pumpkin_Cookies",
+					"AmountNeeded": 2
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"RowName": "Jar_Of_Sugar_Cookies",
-						"AmountNeeded": 2
-					}
+					"RowName": "Jar_Of_Sugar_Cookies",
+					"AmountNeeded": 2
 				}
 			]
 		},
@@ -900,28 +576,16 @@
 			"CycledGifts":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"RowName": "House_Plant_Cactus",
-						"AmountNeeded": 2
-					}
+					"RowName": "House_Plant_Cactus",
+					"AmountNeeded": 2
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"RowName": "Drip_Cake",
-						"AmountNeeded": 2
-					}
+					"RowName": "Drip_Cake",
+					"AmountNeeded": 2
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"RowName": "Truffles",
-						"AmountNeeded": 1
-					}
+					"RowName": "Truffles",
+					"AmountNeeded": 1
 				}
 			]
 		},
@@ -933,28 +597,16 @@
 			"CycledGifts":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"RowName": "Plushie_Cat_Grey_Stripes",
-						"AmountNeeded": 1
-					}
+					"RowName": "Plushie_Cat_Grey_Stripes",
+					"AmountNeeded": 1
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"RowName": "Unicorn_Plushie",
-						"AmountNeeded": 1
-					}
+					"RowName": "Unicorn_Plushie",
+					"AmountNeeded": 1
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"RowName": "Unicorn_Cake",
-						"AmountNeeded": 1
-					}
+					"RowName": "Unicorn_Cake",
+					"AmountNeeded": 1
 				}
 			]
 		},
@@ -966,28 +618,16 @@
 			"CycledGifts":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"RowName": "Simple_Cake",
-						"AmountNeeded": 1
-					}
+					"RowName": "Simple_Cake",
+					"AmountNeeded": 1
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"RowName": "Chocolate_Mint_Cookies",
-						"AmountNeeded": 2
-					}
+					"RowName": "Chocolate_Mint_Cookies",
+					"AmountNeeded": 2
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"RowName": "Truffle_Chocolates",
-						"AmountNeeded": 1
-					}
+					"RowName": "Truffle_Chocolates",
+					"AmountNeeded": 1
 				}
 			]
 		},
@@ -999,28 +639,16 @@
 			"CycledGifts":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"RowName": "Goat_Milk",
-						"AmountNeeded": 2
-					}
+					"RowName": "Goat_Milk",
+					"AmountNeeded": 2
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"RowName": "Feta_Cheese",
-						"AmountNeeded": 2
-					}
+					"RowName": "Feta_Cheese",
+					"AmountNeeded": 2
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"RowName": "Blueberry_Cake",
-						"AmountNeeded": 1
-					}
+					"RowName": "Blueberry_Cake",
+					"AmountNeeded": 1
 				}
 			]
 		},
@@ -1032,28 +660,16 @@
 			"CycledGifts":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"RowName": "Oatmeal_Cookies",
-						"AmountNeeded": 2
-					}
+					"RowName": "Oatmeal_Cookies",
+					"AmountNeeded": 2
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"RowName": "Unicorn_Cake",
-						"AmountNeeded": 1
-					}
+					"RowName": "Unicorn_Cake",
+					"AmountNeeded": 1
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"RowName": "Truffle_Fries",
-						"AmountNeeded": 1
-					}
+					"RowName": "Truffle_Fries",
+					"AmountNeeded": 1
 				}
 			]
 		},
@@ -1065,28 +681,16 @@
 			"CycledGifts":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"RowName": "Funnel_Cake",
-						"AmountNeeded": 1
-					}
+					"RowName": "Funnel_Cake",
+					"AmountNeeded": 1
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"RowName": "Unicorn_Cake",
-						"AmountNeeded": 1
-					}
+					"RowName": "Unicorn_Cake",
+					"AmountNeeded": 1
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"RowName": "Drip_Cake",
-						"AmountNeeded": 1
-					}
+					"RowName": "Drip_Cake",
+					"AmountNeeded": 1
 				}
 			]
 		},
@@ -1098,28 +702,16 @@
 			"CycledGifts":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"RowName": "Pumpkin_Cake",
-						"AmountNeeded": 1
-					}
+					"RowName": "Pumpkin_Cake",
+					"AmountNeeded": 1
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"RowName": "Pear_Cake",
-						"AmountNeeded": 1
-					}
+					"RowName": "Pear_Cake",
+					"AmountNeeded": 1
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"RowName": "Coconut_Cake",
-						"AmountNeeded": 1
-					}
+					"RowName": "Coconut_Cake",
+					"AmountNeeded": 1
 				}
 			]
 		},
@@ -1131,28 +723,16 @@
 			"CycledGifts":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"RowName": "Almond_Cake",
-						"AmountNeeded": 1
-					}
+					"RowName": "Almond_Cake",
+					"AmountNeeded": 1
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"RowName": "Fish_Tank_River",
-						"AmountNeeded": 1
-					}
+					"RowName": "Fish_Tank_River",
+					"AmountNeeded": 1
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"RowName": "Coconut_Cake",
-						"AmountNeeded": 1
-					}
+					"RowName": "Coconut_Cake",
+					"AmountNeeded": 1
 				}
 			]
 		},
@@ -1164,28 +744,16 @@
 			"CycledGifts":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"RowName": "Owl_Cake",
-						"AmountNeeded": 1
-					}
+					"RowName": "Owl_Cake",
+					"AmountNeeded": 1
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"RowName": "Funnel_Cake",
-						"AmountNeeded": 1
-					}
+					"RowName": "Funnel_Cake",
+					"AmountNeeded": 1
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"RowName": "Dino_Cake",
-						"AmountNeeded": 1
-					}
+					"RowName": "Dino_Cake",
+					"AmountNeeded": 1
 				}
 			]
 		},
@@ -1197,28 +765,16 @@
 			"CycledGifts":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"RowName": "Fertilizer",
-						"AmountNeeded": 1
-					}
+					"RowName": "Fertilizer",
+					"AmountNeeded": 1
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"RowName": "Drip_Cake",
-						"AmountNeeded": 1
-					}
+					"RowName": "Drip_Cake",
+					"AmountNeeded": 1
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"RowName": "Owl_Cake",
-						"AmountNeeded": 1
-					}
+					"RowName": "Owl_Cake",
+					"AmountNeeded": 1
 				}
 			]
 		},
@@ -1230,28 +786,16 @@
 			"CycledGifts":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"RowName": "Macaroons",
-						"AmountNeeded": 2
-					}
+					"RowName": "Macaroons",
+					"AmountNeeded": 2
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"RowName": "Cookie_Icecream",
-						"AmountNeeded": 1
-					}
+					"RowName": "Cookie_Icecream",
+					"AmountNeeded": 1
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"RowName": "Sakura_Cookies",
-						"AmountNeeded": 1
-					}
+					"RowName": "Sakura_Cookies",
+					"AmountNeeded": 1
 				}
 			]
 		},
@@ -1263,28 +807,16 @@
 			"CycledGifts":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"RowName": "Jar_Chocolate_Chip_Cookies",
-						"AmountNeeded": 1
-					}
+					"RowName": "Jar_Chocolate_Chip_Cookies",
+					"AmountNeeded": 1
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"RowName": "Jar_Of_Sugar_Cookies",
-						"AmountNeeded": 1
-					}
+					"RowName": "Jar_Of_Sugar_Cookies",
+					"AmountNeeded": 1
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"RowName": "Cat_Cake",
-						"AmountNeeded": 1
-					}
+					"RowName": "Cat_Cake",
+					"AmountNeeded": 1
 				}
 			]
 		},
@@ -1296,28 +828,16 @@
 			"CycledGifts":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"RowName": "Pineapple_Cake",
-						"AmountNeeded": 1
-					}
+					"RowName": "Pineapple_Cake",
+					"AmountNeeded": 1
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"RowName": "Peach_Almond_Squares",
-						"AmountNeeded": 1
-					}
+					"RowName": "Peach_Almond_Squares",
+					"AmountNeeded": 1
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"RowName": "Truffle_Chocolates",
-						"AmountNeeded": 1
-					}
+					"RowName": "Truffle_Chocolates",
+					"AmountNeeded": 1
 				}
 			]
 		},
@@ -1329,28 +849,16 @@
 			"CycledGifts":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"RowName": "Hurricane",
-						"AmountNeeded": 1
-					}
+					"RowName": "Hurricane",
+					"AmountNeeded": 1
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"RowName": "Truffle_Fries",
-						"AmountNeeded": 1
-					}
+					"RowName": "Truffle_Fries",
+					"AmountNeeded": 1
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"RowName": "Unicorn_Cake",
-						"AmountNeeded": 1
-					}
+					"RowName": "Unicorn_Cake",
+					"AmountNeeded": 1
 				}
 			]
 		},
@@ -1362,28 +870,16 @@
 			"CycledGifts":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"RowName": "Simple_Cake",
-						"AmountNeeded": 1
-					}
+					"RowName": "Simple_Cake",
+					"AmountNeeded": 1
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"RowName": "Rum_Cake",
-						"AmountNeeded": 1
-					}
+					"RowName": "Rum_Cake",
+					"AmountNeeded": 1
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"RowName": "Dino_Cake",
-						"AmountNeeded": 1
-					}
+					"RowName": "Dino_Cake",
+					"AmountNeeded": 1
 				}
 			]
 		},
@@ -1395,28 +891,16 @@
 			"CycledGifts":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"RowName": "Old_Boot",
-						"AmountNeeded": 1
-					}
+					"RowName": "Old_Boot",
+					"AmountNeeded": 1
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"RowName": "Old_Swim_Trunk",
-						"AmountNeeded": 1
-					}
+					"RowName": "Old_Swim_Trunk",
+					"AmountNeeded": 1
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"RowName": "Old_Can",
-						"AmountNeeded": 1
-					}
+					"RowName": "Old_Can",
+					"AmountNeeded": 1
 				}
 			]
 		},
@@ -1428,28 +912,16 @@
 			"CycledGifts":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"RowName": "Steel_Bar",
-						"AmountNeeded": 2
-					}
+					"RowName": "Steel_Bar",
+					"AmountNeeded": 2
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"RowName": "Titanium_Bar",
-						"AmountNeeded": 2
-					}
+					"RowName": "Titanium_Bar",
+					"AmountNeeded": 2
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"RowName": "Cat_Cake",
-						"AmountNeeded": 1
-					}
+					"RowName": "Cat_Cake",
+					"AmountNeeded": 1
 				}
 			]
 		},
@@ -1461,28 +933,16 @@
 			"CycledGifts":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"RowName": "Dino_Cake",
-						"AmountNeeded": 1
-					}
+					"RowName": "Dino_Cake",
+					"AmountNeeded": 1
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"RowName": "Owl_Cake",
-						"AmountNeeded": 1
-					}
+					"RowName": "Owl_Cake",
+					"AmountNeeded": 1
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"RowName": "Jam_Processor",
-						"AmountNeeded": 1
-					}
+					"RowName": "Jam_Processor",
+					"AmountNeeded": 1
 				}
 			]
 		},
@@ -1494,28 +954,16 @@
 			"CycledGifts":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"RowName": "Fertilizer",
-						"AmountNeeded": 50
-					}
+					"RowName": "Fertilizer",
+					"AmountNeeded": 50
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"RowName": "Hoe_Meteor",
-						"AmountNeeded": 1
-					}
+					"RowName": "Hoe_Meteor",
+					"AmountNeeded": 1
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"RowName": "Chocolate_Cake",
-						"AmountNeeded": 0
-					}
+					"RowName": "Chocolate_Cake",
+					"AmountNeeded": 0
 				}
 			]
 		},
@@ -1527,28 +975,16 @@
 			"CycledGifts":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"RowName": "Chocolate_Chip_Sundae",
-						"AmountNeeded": 1
-					}
+					"RowName": "Chocolate_Chip_Sundae",
+					"AmountNeeded": 1
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"RowName": "Key_Lime_Cake",
-						"AmountNeeded": 1
-					}
+					"RowName": "Key_Lime_Cake",
+					"AmountNeeded": 1
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"RowName": "Cat_Cake",
-						"AmountNeeded": 1
-					}
+					"RowName": "Cat_Cake",
+					"AmountNeeded": 1
 				}
 			]
 		},
@@ -1560,28 +996,16 @@
 			"CycledGifts":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"RowName": "Truffles",
-						"AmountNeeded": 1
-					}
+					"RowName": "Truffles",
+					"AmountNeeded": 1
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"RowName": "Truffle_Fries",
-						"AmountNeeded": 1
-					}
+					"RowName": "Truffle_Fries",
+					"AmountNeeded": 1
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"RowName": "Truffle_Chocolates",
-						"AmountNeeded": 1
-					}
+					"RowName": "Truffle_Chocolates",
+					"AmountNeeded": 1
 				}
 			]
 		},
@@ -1593,28 +1017,16 @@
 			"CycledGifts":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"RowName": "Fish_Tank_Deep_Ocean",
-						"AmountNeeded": 1
-					}
+					"RowName": "Fish_Tank_Deep_Ocean",
+					"AmountNeeded": 1
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"RowName": "Tuna_Casserole",
-						"AmountNeeded": 2
-					}
+					"RowName": "Tuna_Casserole",
+					"AmountNeeded": 2
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"RowName": "Fish_Chair",
-						"AmountNeeded": 1
-					}
+					"RowName": "Fish_Chair",
+					"AmountNeeded": 1
 				}
 			]
 		},
@@ -1626,28 +1038,16 @@
 			"CycledGifts":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"RowName": "House_Plant_Dieffenbachia",
-						"AmountNeeded": 1
-					}
+					"RowName": "House_Plant_Dieffenbachia",
+					"AmountNeeded": 1
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"RowName": "Echinaacea_Pot",
-						"AmountNeeded": 2
-					}
+					"RowName": "Echinaacea_Pot",
+					"AmountNeeded": 2
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"RowName": "Owl_Cake",
-						"AmountNeeded": 1
-					}
+					"RowName": "Owl_Cake",
+					"AmountNeeded": 1
 				}
 			]
 		},
@@ -1659,28 +1059,16 @@
 			"CycledGifts":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"RowName": "Plushie_Cat_Cream",
-						"AmountNeeded": 1
-					}
+					"RowName": "Plushie_Cat_Cream",
+					"AmountNeeded": 1
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"RowName": "Plushie_Cat_Orange_Stripes",
-						"AmountNeeded": 1
-					}
+					"RowName": "Plushie_Cat_Orange_Stripes",
+					"AmountNeeded": 1
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"RowName": "Plushie_Elephant_Grey",
-						"AmountNeeded": 1
-					}
+					"RowName": "Plushie_Elephant_Grey",
+					"AmountNeeded": 1
 				}
 			]
 		},
@@ -1692,28 +1080,16 @@
 			"CycledGifts":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"RowName": "Pina_Colada",
-						"AmountNeeded": 2
-					}
+					"RowName": "Pina_Colada",
+					"AmountNeeded": 2
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"RowName": "Melon_Hibiscus_Icecream",
-						"AmountNeeded": 2
-					}
+					"RowName": "Melon_Hibiscus_Icecream",
+					"AmountNeeded": 2
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"RowName": "Fruit_Roll_Cake",
-						"AmountNeeded": 2
-					}
+					"RowName": "Fruit_Roll_Cake",
+					"AmountNeeded": 2
 				}
 			]
 		},
@@ -1725,28 +1101,16 @@
 			"CycledGifts":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"RowName": "Unicorn_Cake",
-						"AmountNeeded": 1
-					}
+					"RowName": "Unicorn_Cake",
+					"AmountNeeded": 1
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"RowName": "Unicorn_Plushie",
-						"AmountNeeded": 1
-					}
+					"RowName": "Unicorn_Plushie",
+					"AmountNeeded": 1
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"RowName": "Drip_Cake",
-						"AmountNeeded": 1
-					}
+					"RowName": "Drip_Cake",
+					"AmountNeeded": 1
 				}
 			]
 		},
@@ -1758,28 +1122,16 @@
 			"CycledGifts":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"RowName": "Plushie_Cat_White",
-						"AmountNeeded": 1
-					}
+					"RowName": "Plushie_Cat_White",
+					"AmountNeeded": 1
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"RowName": "Truffle_Fries",
-						"AmountNeeded": 1
-					}
+					"RowName": "Truffle_Fries",
+					"AmountNeeded": 1
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"RowName": "Truffle_Chocolates",
-						"AmountNeeded": 1
-					}
+					"RowName": "Truffle_Chocolates",
+					"AmountNeeded": 1
 				}
 			]
 		},
@@ -1791,28 +1143,16 @@
 			"CycledGifts":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"RowName": "Plushie_Horse_Brown",
-						"AmountNeeded": 1
-					}
+					"RowName": "Plushie_Horse_Brown",
+					"AmountNeeded": 1
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"RowName": "Plushie_Cow_Black",
-						"AmountNeeded": 1
-					}
+					"RowName": "Plushie_Cow_Black",
+					"AmountNeeded": 1
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"RowName": "Truffle_Chocolates",
-						"AmountNeeded": 1
-					}
+					"RowName": "Truffle_Chocolates",
+					"AmountNeeded": 1
 				}
 			]
 		},
@@ -1824,28 +1164,16 @@
 			"CycledGifts":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"RowName": "Sugarnut_Seeds",
-						"AmountNeeded": 2
-					}
+					"RowName": "Sugarnut_Seeds",
+					"AmountNeeded": 2
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"RowName": "Black_Beet_Seeds",
-						"AmountNeeded": 2
-					}
+					"RowName": "Black_Beet_Seeds",
+					"AmountNeeded": 2
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"RowName": "Raspkins_Seeds",
-						"AmountNeeded": 2
-					}
+					"RowName": "Raspkins_Seeds",
+					"AmountNeeded": 2
 				}
 			]
 		},
@@ -1857,28 +1185,16 @@
 			"CycledGifts":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"RowName": "Honey_Cake",
-						"AmountNeeded": 1
-					}
+					"RowName": "Honey_Cake",
+					"AmountNeeded": 1
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"RowName": "Owl_Cake",
-						"AmountNeeded": 1
-					}
+					"RowName": "Owl_Cake",
+					"AmountNeeded": 1
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"RowName": "Cobbler_Ice_Cream",
-						"AmountNeeded": 1
-					}
+					"RowName": "Cobbler_Ice_Cream",
+					"AmountNeeded": 1
 				}
 			]
 		},
@@ -1890,28 +1206,16 @@
 			"CycledGifts":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"RowName": "Garden_Spider",
-						"AmountNeeded": 1
-					}
+					"RowName": "Garden_Spider",
+					"AmountNeeded": 1
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"RowName": "Cat_Face_Spider",
-						"AmountNeeded": 1
-					}
+					"RowName": "Cat_Face_Spider",
+					"AmountNeeded": 1
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"RowName": "Tarantula",
-						"AmountNeeded": 1
-					}
+					"RowName": "Tarantula",
+					"AmountNeeded": 1
 				}
 			]
 		},
@@ -1923,28 +1227,16 @@
 			"CycledGifts":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"RowName": "Pistachio_Apricot_Square",
-						"AmountNeeded": 2
-					}
+					"RowName": "Pistachio_Apricot_Square",
+					"AmountNeeded": 2
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"RowName": "Chocolate_Chip_Cookies",
-						"AmountNeeded": 2
-					}
+					"RowName": "Chocolate_Chip_Cookies",
+					"AmountNeeded": 2
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"RowName": "Cookie_Icecream",
-						"AmountNeeded": 2
-					}
+					"RowName": "Cookie_Icecream",
+					"AmountNeeded": 2
 				}
 			]
 		},
@@ -1956,28 +1248,16 @@
 			"CycledGifts":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"RowName": "Plushie_Rabbit_Brown",
-						"AmountNeeded": 1
-					}
+					"RowName": "Plushie_Rabbit_Brown",
+					"AmountNeeded": 1
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"RowName": "Cranberry_Cake",
-						"AmountNeeded": 1
-					}
+					"RowName": "Cranberry_Cake",
+					"AmountNeeded": 1
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"RowName": "Drip_Cake",
-						"AmountNeeded": 1
-					}
+					"RowName": "Drip_Cake",
+					"AmountNeeded": 1
 				}
 			]
 		},
@@ -1989,28 +1269,16 @@
 			"CycledGifts":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"RowName": "Callaloo_Breadfruit",
-						"AmountNeeded": 2
-					}
+					"RowName": "Callaloo_Breadfruit",
+					"AmountNeeded": 2
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"RowName": "Roti",
-						"AmountNeeded": 2
-					}
+					"RowName": "Roti",
+					"AmountNeeded": 2
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"RowName": "Truffle_Chocolates",
-						"AmountNeeded": 1
-					}
+					"RowName": "Truffle_Chocolates",
+					"AmountNeeded": 1
 				}
 			]
 		},
@@ -2022,28 +1290,16 @@
 			"CycledGifts":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"RowName": "Whiskey_Sour",
-						"AmountNeeded": 1
-					}
+					"RowName": "Whiskey_Sour",
+					"AmountNeeded": 1
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"RowName": "Beef_Patties",
-						"AmountNeeded": 2
-					}
+					"RowName": "Beef_Patties",
+					"AmountNeeded": 2
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"RowName": "Milk_Cake",
-						"AmountNeeded": 1
-					}
+					"RowName": "Milk_Cake",
+					"AmountNeeded": 1
 				}
 			]
 		},
@@ -2055,28 +1311,16 @@
 			"CycledGifts":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"RowName": "Banana_Cake",
-						"AmountNeeded": 1
-					}
+					"RowName": "Banana_Cake",
+					"AmountNeeded": 1
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"RowName": "Unicorn_Cake",
-						"AmountNeeded": 1
-					}
+					"RowName": "Unicorn_Cake",
+					"AmountNeeded": 1
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"RowName": "Plum_Cake",
-						"AmountNeeded": 1
-					}
+					"RowName": "Plum_Cake",
+					"AmountNeeded": 1
 				}
 			]
 		},
@@ -2088,28 +1332,16 @@
 			"CycledGifts":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"RowName": "Owl_Cake",
-						"AmountNeeded": 1
-					}
+					"RowName": "Owl_Cake",
+					"AmountNeeded": 1
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"RowName": "Dino_Cake",
-						"AmountNeeded": 1
-					}
+					"RowName": "Dino_Cake",
+					"AmountNeeded": 1
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"RowName": "Unicorn_Cake",
-						"AmountNeeded": 1
-					}
+					"RowName": "Unicorn_Cake",
+					"AmountNeeded": 1
 				}
 			]
 		},
@@ -2121,28 +1353,16 @@
 			"CycledGifts":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"RowName": "Funnel_Cake",
-						"AmountNeeded": 1
-					}
+					"RowName": "Funnel_Cake",
+					"AmountNeeded": 1
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"RowName": "Rum_Cake",
-						"AmountNeeded": 1
-					}
+					"RowName": "Rum_Cake",
+					"AmountNeeded": 1
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"RowName": "Plushie_Rabbit_Black",
-						"AmountNeeded": 1
-					}
+					"RowName": "Plushie_Rabbit_Black",
+					"AmountNeeded": 1
 				}
 			]
 		},
@@ -2154,28 +1374,16 @@
 			"CycledGifts":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"RowName": "Sugar_Cookies",
-						"AmountNeeded": 2
-					}
+					"RowName": "Sugar_Cookies",
+					"AmountNeeded": 2
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"RowName": "Jar_Chocolate_Chip_Cookies",
-						"AmountNeeded": 2
-					}
+					"RowName": "Jar_Chocolate_Chip_Cookies",
+					"AmountNeeded": 2
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"RowName": "Jar_Of_Sugar_Cookies",
-						"AmountNeeded": 2
-					}
+					"RowName": "Jar_Of_Sugar_Cookies",
+					"AmountNeeded": 2
 				}
 			]
 		},
@@ -2187,28 +1395,16 @@
 			"CycledGifts":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"RowName": "Brownies",
-						"AmountNeeded": 10
-					}
+					"RowName": "Brownies",
+					"AmountNeeded": 10
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"RowName": "Brownies",
-						"AmountNeeded": 10
-					}
+					"RowName": "Brownies",
+					"AmountNeeded": 10
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"RowName": "Brownies",
-						"AmountNeeded": 10
-					}
+					"RowName": "Brownies",
+					"AmountNeeded": 10
 				}
 			]
 		},
@@ -2220,28 +1416,16 @@
 			"CycledGifts":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"RowName": "Blackberry_Candy",
-						"AmountNeeded": 5
-					}
+					"RowName": "Blackberry_Candy",
+					"AmountNeeded": 5
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"RowName": "Black_Coffee",
-						"AmountNeeded": 1
-					}
+					"RowName": "Black_Coffee",
+					"AmountNeeded": 1
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"RowName": "Blackberry_Pie",
-						"AmountNeeded": 1
-					}
+					"RowName": "Blackberry_Pie",
+					"AmountNeeded": 1
 				}
 			]
 		},
@@ -2253,28 +1437,16 @@
 			"CycledGifts":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"RowName": "Cherry_Cake",
-						"AmountNeeded": 1
-					}
+					"RowName": "Cherry_Cake",
+					"AmountNeeded": 1
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"RowName": "Kumguat_Cake",
-						"AmountNeeded": 1
-					}
+					"RowName": "Kumguat_Cake",
+					"AmountNeeded": 1
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"RowName": "Unicorn_Cake",
-						"AmountNeeded": 1
-					}
+					"RowName": "Unicorn_Cake",
+					"AmountNeeded": 1
 				}
 			]
 		},
@@ -2286,28 +1458,16 @@
 			"CycledGifts":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"RowName": "Fruit_Roll_Cake",
-						"AmountNeeded": 1
-					}
+					"RowName": "Fruit_Roll_Cake",
+					"AmountNeeded": 1
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"RowName": "Cat_Cake",
-						"AmountNeeded": 1
-					}
+					"RowName": "Cat_Cake",
+					"AmountNeeded": 1
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"RowName": "Drip_Cake",
-						"AmountNeeded": 1
-					}
+					"RowName": "Drip_Cake",
+					"AmountNeeded": 1
 				}
 			]
 		},
@@ -2319,28 +1479,16 @@
 			"CycledGifts":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"RowName": "Plushie_Cat_Grey",
-						"AmountNeeded": 1
-					}
+					"RowName": "Plushie_Cat_Grey",
+					"AmountNeeded": 1
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"RowName": "Plushie_Cat_Siamese",
-						"AmountNeeded": 1
-					}
+					"RowName": "Plushie_Cat_Siamese",
+					"AmountNeeded": 1
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"RowName": "Plushie_Cat_White",
-						"AmountNeeded": 1
-					}
+					"RowName": "Plushie_Cat_White",
+					"AmountNeeded": 1
 				}
 			]
 		},
@@ -2352,28 +1500,16 @@
 			"CycledGifts":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"RowName": "Unicorn_Cake",
-						"AmountNeeded": 1
-					}
+					"RowName": "Unicorn_Cake",
+					"AmountNeeded": 1
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"RowName": "Dino_Cake",
-						"AmountNeeded": 1
-					}
+					"RowName": "Dino_Cake",
+					"AmountNeeded": 1
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"RowName": "Owl_Cake",
-						"AmountNeeded": 1
-					}
+					"RowName": "Owl_Cake",
+					"AmountNeeded": 1
 				}
 			]
 		},
@@ -2385,28 +1521,16 @@
 			"CycledGifts":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"RowName": "Owl_Cake",
-						"AmountNeeded": 1
-					}
+					"RowName": "Owl_Cake",
+					"AmountNeeded": 1
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"RowName": "Drip_Cake",
-						"AmountNeeded": 1
-					}
+					"RowName": "Drip_Cake",
+					"AmountNeeded": 1
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"RowName": "Cat_Cake",
-						"AmountNeeded": 1
-					}
+					"RowName": "Cat_Cake",
+					"AmountNeeded": 1
 				}
 			]
 		},
@@ -2418,28 +1542,16 @@
 			"CycledGifts":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"RowName": "Plushie_Cat_Calico",
-						"AmountNeeded": 1
-					}
+					"RowName": "Plushie_Cat_Calico",
+					"AmountNeeded": 1
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"RowName": "Plushie_Cat_Cream",
-						"AmountNeeded": 1
-					}
+					"RowName": "Plushie_Cat_Cream",
+					"AmountNeeded": 1
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"RowName": "Plushie_Cat_Siamese",
-						"AmountNeeded": 1
-					}
+					"RowName": "Plushie_Cat_Siamese",
+					"AmountNeeded": 1
 				}
 			]
 		},
@@ -2451,28 +1563,16 @@
 			"CycledGifts":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"RowName": "Cranberry_Jam_Cookies",
-						"AmountNeeded": 5
-					}
+					"RowName": "Cranberry_Jam_Cookies",
+					"AmountNeeded": 5
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"RowName": "Lemon_Cookies",
-						"AmountNeeded": 5
-					}
+					"RowName": "Lemon_Cookies",
+					"AmountNeeded": 5
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"RowName": "Jar_Chocolate_Chip_Cookies",
-						"AmountNeeded": 1
-					}
+					"RowName": "Jar_Chocolate_Chip_Cookies",
+					"AmountNeeded": 1
 				}
 			]
 		},
@@ -2484,28 +1584,16 @@
 			"CycledGifts":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"RowName": "Russian_Teacakes",
-						"AmountNeeded": 5
-					}
+					"RowName": "Russian_Teacakes",
+					"AmountNeeded": 5
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"RowName": "Truffle_Fries",
-						"AmountNeeded": 1
-					}
+					"RowName": "Truffle_Fries",
+					"AmountNeeded": 1
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"RowName": "Truffle_Chocolates",
-						"AmountNeeded": 1
-					}
+					"RowName": "Truffle_Chocolates",
+					"AmountNeeded": 1
 				}
 			]
 		},
@@ -2517,28 +1605,16 @@
 			"CycledGifts":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"RowName": "Cat_Cake",
-						"AmountNeeded": 1
-					}
+					"RowName": "Cat_Cake",
+					"AmountNeeded": 1
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"RowName": "Truffle_Fries",
-						"AmountNeeded": 1
-					}
+					"RowName": "Truffle_Fries",
+					"AmountNeeded": 1
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"RowName": "Truffle_Chocolates",
-						"AmountNeeded": 1
-					}
+					"RowName": "Truffle_Chocolates",
+					"AmountNeeded": 1
 				}
 			]
 		},
@@ -2550,28 +1626,16 @@
 			"CycledGifts":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"RowName": "Unicorn_Cake",
-						"AmountNeeded": 1
-					}
+					"RowName": "Unicorn_Cake",
+					"AmountNeeded": 1
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"RowName": "Owl_Cake",
-						"AmountNeeded": 1
-					}
+					"RowName": "Owl_Cake",
+					"AmountNeeded": 1
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"RowName": "Drip_Cake",
-						"AmountNeeded": 1
-					}
+					"RowName": "Drip_Cake",
+					"AmountNeeded": 1
 				}
 			]
 		},
@@ -2583,28 +1647,16 @@
 			"CycledGifts":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"RowName": "Drip_Cake",
-						"AmountNeeded": 1
-					}
+					"RowName": "Drip_Cake",
+					"AmountNeeded": 1
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"RowName": "Unicorn_Cake",
-						"AmountNeeded": 1
-					}
+					"RowName": "Unicorn_Cake",
+					"AmountNeeded": 1
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"RowName": "Owl_Cake",
-						"AmountNeeded": 1
-					}
+					"RowName": "Owl_Cake",
+					"AmountNeeded": 1
 				}
 			]
 		},
@@ -2616,28 +1668,16 @@
 			"CycledGifts":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"RowName": "Drip_Cake",
-						"AmountNeeded": 1
-					}
+					"RowName": "Drip_Cake",
+					"AmountNeeded": 1
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"RowName": "Unicorn_Cake",
-						"AmountNeeded": 1
-					}
+					"RowName": "Unicorn_Cake",
+					"AmountNeeded": 1
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"RowName": "Owl_Cake",
-						"AmountNeeded": 1
-					}
+					"RowName": "Owl_Cake",
+					"AmountNeeded": 1
 				}
 			]
 		},
@@ -2649,28 +1689,16 @@
 			"CycledGifts":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"RowName": "Drip_Cake",
-						"AmountNeeded": 1
-					}
+					"RowName": "Drip_Cake",
+					"AmountNeeded": 1
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"RowName": "Unicorn_Cake",
-						"AmountNeeded": 1
-					}
+					"RowName": "Unicorn_Cake",
+					"AmountNeeded": 1
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"RowName": "Owl_Cake",
-						"AmountNeeded": 1
-					}
+					"RowName": "Owl_Cake",
+					"AmountNeeded": 1
 				}
 			]
 		},
@@ -2682,28 +1710,16 @@
 			"CycledGifts":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"RowName": "Drip_Cake",
-						"AmountNeeded": 1
-					}
+					"RowName": "Drip_Cake",
+					"AmountNeeded": 1
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"RowName": "Unicorn_Cake",
-						"AmountNeeded": 1
-					}
+					"RowName": "Unicorn_Cake",
+					"AmountNeeded": 1
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"RowName": "Owl_Cake",
-						"AmountNeeded": 1
-					}
+					"RowName": "Owl_Cake",
+					"AmountNeeded": 1
 				}
 			]
 		},
@@ -2715,28 +1731,16 @@
 			"CycledGifts":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"RowName": "Ginger_Cookies",
-						"AmountNeeded": 2
-					}
+					"RowName": "Ginger_Cookies",
+					"AmountNeeded": 2
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"RowName": "Unicorn_Plushie",
-						"AmountNeeded": 1
-					}
+					"RowName": "Unicorn_Plushie",
+					"AmountNeeded": 1
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"RowName": "Macaroons",
-						"AmountNeeded": 2
-					}
+					"RowName": "Macaroons",
+					"AmountNeeded": 2
 				}
 			]
 		},
@@ -2748,28 +1752,16 @@
 			"CycledGifts":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"RowName": "Drip_Cake",
-						"AmountNeeded": 1
-					}
+					"RowName": "Drip_Cake",
+					"AmountNeeded": 1
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"RowName": "Unicorn_Cake",
-						"AmountNeeded": 1
-					}
+					"RowName": "Unicorn_Cake",
+					"AmountNeeded": 1
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"RowName": "Owl_Cake",
-						"AmountNeeded": 1
-					}
+					"RowName": "Owl_Cake",
+					"AmountNeeded": 1
 				}
 			]
 		},
@@ -2781,28 +1773,16 @@
 			"CycledGifts":
 			[
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"RowName": "Plushie_Cat_Grey_Stripes",
-						"AmountNeeded": 1
-					}
+					"RowName": "Plushie_Cat_Grey_Stripes",
+					"AmountNeeded": 1
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"RowName": "Cheese_Cake",
-						"AmountNeeded": 1
-					}
+					"RowName": "Cheese_Cake",
+					"AmountNeeded": 1
 				},
 				{
-					"ElementIndex": 1,
-					"ElementValue": 
-					{
-						"RowName": "Chocolate_Cake",
-						"AmountNeeded": 1
-					}
+					"RowName": "Chocolate_Cake",
+					"AmountNeeded": 1
 				}
 			]
 		}

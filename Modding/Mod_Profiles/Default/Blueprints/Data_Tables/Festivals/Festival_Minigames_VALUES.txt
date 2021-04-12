@@ -42,34 +42,22 @@
 				"FirstPlaceRewards":
 				[
 					{
-						"ElementIndex": 1,
-						"ElementValue": 
-						{
-							"RowName": "Beer_Barrel",
-							"AmountNeeded": 1
-						}
+						"RowName": "Beer_Barrel",
+						"AmountNeeded": 1
 					}
 				],
 				"SecondPlaceRewards":
 				[
 					{
-						"ElementIndex": 1,
-						"ElementValue": 
-						{
-							"RowName": "Coffee_Drink",
-							"AmountNeeded": 10
-						}
+						"RowName": "Coffee_Drink",
+						"AmountNeeded": 10
 					}
 				],
 				"ThirdPlaceRewards":
 				[
 					{
-						"ElementIndex": 1,
-						"ElementValue": 
-						{
-							"RowName": "Salt",
-							"AmountNeeded": 20
-						}
+						"RowName": "Salt",
+						"AmountNeeded": 20
 					}
 				]
 			},
@@ -78,42 +66,26 @@
 				"FirstPlaceRewards":
 				[
 					{
-						"ElementIndex": 1,
-						"ElementValue": 
-						{
-							"RowName": "Large_Dark_Kitchen",
-							"AmountNeeded": 1
-						}
+						"RowName": "Large_Dark_Kitchen",
+						"AmountNeeded": 1
 					},
 					{
-						"ElementIndex": 1,
-						"ElementValue": 
-						{
-							"RowName": "Cherry_Cake_Pattern",
-							"AmountNeeded": 4
-						}
+						"RowName": "Cherry_Cake_Pattern",
+						"AmountNeeded": 4
 					}
 				],
 				"SecondPlaceRewards":
 				[
 					{
-						"ElementIndex": 1,
-						"ElementValue": 
-						{
-							"RowName": "Still",
-							"AmountNeeded": 1
-						}
+						"RowName": "Still",
+						"AmountNeeded": 1
 					}
 				],
 				"ThirdPlaceRewards":
 				[
 					{
-						"ElementIndex": 1,
-						"ElementValue": 
-						{
-							"RowName": "Milk",
-							"AmountNeeded": 20
-						}
+						"RowName": "Milk",
+						"AmountNeeded": 20
 					}
 				]
 			},
@@ -122,34 +94,22 @@
 				"FirstPlaceRewards":
 				[
 					{
-						"ElementIndex": 1,
-						"ElementValue": 
-						{
-							"RowName": "Icecream_Processor",
-							"AmountNeeded": 1
-						}
+						"RowName": "Icecream_Processor",
+						"AmountNeeded": 1
 					}
 				],
 				"SecondPlaceRewards":
 				[
 					{
-						"ElementIndex": 1,
-						"ElementValue": 
-						{
-							"RowName": "Meteorite_Polished",
-							"AmountNeeded": 2
-						}
+						"RowName": "Meteorite_Polished",
+						"AmountNeeded": 2
 					}
 				],
 				"ThirdPlaceRewards":
 				[
 					{
-						"ElementIndex": 1,
-						"ElementValue": 
-						{
-							"RowName": "Cocoberries_Seeds",
-							"AmountNeeded": 2
-						}
+						"RowName": "Cocoberries_Seeds",
+						"AmountNeeded": 2
 					}
 				]
 			}
@@ -195,34 +155,22 @@
 				"FirstPlaceRewards":
 				[
 					{
-						"ElementIndex": 1,
-						"ElementValue": 
-						{
-							"RowName": "Beer_Barrel",
-							"AmountNeeded": 1
-						}
+						"RowName": "Beer_Barrel",
+						"AmountNeeded": 1
 					}
 				],
 				"SecondPlaceRewards":
 				[
 					{
-						"ElementIndex": 1,
-						"ElementValue": 
-						{
-							"RowName": "Coffee_Drink",
-							"AmountNeeded": 10
-						}
+						"RowName": "Coffee_Drink",
+						"AmountNeeded": 10
 					}
 				],
 				"ThirdPlaceRewards":
 				[
 					{
-						"ElementIndex": 1,
-						"ElementValue": 
-						{
-							"RowName": "Salt",
-							"AmountNeeded": 20
-						}
+						"RowName": "Salt",
+						"AmountNeeded": 20
 					}
 				]
 			},
@@ -231,42 +179,26 @@
 				"FirstPlaceRewards":
 				[
 					{
-						"ElementIndex": 1,
-						"ElementValue": 
-						{
-							"RowName": "Large_Dark_Kitchen",
-							"AmountNeeded": 1
-						}
+						"RowName": "Large_Dark_Kitchen",
+						"AmountNeeded": 1
 					},
 					{
-						"ElementIndex": 1,
-						"ElementValue": 
-						{
-							"RowName": "Cherry_Cake_Pattern",
-							"AmountNeeded": 4
-						}
+						"RowName": "Cherry_Cake_Pattern",
+						"AmountNeeded": 4
 					}
 				],
 				"SecondPlaceRewards":
 				[
 					{
-						"ElementIndex": 1,
-						"ElementValue": 
-						{
-							"RowName": "Still",
-							"AmountNeeded": 1
-						}
+						"RowName": "Still",
+						"AmountNeeded": 1
 					}
 				],
 				"ThirdPlaceRewards":
 				[
 					{
-						"ElementIndex": 1,
-						"ElementValue": 
-						{
-							"RowName": "Milk",
-							"AmountNeeded": 20
-						}
+						"RowName": "Milk",
+						"AmountNeeded": 20
 					}
 				]
 			},
@@ -275,34 +207,22 @@
 				"FirstPlaceRewards":
 				[
 					{
-						"ElementIndex": 1,
-						"ElementValue": 
-						{
-							"RowName": "Icecream_Processor",
-							"AmountNeeded": 1
-						}
+						"RowName": "Icecream_Processor",
+						"AmountNeeded": 1
 					}
 				],
 				"SecondPlaceRewards":
 				[
 					{
-						"ElementIndex": 1,
-						"ElementValue": 
-						{
-							"RowName": "Meteorite_Polished",
-							"AmountNeeded": 2
-						}
+						"RowName": "Meteorite_Polished",
+						"AmountNeeded": 2
 					}
 				],
 				"ThirdPlaceRewards":
 				[
 					{
-						"ElementIndex": 1,
-						"ElementValue": 
-						{
-							"RowName": "Cocoberries_Seeds",
-							"AmountNeeded": 2
-						}
+						"RowName": "Cocoberries_Seeds",
+						"AmountNeeded": 2
 					}
 				]
 			}
@@ -348,34 +268,22 @@
 				"FirstPlaceRewards":
 				[
 					{
-						"ElementIndex": 1,
-						"ElementValue": 
-						{
-							"RowName": "Beer_Barrel",
-							"AmountNeeded": 1
-						}
+						"RowName": "Beer_Barrel",
+						"AmountNeeded": 1
 					}
 				],
 				"SecondPlaceRewards":
 				[
 					{
-						"ElementIndex": 1,
-						"ElementValue": 
-						{
-							"RowName": "Coffee_Drink",
-							"AmountNeeded": 10
-						}
+						"RowName": "Coffee_Drink",
+						"AmountNeeded": 10
 					}
 				],
 				"ThirdPlaceRewards":
 				[
 					{
-						"ElementIndex": 1,
-						"ElementValue": 
-						{
-							"RowName": "Salt",
-							"AmountNeeded": 20
-						}
+						"RowName": "Salt",
+						"AmountNeeded": 20
 					}
 				]
 			},
@@ -384,50 +292,30 @@
 				"FirstPlaceRewards":
 				[
 					{
-						"ElementIndex": 1,
-						"ElementValue": 
-						{
-							"RowName": "Large_Dark_Kitchen",
-							"AmountNeeded": 1
-						}
+						"RowName": "Large_Dark_Kitchen",
+						"AmountNeeded": 1
 					},
 					{
-						"ElementIndex": 1,
-						"ElementValue": 
-						{
-							"RowName": "Watermelon_Pattern",
-							"AmountNeeded": 4
-						}
+						"RowName": "Watermelon_Pattern",
+						"AmountNeeded": 4
 					},
 					{
-						"ElementIndex": 1,
-						"ElementValue": 
-						{
-							"RowName": "Chocolate_Pattern",
-							"AmountNeeded": 4
-						}
+						"RowName": "Chocolate_Pattern",
+						"AmountNeeded": 4
 					}
 				],
 				"SecondPlaceRewards":
 				[
 					{
-						"ElementIndex": 1,
-						"ElementValue": 
-						{
-							"RowName": "Still",
-							"AmountNeeded": 1
-						}
+						"RowName": "Still",
+						"AmountNeeded": 1
 					}
 				],
 				"ThirdPlaceRewards":
 				[
 					{
-						"ElementIndex": 1,
-						"ElementValue": 
-						{
-							"RowName": "Milk",
-							"AmountNeeded": 20
-						}
+						"RowName": "Milk",
+						"AmountNeeded": 20
 					}
 				]
 			},
@@ -436,34 +324,22 @@
 				"FirstPlaceRewards":
 				[
 					{
-						"ElementIndex": 1,
-						"ElementValue": 
-						{
-							"RowName": "Icecream_Processor",
-							"AmountNeeded": 1
-						}
+						"RowName": "Icecream_Processor",
+						"AmountNeeded": 1
 					}
 				],
 				"SecondPlaceRewards":
 				[
 					{
-						"ElementIndex": 1,
-						"ElementValue": 
-						{
-							"RowName": "Meteorite_Polished",
-							"AmountNeeded": 2
-						}
+						"RowName": "Meteorite_Polished",
+						"AmountNeeded": 2
 					}
 				],
 				"ThirdPlaceRewards":
 				[
 					{
-						"ElementIndex": 1,
-						"ElementValue": 
-						{
-							"RowName": "Cocoberries_Seeds",
-							"AmountNeeded": 2
-						}
+						"RowName": "Cocoberries_Seeds",
+						"AmountNeeded": 2
 					}
 				]
 			}
@@ -509,34 +385,22 @@
 				"FirstPlaceRewards":
 				[
 					{
-						"ElementIndex": 1,
-						"ElementValue": 
-						{
-							"RowName": "Beer_Barrel",
-							"AmountNeeded": 1
-						}
+						"RowName": "Beer_Barrel",
+						"AmountNeeded": 1
 					}
 				],
 				"SecondPlaceRewards":
 				[
 					{
-						"ElementIndex": 1,
-						"ElementValue": 
-						{
-							"RowName": "Coffee_Drink",
-							"AmountNeeded": 10
-						}
+						"RowName": "Coffee_Drink",
+						"AmountNeeded": 10
 					}
 				],
 				"ThirdPlaceRewards":
 				[
 					{
-						"ElementIndex": 1,
-						"ElementValue": 
-						{
-							"RowName": "Salt",
-							"AmountNeeded": 20
-						}
+						"RowName": "Salt",
+						"AmountNeeded": 20
 					}
 				]
 			},
@@ -545,50 +409,30 @@
 				"FirstPlaceRewards":
 				[
 					{
-						"ElementIndex": 1,
-						"ElementValue": 
-						{
-							"RowName": "Large_Dark_Kitchen",
-							"AmountNeeded": 1
-						}
+						"RowName": "Large_Dark_Kitchen",
+						"AmountNeeded": 1
 					},
 					{
-						"ElementIndex": 1,
-						"ElementValue": 
-						{
-							"RowName": "Watermelon_Pattern",
-							"AmountNeeded": 4
-						}
+						"RowName": "Watermelon_Pattern",
+						"AmountNeeded": 4
 					},
 					{
-						"ElementIndex": 1,
-						"ElementValue": 
-						{
-							"RowName": "Chocolate_Pattern",
-							"AmountNeeded": 4
-						}
+						"RowName": "Chocolate_Pattern",
+						"AmountNeeded": 4
 					}
 				],
 				"SecondPlaceRewards":
 				[
 					{
-						"ElementIndex": 1,
-						"ElementValue": 
-						{
-							"RowName": "Still",
-							"AmountNeeded": 1
-						}
+						"RowName": "Still",
+						"AmountNeeded": 1
 					}
 				],
 				"ThirdPlaceRewards":
 				[
 					{
-						"ElementIndex": 1,
-						"ElementValue": 
-						{
-							"RowName": "Milk",
-							"AmountNeeded": 20
-						}
+						"RowName": "Milk",
+						"AmountNeeded": 20
 					}
 				]
 			},
@@ -597,34 +441,22 @@
 				"FirstPlaceRewards":
 				[
 					{
-						"ElementIndex": 1,
-						"ElementValue": 
-						{
-							"RowName": "Icecream_Processor",
-							"AmountNeeded": 1
-						}
+						"RowName": "Icecream_Processor",
+						"AmountNeeded": 1
 					}
 				],
 				"SecondPlaceRewards":
 				[
 					{
-						"ElementIndex": 1,
-						"ElementValue": 
-						{
-							"RowName": "Meteorite_Polished",
-							"AmountNeeded": 2
-						}
+						"RowName": "Meteorite_Polished",
+						"AmountNeeded": 2
 					}
 				],
 				"ThirdPlaceRewards":
 				[
 					{
-						"ElementIndex": 1,
-						"ElementValue": 
-						{
-							"RowName": "Cocoberries_Seeds",
-							"AmountNeeded": 2
-						}
+						"RowName": "Cocoberries_Seeds",
+						"AmountNeeded": 2
 					}
 				]
 			}
@@ -670,34 +502,22 @@
 				"FirstPlaceRewards":
 				[
 					{
-						"ElementIndex": 1,
-						"ElementValue": 
-						{
-							"RowName": "Beer_Barrel",
-							"AmountNeeded": 1
-						}
+						"RowName": "Beer_Barrel",
+						"AmountNeeded": 1
 					}
 				],
 				"SecondPlaceRewards":
 				[
 					{
-						"ElementIndex": 1,
-						"ElementValue": 
-						{
-							"RowName": "Coffee_Drink",
-							"AmountNeeded": 10
-						}
+						"RowName": "Coffee_Drink",
+						"AmountNeeded": 10
 					}
 				],
 				"ThirdPlaceRewards":
 				[
 					{
-						"ElementIndex": 1,
-						"ElementValue": 
-						{
-							"RowName": "Salt",
-							"AmountNeeded": 20
-						}
+						"RowName": "Salt",
+						"AmountNeeded": 20
 					}
 				]
 			},
@@ -706,50 +526,30 @@
 				"FirstPlaceRewards":
 				[
 					{
-						"ElementIndex": 1,
-						"ElementValue": 
-						{
-							"RowName": "Large_Dark_Kitchen",
-							"AmountNeeded": 1
-						}
+						"RowName": "Large_Dark_Kitchen",
+						"AmountNeeded": 1
 					},
 					{
-						"ElementIndex": 1,
-						"ElementValue": 
-						{
-							"RowName": "Watermelon_Pattern",
-							"AmountNeeded": 4
-						}
+						"RowName": "Watermelon_Pattern",
+						"AmountNeeded": 4
 					},
 					{
-						"ElementIndex": 1,
-						"ElementValue": 
-						{
-							"RowName": "Chocolate_Pattern",
-							"AmountNeeded": 4
-						}
+						"RowName": "Chocolate_Pattern",
+						"AmountNeeded": 4
 					}
 				],
 				"SecondPlaceRewards":
 				[
 					{
-						"ElementIndex": 1,
-						"ElementValue": 
-						{
-							"RowName": "Still",
-							"AmountNeeded": 1
-						}
+						"RowName": "Still",
+						"AmountNeeded": 1
 					}
 				],
 				"ThirdPlaceRewards":
 				[
 					{
-						"ElementIndex": 1,
-						"ElementValue": 
-						{
-							"RowName": "Milk",
-							"AmountNeeded": 20
-						}
+						"RowName": "Milk",
+						"AmountNeeded": 20
 					}
 				]
 			},
@@ -758,34 +558,22 @@
 				"FirstPlaceRewards":
 				[
 					{
-						"ElementIndex": 1,
-						"ElementValue": 
-						{
-							"RowName": "Icecream_Processor",
-							"AmountNeeded": 1
-						}
+						"RowName": "Icecream_Processor",
+						"AmountNeeded": 1
 					}
 				],
 				"SecondPlaceRewards":
 				[
 					{
-						"ElementIndex": 1,
-						"ElementValue": 
-						{
-							"RowName": "Meteorite_Polished",
-							"AmountNeeded": 2
-						}
+						"RowName": "Meteorite_Polished",
+						"AmountNeeded": 2
 					}
 				],
 				"ThirdPlaceRewards":
 				[
 					{
-						"ElementIndex": 1,
-						"ElementValue": 
-						{
-							"RowName": "Cocoberries_Seeds",
-							"AmountNeeded": 2
-						}
+						"RowName": "Cocoberries_Seeds",
+						"AmountNeeded": 2
 					}
 				]
 			}
@@ -831,34 +619,22 @@
 				"FirstPlaceRewards":
 				[
 					{
-						"ElementIndex": 1,
-						"ElementValue": 
-						{
-							"RowName": "Beer_Barrel",
-							"AmountNeeded": 1
-						}
+						"RowName": "Beer_Barrel",
+						"AmountNeeded": 1
 					}
 				],
 				"SecondPlaceRewards":
 				[
 					{
-						"ElementIndex": 1,
-						"ElementValue": 
-						{
-							"RowName": "Coffee_Drink",
-							"AmountNeeded": 10
-						}
+						"RowName": "Coffee_Drink",
+						"AmountNeeded": 10
 					}
 				],
 				"ThirdPlaceRewards":
 				[
 					{
-						"ElementIndex": 1,
-						"ElementValue": 
-						{
-							"RowName": "Salt",
-							"AmountNeeded": 20
-						}
+						"RowName": "Salt",
+						"AmountNeeded": 20
 					}
 				]
 			},
@@ -867,50 +643,30 @@
 				"FirstPlaceRewards":
 				[
 					{
-						"ElementIndex": 1,
-						"ElementValue": 
-						{
-							"RowName": "Large_Dark_Kitchen",
-							"AmountNeeded": 1
-						}
+						"RowName": "Large_Dark_Kitchen",
+						"AmountNeeded": 1
 					},
 					{
-						"ElementIndex": 1,
-						"ElementValue": 
-						{
-							"RowName": "Watermelon_Pattern",
-							"AmountNeeded": 4
-						}
+						"RowName": "Watermelon_Pattern",
+						"AmountNeeded": 4
 					},
 					{
-						"ElementIndex": 1,
-						"ElementValue": 
-						{
-							"RowName": "Chocolate_Pattern",
-							"AmountNeeded": 4
-						}
+						"RowName": "Chocolate_Pattern",
+						"AmountNeeded": 4
 					}
 				],
 				"SecondPlaceRewards":
 				[
 					{
-						"ElementIndex": 1,
-						"ElementValue": 
-						{
-							"RowName": "Still",
-							"AmountNeeded": 1
-						}
+						"RowName": "Still",
+						"AmountNeeded": 1
 					}
 				],
 				"ThirdPlaceRewards":
 				[
 					{
-						"ElementIndex": 1,
-						"ElementValue": 
-						{
-							"RowName": "Milk",
-							"AmountNeeded": 20
-						}
+						"RowName": "Milk",
+						"AmountNeeded": 20
 					}
 				]
 			},
@@ -919,34 +675,22 @@
 				"FirstPlaceRewards":
 				[
 					{
-						"ElementIndex": 1,
-						"ElementValue": 
-						{
-							"RowName": "Icecream_Processor",
-							"AmountNeeded": 1
-						}
+						"RowName": "Icecream_Processor",
+						"AmountNeeded": 1
 					}
 				],
 				"SecondPlaceRewards":
 				[
 					{
-						"ElementIndex": 1,
-						"ElementValue": 
-						{
-							"RowName": "Meteorite_Polished",
-							"AmountNeeded": 2
-						}
+						"RowName": "Meteorite_Polished",
+						"AmountNeeded": 2
 					}
 				],
 				"ThirdPlaceRewards":
 				[
 					{
-						"ElementIndex": 1,
-						"ElementValue": 
-						{
-							"RowName": "Cocoberries_Seeds",
-							"AmountNeeded": 2
-						}
+						"RowName": "Cocoberries_Seeds",
+						"AmountNeeded": 2
 					}
 				]
 			}
@@ -989,66 +733,38 @@
 				"FirstPlaceRewards":
 				[
 					{
-						"ElementIndex": 1,
-						"ElementValue": 
-						{
-							"RowName": "Shell_Table",
-							"AmountNeeded": 1
-						}
+						"RowName": "Shell_Table",
+						"AmountNeeded": 1
 					},
 					{
-						"ElementIndex": 1,
-						"ElementValue": 
-						{
-							"RowName": "Mango_Mahi_Mahi",
-							"AmountNeeded": 5
-						}
+						"RowName": "Mango_Mahi_Mahi",
+						"AmountNeeded": 5
 					}
 				],
 				"SecondPlaceRewards":
 				[
 					{
-						"ElementIndex": 1,
-						"ElementValue": 
-						{
-							"RowName": "Roti",
-							"AmountNeeded": 5
-						}
+						"RowName": "Roti",
+						"AmountNeeded": 5
 					},
 					{
-						"ElementIndex": 1,
-						"ElementValue": 
-						{
-							"RowName": "Takoyaki",
-							"AmountNeeded": 3
-						}
+						"RowName": "Takoyaki",
+						"AmountNeeded": 3
 					},
 					{
-						"ElementIndex": 1,
-						"ElementValue": 
-						{
-							"RowName": "Fish_Seasoning",
-							"AmountNeeded": 10
-						}
+						"RowName": "Fish_Seasoning",
+						"AmountNeeded": 10
 					}
 				],
 				"ThirdPlaceRewards":
 				[
 					{
-						"ElementIndex": 1,
-						"ElementValue": 
-						{
-							"RowName": "Grilled_Fish",
-							"AmountNeeded": 10
-						}
+						"RowName": "Grilled_Fish",
+						"AmountNeeded": 10
 					},
 					{
-						"ElementIndex": 1,
-						"ElementValue": 
-						{
-							"RowName": "Fish_Cuts",
-							"AmountNeeded": 10
-						}
+						"RowName": "Fish_Cuts",
+						"AmountNeeded": 10
 					}
 				]
 			},
@@ -1057,58 +773,34 @@
 				"FirstPlaceRewards":
 				[
 					{
-						"ElementIndex": 1,
-						"ElementValue": 
-						{
-							"RowName": "Deep_Ocean_Pattern",
-							"AmountNeeded": 4
-						}
+						"RowName": "Deep_Ocean_Pattern",
+						"AmountNeeded": 4
 					},
 					{
-						"ElementIndex": 1,
-						"ElementValue": 
-						{
-							"RowName": "Tropical_Squares_Pattern",
-							"AmountNeeded": 4
-						}
+						"RowName": "Tropical_Squares_Pattern",
+						"AmountNeeded": 4
 					},
 					{
-						"ElementIndex": 1,
-						"ElementValue": 
-						{
-							"RowName": "Shell_Bed",
-							"AmountNeeded": 1
-						}
+						"RowName": "Shell_Bed",
+						"AmountNeeded": 1
 					}
 				],
 				"SecondPlaceRewards":
 				[
 					{
-						"ElementIndex": 1,
-						"ElementValue": 
-						{
-							"RowName": "Fish_Cuts_Tuna",
-							"AmountNeeded": 20
-						}
+						"RowName": "Fish_Cuts_Tuna",
+						"AmountNeeded": 20
 					}
 				],
 				"ThirdPlaceRewards":
 				[
 					{
-						"ElementIndex": 1,
-						"ElementValue": 
-						{
-							"RowName": "Potato_Fish_Curry",
-							"AmountNeeded": 3
-						}
+						"RowName": "Potato_Fish_Curry",
+						"AmountNeeded": 3
 					},
 					{
-						"ElementIndex": 1,
-						"ElementValue": 
-						{
-							"RowName": "Crab_Quiche",
-							"AmountNeeded": 0
-						}
+						"RowName": "Crab_Quiche",
+						"AmountNeeded": 0
 					}
 				]
 			},
@@ -1117,58 +809,34 @@
 				"FirstPlaceRewards":
 				[
 					{
-						"ElementIndex": 1,
-						"ElementValue": 
-						{
-							"RowName": "Shell_Couch",
-							"AmountNeeded": 1
-						}
+						"RowName": "Shell_Couch",
+						"AmountNeeded": 1
 					},
 					{
-						"ElementIndex": 1,
-						"ElementValue": 
-						{
-							"RowName": "Shell_Wardrobe",
-							"AmountNeeded": 1
-						}
+						"RowName": "Shell_Wardrobe",
+						"AmountNeeded": 1
 					},
 					{
-						"ElementIndex": 1,
-						"ElementValue": 
-						{
-							"RowName": "Ginger_Dragon_Seeds",
-							"AmountNeeded": 3
-						}
+						"RowName": "Ginger_Dragon_Seeds",
+						"AmountNeeded": 3
 					}
 				],
 				"SecondPlaceRewards":
 				[
 					{
-						"ElementIndex": 1,
-						"ElementValue": 
-						{
-							"RowName": "Fish_Tank_Ocean",
-							"AmountNeeded": 1
-						}
+						"RowName": "Fish_Tank_Ocean",
+						"AmountNeeded": 1
 					},
 					{
-						"ElementIndex": 1,
-						"ElementValue": 
-						{
-							"RowName": "Owl_Cake",
-							"AmountNeeded": 4
-						}
+						"RowName": "Owl_Cake",
+						"AmountNeeded": 4
 					}
 				],
 				"ThirdPlaceRewards":
 				[
 					{
-						"ElementIndex": 1,
-						"ElementValue": 
-						{
-							"RowName": "Vanilla",
-							"AmountNeeded": 10
-						}
+						"RowName": "Vanilla",
+						"AmountNeeded": 10
 					}
 				]
 			}
@@ -1211,66 +879,38 @@
 				"FirstPlaceRewards":
 				[
 					{
-						"ElementIndex": 1,
-						"ElementValue": 
-						{
-							"RowName": "BBQ_Ribs",
-							"AmountNeeded": 5
-						}
+						"RowName": "BBQ_Ribs",
+						"AmountNeeded": 5
 					},
 					{
-						"ElementIndex": 1,
-						"ElementValue": 
-						{
-							"RowName": "Fish_Burger",
-							"AmountNeeded": 5
-						}
+						"RowName": "Fish_Burger",
+						"AmountNeeded": 5
 					},
 					{
-						"ElementIndex": 1,
-						"ElementValue": 
-						{
-							"RowName": "Chicken_Waffles",
-							"AmountNeeded": 5
-						}
+						"RowName": "Chicken_Waffles",
+						"AmountNeeded": 5
 					}
 				],
 				"SecondPlaceRewards":
 				[
 					{
-						"ElementIndex": 1,
-						"ElementValue": 
-						{
-							"RowName": "Funnel_Cake",
-							"AmountNeeded": 3
-						}
+						"RowName": "Funnel_Cake",
+						"AmountNeeded": 3
 					},
 					{
-						"ElementIndex": 1,
-						"ElementValue": 
-						{
-							"RowName": "Pumpkin_Fish_Curry",
-							"AmountNeeded": 5
-						}
+						"RowName": "Pumpkin_Fish_Curry",
+						"AmountNeeded": 5
 					}
 				],
 				"ThirdPlaceRewards":
 				[
 					{
-						"ElementIndex": 1,
-						"ElementValue": 
-						{
-							"RowName": "Fizzy_Float",
-							"AmountNeeded": 3
-						}
+						"RowName": "Fizzy_Float",
+						"AmountNeeded": 3
 					},
 					{
-						"ElementIndex": 1,
-						"ElementValue": 
-						{
-							"RowName": "Herb_Fish",
-							"AmountNeeded": 3
-						}
+						"RowName": "Herb_Fish",
+						"AmountNeeded": 3
 					}
 				]
 			},
@@ -1279,23 +919,15 @@
 				"FirstPlaceRewards":
 				[
 					{
-						"ElementIndex": 1,
-						"ElementValue": 
-						{
-							"RowName": "Tropical_Squares_Pattern",
-							"AmountNeeded": 4
-						}
+						"RowName": "Tropical_Squares_Pattern",
+						"AmountNeeded": 4
 					}
 				],
 				"SecondPlaceRewards":
 				[
 					{
-						"ElementIndex": 1,
-						"ElementValue": 
-						{
-							"RowName": "Fish_Seasoning",
-							"AmountNeeded": 20
-						}
+						"RowName": "Fish_Seasoning",
+						"AmountNeeded": 20
 					}
 				],
 				"ThirdPlaceRewards":
@@ -1306,74 +938,42 @@
 				"FirstPlaceRewards":
 				[
 					{
-						"ElementIndex": 1,
-						"ElementValue": 
-						{
-							"RowName": "Shell_Bed",
-							"AmountNeeded": 1
-						}
+						"RowName": "Shell_Bed",
+						"AmountNeeded": 1
 					},
 					{
-						"ElementIndex": 1,
-						"ElementValue": 
-						{
-							"RowName": "Shell_Couch",
-							"AmountNeeded": 1
-						}
+						"RowName": "Shell_Couch",
+						"AmountNeeded": 1
 					},
 					{
-						"ElementIndex": 1,
-						"ElementValue": 
-						{
-							"RowName": "Shell_Table",
-							"AmountNeeded": 1
-						}
+						"RowName": "Shell_Table",
+						"AmountNeeded": 1
 					},
 					{
-						"ElementIndex": 1,
-						"ElementValue": 
-						{
-							"RowName": "Shell_Wardrobe",
-							"AmountNeeded": 1
-						}
+						"RowName": "Shell_Wardrobe",
+						"AmountNeeded": 1
 					}
 				],
 				"SecondPlaceRewards":
 				[
 					{
-						"ElementIndex": 1,
-						"ElementValue": 
-						{
-							"RowName": "Fish_Tank_River",
-							"AmountNeeded": 1
-						}
+						"RowName": "Fish_Tank_River",
+						"AmountNeeded": 1
 					},
 					{
-						"ElementIndex": 1,
-						"ElementValue": 
-						{
-							"RowName": "Drip_Cake",
-							"AmountNeeded": 4
-						}
+						"RowName": "Drip_Cake",
+						"AmountNeeded": 4
 					}
 				],
 				"ThirdPlaceRewards":
 				[
 					{
-						"ElementIndex": 1,
-						"ElementValue": 
-						{
-							"RowName": "Tuna_Casserole",
-							"AmountNeeded": 5
-						}
+						"RowName": "Tuna_Casserole",
+						"AmountNeeded": 5
 					},
 					{
-						"ElementIndex": 1,
-						"ElementValue": 
-						{
-							"RowName": "Tuna_Salad",
-							"AmountNeeded": 5
-						}
+						"RowName": "Tuna_Salad",
+						"AmountNeeded": 5
 					}
 				]
 			}
@@ -1416,66 +1016,38 @@
 				"FirstPlaceRewards":
 				[
 					{
-						"ElementIndex": 1,
-						"ElementValue": 
-						{
-							"RowName": "Shell_Table",
-							"AmountNeeded": 1
-						}
+						"RowName": "Shell_Table",
+						"AmountNeeded": 1
 					},
 					{
-						"ElementIndex": 1,
-						"ElementValue": 
-						{
-							"RowName": "Mango_Mahi_Mahi",
-							"AmountNeeded": 5
-						}
+						"RowName": "Mango_Mahi_Mahi",
+						"AmountNeeded": 5
 					}
 				],
 				"SecondPlaceRewards":
 				[
 					{
-						"ElementIndex": 1,
-						"ElementValue": 
-						{
-							"RowName": "Roti",
-							"AmountNeeded": 5
-						}
+						"RowName": "Roti",
+						"AmountNeeded": 5
 					},
 					{
-						"ElementIndex": 1,
-						"ElementValue": 
-						{
-							"RowName": "Takoyaki",
-							"AmountNeeded": 3
-						}
+						"RowName": "Takoyaki",
+						"AmountNeeded": 3
 					},
 					{
-						"ElementIndex": 1,
-						"ElementValue": 
-						{
-							"RowName": "Fish_Seasoning",
-							"AmountNeeded": 10
-						}
+						"RowName": "Fish_Seasoning",
+						"AmountNeeded": 10
 					}
 				],
 				"ThirdPlaceRewards":
 				[
 					{
-						"ElementIndex": 1,
-						"ElementValue": 
-						{
-							"RowName": "Grilled_Fish",
-							"AmountNeeded": 10
-						}
+						"RowName": "Grilled_Fish",
+						"AmountNeeded": 10
 					},
 					{
-						"ElementIndex": 1,
-						"ElementValue": 
-						{
-							"RowName": "Fish_Cuts",
-							"AmountNeeded": 10
-						}
+						"RowName": "Fish_Cuts",
+						"AmountNeeded": 10
 					}
 				]
 			},
@@ -1484,58 +1056,34 @@
 				"FirstPlaceRewards":
 				[
 					{
-						"ElementIndex": 1,
-						"ElementValue": 
-						{
-							"RowName": "Deep_Ocean_Pattern",
-							"AmountNeeded": 4
-						}
+						"RowName": "Deep_Ocean_Pattern",
+						"AmountNeeded": 4
 					},
 					{
-						"ElementIndex": 1,
-						"ElementValue": 
-						{
-							"RowName": "Tropical_Squares_Pattern",
-							"AmountNeeded": 4
-						}
+						"RowName": "Tropical_Squares_Pattern",
+						"AmountNeeded": 4
 					},
 					{
-						"ElementIndex": 1,
-						"ElementValue": 
-						{
-							"RowName": "Shell_Bed",
-							"AmountNeeded": 1
-						}
+						"RowName": "Shell_Bed",
+						"AmountNeeded": 1
 					}
 				],
 				"SecondPlaceRewards":
 				[
 					{
-						"ElementIndex": 1,
-						"ElementValue": 
-						{
-							"RowName": "Fish_Cuts_Tuna",
-							"AmountNeeded": 20
-						}
+						"RowName": "Fish_Cuts_Tuna",
+						"AmountNeeded": 20
 					}
 				],
 				"ThirdPlaceRewards":
 				[
 					{
-						"ElementIndex": 1,
-						"ElementValue": 
-						{
-							"RowName": "Potato_Fish_Curry",
-							"AmountNeeded": 3
-						}
+						"RowName": "Potato_Fish_Curry",
+						"AmountNeeded": 3
 					},
 					{
-						"ElementIndex": 1,
-						"ElementValue": 
-						{
-							"RowName": "Crab_Quiche",
-							"AmountNeeded": 0
-						}
+						"RowName": "Crab_Quiche",
+						"AmountNeeded": 0
 					}
 				]
 			},
@@ -1544,58 +1092,34 @@
 				"FirstPlaceRewards":
 				[
 					{
-						"ElementIndex": 1,
-						"ElementValue": 
-						{
-							"RowName": "Shell_Couch",
-							"AmountNeeded": 1
-						}
+						"RowName": "Shell_Couch",
+						"AmountNeeded": 1
 					},
 					{
-						"ElementIndex": 1,
-						"ElementValue": 
-						{
-							"RowName": "Shell_Wardrobe",
-							"AmountNeeded": 1
-						}
+						"RowName": "Shell_Wardrobe",
+						"AmountNeeded": 1
 					},
 					{
-						"ElementIndex": 1,
-						"ElementValue": 
-						{
-							"RowName": "Ginger_Dragon_Seeds",
-							"AmountNeeded": 3
-						}
+						"RowName": "Ginger_Dragon_Seeds",
+						"AmountNeeded": 3
 					}
 				],
 				"SecondPlaceRewards":
 				[
 					{
-						"ElementIndex": 1,
-						"ElementValue": 
-						{
-							"RowName": "Fish_Tank_Ocean",
-							"AmountNeeded": 1
-						}
+						"RowName": "Fish_Tank_Ocean",
+						"AmountNeeded": 1
 					},
 					{
-						"ElementIndex": 1,
-						"ElementValue": 
-						{
-							"RowName": "Owl_Cake",
-							"AmountNeeded": 4
-						}
+						"RowName": "Owl_Cake",
+						"AmountNeeded": 4
 					}
 				],
 				"ThirdPlaceRewards":
 				[
 					{
-						"ElementIndex": 1,
-						"ElementValue": 
-						{
-							"RowName": "Vanilla",
-							"AmountNeeded": 10
-						}
+						"RowName": "Vanilla",
+						"AmountNeeded": 10
 					}
 				]
 			}
@@ -1638,34 +1162,22 @@
 				"FirstPlaceRewards":
 				[
 					{
-						"ElementIndex": 1,
-						"ElementValue": 
-						{
-							"RowName": "Fertilizer",
-							"AmountNeeded": 20
-						}
+						"RowName": "Fertilizer",
+						"AmountNeeded": 20
 					}
 				],
 				"SecondPlaceRewards":
 				[
 					{
-						"ElementIndex": 1,
-						"ElementValue": 
-						{
-							"RowName": "Samosa",
-							"AmountNeeded": 3
-						}
+						"RowName": "Samosa",
+						"AmountNeeded": 3
 					}
 				],
 				"ThirdPlaceRewards":
 				[
 					{
-						"ElementIndex": 1,
-						"ElementValue": 
-						{
-							"RowName": "Rose_Coconut",
-							"AmountNeeded": 3
-						}
+						"RowName": "Rose_Coconut",
+						"AmountNeeded": 3
 					}
 				]
 			},
@@ -1674,98 +1186,54 @@
 				"FirstPlaceRewards":
 				[
 					{
-						"ElementIndex": 1,
-						"ElementValue": 
-						{
-							"RowName": "Cloud_Chair",
-							"AmountNeeded": 1
-						}
+						"RowName": "Cloud_Chair",
+						"AmountNeeded": 1
 					},
 					{
-						"ElementIndex": 1,
-						"ElementValue": 
-						{
-							"RowName": "Clouds_Bed",
-							"AmountNeeded": 1
-						}
+						"RowName": "Clouds_Bed",
+						"AmountNeeded": 1
 					},
 					{
-						"ElementIndex": 1,
-						"ElementValue": 
-						{
-							"RowName": "Butterfly_Pattern",
-							"AmountNeeded": 4
-						}
+						"RowName": "Butterfly_Pattern",
+						"AmountNeeded": 4
 					},
 					{
-						"ElementIndex": 1,
-						"ElementValue": 
-						{
-							"RowName": "Candy_Cross_Bones_Pattern",
-							"AmountNeeded": 4
-						}
+						"RowName": "Candy_Cross_Bones_Pattern",
+						"AmountNeeded": 4
 					},
 					{
-						"ElementIndex": 1,
-						"ElementValue": 
-						{
-							"RowName": "Scary_Pattern",
-							"AmountNeeded": 4
-						}
+						"RowName": "Scary_Pattern",
+						"AmountNeeded": 4
 					},
 					{
-						"ElementIndex": 1,
-						"ElementValue": 
-						{
-							"RowName": "Skull_Pattern",
-							"AmountNeeded": 4
-						}
+						"RowName": "Skull_Pattern",
+						"AmountNeeded": 4
 					},
 					{
-						"ElementIndex": 1,
-						"ElementValue": 
-						{
-							"RowName": "Webs_Pattern",
-							"AmountNeeded": 4
-						}
+						"RowName": "Webs_Pattern",
+						"AmountNeeded": 4
 					}
 				],
 				"SecondPlaceRewards":
 				[
 					{
-						"ElementIndex": 1,
-						"ElementValue": 
-						{
-							"RowName": "Funnel_Cake",
-							"AmountNeeded": 5
-						}
+						"RowName": "Funnel_Cake",
+						"AmountNeeded": 5
 					},
 					{
-						"ElementIndex": 1,
-						"ElementValue": 
-						{
-							"RowName": "Fizzy_Float",
-							"AmountNeeded": 5
-						}
+						"RowName": "Fizzy_Float",
+						"AmountNeeded": 5
 					}
 				],
 				"ThirdPlaceRewards":
 				[
 					{
-						"ElementIndex": 1,
-						"ElementValue": 
-						{
-							"RowName": "Philosopher_Stone_Polished",
-							"AmountNeeded": 1
-						}
+						"RowName": "Philosopher_Stone_Polished",
+						"AmountNeeded": 1
 					},
 					{
-						"ElementIndex": 1,
-						"ElementValue": 
-						{
-							"RowName": "Steel_Bar",
-							"AmountNeeded": 2
-						}
+						"RowName": "Steel_Bar",
+						"AmountNeeded": 2
 					}
 				]
 			},
@@ -1774,66 +1242,38 @@
 				"FirstPlaceRewards":
 				[
 					{
-						"ElementIndex": 1,
-						"ElementValue": 
-						{
-							"RowName": "Bug_Net_Gold",
-							"AmountNeeded": 1
-						}
+						"RowName": "Bug_Net_Gold",
+						"AmountNeeded": 1
 					},
 					{
-						"ElementIndex": 1,
-						"ElementValue": 
-						{
-							"RowName": "Rainbow_Bench",
-							"AmountNeeded": 1
-						}
+						"RowName": "Rainbow_Bench",
+						"AmountNeeded": 1
 					},
 					{
-						"ElementIndex": 1,
-						"ElementValue": 
-						{
-							"RowName": "Cloud_Couch",
-							"AmountNeeded": 1
-						}
+						"RowName": "Cloud_Couch",
+						"AmountNeeded": 1
 					}
 				],
 				"SecondPlaceRewards":
 				[
 					{
-						"ElementIndex": 1,
-						"ElementValue": 
-						{
-							"RowName": "Banapple_Seeds",
-							"AmountNeeded": 3
-						}
+						"RowName": "Banapple_Seeds",
+						"AmountNeeded": 3
 					},
 					{
-						"ElementIndex": 1,
-						"ElementValue": 
-						{
-							"RowName": "Sugarnut_Seeds",
-							"AmountNeeded": 3
-						}
+						"RowName": "Sugarnut_Seeds",
+						"AmountNeeded": 3
 					},
 					{
-						"ElementIndex": 1,
-						"ElementValue": 
-						{
-							"RowName": "Cocoberries_Seeds",
-							"AmountNeeded": 3
-						}
+						"RowName": "Cocoberries_Seeds",
+						"AmountNeeded": 3
 					}
 				],
 				"ThirdPlaceRewards":
 				[
 					{
-						"ElementIndex": 1,
-						"ElementValue": 
-						{
-							"RowName": "Meteorite_Polished",
-							"AmountNeeded": 1
-						}
+						"RowName": "Meteorite_Polished",
+						"AmountNeeded": 1
 					}
 				]
 			}
@@ -1876,34 +1316,22 @@
 				"FirstPlaceRewards":
 				[
 					{
-						"ElementIndex": 1,
-						"ElementValue": 
-						{
-							"RowName": "Fertilizer",
-							"AmountNeeded": 20
-						}
+						"RowName": "Fertilizer",
+						"AmountNeeded": 20
 					}
 				],
 				"SecondPlaceRewards":
 				[
 					{
-						"ElementIndex": 1,
-						"ElementValue": 
-						{
-							"RowName": "Samosa",
-							"AmountNeeded": 3
-						}
+						"RowName": "Samosa",
+						"AmountNeeded": 3
 					}
 				],
 				"ThirdPlaceRewards":
 				[
 					{
-						"ElementIndex": 1,
-						"ElementValue": 
-						{
-							"RowName": "Rose_Coconut",
-							"AmountNeeded": 3
-						}
+						"RowName": "Rose_Coconut",
+						"AmountNeeded": 3
 					}
 				]
 			},
@@ -1912,98 +1340,54 @@
 				"FirstPlaceRewards":
 				[
 					{
-						"ElementIndex": 1,
-						"ElementValue": 
-						{
-							"RowName": "Cloud_Chair",
-							"AmountNeeded": 1
-						}
+						"RowName": "Cloud_Chair",
+						"AmountNeeded": 1
 					},
 					{
-						"ElementIndex": 1,
-						"ElementValue": 
-						{
-							"RowName": "Clouds_Bed",
-							"AmountNeeded": 1
-						}
+						"RowName": "Clouds_Bed",
+						"AmountNeeded": 1
 					},
 					{
-						"ElementIndex": 1,
-						"ElementValue": 
-						{
-							"RowName": "Butterfly_Pattern",
-							"AmountNeeded": 4
-						}
+						"RowName": "Butterfly_Pattern",
+						"AmountNeeded": 4
 					},
 					{
-						"ElementIndex": 1,
-						"ElementValue": 
-						{
-							"RowName": "Candy_Cross_Bones_Pattern",
-							"AmountNeeded": 4
-						}
+						"RowName": "Candy_Cross_Bones_Pattern",
+						"AmountNeeded": 4
 					},
 					{
-						"ElementIndex": 1,
-						"ElementValue": 
-						{
-							"RowName": "Scary_Pattern",
-							"AmountNeeded": 4
-						}
+						"RowName": "Scary_Pattern",
+						"AmountNeeded": 4
 					},
 					{
-						"ElementIndex": 1,
-						"ElementValue": 
-						{
-							"RowName": "Skull_Pattern",
-							"AmountNeeded": 4
-						}
+						"RowName": "Skull_Pattern",
+						"AmountNeeded": 4
 					},
 					{
-						"ElementIndex": 1,
-						"ElementValue": 
-						{
-							"RowName": "Webs_Pattern",
-							"AmountNeeded": 4
-						}
+						"RowName": "Webs_Pattern",
+						"AmountNeeded": 4
 					}
 				],
 				"SecondPlaceRewards":
 				[
 					{
-						"ElementIndex": 1,
-						"ElementValue": 
-						{
-							"RowName": "Funnel_Cake",
-							"AmountNeeded": 5
-						}
+						"RowName": "Funnel_Cake",
+						"AmountNeeded": 5
 					},
 					{
-						"ElementIndex": 1,
-						"ElementValue": 
-						{
-							"RowName": "Fizzy_Float",
-							"AmountNeeded": 5
-						}
+						"RowName": "Fizzy_Float",
+						"AmountNeeded": 5
 					}
 				],
 				"ThirdPlaceRewards":
 				[
 					{
-						"ElementIndex": 1,
-						"ElementValue": 
-						{
-							"RowName": "Philosopher_Stone_Polished",
-							"AmountNeeded": 1
-						}
+						"RowName": "Philosopher_Stone_Polished",
+						"AmountNeeded": 1
 					},
 					{
-						"ElementIndex": 1,
-						"ElementValue": 
-						{
-							"RowName": "Steel_Bar",
-							"AmountNeeded": 2
-						}
+						"RowName": "Steel_Bar",
+						"AmountNeeded": 2
 					}
 				]
 			},
@@ -2012,66 +1396,38 @@
 				"FirstPlaceRewards":
 				[
 					{
-						"ElementIndex": 1,
-						"ElementValue": 
-						{
-							"RowName": "Bug_Net_Gold",
-							"AmountNeeded": 1
-						}
+						"RowName": "Bug_Net_Gold",
+						"AmountNeeded": 1
 					},
 					{
-						"ElementIndex": 1,
-						"ElementValue": 
-						{
-							"RowName": "Rainbow_Bench",
-							"AmountNeeded": 1
-						}
+						"RowName": "Rainbow_Bench",
+						"AmountNeeded": 1
 					},
 					{
-						"ElementIndex": 1,
-						"ElementValue": 
-						{
-							"RowName": "Cloud_Couch",
-							"AmountNeeded": 1
-						}
+						"RowName": "Cloud_Couch",
+						"AmountNeeded": 1
 					}
 				],
 				"SecondPlaceRewards":
 				[
 					{
-						"ElementIndex": 1,
-						"ElementValue": 
-						{
-							"RowName": "Banapple_Seeds",
-							"AmountNeeded": 3
-						}
+						"RowName": "Banapple_Seeds",
+						"AmountNeeded": 3
 					},
 					{
-						"ElementIndex": 1,
-						"ElementValue": 
-						{
-							"RowName": "Sugarnut_Seeds",
-							"AmountNeeded": 3
-						}
+						"RowName": "Sugarnut_Seeds",
+						"AmountNeeded": 3
 					},
 					{
-						"ElementIndex": 1,
-						"ElementValue": 
-						{
-							"RowName": "Cocoberries_Seeds",
-							"AmountNeeded": 3
-						}
+						"RowName": "Cocoberries_Seeds",
+						"AmountNeeded": 3
 					}
 				],
 				"ThirdPlaceRewards":
 				[
 					{
-						"ElementIndex": 1,
-						"ElementValue": 
-						{
-							"RowName": "Meteorite_Polished",
-							"AmountNeeded": 1
-						}
+						"RowName": "Meteorite_Polished",
+						"AmountNeeded": 1
 					}
 				]
 			}
@@ -2114,42 +1470,26 @@
 				"FirstPlaceRewards":
 				[
 					{
-						"ElementIndex": 1,
-						"ElementValue": 
-						{
-							"RowName": "Sugar_Skull_Purple",
-							"AmountNeeded": 1
-						}
+						"RowName": "Sugar_Skull_Purple",
+						"AmountNeeded": 1
 					},
 					{
-						"ElementIndex": 1,
-						"ElementValue": 
-						{
-							"RowName": "Sugar_Skull_Red",
-							"AmountNeeded": 1
-						}
+						"RowName": "Sugar_Skull_Red",
+						"AmountNeeded": 1
 					}
 				],
 				"SecondPlaceRewards":
 				[
 					{
-						"ElementIndex": 1,
-						"ElementValue": 
-						{
-							"RowName": "Pan_De_Muerto",
-							"AmountNeeded": 5
-						}
+						"RowName": "Pan_De_Muerto",
+						"AmountNeeded": 5
 					}
 				],
 				"ThirdPlaceRewards":
 				[
 					{
-						"ElementIndex": 1,
-						"ElementValue": 
-						{
-							"RowName": "Pumpkin_Spiced_Rum",
-							"AmountNeeded": 3
-						}
+						"RowName": "Pumpkin_Spiced_Rum",
+						"AmountNeeded": 3
 					}
 				]
 			},
@@ -2158,74 +1498,42 @@
 				"FirstPlaceRewards":
 				[
 					{
-						"ElementIndex": 1,
-						"ElementValue": 
-						{
-							"RowName": "Sugar_Skull_Angel",
-							"AmountNeeded": 1
-						}
+						"RowName": "Sugar_Skull_Angel",
+						"AmountNeeded": 1
 					},
 					{
-						"ElementIndex": 1,
-						"ElementValue": 
-						{
-							"RowName": "Sugar_Skull_Traditional",
-							"AmountNeeded": 1
-						}
+						"RowName": "Sugar_Skull_Traditional",
+						"AmountNeeded": 1
 					},
 					{
-						"ElementIndex": 1,
-						"ElementValue": 
-						{
-							"RowName": "Diamond_Flies_Pattern",
-							"AmountNeeded": 4
-						}
+						"RowName": "Diamond_Flies_Pattern",
+						"AmountNeeded": 4
 					},
 					{
-						"ElementIndex": 1,
-						"ElementValue": 
-						{
-							"RowName": "Dia_De_Los_Muertos_Pattern",
-							"AmountNeeded": 4
-						}
+						"RowName": "Dia_De_Los_Muertos_Pattern",
+						"AmountNeeded": 4
 					}
 				],
 				"SecondPlaceRewards":
 				[
 					{
-						"ElementIndex": 1,
-						"ElementValue": 
-						{
-							"RowName": "Sugar_Skull_Floral",
-							"AmountNeeded": 1
-						}
+						"RowName": "Sugar_Skull_Floral",
+						"AmountNeeded": 1
 					},
 					{
-						"ElementIndex": 1,
-						"ElementValue": 
-						{
-							"RowName": "Sugar_Skull_Colorful",
-							"AmountNeeded": 1
-						}
+						"RowName": "Sugar_Skull_Colorful",
+						"AmountNeeded": 1
 					}
 				],
 				"ThirdPlaceRewards":
 				[
 					{
-						"ElementIndex": 1,
-						"ElementValue": 
-						{
-							"RowName": "Philosopher_Stone_Polished",
-							"AmountNeeded": 1
-						}
+						"RowName": "Philosopher_Stone_Polished",
+						"AmountNeeded": 1
 					},
 					{
-						"ElementIndex": 1,
-						"ElementValue": 
-						{
-							"RowName": "Steel_Bar",
-							"AmountNeeded": 2
-						}
+						"RowName": "Steel_Bar",
+						"AmountNeeded": 2
 					}
 				]
 			},
@@ -2234,74 +1542,42 @@
 				"FirstPlaceRewards":
 				[
 					{
-						"ElementIndex": 1,
-						"ElementValue": 
-						{
-							"RowName": "Bug_Net_Gold",
-							"AmountNeeded": 1
-						}
+						"RowName": "Bug_Net_Gold",
+						"AmountNeeded": 1
 					},
 					{
-						"ElementIndex": 1,
-						"ElementValue": 
-						{
-							"RowName": "Sugar_Skull_Black",
-							"AmountNeeded": 1
-						}
+						"RowName": "Sugar_Skull_Black",
+						"AmountNeeded": 1
 					},
 					{
-						"ElementIndex": 1,
-						"ElementValue": 
-						{
-							"RowName": "Sugar_Skull_Green",
-							"AmountNeeded": 1
-						}
+						"RowName": "Sugar_Skull_Green",
+						"AmountNeeded": 1
 					}
 				],
 				"SecondPlaceRewards":
 				[
 					{
-						"ElementIndex": 1,
-						"ElementValue": 
-						{
-							"RowName": "Banapple_Seeds",
-							"AmountNeeded": 3
-						}
+						"RowName": "Banapple_Seeds",
+						"AmountNeeded": 3
 					},
 					{
-						"ElementIndex": 1,
-						"ElementValue": 
-						{
-							"RowName": "Sugarnut_Seeds",
-							"AmountNeeded": 3
-						}
+						"RowName": "Sugarnut_Seeds",
+						"AmountNeeded": 3
 					},
 					{
-						"ElementIndex": 1,
-						"ElementValue": 
-						{
-							"RowName": "Cocoberries_Seeds",
-							"AmountNeeded": 3
-						}
+						"RowName": "Cocoberries_Seeds",
+						"AmountNeeded": 3
 					}
 				],
 				"ThirdPlaceRewards":
 				[
 					{
-						"ElementIndex": 1,
-						"ElementValue": 
-						{
-							"RowName": "Meteorite_Polished",
-							"AmountNeeded": 1
-						}
+						"RowName": "Meteorite_Polished",
+						"AmountNeeded": 1
 					},
 					{
-						"ElementIndex": 1,
-						"ElementValue": 
-						{
-							"RowName": "Sugar_Skull_Pink",
-							"AmountNeeded": 1
-						}
+						"RowName": "Sugar_Skull_Pink",
+						"AmountNeeded": 1
 					}
 				]
 			}
@@ -2344,42 +1620,26 @@
 				"FirstPlaceRewards":
 				[
 					{
-						"ElementIndex": 1,
-						"ElementValue": 
-						{
-							"RowName": "Sugar_Skull_Purple",
-							"AmountNeeded": 1
-						}
+						"RowName": "Sugar_Skull_Purple",
+						"AmountNeeded": 1
 					},
 					{
-						"ElementIndex": 1,
-						"ElementValue": 
-						{
-							"RowName": "Sugar_Skull_Red",
-							"AmountNeeded": 1
-						}
+						"RowName": "Sugar_Skull_Red",
+						"AmountNeeded": 1
 					}
 				],
 				"SecondPlaceRewards":
 				[
 					{
-						"ElementIndex": 1,
-						"ElementValue": 
-						{
-							"RowName": "Pan_De_Muerto",
-							"AmountNeeded": 5
-						}
+						"RowName": "Pan_De_Muerto",
+						"AmountNeeded": 5
 					}
 				],
 				"ThirdPlaceRewards":
 				[
 					{
-						"ElementIndex": 1,
-						"ElementValue": 
-						{
-							"RowName": "Pumpkin_Spiced_Rum",
-							"AmountNeeded": 3
-						}
+						"RowName": "Pumpkin_Spiced_Rum",
+						"AmountNeeded": 3
 					}
 				]
 			},
@@ -2388,74 +1648,42 @@
 				"FirstPlaceRewards":
 				[
 					{
-						"ElementIndex": 1,
-						"ElementValue": 
-						{
-							"RowName": "Sugar_Skull_Angel",
-							"AmountNeeded": 1
-						}
+						"RowName": "Sugar_Skull_Angel",
+						"AmountNeeded": 1
 					},
 					{
-						"ElementIndex": 1,
-						"ElementValue": 
-						{
-							"RowName": "Sugar_Skull_Traditional",
-							"AmountNeeded": 1
-						}
+						"RowName": "Sugar_Skull_Traditional",
+						"AmountNeeded": 1
 					},
 					{
-						"ElementIndex": 1,
-						"ElementValue": 
-						{
-							"RowName": "Diamond_Flies_Pattern",
-							"AmountNeeded": 4
-						}
+						"RowName": "Diamond_Flies_Pattern",
+						"AmountNeeded": 4
 					},
 					{
-						"ElementIndex": 1,
-						"ElementValue": 
-						{
-							"RowName": "Dia_De_Los_Muertos_Pattern",
-							"AmountNeeded": 4
-						}
+						"RowName": "Dia_De_Los_Muertos_Pattern",
+						"AmountNeeded": 4
 					}
 				],
 				"SecondPlaceRewards":
 				[
 					{
-						"ElementIndex": 1,
-						"ElementValue": 
-						{
-							"RowName": "Sugar_Skull_Floral",
-							"AmountNeeded": 1
-						}
+						"RowName": "Sugar_Skull_Floral",
+						"AmountNeeded": 1
 					},
 					{
-						"ElementIndex": 1,
-						"ElementValue": 
-						{
-							"RowName": "Sugar_Skull_Colorful",
-							"AmountNeeded": 1
-						}
+						"RowName": "Sugar_Skull_Colorful",
+						"AmountNeeded": 1
 					}
 				],
 				"ThirdPlaceRewards":
 				[
 					{
-						"ElementIndex": 1,
-						"ElementValue": 
-						{
-							"RowName": "Philosopher_Stone_Polished",
-							"AmountNeeded": 1
-						}
+						"RowName": "Philosopher_Stone_Polished",
+						"AmountNeeded": 1
 					},
 					{
-						"ElementIndex": 1,
-						"ElementValue": 
-						{
-							"RowName": "Steel_Bar",
-							"AmountNeeded": 2
-						}
+						"RowName": "Steel_Bar",
+						"AmountNeeded": 2
 					}
 				]
 			},
@@ -2464,74 +1692,42 @@
 				"FirstPlaceRewards":
 				[
 					{
-						"ElementIndex": 1,
-						"ElementValue": 
-						{
-							"RowName": "Bug_Net_Gold",
-							"AmountNeeded": 1
-						}
+						"RowName": "Bug_Net_Gold",
+						"AmountNeeded": 1
 					},
 					{
-						"ElementIndex": 1,
-						"ElementValue": 
-						{
-							"RowName": "Sugar_Skull_Black",
-							"AmountNeeded": 1
-						}
+						"RowName": "Sugar_Skull_Black",
+						"AmountNeeded": 1
 					},
 					{
-						"ElementIndex": 1,
-						"ElementValue": 
-						{
-							"RowName": "Sugar_Skull_Green",
-							"AmountNeeded": 1
-						}
+						"RowName": "Sugar_Skull_Green",
+						"AmountNeeded": 1
 					}
 				],
 				"SecondPlaceRewards":
 				[
 					{
-						"ElementIndex": 1,
-						"ElementValue": 
-						{
-							"RowName": "Banapple_Seeds",
-							"AmountNeeded": 3
-						}
+						"RowName": "Banapple_Seeds",
+						"AmountNeeded": 3
 					},
 					{
-						"ElementIndex": 1,
-						"ElementValue": 
-						{
-							"RowName": "Sugarnut_Seeds",
-							"AmountNeeded": 3
-						}
+						"RowName": "Sugarnut_Seeds",
+						"AmountNeeded": 3
 					},
 					{
-						"ElementIndex": 1,
-						"ElementValue": 
-						{
-							"RowName": "Cocoberries_Seeds",
-							"AmountNeeded": 3
-						}
+						"RowName": "Cocoberries_Seeds",
+						"AmountNeeded": 3
 					}
 				],
 				"ThirdPlaceRewards":
 				[
 					{
-						"ElementIndex": 1,
-						"ElementValue": 
-						{
-							"RowName": "Meteorite_Polished",
-							"AmountNeeded": 1
-						}
+						"RowName": "Meteorite_Polished",
+						"AmountNeeded": 1
 					},
 					{
-						"ElementIndex": 1,
-						"ElementValue": 
-						{
-							"RowName": "Sugar_Skull_Pink",
-							"AmountNeeded": 1
-						}
+						"RowName": "Sugar_Skull_Pink",
+						"AmountNeeded": 1
 					}
 				]
 			}
