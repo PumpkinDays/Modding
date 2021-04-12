@@ -51,13 +51,15 @@ To modify the stamina reward for apples, add an object for the ```Apple``` row, 
 }
 ```
 
-At this point, you should be able to run the game and see the change by eating an Apple. To verify that everything worked correctly, you can check the logs folder as outlined in the [Troubleshooting section](#Troubleshooting). 
+At this point, you should be able to run the game and see the change by eating an Apple. To verify that everything worked correctly, you can check the logs folder as outlined in the [Troubleshooting](#Troubleshooting) section. 
 
 
 ## Troubleshooting
 Each mod profile will generate logs located at ```Modding/Mod_Profiles/<ProfileName>/Logs```. One log for each data table is generated, and outlines what happened when trying to handle modding for that particular data table. An absence of errors generally means that the values in the JSON file were loaded normally.
 
-## Types of JSON Objects
+## Types of JSON Fields
+
+
 
 ---
 ### Value
@@ -69,7 +71,7 @@ A ```Value``` is an individual value.
 - String: ```"Bob's Kitten"```
 - True/False: ```true```
 
-The last type of value is an enum, which is one value out of a specific list. As an example, the ```ToolTier``` enum can be one of the following:
+The last type of value is an Enum value, which is one value out of a specific list. As an example, the ```ToolTier``` enum can be one of the following:
 ```
 Wooden
 Copper
@@ -83,10 +85,10 @@ Enum values should be specified as strings, with the value being one of the valu
 ### Structure
 
 
-A ```Structure``` is a group of values. Structures have specific values that belong to them, which are outlined in the schema
+A ```Structure``` is a group of values. Structures have specific values that belong to them, which are outlined in the schema.
 An example is the ```MeatValues``` structure used in ```Animal_Properties_Data```:
 
- ```json
+ ```javascript
 MeatValues: 
 	GivesMeat: true/false
 	MeatType: string
