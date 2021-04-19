@@ -2,14 +2,6 @@
 	"Rows": 
 	[
 		{
-			"RowName": "Apple",
-			"StatusEffect": "Stamina"
-		},
-		{
-			"RowName": "Banana",
-			"StatusEffect": "Fishing"
-		},
-		{
 			"RowName": "Coffee_Drink",
 			"StatusEffect": "Mild_Coffee"
 		},

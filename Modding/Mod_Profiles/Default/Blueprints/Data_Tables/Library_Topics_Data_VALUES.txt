@@ -576,7 +576,7 @@
 		{
 			"RowName": "FallCropsWahooBeach",
 			"Title": "Fall Crops in Wahoo Beach",
-			"Description": "List of crops that grow during fall in the town of Wahoo Beach. \\n \\n Potatoes (3 days) \\n \\n Sugarcane (5 days)  \\n \\n Lentils (6 days) \\n \\n Zucchini (4 days)  \\n \\n Cantaloupe (5 days) \\n \\n Honey Dew (5 days) \\n\\n Wheat (3 days)",
+			"Description": "List of crops that grow during fall in the town of Wahoo Beach. \\n \\n Potatoes (3 days) \\n \\n Sugarcane (5 days)  \\n \\n Lentils (6 days) \\n \\n Zucchini (4 days)  \\n \\n Cantaloupe (5 days) \\n \\n Honey Dew (5 days) \\n\\n Wheat (3 days) \\n \\n Peanuts (11 day)",
 			"Thumbnail": "Texture2D'/Game/Textures/Icons/Crops/Honeydew.Honeydew'",
 			"Background": "None",
 			"UnlockDate": 
@@ -602,7 +602,7 @@
 		{
 			"RowName": "FallTreesWahooBeach",
 			"Title": "Fall Trees in Wahoo Beach",
-			"Description": "Trees that bear fruit during fall in Wahoo Beach. \\n \\n Guava \\n \\n Avocado \\n \\n Starfruit \\n \\n Sugarapple \\n \\n Hazel Nut \\n \\n Peanuts \\n \\n  Figs \\n \\n Pomegranate \\n \\n Dates \\n \\n Mandarin \\n \\n Grapefruit \\n \\n Fruit regrows on trees every 6 days after harvesting.",
+			"Description": "Trees that bear fruit during fall in Wahoo Beach. \\n \\n Guava \\n \\n Avocado \\n \\n Starfruit \\n \\n Sugarapple \\n \\n Hazel Nut \\n \\n  Figs \\n \\n Pomegranate \\n \\n Dates \\n \\n Mandarin \\n \\n Grapefruit \\n \\n Fruit regrows on trees every 6 days after harvesting.",
 			"Thumbnail": "Texture2D'/Game/Textures/Icons/Crops/Starfruit.Starfruit'",
 			"Background": "None",
 			"UnlockDate": 

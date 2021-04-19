@@ -651,11 +651,6 @@
 			[
 				"Bark_Scorpion"
 			]
-		},
-		{
-			"RowName": "Apple",
-			"NameArray":
-			[]
 		}
 	]
 }

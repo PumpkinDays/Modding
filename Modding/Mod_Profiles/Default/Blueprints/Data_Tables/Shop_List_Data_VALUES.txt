@@ -1835,6 +1835,7 @@
 					"Feeding_Trough_Large",
 					"Feeding_Trough_Small",
 					"Pet_Food",
+					"Feeding_Trough_Bowl",
 					"Feeding_Trough_Bowl"
 				],
 				"Fall":
@@ -1844,6 +1845,7 @@
 					"Feeding_Trough_Large",
 					"Feeding_Trough_Small",
 					"Pet_Food",
+					"Feeding_Trough_Bowl",
 					"Feeding_Trough_Bowl"
 				],
 				"Winter":

@@ -4292,6 +4292,10 @@
 		{
 			"RowName": "Fodder_Seeds",
 			"IntProperty": 0
+		},
+		{
+			"RowName": "Bat_Wings",
+			"IntProperty": 0
 		}
 	]
 }

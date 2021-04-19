@@ -54888,6 +54888,30 @@
 				},
 				"ParticleMaxTime": 0
 			}
+		},
+		{
+			"RowName": "Toilet",
+			"Class": "BlueprintGeneratedClass'/Game/Blueprints/Furniture/Generic_Decor_Furniture.Generic_Decor_Furniture_C'",
+			"Size": "Medium",
+			"ForGiftShop": false,
+			"ExtraSettings": 
+			{
+				"InteractionSound": "None",
+				"AnimationSkelMesh": "None",
+				"AnimationLength": 0,
+				"SkelAnimationToPlay": "None",
+				"InteractionMaterial":
+				[],
+				"InteractionMaterialIndex": 0,
+				"InteractionParticle": "None",
+				"ParticleOffset": 
+				{
+					"X": 0,
+					"Y": 0,
+					"Z": 0
+				},
+				"ParticleMaxTime": 0
+			}
 		}
 	]
 }

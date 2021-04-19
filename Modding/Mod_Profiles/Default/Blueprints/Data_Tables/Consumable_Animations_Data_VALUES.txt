@@ -3604,6 +3604,22 @@
 		{
 			"RowName": "Honey_Candy",
 			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Jar_Chocolate_Chip_Cookies",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Jar_Of_Sugar_Cookies",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Jar_Of_Chocolate_Cookies",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
+		},
+		{
+			"RowName": "Jar_Of_Candy",
+			"Animation": "AnimSequence'/Game/Character/Animations/Eating_From_Hand.Eating_From_Hand'"
 		}
 	]
 }

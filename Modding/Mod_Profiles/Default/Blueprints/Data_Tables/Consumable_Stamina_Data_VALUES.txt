@@ -11,7 +11,7 @@
 		},
 		{
 			"RowName": "Apple",
-			"StaminaReward": 20
+			"StaminaReward": 5
 		},
 		{
 			"RowName": "Apricot",
@@ -3936,6 +3936,22 @@
 		{
 			"RowName": "Honey_Candy",
 			"StaminaReward": 30
+		},
+		{
+			"RowName": "Jar_Chocolate_Chip_Cookies",
+			"StaminaReward": 90
+		},
+		{
+			"RowName": "Jar_Of_Sugar_Cookies",
+			"StaminaReward": 90
+		},
+		{
+			"RowName": "Jar_Of_Chocolate_Cookies",
+			"StaminaReward": 90
+		},
+		{
+			"RowName": "Jar_Of_Candy",
+			"StaminaReward": 90
 		}
 	]
 }

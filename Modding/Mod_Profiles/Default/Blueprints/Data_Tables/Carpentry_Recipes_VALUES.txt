@@ -2199,6 +2199,92 @@
 				"Z": 0
 			},
 			"PreviewMeshScale": 1
+		},
+		{
+			"RowName": "Toilet",
+			"Row": "Toilet",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Furniture/Couch.Couch'",
+			"FriendlyName": "Toilet",
+			"Category": "Chairs",
+			"Slots":
+			[
+				{
+					"Slot": "Toilet",
+					"MaterialBaseClass": "Wallpaper_Base"
+				}
+			],
+			"ProducedFurnitureItem": "Toilet",
+			"RecipeDifficulty": 2,
+			"Steps":
+			[ 5, 7 ],
+			"PreviewLocOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			},
+			"PreviewMeshOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			},
+			"PreviewMeshScale": 1
+		},
+		{
+			"RowName": "Storage_Shed",
+			"Row": "Storage_Shed",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Expansions/Storage_Shed.Storage_Shed'",
+			"FriendlyName": "Storage Shed",
+			"Category": "Storage",
+			"Slots":
+			[
+				{
+					"Slot": "Outside_Wall",
+					"MaterialBaseClass": "Wallpaper_Base"
+				},
+				{
+					"Slot": "Trim",
+					"MaterialBaseClass": "Wallpaper_Base"
+				},
+				{
+					"Slot": "Window_Frame",
+					"MaterialBaseClass": "Wallpaper_Base"
+				},
+				{
+					"Slot": "Windows",
+					"MaterialBaseClass": "Wallpaper_Base"
+				},
+				{
+					"Slot": "Roof",
+					"MaterialBaseClass": "Wallpaper_Base"
+				},
+				{
+					"Slot": "Door",
+					"MaterialBaseClass": "BASE_Rectangle_Door"
+				},
+				{
+					"Slot": "Door_Knob",
+					"MaterialBaseClass": "Wallpaper_Base"
+				}
+			],
+			"ProducedFurnitureItem": "Storage_Shed",
+			"RecipeDifficulty": 2,
+			"Steps":
+			[ 6, 5, 7 ],
+			"PreviewLocOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			},
+			"PreviewMeshOffset": 
+			{
+				"X": 0,
+				"Y": 0,
+				"Z": 0
+			},
+			"PreviewMeshScale": 1
 		}
 	]
 }

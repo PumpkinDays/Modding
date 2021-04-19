@@ -1180,7 +1180,8 @@
 				"*FIX* Coffee seeds are cheaper",
 				"*FIX* Fixed cat bringing bugs that don't exist in the game and do nothing.",
 				"*FIX* Added more food items that NPCs should like based on their liked and loved description.",
-				"*FIX* Updated recipes that use entire fish for 1 recipe to using the fillets instead. "
+				"*FIX* Updated recipes that use entire fish for 1 recipe to using the fillets instead. ",
+				"*NEW* Minor modding capabilities added (Please visit Pumpkin Days website for more information)"
 			]
 		}
 	]

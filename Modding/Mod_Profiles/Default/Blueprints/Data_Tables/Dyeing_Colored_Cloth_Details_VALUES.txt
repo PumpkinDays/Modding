@@ -267,8 +267,8 @@
 		},
 		{
 			"RowName": "Orchid",
-			"Thumbnail": "Texture2D'/Game/Textures/Icons/Cloth_Colors/Cloth_Dark_Red.Cloth_Dark_Red'",
-			"FriendlyName": "Dark Red Cloth",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Cloth_Colors/Cloth_Pink.Cloth_Pink'",
+			"FriendlyName": "Pink Cloth",
 			"Description": "Wool mixed with orchid flowers"
 		},
 		{

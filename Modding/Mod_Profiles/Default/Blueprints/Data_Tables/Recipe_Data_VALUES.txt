@@ -4414,7 +4414,7 @@
 			],
 			"RecipeSteps":
 			[ 4 ],
-			"Thumbnail": "Texture2D'/Game/Textures/Icons/Food/Candy/Blackberry_Candy.Blackberry_Candy'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Food/Candy/Blueberry_Candy.Blueberry_Candy'",
 			"IsUnknown": false
 		},
 		{
@@ -6750,7 +6750,7 @@
 			],
 			"RecipeSteps":
 			[ 1, 3 ],
-			"Thumbnail": "Texture2D'/Game/Textures/Icons/Food/Cake/Apple_Walnut_Cake.Apple_Walnut_Cake'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Food/Cake/Banana_Cake.Banana_Cake'",
 			"IsUnknown": false
 		},
 		{
@@ -8422,7 +8422,7 @@
 			],
 			"RecipeSteps":
 			[ 1 ],
-			"Thumbnail": "Texture2D'/Game/Textures/Icons/Food/Ice_Cream/Cherry_Icecream.Cherry_Icecream'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Food/Ice_Cream/Chestnut_Icecream.Chestnut_Icecream'",
 			"IsUnknown": false
 		},
 		{
@@ -14977,7 +14977,7 @@
 		},
 		{
 			"RowName": "Black_Licoric_Ice_Cream",
-			"FriendlyName": "Licorice Ice Cream",
+			"FriendlyName": "Black Licorice Ice Cream",
 			"ProducedItem": "Black_Licoric_Ice_Cream",
 			"Category": "Ice Cream",
 			"RecipeDifficulty": 0,
@@ -15351,7 +15351,7 @@
 		},
 		{
 			"RowName": "Madarin_Cake",
-			"FriendlyName": "Madarin Cake",
+			"FriendlyName": "Mandarin Cake",
 			"ProducedItem": "Madarin_Cake",
 			"Category": "Cakes & Pies",
 			"RecipeDifficulty": 1,

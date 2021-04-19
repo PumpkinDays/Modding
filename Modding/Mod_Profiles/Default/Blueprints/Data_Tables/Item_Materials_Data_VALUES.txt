@@ -24190,8 +24190,8 @@
 			"Materials":
 			[
 				"/Game/Materials/Patterns/Wood/Wood_Grain/Wood_Grain_Brown_Pattern.Wood_Grain_Brown_Pattern",
-				"/Game/Materials/Furniture/Basic_Set/Sleek_Couch_Yellow.Sleek_Couch_Yellow",
-				"/Game/Materials/Furniture/Basic_Set/Blend_Basic_Couch_Pillow_Orange.Blend_Basic_Couch_Pillow_Orange"
+				"/Game/Materials/Furniture/Basic_Set/Sleek_Couch_Grey.Sleek_Couch_Grey",
+				"/Game/Materials/Furniture/Basic_Set/Blend_Basic_Couch_Pillow_White.Blend_Basic_Couch_Pillow_White"
 			]
 		},
 		{
@@ -27777,6 +27777,20 @@
 				"/Game/Materials/Patterns/Metal/Metal_Gold.Metal_Gold",
 				"/Game/Materials/Patterns/Rugs_Wallpaper/Wallpaper/Digital_Bees_White.Digital_Bees_White",
 				"/Game/Materials/General/White_Glow.White_Glow"
+			]
+		},
+		{
+			"RowName": "Round_Table_Tree",
+			"Materials":
+			[
+				"/Game/Materials/Furniture/Basic_Set/Round_Table_Tree_Of_Life_Brown.Round_Table_Tree_Of_Life_Brown"
+			]
+		},
+		{
+			"RowName": "Round_Table_Wolf",
+			"Materials":
+			[
+				"/Game/Materials/Furniture/Basic_Set/BASIC_Blend_Basic_Round_Table_Wolf_Yang.BASIC_Blend_Basic_Round_Table_Wolf_Yang"
 			]
 		}
 	]

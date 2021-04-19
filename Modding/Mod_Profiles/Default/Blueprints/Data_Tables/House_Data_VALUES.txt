@@ -1017,7 +1017,7 @@
 			"IsAnimalHousing": true,
 			"HousingType": 1,
 			"HousingSpace": 8,
-			"Description": "A chicken coop. Costs 800g to build which will be added to your debt.",
+			"Description": "A large chicken coop. Costs 2000g to build which will be added to your debt.",
 			"SleepLocs":
 			[
 				{

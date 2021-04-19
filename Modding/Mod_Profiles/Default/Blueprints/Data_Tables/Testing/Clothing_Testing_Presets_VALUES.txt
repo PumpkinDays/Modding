@@ -2,12 +2,11 @@
 	"Rows": 
 	[
 		{
-			"RowName": "Tuxedo_Pink",
+			"RowName": "Summer_Dress_Red",
 			"NameArray":
 			[
-				"Tuxedo_Pink",
-				"Pants_Pink",
-				"Loafers_Formal_Black"
+				"Summer_Dress_Red",
+				"Boots_Plain_Yellow"
 			]
 		},
 		{

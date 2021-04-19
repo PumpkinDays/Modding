@@ -69,7 +69,7 @@
 				"Leaf": "/Game/Meshes/Crops/Peanut_Plant_Medium.Peanut_Plant_Medium",
 				"Flower": "/Game/Meshes/Crops/Peanut_Plant_Flower.Peanut_Plant_Flower",
 				"Fruit": "/Game/Meshes/Crops/Peanut_Plant_Fruit.Peanut_Plant_Fruit",
-				"Wilting": "/Game/Foliage/Trees/Tree_Wilting.Tree_Wilting",
+				"Wilting": "/Game/Meshes/Crops/Peanut_Plant_Wilting.Peanut_Plant_Wilting",
 				"Dead": "/Game/Meshes/Crops/Dead_Plant.Dead_Plant"
 			},
 			"CropPickHeight": 0,
@@ -4122,7 +4122,7 @@
 			"StaminaToHarvest": 5,
 			"Meshes": 
 			{
-				"Seed": "/Game/Meshes/Farming/Plots/Seeded_Mound.Seeded_Mound",
+				"Seed": "/Game/Foliage/Trees/Tree_Sapling.Tree_Sapling",
 				"Sprout": "/Game/Foliage/Trees/Sugar_Apple_Tree_SMall.Sugar_Apple_Tree_SMall",
 				"Leaf": "/Game/Foliage/Trees/Sugar_Apple_Tree.Sugar_Apple_Tree",
 				"Flower": "/Game/Foliage/Trees/Sugarapple_FLower.Sugarapple_FLower",

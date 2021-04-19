@@ -515,6 +515,11 @@
 			"RowName": "Crib_Blend",
 			"BaseClass": "Material'/Game/Materials/Furniture/Expansions/Crib_Blend.Crib_Blend'",
 			"ParameterName": "Parameter_Texture"
+		},
+		{
+			"RowName": "BASE_Rectangle_Door",
+			"BaseClass": "Material'/Game/Materials/Unique/Doors/BASE_Rectangle_Door.BASE_Rectangle_Door'",
+			"ParameterName": "Parameter_Texture"
 		}
 	]
 }

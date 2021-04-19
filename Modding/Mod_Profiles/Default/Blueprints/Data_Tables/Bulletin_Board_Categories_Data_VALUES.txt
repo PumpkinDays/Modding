@@ -1438,12 +1438,12 @@
 				"Scallops",
 				"Sea_Urchin",
 				"Seaweed",
-				"Fluke",
+				"None",
 				"Squid",
 				"Spider_Crab",
 				"Needle_Fish",
 				"John_Dory",
-				"Abalone"
+				"None"
 			]
 		},
 		{
@@ -1484,7 +1484,7 @@
 				"Seaweed",
 				"Ocean_Sunfish",
 				"Kelp_Bass",
-				"Fluke",
+				"None",
 				"Scad",
 				"Squid",
 				"Pufferfish",
@@ -1494,7 +1494,7 @@
 				"Anchovies",
 				"Needle_Fish",
 				"John_Dory",
-				"Abalone",
+				"None",
 				"Horse_Hair_Crab",
 				"Sweet_Shrimp",
 				"Conch_Shell",
@@ -1512,7 +1512,7 @@
 				"Oyster",
 				"Seaweed",
 				"Kelp_Bass",
-				"Fluke",
+				"None",
 				"Scad",
 				"Squid",
 				"Pufferfish",

@@ -584,6 +584,70 @@
 			"Categories":
 			[ 8, 7 ],
 			"RequiredAmount": 2
+		},
+		{
+			"RowName": "Toilet",
+			"Row": "Toilet",
+			"FriendlyName": "Toilet",
+			"Categories":
+			[ 7, 8 ],
+			"RequiredAmount": 15
+		},
+		{
+			"RowName": "Outside_Wall",
+			"Row": "Outside_Wall",
+			"FriendlyName": "Outside Wall",
+			"Categories":
+			[ 7, 14, 8 ],
+			"RequiredAmount": 30
+		},
+		{
+			"RowName": "Trim",
+			"Row": "Trim",
+			"FriendlyName": "Trim",
+			"Categories":
+			[ 7, 14, 8 ],
+			"RequiredAmount": 5
+		},
+		{
+			"RowName": "Window_Frame",
+			"Row": "Window_Frame",
+			"FriendlyName": "Window Frame",
+			"Categories":
+			[ 7, 14, 8 ],
+			"RequiredAmount": 2
+		},
+		{
+			"RowName": "Windows",
+			"Row": "Windows",
+			"FriendlyName": "Windows",
+			"Categories":
+			[ 7, 14, 8 ],
+			"RequiredAmount": 2
+		},
+		{
+			"RowName": "Roof",
+			"Row": "Roof",
+			"FriendlyName": "Roof",
+			"Categories":
+			[ 7, 14, 8 ],
+			"RequiredAmount": 5
+		},
+		{
+			"RowName": "Door",
+			"Row": "Door",
+			"FriendlyName": "Door",
+			"Categories":
+			[ 7, 14, 8 ],
+			"RequiredAmount": 1
+		},
+		{
+			"RowName": "Door_Knob",
+			"Row": "Door_Knob",
+			"FriendlyName": "Door Knob",
+			"Categories":
+			[ 7, 14, 8 ],
+			"RequiredAmount": 1
 		}
 	]
 }

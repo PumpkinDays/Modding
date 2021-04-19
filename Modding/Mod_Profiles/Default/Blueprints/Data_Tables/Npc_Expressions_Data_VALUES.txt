@@ -83,7 +83,7 @@
 				},
 				{
 					"Npc": "Ezekiel",
-					"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Medium_Angry_7.Eyebrows_Medium_Angry_7'"
+					"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Medium_Angry_13.Eyebrows_Medium_Angry_13'"
 				},
 				{
 					"Npc": "Faiyaz",
@@ -115,7 +115,7 @@
 				},
 				{
 					"Npc": "Jim",
-					"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Medium_Angry_3_4.Eyebrows_Medium_Angry_4'"
+					"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Medium_Angry_15.Eyebrows_Medium_Angry_15'"
 				},
 				{
 					"Npc": "Julian",
@@ -195,7 +195,7 @@
 				},
 				{
 					"Npc": "Casey",
-					"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Medium_Angry_3_4.Eyebrows_Medium_Angry_4'"
+					"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Medium_Angry_15.Eyebrows_Medium_Angry_15'"
 				},
 				{
 					"Npc": "Charlie",
@@ -355,11 +355,11 @@
 				},
 				{
 					"Npc": "Mickie",
-					"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Medium_Angry_2_3.Eyebrows_Medium_Angry_3'"
+					"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Medium_Angry_16.Eyebrows_Medium_Angry_16'"
 				},
 				{
 					"Npc": "Lucas",
-					"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Medium_Angry_3_4.Eyebrows_Medium_Angry_4'"
+					"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Medium_Angry_15.Eyebrows_Medium_Angry_15'"
 				},
 				{
 					"Npc": "Jen",
@@ -556,7 +556,7 @@
 				},
 				{
 					"Npc": "Dahlia",
-					"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Medium_Sad_4_5.Eyebrows_Medium_Sad_5'"
+					"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Medium_Sad_15.Eyebrows_Medium_Sad_15'"
 				},
 				{
 					"Npc": "Dee",
@@ -612,7 +612,7 @@
 				},
 				{
 					"Npc": "Jim",
-					"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Medium_Sad_3_4.Eyebrows_Medium_Sad_4'"
+					"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Medium_Sad_16.Eyebrows_Medium_Sad_16'"
 				},
 				{
 					"Npc": "Julian",
@@ -19677,7 +19677,7 @@
 				},
 				{
 					"Npc": "Dahlia",
-					"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Medium_Sad_4_5.Eyebrows_Medium_Sad_5'"
+					"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Medium_Sad_15.Eyebrows_Medium_Sad_15'"
 				},
 				{
 					"Npc": "Dee",
@@ -20054,7 +20054,7 @@
 				},
 				{
 					"Npc": "Dahlia",
-					"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Medium_Sad_4_5.Eyebrows_Medium_Sad_5'"
+					"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Medium_Sad_15.Eyebrows_Medium_Sad_15'"
 				},
 				{
 					"Npc": "Dee",
@@ -20431,7 +20431,7 @@
 				},
 				{
 					"Npc": "Dahlia",
-					"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Medium_Sad_4_5.Eyebrows_Medium_Sad_5'"
+					"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Medium_Sad_15.Eyebrows_Medium_Sad_15'"
 				},
 				{
 					"Npc": "Dee",
@@ -23030,7 +23030,7 @@
 				},
 				{
 					"Npc": "Dahlia",
-					"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Medium_Sad_4_5.Eyebrows_Medium_Sad_5'"
+					"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Medium_Sad_15.Eyebrows_Medium_Sad_15'"
 				},
 				{
 					"Npc": "Dee",
@@ -25621,7 +25621,7 @@
 				},
 				{
 					"Npc": "Dahlia",
-					"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Medium_Sad_4_5.Eyebrows_Medium_Sad_5'"
+					"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Medium_Sad_15.Eyebrows_Medium_Sad_15'"
 				},
 				{
 					"Npc": "Dee",
@@ -25998,7 +25998,7 @@
 				},
 				{
 					"Npc": "Dahlia",
-					"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Medium_Sad_4_5.Eyebrows_Medium_Sad_5'"
+					"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Medium_Sad_15.Eyebrows_Medium_Sad_15'"
 				},
 				{
 					"Npc": "Dee",
@@ -26375,7 +26375,7 @@
 				},
 				{
 					"Npc": "Dahlia",
-					"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Medium_Sad_4_5.Eyebrows_Medium_Sad_5'"
+					"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Medium_Sad_15.Eyebrows_Medium_Sad_15'"
 				},
 				{
 					"Npc": "Dee",
@@ -27273,7 +27273,7 @@
 				},
 				{
 					"Npc": "Ezekiel",
-					"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Medium_Angry_7.Eyebrows_Medium_Angry_7'"
+					"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Medium_Angry_13.Eyebrows_Medium_Angry_13'"
 				},
 				{
 					"Npc": "Faiyaz",
@@ -27305,7 +27305,7 @@
 				},
 				{
 					"Npc": "Jim",
-					"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Medium_Angry_3_4.Eyebrows_Medium_Angry_4'"
+					"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Medium_Angry_15.Eyebrows_Medium_Angry_15'"
 				},
 				{
 					"Npc": "Julian",
@@ -27385,7 +27385,7 @@
 				},
 				{
 					"Npc": "Casey",
-					"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Medium_Angry_3_4.Eyebrows_Medium_Angry_4'"
+					"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Medium_Angry_15.Eyebrows_Medium_Angry_15'"
 				},
 				{
 					"Npc": "Charlie",
@@ -27545,11 +27545,11 @@
 				},
 				{
 					"Npc": "Mickie",
-					"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Medium_Angry_2_3.Eyebrows_Medium_Angry_3'"
+					"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Medium_Angry_16.Eyebrows_Medium_Angry_16'"
 				},
 				{
 					"Npc": "Lucas",
-					"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Medium_Angry_3_4.Eyebrows_Medium_Angry_4'"
+					"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Medium_Angry_15.Eyebrows_Medium_Angry_15'"
 				},
 				{
 					"Npc": "Jen",
@@ -28707,7 +28707,7 @@
 				},
 				{
 					"Npc": "Dahlia",
-					"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Medium_Sad_4_5.Eyebrows_Medium_Sad_5'"
+					"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Medium_Sad_15.Eyebrows_Medium_Sad_15'"
 				},
 				{
 					"Npc": "Dee",
@@ -29123,7 +29123,7 @@
 			[
 				{
 					"Npc": "Jim",
-					"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Medium_Angry_3_4.Eyebrows_Medium_Angry_4'"
+					"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Medium_Angry_15.Eyebrows_Medium_Angry_15'"
 				}
 			],
 			"Eyes": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyes2/Eyes2_Uninterested.Eyes2_Uninterested'",
@@ -29409,7 +29409,7 @@
 				},
 				{
 					"Npc": "Dahlia",
-					"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Medium_Sad_4_5.Eyebrows_Medium_Sad_5'"
+					"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Medium_Sad_15.Eyebrows_Medium_Sad_15'"
 				},
 				{
 					"Npc": "Dee",
@@ -29465,7 +29465,7 @@
 				},
 				{
 					"Npc": "Jim",
-					"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Medium_Sad_3_4.Eyebrows_Medium_Sad_4'"
+					"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Medium_Sad_16.Eyebrows_Medium_Sad_16'"
 				},
 				{
 					"Npc": "Julian",
@@ -29906,7 +29906,7 @@
 				},
 				{
 					"Npc": "Dahlia",
-					"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Medium_Sad_4_5.Eyebrows_Medium_Sad_5'"
+					"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Medium_Sad_15.Eyebrows_Medium_Sad_15'"
 				},
 				{
 					"Npc": "Dee",
@@ -29962,7 +29962,7 @@
 				},
 				{
 					"Npc": "Jim",
-					"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Medium_Sad_3_4.Eyebrows_Medium_Sad_4'"
+					"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Medium_Sad_16.Eyebrows_Medium_Sad_16'"
 				},
 				{
 					"Npc": "Julian",
@@ -30403,7 +30403,7 @@
 				},
 				{
 					"Npc": "Dahlia",
-					"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Medium_Sad_4_5.Eyebrows_Medium_Sad_5'"
+					"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Medium_Sad_15.Eyebrows_Medium_Sad_15'"
 				},
 				{
 					"Npc": "Dee",
@@ -30459,7 +30459,7 @@
 				},
 				{
 					"Npc": "Jim",
-					"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Medium_Sad_3_4.Eyebrows_Medium_Sad_4'"
+					"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Medium_Sad_16.Eyebrows_Medium_Sad_16'"
 				},
 				{
 					"Npc": "Julian",
@@ -30900,7 +30900,7 @@
 				},
 				{
 					"Npc": "Dahlia",
-					"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Medium_Sad_4_5.Eyebrows_Medium_Sad_5'"
+					"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Medium_Sad_15.Eyebrows_Medium_Sad_15'"
 				},
 				{
 					"Npc": "Dee",
@@ -31277,7 +31277,7 @@
 				},
 				{
 					"Npc": "Dahlia",
-					"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Medium_Sad_4_5.Eyebrows_Medium_Sad_5'"
+					"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Medium_Sad_15.Eyebrows_Medium_Sad_15'"
 				},
 				{
 					"Npc": "Dee",
@@ -31654,7 +31654,7 @@
 				},
 				{
 					"Npc": "Dahlia",
-					"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Medium_Sad_4_5.Eyebrows_Medium_Sad_5'"
+					"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Medium_Sad_15.Eyebrows_Medium_Sad_15'"
 				},
 				{
 					"Npc": "Dee",
@@ -32031,7 +32031,7 @@
 				},
 				{
 					"Npc": "Dahlia",
-					"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Medium_Sad_4_5.Eyebrows_Medium_Sad_5'"
+					"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Medium_Sad_15.Eyebrows_Medium_Sad_15'"
 				},
 				{
 					"Npc": "Dee",
@@ -32087,7 +32087,7 @@
 				},
 				{
 					"Npc": "Jim",
-					"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Medium_Sad_3_4.Eyebrows_Medium_Sad_4'"
+					"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Medium_Sad_16.Eyebrows_Medium_Sad_16'"
 				},
 				{
 					"Npc": "Julian",
@@ -32528,7 +32528,7 @@
 				},
 				{
 					"Npc": "Dahlia",
-					"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Medium_Sad_4_5.Eyebrows_Medium_Sad_5'"
+					"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Medium_Sad_15.Eyebrows_Medium_Sad_15'"
 				},
 				{
 					"Npc": "Dee",
@@ -32584,7 +32584,7 @@
 				},
 				{
 					"Npc": "Jim",
-					"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Medium_Sad_3_4.Eyebrows_Medium_Sad_4'"
+					"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Medium_Sad_16.Eyebrows_Medium_Sad_16'"
 				},
 				{
 					"Npc": "Julian",
@@ -33025,7 +33025,7 @@
 				},
 				{
 					"Npc": "Dahlia",
-					"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Medium_Sad_4_5.Eyebrows_Medium_Sad_5'"
+					"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Medium_Sad_15.Eyebrows_Medium_Sad_15'"
 				},
 				{
 					"Npc": "Dee",
@@ -33081,7 +33081,7 @@
 				},
 				{
 					"Npc": "Jim",
-					"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Medium_Sad_3_4.Eyebrows_Medium_Sad_4'"
+					"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Medium_Sad_16.Eyebrows_Medium_Sad_16'"
 				},
 				{
 					"Npc": "Julian",
@@ -33522,7 +33522,7 @@
 				},
 				{
 					"Npc": "Dahlia",
-					"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Medium_Sad_4_5.Eyebrows_Medium_Sad_5'"
+					"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Medium_Sad_15.Eyebrows_Medium_Sad_15'"
 				},
 				{
 					"Npc": "Dee",
@@ -33899,7 +33899,7 @@
 				},
 				{
 					"Npc": "Dahlia",
-					"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Medium_Sad_4_5.Eyebrows_Medium_Sad_5'"
+					"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Medium_Sad_15.Eyebrows_Medium_Sad_15'"
 				},
 				{
 					"Npc": "Dee",
@@ -33955,7 +33955,7 @@
 				},
 				{
 					"Npc": "Jim",
-					"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Medium_Sad_3_4.Eyebrows_Medium_Sad_4'"
+					"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Medium_Sad_16.Eyebrows_Medium_Sad_16'"
 				},
 				{
 					"Npc": "Julian",
@@ -34396,7 +34396,7 @@
 				},
 				{
 					"Npc": "Dahlia",
-					"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Medium_Sad_4_5.Eyebrows_Medium_Sad_5'"
+					"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Medium_Sad_15.Eyebrows_Medium_Sad_15'"
 				},
 				{
 					"Npc": "Dee",
@@ -34452,7 +34452,7 @@
 				},
 				{
 					"Npc": "Jim",
-					"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Medium_Sad_3_4.Eyebrows_Medium_Sad_4'"
+					"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Medium_Sad_16.Eyebrows_Medium_Sad_16'"
 				},
 				{
 					"Npc": "Julian",
@@ -34893,7 +34893,7 @@
 				},
 				{
 					"Npc": "Dahlia",
-					"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Medium_Sad_4_5.Eyebrows_Medium_Sad_5'"
+					"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Medium_Sad_15.Eyebrows_Medium_Sad_15'"
 				},
 				{
 					"Npc": "Dee",
@@ -34949,7 +34949,7 @@
 				},
 				{
 					"Npc": "Jim",
-					"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Medium_Sad_3_4.Eyebrows_Medium_Sad_4'"
+					"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Medium_Sad_16.Eyebrows_Medium_Sad_16'"
 				},
 				{
 					"Npc": "Julian",
@@ -35390,7 +35390,7 @@
 				},
 				{
 					"Npc": "Dahlia",
-					"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Medium_Sad_4_5.Eyebrows_Medium_Sad_5'"
+					"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Medium_Sad_15.Eyebrows_Medium_Sad_15'"
 				},
 				{
 					"Npc": "Dee",
@@ -35446,7 +35446,7 @@
 				},
 				{
 					"Npc": "Jim",
-					"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Medium_Sad_3_4.Eyebrows_Medium_Sad_4'"
+					"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Medium_Sad_16.Eyebrows_Medium_Sad_16'"
 				},
 				{
 					"Npc": "Julian",
@@ -35887,7 +35887,7 @@
 				},
 				{
 					"Npc": "Dahlia",
-					"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Medium_Sad_4_5.Eyebrows_Medium_Sad_5'"
+					"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Medium_Sad_15.Eyebrows_Medium_Sad_15'"
 				},
 				{
 					"Npc": "Dee",
@@ -35943,7 +35943,7 @@
 				},
 				{
 					"Npc": "Jim",
-					"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Medium_Sad_3_4.Eyebrows_Medium_Sad_4'"
+					"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Medium_Sad_16.Eyebrows_Medium_Sad_16'"
 				},
 				{
 					"Npc": "Julian",
@@ -36384,7 +36384,7 @@
 				},
 				{
 					"Npc": "Dahlia",
-					"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Medium_Sad_4_5.Eyebrows_Medium_Sad_5'"
+					"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Medium_Sad_15.Eyebrows_Medium_Sad_15'"
 				},
 				{
 					"Npc": "Dee",
@@ -36440,7 +36440,7 @@
 				},
 				{
 					"Npc": "Jim",
-					"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Medium_Sad_3_4.Eyebrows_Medium_Sad_4'"
+					"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Medium_Sad_16.Eyebrows_Medium_Sad_16'"
 				},
 				{
 					"Npc": "Julian",
@@ -36881,7 +36881,7 @@
 				},
 				{
 					"Npc": "Dahlia",
-					"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Medium_Sad_4_5.Eyebrows_Medium_Sad_5'"
+					"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Medium_Sad_15.Eyebrows_Medium_Sad_15'"
 				},
 				{
 					"Npc": "Dee",
@@ -36937,7 +36937,7 @@
 				},
 				{
 					"Npc": "Jim",
-					"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Medium_Sad_3_4.Eyebrows_Medium_Sad_4'"
+					"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Medium_Sad_16.Eyebrows_Medium_Sad_16'"
 				},
 				{
 					"Npc": "Julian",
@@ -37378,7 +37378,7 @@
 				},
 				{
 					"Npc": "Dahlia",
-					"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Medium_Sad_4_5.Eyebrows_Medium_Sad_5'"
+					"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Medium_Sad_15.Eyebrows_Medium_Sad_15'"
 				},
 				{
 					"Npc": "Dee",
@@ -37434,7 +37434,7 @@
 				},
 				{
 					"Npc": "Jim",
-					"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Medium_Sad_3_4.Eyebrows_Medium_Sad_4'"
+					"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Medium_Sad_16.Eyebrows_Medium_Sad_16'"
 				},
 				{
 					"Npc": "Julian",
@@ -37875,7 +37875,7 @@
 				},
 				{
 					"Npc": "Dahlia",
-					"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Medium_Sad_4_5.Eyebrows_Medium_Sad_5'"
+					"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Medium_Sad_15.Eyebrows_Medium_Sad_15'"
 				},
 				{
 					"Npc": "Dee",
@@ -37931,7 +37931,7 @@
 				},
 				{
 					"Npc": "Jim",
-					"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Medium_Sad_3_4.Eyebrows_Medium_Sad_4'"
+					"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Medium_Sad_16.Eyebrows_Medium_Sad_16'"
 				},
 				{
 					"Npc": "Julian",
@@ -38372,7 +38372,7 @@
 				},
 				{
 					"Npc": "Dahlia",
-					"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Medium_Sad_4_5.Eyebrows_Medium_Sad_5'"
+					"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Medium_Sad_15.Eyebrows_Medium_Sad_15'"
 				},
 				{
 					"Npc": "Dee",
@@ -38428,7 +38428,7 @@
 				},
 				{
 					"Npc": "Jim",
-					"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Medium_Sad_3_4.Eyebrows_Medium_Sad_4'"
+					"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Medium_Sad_16.Eyebrows_Medium_Sad_16'"
 				},
 				{
 					"Npc": "Julian",
@@ -38869,7 +38869,7 @@
 				},
 				{
 					"Npc": "Dahlia",
-					"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Medium_Sad_4_5.Eyebrows_Medium_Sad_5'"
+					"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Medium_Sad_15.Eyebrows_Medium_Sad_15'"
 				},
 				{
 					"Npc": "Dee",
@@ -38925,7 +38925,7 @@
 				},
 				{
 					"Npc": "Jim",
-					"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Medium_Sad_3_4.Eyebrows_Medium_Sad_4'"
+					"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Medium_Sad_16.Eyebrows_Medium_Sad_16'"
 				},
 				{
 					"Npc": "Julian",
@@ -39366,7 +39366,7 @@
 				},
 				{
 					"Npc": "Dahlia",
-					"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Medium_Sad_4_5.Eyebrows_Medium_Sad_5'"
+					"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Medium_Sad_15.Eyebrows_Medium_Sad_15'"
 				},
 				{
 					"Npc": "Dee",
@@ -39422,7 +39422,7 @@
 				},
 				{
 					"Npc": "Jim",
-					"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Medium_Sad_3_4.Eyebrows_Medium_Sad_4'"
+					"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Medium_Sad_16.Eyebrows_Medium_Sad_16'"
 				},
 				{
 					"Npc": "Julian",
@@ -39863,7 +39863,7 @@
 				},
 				{
 					"Npc": "Dahlia",
-					"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Medium_Sad_4_5.Eyebrows_Medium_Sad_5'"
+					"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Medium_Sad_15.Eyebrows_Medium_Sad_15'"
 				},
 				{
 					"Npc": "Dee",
@@ -40240,7 +40240,7 @@
 				},
 				{
 					"Npc": "Dahlia",
-					"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Medium_Sad_4_5.Eyebrows_Medium_Sad_5'"
+					"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Medium_Sad_15.Eyebrows_Medium_Sad_15'"
 				},
 				{
 					"Npc": "Dee",
@@ -40296,7 +40296,7 @@
 				},
 				{
 					"Npc": "Jim",
-					"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Medium_Sad_3_4.Eyebrows_Medium_Sad_4'"
+					"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Medium_Sad_16.Eyebrows_Medium_Sad_16'"
 				},
 				{
 					"Npc": "Julian",
@@ -40737,7 +40737,7 @@
 				},
 				{
 					"Npc": "Dahlia",
-					"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Medium_Sad_4_5.Eyebrows_Medium_Sad_5'"
+					"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Medium_Sad_15.Eyebrows_Medium_Sad_15'"
 				},
 				{
 					"Npc": "Dee",
@@ -40793,7 +40793,7 @@
 				},
 				{
 					"Npc": "Jim",
-					"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Medium_Sad_3_4.Eyebrows_Medium_Sad_4'"
+					"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Medium_Sad_16.Eyebrows_Medium_Sad_16'"
 				},
 				{
 					"Npc": "Julian",
@@ -41234,7 +41234,7 @@
 				},
 				{
 					"Npc": "Dahlia",
-					"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Medium_Sad_4_5.Eyebrows_Medium_Sad_5'"
+					"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Medium_Sad_15.Eyebrows_Medium_Sad_15'"
 				},
 				{
 					"Npc": "Dee",
@@ -41290,7 +41290,7 @@
 				},
 				{
 					"Npc": "Jim",
-					"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Medium_Sad_3_4.Eyebrows_Medium_Sad_4'"
+					"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Medium_Sad_16.Eyebrows_Medium_Sad_16'"
 				},
 				{
 					"Npc": "Julian",
@@ -41731,7 +41731,7 @@
 				},
 				{
 					"Npc": "Dahlia",
-					"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Medium_Sad_4_5.Eyebrows_Medium_Sad_5'"
+					"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Medium_Sad_15.Eyebrows_Medium_Sad_15'"
 				},
 				{
 					"Npc": "Dee",
@@ -41787,7 +41787,7 @@
 				},
 				{
 					"Npc": "Jim",
-					"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Medium_Sad_3_4.Eyebrows_Medium_Sad_4'"
+					"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Medium_Sad_16.Eyebrows_Medium_Sad_16'"
 				},
 				{
 					"Npc": "Julian",
@@ -42228,7 +42228,7 @@
 				},
 				{
 					"Npc": "Dahlia",
-					"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Medium_Sad_4_5.Eyebrows_Medium_Sad_5'"
+					"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Medium_Sad_15.Eyebrows_Medium_Sad_15'"
 				},
 				{
 					"Npc": "Dee",
@@ -42284,7 +42284,7 @@
 				},
 				{
 					"Npc": "Jim",
-					"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Medium_Sad_3_4.Eyebrows_Medium_Sad_4'"
+					"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Medium_Sad_16.Eyebrows_Medium_Sad_16'"
 				},
 				{
 					"Npc": "Julian",
@@ -42725,7 +42725,7 @@
 				},
 				{
 					"Npc": "Dahlia",
-					"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Medium_Sad_4_5.Eyebrows_Medium_Sad_5'"
+					"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Medium_Sad_15.Eyebrows_Medium_Sad_15'"
 				},
 				{
 					"Npc": "Dee",
@@ -42781,7 +42781,7 @@
 				},
 				{
 					"Npc": "Jim",
-					"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Medium_Sad_3_4.Eyebrows_Medium_Sad_4'"
+					"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Medium_Sad_16.Eyebrows_Medium_Sad_16'"
 				},
 				{
 					"Npc": "Julian",
@@ -43222,7 +43222,7 @@
 				},
 				{
 					"Npc": "Dahlia",
-					"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Medium_Sad_4_5.Eyebrows_Medium_Sad_5'"
+					"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Medium_Sad_15.Eyebrows_Medium_Sad_15'"
 				},
 				{
 					"Npc": "Dee",
@@ -43278,7 +43278,7 @@
 				},
 				{
 					"Npc": "Jim",
-					"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Medium_Sad_3_4.Eyebrows_Medium_Sad_4'"
+					"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Medium_Sad_16.Eyebrows_Medium_Sad_16'"
 				},
 				{
 					"Npc": "Julian",
@@ -43719,7 +43719,7 @@
 				},
 				{
 					"Npc": "Dahlia",
-					"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Medium_Sad_4_5.Eyebrows_Medium_Sad_5'"
+					"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Medium_Sad_15.Eyebrows_Medium_Sad_15'"
 				},
 				{
 					"Npc": "Dee",
@@ -43775,7 +43775,7 @@
 				},
 				{
 					"Npc": "Jim",
-					"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Medium_Sad_3_4.Eyebrows_Medium_Sad_4'"
+					"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Medium_Sad_16.Eyebrows_Medium_Sad_16'"
 				},
 				{
 					"Npc": "Julian",
@@ -44216,7 +44216,7 @@
 				},
 				{
 					"Npc": "Dahlia",
-					"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Medium_Sad_4_5.Eyebrows_Medium_Sad_5'"
+					"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Medium_Sad_15.Eyebrows_Medium_Sad_15'"
 				},
 				{
 					"Npc": "Dee",
@@ -44272,7 +44272,7 @@
 				},
 				{
 					"Npc": "Jim",
-					"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Medium_Sad_3_4.Eyebrows_Medium_Sad_4'"
+					"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Medium_Sad_16.Eyebrows_Medium_Sad_16'"
 				},
 				{
 					"Npc": "Julian",
@@ -44726,7 +44726,7 @@
 				},
 				{
 					"Npc": "Dahlia",
-					"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Medium_Sad_4_5.Eyebrows_Medium_Sad_5'"
+					"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Medium_Sad_15.Eyebrows_Medium_Sad_15'"
 				},
 				{
 					"Npc": "Dee",
@@ -46097,7 +46097,7 @@
 				},
 				{
 					"Npc": "Dahlia",
-					"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Medium_Sad_4_5.Eyebrows_Medium_Sad_5'"
+					"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Medium_Sad_15.Eyebrows_Medium_Sad_15'"
 				},
 				{
 					"Npc": "Dee",
@@ -46498,7 +46498,7 @@
 				},
 				{
 					"Npc": "Ezekiel",
-					"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Medium_Angry_7.Eyebrows_Medium_Angry_7'"
+					"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Medium_Angry_13.Eyebrows_Medium_Angry_13'"
 				},
 				{
 					"Npc": "Faiyaz",
@@ -46610,7 +46610,7 @@
 				},
 				{
 					"Npc": "Casey",
-					"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Medium_Angry_3_4.Eyebrows_Medium_Angry_4'"
+					"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Medium_Angry_15.Eyebrows_Medium_Angry_15'"
 				},
 				{
 					"Npc": "Charlie",
@@ -46770,11 +46770,11 @@
 				},
 				{
 					"Npc": "Mickie",
-					"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Medium_Angry_2_3.Eyebrows_Medium_Angry_3'"
+					"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Medium_Angry_16.Eyebrows_Medium_Angry_16'"
 				},
 				{
 					"Npc": "Lucas",
-					"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Medium_Angry_3_4.Eyebrows_Medium_Angry_4'"
+					"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Medium_Angry_15.Eyebrows_Medium_Angry_15'"
 				},
 				{
 					"Npc": "Jen",
@@ -46851,7 +46851,7 @@
 				},
 				{
 					"Npc": "Dahlia",
-					"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Medium_Sad_4_5.Eyebrows_Medium_Sad_5'"
+					"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Medium_Sad_15.Eyebrows_Medium_Sad_15'"
 				},
 				{
 					"Npc": "Dee",
@@ -47241,7 +47241,7 @@
 				},
 				{
 					"Npc": "Dahlia",
-					"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Medium_Sad_4_5.Eyebrows_Medium_Sad_5'"
+					"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Medium_Sad_15.Eyebrows_Medium_Sad_15'"
 				},
 				{
 					"Npc": "Dee",
@@ -50222,7 +50222,7 @@
 				},
 				{
 					"Npc": "Dahlia",
-					"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Medium_Sad_4_5.Eyebrows_Medium_Sad_5'"
+					"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Medium_Sad_15.Eyebrows_Medium_Sad_15'"
 				},
 				{
 					"Npc": "Dee",
@@ -52022,7 +52022,7 @@
 				},
 				{
 					"Npc": "Ezekiel",
-					"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Medium_Angry_7.Eyebrows_Medium_Angry_7'"
+					"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Medium_Angry_13.Eyebrows_Medium_Angry_13'"
 				},
 				{
 					"Npc": "Faiyaz",
@@ -52054,7 +52054,7 @@
 				},
 				{
 					"Npc": "Jim",
-					"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Medium_Angry_3_4.Eyebrows_Medium_Angry_4'"
+					"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Medium_Angry_15.Eyebrows_Medium_Angry_15'"
 				},
 				{
 					"Npc": "Julian",
@@ -52134,7 +52134,7 @@
 				},
 				{
 					"Npc": "Casey",
-					"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Medium_Angry_3_4.Eyebrows_Medium_Angry_4'"
+					"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Medium_Angry_15.Eyebrows_Medium_Angry_15'"
 				},
 				{
 					"Npc": "Charlie",
@@ -52294,11 +52294,11 @@
 				},
 				{
 					"Npc": "Mickie",
-					"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Medium_Angry_2_3.Eyebrows_Medium_Angry_3'"
+					"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Medium_Angry_16.Eyebrows_Medium_Angry_16'"
 				},
 				{
 					"Npc": "Lucas",
-					"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Medium_Angry_3_4.Eyebrows_Medium_Angry_4'"
+					"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Medium_Angry_15.Eyebrows_Medium_Angry_15'"
 				},
 				{
 					"Npc": "Jen",
@@ -53387,7 +53387,7 @@
 				},
 				{
 					"Npc": "Dahlia",
-					"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Medium_Sad_4_5.Eyebrows_Medium_Sad_5'"
+					"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Medium_Sad_15.Eyebrows_Medium_Sad_15'"
 				},
 				{
 					"Npc": "Dee",
@@ -53764,7 +53764,7 @@
 				},
 				{
 					"Npc": "Dahlia",
-					"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Medium_Sad_4_5.Eyebrows_Medium_Sad_5'"
+					"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Medium_Sad_15.Eyebrows_Medium_Sad_15'"
 				},
 				{
 					"Npc": "Dee",
@@ -54141,7 +54141,7 @@
 				},
 				{
 					"Npc": "Dahlia",
-					"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Medium_Sad_4_5.Eyebrows_Medium_Sad_5'"
+					"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Medium_Sad_15.Eyebrows_Medium_Sad_15'"
 				},
 				{
 					"Npc": "Dee",
@@ -57491,7 +57491,7 @@
 				},
 				{
 					"Npc": "Dahlia",
-					"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Medium_Sad_4_5.Eyebrows_Medium_Sad_5'"
+					"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Medium_Sad_15.Eyebrows_Medium_Sad_15'"
 				},
 				{
 					"Npc": "Dee",
@@ -57868,7 +57868,7 @@
 				},
 				{
 					"Npc": "Dahlia",
-					"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Medium_Sad_4_5.Eyebrows_Medium_Sad_5'"
+					"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Medium_Sad_15.Eyebrows_Medium_Sad_15'"
 				},
 				{
 					"Npc": "Dee",

@@ -114,7 +114,7 @@
 		{
 			"RowName": "Wahoo_Beach-Hiatus_Trails",
 			"Cost": 100,
-			"TravelDurationHours": 2
+			"TravelDurationHours": 1
 		},
 		{
 			"RowName": "Swampland_1-Hiatus_Trails",
