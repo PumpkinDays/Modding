@@ -64,7 +64,8 @@ After the cheat commands are enabled you can use these:
 ```/fillmuseum``` -Fills the museum with everything. However, once the museum is filled you can't unfill it and the construction of Jounce Corp. will immediately be stopped.
 <br>
 <br>
-```/setdebt``` - This sets the debt. Set it to 0 to remove all debt
+```/setdebt``` - This sets the debt. Set it to 0 to remove all debt.
+<br>
 <b>Example</b> ```/setdebt 0```
 <br>
 <br>
