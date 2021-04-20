@@ -19,62 +19,62 @@ After the cheat commands are enabled you can use these:
 <b>Example</b> ```/Addnpchearts Zoey 1000```
 <br>
 <br>
-```/Spawn```- This spawns any item in the game. You must use the row name of the item in order for it to spawn, not necessarily what it is called in the inventory)
+```/Spawn```- This spawns any item in the game. You must use the row name of the item in order for it to spawn, not necessarily what it is called in the inventory
 <br>
 <b>Example</b> ```/Spawn Apple 10``` (this spawns 10 apples) 
 <br>
 <br>
-```/Setstamina```- This sets the stamina of the player. Max stamina is 100)
+```/Setstamina```- This sets the stamina of the player. Max stamina is 100
 <br>
 <b>Example</b> ```/Setstamina 100```
 <br>
 <br>
-```/SetGold``` - This sets the amount of gold)
+```/SetGold``` - This sets the amount of gold
 <br>
-<b>Example</b> ```/Setgold 1000``` (Sets the 1000 gold)
-<br>
-<br>
-```/SetTime``` (This sets the hour and the minute forward in time)
-<br>
-<b>Example</b> ```/SetTime 5 30``` (5:30am)
+<b>Example</b> ```/Setgold 1000``` <i>(Sets the 1000 gold)</i>
 <br>
 <br>
-```/setweather state``` (This triggers rain or snow depending on the season and town. The rain/snow has four settings of intensity; 0, 1, 2 and, 3)
+```/SetTime``` - This sets the hour and the minute forward in time
 <br>
-<b>Example</b> /setweather 0 (this turns off any rain/snow)
-<br>
-<br>
- ```/ToggleTime``` (this pauses the clock without freezing the game)
+<b>Example</b> ```/SetTime 5 30``` <i>(Sets time to 5:30am)</i>
 <br>
 <br>
-```/startjson```  (This triggers the json tutorials, the json tutorials can be found in "Npc_Tutorials_Json_Data_VALUES.txt"
+```/setweather state``` - This triggers rain or snow depending on the season and town. The rain/snow has four settings of intensity; 0, 1, 2 and, 3
+<br>
+<b>Example</b> /setweather 0 <i>(this turns off any rain/snow)</i>
 <br>
 <br>
-```/debugnpc``` (This brings up the interface to print out most of the NPC dialogue)
+ ```/ToggleTime``` - This pauses the clock without freezing the game
 <br>
 <br>
-```/Unlockrecipes``` (this unlocks all the recipes in the game for cooking and crafting)
+```/startjson``` - This triggers the json tutorials, the json tutorials can be found in <i>"Npc_Tutorials_Json_Data_VALUES.txt"</i>
 <br>
 <br>
-```/startquesttemplate``` (This triggers a quest from the Npc_Quest_Templates_Data_VALUES.txt)
+```/debugnpc``` - This brings up the interface to print out most of the NPC dialogue
+<br>
+<br>
+```/Unlockrecipes``` - This unlocks all the recipes in the game for cooking and crafting
+<br>
+<br>
+```/startquesttemplate``` - This triggers a quests listed in the <i>"Npc_Quest_Templates_Data_VALUES.txt"</i>
 <br>
 <b>Example</b> ```/startquesttemplate Zoey_1``` 
 <br>
 <br>
-```/fillmuseum``` (Fills the museum with everything. However, once the museum is filled you can't unfill it and Jounce Corp. will automatically no longer be able to move)
+```/fillmuseum``` -Fills the museum with everything. However, once the museum is filled you can't unfill it and the construction of Jounce Corp. will immediately be stopped.
 <br>
 <br>
-```/setdeb```t (This sets the debt. Set it to 0 to remove all debt)
+```/setdebt``` - This sets the debt. Set it to 0 to remove all debt
 <b>Example</b> ```/setdebt 0```
 <br>
 <br>
-```/setinvspace``` (This sets the inventory space. Warning if you adjust the inventory space while items are in the inventory there is a chance they might disappear if there is not enough space for them)
+```/setinvspace``` - This sets the inventory space. Warning if you adjust the inventory space while items are in the inventory there is a chance they might disappear if there is not enough space for them
 <br>
 <b>Example</b> ```/setinvspace 100```
 <br>
 <br>
-```/dropinv``` (This drops everything in your inventory)
+```/dropinv``` - This drops everything in your inventory
 <br>
 <br>
-```/Clearinv``` (This clears inv)
+```/Clearinv``` -This clears inv)
 <br>
