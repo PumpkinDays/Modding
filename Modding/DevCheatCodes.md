@@ -11,6 +11,7 @@ After the cheat commands are enabled you can use these:
 
 
 /Addnpchearts NPCName 1000 (This manipulates the NPC heart level. Each heart is 100 points)
+
 Example /Addnpchearts Zoey 1000
 
 
@@ -38,4 +39,21 @@ Example /setweather 0 (this turns off any rain/snow)
 
 
 /debugnpc npcname (This brings up most of the NPc dialogue)
+
+/Unlockrecipes (this unlocks all the recipes in the game for cooking and crafting)
+
+/startquesttemplate (This triggers a quest from the Npc_Quest_Templates_Data_VALUES.txt)
+Example /startquesttemplate Zoey_1 
+
+/fillmuseum (Fills the museum with everything. However, once the museum is filled you can't unfill it and Jounce Corp. will automatically no longer be able to move)
+
+/setdebt (This sets the debt. Set it to 0 to remove all debt)
+Example /setdebt 0
+
+/setinvspace (This sets the inventory space. Warning if you adjust the inventory space while items are in the inventory there is a chance they might disappear if there is not enough space for them)
+Example /setinvspace 100
+
+/dropinv (This drops everything in your inventory)
+
+/Clearinv (This clears inv)
 
