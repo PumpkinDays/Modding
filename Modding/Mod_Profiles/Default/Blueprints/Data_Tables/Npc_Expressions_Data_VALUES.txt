@@ -23,7 +23,7 @@
 				},
 				{
 					"Npc": "Tierra",
-					"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Thin_Angry_8.Eyebrows_Thin_Angry_8'"
+					"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Thin_Angry_15.Eyebrows_Thin_Angry_15'"
 				},
 				{
 					"Npc": "Vera",
@@ -147,7 +147,7 @@
 				},
 				{
 					"Npc": "Rose",
-					"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Thin_Angry_4.Eyebrows_Thin_Angry_4'"
+					"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Thin_Angry_11.Eyebrows_Thin_Angry_11'"
 				},
 				{
 					"Npc": "Sebastian",
@@ -479,7 +479,7 @@
 				},
 				{
 					"Npc": "Tiffani",
-					"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Thin_Angry_5_6.Eyebrows_Thin_Angry_6'"
+					"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Thin_Angry_18.Eyebrows_Thin_Angry_18'"
 				},
 				{
 					"Npc": "Yuki",
@@ -27213,7 +27213,7 @@
 				},
 				{
 					"Npc": "Tierra",
-					"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Thin_Angry_8.Eyebrows_Thin_Angry_8'"
+					"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Thin_Angry_15.Eyebrows_Thin_Angry_15'"
 				},
 				{
 					"Npc": "Vera",
@@ -27337,7 +27337,7 @@
 				},
 				{
 					"Npc": "Rose",
-					"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Thin_Angry_4.Eyebrows_Thin_Angry_4'"
+					"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Thin_Angry_11.Eyebrows_Thin_Angry_11'"
 				},
 				{
 					"Npc": "Sebastian",
@@ -27669,7 +27669,7 @@
 				},
 				{
 					"Npc": "Tiffani",
-					"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Thin_Angry_5_6.Eyebrows_Thin_Angry_6'"
+					"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Thin_Angry_18.Eyebrows_Thin_Angry_18'"
 				},
 				{
 					"Npc": "Yuki",
@@ -46438,7 +46438,7 @@
 				},
 				{
 					"Npc": "Tierra",
-					"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Thin_Angry_8.Eyebrows_Thin_Angry_8'"
+					"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Thin_Angry_15.Eyebrows_Thin_Angry_15'"
 				},
 				{
 					"Npc": "Vera",
@@ -46562,7 +46562,7 @@
 				},
 				{
 					"Npc": "Rose",
-					"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Thin_Angry_4.Eyebrows_Thin_Angry_4'"
+					"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Thin_Angry_11.Eyebrows_Thin_Angry_11'"
 				},
 				{
 					"Npc": "Sebastian",
@@ -51962,7 +51962,7 @@
 				},
 				{
 					"Npc": "Tierra",
-					"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Thin_Angry_8.Eyebrows_Thin_Angry_8'"
+					"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Thin_Angry_15.Eyebrows_Thin_Angry_15'"
 				},
 				{
 					"Npc": "Vera",
@@ -52086,7 +52086,7 @@
 				},
 				{
 					"Npc": "Rose",
-					"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Thin_Angry_4.Eyebrows_Thin_Angry_4'"
+					"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Thin_Angry_11.Eyebrows_Thin_Angry_11'"
 				},
 				{
 					"Npc": "Sebastian",
@@ -52418,7 +52418,7 @@
 				},
 				{
 					"Npc": "Tiffani",
-					"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Thin_Angry_5_6.Eyebrows_Thin_Angry_6'"
+					"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Eyebrows2/Eyebrows_Thin_Angry_18.Eyebrows_Thin_Angry_18'"
 				},
 				{
 					"Npc": "Yuki",

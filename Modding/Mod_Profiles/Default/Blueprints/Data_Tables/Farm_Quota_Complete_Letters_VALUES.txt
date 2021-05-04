@@ -20,6 +20,15 @@
 			"GoldAmount": 8000
 		},
 		{
+			"RowName": "0_Diamond_Falls",
+			"Subject": "[VT4BSH]Good Job on your Farm Quota!",
+			"Body": "[6K45C1]Thanks so much for working hard on your farming quota. Here is some pie and extra gold for your hard work.",
+			"Sender": "Mayor Fukuyama",
+			"Item": "Apple_Pie",
+			"ItemAmount": 10,
+			"GoldAmount": 8000
+		},
+		{
 			"RowName": "1_Pumpkinvale",
 			"Subject": "[VT4BSH]Good Job on your Farm Quota!",
 			"Body": "[7QYC33]Thank you so much for working hard on your farming quota. I'm sending you this letter with some unique seeds you can try growing on your farm. They are from my cousin who likes to create...interesting hybrid crops. I'm not quite sure how they will turn out. Good luck!",

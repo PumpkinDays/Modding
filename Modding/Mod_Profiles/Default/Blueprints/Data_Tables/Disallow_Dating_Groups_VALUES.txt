@@ -25,6 +25,14 @@
 				"Min",
 				"Lonan"
 			]
+		},
+		{
+			"RowName": "Kaine_Pete",
+			"NameArray":
+			[
+				"Kaine",
+				"Pete"
+			]
 		}
 	]
 }

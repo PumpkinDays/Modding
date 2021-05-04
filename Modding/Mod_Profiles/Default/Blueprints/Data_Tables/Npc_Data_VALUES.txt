@@ -2852,8 +2852,8 @@
 			"ShopBuyAnimation": "None",
 			"Birthday": 
 			{
-				"Season": 0,
-				"Day": 0
+				"Season": 3,
+				"Day": 1
 			},
 			"DaysOff":
 			[],

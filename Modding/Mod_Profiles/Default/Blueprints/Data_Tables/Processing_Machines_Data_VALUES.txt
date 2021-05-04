@@ -4998,6 +4998,13 @@
 					"AmountConsumed2": 0,
 					"ItemProduced": "Watermelon_Candy",
 					"AmountProduced": 1
+				},
+				{
+					"Ingredient": "Blueberries",
+					"AmountConsumed": 1,
+					"AmountConsumed2": 0,
+					"ItemProduced": "Blueberry_Candy",
+					"AmountProduced": 1
 				}
 			],
 			"FriendlyName": "Candy Processor",

@@ -5090,10 +5090,10 @@
 			"SkeletalMeshAnimation": "/Game/Meshes/Bugs/Butterflies/Butterfly_Animation_Anim.Butterfly_Animation_Anim",
 			"AttackFleeStaticMesh": "None",
 			"BugReponse": 1,
-			"SpawnsDuringDay": false,
+			"SpawnsDuringDay": true,
 			"SpawnsDuringNight": false,
 			"SpawnSeasons":
-			[],
+			[ 0, 1, 2 ],
 			"SoundWhenAlert": "None",
 			"SoundWhenAttackOrFlee": "None",
 			"MovementWhenAlert": 1,
@@ -5126,7 +5126,7 @@
 			"SpawnsDuringDay": true,
 			"SpawnsDuringNight": false,
 			"SpawnSeasons":
-			[],
+			[ 0, 1, 2 ],
 			"SoundWhenAlert": "None",
 			"SoundWhenAttackOrFlee": "None",
 			"MovementWhenAlert": 1,
