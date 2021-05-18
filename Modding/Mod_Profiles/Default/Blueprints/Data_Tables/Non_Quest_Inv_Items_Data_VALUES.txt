@@ -4296,6 +4296,58 @@
 		{
 			"RowName": "Bat_Wings",
 			"IntProperty": 0
+		},
+		{
+			"RowName": "T_Shirt_Chop_It",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "T_Shirt_Wet_Plants",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "T_Shirt_Timber_Wolf",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "T_Shirt_Pot_Head",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "T_Shirt_Morning_Wood",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "T_Shirt_Master",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "T_Shirt_Fork_That",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "T_Shirt_Send_Noods",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "T_Shirt_Sauce",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "T_Shirt_Get_Baked",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "T_Shirt_Addicted_To_Pot",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "T_Shirt_Speed",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "T_Shirt_Blow_Me",
+			"IntProperty": 0
 		}
 	]
 }

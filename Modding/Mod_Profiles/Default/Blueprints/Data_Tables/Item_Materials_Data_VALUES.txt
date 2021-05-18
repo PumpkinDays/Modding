@@ -27792,6 +27792,86 @@
 			[
 				"/Game/Materials/Furniture/Basic_Set/BASIC_Blend_Basic_Round_Table_Wolf_Yang.BASIC_Blend_Basic_Round_Table_Wolf_Yang"
 			]
+		},
+		{
+			"RowName": "Harvester_Wooden",
+			"Materials":
+			[
+				"/Game/Materials/Unique/Harvest_Sickle_Wooden.Harvest_Sickle_Wooden",
+				"/Game/Materials/Unique/BASIC_Harvester-Shading.BASIC_Harvester-Shading"
+			]
+		},
+		{
+			"RowName": "Harvester_Copper",
+			"Materials":
+			[
+				"/Game/Materials/Unique/Harvester-Shading_Copper.Harvester-Shading_Copper",
+				"/Game/Materials/Unique/BASIC_Harvester-Shading.BASIC_Harvester-Shading"
+			]
+		},
+		{
+			"RowName": "Harvester_Iron",
+			"Materials":
+			[
+				"/Game/Materials/Unique/Harvester-Shading_Iron.Harvester-Shading_Iron",
+				"/Game/Materials/Unique/BASIC_Harvester-Shading.BASIC_Harvester-Shading"
+			]
+		},
+		{
+			"RowName": "Harvester_Silver",
+			"Materials":
+			[
+				"/Game/Materials/Unique/Harvester-Shading_Silver.Harvester-Shading_Silver",
+				"/Game/Materials/Unique/BASIC_Harvester-Shading.BASIC_Harvester-Shading"
+			]
+		},
+		{
+			"RowName": "Harvester_Gold",
+			"Materials":
+			[
+				"/Game/Materials/Patterns/Metal/Metal_Gold.Metal_Gold",
+				"/Game/Materials/Unique/BASIC_Harvester-Shading.BASIC_Harvester-Shading"
+			]
+		},
+		{
+			"RowName": "Harvester_Steel",
+			"Materials":
+			[
+				"/Game/Materials/Unique/Harvester-Shading_Steel.Harvester-Shading_Steel",
+				"/Game/Materials/Unique/BASIC_Harvester-Shading.BASIC_Harvester-Shading"
+			]
+		},
+		{
+			"RowName": "Harvester_Titanium",
+			"Materials":
+			[
+				"/Game/Materials/Unique/Harvester-Shading_Titanium.Harvester-Shading_Titanium",
+				"/Game/Materials/Unique/BASIC_Harvester-Shading.BASIC_Harvester-Shading"
+			]
+		},
+		{
+			"RowName": "Harvester_Uranium",
+			"Materials":
+			[
+				"/Game/Materials/Animated_Sprites/Uranium_Animated2.Uranium_Animated2",
+				"/Game/Materials/Unique/BASIC_Harvester-Shading.BASIC_Harvester-Shading"
+			]
+		},
+		{
+			"RowName": "Harvester_Diamond",
+			"Materials":
+			[
+				"/Game/Materials/Gems_Ores/Diamond_Polished.Diamond_Polished",
+				"/Game/Materials/Unique/BASIC_Harvester-Shading.BASIC_Harvester-Shading"
+			]
+		},
+		{
+			"RowName": "Harvester_Meteor",
+			"Materials":
+			[
+				"/Game/Materials/Animated_Sprites/Meteorite_Animated.Meteorite_Animated",
+				"/Game/Materials/Unique/BASIC_Harvester-Shading.BASIC_Harvester-Shading"
+			]
 		}
 	]
 }

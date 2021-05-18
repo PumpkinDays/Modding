@@ -31,55 +31,55 @@
 		{
 			"RowName": "1_Pumpkinvale",
 			"Subject": "[VT4BSH]Good Job on your Farm Quota!",
-			"Body": "[7QYC33]Thank you so much for working hard on your farming quota. I'm sending you this letter with some unique seeds you can try growing on your farm. They are from my cousin who likes to create...interesting hybrid crops. I'm not quite sure how they will turn out. Good luck!",
+			"Body": "[7QYC33]Thank you so much for working hard on your farming quota. I'm thinking you could use a tool that would make harvesting faster. So have a new harvesting sickle.",
 			"Sender": "Mayor Julian",
-			"Item": "Potarrots_Seeds",
-			"ItemAmount": 5,
+			"Item": "Harvester_Gold",
+			"ItemAmount": 1,
 			"GoldAmount": 1000
 		},
 		{
 			"RowName": "2_Pumpkinvale",
 			"Subject": "[VT4BSH]Good Job on your Farm Quota!",
-			"Body": "[CWSIVA]Thank you so much for working hard on your farming quota. Here are some new hybrid seeds my cousin sent that you can try growing on the farm. I included some extra gold as well.",
+			"Body": "[7QYC33]Thank you so much for working hard on your farming quota. I'm thinking you could use a tool that would make harvesting faster. So have a new harvesting sickle.",
 			"Sender": "Mayor Julian",
-			"Item": "Tomatelons_Seeds",
-			"ItemAmount": 5,
+			"Item": "Harvester_Steel",
+			"ItemAmount": 1,
 			"GoldAmount": 1000
 		},
 		{
 			"RowName": "3_Pumpkinvale",
 			"Subject": "[VT4BSH]Good Job on your Farm Quota!",
-			"Body": "[CWSIVA]Thank you so much for working hard on your farming quota. Here are some new hybrid seeds my cousin sent that you can try growing on the farm. I included some extra gold as well.",
+			"Body": "[7QYC33]Thank you so much for working hard on your farming quota. I'm thinking you could use a tool that would make harvesting faster. So have a new harvesting sickle.",
 			"Sender": "Mayor Julian",
-			"Item": "Jalaplant_Seeds",
-			"ItemAmount": 5,
+			"Item": "Harvester_Titanium",
+			"ItemAmount": 1,
 			"GoldAmount": 1000
 		},
 		{
 			"RowName": "4_Pumpkinvale",
 			"Subject": "[VT4BSH]Good Job on your Farm Quota!",
-			"Body": "[CWSIVA]Thank you so much for working hard on your farming quota. Here are some new hybrid seeds my cousin sent that you can try growing on the farm. I included some extra gold as well.",
+			"Body": "[7QYC33]Thank you so much for working hard on your farming quota. I'm thinking you could use a tool that would make harvesting faster. So have a new harvesting sickle.",
 			"Sender": "Mayor Julian",
-			"Item": "Spinip_Seeds",
-			"ItemAmount": 5,
+			"Item": "Harvester_Uranium",
+			"ItemAmount": 1,
 			"GoldAmount": 1000
 		},
 		{
 			"RowName": "5_Pumpkinvale",
 			"Subject": "[VT4BSH]Good Job on your Farm Quota!",
-			"Body": "[CWSIVA]Thank you so much for working hard on your farming quota. Here are some new hybrid seeds my cousin sent that you can try growing on the farm. I included some extra gold as well.",
+			"Body": "[7QYC33]Thank you so much for working hard on your farming quota. I'm thinking you could use a tool that would make harvesting faster. So have a new harvesting sickle.",
 			"Sender": "Mayor Julian",
-			"Item": "Brocados_Seeds",
-			"ItemAmount": 5,
+			"Item": "Harvester_Diamond",
+			"ItemAmount": 1,
 			"GoldAmount": 1000
 		},
 		{
 			"RowName": "6_Pumpkinvale",
 			"Subject": "[VT4BSH]Good Job on your Farm Quota!",
-			"Body": "[CWSIVA]Thank you so much for working hard on your farming quota. Here are some new hybrid seeds my cousin sent that you can try growing on the farm. I included some extra gold as well.",
+			"Body": "[7QYC33]Thank you so much for working hard on your farming quota. I'm thinking you could use a tool that would make harvesting faster. So have a new harvesting sickle.",
 			"Sender": "Mayor Julian",
-			"Item": "Zuccorn_Seeds",
-			"ItemAmount": 5,
+			"Item": "Harvester_Meteor",
+			"ItemAmount": 1,
 			"GoldAmount": 1000
 		},
 		{
@@ -191,63 +191,117 @@
 			"GoldAmount": 5000
 		},
 		{
-			"RowName": "1_Wahoo_Beach",
-			"Subject": "[H2C370]Nice Work on Your Farm Quota.",
-			"Body": "[M8G20J]Well, well. It looks like the new farmer really knows how to hustle. I'm real proud of ya. I tell ya what, how about you have these seeds here. Don't ask me where I got em' it's a secret. You probably can't use them in cooking, but maybe they'll sell for a good amount. Keep up the good work ya hear.",
-			"Sender": "Mayor Lamonte",
+			"RowName": "19_Pumpkinvale",
+			"Subject": "[VT4BSH]Good Job on your Farm Quota!",
+			"Body": "[7QYC33]Thank you so much for working hard on your farming quota. I'm sending you this letter with some unique seeds you can try growing on your farm. They are from my cousin who likes to create...interesting hybrid crops. I'm not quite sure how they will turn out. Good luck!",
+			"Sender": "Mayor Julian",
 			"Item": "Potarrots_Seeds",
 			"ItemAmount": 5,
+			"GoldAmount": 5000
+		},
+		{
+			"RowName": "20_Pumpkinvale",
+			"Subject": "[VT4BSH]Good Job on your Farm Quota!",
+			"Body": "[CWSIVA]Thank you so much for working hard on your farming quota. Here are some new hybrid seeds my cousin sent that you can try growing on the farm. I included some extra gold as well.",
+			"Sender": "Mayor Julian",
+			"Item": "Tomatelons_Seeds",
+			"ItemAmount": 5,
+			"GoldAmount": 5000
+		},
+		{
+			"RowName": "21_Pumpkinvale",
+			"Subject": "[VT4BSH]Good Job on your Farm Quota!",
+			"Body": "[CWSIVA]Thank you so much for working hard on your farming quota. Here are some new hybrid seeds my cousin sent that you can try growing on the farm. I included some extra gold as well.",
+			"Sender": "Mayor Julian",
+			"Item": "Jalaplant_Seeds",
+			"ItemAmount": 5,
+			"GoldAmount": 5000
+		},
+		{
+			"RowName": "22_Pumpkinvale",
+			"Subject": "[VT4BSH]Good Job on your Farm Quota!",
+			"Body": "[CWSIVA]Thank you so much for working hard on your farming quota. Here are some new hybrid seeds my cousin sent that you can try growing on the farm. I included some extra gold as well.",
+			"Sender": "Mayor Julian",
+			"Item": "Spinip_Seeds",
+			"ItemAmount": 5,
+			"GoldAmount": 5000
+		},
+		{
+			"RowName": "23_Pumpkinvale",
+			"Subject": "[VT4BSH]Good Job on your Farm Quota!",
+			"Body": "[CWSIVA]Thank you so much for working hard on your farming quota. Here are some new hybrid seeds my cousin sent that you can try growing on the farm. I included some extra gold as well.",
+			"Sender": "Mayor Julian",
+			"Item": "Brocados_Seeds",
+			"ItemAmount": 5,
+			"GoldAmount": 5000
+		},
+		{
+			"RowName": "24_Pumpkinvale",
+			"Subject": "[VT4BSH]Good Job on your Farm Quota!",
+			"Body": "[CWSIVA]Thank you so much for working hard on your farming quota. Here are some new hybrid seeds my cousin sent that you can try growing on the farm. I included some extra gold as well.",
+			"Sender": "Mayor Julian",
+			"Item": "Zuccorn_Seeds",
+			"ItemAmount": 5,
+			"GoldAmount": 5000
+		},
+		{
+			"RowName": "1_Wahoo_Beach",
+			"Subject": "[H2C370]Nice Work on Your Farm Quota.",
+			"Body": "[1N40EV]Looks like you finished your farm quota again. Nice work young buck! Have yourself a harvesting sickle, it'll make harvesting crops much faster.",
+			"Sender": "Mayor Lamonte",
+			"Item": "Harvester_Gold",
+			"ItemAmount": 1,
 			"GoldAmount": 500
 		},
 		{
 			"RowName": "2_Wahoo_Beach",
 			"Subject": "[H2C370]Nice Work on Your Farm Quota.",
-			"Body": "[1N40EV]Looks like you finished your farm quota again. Nice work young buck! Have some more of these here special seeds and some extra gold.",
+			"Body": "[1N40EV]Looks like you finished your farm quota again. Nice work young buck! Have yourself a harvesting sickle, it'll make harvesting crops much faster.",
 			"Sender": "Mayor Lamonte",
-			"Item": "Tomatelons_Seeds",
-			"ItemAmount": 5,
+			"Item": "Harvester_Steel",
+			"ItemAmount": 1,
 			"GoldAmount": 500
 		},
 		{
 			"RowName": "3_Wahoo_Beach",
 			"Subject": "[H2C370]Nice Work on Your Farm Quota.",
-			"Body": "[1N40EV]Looks like you finished your farm quota again. Nice work young buck! Have some more of these here special seeds and some extra gold.",
+			"Body": "[1N40EV]Looks like you finished your farm quota again. Nice work young buck! Have yourself a harvesting sickle, it'll make harvesting crops much faster.",
 			"Sender": "Mayor Lamonte",
-			"Item": "Jalaplant_Seeds",
-			"ItemAmount": 5,
+			"Item": "Harvester_Titanium",
+			"ItemAmount": 1,
 			"GoldAmount": 500
 		},
 		{
 			"RowName": "4_Wahoo_Beach",
 			"Subject": "[H2C370]Nice Work on Your Farm Quota.",
-			"Body": "[1N40EV]Looks like you finished your farm quota again. Nice work young buck! Have some more of these here special seeds and some extra gold.",
+			"Body": "[1N40EV]Looks like you finished your farm quota again. Nice work young buck! Have yourself a harvesting sickle, it'll make harvesting crops much faster.",
 			"Sender": "Mayor Lamonte",
-			"Item": "Spinip_Seeds",
-			"ItemAmount": 5,
+			"Item": "Harvester_Uranium",
+			"ItemAmount": 1,
 			"GoldAmount": 500
 		},
 		{
 			"RowName": "5_Wahoo_Beach",
 			"Subject": "[H2C370]Nice Work on Your Farm Quota.",
-			"Body": "[1N40EV]Looks like you finished your farm quota again. Nice work young buck! Have some more of these here special seeds and some extra gold.",
+			"Body": "[1N40EV]Looks like you finished your farm quota again. Nice work young buck! Have yourself a harvesting sickle, it'll make harvesting crops much faster.",
 			"Sender": "Mayor Lamonte",
-			"Item": "Brocados_Seeds",
-			"ItemAmount": 5,
+			"Item": "Harvester_Diamond",
+			"ItemAmount": 1,
 			"GoldAmount": 1000
 		},
 		{
 			"RowName": "6_Wahoo_Beach",
 			"Subject": "[H2C370]Nice Work on Your Farm Quota.",
-			"Body": "[1N40EV]Looks like you finished your farm quota again. Nice work young buck! Have some more of these here special seeds and some extra gold.",
+			"Body": "[1N40EV]Looks like you finished your farm quota again. Nice work young buck! Have yourself a harvesting sickle, it'll make harvesting crops much faster.",
 			"Sender": "Mayor Lamonte",
-			"Item": "Zuccorn_Seeds",
-			"ItemAmount": 5,
+			"Item": "Harvester_Meteor",
+			"ItemAmount": 1,
 			"GoldAmount": 1000
 		},
 		{
 			"RowName": "7_Wahoo_Beach",
 			"Subject": "[H2C370]Nice Work on Your Farm Quota.",
-			"Body": "[1N40EV]Looks like you finished your farm quota again. Nice work young buck! Have some more of these here special seeds and some extra gold.",
+			"Body": "[1N40EV]Looks like you finished your farm quota again. Nice work young buck! Have some of these here special seeds and some extra gold.",
 			"Sender": "Mayor Lamonte",
 			"Item": "Ginger_Dragon_Seeds",
 			"ItemAmount": 5,
@@ -353,57 +407,111 @@
 			"GoldAmount": 5000
 		},
 		{
-			"RowName": "1_Diamond_Falls",
+			"RowName": "19_Wahoo_Beach",
 			"Subject": "[H2C370]Nice Work on Your Farm Quota.",
-			"Body": "HAHAHA! I see you have completed the farm quota this month! NICE WORK! Here take this for your hardwork. Supposedly these hybrid seeds can grow up here in Diamond Falls. Try it out!",
-			"Sender": "Mayor Fukuyama",
+			"Body": "[M8G20J]Well, well. It looks like the new farmer really knows how to hustle. I'm real proud of ya. I tell ya what, how about you have these seeds here. Don't ask me where I got em' it's a secret. You probably can't use them in cooking, but maybe they'll sell for a good amount. Keep up the good work ya hear.",
+			"Sender": "Mayor Lamonte",
 			"Item": "Potarrots_Seeds",
 			"ItemAmount": 5,
+			"GoldAmount": 5000
+		},
+		{
+			"RowName": "20_Wahoo_Beach",
+			"Subject": "[H2C370]Nice Work on Your Farm Quota.",
+			"Body": "[1N40EV]Looks like you finished your farm quota again. Nice work young buck! Have some more of these here special seeds and some extra gold.",
+			"Sender": "Mayor Lamonte",
+			"Item": "Tomatelons_Seeds",
+			"ItemAmount": 5,
+			"GoldAmount": 5000
+		},
+		{
+			"RowName": "21_Wahoo_Beach",
+			"Subject": "[H2C370]Nice Work on Your Farm Quota.",
+			"Body": "[1N40EV]Looks like you finished your farm quota again. Nice work young buck! Have some more of these here special seeds and some extra gold.",
+			"Sender": "Mayor Lamonte",
+			"Item": "Jalaplant_Seeds",
+			"ItemAmount": 5,
+			"GoldAmount": 5000
+		},
+		{
+			"RowName": "22_Wahoo_Beach",
+			"Subject": "[H2C370]Nice Work on Your Farm Quota.",
+			"Body": "[1N40EV]Looks like you finished your farm quota again. Nice work young buck! Have some more of these here special seeds and some extra gold.",
+			"Sender": "Mayor Lamonte",
+			"Item": "Spinip_Seeds",
+			"ItemAmount": 5,
+			"GoldAmount": 5000
+		},
+		{
+			"RowName": "23_Wahoo_Beach",
+			"Subject": "[H2C370]Nice Work on Your Farm Quota.",
+			"Body": "[1N40EV]Looks like you finished your farm quota again. Nice work young buck! Have some more of these here special seeds and some extra gold.",
+			"Sender": "Mayor Lamonte",
+			"Item": "Brocados_Seeds",
+			"ItemAmount": 5,
+			"GoldAmount": 5000
+		},
+		{
+			"RowName": "24_Wahoo_Beach",
+			"Subject": "[H2C370]Nice Work on Your Farm Quota.",
+			"Body": "[1N40EV]Looks like you finished your farm quota again. Nice work young buck! Have some more of these here special seeds and some extra gold.",
+			"Sender": "Mayor Lamonte",
+			"Item": "Zuccorn_Seeds",
+			"ItemAmount": 5,
+			"GoldAmount": 5000
+		},
+		{
+			"RowName": "1_Diamond_Falls",
+			"Subject": "[H2C370]Nice Work on Your Farm Quota.",
+			"Body": "HAHAHA! I see you have completed the farm quota this month! NICE WORK! Here take this for your hardwork. You can use it to harvest multiple crops at once.",
+			"Sender": "Mayor Fukuyama",
+			"Item": "Harvester_Gold",
+			"ItemAmount": 1,
 			"GoldAmount": 500
 		},
 		{
 			"RowName": "2_Diamond_Falls",
 			"Subject": "[H2C370]Nice Work on Your Farm Quota.",
-			"Body": "HAHAHA! I see you have completed the farm quota this month! NICE WORK! Here take this for your hardwork. Supposedly these hybrid seeds can grow up here in Diamond Falls. Try it out!",
+			"Body": "HAHAHA! I see you have completed the farm quota this month! NICE WORK! Here take this for your hardwork. You can use it to harvest multiple crops at once.",
 			"Sender": "Mayor Fukuyama",
-			"Item": "Tomatelons_Seeds",
-			"ItemAmount": 5,
+			"Item": "Harvester_Steel",
+			"ItemAmount": 1,
 			"GoldAmount": 500
 		},
 		{
 			"RowName": "3_Diamond_Falls",
 			"Subject": "[H2C370]Nice Work on Your Farm Quota.",
-			"Body": "HAHAHA! I see you have completed the farm quota this month! NICE WORK! Here take this for your hardwork. Supposedly these hybrid seeds can grow up here in Diamond Falls. Try it out!",
+			"Body": "HAHAHA! I see you have completed the farm quota this month! NICE WORK! Here take this for your hardwork. You can use it to harvest multiple crops at once.",
 			"Sender": "Mayor Fukuyama",
-			"Item": "Jalaplant_Seeds",
-			"ItemAmount": 5,
+			"Item": "Harvester_Titanium",
+			"ItemAmount": 1,
 			"GoldAmount": 500
 		},
 		{
 			"RowName": "4_Diamond_Falls",
 			"Subject": "[H2C370]Nice Work on Your Farm Quota.",
-			"Body": "HAHAHA! I see you have completed the farm quota this month! NICE WORK! Here take this for your hardwork. Supposedly these hybrid seeds can grow up here in Diamond Falls. Try it out!",
+			"Body": "HAHAHA! I see you have completed the farm quota this month! NICE WORK! Here take this for your hardwork. You can use it to harvest multiple crops at once.",
 			"Sender": "Mayor Fukuyama",
-			"Item": "Spinip_Seeds",
-			"ItemAmount": 5,
+			"Item": "Harvester_Uranium",
+			"ItemAmount": 1,
 			"GoldAmount": 500
 		},
 		{
 			"RowName": "5_Diamond_Falls",
 			"Subject": "[H2C370]Nice Work on Your Farm Quota.",
-			"Body": "HAHAHA! I see you have completed the farm quota this month! NICE WORK! Here take this for your hardwork. Supposedly these hybrid seeds can grow up here in Diamond Falls. Try it out!",
+			"Body": "HAHAHA! I see you have completed the farm quota this month! NICE WORK! Here take this for your hardwork. You can use it to harvest multiple crops at once.",
 			"Sender": "Mayor Fukuyama",
-			"Item": "Brocados_Seeds",
-			"ItemAmount": 5,
+			"Item": "Harvester_Diamond",
+			"ItemAmount": 1,
 			"GoldAmount": 1000
 		},
 		{
 			"RowName": "6_Diamond_Falls",
 			"Subject": "[H2C370]Nice Work on Your Farm Quota.",
-			"Body": "HAHAHA! I see you have completed the farm quota this month! NICE WORK! Here take this for your hardwork. Supposedly these hybrid seeds can grow up here in Diamond Falls. Try it out!",
+			"Body": "HAHAHA! I see you have completed the farm quota this month! NICE WORK! Here take this for your hardwork. You can use it to harvest multiple crops at once.",
 			"Sender": "Mayor Fukuyama",
-			"Item": "Zuccorn_Seeds",
-			"ItemAmount": 5,
+			"Item": "Harvester_Meteor",
+			"ItemAmount": 1,
 			"GoldAmount": 1000
 		},
 		{
@@ -511,6 +619,60 @@
 			"Body": "HAHAHA! I see you have completed the farm quota this month! NICE WORK! Here take this for your hardwork. Supposedly these hybrid seeds can grow up here in Diamond Falls. Try it out!",
 			"Sender": "Mayor Fukuyama",
 			"Item": "Sugarnut_Seeds",
+			"ItemAmount": 5,
+			"GoldAmount": 5000
+		},
+		{
+			"RowName": "19_Diamond_Falls",
+			"Subject": "[H2C370]Nice Work on Your Farm Quota.",
+			"Body": "HAHAHA! I see you have completed the farm quota this month! NICE WORK! Here take this for your hardwork. Supposedly these hybrid seeds can grow up here in Diamond Falls. Try it out!",
+			"Sender": "Mayor Fukuyama",
+			"Item": "Potarrots_Seeds",
+			"ItemAmount": 5,
+			"GoldAmount": 5000
+		},
+		{
+			"RowName": "20_Diamond_Falls",
+			"Subject": "[H2C370]Nice Work on Your Farm Quota.",
+			"Body": "HAHAHA! I see you have completed the farm quota this month! NICE WORK! Here take this for your hardwork. Supposedly these hybrid seeds can grow up here in Diamond Falls. Try it out!",
+			"Sender": "Mayor Fukuyama",
+			"Item": "Tomatelons_Seeds",
+			"ItemAmount": 5,
+			"GoldAmount": 5000
+		},
+		{
+			"RowName": "21_Diamond_Falls",
+			"Subject": "[H2C370]Nice Work on Your Farm Quota.",
+			"Body": "HAHAHA! I see you have completed the farm quota this month! NICE WORK! Here take this for your hardwork. Supposedly these hybrid seeds can grow up here in Diamond Falls. Try it out!",
+			"Sender": "Mayor Fukuyama",
+			"Item": "Jalaplant_Seeds",
+			"ItemAmount": 5,
+			"GoldAmount": 5000
+		},
+		{
+			"RowName": "22_Diamond_Falls",
+			"Subject": "[H2C370]Nice Work on Your Farm Quota.",
+			"Body": "HAHAHA! I see you have completed the farm quota this month! NICE WORK! Here take this for your hardwork. Supposedly these hybrid seeds can grow up here in Diamond Falls. Try it out!",
+			"Sender": "Mayor Fukuyama",
+			"Item": "Spinip_Seeds",
+			"ItemAmount": 5,
+			"GoldAmount": 5000
+		},
+		{
+			"RowName": "23_Diamond_Falls",
+			"Subject": "[H2C370]Nice Work on Your Farm Quota.",
+			"Body": "HAHAHA! I see you have completed the farm quota this month! NICE WORK! Here take this for your hardwork. Supposedly these hybrid seeds can grow up here in Diamond Falls. Try it out!",
+			"Sender": "Mayor Fukuyama",
+			"Item": "Brocados_Seeds",
+			"ItemAmount": 5,
+			"GoldAmount": 5000
+		},
+		{
+			"RowName": "24_Diamond_Falls",
+			"Subject": "[H2C370]Nice Work on Your Farm Quota.",
+			"Body": "HAHAHA! I see you have completed the farm quota this month! NICE WORK! Here take this for your hardwork. Supposedly these hybrid seeds can grow up here in Diamond Falls. Try it out!",
+			"Sender": "Mayor Fukuyama",
+			"Item": "Zuccorn_Seeds",
 			"ItemAmount": 5,
 			"GoldAmount": 5000
 		}

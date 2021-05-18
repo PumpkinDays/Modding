@@ -1855,7 +1855,7 @@
 		},
 		{
 			"RowName": "Lime_Jam",
-			"StaminaReward": 0
+			"StaminaReward": 6
 		},
 		{
 			"RowName": "Lychee_Jam",

@@ -1860,7 +1860,7 @@
 			"RowName": "Glasses_Vacation_Purple",
 			"Row": "Glasses_Vacation_Purple",
 			"Thumbnail": "Texture2D'/Game/Textures/Icons/Clothes/Jewelry.Jewelry'",
-			"FriendlyName": "Teardrop earrings",
+			"FriendlyName": "Purple Vacation Glasses ",
 			"Category": "Jewelry",
 			"Slots":
 			[

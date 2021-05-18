@@ -464,6 +464,50 @@
 		{
 			"RowName": "Bug_Net_Meteor",
 			"StaminaRequirement": 0
+		},
+		{
+			"RowName": "CropHarvester_Wooden",
+			"StaminaRequirement": -10
+		},
+		{
+			"RowName": "Harvester_Wooden",
+			"StaminaRequirement": 0
+		},
+		{
+			"RowName": "Harvester_Copper",
+			"StaminaRequirement": 1
+		},
+		{
+			"RowName": "Harvester_Iron",
+			"StaminaRequirement": 2
+		},
+		{
+			"RowName": "Harvester_Silver",
+			"StaminaRequirement": 3
+		},
+		{
+			"RowName": "Harvester_Gold",
+			"StaminaRequirement": 4
+		},
+		{
+			"RowName": "Harvester_Steel",
+			"StaminaRequirement": 3
+		},
+		{
+			"RowName": "Harvester_Titanium",
+			"StaminaRequirement": 3
+		},
+		{
+			"RowName": "Harvester_Uranium",
+			"StaminaRequirement": 2
+		},
+		{
+			"RowName": "Harvester_Diamond",
+			"StaminaRequirement": 1
+		},
+		{
+			"RowName": "Harvester_Meteor",
+			"StaminaRequirement": 0
 		}
 	]
 }

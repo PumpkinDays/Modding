@@ -23,6 +23,7 @@ ToolRequired: ONE of
 	FruitPicker
 	Fertilizer
 	None
+	CropHarvester
 ToolHitMultipliers(Array): 
 	ToolTier: ONE of
 		Wooden

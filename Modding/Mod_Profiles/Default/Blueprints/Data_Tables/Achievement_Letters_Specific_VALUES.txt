@@ -201,7 +201,7 @@
 			},
 			"PumpkinvaleNpc": "Vibhat",
 			"WahooNpc": "Ikaia",
-			"DiamondFallsNpc": "Clara",
+			"DiamondFallsNpc": "Nora",
 			"HeartPoints": 100
 		},
 		{
@@ -229,7 +229,7 @@
 				"Identifier": 0
 			},
 			"PumpkinvaleNpc": "Tucker",
-			"WahooNpc": "None",
+			"WahooNpc": "Haku",
 			"DiamondFallsNpc": "James",
 			"HeartPoints": 100
 		},
@@ -259,7 +259,7 @@
 			},
 			"PumpkinvaleNpc": "Sebastian",
 			"WahooNpc": "Masika",
-			"DiamondFallsNpc": "Katherine",
+			"DiamondFallsNpc": "Natsuo",
 			"HeartPoints": 100
 		},
 		{
@@ -460,7 +460,7 @@
 				"AttachedGold": 0,
 				"Identifier": 0
 			},
-			"PumpkinvaleNpc": "None",
+			"PumpkinvaleNpc": "Tierra",
 			"WahooNpc": "Dirt",
 			"DiamondFallsNpc": "Liam",
 			"HeartPoints": 100

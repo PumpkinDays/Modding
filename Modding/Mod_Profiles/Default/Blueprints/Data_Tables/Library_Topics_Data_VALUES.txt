@@ -329,7 +329,7 @@
 		{
 			"RowName": "ToolsCopper",
 			"Title": "Copper Tools",
-			"Description": "Copper tools are a little bit better than wooden tools. They have less of a chance to break and take up less energy, but that's about it. Copper hoes and watering-cans can hoe and water 2 squares at a time.",
+			"Description": "Copper tools are a little bit better than wooden tools. They have less of a chance to break and take up less energy, but that's about it. Copper hoes, harvesting sickle and watering-cans can hoe, havest, and water 2 squares at a time.",
 			"Thumbnail": "Texture2D'/Game/Textures/Icons/Tools/Sickle_Copper.Sickle_Copper'",
 			"Background": "None",
 			"UnlockDate": 
@@ -342,7 +342,7 @@
 		{
 			"RowName": "ToolsIron",
 			"Title": "Iron Tools",
-			"Description": "Iron tools are better than copper tools as they have less of a chance of breaking. Iron hoes and watering-cans can hoe and water 4 squares at a time.",
+			"Description": "Iron tools are better than copper tools as they have less of a chance of breaking. Iron hoes, harvesting sickles, and watering-cans can hoe, harvest, and water 4 squares at a time.",
 			"Thumbnail": "Texture2D'/Game/Textures/Icons/Tools/Axe_Iron.Axe_Iron'",
 			"Background": "None",
 			"UnlockDate": 
@@ -355,7 +355,7 @@
 		{
 			"RowName": "ToolsSilver",
 			"Title": "Silver Tools",
-			"Description": "Silver tools are better than iron tools. They are a pretty sturdy tool with a lower chance of breaking. Silver hoes and watering-cans can hoe and water 6 squares at a time.",
+			"Description": "Silver tools are better than iron tools. They are a pretty sturdy tool with a lower chance of breaking. Silver hoes, harvesting sickle, and watering-cans can hoe, gather, and water 6 squares at a time.",
 			"Thumbnail": "Texture2D'/Game/Textures/Icons/Tools/WateringCan_Silver.WateringCan_Silver'",
 			"Background": "None",
 			"UnlockDate": 
@@ -368,7 +368,7 @@
 		{
 			"RowName": "ToolsGold",
 			"Title": "Gold Tools",
-			"Description": "Gold tools are much better than silver tools as they have even lower chance of breaking. Gold hoes and watering-cans can hoe and water 9 squares at a time.",
+			"Description": "Gold tools are much better than silver tools as they have even lower chance of breaking. Gold hoes, harvesting sickle, and watering-cans can hoe, gather, and water 9 squares at a time.",
 			"Thumbnail": "Texture2D'/Game/Textures/Icons/Tools/WateringCan_Gold.WateringCan_Gold'",
 			"Background": "None",
 			"UnlockDate": 
@@ -381,7 +381,7 @@
 		{
 			"RowName": "ToolsSteel",
 			"Title": "Steel Tools",
-			"Description": "Steel tools are better than gold tools. Their damage chance is very low and they are sure to last quite a bit. Steel hoes and watering-cans can hoe and water 9 squares at a time.",
+			"Description": "Steel tools are better than gold tools. Their damage chance is very low and they are sure to last quite a bit. Steel hoes, harvesting sickle, and watering-cans can hoe, harvest, and water 9 squares at a time.",
 			"Thumbnail": "Texture2D'/Game/Textures/Icons/Tools/FishingRod_Steel.FishingRod_Steel'",
 			"Background": "None",
 			"UnlockDate": 
@@ -394,7 +394,7 @@
 		{
 			"RowName": "ToolsTitanium",
 			"Title": "Titanium Tools",
-			"Description": "Titanium tools are a bit better than steel tools. They use les energy than a steel one. Titanium hoes and watering-cans can hoe and water 16 squares at a time.",
+			"Description": "Titanium tools are a bit better than steel tools. They use les energy than a steel one. Titanium hoes, gathering sickle, and watering-cans can hoe, harvest, and water 16 squares at a time.",
 			"Thumbnail": "Texture2D'/Game/Textures/Icons/Tools/Brush_Titanium.Brush_Titanium'",
 			"Background": "None",
 			"UnlockDate": 
@@ -407,7 +407,7 @@
 		{
 			"RowName": "ToolsUranium",
 			"Title": "Uranium Tools",
-			"Description": "Uranium tools are better than titanium tools. They almost never get damaged when used and they use less stamina. Uranium hoes and watering-cans can hoe and water 16 squares at a time.",
+			"Description": "Uranium tools are better than titanium tools. They almost never get damaged when used and they use less stamina. Uranium hoes, harvesting sickle, and watering-cans can hoe, harvest, and water 16 squares at a time.",
 			"Thumbnail": "Texture2D'/Game/Textures/Icons/Tools/PickAxe_Uranium.PickAxe_Uranium'",
 			"Background": "None",
 			"UnlockDate": 
@@ -420,7 +420,7 @@
 		{
 			"RowName": "ToolsDIamond",
 			"Title": "Diamond Tools",
-			"Description": "Diamond tools are better than uranium tools. They use less stamina and also are very hard to damage. Diamond hoes and watering-cans can hoe and water 25 squares at a time.",
+			"Description": "Diamond tools are better than uranium tools. They use less stamina and also are very hard to damage. Diamond hoes, harvesting sickle, and watering-cans can hoe, gather and water 25 squares at a time.",
 			"Thumbnail": "Texture2D'/Game/Textures/Icons/Tools/Shovel_Diamond.Shovel_Diamond'",
 			"Background": "None",
 			"UnlockDate": 
@@ -433,7 +433,7 @@
 		{
 			"RowName": "ToolsMeteor",
 			"Title": "Meteor Tools",
-			"Description": "Meteor tools are the strongest tools you can craft. They use no stamina and take no damage. Once you've crafted one, that's your tool for life. Meteor hoes and watering cans hoe and water 36 squares at a time.",
+			"Description": "Meteor tools are the strongest tools you can craft. They use no stamina and take no damage. Once you've crafted one, that's your tool for life. Meteor hoes, harvesting sickle, and watering cans hoe, gather and water 36 squares at a time.",
 			"Thumbnail": "Texture2D'/Game/Textures/Icons/Tools/Axe_Meteor.Axe_Meteor'",
 			"Background": "None",
 			"UnlockDate": 

@@ -1166,14 +1166,14 @@
 			]
 		},
 		{
-			"RowName": "Pumpkin_Patch_1.2.0",
+			"RowName": "Pumpkin_Patch_1.0.2",
 			"NameArray":
 			[
 				"*FIX* Fixed multiplayer quest to ship recipes."
 			]
 		},
 		{
-			"RowName": "Pumpkin_Patch_1.3.0",
+			"RowName": "Pumpkin_Patch_1.0.3",
 			"NameArray":
 			[
 				"*NEW* Added signs that say what the shop times are are.",
@@ -1181,8 +1181,19 @@
 				"*FIX* Fixed cat bringing bugs that don't exist in the game and do nothing.",
 				"*FIX* Added more food items that NPCs should like based on their liked and loved description.",
 				"*FIX* Updated recipes that use entire fish for 1 recipe to using the fillets instead. ",
-				"*NEW* Minor modding capabilities added (Please visit Pumpkin Days website for more information)",
-				"*NEW* Storage shed is craftable."
+				"*NEW* Modding capabilities added (Please visit Pumpkin Days website for more information)",
+				"*NEW* Storage shed is craftable.",
+				"*NEW* New Eyebrow types added",
+				"*FIX* Fixed jittering when picking up crops in multiplayer",
+				"*FIX* Possibly fixed clients not seeing farming quotas in 'farm as rivals' in multiplayer.",
+				"*FIX* Fixed visual bug with the dresses when trying on pants."
+			]
+		},
+		{
+			"RowName": "Pumpkin_Patch_1.0.4",
+			"NameArray":
+			[
+				"Added harvesting sickle to harvest multiple crops at once."
 			]
 		}
 	]

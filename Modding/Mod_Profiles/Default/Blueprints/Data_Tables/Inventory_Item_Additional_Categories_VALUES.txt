@@ -8077,6 +8077,53 @@
 			[
 				"Ctg_Beer_Barrel"
 			]
+		},
+		{
+			"RowName": "Tofu_Curry",
+			"NameArray":
+			[
+				"Ctg_Curry",
+				"Ctg_Vegetarian"
+			]
+		},
+		{
+			"RowName": "Seitan_Curry",
+			"NameArray":
+			[
+				"Ctg_Curry",
+				"Ctg_Vegetarian"
+			]
+		},
+		{
+			"RowName": "Roti",
+			"NameArray":
+			[
+				"Ctg_Curry"
+			]
+		},
+		{
+			"RowName": "Breadfruit_Curry",
+			"NameArray":
+			[
+				"Ctg_Curry",
+				"Ctg_Vegetarian"
+			]
+		},
+		{
+			"RowName": "Curried_Collard_Greens",
+			"NameArray":
+			[
+				"Ctg_Curry",
+				"Ctg_Vegetarian"
+			]
+		},
+		{
+			"RowName": "Coconut_Lentil_Curry",
+			"NameArray":
+			[
+				"Ctg_Curry",
+				"Ctg_Vegetarian"
+			]
 		}
 	]
 }

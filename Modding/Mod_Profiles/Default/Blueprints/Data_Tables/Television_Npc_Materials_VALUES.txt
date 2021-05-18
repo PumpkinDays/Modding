@@ -32,6 +32,14 @@
 		{
 			"RowName": "Jemma",
 			"MaterialProperty": "/Game/Materials/Animated_Sprites/Jemma_No_Recipe_Sprite.Jemma_No_Recipe_Sprite"
+		},
+		{
+			"RowName": "Clara",
+			"MaterialProperty": "/Game/Materials/Animated_Sprites/Clara_Crafting_Animated.Clara_Crafting_Animated"
+		},
+		{
+			"RowName": "Jade",
+			"MaterialProperty": "/Game/Materials/Animated_Sprites/Jade_Drinks_Animation.Jade_Drinks_Animation"
 		}
 	]
 }

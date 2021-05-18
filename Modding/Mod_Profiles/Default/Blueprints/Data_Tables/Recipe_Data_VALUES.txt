@@ -15730,6 +15730,84 @@
 			[ 4 ],
 			"Thumbnail": "Texture2D'/Game/Textures/Icons/Food/Candy/Apple_Candy.Apple_Candy'",
 			"IsUnknown": false
+		},
+		{
+			"RowName": "Clam_Linguine",
+			"FriendlyName": "Clam Linguine",
+			"ProducedItem": "Clam_Linguine",
+			"Category": "Pasta",
+			"RecipeDifficulty": 0,
+			"Ingredients":
+			[
+				{
+					"RowName": "Clam",
+					"AmountNeeded": 1
+				},
+				{
+					"RowName": "Noodles",
+					"AmountNeeded": 1
+				}
+			],
+			"RecipeSteps":
+			[ 4 ],
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Food/Fish_Recipes/Clam_Linguine.Clam_Linguine'",
+			"IsUnknown": false
+		},
+		{
+			"RowName": "Crab_Stuffed_Mushrooms",
+			"FriendlyName": "Crab Stuffed Mushrooms",
+			"ProducedItem": "Crab_Stuffed_Mushrooms",
+			"Category": "Fish Dishes",
+			"RecipeDifficulty": 0,
+			"Ingredients":
+			[
+				{
+					"RowName": "Crab_Meat",
+					"AmountNeeded": 1
+				},
+				{
+					"RowName": "Mushroom",
+					"AmountNeeded": 1
+				}
+			],
+			"RecipeSteps":
+			[ 3 ],
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Food/Fish_Recipes/Crab_Stuffed_Mushrooms.Crab_Stuffed_Mushrooms'",
+			"IsUnknown": false
+		},
+		{
+			"RowName": "Fruitcake",
+			"FriendlyName": "Fruitcake",
+			"ProducedItem": "Fruitcake",
+			"Category": "Cakes & Pies",
+			"RecipeDifficulty": 1,
+			"Ingredients":
+			[
+				{
+					"RowName": "Batter",
+					"AmountNeeded": 1
+				},
+				{
+					"RowName": "Sweet_Spices",
+					"AmountNeeded": 1
+				},
+				{
+					"RowName": "Cranberries",
+					"AmountNeeded": 1
+				},
+				{
+					"RowName": "Grapes",
+					"AmountNeeded": 1
+				},
+				{
+					"RowName": "Brandy",
+					"AmountNeeded": 1
+				}
+			],
+			"RecipeSteps":
+			[ 1, 3 ],
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Food/Festival_Food/Fruitcake.Fruitcake'",
+			"IsUnknown": false
 		}
 	]
 }

@@ -5005,6 +5005,13 @@
 					"AmountConsumed2": 0,
 					"ItemProduced": "Blueberry_Candy",
 					"AmountProduced": 1
+				},
+				{
+					"Ingredient": "Licorice",
+					"AmountConsumed": 1,
+					"AmountConsumed2": 0,
+					"ItemProduced": "Licorice_Candy",
+					"AmountProduced": 1
 				}
 			],
 			"FriendlyName": "Candy Processor",

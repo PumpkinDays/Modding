@@ -60,6 +60,7 @@ ToolType: ONE of
 	FruitPicker
 	Fertilizer
 	None
+	CropHarvester
 BuyPrice: integer
 SellPrice: integer
 ShopMesh: TAssetPtr<UStaticMesh>
