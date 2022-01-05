@@ -8093,7 +8093,7 @@
 			"AvailableInOther": true
 		},
 		{
-			"RowName": "Charlie-Dark-Red",
+			"RowName": "Charlie-Dark_Red",
 			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Hair/Charlie_Hair.Charlie_Hair'",
 			"MeshAsSkeleton": "None",
 			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Hair/Charlie_Hair_Dark_Red.Charlie_Hair_Dark_Red'",
@@ -8381,7 +8381,7 @@
 			"AvailableInOther": true
 		},
 		{
-			"RowName": "Valerie_Hair-Dark-Red",
+			"RowName": "Valerie_Hair-Dark_Red",
 			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Hair/Valerie_Hair.Valerie_Hair'",
 			"MeshAsSkeleton": "None",
 			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Hair/Valerie_Hair_Dark_Red.Valerie_Hair_Dark_Red'",
@@ -8525,7 +8525,7 @@
 			"AvailableInOther": true
 		},
 		{
-			"RowName": "Hyun_Jae_Oh2-Dark-Red",
+			"RowName": "Hyun_Jae_Oh2-Dark_Red",
 			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Hair/Hyun_Jae_Oh_2_Hair.Hyun_Jae_Oh_2_Hair'",
 			"MeshAsSkeleton": "None",
 			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Hair/Hyun_Jae_Oh_Dark_Red.Hyun_Jae_Oh_Dark_Red'",
@@ -8849,7 +8849,7 @@
 			"AvailableInOther": true
 		},
 		{
-			"RowName": "Jaime2-Dark-Blue",
+			"RowName": "Jaime2-Dark_Blue",
 			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Hair/Jaime_Hair_3.Jaime_Hair_3'",
 			"MeshAsSkeleton": "None",
 			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Hair/Jaime_Vasquez_Dark_Blue.Jaime_Vasquez_Dark_Blue'",
@@ -9920,7 +9920,7 @@
 			"AvailableInOther": true
 		},
 		{
-			"RowName": "Haku-Dark-Brown",
+			"RowName": "Haku-Dark_Brown",
 			"Mesh": "StaticMesh'/Game/Character/Body_Parts/Hair/Haku_Hair.Haku_Hair'",
 			"MeshAsSkeleton": "None",
 			"Material": "MaterialInstanceConstant'/Game/Materials/Character_Body_Parts/Hair/Haku_Hair_Dark-Brown.Haku_Hair_Dark-Brown'",

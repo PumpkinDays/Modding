@@ -8163,7 +8163,7 @@
 		},
 		{
 			"RowName": "Basic_Vanity_Brown",
-			"Class": "BlueprintGeneratedClass'/Game/Blueprints/Furniture/Generic_Decor_Furniture.Generic_Decor_Furniture_C'",
+			"Class": "BlueprintGeneratedClass'/Game/Blueprints/Furniture/Storage_Container.Storage_Container_C'",
 			"Size": "Large",
 			"ForGiftShop": false,
 			"ExtraSettings": 
@@ -8187,7 +8187,7 @@
 		},
 		{
 			"RowName": "Basic_Vanity_Dark_Brown",
-			"Class": "BlueprintGeneratedClass'/Game/Blueprints/Furniture/Generic_Decor_Furniture.Generic_Decor_Furniture_C'",
+			"Class": "BlueprintGeneratedClass'/Game/Blueprints/Furniture/Storage_Container.Storage_Container_C'",
 			"Size": "Large",
 			"ForGiftShop": false,
 			"ExtraSettings": 
@@ -8211,7 +8211,7 @@
 		},
 		{
 			"RowName": "Basic_Vanity_Orange",
-			"Class": "BlueprintGeneratedClass'/Game/Blueprints/Furniture/Generic_Decor_Furniture.Generic_Decor_Furniture_C'",
+			"Class": "BlueprintGeneratedClass'/Game/Blueprints/Furniture/Storage_Container.Storage_Container_C'",
 			"Size": "Large",
 			"ForGiftShop": false,
 			"ExtraSettings": 
@@ -8235,7 +8235,7 @@
 		},
 		{
 			"RowName": "Basic_Vanity_Rose",
-			"Class": "BlueprintGeneratedClass'/Game/Blueprints/Furniture/Generic_Decor_Furniture.Generic_Decor_Furniture_C'",
+			"Class": "BlueprintGeneratedClass'/Game/Blueprints/Furniture/Storage_Container.Storage_Container_C'",
 			"Size": "Large",
 			"ForGiftShop": false,
 			"ExtraSettings": 
@@ -8259,7 +8259,7 @@
 		},
 		{
 			"RowName": "Basic_Vanity_Smoky",
-			"Class": "BlueprintGeneratedClass'/Game/Blueprints/Furniture/Generic_Decor_Furniture.Generic_Decor_Furniture_C'",
+			"Class": "BlueprintGeneratedClass'/Game/Blueprints/Furniture/Storage_Container.Storage_Container_C'",
 			"Size": "Large",
 			"ForGiftShop": false,
 			"ExtraSettings": 

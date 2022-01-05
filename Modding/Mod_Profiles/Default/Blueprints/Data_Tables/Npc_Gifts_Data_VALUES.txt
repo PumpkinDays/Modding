@@ -289,7 +289,11 @@
 				"Peach_Jam",
 				"Peach_Juice",
 				"Blueberry_Candy",
-				"Rooibos_Tea"
+				"Rooibos_Tea",
+				"Coffee_Candy",
+				"Banana_Candy",
+				"Honey_Candy",
+				"Licorice_Candy"
 			],
 			"LovedGifts":
 			[
@@ -887,7 +891,7 @@
 				"Fruitcake",
 				"Kani_Nigiri"
 			],
-			"FavoriteGiftsStatement": "[9HS244]Any Recipe That is 'Fancy', Festival Pastries, and Any Kind Of Sushi."
+			"FavoriteGiftsStatement": "[9HS244]Any Recipe That is 'Fancy', Festival Pastries, and Expensive Sushi."
 		},
 		{
 			"RowName": "Colonel",
@@ -1044,7 +1048,11 @@
 				"Violet",
 				"Zinnia",
 				"Kangaroo_Paw",
-				"Blueberry_Candy"
+				"Blueberry_Candy",
+				"Coffee_Candy",
+				"Banana_Candy",
+				"Honey_Candy",
+				"Licorice_Candy"
 			],
 			"LovedGifts":
 			[
@@ -1830,7 +1838,11 @@
 				"Orange_Tea",
 				"Peach_Tea",
 				"White_Tea",
-				"Rooibos_Tea"
+				"Rooibos_Tea",
+				"Coffee_Candy",
+				"Banana_Candy",
+				"Honey_Candy",
+				"Licorice_Candy"
 			],
 			"LovedGifts":
 			[
@@ -6615,7 +6627,11 @@
 				"Plum_Juice",
 				"Grilled_Shrimp",
 				"Honey_Shrimp",
-				"Blueberry_Candy"
+				"Blueberry_Candy",
+				"Coffee_Candy",
+				"Banana_Candy",
+				"Honey_Candy",
+				"Licorice_Candy"
 			],
 			"LovedGifts":
 			[
@@ -7231,7 +7247,11 @@
 				"Starfruit_Candy",
 				"Strawberry_Candy",
 				"Candy_Canes",
-				"Blueberry_Candy"
+				"Blueberry_Candy",
+				"Coffee_Candy",
+				"Banana_Candy",
+				"Honey_Candy",
+				"Licorice_Candy"
 			],
 			"LovedGifts":
 			[

@@ -1171,7 +1171,6 @@
 			"RowName": "Recipes_Errands_Sushi_Hard",
 			"NameArray":
 			[
-				"Yellow_tail",
 				"Anakyu",
 				"Ebi_Nigiri",
 				"Gyu_Nigiri",

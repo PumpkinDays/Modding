@@ -1193,7 +1193,22 @@
 			"RowName": "Pumpkin_Patch_1.0.4",
 			"NameArray":
 			[
-				"Added harvesting sickle to harvest multiple crops at once."
+				"Added harvesting sickle to harvest multiple crops at once. (Only available via crafting or completing the farming quotas)",
+				"Fixed Finn Crib and Roommate cutscenes not appearing.",
+				"Fixed TV images not showing for Clara and Jade",
+				"Misc typo fixes",
+				"Fixed multiplayer marriage issues"
+			]
+		},
+		{
+			"RowName": "Pumpkin_Patch_1.0.6",
+			"NameArray":
+			[
+				"*FIX* Controller Support fixes: Character customizarions",
+				"*FIX* Controller Support fixes: Navigating main menu",
+				"*FIX* Controller Support fixes: Navigating journal",
+				"*FIX* Controller Support fixes: Adjusted walking animation",
+				"*FIX* Controller Support fixes: Fixed misc UI menus that lose focus with controller"
 			]
 		}
 	]

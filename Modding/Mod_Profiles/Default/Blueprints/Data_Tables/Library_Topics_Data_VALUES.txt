@@ -1070,7 +1070,7 @@
 		{
 			"RowName": "CraftingTools",
 			"Title": "Crafting Tools",
-			"Description": "Tools have a tendency to break over time so it may be worth investing in an anvil to craft new tools. You can also make tools that aren't found in the local blacksmith",
+			"Description": "Tools have a tendency to break over time so it may be worth investing in an anvil to craft new tools. You can also make tools that aren't found in the local blacksmith like harvesting sickles.",
 			"Thumbnail": "Texture2D'/Game/Textures/Icons/Tools/Axe_Copper.Axe_Copper'",
 			"Background": "None",
 			"UnlockDate": 

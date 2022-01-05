@@ -5012,6 +5012,34 @@
 					"AmountConsumed2": 0,
 					"ItemProduced": "Licorice_Candy",
 					"AmountProduced": 1
+				},
+				{
+					"Ingredient": "Bananas",
+					"AmountConsumed": 1,
+					"AmountConsumed2": 0,
+					"ItemProduced": "Banana_Candy",
+					"AmountProduced": 1
+				},
+				{
+					"Ingredient": "Honey",
+					"AmountConsumed": 1,
+					"AmountConsumed2": 0,
+					"ItemProduced": "Honey_Candy",
+					"AmountProduced": 1
+				},
+				{
+					"Ingredient": "Ground_Coffee",
+					"AmountConsumed": 1,
+					"AmountConsumed2": 0,
+					"ItemProduced": "Coffee_Candy",
+					"AmountProduced": 1
+				},
+				{
+					"Ingredient": "Truffles",
+					"AmountConsumed": 1,
+					"AmountConsumed2": 0,
+					"ItemProduced": "Truffle_Chocolates",
+					"AmountProduced": 1
 				}
 			],
 			"FriendlyName": "Candy Processor",

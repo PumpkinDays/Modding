@@ -467,46 +467,42 @@
 		},
 		{
 			"RowName": "CropHarvester_Wooden",
-			"StaminaRequirement": -10
-		},
-		{
-			"RowName": "Harvester_Wooden",
-			"StaminaRequirement": 0
-		},
-		{
-			"RowName": "Harvester_Copper",
 			"StaminaRequirement": 1
 		},
 		{
-			"RowName": "Harvester_Iron",
+			"RowName": "CropHarvester_Copper",
+			"StaminaRequirement": 1
+		},
+		{
+			"RowName": "CropHarvester_Iron",
 			"StaminaRequirement": 2
 		},
 		{
-			"RowName": "Harvester_Silver",
+			"RowName": "CropHarvester_Silver",
 			"StaminaRequirement": 3
 		},
 		{
-			"RowName": "Harvester_Gold",
+			"RowName": "CropHarvester_Gold",
 			"StaminaRequirement": 4
 		},
 		{
-			"RowName": "Harvester_Steel",
+			"RowName": "CropHarvester_Steel",
 			"StaminaRequirement": 3
 		},
 		{
-			"RowName": "Harvester_Titanium",
+			"RowName": "CropHarvester_Titanium",
 			"StaminaRequirement": 3
 		},
 		{
-			"RowName": "Harvester_Uranium",
+			"RowName": "CropHarvester_Uranium",
 			"StaminaRequirement": 2
 		},
 		{
-			"RowName": "Harvester_Diamond",
+			"RowName": "CropHarvester_Diamond",
 			"StaminaRequirement": 1
 		},
 		{
-			"RowName": "Harvester_Meteor",
+			"RowName": "CropHarvester_Meteor",
 			"StaminaRequirement": 0
 		}
 	]

@@ -4348,6 +4348,14 @@
 		{
 			"RowName": "T_Shirt_Blow_Me",
 			"IntProperty": 0
+		},
+		{
+			"RowName": "Angel_Wings",
+			"IntProperty": 0
+		},
+		{
+			"RowName": "Tadpole",
+			"IntProperty": 0
 		}
 	]
 }

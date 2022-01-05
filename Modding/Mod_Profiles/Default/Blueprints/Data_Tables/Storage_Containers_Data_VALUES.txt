@@ -486,6 +486,36 @@
 			"StorageSpace": 150,
 			"StoragePopupTitleOverride": "Helper Storage",
 			"StorageNameTagRadius": 225
+		},
+		{
+			"RowName": "Basic_Vanity_Brown",
+			"StorageSpace": 16,
+			"StoragePopupTitleOverride": "Vanity",
+			"StorageNameTagRadius": 225
+		},
+		{
+			"RowName": "Basic_Vanity_Dark_Brown",
+			"StorageSpace": 16,
+			"StoragePopupTitleOverride": "Vanity",
+			"StorageNameTagRadius": 225
+		},
+		{
+			"RowName": "Basic_Vanity_Orange",
+			"StorageSpace": 16,
+			"StoragePopupTitleOverride": "Vanity",
+			"StorageNameTagRadius": 225
+		},
+		{
+			"RowName": "Basic_Vanity_Rose",
+			"StorageSpace": 16,
+			"StoragePopupTitleOverride": "Vanity",
+			"StorageNameTagRadius": 225
+		},
+		{
+			"RowName": "Basic_Vanity_Smoky",
+			"StorageSpace": 16,
+			"StoragePopupTitleOverride": "Vanity",
+			"StorageNameTagRadius": 225
 		}
 	]
 }

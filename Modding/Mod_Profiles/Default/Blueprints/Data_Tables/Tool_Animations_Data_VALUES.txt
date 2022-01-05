@@ -272,53 +272,58 @@
 			"UnableAnimation": "None"
 		},
 		{
-			"RowName": "Harvester_Wooden",
-			"Animation": "AnimSequence'/Game/Character/Animations/Angry.Angry'",
+			"RowName": "CropHarvester_Wooden",
+			"Animation": "AnimSequence'/Game/Character/Animations/Harvesting_Sickle_Anim.Harvesting_Sickle_Anim'",
 			"UnableAnimation": "AnimSequence'/Game/Character/Animations/Disagree.Disagree'"
 		},
 		{
-			"RowName": "Harvester_Copper",
-			"Animation": "AnimSequence'/Game/Character/Animations/Angry.Angry'",
+			"RowName": "CropHarvester_Copper",
+			"Animation": "AnimSequence'/Game/Character/Animations/Harvesting_Sickle_Anim.Harvesting_Sickle_Anim'",
 			"UnableAnimation": "AnimSequence'/Game/Character/Animations/Disagree.Disagree'"
 		},
 		{
-			"RowName": "Harvester_Iron",
-			"Animation": "AnimSequence'/Game/Character/Animations/Angry.Angry'",
+			"RowName": "CropHarvester_Iron",
+			"Animation": "AnimSequence'/Game/Character/Animations/Harvesting_Sickle_Anim.Harvesting_Sickle_Anim'",
 			"UnableAnimation": "AnimSequence'/Game/Character/Animations/Disagree.Disagree'"
 		},
 		{
-			"RowName": "Harvester_Silver",
-			"Animation": "AnimSequence'/Game/Character/Animations/Angry.Angry'",
+			"RowName": "CropHarvester_Silver",
+			"Animation": "AnimSequence'/Game/Character/Animations/Harvesting_Sickle_Anim.Harvesting_Sickle_Anim'",
 			"UnableAnimation": "AnimSequence'/Game/Character/Animations/Disagree.Disagree'"
 		},
 		{
-			"RowName": "Harvester_Gold",
-			"Animation": "AnimSequence'/Game/Character/Animations/Angry.Angry'",
+			"RowName": "CropHarvester_Gold",
+			"Animation": "AnimSequence'/Game/Character/Animations/Harvesting_Sickle_Anim.Harvesting_Sickle_Anim'",
 			"UnableAnimation": "AnimSequence'/Game/Character/Animations/Disagree.Disagree'"
 		},
 		{
-			"RowName": "Harvester_Steel",
-			"Animation": "AnimSequence'/Game/Character/Animations/Angry.Angry'",
+			"RowName": "CropHarvester_Steel",
+			"Animation": "AnimSequence'/Game/Character/Animations/Harvesting_Sickle_Anim.Harvesting_Sickle_Anim'",
 			"UnableAnimation": "AnimSequence'/Game/Character/Animations/Disagree.Disagree'"
 		},
 		{
-			"RowName": "Harvester_Titanium",
-			"Animation": "AnimSequence'/Game/Character/Animations/Angry.Angry'",
+			"RowName": "CropHarvester_Titanium",
+			"Animation": "AnimSequence'/Game/Character/Animations/Harvesting_Sickle_Anim.Harvesting_Sickle_Anim'",
 			"UnableAnimation": "AnimSequence'/Game/Character/Animations/Disagree.Disagree'"
 		},
 		{
-			"RowName": "Harvester_Uranium",
-			"Animation": "AnimSequence'/Game/Character/Animations/Angry.Angry'",
+			"RowName": "CropHarvester_Uranium",
+			"Animation": "AnimSequence'/Game/Character/Animations/Harvesting_Sickle_Anim.Harvesting_Sickle_Anim'",
 			"UnableAnimation": "AnimSequence'/Game/Character/Animations/Disagree.Disagree'"
 		},
 		{
-			"RowName": "Harvester_Diamond",
-			"Animation": "AnimSequence'/Game/Character/Animations/Angry.Angry'",
+			"RowName": "CropHarvester_Diamond",
+			"Animation": "AnimSequence'/Game/Character/Animations/Harvesting_Sickle_Anim.Harvesting_Sickle_Anim'",
 			"UnableAnimation": "AnimSequence'/Game/Character/Animations/Disagree.Disagree'"
 		},
 		{
-			"RowName": "Harvester_Meteor",
-			"Animation": "AnimSequence'/Game/Character/Animations/Angry.Angry'",
+			"RowName": "CropHarvester_Meteor",
+			"Animation": "AnimSequence'/Game/Character/Animations/Harvesting_Sickle_Anim.Harvesting_Sickle_Anim'",
+			"UnableAnimation": "AnimSequence'/Game/Character/Animations/Disagree.Disagree'"
+		},
+		{
+			"RowName": "CropHarvester",
+			"Animation": "AnimSequence'/Game/Character/Animations/Harvesting_Sickle_Anim.Harvesting_Sickle_Anim'",
 			"UnableAnimation": "AnimSequence'/Game/Character/Animations/Disagree.Disagree'"
 		}
 	]

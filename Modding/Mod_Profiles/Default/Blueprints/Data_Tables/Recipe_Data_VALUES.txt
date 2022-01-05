@@ -15684,7 +15684,7 @@
 			],
 			"RecipeSteps":
 			[ 4 ],
-			"Thumbnail": "Texture2D'/Game/Textures/Icons/Food/Candy/Apple_Candy.Apple_Candy'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Food/Candy/Banana_Candy.Banana_Candy'",
 			"IsUnknown": false
 		},
 		{
@@ -15706,7 +15706,7 @@
 			],
 			"RecipeSteps":
 			[ 4 ],
-			"Thumbnail": "Texture2D'/Game/Textures/Icons/Food/Candy/Apple_Candy.Apple_Candy'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Food/Candy/Coffee_Candy.Coffee_Candy'",
 			"IsUnknown": false
 		},
 		{
@@ -15728,7 +15728,7 @@
 			],
 			"RecipeSteps":
 			[ 4 ],
-			"Thumbnail": "Texture2D'/Game/Textures/Icons/Food/Candy/Apple_Candy.Apple_Candy'",
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Food/Candy/Honey_Candy.Honey_Candy'",
 			"IsUnknown": false
 		},
 		{
@@ -15807,6 +15807,40 @@
 			"RecipeSteps":
 			[ 1, 3 ],
 			"Thumbnail": "Texture2D'/Game/Textures/Icons/Food/Festival_Food/Fruitcake.Fruitcake'",
+			"IsUnknown": false
+		},
+		{
+			"RowName": "Salsa_Chicken",
+			"FriendlyName": "Salsa Chicken",
+			"ProducedItem": "Salsa_Chicken",
+			"Category": "Meat Dishes",
+			"RecipeDifficulty": 1,
+			"Ingredients":
+			[
+				{
+					"RowName": "Tomato",
+					"AmountNeeded": 1
+				},
+				{
+					"RowName": "Chicken_Meat",
+					"AmountNeeded": 1
+				},
+				{
+					"RowName": "Jalapeno",
+					"AmountNeeded": 1
+				},
+				{
+					"RowName": "Onion",
+					"AmountNeeded": 1
+				},
+				{
+					"RowName": "Cheese",
+					"AmountNeeded": 1
+				}
+			],
+			"RecipeSteps":
+			[ 0, 3 ],
+			"Thumbnail": "Texture2D'/Game/Textures/Icons/Food/Chicken_Recipes/Salsa_Chicken.Salsa_Chicken'",
 			"IsUnknown": false
 		}
 	]
