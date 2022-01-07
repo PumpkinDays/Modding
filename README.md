@@ -29,7 +29,9 @@ Pumpkin Days mods work by modifying the game's data tables. A data table stores 
 
 Modifications to data tables are made with JSON files that specify which properties to change in each row. Let's change the ```StaminaReward``` property in the ```Apple``` row so that apples give more stamina when eaten. 
 
-First, create a JSON file with the data table's name in the appropriate location. To determine where the JSON file needs to be placed, locate the schema and value files for that data table. For ```Consumable_Stamina_Data```, the JSON file will need to be placed in ```Modding/Mod_Profiles/<ProfileName>/Blueprints/Data_Tables```. Now that you've created a file named ```Consumable_Stamina_Data.json``` and placed it in the correct folder, we can edit the values. 
+First, create a JSON file by simply changing the file extension from ```.txt``` to ```.json```. You also need to remove the ```_VALUES``` from the data table's name and place it in the appropriate folder. To determine where the JSON file needs to be placed, locate the schema and value files for that data table. For ```Consumable_Stamina_Data```, the JSON file will need to be placed in ```Modding/Mod_Profiles/<ProfileName>/Blueprints/Data_Tables```. 
+
+Example: ```Consumable_Stamina_Data_VALUES.txt``` becomes ```Consumable_Stamina_Data.json``` and after its placed it in the correct folder, we can edit the values in our new json file. 
 
 Every JSON file is required to have a ```Rows``` array, which is an array of row objects. Each row object needs a ```RowName``` string that specifies which row is being modified, and any other values in that row that you wish to change.  This JSON can be used as a base template:
 ```json
